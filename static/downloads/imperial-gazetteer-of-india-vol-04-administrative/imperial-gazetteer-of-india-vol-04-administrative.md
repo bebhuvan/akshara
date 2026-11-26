@@ -8,31 +8,7 @@
 
 <!-- page: 8 | folio: 8 -->
 
-![THE INDIAN EMPIRE](../figures/fig-001_p0008.webp)
-
-<span class="sc">PREPARED FOR</span>
-
-<span class="sc">THE IMPERIAL GAZETTEER OF INDIA</span>
-
-<span class="sc">BY J. G. BARTHOLOMEW, F.R.G.S.</span>
-
-Scale 1 : 10,000,000 or 157 Miles to an Inch
-
-British India *coloured* .................................... RED
-
-Territories permanently administered
-by the Government of India ......... PINK
-
-Native States, and Territories ......... <span class="sc">(YELLOW</span>
-(OR GREEN
-
-Railways *shewn thus* .......................................
-
-The figures indicate heights in feet
-
-<span class="sc">The Edinburgh Geographical Institute</span>
-
-<span class="sc">John Bartholomew & Co.</span>
+![THE INDIAN EMPIRE — PREPARED FOR — THE IMPERIAL GAZETTEER OF INDIA — BY J. G. BARTHOLOMEW, F.R.G.S. — Scale 1 : 10,000,000 or 157 Miles to an Inch — British India coloured .................................... RED — Territories permanently administered by the Government of India ......... PINK — Native States, and Territories ......... (YELLOW (OR GREEN — Railways shewn thus ....................................... — The figures indicate heights in feet — The Edinburgh Geographical Institute — John Bartholomew & Co.](../figures/fig-001_p0008.webp)
 
 
 <!-- page: 9 | folio: i -->
@@ -167,10 +143,10 @@ The name of the unit for square measurement in India generally is the *bīgha*, 
 - Currency and Banking . . . . . 513–526
 - <span class="sc">Index</span> . . . . . . . 527–552
 
-#### CHAPTER I
+### CHAPTER I
 
 
-##### THE GOVERNMENT OF INDIA
+#### THE GOVERNMENT OF INDIA
 
 - The Hindu system of government as described in the code
 of Manu . . . . . . . 1
@@ -1322,7 +1298,7 @@ All the Local Governments alike are under the superintendence and control of the
 
 > _[Margin: Madras and Bom bay.]_
 
-The two Provinces of Madras and Bombay occupy a superior position, as representing the old Presidencies[^sec-05-fn-017] of the same name, which were once altogether independent of Bengal. The civil administration of each is vested in a Governor-inCouncil, [p. 31] whose powers and duties are regulated by Act of Parliament. The Governor is appointed by the Crown, being usually a person of rank and experience in England. The Council consists of two members, likewise appointed by the Crown, who must have served for at least twelve years in India, and who always belong to the Indian Civil Service. In Bombay one member is usually, but not of necessity, chosen from the judicial branch of the service. The Governor possesses the same power as the Governor-General to overrule his Council in cases of emergency, and the distribution of business follows the same general plan as in the Council of the Governor-General. So long as separate Presidency armies were maintained, the Commanders-in-Chief at Madras and Bombay were also members of Council. But on the amalgamation of the Indian army in 1895, consequent on a statute passed two years earlier, this adjunct of the Councils disappeared, and the Governors-in-Council lost the direct functions of military government which they had before enjoyed. They still retain the right of communicating direct with the Secretary of State. Another privilege of the Governors is that they are extraordinary members of the Governor-General's Council, if meetings of that Council should happen to be held within their Presidency. Like the Governor-General, they are addressed as Your Excellency, and they are escorted by a body-guard. The maximum salaries, as fixed by Act of Parliament, are Rs. 1,20,000 for a Governor, and Rs. 64,000 for a member of Council.
+The two Provinces of Madras and Bombay occupy a superior position, as representing the old Presidencies[^sec-05-fn-017] of the same name, which were once altogether independent of Bengal. The civil administration of each is vested in a Governor-in-Council, [p. 31] whose powers and duties are regulated by Act of Parliament. The Governor is appointed by the Crown, being usually a person of rank and experience in England. The Council consists of two members, likewise appointed by the Crown, who must have served for at least twelve years in India, and who always belong to the Indian Civil Service. In Bombay one member is usually, but not of necessity, chosen from the judicial branch of the service. The Governor possesses the same power as the Governor-General to overrule his Council in cases of emergency, and the distribution of business follows the same general plan as in the Council of the Governor-General. So long as separate Presidency armies were maintained, the Commanders-in-Chief at Madras and Bombay were also members of Council. But on the amalgamation of the Indian army in 1895, consequent on a statute passed two years earlier, this adjunct of the Councils disappeared, and the Governors-in-Council lost the direct functions of military government which they had before enjoyed. They still retain the right of communicating direct with the Secretary of State. Another privilege of the Governors is that they are extraordinary members of the Governor-General's Council, if meetings of that Council should happen to be held within their Presidency. Like the Governor-General, they are addressed as Your Excellency, and they are escorted by a body-guard. The maximum salaries, as fixed by Act of Parliament, are Rs. 1,20,000 for a Governor, and Rs. 64,000 for a member of Council.
 
 > _[Margin: Lieutenant-Governorships.]_
 
@@ -1584,9 +1560,9 @@ India, lying within the limits thus defined, consists of two parts, British Indi
 
 The position of the territorial chief, or ruling authority, is of less importance. The status of the territory and not that of its ruler is the essential point. The generally accepted view is [p. 61] that sovereignty is divisible, and that its attributes, such as the right to make war or peace, the right of foreign negotiation, the right to legislate, the right to administer civil and criminal justice, and so forth, are capable of division. The sovereign who enjoys all these rights is alone independent, and in India the accepted suzerainty of the British Crown involves a partition of the aggregate of such powers between the suzerain and the prince. Accordingly no ruler of a Native State can be described as 'independent.'
 
-Information in respect of the area, population, revenue, and other details regarding Native States will be found in the Appendix. The statistics there given invite some remarks. The area outside direct British dominion is enormous (more than 824,000 square miles), but the population (68,000,000) is vastly inferior to that of British India, and has moreover suffered diminution in the last decade. The arid tracts of Rājputāna and Baluchistān, the States embedded in the mountainous tracts of Northern and North-Western India, and many of the small principalities in the forests and hills of Central India and the ranges of the Ghāts account in some measure for this difference. The relegation of so many States to inhospitable and unproductive regions was the natural consequence of the pressure of invasion and conquest, as each successful invader drove back those who opposed or fled before him into tracts which were sufficient to support existence and yet not rich enough to afford plunder. At the same time also some of the fairest portions of Indian territory lie within the Native States. Mysore possesses a fertile soil and valuable mineral ores. Hyderābād is considerable in area and rich in iron and coal-fields. Baroda is the garden of Gujarāt. Kashmīr is one of the most favoured countries in the world as regards scenery, climate, and natural capabilities. The territories not under British dominion are thus often valuable, and their geographical position frequently lends them importance.
-
 > _[Margin: Striking differences as regards situation and distribution of Native States.]_
+
+Information in respect of the area, population, revenue, and other details regarding Native States will be found in the Appendix. The statistics there given invite some remarks. The area outside direct British dominion is enormous (more than 824,000 square miles), but the population (68,000,000) is vastly inferior to that of British India, and has moreover suffered diminution in the last decade. The arid tracts of Rājputāna and Baluchistān, the States embedded in the mountainous tracts of Northern and North-Western India, and many of the small principalities in the forests and hills of Central India and the ranges of the Ghāts account in some measure for this difference. The relegation of so many States to inhospitable and unproductive regions was the natural consequence of the pressure of invasion and conquest, as each successful invader drove back those who opposed or fled before him into tracts which were sufficient to support existence and yet not rich enough to afford plunder. At the same time also some of the fairest portions of Indian territory lie within the Native States. Mysore possesses a fertile soil and valuable mineral ores. Hyderābād is considerable in area and rich in iron and coal-fields. Baroda is the garden of Gujarāt. Kashmīr is one of the most favoured countries in the world as regards scenery, climate, and natural capabilities. The territories not under British dominion are thus often valuable, and their geographical position frequently lends them importance.
 
 If the collective extent of the Native States strikes the eye, the multiplicity of separate sovereignties is even more noticeable. Many of them are very small, some of the chiefs exercising authority over only a few villages. Thus in Rājputāna the area of Lāwa is but 19 square miles; Central India, especially in Baghelkhand and Bundelkhand, contains several very petty territories; the Simla Hill States are little more than small holdings; and the same feature is to be seen in the Kāthiāwār and Gujarāt groups of Bombay. Equally remarkable is the irregular geographical distribution of the principalities.
 
@@ -3275,8 +3251,10 @@ R. C. Dutt.—*Open Letters to Lord Curzon on Famines and Land Assessments in In
 [^sec-11-fn-024]: (†) Omitting Bengal.
 [^sec-11-fn-025]: (‡) Omitting Oudh.
 [^sec-11-fn-026]: (‖) Omitting Orissa.
-[^sec-11-fn-027]: (1) The above calculation presumes that wheat sold in Akbar’s time for 3⅓ Akbari maunds or 1⅔ modern standard maunds to the rupee, and now sells for ·4 maunds to the rupee—see Prinsep’s *Useful Tables*, i. 77; *Ain-i-* [p. 239] *Akbarī* (Blochmann), i. 62. Figures are unfortunately not available for a proper comparison of the cultivated area in the same Provinces at the two periods under consideration, but there can be no reasonable doubt that cultivation has increased considerably since <span class="sc">a.d.</span> 1594.
+[^sec-11-fn-027]: (1) The above calculation presumes that wheat sold in Akbar’s time for 3⅓ Akbari maunds or 1⅔ modern standard maunds to the rupee, and now sells for ·4 maunds to the rupee—see Prinsep’s *Useful Tables*, i. 77; *Ain-i-*
 [^sec-11-fn-028]: (*) That is, after excluding the area which is held free of revenue or at privileged rates, under the arrangements described on p. 227 above.
+
+    *Akbarī* (Blochmann), i. 62. Figures are unfortunately not available for a proper comparison of the cultivated area in the same Provinces at the two periods under consideration, but there can be no reasonable doubt that cultivation has increased considerably since <span class="sc">a.d.</span> 1594.
 
 
 ## CHAPTER VIII — Miscellaneous Revenue
@@ -3575,7 +3553,7 @@ At the present time a general cess on the annual value of land is levied through
 
 > _[Margin: Their administration.]_
 
-In Madras, Bombay, and Assam the whole net collections are administered by local boards. In Bengal the road cess is credited to the District boards and the public works cess to general revenues, but under recent orders of the Local Government a portion of the latter is also granted to the local boards. In the Province of Agra a portion of the proceeds of the rate is devoted to the maintenance of the village watch, which in other parts is a charge upon special contributions assessed and collected apart from the general cess. In the Punjab fourfifths [p. 273] of the cess are assigned to the local boards, and the Local Government may reserve one-fifth for any of the purposes of the District Boards Act. In the Central Provinces the general rate introduced in 1878 (one per cent. on the rental) is administered by the Chief Commissioner, and the roads and school cesses are made over to the local boards.
+In Madras, Bombay, and Assam the whole net collections are administered by local boards. In Bengal the road cess is credited to the District boards and the public works cess to general revenues, but under recent orders of the Local Government a portion of the latter is also granted to the local boards. In the Province of Agra a portion of the proceeds of the rate is devoted to the maintenance of the village watch, which in other parts is a charge upon special contributions assessed and collected apart from the general cess. In the Punjab four-fifths [p. 273] of the cess are assigned to the local boards, and the Local Government may reserve one-fifth for any of the purposes of the District Boards Act. In the Central Provinces the general rate introduced in 1878 (one per cent. on the rental) is administered by the Chief Commissioner, and the roads and school cesses are made over to the local boards.
 
 > _[Margin: Village servants' cesses.]_
 
@@ -3641,7 +3619,7 @@ Annual Reports of the Provincial Excise departments, of the Bengal and Bombay Op
 
 <!-- page: 314 | folio: 276 -->
 
-**(*In lakhs of rupees*)**
+**TABLE III. <span class="sc">Excise</span> — (*In lakhs of rupees*)**
 | Item | 1860-1. | 1870-1. | 1880-1. | 1890-1. | 1900-1. | 1902-3. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Intoxicating liquors . | 91 | 1,56 | 2,12 | 3,49 | 4,27 | 4,86 |
@@ -3653,7 +3631,7 @@ Annual Reports of the Provincial Excise departments, of the Bengal and Bombay Op
 | Net revenue | 1,12 | 2,04 | 3,09 | 4,74 | 5,60 | 6,29 |
 
 
-**(*In lakhs of rupees*)**
+**TABLE IV. <span class="sc">Customs</span> — (*In lakhs of rupees*)**
 | Item | 1892-3. | 1894-5. | 1897-8. | 1900-1. | 1902-3. |
 | --- | --- | --- | --- | --- | --- |
 | <span class="sc">Special Import Duties</span>. |  |  |  |  |  |
@@ -5697,18 +5675,7 @@ With a view to determining as accurately as possible the latitudes, longitudes, 
 
 > _[Margin: Tidal and levelling operations.]_
 
-In 1856 Sir A. Waugh instituted a series of spirit-levelling operations with a view to determining the heights of the terminal stations of the interior base-lines directly from sea-level. These, as well as the heights of the stations of the principal triangulation, had been measured by vertical observations with the large theodolite, and had been referred to Lambton’s datum, the sea-level at Madras, but owing to the length of the chains of triangles a check was necessary. The earliest spirit-levelling work, about 1860, was the connexion of the Attock, Dehra Dūn, and Sironj (Central India) base-lines with the sea-level at Karāchi[^sec-19-fn-003]. Since then lines of levels have
-
-
-| Col 1 | Col 2 |
-| --- | --- |
-| At Attock | 3 ft. 2 inches. |
-| „ Dehra | 5 ft. 1 inch. |
-| „ Sironj | 2 ft. 1 inch. |
-
-
-<!-- page: 528 | folio: 490 -->
-been carried along the principal railways and roads over the greater portion of the peninsula, and are still in progress, affording a vast number of accurately determined heights which are of the greatest value to canal, road, and railway engineers. Levelling work has of late years been combined with tidal operations. Tidal observations had previously been taken at Kidderpore dockyard (Calcutta) from 1806 to 1827, in Bombay harbour from 1832, and at Karāchi from 1857 until 1865 ; but the first systematic record of their results dates from 1874. Such work, while enabling a datum level to be fixed for survey purposes and aiding navigation, is also of great scientific interest. The results of the Indian observations were largely used by Professor Darwin in his numerical estimate of the rigidity of the earth. The tidal stations extend completely around the coasts of Burma and India and up to the Red Sea[^sec-19-fn-004].
+In 1856 Sir A. Waugh instituted a series of spirit-levelling operations with a view to determining the heights of the terminal stations of the interior base-lines directly from sea-level. These, as well as the heights of the stations of the principal triangulation, had been measured by vertical observations with the large theodolite, and had been referred to Lambton’s datum, the sea-level at Madras, but owing to the length of the chains of triangles a check was necessary. The earliest spirit-levelling work, about 1860, was the connexion of the Attock, Dehra Dūn, and Sironj (Central India) base-lines with the sea-level at Karāchi[^sec-19-fn-003]. Since then lines of levels have [p. 490] been carried along the principal railways and roads over the greater portion of the peninsula, and are still in progress, affording a vast number of accurately determined heights which are of the greatest value to canal, road, and railway engineers. Levelling work has of late years been combined with tidal operations. Tidal observations had previously been taken at Kidderpore dockyard (Calcutta) from 1806 to 1827, in Bombay harbour from 1832, and at Karāchi from 1857 until 1865 ; but the first systematic record of their results dates from 1874. Such work, while enabling a datum level to be fixed for survey purposes and aiding navigation, is also of great scientific interest. The results of the Indian observations were largely used by Professor Darwin in his numerical estimate of the rigidity of the earth. The tidal stations extend completely around the coasts of Burma and India and up to the Red Sea[^sec-19-fn-004].
 
 > _[Margin: The Magnetic Survey.]_
 
@@ -5895,7 +5862,15 @@ The following paragraphs, supplied by Major Alcock, I.M.S., give a brief summary
 
 [^sec-19-fn-001]: (1) Marine surveys are treated in an Appendix to this chapter.
 [^sec-19-fn-002]: (1) Up to the year 1840 the Madras Observatory was adopted as the datum to which the latitudes and longitudes of all stations of triangulation were referred.
-[^sec-19-fn-003]: (1) The discrepancies between the heights, as determined by spirit-levelling and trigonometrically, were :— In the line which connects Karāchi with False Point, the error is under 9 inches per 1,000 miles.
+[^sec-19-fn-003]: (1) The discrepancies between the heights, as determined by spirit-levelling and trigonometrically, were :—
+
+    | Col 1 | Col 2 |
+    | --- | --- |
+    | At Attock | 3 ft. 2 inches. |
+    | „ Dehra | 5 ft. 1 inch. |
+    | „ Sironj | 2 ft. 1 inch. |
+
+    In the line which connects Karāchi with False Point, the error is under 9 inches per 1,000 miles.
 [^sec-19-fn-004]: (1) Full details regarding the tidal observations, with descriptions of the tide gauges, are to be found in vol. xvi of the *Account of the Operations of the Great Trigonometrical Survey of India*.
 [^sec-19-fn-005]: (1) *Report, United States Coast Survey for 1865.*
 [^sec-19-fn-006]: (1) The Survey of India, like other departments, is now divided into an Imperial and a Provincial branch. The former is as a rule recruited from the Royal Engineers or the Indian Army; the latter consists of men enlisted in India, to whom some of the higher posts of the department are open. There is also a Subordinate, and practically native, branch.
@@ -5977,7 +5952,7 @@ We are here concerned only with the measures which are of a financial character.
 <!-- page: 562 | folio: 524 -->
 > _[Margin: Post Office savings-banks.]_
 
-Another class of institutions for the encouragement of thrift are the Post Office savings-banks. These banks were not started specially for the benefit of agriculturists, and are more extensively patronized by other classes of the community, such as Government clerks and other persons with fixed incomes. Until 1882-3 the savings-bank business was carried on in the three cities of Calcutta, Madras, and Bombay by the Presidency banks, and elsewhere at the Government treasuries. As long as this system was maintained the business grew but slowly. The establishment of savings-banks in the post offices was followed by a rapid change, and the number of depositors and the total of the deposits have largely increased, although the facilities afforded have as yet attracted only an inappreciable proportion of the population—1 in 286 as compared with 1 in 4½ in the United Kingdom. The number of depositors on March 31, 1904, was about 987,600 and the balance at theircredit on that date nearly 12⅓ crores.
+Another class of institutions for the encouragement of thrift are the Post Office savings-banks. These banks were not started specially for the benefit of agriculturists, and are more extensively patronized by other classes of the community, such as Government clerks and other persons with fixed incomes. Until 1882-3 the savings-bank business was carried on in the three cities of Calcutta, Madras, and Bombay by the Presidency banks, and elsewhere at the Government treasuries. As long as this system was maintained the business grew but slowly. The establishment of savings-banks in the post offices was followed by a rapid change, and the number of depositors and the total of the deposits have largely increased, although the facilities afforded have as yet attracted only an inappreciable proportion of the population—1 in 286 as compared with 1 in 4½ in the United Kingdom. The number of depositors on March 31, 1904, was about 987,600 and the balance at their credit on that date nearly 12⅓ crores.
 
 > _[Margin: European banking institutions.]_
 

@@ -116,10 +116,19 @@ class InlineStyles(unittest.TestCase):
         self.assertEqual(check_styles.allowed_hashes(headers), {"sha256-BBBB="})
 
     def test_the_sites_own_downloads_are_allowed(self):
-        headers = (Path(__file__).resolve().parent.parent / "static" / "_headers").read_text(encoding="utf-8")
+        root = Path(__file__).resolve().parent.parent
+        headers = (root / "static" / "_headers").read_text(encoding="utf-8")
         allowed = check_styles.allowed_hashes(headers)
-        for page in (Path(__file__).resolve().parent.parent / "public" / "downloads").glob("*/*.html"):
-            self.assertLessEqual(check_styles.style_hashes(page.read_text(encoding="utf-8")), allowed, page)
+        self.assertTrue(check_styles.downloads_policy_valid(headers),
+                        "/downloads/* must detach global CSP and allow zero-script inline styles")
+        public = root / "public"
+        for page in sorted(public.rglob("*.html")):
+            rel = page.relative_to(public)
+            text = page.read_text(encoding="utf-8", errors="replace")
+            if rel.parts[:1] == ("downloads",):
+                self.assertIsNone(check_styles.SCRIPT.search(text), page)
+            else:
+                self.assertLessEqual(check_styles.style_hashes(text), allowed, page)
 
 
 if __name__ == "__main__":

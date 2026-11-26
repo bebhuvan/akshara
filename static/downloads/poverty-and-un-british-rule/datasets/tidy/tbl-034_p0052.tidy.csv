@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-034,Table 34,52,32,1,data,,Imports,2,Column 2,"£3,608,216,242",3608216242.0,GBP,False,False
+poverty-and-un-british-rule,tbl-034,Table 34,52,32,1,data,,Imports,3,Column 3,(including Bullion).,,,False,False
+poverty-and-un-british-rule,tbl-034,Table 34,52,32,2,data,,Exports,2,Column 2,"£2,875,027,301",2875027301.0,GBP,False,False
+poverty-and-un-british-rule,tbl-034,Table 34,52,32,2,data,,Exports,3,Column 3,„ „,,,False,False

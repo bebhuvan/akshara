@@ -1,6 +1,6 @@
 ---
 title: "Poverty and Un-British Rule in India"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: ""
 author: "Dadabhai Naoroji"
 author_slug: "dadabhai-naoroji"
@@ -89,119 +89,119 @@ has_datasets: true
 download_datasets: "/downloads/poverty-and-un-british-rule/datasets/datapackage.json"
 tables_list:
   - table_id: "tbl-001"
-    caption: "Summary."
-    printed_folio: "5"
+    caption: "Table 1"
+    printed_folio: "7"
     rows: 6
-    cols: 3
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-001_p0025.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-001_p0025.tidy.csv"
+    cols: 7
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-001_p0027.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-001_p0027.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-001"
   - table_id: "tbl-002"
     caption: "Table 2"
     printed_folio: "7"
-    rows: 6
-    cols: 7
+    rows: 7
+    cols: 6
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-002_p0027.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-002_p0027.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-002"
   - table_id: "tbl-003"
     caption: "Table 3"
-    printed_folio: "7"
+    printed_folio: "8"
     rows: 7
     cols: 6
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-003_p0027.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-003_p0027.tidy.csv"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-003_p0028.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-003_p0028.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-003"
   - table_id: "tbl-004"
     caption: "Table 4"
     printed_folio: "8"
-    rows: 7
-    cols: 6
+    rows: 4
+    cols: 2
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-004_p0028.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-004_p0028.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-004"
   - table_id: "tbl-005"
     caption: "Table 5"
-    printed_folio: "8"
-    rows: 4
-    cols: 2
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-005_p0028.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-005_p0028.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-005"
-  - table_id: "tbl-006"
-    caption: "Table 6"
     printed_folio: "9"
     rows: 10
     cols: 12
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-006_p0029.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-006_p0029.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-006"
-  - table_id: "tbl-007"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-005_p0029.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-005_p0029.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-005"
+  - table_id: "tbl-006"
     caption: "Wheat."
     printed_folio: "11"
     rows: 11
     cols: 6
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-007_p0031.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-007_p0031.tidy.csv"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-006_p0031.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-006_p0031.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-006"
+  - table_id: "tbl-007"
+    caption: "Table 7"
+    printed_folio: "12"
+    rows: 11
+    cols: 6
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-007_p0032.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-007_p0032.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-007"
   - table_id: "tbl-008"
     caption: "Table 8"
     printed_folio: "12"
-    rows: 11
-    cols: 6
+    rows: 3
+    cols: 3
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-008_p0032.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-008_p0032.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-008"
   - table_id: "tbl-009"
-    caption: "Table 9"
-    printed_folio: "12"
-    rows: 3
-    cols: 3
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-009_p0032.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-009_p0032.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-009"
-  - table_id: "tbl-010"
     caption: "Produce of Wet Land per acre for “Good Crop” first grade Land—"
     printed_folio: "15"
     rows: 9
     cols: 4
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-010_p0035.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-010_p0035.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-010"
-  - table_id: "tbl-011"
-    caption: "Table 11"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-009_p0035.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-009_p0035.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-009"
+  - table_id: "tbl-010"
+    caption: "Table 10"
     printed_folio: "16"
     rows: 6
     cols: 6
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-011_p0036.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-011_p0036.tidy.csv"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-010_p0036.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-010_p0036.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-010"
+  - table_id: "tbl-011"
+    caption: "Table 11"
+    printed_folio: "17"
+    rows: 5
+    cols: 3
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-011_p0037.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-011_p0037.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-011"
   - table_id: "tbl-012"
     caption: "Table 12"
     printed_folio: "17"
     rows: 5
-    cols: 3
+    cols: 2
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-012_p0037.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-012_p0037.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-012"
   - table_id: "tbl-013"
-    caption: "Table 13"
-    printed_folio: "17"
-    rows: 5
-    cols: 2
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-013_p0037.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-013_p0037.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-013"
-  - table_id: "tbl-014"
     caption: "Produce per Acre in Pounds."
     printed_folio: "18"
     rows: 6
     cols: 8
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-014_p0038.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-014_p0038.tidy.csv"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-013_p0038.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-013_p0038.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-013"
+  - table_id: "tbl-014"
+    caption: "Bajri."
+    printed_folio: "20"
+    rows: 15
+    cols: 5
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-014_p0040.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-014_p0040.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-014"
   - table_id: "tbl-015"
-    caption: "Bajri."
+    caption: "Jowari."
     printed_folio: "20"
     rows: 15
     cols: 5
@@ -209,31 +209,31 @@ tables_list:
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-015_p0040.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-015"
   - table_id: "tbl-016"
-    caption: "Jowari."
-    printed_folio: "20"
-    rows: 15
-    cols: 5
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-016_p0040.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-016_p0040.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-016"
-  - table_id: "tbl-017"
     caption: "Rice."
     printed_folio: "21"
     rows: 15
     cols: 5
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-017_p0041.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-017_p0041.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-017"
-  - table_id: "tbl-018"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-016_p0041.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-016_p0041.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-016"
+  - table_id: "tbl-017"
     caption: "Cotton."
     printed_folio: "21"
     rows: 2
     cols: 6
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-018_p0041.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-018_p0041.tidy.csv"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-017_p0041.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-017_p0041.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-017"
+  - table_id: "tbl-018"
+    caption: "Northern Division."
+    printed_folio: "22"
+    rows: 6
+    cols: 5
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-018_p0042.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-018_p0042.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-018"
   - table_id: "tbl-019"
-    caption: "Northern Division."
+    caption: "Southern Division."
     printed_folio: "22"
     rows: 6
     cols: 5
@@ -241,65 +241,65 @@ tables_list:
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-019_p0042.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-019"
   - table_id: "tbl-020"
-    caption: "Southern Division."
-    printed_folio: "22"
-    rows: 6
-    cols: 5
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-020_p0042.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-020_p0042.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-020"
-  - table_id: "tbl-021"
     caption: "Total Cultivated Area."
     printed_folio: "22"
     rows: 3
     cols: 3
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-021_p0042.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-021_p0042.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-021"
-  - table_id: "tbl-022"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-020_p0042.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-020_p0042.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-020"
+  - table_id: "tbl-021"
     caption: "Summary."
     printed_folio: "23"
     rows: 8
     cols: 4
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-022_p0043.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-022_p0043.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-022"
-  - table_id: "tbl-023"
-    caption: "Table 23"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-021_p0043.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-021_p0043.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-021"
+  - table_id: "tbl-022"
+    caption: "Table 22"
     printed_folio: "25"
     rows: 8
     cols: 4
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-023_p0045.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-023_p0045.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-023"
-  - table_id: "tbl-024"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-022_p0045.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-022_p0045.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-022"
+  - table_id: "tbl-023"
     caption: "“Daily Allowance to each statute Adult [Children above two and under ten years of age to receive half rations.]”"
     printed_folio: "26"
     rows: 18
     cols: 3
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-024_p0046.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-024_p0046.tidy.csv"
-    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-024"
-  - table_id: "tbl-025"
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-023_p0046.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-023_p0046.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-023"
+  - table_id: "tbl-024"
     caption: "Cost of necessary living at Ahmedabad prices, on 30th January, 1868, as given in the “Bombay Government Gazette.”"
     printed_folio: "27"
     rows: 8
     cols: 4
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-024_p0047.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-024_p0047.tidy.csv"
+    section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-024"
+  - table_id: "tbl-025"
+    caption: "Table 25"
+    printed_folio: "27"
+    rows: 8
+    cols: 3
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-025_p0047.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-025_p0047.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-025"
   - table_id: "tbl-026"
     caption: "Table 26"
-    printed_folio: "27"
+    printed_folio: "28"
     rows: 8
-    cols: 3
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-026_p0047.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-026_p0047.tidy.csv"
+    cols: 4
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-026_p0048.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-026_p0048.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-026"
   - table_id: "tbl-027"
     caption: "Table 27"
     printed_folio: "28"
-    rows: 8
+    rows: 7
     cols: 4
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-027_p0048.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-027_p0048.tidy.csv"
@@ -307,7 +307,7 @@ tables_list:
   - table_id: "tbl-028"
     caption: "Table 28"
     printed_folio: "28"
-    rows: 7
+    rows: 5
     cols: 4
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-028_p0048.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-028_p0048.tidy.csv"
@@ -315,18 +315,18 @@ tables_list:
   - table_id: "tbl-029"
     caption: "Table 29"
     printed_folio: "28"
-    rows: 5
-    cols: 4
+    rows: 4
+    cols: 3
     diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-029_p0048.csv"
     tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-029_p0048.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-029"
   - table_id: "tbl-030"
     caption: "Table 30"
-    printed_folio: "28"
-    rows: 4
-    cols: 3
-    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-030_p0048.csv"
-    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-030_p0048.tidy.csv"
+    printed_folio: "29"
+    rows: 23
+    cols: 5
+    diplomatic_csv: "/downloads/poverty-and-un-british-rule/datasets/tables/tbl-030_p0049.csv"
+    tidy_csv: "/downloads/poverty-and-un-british-rule/datasets/tidy/tbl-030_p0049.tidy.csv"
     section_url: "/books/poverty-and-un-british-rule/chapters/04-poverty-of-india/#tbl-030"
 cascade:
   type: "chapters"
@@ -350,6 +350,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (188 flyleaf/stamp block(s)) are excluded from reading prose; **460** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **3** cross-page split footnotes and **6** multi-page tables were stitched; and **1353** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (22 distinct non-ASCII characters across 127 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**2589** places); **423** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

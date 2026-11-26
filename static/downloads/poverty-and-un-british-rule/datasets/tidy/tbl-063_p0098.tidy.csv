@@ -1,0 +1,97 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",2,At the end of,1860.,1860.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",3,Saharunpore.,26-13,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",4,Meerut.,22-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",5,Allyghur.,19,19.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",6,Cawnpore.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",7,Allahabad.,24-1,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",8,Muttra.,21-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,1,data,,"May,",9,Agra.,17-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,2,At the end of,1868.,1868.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,3,Saharunpore.,25-14,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,4,Meerut.,27,27.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,5,Allyghur.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,6,Cawnpore.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,7,Allahabad.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,8,Muttra.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,2,data,,Row 2,9,Agra.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",2,At the end of,1860.,1860.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",3,Saharunpore.,25-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",4,Meerut.,20,20.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",5,Allyghur.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",6,Cawnpore.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",7,Allahabad.,22-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",8,Muttra.,19,19.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,3,data,,"June,",9,Agra.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,2,At the end of,1868.,1868.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,3,Saharunpore.,25-14,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,4,Meerut.,27-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,5,Allyghur.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,6,Cawnpore.,22,22.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,7,Allahabad.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,8,Muttra.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,4,data,,Row 4,9,Agra.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",2,At the end of,1860.,1860.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",3,Saharunpore.,(missing),,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",4,Meerut.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",5,Allyghur.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",6,Cawnpore.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",7,Allahabad.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",8,Muttra.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,5,data,,"July,",9,Agra.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,2,At the end of,1868.,1868.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,3,Saharunpore.,23-11,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,4,Meerut.,26-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,5,Allyghur.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,6,Cawnpore.,21,21.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,7,Allahabad.,17-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,8,Muttra.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,6,data,,Row 6,9,Agra.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",2,At the end of,1860.,1860.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",3,Saharunpore.,11-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",4,Meerut.,11-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",5,Allyghur.,12-4,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",6,Cawnpore.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",7,Allahabad.,21-4,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",8,Muttra.,9-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,7,data,,"August,",9,Agra.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,2,At the end of,1868.,1868.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,3,Saharunpore.,18-4,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,4,Meerut.,22,22.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,5,Allyghur.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,6,Cawnpore.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,7,Allahabad.,15,15.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,8,Muttra.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,8,data,,Row 8,9,Agra.,19-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",2,At the end of,1860.,1860.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",3,Saharunpore.,13-2,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",4,Meerut.,11-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",5,Allyghur.,10-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",6,Cawnpore.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",7,Allahabad.,20,20.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",8,Muttra.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,9,data,,"September,",9,Agra.,9-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,2,At the end of,1868.,1868.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,3,Saharunpore.,11-13,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,4,Meerut.,11-4,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,5,Allyghur.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,6,Cawnpore.,16,16.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,7,Allahabad.,15,15.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,8,Muttra.,16-2,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,10,data,,Row 10,9,Agra.,14,14.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",2,At the end of,1860.,1860.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",3,Saharunpore.,9-9,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",4,Meerut.,9-8,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",5,Allyghur.,11-4,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",6,Cawnpore.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",7,Allahabad.,18-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",8,Muttra.,10-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,11,data,,"October,",9,Agra.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,2,At the end of,1868.,1868.0,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,3,Saharunpore.,12-15,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,4,Meerut.,17-12,,,False,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,5,Allyghur.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,6,Cawnpore.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,7,Allahabad.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,8,Muttra.,,,,True,False
+poverty-and-un-british-rule,tbl-063,Prices of fine Wheat at the undermentioned places. Seers per Rupee.,98,78,12,data,,Row 12,9,Agra.,,,,True,False

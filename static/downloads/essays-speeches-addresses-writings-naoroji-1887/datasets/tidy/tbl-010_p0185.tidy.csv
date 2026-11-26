@@ -1,36 +1,36 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,2,Irrigated Land.,"Acres. 200,955",,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,3,Produce per Acre.,"lbs. 1,100",,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,4,Total Produce.,"lbs. 221,050,500",,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,2,Unirrigated Land.,"Acres. 307,090",,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,3,Produce per Acre.,lbs. 600,,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,4,Total Produce.,"lbs. 184,614,000",,lbs,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,5,For Re. 1.,lbs. 43,,lbs,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,6,Total Value.,"Rs. 51,40,709",5140709.0,Rs,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,2,Irrigated Land.,"96,328",96328.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,1,data,,Delhi,6,Total Value.,"Rs. 42,93,348",4293348.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,2,Unirrigated Land.,"856,701",856701.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,3,Produce per Acre.,„,,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,4,Total Produce.,"105,960,800",105960800.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,4,Total Produce.,"514,020,600",514020600.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,5,For Re. 1.,43,43.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,6,Total Value.,"24,64,204",2464204.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,2,Irrigated Land.,"447,295",447295.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,2,data,,Umballa,6,Total Value.,"1,19,53,967",11953967.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,2,Unirrigated Land.,"557,882",557882.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,3,Produce per Acre.,„,,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,4,Total Produce.,"492,024,500",492024500.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,4,Total Produce.,"334,729,200",334729200.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,5,For Re. 1.,41,41.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,6,Total Value.,"1,20,00,597",12000597.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,2,Irrigated Land.,"394,227",394227.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,3,data,,Lahore,6,Total Value.,"81,64,126",8164126.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,2,Unirrigated Land.,"425,440",425440.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,3,Produce per Acre.,„,,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,4,Total Produce.,"433,649,700",433649700.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,4,Total Produce.,"255,264,000",255264000.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,5,For Re. 1.,41,41.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,6,Total Value.,"1,05,76,821",10576821.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,2,Irrigated Land.,"505,750",505750.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,4,data,,Sealkote,6,Total Value.,"62,25,951",6225951.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,2,Unirrigated Land.,"118,684",118684.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,3,Produce per Acre.,„,,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,4,Total Produce.,"556,325,000",556325000.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,4,Total Produce.,"71,210,400",71210400.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,5,For Re. 1.,31½,31.5,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,6,Total Value.,"1,76,61,111",17661111.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,2,Irrigated Land.,"249,144",249144.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,5,data,,Mooltan,6,Total Value.,"22,60,647",2260647.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,2,Unirrigated Land.,"456,661",456661.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,3,Produce per Acre.,„,,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,4,Total Produce.,"274,058,400",274058400.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,4,Total Produce.,"273,996,600",273996600.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,5,For Re. 1.,41,41.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,6,Total Value.,"66,84,351",6684351.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,7,total,,Total,2,Irrigated Land.,"1,893,699",1893699.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,6,data,,Peshawur,6,Total Value.,"66,82,843",6682843.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,7,total,,Total,2,Unirrigated Land.,"2,723,058",2723058.0,,False,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,7,total,,Total,3,Produce per Acre.,...,,acres,True,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,7,total,,Total,4,Total Produce.,.........,,,True,True
 essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,7,total,,Total,5,For Re. 1.,...,,,True,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,7,total,,Total,6,Total Value.,"5,45,27,793",54527793.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-010,Table 10,185,166,7,total,,Total,6,Total Value.,"3,95,80,882",39580882.0,,False,True

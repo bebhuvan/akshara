@@ -185,10 +185,10 @@ CHAP. — PAGE
 - XI. LOCAL CESSES ON LAND . . . . . 388
 - XII. HISTORY OF TARIFFS . . . . . . 401
 
-#### BOOK III
+### BOOK III
 
 
-##### UNDER THE EMPRESS. 1877–1900.
+#### UNDER THE EMPRESS. 1877–1900.
 
 - I. LYTTON AND RIPON . . . . . . 419
 - II. DUFFERIN AND LANSDOWNE . . . . . 441
@@ -206,6 +206,9 @@ CHAP. — PAGE
 - XIV. INDIA IN THE TWENTIETH CENTURY . . . . 602
 - INDEX . . . . . . . 618
 
+## CHAPTER I: AUCKLAND AND ELLENBOROUGH
+
+
 <!-- page: 29 | folio: 1 -->
 
 ### BOOK I
@@ -217,18 +220,12 @@ CHAP. — PAGE
 ##### 1838–1858
 
 
-## CHAPTER I: AUCKLAND AND ELLENBOROUGH
-
-
 <!-- page: 31 | folio: 3 -->
 
 ### INDIA IN THE VICTORIAN AGE
 
 
-#### CHAPTER I
-
-
-##### AUCKLAND AND ELLENBOROUGH
+#### AUCKLAND AND ELLENBOROUGH
 
 <span class="sc">Lord William Bentinck</span> left India in 1835. His seven years' rule was an era of Peace, Retrenchment, and Reform. He secured tranquillity in the East India Company's dominions, and lived at peace with the Indian Powers. He reduced the public debt, decreased the annual expenditure, and showed a surplus. He commenced that revised settlement of land revenue in Northern India which gave relief to landlords and cultivators. He admitted the educated people of India to the higher appointments in the revenue and judicial departments. He abolished the practice of Sati and suppressed the crime of Thugs. He promoted English education in India, and endeavoured to carry out the maxim that the administration of India was primarily for the interests of the people. His successor, Sir Charles Metcalfe, trained in the traditions of his school, worked in the same lines, and followed the same principles. He gave liberty to the Press of India, and earned for himself a high reputation as an able and benevolent administrator.
 
@@ -768,10 +765,8 @@ Fields being thus classified, it remained to determine the Government demand for
 
 > “It only remains to complete the Settlement to fix the absolute amount of assessment to be levied from the whole [district].
 
-> “The determination of this point is, perhaps, the most important and difficult operation connected with the survey, and requires, beyond all others, the exercise of great
+> “The determination of this point is, perhaps, the most important and difficult operation connected with the survey, and requires, beyond all others, the exercise of great [p. 63] judgment and discrimination on the part of the officer on whom it devolves. The first requisite is to obtain a clear understanding of the nature and effects of our past management of the district, which will be best arrived at by an examination and comparison of the annual revenue settlements of as many previous years as trustworthy data may be procurable for, and from local inquiries of the people during the progress of the survey. . . .
 
-
-<!-- page: 91 | folio: 63 -->
 
 | Class. | Relative Value of Class in Annas or 16ths of a Rupee. | Soils of the :: First Order. :: Of a Fine Uniform Texture, Varying in Colour from Deep Black to Dark Brown. :: Depth in Cubits. | Soils of the :: Second Order. :: Of Uniform but Coarser Texture than the Preceding, and Lighter also in Colour, which is Generally Red. :: Depth in Cubits. | Soils of the :: Third Order. :: Of Coarse Gravelly, or Loose Friable Texture, and Colour Varying from Light Brown to Grey. :: Depth in Cubits. |
 | --- | --- | --- | --- | --- |
@@ -784,8 +779,6 @@ Fields being thus classified, it remained to determine the Government demand for
 | 7 | 4½ | ¼ | ½ | ¾ |
 | 8 | 3 | ... | ¼ | ½ |
 | 9 | 2 | ... | ... | ¼ |
-
-judgment and discrimination on the part of the officer on whom it devolves. The first requisite is to obtain a clear understanding of the nature and effects of our past management of the district, which will be best arrived at by an examination and comparison of the annual revenue settlements of as many previous years as trustworthy data may be procurable for, and from local inquiries of the people during the progress of the survey. . . .
 
 “Furthermore, to assist in tracing the causes to which the prosperity or decline of villages, or tracts containing several villages are to be attributed, independent statements of the annual revenue settlements of each village should be prepared. . . .
 
@@ -946,7 +939,7 @@ The Administration of Madras was then forced to adopt a large remedial measure i
 
 “Further, it is certain that the high assessments and the absence of accurate accounts give occasion to very extensive fraud and the concealment of cultivation. Occasionally instances of this are brought to light on a large scale, so as to prove its existence, and it is well known to all revenue officers that it exists largely, but is concealed through the purchased connivance of the subordinate officials. With reduced assessments, there would be less of this fraudulent evasion, because there would be less inducement to pay for such connivance; and with an accurate survey and clear and simple accounts such fraud would become difficult and dangerous.
 
-“There seems no reason for doubt that, with a vast extent of unoccupied land, with a peaceful and industrious population, scantily fed and scantily employed to the extent of being led to cross the sea in search of employment, though peculiarly averse to leaving home, with roads and other means of communication being every year improved and extended; under all these circumstances it seems clear that such a reduction of assessment as would make agriculture profitable would be speedily followed by a vast extension of cultivation. To these expectations are to be added the more partial causes which will make it practicable to enforce the fair claims of the revenue on extensive tracts now evading them; and lastly it must be noticed that the measures proposed must of necessity occupy a very considerable length of time. It can hardly be expected that the survey and settlement of this extensive Presidency can be accomplished in less than 15 or 20 years, and thus only onefifteenth [p. 81] or one-twentieth of the revenue will have to be dealt with in each year, and there will be full time for the restorative agencies called into existence by the new measures to come into operation. On the whole, considering the present depressed condition of the Presidency, it seems fair to anticipate with confidence, that the result of these measures, instead of a falling off, will be an accession to the revenue, while as respects the payers and the public the good will be enormous; the revenue will be derived from resources double or treble those upon which it is levied now, and will be paid with corresponding ease and absence of privation.”[^sec-08-fn-013]
+“There seems no reason for doubt that, with a vast extent of unoccupied land, with a peaceful and industrious population, scantily fed and scantily employed to the extent of being led to cross the sea in search of employment, though peculiarly averse to leaving home, with roads and other means of communication being every year improved and extended; under all these circumstances it seems clear that such a reduction of assessment as would make agriculture profitable would be speedily followed by a vast extension of cultivation. To these expectations are to be added the more partial causes which will make it practicable to enforce the fair claims of the revenue on extensive tracts now evading them; and lastly it must be noticed that the measures proposed must of necessity occupy a very considerable length of time. It can hardly be expected that the survey and settlement of this extensive Presidency can be accomplished in less than 15 or 20 years, and thus only one-fifteenth [p. 81] or one-twentieth of the revenue will have to be dealt with in each year, and there will be full time for the restorative agencies called into existence by the new measures to come into operation. On the whole, considering the present depressed condition of the Presidency, it seems fair to anticipate with confidence, that the result of these measures, instead of a falling off, will be an accession to the revenue, while as respects the payers and the public the good will be enormous; the revenue will be derived from resources double or treble those upon which it is levied now, and will be paid with corresponding ease and absence of privation.”[^sec-08-fn-013]
 
 We have made this long extract, because this document opens a new chapter in the history of Madras land administrations. The results of the Survey and Settlement, recommended in 1855, will be narrated in a subsequent chapter.
 
@@ -1022,7 +1015,7 @@ Lord Dalhousie never understood, never appreciated, this school. He was an Imper
 
 National institutions are the results and the outer expressions of national needs. The people of India developed Village Communities, and lived under Polygars and Zemindars, Jaigirdars and Talukdars, Sardars and Panchyets, because they needed them. Their social organisation was built up according to their social requirements; they felt themselves securer and happier under their born leaders or within their Rural Communities. It is unwise for any rulers to disturb such arrangements; it is especially unwise for alien rulers to neglect the organised institutions of a people.
 
-The want thus created has not yet been remedied. No proper self-governing institutions have yet taken the place of the old Village Communities. No natural leaders of the people adequately represent their wishes and opinions in the government of Madras, Bombay, or the Punjab. Those Governments are less influenced and less benefited by public opinion than the Government in Bengal where society was early saved from dislocation by the action of Lord Cornwallis. Assessments have been severer and harsher in Madras and Bombay in the absence of Village Communities and of intermediate chiefs. In the Punjab, where the leaders of the people were unwisely ignored half a century ago, the so-called cultivating proprietors of the soil have not prospered. And the Government is exerting at the present day to save them from a new class of leaders—speculators, shroffs, and moneylenders—the [p. 90] worst aristocracy that any country can have.
+The want thus created has not yet been remedied. No proper self-governing institutions have yet taken the place of the old Village Communities. No natural leaders of the people adequately represent their wishes and opinions in the government of Madras, Bombay, or the Punjab. Those Governments are less influenced and less benefited by public opinion than the Government in Bengal where society was early saved from dislocation by the action of Lord Cornwallis. Assessments have been severer and harsher in Madras and Bombay in the absence of Village Communities and of intermediate chiefs. In the Punjab, where the leaders of the people were unwisely ignored half a century ago, the so-called cultivating proprietors of the soil have not prospered. And the Government is exerting at the present day to save them from a new class of leaders—speculators, shroffs, and money-lenders—the [p. 90] worst aristocracy that any country can have.
 
 It is a simple truism that some sort of representation, some form of self-government, is needed to safeguard the interests and promote the welfare of all nations, in Asia as in Europe. The forms of self-government which prevailed in India were not the forms with which Englishmen were familiar; but they served their purpose. They might have been fostered, corrected, and improved; but their effacement left a blank. In critical times, the want makes itself felt; British Rule does not obtain adequate support; Imperialism itself does not find a national basis. General M‘Leod Innes has pointed out in the work already cited that, in the dark days of the Indian Mutiny, Cis-Sutlej Sikhs, as well as the Mussulmans of Multan and the frontier, rendered valuable services and furnished strong contingents under the specific guidance of their chiefs. But the leaderless Sikhs of the Punjab rendered none till after the capture of Delhi. But the Indian administrator notes this want in times of peace no less than in time of war—the want of popular co-operation in influencing and popularising an alien administration.
 
@@ -1200,9 +1193,9 @@ A more important witness was Sir Charles Trevelyan who, after a distinguished se
 
 While in India, he had helped in abolishing vexatious transit duties which had impeded the internal trade. And in his evidence before the Select Committee he pleaded for the removal of those unequal and prohibitive import duties in England which kept out India’s manufactures.
 
-*Population of British India.*—The population of Bengal was generally calculated at 30 millions; that of Northern India under British Rule at 30 millions; that of Madras about 14 millions; and of Bombay about 3 millions. Total for British India, 77 millions. The ordinary price of labour was 2 anas, or 3d. a day. Land in Bengal was tilled by cultivators who held it under landlords. “The theory of Indian agriculture is, that as long as the Ryot, who is the occupant of the soil, continues [p. 104] to pay the rates of rent fixed by usage in his district, he is not liable to be ousted; but this rule is constantly broken through."[^sec-10-fn-003] All restrictions against Europeans holding land in India had been removed; and it had been expected that Europeans would purchase lands and settle in India. "But that has ended in disappointment. The climate does not suit them; they do not look to ending their days there."[^sec-10-fn-005]
+*Population of British India.*—The population of Bengal was generally calculated at 30 millions; that of Northern India under British Rule at 30 millions; that of Madras about 14 millions; and of Bombay about 3 millions. Total for British India, 77 millions. The ordinary price of labour was 2 anas, or 3d. a day. Land in Bengal was tilled by cultivators who held it under landlords. “The theory of Indian agriculture is, that as long as the Ryot, who is the occupant of the soil, continues [p. 104] to pay the rates of rent fixed by usage in his district, he is not liable to be ousted; but this rule is constantly broken through."[^sec-10-fn-003] All restrictions against Europeans holding land in India had been removed; and it had been expected that Europeans would purchase lands and settle in India. "But that has ended in disappointment. The climate does not suit them; they do not look to ending their days there."[^sec-10-fn-004]
 
-*Sugar and Rum.*—The equalising of the duty on sugar was useless until the duty on rum was also equalised. "It is a mere mockery to give equality in one respect only; in order to establish equality you must equalise the duty on all the articles manufactured from the sugar-cane."[^sec-10-fn-004]
+*Sugar and Rum.*—The equalising of the duty on sugar was useless until the duty on rum was also equalised. "It is a mere mockery to give equality in one respect only; in order to establish equality you must equalise the duty on all the articles manufactured from the sugar-cane."[^sec-10-fn-005]
 
 The inequality in the duty on rum, besides being injurious to the manufacture of both sugar and rum, created a sore feeling, a feeling among the people of India that their interests were being sacrificed to those of more favoured countries.
 
@@ -1395,10 +1388,8 @@ A small portion of these Home Charges, about one-fifth, was for stores supplied 
 
 *Silk Manufactures.*—Joseph Tucker, belonging to a London firm of silk printers and dealers in silk handkerchiefs, desired to maintain the duty of 20 per cent. on Indian silk manufactures in order to protect the British industry. He said that the British people still used British manufactures only; but Frenchmen preferred the Indian article; and the export of British silk goods into France was decreasing, and that of Indian Bandannas and other silk handkerchiefs into France was increasing. And he gave the following figures from a Parliamentary Return.—See table on opposite page.
 
-The witness further explained that "When British goods first went to France, Indian goods were prohibited, and consequently British goods had a preference with French buyers; hence perhaps the large quantity. As soon as the prohibition was taken off, and in fact previous to that, slightly, the trade had been affected. But im-
+The witness further explained that "When British goods first went to France, Indian goods were prohibited, and consequently British goods had a preference with French buyers; hence perhaps the large quantity. As soon as the prohibition was taken off, and in fact previous to that, slightly, the trade had been affected. But immediately [p. 119] the prohibition was taken off, the British trade to France was entirely annihilated."[^sec-10-fn-028]
 
-
-<!-- page: 147 | folio: 119 -->
 
 **Exported from the United Kingdom to France.**
 | Year. | British Silk Goods. :: £ | Indian Bandannas and other Handkerchiefs. :: £ |
@@ -1411,8 +1402,6 @@ The witness further explained that "When British goods first went to France, Ind
 | 1837 | 10,000 | 174,500 |
 | 1838 | 9,400 | 202,200 |
 | 1839 | 5,500 | 168,500 |
-
-mediately the prohibition was taken off, the British trade to France was entirely annihilated."[^sec-10-fn-028]
 
 The preference given by a single European nation to a single Indian manufacture had aroused the jealousy of English dealers and manufacturers. This jealousy is manifest in the evidence of the last four witnesses, all silk manufacturers, who were examined by the Select Committee, and to whose evidence we now turn.
 
@@ -1490,8 +1479,8 @@ After these eloquent observations Lord Ellenborough recommended the equalising o
 [^sec-10-fn-001]: (1) Questions 577, 578, 583, 584, and 633.
 [^sec-10-fn-002]: (1) Later on he went out to India as Governor of Madras in 1859; was recalled in 1860 for his protest against new taxes; and was Finance Minister of India in 1862 to 1865 under Lords Elgin and Lawrence. He married Macaulay’s sister, and to his son we owe the *Life and Letters of Lord Macaulay*.
 [^sec-10-fn-003]: (1) Question 1624.
-[^sec-10-fn-004]: (3) Question 1499.
-[^sec-10-fn-005]: (2) Question 1513.
+[^sec-10-fn-004]: (2) Question 1513.
+[^sec-10-fn-005]: (3) Question 1499.
 [^sec-10-fn-006]: (4) Question 1789.
 [^sec-10-fn-007]: (1) Question 1699.
 [^sec-10-fn-008]: (2) Questions 1824 and 1825.
@@ -1499,7 +1488,9 @@ After these eloquent observations Lord Ellenborough recommended the equalising o
 [^sec-10-fn-010]: (1) Question 1981.
 [^sec-10-fn-011]: (1) Question 2743.
 [^sec-10-fn-012]: (1) Questions 2750 and 2751.
-[^sec-10-fn-013]: (1) Questions 2763, 2764, and 2771. “The last of the expiring manufactures of India” has not been saved. India to-day exports annually over seventy million pounds in goods, mostly raw produce. Scarcely over a hundred thousand pounds of this is silk manufactures.
+[^sec-10-fn-013]: (1) Questions 2763, 2764, and 2771.
+
+    “The last of the expiring manufactures of India” has not been saved. India to-day exports annually over seventy million pounds in goods, mostly raw produce. Scarcely over a hundred thousand pounds of this is silk manufactures.
 [^sec-10-fn-014]: (1) Question 3876.
 [^sec-10-fn-015]: (2) Questions 3877 and 3879.
 [^sec-10-fn-016]: (1) The transfer of India to the Government of Great Britain did not take place in 1833. The British Government obtained control over the administration of India half a century before that date, by Pitt’s India Act of 1774, and was responsible for Indian administration. In 1833 a new Act was passed renewing the Company’s Charter but prohibiting their trade.
@@ -1606,11 +1597,11 @@ Bazley explained in a few words an Englishman's idea of the trade between Englan
 
 Robert Crawford, a merchant who had been resident in Bombay, gave figures showing the extent of cotton cultivation in some Bombay districts during twelve years, from 1834 to 1845. In Broach cotton cultivation was 43 per cent.; in Surat it was 22 per cent.; in Kandeish it was 10 per cent.; and in Sholapur it was 3 per cent. of the total cultivation on assessed lands. Asked as to the nature of land-assessment in Gujrat, witness said: “As the Government and their officers may justly claim the credit of getting all the revenue they can possibly get, it follows that the land is let at a rack-rent.” And the witness, quoting from the report of Mr. Davies, collector of Broach, said: “As the present state of the market does not unfortunately give him [the cultivator] [p. 133] that reimbursement to enable him to keep up his stock, it far less enables him to reckon upon any profits; the inference is too obvious that he mainly depends upon remissions and balances for his escape from ruin."[^sec-11-fn-009]
 
-The same witness also deposed to the evil effects of the Navigation Laws, requiring ships to be manned by English seamen. "I have known times," said the witness, "when it would very well have suited for a ship belonging to the port of Bombay manned by lascars to come to this country if she could have sailed upon the same terms as an English ship does."[^sec-11-fn-011]
+The same witness also deposed to the evil effects of the Navigation Laws, requiring ships to be manned by English seamen. "I have known times," said the witness, "when it would very well have suited for a ship belonging to the port of Bombay manned by lascars to come to this country if she could have sailed upon the same terms as an English ship does."[^sec-11-fn-010]
 
 A more important witness was Major-General Briggs. He had entered the service of the Company in 1801, and had worked thirty-two years in India. He had served under men like Sir John Malcolm and Mountstuart Elphinstone, and had been Commissioner of Mysore and Resident of Nagpur. He had written the most valuable and exhaustive work on the Land Tax of India, and had advised Lord William Bentinck in regard to the Settlement of Northern India. And he had studied Indian history from the original sources, and produced a scholarlike translation of Ferishta's "History of India" which is still a standard work.
 
-Major-General Briggs spoke of the enormous consumption of cotton in India, and of the capacity of that country to "produce sufficient cotton for the consumption of the whole world." And he considered that the two great obstacles which prevented a larger export of Indian cotton to England were the Land Tax, and the want of road for conveyance.[^sec-11-fn-010] Questioned on the first subject, he said : "The Land Tax of India, as well as all direct taxes, have been founded upon the principle of an Income Tax; a portion of the income, whether in grain or in money, has usually been considered the right of the sovereign;" and under the Hindu rule the portion was originally fixed at a tenth of the produce.[^sec-11-fn-012]
+Major-General Briggs spoke of the enormous consumption of cotton in India, and of the capacity of that country to "produce sufficient cotton for the consumption of the whole world." And he considered that the two great obstacles which prevented a larger export of Indian cotton to England were the Land Tax, and the want of road for conveyance.[^sec-11-fn-011] Questioned on the first subject, he said : "The Land Tax of India, as well as all direct taxes, have been founded upon the principle of an Income Tax; a portion of the income, whether in grain or in money, has usually been considered the right of the sovereign;" and under the Hindu rule the portion was originally fixed at a tenth of the produce.[^sec-11-fn-012]
 
 
 <!-- page: 162 | folio: 134 -->
@@ -1702,8 +1693,8 @@ Lastly the Select Committee commented on the lamentable want of roads in India, 
 [^sec-11-fn-007]: (1) Select Committee's Report, p. 6.
 [^sec-11-fn-008]: (1) Select Committee's Report, p. 57.
 [^sec-11-fn-009]: (1) Select Committee's Report, pp. 96 and 97.
-[^sec-11-fn-010]: (3) *Ibid.*, p. 121.
-[^sec-11-fn-011]: (2) *Ibid.*, p, 104.
+[^sec-11-fn-010]: (2) *Ibid.*, p, 104.
+[^sec-11-fn-011]: (3) *Ibid.*, p. 121.
 [^sec-11-fn-012]: (4) *Ibid.*, p. 123.
 [^sec-11-fn-013]: (1) Select Committee’s Report, pp. 126 and 129.
 [^sec-11-fn-014]: (2) *Ibid.*, p. 136.
@@ -1930,7 +1921,7 @@ Appendix 3 of the Commons’ Report of 1852, from which the above figures are co
 | 1848-49 . . | 5,770,623 | 1,065,271 | 5,713,412 | 12,549,307 |
 | 1849-50 . . | 6,498,035 | 1,027,441 | 6,171,218 | 13,696,696 |
 
-An examination of the figures set forth herein suggests some observations. It will be perceived at once that while the imports and exports of Bengal and Bombay advanced by rapid strides, those of Madras showed a very poor increase. The imports of Bombay and of Bengal increased from two and a half millions to six millions ; the imports of Madras increased from £600,000 to a million. Exports from Bombay increased from three to six and a half millions, and from Bengal from four to ten and a half millions, while exports from Madras increased only from a million to a million and a half. These striking differences were not due to any extension of [p. 159] territory in Bengal and Bombay; for there were few important additions to those Provinces between 1834 and 1849. The difference was mainly due to the impoverished
+An examination of the figures set forth herein suggests some observations. It will be perceived at once that while the imports and exports of Bengal and Bombay advanced by rapid strides, those of Madras showed a very poor increase. The imports of Bombay and of Bengal increased from two and a half millions to six millions ; the imports of Madras increased from £600,000 to a million. Exports from Bombay increased from three to six and a half millions, and from Bengal from four to ten and a half millions, while exports from Madras increased only from a million to a million and a half. These striking differences were not due to any extension of [p. 159] territory in Bengal and Bombay; for there were few important additions to those Provinces between 1834 and 1849. The difference was mainly due to the impoverished condition of Madras under its wretched land system, which we have described in another chapter.
 
 
 **<span class="sc">Exports.</span>**
@@ -1952,8 +1943,6 @@ An examination of the figures set forth herein suggests some observations. It wi
 | 1847-48 | 8,866,928 | 1,491,558 | 4,379,947 | 14,738,435 |
 | 1848-49 | 9,819,742 | 1,946,311 | 6,862,190 | 18,628,244 |
 | 1849-50 | 10,502,244 | 1,345,522 | 6,435,776 | 18,283,543 |
-
-condition of Madras under its wretched land system, which we have described in another chapter.
 
 Another striking fact which we note in the above figures is the great disproportion between the imports and the exports of British India. The difference was two millions in 1834–35, and increased to over four and a half millions in 1849–50. The figures represent the trade of British India not with Great Britain only but with all countries of the world. But other countries gave a fair return for what they received; Great Britain exacted a tribute from India for which she made no commercial return. And the difference of two to four millions a year between India's imports and exports represented the annual drain of wealth from India.
 
@@ -2794,17 +2783,6 @@ Such were the sentiments of the Queen towards her Indian subjects; the new Procl
 “When, by the blessing of Providence, internal tranquillity shall be restored, it is our earnest desire to stimulate the peaceful industry of India, to promote works of public utility and improvement, and to administer its government for the benefit of all our subjects resident therein. In their prosperity will be our strength ; in their contentment our security ; and in their gratitude our best reward. And may the God of all power grant to us, and to those in authority under us, strength to carry out these our wishes for the good of our people.”
 
 
-<!-- page: 265 | folio: 237 -->
-
-### BOOK II
-
-
-#### UNDER THE QUEEN
-
-
-##### 1858–1876
-
-
 ### Notes
 
 [^sec-17-fn-001]: (1) Letter on the trial of the King of Delhi, dated April 29, 1858.
@@ -2823,10 +2801,18 @@ Such were the sentiments of the Queen towards her Indian subjects; the new Procl
 ## CHAPTER I: CANNING, ELGIN, AND LAWRENCE
 
 
+<!-- page: 265 | folio: 237 -->
+
+### BOOK II
+
+
+#### UNDER THE QUEEN
+
+
+##### 1858–1876
+
+
 <!-- page: 267 | folio: 239 -->
-
-### CHAPTER I
-
 
 #### CANNING, ELGIN, AND LAWRENCE
 
@@ -2940,21 +2926,6 @@ But more permanent alterations were effected under the administration of Lord Ma
 The second change was what is known as Lord Mayo's Decentralisation Scheme. Previous to his time, there were no fixed allotments for the different Provinces of India, and Provincial Governors sought to obtain as much as they could for their own Provinces. He who clamoured most, got most; and Sir John Lawrence had found the utmost difficulty in restraining Sir Bartle Frere from undertaking vast and expensive works for Bombay. By the Constitution of December 14, 1870, Lord Mayo made fixed grants to Provincial Governments for the period of five years, and Provincial Governors administered their own Provinces, as best they could, within the allotments made. There was still a scramble for larger grants once in five years when the allotments are made, but a scramble once in five years was better than a yearly competition among the Governors.[^sec-19-fn-006]
 
 
-| Col 1 | Col 2 |
-| --- | --- |
-| Bengal | £ 1,168,592 |
-| North-West Provinces | 640,792 |
-| Punjab | 516,221 |
-| Madras | 739,488 |
-| Bombay | 880,075 |
-| Oudh | 206,948 |
-| Central Provinces | 261,263 |
-| Burma | 275,332 |
-| Total | £4,688,711 |
-
-But in a few years it was found necessary to modify this scheme, and to give each Province a *fixed share* in the Land Revenue and other sources of revenue, instead of a *fixed grant*.
-
-
 <!-- page: 285 | folio: 257 -->
 The third and the most unfortunate financial change introduced under Lord Mayo's administration was a large increase in Provincial taxes, as distinguished from Imperial revenues. As far back as 1861 the Finance Minister of Lord Canning had referred to the necessity of relieving the Imperial revenues of India by empowering each Province to levy Local Rates within its limits. In 1865 the Finance Minister of Sir John Lawrence had pointed out in his Budget Speech, that the actual proceeds from Local Rates in the year 1864-65 was 2½ millions sterling. Lord Mayo's Decentralisation Scheme led to large additions to these Local Rates.
 
@@ -3003,6 +2974,20 @@ With Lord Northbrook's administration ended the period of peace and reforms whic
 [^sec-19-fn-004]: (2) Bosworth Smith’s *Life of Lord Lawrence* (1885), vol. ii. p. 478.
 [^sec-19-fn-005]: (1) Sir William Hunter’s *Life of the Earl of Mayo* (1876), vol. i. pp. 283 and 284.
 [^sec-19-fn-006]: (1) The grants at first fixed in 1870 by Lord Mayo for the different Provinces were these—
+
+    | Col 1 | Col 2 |
+    | --- | --- |
+    | Bengal | £ 1,168,592 |
+    | North-West Provinces | 640,792 |
+    | Punjab | 516,221 |
+    | Madras | 739,488 |
+    | Bombay | 880,075 |
+    | Oudh | 206,948 |
+    | Central Provinces | 261,263 |
+    | Burma | 275,332 |
+    | Total | £4,688,711 |
+
+    But in a few years it was found necessary to modify this scheme, and to give each Province a *fixed share* in the Land Revenue and other sources of revenue, instead of a *fixed grant*.
 [^sec-19-fn-007]: (1) Letter of the Viceroy in Council, dated October 30, 1873.
 [^sec-19-fn-008]: (1) Despatch dated January 22, 1875.
 [^sec-19-fn-009]: (2) Letter dated December 18, 1874, quoted in Bosworth Smith's *Life of Lord Lawrence* (1885), vol. ii. p. 479.
@@ -3401,7 +3386,7 @@ Nevertheless it was a great gain when this right, which had been exercised in pr
 
 The proprietary rights of Malguzars having been recognised, the next question was: What portion of their rental should be claimed as Government revenue? The Saharanpur rules had laid down that, in Northern India, the land revenue should be limited to one-half of the rental; and this rule had been extended to the Sagor and Narbada Territories.[^sec-22-fn-014] But what was the rule for Nagpur which now formed the larger portion of the Central Provinces?
 
-For Nagpur, the Government of India had sent directions[^sec-22-fn-015] to leave the Malguzars from 35 to 55 per cent. of the gross rental. And it was added that "the GovernorGeneral [p. 306] in Council would be disposed to leave the Malguzars in all cases 40 per cent. for expenses of management and proprietary rights, and to extend the limit in special cases to 50 per cent." These instructions were liberally interpreted by Richard Temple; and in the Settlement Code which he issued, with the sanction of the Governor-General, for application throughout the Central Provinces without any reservation,[^sec-22-fn-016] the only principle of assessment he laid down was the half-rental principle of the Saharanpur rules.
+For Nagpur, the Government of India had sent directions[^sec-22-fn-015] to leave the Malguzars from 35 to 55 per cent. of the gross rental. And it was added that "the Governor-General [p. 306] in Council would be disposed to leave the Malguzars in all cases 40 per cent. for expenses of management and proprietary rights, and to extend the limit in special cases to 50 per cent." These instructions were liberally interpreted by Richard Temple; and in the Settlement Code which he issued, with the sanction of the Governor-General, for application throughout the Central Provinces without any reservation,[^sec-22-fn-016] the only principle of assessment he laid down was the half-rental principle of the Saharanpur rules.
 
 These, then, were the two main principles of the Settlement of the Central Provinces:—
 
@@ -3554,10 +3539,8 @@ While the principle of permanency in the Government demand was admitted in this 
 
 The fiscal results of the new operations during fifteen years, from 1861 to 1875, are shown in the table on the opposite page.[^sec-23-fn-007]
 
-It will appear from these figures that the area under cultivation, as well as the Gross State-demand on the land, increased about 20 per cent. in fifteen years. But these figures do not indicate correctly the pressure of the Land Tax. In the first place, the new lands brought under cultivation were poorer in fertility and produce than the lands which were already under the plough in 1860, and the increase in production therefore was not 20 per cent., and scarcely came to half of that. In the second place, the price of the produce was lower at the end of the fifteen years than at its commencement, and what the cultivators actually got by the sale of their produce was therefore less for each garce[^sec-23-fn-008] than it was before. No wonder, therefore, that remissions had to be made from the
+It will appear from these figures that the area under cultivation, as well as the Gross State-demand on the land, increased about 20 per cent. in fifteen years. But these figures do not indicate correctly the pressure of the Land Tax. In the first place, the new lands brought under cultivation were poorer in fertility and produce than the lands which were already under the plough in 1860, and the increase in production therefore was not 20 per cent., and scarcely came to half of that. In the second place, the price of the produce was lower at the end of the fifteen years than at its commencement, and what the cultivators actually got by the sale of their produce was therefore less for each garce[^sec-23-fn-008] than it was before. No wonder, therefore, that remissions had to be made from the [p. 319] Government demand at the end of the period to the same extent as at the beginning. The Survey and Settlement of Madras, therefore, from which so much benefit had been expected, scarcely gave the relief that was needed. Some good was no doubt done. In the first place, the Land Tax was in a great measure equalised. In the second place, settlements for thirty years gave the cultivators relief from annual inquiries, harassment, and trouble. But judging the State-demand in relation to the total produce of the Province, and to the prices of that produce, it was undoubtedly a heavier taxation on the people in 1875 than it was in 1860. And the terrible Madras famine of 1877 proved fatally how little the new Settlement had added to the security and the staying power of the cultivators.
 
-
-<!-- page: 347 | folio: 319 -->
 
 **Land Revenue in Madras, Excluding Malabar and South Canara.**
 | Year. | Occupied Area in Acres. :: £ | Assessment Thereon. :: £ | Total Ryotwari Demand. :: £ | Cesses, &c. :: £ | Gross Demand. |
@@ -3577,8 +3560,6 @@ It will appear from these figures that the area under cultivation, as well as th
 | 1873 | 18,800,000 | 3,190,000 | 3,540,000 | 420,000 | 3,960,000 |
 | 1874 | 19,200,000 | 3,230,000 | 3,760,000 | 420,000 | 4,180,000 |
 | 1875 | 19,200,000 | 3,250,000 | 3,530,000 | 410,000 | 3,940,000 |
-
-Government demand at the end of the period to the same extent as at the beginning. The Survey and Settlement of Madras, therefore, from which so much benefit had been expected, scarcely gave the relief that was needed. Some good was no doubt done. In the first place, the Land Tax was in a great measure equalised. In the second place, settlements for thirty years gave the cultivators relief from annual inquiries, harassment, and trouble. But judging the State-demand in relation to the total produce of the Province, and to the prices of that produce, it was undoubtedly a heavier taxation on the people in 1875 than it was in 1860. And the terrible Madras famine of 1877 proved fatally how little the new Settlement had added to the security and the staying power of the cultivators.
 
 Better results might have been secured if the rule of 1864 of limiting the State-demand to one-half the nett produce of fields had been scrupulously adhered to. But in making settlements over large districts with 150,000 [p. 320] holdings, summary and expeditious methods were necessarily adopted. Individual cultivators were never allowed a chance of proving what total produce they obtained from their fields, what the expenses of their cultivation were, and what nett income remained to them. It was often assumed, in a general way, that one-third of the total produce should cover the cost of cultivation. It was assumed that 28s. covered the cost of cultivating an acre of good land, and 12s. was all that was allowed for cultivating an acre of ordinary arenaceous sandy soil. Every cultivator in Madras knew, and Englishmen with any experience of the Province knew, that this was inadequate."[^sec-23-fn-011]
 
@@ -3770,10 +3751,8 @@ Further changes were made in the following year by Act <span class="sc">xiii</sp
 
 Valuable evidence on the operation of these duties on trade was given before the Select Committees of the House of Commons which sat in 1871, 1872, 1873, and 1874. It is necessary therefore to refer to some portions of this voluminous evidence.
 
-John Nutt Bullen, a prominent Calcutta merchant who had sat on Ashley Eden's Tariff Committee of 1860,
+John Nutt Bullen, a prominent Calcutta merchant who had sat on Ashley Eden's Tariff Committee of 1860, [p. 338] complained of the export duty of 4½d. per maund (82 lbs.) of grain, and said it fell on the grower of rice, and was, to that extent, an addition to the Land Tax. The import duty of 5 per cent. on cotton piece goods was, he considered, moderate and unobjectionable.[^sec-25-fn-002] There were only two or three cotton spinning and weaving mills in Calcutta.
 
-
-<!-- page: 366 | folio: 338 -->
 
 ***Import Duties.***
 | Col 1 | Col 2 |
@@ -3806,8 +3785,6 @@ John Nutt Bullen, a prominent Calcutta merchant who had sat on Ashley Eden's Tar
 | Shell lac, lac dye | 4 per cent. |
 | Oils | 3 „ |
 | Seeds and spices | 3 „ |
-
-complained of the export duty of 4½d. per maund (82 lbs.) of grain, and said it fell on the grower of rice, and was, to that extent, an addition to the Land Tax. The import duty of 5 per cent. on cotton piece goods was, he considered, moderate and unobjectionable.[^sec-25-fn-002] There were only two or three cotton spinning and weaving mills in Calcutta.
 
 Sir Bartle Frere spoke guardedly on the effect of keeping down the import duty on cotton piece goods in order to foster the sale of British goods. "There is this difficulty," he said, "that the interests of India and of England on that point seem rather at variance. No doubt some considerable increase of revenue might be realised by increasing the import duties, say, upon piece goods and yarns, but the direct result of that would be to [p. 339] diminish consumption and to stimulate production on the spot.”[^sec-25-fn-003]
 
@@ -4143,7 +4120,15 @@ And the people of India—those who paid the cost of railways and irrigation wor
 [^sec-26-fn-006]: (2) Quoted in Lord Mayo's Despatch, dated March 11, 1869.
 [^sec-26-fn-007]: (1) Report of 1873; Questions 4589, 4777, 4781.
 [^sec-26-fn-008]: (2) Report of 1872; Question 6774.
-[^sec-26-fn-009]: (1) Five years ago (in 1898) I had the privilege of being examined as a witness by the Indian Currency Committee, of which the Right Hon. Sir Henry Fowler was the Chairman; and I may be pardoned if I quote some portion of my own evidence to elucidate the remarks which I have made above. "An endeavour ought to have been made during those years of peace (1878 to 1898) to bring down our Public Debt, so that we might borrow again when it was necessary to do so. And I further say that the people of India—say one financial representative from each of the five great Provinces—ought to be consulted by the Government; they should form a Committee; and some place should be found for them in the Viceroy's Executive Council, in order to advise the Viceroy and the Finance Minister in preparing every year's budget. A systematic endeavour should be made to reduce the Public Debt in every year of peace." "I remember the condition of India twenty years ago. At that time all the main lines had been opened. The new lines which have been opened since have not added much to the development of trade; they have been constructed rather with regard to local interests." "But all this is adding to our indebtedness, and it is a losing concern —according to your own showing—according to the last report published for the year 1897-98. We have lost 57 Crores of Rupees (thirty-eight millions sterling), and of that 28½ Crores (nineteen millions sterling) have been lost within the last twenty years. We should not abandon the railway system altogether, but we should be cautious, and I think the representatives of the people should be consulted before any new lines are sanctioned." Questions 10,727, 10,728, and 10,742.
+[^sec-26-fn-009]: (1) Five years ago (in 1898) I had the privilege of being examined as a witness by the Indian Currency Committee, of which the Right Hon. Sir Henry Fowler was the Chairman; and I may be pardoned if I quote some portion of my own evidence to elucidate the remarks which I have made above.
+
+    "An endeavour ought to have been made during those years of peace (1878 to 1898) to bring down our Public Debt, so that we might borrow again when it was necessary to do so. And I further say that the people of India—say one financial representative from each of the five great Provinces—ought to be consulted by the Government; they should form a Committee; and some place should be found for them in the Viceroy's Executive Council, in order to advise the Viceroy and the Finance Minister in preparing every year's budget. A systematic endeavour should be made to reduce the Public Debt in every year of peace."
+
+    "I remember the condition of India twenty years ago. At that time all the main lines had been opened. The new lines which have been opened since have not added much to the development of trade; they have been constructed rather with regard to local interests."
+
+    "But all this is adding to our indebtedness, and it is a losing concern —according to your own showing—according to the last report published for the year 1897-98. We have lost 57 Crores of Rupees (thirty-eight millions sterling), and of that 28½ Crores (nineteen millions sterling) have been lost within the last twenty years. We should not abandon the railway system altogether, but we should be cautious, and I think the representatives of the people should be consulted before any new lines are sanctioned."
+
+    Questions 10,727, 10,728, and 10,742.
 [^sec-26-fn-010]: (1) *Moral and Material Progress and Condition of India*, 1872-73. Ordered by the House of Commons to be printed, June 2, 1874, page 75.
 [^sec-26-fn-011]: (1) Report of 1872; Questions 8429 and 8560.
 [^sec-26-fn-012]: (2) Report of 1873; Question 813.
@@ -4184,10 +4169,8 @@ The figures on the next page, showing the revenues and expenditure of India duri
 
 It will appear from these figures that the gross revenues of India increased from 36 millions to 51 millions in eighteen years, *i.e.* by the end of 1875–76; and the portion of it spent in England, *i.e.* the Home Charges, increased within the same period from 7½ millions to 10 millions.
 
-Then followed the eventful year, 1876–77, when there was a decrease of Land Revenue on account of
+Then followed the eventful year, 1876–77, when there was a decrease of Land Revenue on account of [p. 373] the Madras famine. The somewhat sudden increase in the figures, representing the gross revenue and the gross expenditure of that year, is due to the inclusion in the accounts of the receipts and charges for interest in connection with Productive Works, as has been already explained. The whole of the nett railway receipts is shown on the revenue side from that year; and the whole of the Guaranteed Interest and Profits paid to Companies is shown on the expenditure side.
 
-
-<!-- page: 401 | folio: 373 -->
 
 | Year. | Land Revenue. :: £ | Gross Revenue. :: £ | Expenditure in England. :: £ | Gross Expenditure. :: £ |
 | --- | --- | --- | --- | --- |
@@ -4210,8 +4193,6 @@ Then followed the eventful year, 1876–77, when there was a decrease of Land Re
 | 1874–75 | 21,296,793 | 50,570,171 | 10,604,994 | 54,500,545 |
 | 1875–76 | 21,503,742 | 51,310,063 | 9,898,683 | 53,911,747 |
 | 1876–77 | 19,857,152 | 55,995,785 | 13,467,763 | 58,178,563 |
-
-the Madras famine. The somewhat sudden increase in the figures, representing the gross revenue and the gross expenditure of that year, is due to the inclusion in the accounts of the receipts and charges for interest in connection with Productive Works, as has been already explained. The whole of the nett railway receipts is shown on the revenue side from that year; and the whole of the Guaranteed Interest and Profits paid to Companies is shown on the expenditure side.
 
 The total Debt of India just before the Mutiny in 1856–57 was 59½ millions, and in the following year it rose to 69½ millions sterling. As the whole charge of the Mutiny wars was thrown on India, the Public Debt rose in 1860 to over a hundred millions. And as the construction of railways was undertaken by the State after the Guarantee System was abandoned, and railway lines were recklessly extended with borrowed capital, the Public Debt rose rapidly from 1870.
 
@@ -4664,17 +4645,6 @@ If the House of Commons exerted an undue pressure on India by passing its Resolu
 This mean sacrifice to party politics did not even secure a party triumph. The Conservatives were defeated at the general election of 1880.
 
 
-<!-- page: 445 | folio: 417 -->
-
-### BOOK III
-
-
-#### <span class="sc">under the empress</span>
-
-
-##### 1877–1900
-
-
 ### Notes
 
 [^sec-29-fn-001]: (1) Quoted in India Government Resolution No. 2636, dated August 12, 1875, forming an enclosure to Despatch No. 15 of 1875. The italics are our own.
@@ -4695,10 +4665,18 @@ This mean sacrifice to party politics did not even secure a party triumph. The C
 ## CHAPTER I: LYTTON AND RIPON
 
 
+<!-- page: 445 | folio: 417 -->
+
+### BOOK III
+
+
+#### <span class="sc">under the empress</span>
+
+
+##### 1877–1900
+
+
 <!-- page: 447 | folio: 419 -->
-
-### CHAPTER I
-
 
 #### <span class="sc">Lytton and Ripon</span>
 
@@ -5050,10 +5028,8 @@ The beneficial results of the Permanent Settlement of 1793, which limited the St
 
 The following figures, which we quote from a recent official document, represent the proportion of rent to the produce of the soil in fourteen districts, representative of the different parts of Bengal.[^sec-33-fn-001]
 
-It will be seen that in no district is the rental as high as one-fifth of the produce. As the Bengal Government remarks : “The figures in this table indicate with sufficient clearness that rents in Bengal amount, on the average, to little more than 11 per cent. of the gross produce of
+It will be seen that in no district is the rental as high as one-fifth of the produce. As the Bengal Government remarks : “The figures in this table indicate with sufficient clearness that rents in Bengal amount, on the average, to little more than 11 per cent. of the gross produce of [p. 462] the land." This pleasing assurance of the Bengal Government contrasts painfully with the disclosure made by the Famine Commission of 1900, that the Land Revenue levied by the State in Gujrat is 20 per cent. of the produce. The Land Revenue ought to be half the rental under the rule of 1864, and not double the rental. The State ought to be more considerate than private landlords, not more exacting and harsh.
 
-
-<!-- page: 490 | folio: 462 -->
 
 | District. | Proportion of Rent to the Average Produce. |
 | --- | --- |
@@ -5070,8 +5046,6 @@ It will be seen that in no district is the rental as high as one-fifth of the pr
 | Balasor | 11 " |
 | Muzaffarnagar | 16 " |
 | Cuttack | 14 " |
-
-the land." This pleasing assurance of the Bengal Government contrasts painfully with the disclosure made by the Famine Commission of 1900, that the Land Revenue levied by the State in Gujrat is 20 per cent. of the produce. The Land Revenue ought to be half the rental under the rule of 1864, and not double the rental. The State ought to be more considerate than private landlords, not more exacting and harsh.
 
 
 #### NORTHERN INDIA.
@@ -5281,25 +5255,9 @@ The people of the Province demand, not merely temporary abatements, but permanen
 
 #### <span class="sc">Rigid Rules and their Operation.</span>
 
-No task, more unsuitable for the State, can well be imagined than to intervene and settle the rent which each tiller should pay to his landlord, and no task has been worse performed. The rules for fixing the rent are so complicated that they are neither properly understood nor properly worked.[^sec-34-fn-010] Poorly instructed and poorly paid Patels
+No task, more unsuitable for the State, can well be imagined than to intervene and settle the rent which each tiller should pay to his landlord, and no task has been worse performed. The rules for fixing the rent are so complicated that they are neither properly understood nor properly worked.[^sec-34-fn-010] Poorly instructed and poorly paid Patels [p. 486] and Patwaris, getting three shillings to six shillings a week, are expected to work according to these impossible inductive and deductive rules! As a matter of fact, they vaguely imagine that the Government wants an increase in rental, and they secure one. Two or three Assistant Settlement Officers in a District cannot efficiently check the work of Patels and Patwaris over thousands of square miles. The fixing of the rent is therefore often a poor guess work, and the mistakes are against the cultivator. And the cultivator has no independent Land Court to appeal to against the finding of the official paid three to six shillings a week.
 
-
-| Col 1 | Col 2 | Col 3 |
-| --- | --- | --- |
-| A | 50 × 32 = | 1600 |
-| B | 75 × 16 = | 1200 |
-| C | 25 ×   4 = | 100 |
-|  |  | 2900 |
-
-
-<!-- page: 514 | folio: 486 -->
-and Patwaris, getting three shillings to six shillings a week, are expected to work according to these impossible inductive and deductive rules! As a matter of fact, they vaguely imagine that the Government wants an increase in rental, and they secure one. Two or three Assistant Settlement Officers in a District cannot efficiently check the work of Patels and Patwaris over thousands of square miles. The fixing of the rent is therefore often a poor guess work, and the mistakes are against the cultivator. And the cultivator has no independent Land Court to appeal to against the finding of the official paid three to six shillings a week.
-
-The mistakes which are most frequently made in fixing and enhancing rents are known universally in the Central Provinces. In the first place the classification of lands is often wrong, and Patels have a habit of placing on a higher class lands which really fall under a lower class. In the second place, the crop experiments, by which the productiveness of the different classes of soil is judged, are often misleading; no adequate allowance is made for dryage and loss in harvesting. In the third place, much cultivable land is left uncultivated owing to the want of seed grain, want of bullocks, or the general poverty of the cultivator. All such land is, however, included by Government Officers in fixing the rental; and the landlord has to realise rents for lands which tenants cannot cultivate, or to pay revenue for lands for
-
-> ment, those obtained deductively from considerations based on the rise in prices, let it be supposed that prices would justify an enhancement of 33 per cent. on rents paid at a former settlement, whereas a comparison of the rental paid then and now, effected by contrasting the rate per acre in cultivation at both periods, shows that rents, considered in the aggregate, have risen by 10 per cent. only, a further enhancement of 23 on the original rental, or of 20 per cent. on the rental as it stands, is justified. The soil-unit system offers a means of distributing this enhancement equitably."
-
-> "In the hands of inductive reasoning, the system is then an instrument for arriving at the amount of an enhancement; it serves also as a means for fairly distributing an enhancement arrived at by deductive reasoning, as it reduces every Ryot's holding to, so to speak, a common denominator." [p. 487] which he gets no rent.[^sec-34-fn-011] In the fourth place, it is proved in the case of minor's estates, which the State administers for those minors, that State Officers are themselves unable to realise the rents they have fixed by something like 10 per cent. Private landlords necessarily bear a heavier loss. Fifthly, the instalments of the Government demand are not judiciously fixed. A large instalment is demanded in February in order to complete the collection within the financial year. Landlords press their tenants for rent in January in order to pay the revenue in February. The crops are not yet harvested in January, and the tenants have to mortgage standing crops, much under their fair value, to money-lenders in order to pay rents. Sixthly and lastly, while the law of Bengal empowers the Government to sell an estate in default of payment of revenue, the law of the Central Provinces empowers revenue officers to arrest a landlord and send him to prison for default. Such severity, unknown in the revenue laws of Bengal, is a stain on the administration of the Central Provinces.
+The mistakes which are most frequently made in fixing and enhancing rents are known universally in the Central Provinces. In the first place the classification of lands is often wrong, and Patels have a habit of placing on a higher class lands which really fall under a lower class. In the second place, the crop experiments, by which the productiveness of the different classes of soil is judged, are often misleading; no adequate allowance is made for dryage and loss in harvesting. In the third place, much cultivable land is left uncultivated owing to the want of seed grain, want of bullocks, or the general poverty of the cultivator. All such land is, however, included by Government Officers in fixing the rental; and the landlord has to realise rents for lands which tenants cannot cultivate, or to pay revenue for lands for [p. 487] which he gets no rent.[^sec-34-fn-011] In the fourth place, it is proved in the case of minor's estates, which the State administers for those minors, that State Officers are themselves unable to realise the rents they have fixed by something like 10 per cent. Private landlords necessarily bear a heavier loss. Fifthly, the instalments of the Government demand are not judiciously fixed. A large instalment is demanded in February in order to complete the collection within the financial year. Landlords press their tenants for rent in January in order to pay the revenue in February. The crops are not yet harvested in January, and the tenants have to mortgage standing crops, much under their fair value, to money-lenders in order to pay rents. Sixthly and lastly, while the law of Bengal empowers the Government to sell an estate in default of payment of revenue, the law of the Central Provinces empowers revenue officers to arrest a landlord and send him to prison for default. Such severity, unknown in the revenue laws of Bengal, is a stain on the administration of the Central Provinces.
 
 
 #### <span class="sc">Tenancy Act of 1898 and Needed Reforms</span>.
@@ -5318,7 +5276,22 @@ A consolidating and amending Rent Act, passed in 1898, has not improved the posi
 [^sec-34-fn-007]: (2) Letter of the Government of India, dated August 24, 1887.
 [^sec-34-fn-008]: (3) Letter to the Government of India, dated March 16, 1888.
 [^sec-34-fn-009]: (1) Letter from the Government of India, dated May 31, 1888.
-[^sec-34-fn-010]: (1) The complexity of the rules may be imagined from the following extracts from the *Introduction to the Central Provinces Settlement Code* issued in 1891:— “The first step in working this system is to ascertain the various classes of land. . . . The next step is to determine the relative value of each class expressed in the number of soil units per acre. . . . A scale of factors having been framed showing the number of soil units of each land class compared with other classes, the number of soil units in each holding or village is calculated by multiplying the area of each soil class by the factor of the class. Thus, for instance, if 150 acres of land fall into three soil-classes, the factors for which are 32 for A, 16 for B, and 4 for C, the areas being respectively 50, 75, and 25 acres, the number of soil units will be— “If the existing rental payment was 275 rupees, its incidence per soil unit would be <sup>275</sup>/<sub>2900</sub> = 1.5 anna.” “Coming now to the second class of arguments used in rent enhance-
+[^sec-34-fn-010]: (1) The complexity of the rules may be imagined from the following extracts from the *Introduction to the Central Provinces Settlement Code* issued in 1891:—
+
+    “The first step in working this system is to ascertain the various classes of land. . . . The next step is to determine the relative value of each class expressed in the number of soil units per acre. . . . A scale of factors having been framed showing the number of soil units of each land class compared with other classes, the number of soil units in each holding or village is calculated by multiplying the area of each soil class by the factor of the class. Thus, for instance, if 150 acres of land fall into three soil-classes, the factors for which are 32 for A, 16 for B, and 4 for C, the areas being respectively 50, 75, and 25 acres, the number of soil units will be—
+
+    | Col 1 | Col 2 | Col 3 |
+    | --- | --- | --- |
+    | A | 50 × 32 = | 1600 |
+    | B | 75 × 16 = | 1200 |
+    | C | 25 ×   4 = | 100 |
+    |  |  | 2900 |
+
+    “If the existing rental payment was 275 rupees, its incidence per soil unit would be <sup>275</sup>/<sub>2900</sub> = 1.5 anna.”
+
+    “Coming now to the second class of arguments used in rent enhancement, [p. 486] those obtained deductively from considerations based on the rise in prices, let it be supposed that prices would justify an enhancement of 33 per cent. on rents paid at a former settlement, whereas a comparison of the rental paid then and now, effected by contrasting the rate per acre in cultivation at both periods, shows that rents, considered in the aggregate, have risen by 10 per cent. only, a further enhancement of 23 on the original rental, or of 20 per cent. on the rental as it stands, is justified. The soil-unit system offers a means of distributing this enhancement equitably."
+
+    "In the hands of inductive reasoning, the system is then an instrument for arriving at the amount of an enhancement; it serves also as a means for fairly distributing an enhancement arrived at by deductive reasoning, as it reduces every Ryot's holding to, so to speak, a common denominator."
 [^sec-34-fn-011]: (1) In the inquiries which I personally made in the Central Provinces in March 1903, I was informed in one District that nearly a fourth of the assessed land was left uncultivated that year. Rents could not be realised for most of these lands, but the revenue had to be paid.
 
 
@@ -5347,10 +5320,8 @@ The only rule which limited the discretion of the Settlement Officer was that he
 
 The Revision Settlement, commenced in 1866, went on slowly, and by 1899 (the year preceding the Bombay famine), only half the villages of the Province had been revised. Out of 27,781 villages in the Province, only 13,369½ had been resettled. And the figures[^sec-35-fn-001] showing the old demand, and the revised demand, indicate the enormous increase which had been secured.
 
-The figures on the opposite page call for one or two remarks. The headings of columns 3 and 4 will show that this increase of 30 per cent. was not the result of the slow extension in cultivation during thirty years; it was obtained in the year of the revision. As Auckland Colvin
+The figures on the opposite page call for one or two remarks. The headings of columns 3 and 4 will show that this increase of 30 per cent. was not the result of the slow extension in cultivation during thirty years; it was obtained in the year of the revision. As Auckland Colvin [p. 491] had pointed out in 1876, a slow increase in the Land Revenue is obtained in Bombay during the term of a Settlement; and then a sudden and additional increase is obained at the Revision Settlement. It need hardly be repeated that this sudden increase in the Land Revenue is made without consulting the cultivator. Sir Bartle Frere had expressed a desire, in his evidence before the Select Committee of 1872, that the cultivators of Bombay should be consulted, and should have their say, when a new Settlement was proposed. As a fact, however, the cultivators are not consulted; they know the revised State-demand for the first time when it is announced to them.
 
-
-<!-- page: 519 | folio: 491 -->
 
 | District. | Number of Villages resettled. | Revenue realised in the Year before Revision. :: £ | Revenue demand in con-sequence of the Revision. :: £ | Percent-age of Increase. |
 | --- | --- | --- | --- | --- |
@@ -5370,8 +5341,6 @@ The figures on the opposite page call for one or two remarks. The headings of co
 | Dharwar . . . | 1290 | 129,868 | 187,253 | 44.2 |
 | Bijapar . . . | 995 | 81,631 | 109,043 | 33.6 |
 | Total . . . | 13,369½ | 1,446,600 | 1,886,854 | 30.4 |
-
-had pointed out in 1876, a slow increase in the Land Revenue is obtained in Bombay during the term of a Settlement; and then a sudden and additional increase is obained at the Revision Settlement. It need hardly be repeated that this sudden increase in the Land Revenue is made without consulting the cultivator. Sir Bartle Frere had expressed a desire, in his evidence before the Select Committee of 1872, that the cultivators of Bombay should be consulted, and should have their say, when a new Settlement was proposed. As a fact, however, the cultivators are not consulted; they know the revised State-demand for the first time when it is announced to them.
 
 A system of calculating and determining the revised demand, without consulting those on whom it is imposed, is convenient for expeditious work, but is not just to the Peasant Proprietors. They have not the right or the opportunity of restraining the demand within one-half the nett produce of their fields. They cannot limit the enhancement to a rate proportionate to the rise in prices [p. 492] or the increase in cultivation. They have no chance of proving how far the increased demand trenches on improvements made by themselves. And they are not permitted to appeal against the new assessment to an independent tribunal, after the assessment has been proclaimed to them. The result is what might be expected. The Hon. Gokuldas Parekh, a Member of the Legislative Council of Bombay, has shown from the official figures, exhibiting the results of crop experiments made by Government Officials, that among the large class of cultivators in Gujrat, who own holdings of five acres and less and are unable to grow rich rice, the value of their out-turn is not sufficient even in ordinary years to enable them to meet the Government demand, the cost of tillage, and the maintenance expense of their families and cattle. And he also proves that, "Even a large proportion of the cultivators, holding up to ten acres, are unable to get out-turns sufficient for the payment of the cost of cultivation and their maintenance."[^sec-35-fn-002]
 
@@ -5693,10 +5662,8 @@ The first steps towards abolishing this system were taken by the Government of L
 
 *Coal.*—Coal is found over a very extensive area in India, and mines are worked in different parts of the country, mostly with European capital. The rapid increase in the industry, and in the annual output in recent years, is shown by the figures on the next page.
 
-“These figures,” writes the official chronicler whom we have quoted before, “look very small if compared with the 219 millions of tons produced in the United Kingdom in 1901; but the amount is sufficient to meet the present Indian demand for coal.”[^sec-37-fn-005] The Indian railways use Indian coal almost exclusively; and less than 1 per
+“These figures,” writes the official chronicler whom we have quoted before, “look very small if compared with the 219 millions of tons produced in the United Kingdom in 1901; but the amount is sufficient to meet the present Indian demand for coal.”[^sec-37-fn-005] The Indian railways use Indian coal almost exclusively; and less than 1 per [p. 526] cent. of the coal they used in 1902 was drawn from abroad. Iron and steel industries are largely helped by the Indian coal, and mills all over the country depend upon it. Coal is also largely used in towns as fuel for domestic purposes. The coal mines and quarries under the Mines Act, *i.e.* those which are not less than 20 feet in depth, gave employment to 85,361 persons in 1901.
 
-
-<!-- page: 554 | folio: 526 -->
 
 | Province. | Output in Tons. :: 1892. | Output in Tons. :: 1901. |
 | --- | --- | --- |
@@ -5711,8 +5678,6 @@ The first steps towards abolishing this system were taken by the Government of L
 | Nizam's Territory | 149,601 | 421,218 |
 | Madras | 61 | nil. |
 | Total | 2,537,696 | 6,849,249 |
-
-cent. of the coal they used in 1902 was drawn from abroad. Iron and steel industries are largely helped by the Indian coal, and mills all over the country depend upon it. Coal is also largely used in towns as fuel for domestic purposes. The coal mines and quarries under the Mines Act, *i.e.* those which are not less than 20 feet in depth, gave employment to 85,361 persons in 1901.
 
 *Gold.*—The production of gold in India is practically confined to Mysore, which produced 529,782 ounces in 1901; and this represents 99 per cent. of the Indian yield for the year. The labour employed amounts to 21,000 hands. A very small amount of gold is obtained by sand-washing in Northern India and Burma. The Wynaad fields of Madras have proved a failure; and the amount produced in the Nizam's territory is small.
 
@@ -6068,11 +6033,22 @@ In some provinces a year of heavy rainfall means a larger distribution of canal 
 
 | Province. | Canals. | Acres irrigated. |
 | --- | --- | --- |
-| Bengal . . . | Orissa Canals . Midnapur Canal . Sone Canal . | 201,498 82,134 557,494 |
+| Bengal | Orissa Canals | 201,498 |
+|  | Midnapur Canal | 82,134 |
+|  | Sone Canal | 557,494 |
 | Agra and Oudh . | East Jumna and two Ganges Canals and other Works . | 2,741,400 |
-| Punjab . . . | West Jumna Canal . Bari Doab Canal . Sirhind British Canal . Sirhind Native State Canal . Chinab Canal . Jhelum Canal . Sohag, Para and Sidhnai Canals . | 589,955 856,041 728,908 341,553 1,748,129 65,367 161,885 |
+| Punjab | West Jumna Canal | 589,955 |
+|  | Bari Doab Canal | 856,041 |
+|  | Sirhind British Canal | 728,908 |
+|  | Sirhind Native State Canal | 341,553 |
+|  | Chinab Canal | 1,748,129 |
+|  | Jhelum Canal | 65,367 |
+|  | Sohag, Para and Sidhnai Canals | 161,885 |
 | Bombay . . . | Nira, Mutha, and other Canals . . | 139,040 |
-| Madras . . . | Kaveri, Krishna, and Godavari Canal systems, about . . . Periyar system . . . . Rushikulya system . . . . Pennar and other Canals . . . | 2,500,000 154,000 84,3000 not given |
+| Madras | Kaveri, Krishna, and Godavari Canal systems, about | 2,500,000 |
+|  | Periyar system | 154,000 |
+|  | Rushikulya system | 84,3000 |
+|  | Pennar and other Canals | not given |
 
 For all these reasons, the area irrigated in India varies from year to year.
 
@@ -6348,10 +6324,8 @@ From 1849–50 to 1894–5 there has been a net deficit of 37.62 million Rs. [tw
 
 Yes. In every department of Indian expenditure the question of agency is one of paramount importance. According to a Parliamentary return of May 1892, we have in India in the higher branches of the civil and military departments a total of 2388 officers drawing Rs. 10,000 a year and upwards, of whom only sixty are Natives of India, and even these, with the exception of such as are Judges, stop at a comparatively low level. And they are thus divided. (See table on next page.)
 
-In addition to these the railway companies employ 105 officers, drawing Rs. 10,000 a year and more. They are all Europeans, and their total salaries come to 16 lakhs 28 thousand rupees. If we come down to officers drawing between Rs. 5000 and Rs. 10,000 a year we find that we have 421 Natives in the civil department,
+In addition to these the railway companies employ 105 officers, drawing Rs. 10,000 a year and more. They are all Europeans, and their total salaries come to 16 lakhs 28 thousand rupees. If we come down to officers drawing between Rs. 5000 and Rs. 10,000 a year we find that we have 421 Natives in the civil department, [p. 573] as against 1207 Europeans and 96 Eurasians. In the military department there are 25 Natives, as against 1699 Europeans and 22 Eurasians. In the public works department there are 85 Natives, as against 549 Europeans and 39 Eurasians. And in the incorporated local funds there are 4 Natives, as against 22 Europeans and 3 Eurasians. The total salaries of officers of this class are thus divided:—Civil Department: Natives, Rs. 2,905,000; Eurasians, Rs. 650,000; and Europeans, Rs. 8,830,000. In the Military Departments: Natives, Rs. 164,000; Eurasians, Rs. 139,000; and Europeans, Rs. 13,698,000. In the Public Works Department: Natives, Rs. 537,000; Eurasians, Rs. 278,000; and Europeans, Rs. 3,962,000. And in the Incorporated Local Funds: Natives, Rs. 25,000; Eurasians, Rs. 17,000; and Europeans, Rs. 146,000. In addition to these there are, under the railway companies, 258 officers of this class, of whom only 2 are Natives, 8 being Eurasians, and 248 Europeans. Their salaries are thus divided: Natives, Rs. 12,000; Eurasians, Rs. 50,000; and Europeans, Rs. 17,100,000. In England £125,360 is paid as salaries by the Indian Government, and £54,522 by railway companies, all to Europeans. The financial loss entailed by this practical monopoly by Europeans of the higher branches of the services in [p. 574] India is not represented by salaries only. There are besides heavy pension and furlough charges, more than three and a half millions sterling being paid to Europeans in England for the purpose in 1890. The excessive costliness of the foreign agency is not, however, its only evil. There is a moral evil which, if anything, is even greater, A kind of dwarfing or stunting of the Indian race is going on under the present system. We must live all the days of our life in an atmosphere of inferiority, and the tallest of us must bend in order that the exigencies of the existing system may be satisfied.
 
-
-<!-- page: 601 | folio: 573 -->
 
 | Item | Natives. | Eurasians. | Europeans. | In Thousands of Rupees. :: Total Salaries of Natives. | Total Salaries of Eurasians. | Total Salaries of Europeans. |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -6360,8 +6334,6 @@ In addition to these the railway companies employ 105 officers, drawing Rs. 10,0
 | Public works . . | 3 | 4 | 239 | 33 | 45 | 3,415 |
 | Incorporated local funds . . . . | 1 | ... | 9 | 10 | ... | 113 |
 |  | 60 | 15 | 2313 | 1002 | 207 | 42,070 |
-
-as against 1207 Europeans and 96 Eurasians. In the military department there are 25 Natives, as against 1699 Europeans and 22 Eurasians. In the public works department there are 85 Natives, as against 549 Europeans and 39 Eurasians. And in the incorporated local funds there are 4 Natives, as against 22 Europeans and 3 Eurasians. The total salaries of officers of this class are thus divided:—Civil Department: Natives, Rs. 2,905,000; Eurasians, Rs. 650,000; and Europeans, Rs. 8,830,000. In the Military Departments: Natives, Rs. 164,000; Eurasians, Rs. 139,000; and Europeans, Rs. 13,698,000. In the Public Works Department: Natives, Rs. 537,000; Eurasians, Rs. 278,000; and Europeans, Rs. 3,962,000. And in the Incorporated Local Funds: Natives, Rs. 25,000; Eurasians, Rs. 17,000; and Europeans, Rs. 146,000. In addition to these there are, under the railway companies, 258 officers of this class, of whom only 2 are Natives, 8 being Eurasians, and 248 Europeans. Their salaries are thus divided: Natives, Rs. 12,000; Eurasians, Rs. 50,000; and Europeans, Rs. 17,100,000. In England £125,360 is paid as salaries by the Indian Government, and £54,522 by railway companies, all to Europeans. The financial loss entailed by this practical monopoly by Europeans of the higher branches of the services in [p. 574] India is not represented by salaries only. There are besides heavy pension and furlough charges, more than three and a half millions sterling being paid to Europeans in England for the purpose in 1890. The excessive costliness of the foreign agency is not, however, its only evil. There is a moral evil which, if anything, is even greater, A kind of dwarfing or stunting of the Indian race is going on under the present system. We must live all the days of our life in an atmosphere of inferiority, and the tallest of us must bend in order that the exigencies of the existing system may be satisfied.
 
 
 ##### <span class="sc">Mr. G. Subramania Iyer on Control over Finance.</span>
@@ -6803,10 +6775,8 @@ Lastly, the Civil and Military charges include payments to the Imperial Excheque
 
 *Wages and Prices.*—The average monthly wages of able-bodied agricultural labourers in different parts of India during the last half of 1902 are shown below from official figures. (See table on next page.)
 
-Leaving out exceptionally rich districts like Backergunj, Delhi, and Ahmedabad, and exceptionally poor districts like Fyzabad, the wages of the able-bodied agricultural labourer range from 4s. 8d. to 6s. 8d. a month. Except in very rich districts, therefore, the agricultural labourer does not get even 3d. a day; his average earnings scarcely come to 2½d. per day. Some deduction should be made from this, as he does not get employment all through the year; and 2d. a day therefore is
+Leaving out exceptionally rich districts like Backergunj, Delhi, and Ahmedabad, and exceptionally poor districts like Fyzabad, the wages of the able-bodied agricultural labourer range from 4s. 8d. to 6s. 8d. a month. Except in very rich districts, therefore, the agricultural labourer does not get even 3d. a day; his average earnings scarcely come to 2½d. per day. Some deduction should be made from this, as he does not get employment all through the year; and 2d. a day therefore is [p. 606] more than he hopes to get throughout the year. The appalling poverty and joylessness of his life under such conditions can not be easily pictured. His hut is seldom rethatched, and affords little shelter from cold and rain; his wife is clothed in rags; his little children go without clothing. Of furniture he has none; an old blanket is quite a luxury in the cold weather; and if his children can tend cattle, or his wife can do some work to eke out his income, he considers himself happy. It is literally a fact, and not a figure of speech, that agricultural labourers and their families in India generally suffer from insufficient food from year's end to year's end. They are brought up from childhood on less nourishment than is required even in the tropics, and grow up to be a nation weak in physique, stunted in growth, easy victims to disease, plague or famine.
 
-
-<!-- page: 634 | folio: 606 -->
 
 | Province. | District. | Monthly Wages. |
 | --- | --- | --- |
@@ -6816,8 +6786,6 @@ Leaving out exceptionally rich districts like Backergunj, Delhi, and Ahmedabad, 
 | Bombay . | Ahmedabad . | 9s. 4d. |
 | Madras . | { Bellary . Salem . | 6s. 4d. 4s. 8d. |
 | Central Provinces . | { Jabalpur . Raipur . | 5s. 4d. 5s. 4d. |
-
-more than he hopes to get throughout the year. The appalling poverty and joylessness of his life under such conditions can not be easily pictured. His hut is seldom rethatched, and affords little shelter from cold and rain; his wife is clothed in rags; his little children go without clothing. Of furniture he has none; an old blanket is quite a luxury in the cold weather; and if his children can tend cattle, or his wife can do some work to eke out his income, he considers himself happy. It is literally a fact, and not a figure of speech, that agricultural labourers and their families in India generally suffer from insufficient food from year's end to year's end. They are brought up from childhood on less nourishment than is required even in the tropics, and grow up to be a nation weak in physique, stunted in growth, easy victims to disease, plague or famine.
 
 Agriculturists who have lands are better off. They are better housed, better clothed, and have more sufficient food. But a severe Land Tax or rent takes away much from their earnings, and falls on the labouring classes also. For where the cultivator is lightly taxed, and has more to spare, he employs more labour, and labour is better paid. In Backergunj, where the land is lightly rented [p. 607] and the cultivator is prosperous, the labourer employed by him gets 10*s.* 8*d.* a month. In Salem, where the land is heavily taxed, and the cultivator is poor, the labourer he employs earns 4*s.* 8*d.* a month. It is this fact which appeals strongly to the Indian economist familiar with the circumstances of his fellow-villagers; it is this fact which is ignored by the Settlement Officer when he enhances the Land Tax. A moderate Land Tax relieves the landless village labourer as much as the cultivator; a heavy Land Tax presses ultimately on the landless labourer, deprives him of work, reduces his wages, and renders him an easy victim to the first onset of famines. We have in these pages again and again urged a limitation of the Land Tax within moderate and definite limits, because a moderate and definite Land Tax is calculated to improve the condition of the entire village population of British India—all the 200 millions who own lands and who labour on lands. And the Native States of India would soon follow the lead of the British Government in this matter, as they do in other details of administration.
 
@@ -6906,15 +6874,14 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Coinage, 579
 - Cotton Duties (1896), 543
 - India Councils, 446
-- —— (Pitt, 1774), 113, 180
-- —— (1833), 188, 192
+  - —— (Pitt, 1774), 113, 180
+  - —— (1833), 188, 192
 - Jaigirs Descent, 471
 - Land Alienation, 471
-- —— Revenue, 268, 269, 270, 490,
-- 494, 495
+  - —— Revenue, 268, 269, 270, 490, 494, 495
 - Rent, Bengal, 241, 263, 437, 501
-- —— Oudh, 268, 470, 501
-- —— Punjab, 501
+  - —— Oudh, 268, 470, 501
+  - —— Punjab, 501
 - Revenue Jurisdiction, 490
 - Tariff, 337, 402–415, 538, 541
 - Tenancy, 270, 471, 476, 478,
@@ -6922,10 +6889,8 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Vernacular Press, 433, 434
 - Aden, 558, 559, 560
 - Administration (E. I. Co.), 179–209
-- Afghanistan, 6–12, 84, 218, 231, 248–
-- 261, 375, 412, 420–424, 427–
-- 432, 433, 441, 445, 555
-- —— *History of War in* (Kaye), 9
+- Afghanistan, 6–12, 84, 218, 231, 248–261, 375, 412, 420–424, 427–432, 433, 441, 445, 555
+  - —— *History of War in* (Kaye), 9
 - *Afghan War, Second* (Hanna), 432
 - Afridi War, 454
 - Agra, 33, 37, 41, 46, 189, 199, 273,
@@ -6945,7 +6910,7 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Arbitration, Court of, 560–561
 - Arbuthnot, Sir Alex., 414
 - Arcot, N., 70, 71, 75, 94, 176
-- —— S., 70, 172, 309, 316
+  - —— S., 70, 172, 309, 316
 - Area, Brit. India, 602; Nat. States,
 - 603
 - Argentine Republic, 547
@@ -6955,9 +6920,8 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - 456, 558
 - Assam, 102, 105, 143, 144, 352, 519,
 - 521, 522, 526, 527
-- Association, British Indian, 155,
-- 186
-- —— Indian Reform, 27
+- Association, British Indian, 155, 186
+  - —— Indian Reform, 27
 - Atta Muhammad, 422, 423, 428
 - Auckland, Lord, 3–12, 14, 88, 152,
 - 167, 181, 202, 212, 217
@@ -6967,8 +6931,8 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - <span class="sc">Backergunj</span>, 605, 606
 - Bagshaw, John, M.P., 125, 126
 - Balfour, Arthur, M.P., 579
-- —— General Sir George, 364
-- —— Lady Betty, 426
+  - —— General Sir George, 364
+  - —— Lady Betty, 426
 - Ballantyne, Sergeant, 259
 - Banda, 610
 - Bandelkhand, 553
@@ -6978,7 +6942,7 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Bareili, 39, 41, 46, 611
 - Baring, Sir Evelyn, *see Cromer*
 - Baroda, 32, 177, 556
-- —— Gaekwar of, 258, 556
+  - —— Gaekwar of, 258, 556
 - Bazley, Thomas, 131, 132
 - Beadon, Cecil, 280, 281
 - Behar, 279, 460
@@ -6990,24 +6954,18 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Benares, 20, 33, 40, 41, 46, 100, 107,
 -     154, 198, 279
 - Bengal, 33, 93-526, *passim*
-- —— British Indian Association, 186,
--     192
-- —— *Journal*, 205
-- —— Land Administration, 460-462
-- —— Land Reform, 263-264
-- —— Permanent Settlement, 33-35.
--     *See Land*
-- —— Rent Act, *see Act*
+  - —— British Indian Association, 186, 192
+  - —— *Journal*, 205
+  - —— Land Administration, 460-462
+  - —— Land Reform, 263-264
+  - —— Permanent Settlement, 33-35. *See Land*
+  - —— Rent Act, *see Act*
 - Bentinck, Lord George, 125
-- —— Lord William, 3, 4, 27, 30,
--     34, 88, 102, 103, 110, 133, 134,
--     188, 189, 201, 202, 207, 208, 212,
--     216, 241, 242, 245, 378, 395, 434,
--     439, 510
+  - —— Lord William, 3, 4, 27, 30, 34, 88, 102, 103, 110, 133, 134, 188, 189, 201, 202, 207, 208, 212, 216, 241, 242, 245, 378, 395, 434, 439, 510
 - Berar, 29, 31, 291, 346, 553
 - Bernard, Sir Charles, 557
 - Bethune, Drinkwater, 192, 204
-- —— School, 204
+  - —— School, 204
 - Bhutan State, 246
 - Bhamo, 444
 - Bharat Pal, 26
@@ -7019,21 +6977,19 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Bokhara, 8
 - Bolan Pass, 423, 431
 - Bombay, 4, 25, 49, *passim*
-- —— Land Settlements, *see Land*
-- —— Native Association, 186
+  - —— Land Settlements, *see Land*
+  - —— Native Association, 186
 - Bonnerjea, W. C., 445
 - Bose, Hon. B. K., 482, 483
 - Bourdillon, Mr., 71, 75
-- —— on Madras Ryot, 71-73
+  - —— on Madras Ryot, 71-73
 - Bowden, Mr., 320
 - Brackenbury, Sir Henry: Evidence,
 -     Expend. Com., 566-568, 576
 - Bradlaugh, Charles, M.P., 449
 - Briggs, Major-General, 133, 134
 - Bright, Dr. Frank, 224
-- —— John, M.P., 73, 129, 138,
--     139, 141, 143, 217, 219, 221,
--     346, 363, 364, 370
+  - —— John, M.P., 73, 129, 138, 139, 141, 143, 217, 219, 221, 346, 363, 364, 370
 - Bristol, Chamber of Commerce, 149
 - Broach, 132, 134
 - Brocklehurst, Mr., 99, 109-113, 119-
@@ -7052,20 +7008,19 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Burnes, Sir Alexander, 9, 430
 - <span class="sc">Caine</span>, W. S., M.P., 557, 559
 - Calcutta, 10, 15, 104-606, *passim*
-- —— *Journal*, 206
-- —— Municipality, 457, 458
-- —— *Review*, 167
+  - —— *Journal*, 206
+  - —— Municipality, 457, 458
+  - —— *Review*, 167
 - Cameron, Hay, 180, 187, 192, 201
 - Campbell, Capt. Walter, 70
-- —— Sir George, 73, 179, 364, 397
+  - —— Sir George, 73, 179, 364, 397
 - Canals, 167, 168, 169, 170, 365, 367,
 -     368
 - Canara, 75, 318, 319, 495, 496
 - Canning, George, 244
-- —— Lord, x., xi., 13, 88-510,
--     *passim*
-- —— Administration, 239-244
-- —— Lady, 240, 241
+  - —— Lord, x., xi., 13, 88-510, *passim*
+  - —— Administration, 239-244
+  - —— Lady, 240, 241
 - Canora, Colonel, 21, 22
 - Cantley, Captain, 167
 - Canton, 100
@@ -7077,10 +7032,10 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Cawnpur, 36, 41, 46, 240
 - Ceded Districts, the, 313
 - Central Provinces, 27, 49-610, *passim*
-- —— Administration, 472-488
-- —— Land Settlements, *see Land*
-- —— Settlement Code, 485
-- —— Tenancy Act, *see Act*
+  - —— Administration, 472-488
+  - —— Land Settlements, *see Land*
+  - —— Settlement Code, 485
+  - —— Tenancy Act, *see Act*
 - Cesses, local, on land, *see Land*
 - Ceylon, 560
 - Chamberlain, Sir Neville, 429
@@ -7092,10 +7047,8 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Chatterjea, B. C., 242
 - Chesney, Lieutenant-Colonel, 355
 - Chilianwalla, 22, 23, 85
-- China, 100, 154, 155, 218, 244, 375,
--     386, 444, 452, 453, 522, 588, 590,
--     608
-- —— Association, 108, 185
+- China, 100, 154, 155, 218, 244, 375, 386, 444, 452, 453, 522, 588, 590, 608
+  - —— Association, 108, 185
 - Chisholm, Mr., 304
 - Chitral, 424, 450, 454
 
@@ -7111,30 +7064,21 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Cobden, Richard, 60, 129, 179, 239
 - Coconada, 367
 - Code, Civil, 192, 193, 242
-- —— Criminal, 192, 193, 242
-- —— Penal, 192, 193, 242
-- —— Revenue, 334, 335
+  - —— Criminal, 192, 193, 242
+  - —— Penal, 192, 193, 242
+  - —— Revenue, 334, 335
 - Coimbatur, 71, 367
 - Coleroon, 171, 172
 - Colley, Colonel, 423
-- Colvin, Sir Auckland, 329–333, 447,
-- 489, 490, 557, 574
-- —— Evidence, Expend. Com., 568
-- —— Colonel John, 167
-- Commission, Expenditure (1895),
-- 555–577
-- —— Famine, 369, 492
-- —— Madras Land, 74–76
-- —— Public Service, 577
-- Commons, House of, 27, 34–598,
-- *passim*
-- —— Select Committees, 34, 35, 53,
-- 59, 61, 78, 79, 99–123, 125–142,
-- 143, 144, 145, 150, 152, 153, 173,
-- 177, 179–209, 311, 329, 337, 339,
-- 340, 342, 353, 360, 365–370,
-- 376–389, 432, 467, 491, 497,
-- 555
+- Colvin, Sir Auckland, 329–333, 447, 489, 490, 557, 574
+  - —— Evidence, Expend. Com., 568
+  - —— Colonel John, 167
+- Commission, Expenditure (1895), 555–577
+  - —— Famine, 369, 492
+  - —— Madras Land, 74–76
+  - —— Public Service, 577
+- Commons, House of, 27, 34–598, *passim*
+  - —— Select Committees, 34, 35, 53, 59, 61, 78, 79, 99–123, 125–142, 143, 144, 145, 150, 152, 153, 173, 177, 179–209, 311, 329, 337, 339, 340, 342, 353, 360, 365–370, 376–389, 432, 467, 491, 497, 555
 - *Condemned Unheard* (Digby), 447,
 - 448
 - Congress, National Indian, 445
@@ -7144,12 +7088,9 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Cope, Thomas, 119, 120
 - Cornwallis, Lord, 38, 89, 190, 198,
 - 205, 263, 280, 391, 396, 509
-- Cotton, Sir Arthur, 71, 137, 171,
-- 172, 360–370, 382, 432, 545,
-- 546, 550
-- —— *Life of* (Lady Hope), 172, 173,
-- 363
-- —— Sir Henry, 480, 522
+- Cotton, Sir Arthur, 71, 137, 171, 172, 360–370, 382, 432, 545, 546, 550
+  - —— *Life of* (Lady Hope), 172, 173, 363
+  - —— Sir Henry, 480, 522
 - Cooper's Hill College, 355
 - Courtney, Leonard, 557
 - Courts, High, 243
@@ -7157,19 +7098,15 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Cranborne, Lord, *see* Salisbury
 - Cranbrook, Lord, 432, 579
 - Crawford, Robert, 132
-- Cromer, Lord (Sir Evelyn Baring),
-- 258, 537, 538, 557, 603
-- —— Evidence, Expend. Com., 560–
-- 561
+- Cromer, Lord (Sir Evelyn Baring), 258, 537, 538, 557, 603
+  - —— Evidence, Expend. Com., 560–561
 - Cross, Lord, 449
 - Currie, Sir Frederick, 18, 19, 26,
 - 225, 393
 - Currency Committee (1898), 358,
 - 578–591
-- Curzon, Lord, 456, 457, 464, 465,
-- 482, 522, 535, 557, 597, 598,
-- 603
-- —— Land Resolutions, 503–516
+- Curzon, Lord, 456, 457, 464, 465, 482, 522, 535, 557, 597, 598, 603
+  - —— Land Resolutions, 503–516
 - DACCA, 105, 112, 114
 - Dalhousie, Lord, 12, 14, 18, 19, 32,
 - 82–90, 146, 168, 169, 175, 212,
@@ -7184,9 +7121,8 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Deb, Radha Kant, 201
 - Debt, Indian, xv., 210–221, 371–387,
 - 555
-- Deccan, 25, 50, 52, 55, 58, 170, 329,
-- 609
-- —— Relief Act, 333, 335
+- Deccan, 25, 50, 52, 55, 58, 170, 329, 609
+  - —— Relief Act, 333, 335
 - Decentralisation Scheme, 257, 399,
 - 515
 - Delhi, v., 33, 36, 41, 46, 90, 167, 177,
@@ -7200,10 +7136,8 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Disraeli, Benj. (Lord Beaconsfield),
 - 227, 228, 229, 239, 247, 252, 406,
 - 410, 420, 424, 425, 428, 431, 442
-- Directors, Court of, 3, 4, 5–489,
-- *passim*
-- —— Secret Committee, 7, 8, 17, 229,
-- 266
+- Directors, Court of, 3, 4, 5–489, *passim*
+  - —— Secret Committee, 7, 8, 17, 229, 266
 - Doars, the, 246
 - Dost Muhammad, 6, 7, 8, 9, 249, 430
 - Drain, Economic, from India, xvii.,
@@ -7214,7 +7148,7 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 
 <!-- page: 649 | folio: 621 -->
 - Dufferin, Lord, 447, 461, 480, 482, 537, 555, 581, 582, 608
-- —— Administration, 441-446
+  - —— Administration, 441-446
 - Durbeen, 209
 - Duties: export, import, 336-342. See also *Tariffs*
 - Dutt, Rosomoy, 201
@@ -7232,11 +7166,11 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Edwards, Lieut., 20, 21
 - Egypt, 231, 441, 443, 547, 551, 563, 608
 - Elgin, Lord, 103, 244, 245, 246, 538, 540, 543, 583
-- —— Administration, 452-456
+  - —— Administration, 452-456
 - Ellenborough, Lord, 3, 9, 10, 11, 12, 14, 123, 168, 179, 186, 201, 202, 212, 217, 265, 266, 267
 - Elliot, Mr., 74
 - Elliott, Sir Charles, 292
-- —— Col., 298, 301
+  - —— Col., 298, 301
 - Ellis, Sir Barrow, 253, 409
 - Elphinstone, Lord, 4, 50, 51, 88, 133, 179, 186, 197, 200, 203, 439
 - “ —— *and the Making of South-Western India* (J. S. Cotton), 200
@@ -7244,12 +7178,12 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Ewart, Wm., M.P., 315
 - *Expansion of England* (Seeley), 31
 - Expenditure (table), 373
-- —— Royal Commission on, xviii., 555-577
+  - —— Royal Commission on, xviii., 555-577
 - Exports, 342-352. See *Duties, Tariffs*
 - <span class="sc">Faiz Muhammad</span>, 429
 - Famine, *1833*, 60, 70; *1837*, 273, 274, 427; *1860*, 273, 274, 427; *1866*, 246, 258, 427; *1877*, 319, 349, 362, 369, 410, 416, 427, 429, 436, 593; *1897-1900*, v., vi., 455, 458, 484, 485, 534, 535, 557
-- —— Commission, 1900, 462, 492
-- —— Insurance Fund, 412, 413, 416, 592, 593, 597
+  - —— Commission, 1900, 462, 492
+  - —— Insurance Fund, 412, 413, 416, 592, 593, 597
 - Farrer, Lord, 579
 - Fawcett, Henry, 340, 341, 342, 357, 364, 377, 386, 387, 398, 399, 433
 - Ferishta (*History of India*), 133
@@ -7262,15 +7196,15 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Forsyth, Douglas, 255
 - *Forty-one Years in India* (Roberts), 222
 - Fowler, Sir Henry, 358, 449, 450, 539, 557, 584, 585
-- —— Chairman, Currency Committee, 584-591
+  - —— Chairman, Currency Committee, 584-591
 - Francis, Col., 330
-- —— John, 121
+  - —— John, 121
 - Frere, Sir Bartle, 246, 249, 256, 259, 260, 280, 337, 338, 382, 397, 420, 431, 491
 - Fuller, J. B., 480
 - Fyzabad, 605, 611
 - <span class="sc">Gambier</span>, Sir Edward, 191
 - Gangadhar Rao, 27
-- —— Damodar Rao, 27
+  - —— Damodar Rao, 27
 - Ganges, 33, 105, 140, 170, 367
 - Gantur, 77
 - Garstin, J. H., 506
@@ -7280,13 +7214,13 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Gibberne, George, 135
 - Gibbs, Mr., 582
 - Giffin, Sir Robert, vi., 586, 612
-- —— Evidence, Currency Committee, 586-587
+  - —— Evidence, Currency Committee, 586-587
 - Gilgit, 428, 447, 448
 - Gladstone, W. E., 18, 99, 104, 179, 234, 241, 252, 376, 402, 419, 424, 425, 432, 433, 441, 442, 449, 450, 452, 555, 556
 - Gloucester, Chamber of Commerce, 148
 - Godavari, 69, 171, 172, 360, 362, 365, 367, 496, 499, 501
 - Gokhale, G. K., C.I.E., 596
-- —— Evidence, Expend. Com., 572-574
+  - —— Evidence, Expend. Com., 572-574
 - Golab Singh, 17
 - Goldfinch, Mr., 53
 - Goldsmid, H. G., 52, 53, 54, 57, 58, 61
@@ -7322,9 +7256,8 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Hare, David, 198, 199
 - Harrowby, Lord, 196
 - Hartington, Marquis of, 433, 436
-- Hastings, Marquis of, 25, 38, 50, 166,
--     206, 509
-- ——, Warren, 33, 42, 190, 198
+- Hastings, Marquis of, 25, 38, 50, 166, 206, 509
+  - ——, Warren, 33, 42, 190, 198
 - Hazara, 610
 - Heath, J. M., 117
 - Henderson, Col., 19
@@ -7332,12 +7265,10 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Herschell, Lord, 538, 588
 - Heytesbury, Lord, 4
 - Hindu College, Calcutta, 199, 200
-- *History of England* (Dr. F. Bright),
--     224
-- —— *Sikhs* (Cunningham), 16
-- —— *War in Afghanistan* (Kaye), 9
-- —— *Mutiny, Sepoy Troops, and*
-- *British Colonies* (Montgomery
+- *History of England* (Dr. F. Bright), 224
+  - —— *Sikhs* (Cunningham), 16
+  - —— *War in Afghanistan* (Kaye), 9
+  - —— *Mutiny, Sepoy Troops, and British Colonies* (Montgomery
 - Martin), 111, 224
 - Hobart, Lord, 320
 - Hobhouse, Lord, 261, 422, 432
@@ -7350,21 +7281,21 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - *Hoshangabad, Settlement Report* (Ch.
 -     Elliot), 292
 - Hume, A. O., 525
-- ——, Joseph, 60, 61
+  - ——, Joseph, 60, 61
 - Hunter, Sir Wm., xviii., 253, 490
 - Hyderabad, 66, 366
-- ——, Nizam, 29, 31, 434
+  - ——, Nizam, 29, 31, 434
 - <span class="sc">Iddesleigh</span>, Earl of, *see Northcote*
 - Imports, 344–346. *See Duties, Tariffs*
 - *Improvements Administration, India,*
 - *Memorandum of*, 166, 168, 169, 170, 172, 173
 - India, *passim*
-- —— *Friend of*, 209
-- —— *Modern* (G. Campbell), 73
+  - —— *Friend of*, 209
+  - —— *Modern* (G. Campbell), 73
 - Indus, 83, 170, 367, 446
 - Innes, Gen. McLeod, 85, 88, 90
 - Irrigation, 166–178, 360–370, 374, 499, 545, 546, 550–554
-- —— Commission, 1901, 551–553
+  - —— Commission, 1901, 551–553
 - Iyengar, Raghava (*Progress, Madras*
 -     *Presidency*), 68
 - Iyer, Subramania: Evidence, Expend.
@@ -7401,9 +7332,9 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 <!-- page: 651 | folio: 623 -->
 - Kaufman, General, 428
 - Kaye, Sir John, *Life and Correspondence of Henry St. George Tucker*, 7, 34
-- —— *History, War, Afghanistan*, 9
-- —— *Administration, East India Company*, 166
-- —— *History, Mutiny*, 223
+  - —— *History, War, Afghanistan*, 9
+  - —— *Administration, East India Company*, 166
+  - —— *History, Mutiny*, 223
 - Keane, Sir John, 8, 9
 - Keatinge, Colonel, 473, 474, 475, 476
 - Khaibar Pass, 429, 431
@@ -7425,51 +7356,51 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Lancashire, 125, 129, 328, 346, 401–541, *passim*
 - Land:
 - Administration, Northern India, 460–471
-- —— Bombay, 489–495
-- —— Central Provinces, 472–488
-- —— Madras, 495–502
+  - —— Bombay, 489–495
+  - —— Central Provinces, 472–488
+  - —— Madras, 495–502
 - Cesses, local, 388–400, 411, 416, 469, 470
 - Memorial, Secretary of State, 1900, 506–507
 - *Problems in India* (Parekh), 492, 501
 - Reforms, Northern India, 263–264
-- —— North-West Provinces, 268–269
-- —— Oudh, 264–268
-- —— Punjab, 270–272
+  - —— North-West Provinces, 268–269
+  - —— Oudh, 264–268
+  - —— Punjab, 270–272
 - Resolutions, Ripon, Curzon, 503–516
 - Revenue Act, *see Acts*
 - Settlements, Northern India, 33–49
-- —— Bombay, 50–66, 323–335
-- —— Central Provinces, 291–307
-- —— Madras, 67–81, 308–322
+  - —— Bombay, 50–66, 323–335
+  - —— Central Provinces, 291–307
+  - —— Madras, 67–81, 308–322
 - Land, *continued*—
 - Settlements, Punjab, 82–98
 - Settlement, Permanent, 33, 34, 35, 246, 258, 310, 311, 391, 393, 396, 461, 505, 507, 508, 509
-- —— Bengal Report, 280
-- —— Despatch, Sir Charles Wood, 284–287
-- —— Final Rejection, 288–290
-- —— Minute, Sir John Lawrence, 282–284
-- —— North-West Provinces Report, 277–280
-- —— Opinion, Finance Minister, 280–282
-- —— Proposed for Bombay, 323–328
-- —— Proposed for India, 273–290
-- —— Proposed for Madras, 310–318
-- —— Punjab Report, 276–277
-- —— Sir Stafford Northcote, 288
-- —— Sir Richard Temple, 299–304
+  - —— Bengal Report, 280
+  - —— Despatch, Sir Charles Wood, 284–287
+  - —— Final Rejection, 288–290
+  - —— Minute, Sir John Lawrence, 282–284
+  - —— North-West Provinces Report, 277–280
+  - —— Opinion, Finance Minister, 280–282
+  - —— Proposed for Bombay, 323–328
+  - —— Proposed for India, 273–290
+  - —— Proposed for Madras, 310–318
+  - —— Punjab Report, 276–277
+  - —— Sir Stafford Northcote, 288
+  - —— Sir Richard Temple, 299–304
 - *Systems of British India* (Baden-Powell), 264
-- —— J. S. Mill on, 93–97
+  - —— J. S. Mill on, 93–97
 - Tax, vii., 75, 130, 133, 135, 138, 211
 - Lansdowne, Lord, 450, 482, 537, 555, 575, 583
-- —— Administration, 446–448, 454
-- —— Evidence, Expenditure Commission, 565–566
+  - —— Administration, 446–448, 454
+  - —— Evidence, Expenditure Commission, 565–566
 - Larpent, G. G. de H., 108, 109, 110, 111, 123, 127
 - Lawrence, Sir Henry, 17, 18, 23, 84, 85, 86, 87, 88, 89, 91, 190, 223
-- —— the *Pacificator* (M'Leod-Innes), 85, 88
-- —— Lord, x., xi., 11, 43, *passim*
-- —— Administration, 246–251
-- —— Minute on Permanent Settlement, 282–284
-- —— *Life of* (Bosworth Smith), 85, 86, 90, 92, 224, 246, 247, 254, 260, 267, 270
-- —— *Life of* (Aitcheson), 224
+  - —— the *Pacificator* (M'Leod-Innes), 85, 88
+  - —— Lord, x., xi., 11, 43, *passim*
+  - —— Administration, 246–251
+  - —— Minute on Permanent Settlement, 282–284
+  - —— *Life of* (Bosworth Smith), 85, 86, 90, 92, 224, 246, 247, 254, 260, 267, 270
+  - —— *Life of* (Aitcheson), 224
 - Leith, John Farley, 191
 - Lewen, Malcolm, 78
 - Lloyd, Sampson, M.P., 36
@@ -7490,16 +7421,11 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Lucknow, 223, 224
 - Lumsden, Colonel, 423
 - Lyall, Sir Alfred, 505
-- Lytton, Lord, 345, 409, 410, 412, 415,
-- 416, 433, 446, 447, 489, 525, 537,
-- 579, 580, 581, 592
-- —— Administration, 419–432
-- —— *Indian Administration* (Lady
-- Betty Balfour), 426
-- <span class="sc">Macaulay</span>, Lord, 103, 179, 189, 201,
-- 207, 242, 245, 378
-- —— *Life and Letters of* (Trevelyan),
-- 103, 207
+- Lytton, Lord, 345, 409, 410, 412, 415, 416, 433, 446, 447, 489, 525, 537, 579, 580, 581, 592
+  - —— Administration, 419–432
+  - —— *Indian Administration* (Lady Betty Balfour), 426
+- <span class="sc">Macaulay</span>, Lord, 103, 179, 189, 201, 207, 242, 245, 378
+  - —— *Life and Letters of* (Trevelyan), 103, 207
 - MacDonnell, Sir Antony, 457, 460,
 - 468, 470, 477, 483, 492, 586
 - Mackenzie, Sir Alexander, 458, 478,
@@ -7510,18 +7436,16 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Maddock, Sir T. H., 181
 - Madhava Rao, Sir T., 381
 - Madras, 44, 49–542, *passim*
-- —— Land Administration, Settlements, *see Land*
-- —— *Civil Administration* (Smollett),
-- 77
-- —— Native Association, 164, 165,
-- 186
+  - —— Land Administration, Settlements, *see Land*
+  - —— *Civil Administration* (Smollett), 77
+  - —— Native Association, 164, 165, 186
 - Mahratta Rule, 50, 51
 - Maine, Sir H., 245, 270
 - Maiwand, 433
 - Malabar, 75, 136, 318, 319, 495
 - Malcolm, Major, 28, 133, 434
 - Mallett, Sir Louis, 320, 406, 579
-- —— Minute, 321–322
+  - —— Minute, 321–322
 - Malta, 428, 493, 563
 - Malwa, 100, 154
 - Manchester, 113, 130, 131, 147, 184,
@@ -7539,22 +7463,16 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - *Map of Life* (Lecky), 218
 - Marshman, John C., 179, 180, 198,
 - 204
-- Martin, Montgomery, 111, 113, 114,
-- 116, 220
-- —— *History of the British Colonies*,
-- III
-- —— *History of the Mutiny*, 224
+- Martin, Montgomery, 111, 113, 114, 116, 220
+  - —— *History of the British Colonies*, III
+  - —— *History of the Mutiny*, 224
 - Masalipatam, 77
 - Massey, Hon. W. N., 335, 377
 - Master, Mr., 320
 - Mauritius, 125, 127
-- Mayo, Earl of, 258, 259, 261, 269,
-- 337, 355, 356, 371, 376, 385,
-- 389, 390, 429, 432, 497, 503,
-- 525
-- —— Administration, 252–257
-- —— *Earl of* (Hunter), 253, 254,
-- 255
+- Mayo, Earl of, 258, 259, 261, 269, 337, 355, 356, 371, 376, 385, 389, 390, 429, 432, 497, 503, 525
+  - —— Administration, 252–257
+  - —— *Earl of* (Hunter), 253, 254, 255
 - Mehta, P., 445
 - Melvill, J. C., 99, 101, 123, 179, 181
 - *Memorandum of the Progress of the*
@@ -7564,23 +7482,18 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Metcalfe, Sir Charles, 3, 4, 189, 197,
 - 208, 212
 - Meyer, Mr., 320
-- Mill, John Stuart, xvii., 93, 140,
-- 179, 182, 183, 184, 207, 211,
-- 216, 225, 226, 228, 541, 543
-- —— On Indian Land Systems, 93–
-- 97, 321
-- —— on East India Company, 225–227
+- Mill, John Stuart, xvii., 93, 140, 179, 182, 183, 184, 207, 211, 216, 225, 226, 228, 541, 543
+  - —— On Indian Land Systems, 93–97, 321
+  - —— on East India Company, 225–227
 - Minto, Lord, 4, 38, 166
 - Mitra, Dina Bandhu, 351
-- —— Dwarka Nath, 243
+  - —— Dwarka Nath, 243
 - *Modern India* (Campbell), 73
 - Money, R., 277
-- —— Alonzo, 404
+  - —— Alonzo, 404
 - Monteagle, Lord, 187
-- Montgomery, Sir Henry, 69, 391,
-- 393, 408
-- —— Sir Robert, 43, 86, 382, 397,
-- 409, 415
+- Montgomery, Sir Henry, 69, 391, 393, 408
+  - —— Sir Robert, 43, 86, 382, 397, 409, 415
 - Moodkee, 15
 - *Moral and Material Progress and*
 - *Condition of India*, 359, 471,
@@ -7598,42 +7511,42 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Mutarfa Tax, 164–165
 - Mutiny, Indian, 28, 88, 90, 160, 161, 175, 209, 211, 213, 218–225, 230, 240–247, 264, 289, 336, 343, 375, 376, 383, 394, 396, 401, 411, 430, 435
 - Muzaffarnagar, 466, 467
-- —— *Settlement Report*, 466
+  - —— *Settlement Report*, 466
 - Muzaffarpur, 464
 - Mymensingh, 350
 - Mysore, 32, 133, 367, 381, 383, 526
-- —— Rendition of, 434, 437
-- —— *Reversion* (Major Evans Bell), 434
+  - —— Rendition of, 434, 437
+  - —— *Reversion* (Major Evans Bell), 434
 - <span class="sc">Nagpur</span>, 28, 31, 133, 213, 291, 296, 298, 302, 303, 305, 307, 610
 - Napier, Sir Charles, 11, 12, 23, 179
-- —— Lord, of Magdala, 87, 245, 247, 261, 365
-- —— William, 12, 13
+  - —— Lord, of Magdala, 87, 245, 247, 261, 365
+  - —— William, 12, 13
 - Naoroji, Dadabhai, 329, 385, 555, 556, 557, 559
 - Narbada, 170, 291, 292, 296, 298, 304, 305
 - Narsingh Pal, 26
 - Narsinghpur, 293, 302, 303, 307, 482, 483, 484
-- —— *Settlement Report* (Russell), 293
+  - —— *Settlement Report* (Russell), 293
 - Nedadavole, 77
 - Nellore, 70, 77, 94
 - Nepal, 143, 255
 - Nicholson, Sir John, 90, 224
 - Norman, Sir Henry, 261, 422, 432
 - Northbrook, Earl of, 268, 365, 404–409, 420, 423, 429, 503, 525, 556, 557, 592
-- —— Administration, 257–262
-- —— Evidence on Expenditure Commission, 561–565
+  - —— Administration, 257–262
+  - —— Evidence on Expenditure Commission, 561–565
 - Northcote, Sir Stafford, x., xi., 32, 85, 248, 299, 390, 434, 435, 509, 579, 582
-- —— On Permanent Settlement, 288, 290
+  - —— On Permanent Settlement, 288, 290
 - North-West Provinces, 56, 60, 256, 268, 287, 292, 304, 309, 325
-- —— Land Reform, 268–269
-- —— Permanent Settlement Report, 277–280
+  - —— Land Reform, 268–269
+  - —— Permanent Settlement Report, 277–280
 - Norton, J. Bruce, 74, 200
 - *Notes on Land Revenue Policy* (Chand), 463, 464
 - Nur Muhammad, 427
 - <span class="sc">O'Donnell</span>, C. J., 506
 - Orissa, 246, 258, 280, 448, 498, 550
 - Oudh, 29, 30, 31, 33, 49, 213, 223, 256, 271, 287, 306, 334, 398, 399, 470, 471, 485, 610, 611
-- —— Land Reform, 264–268
-- —— Rent Act, 268, 470, 501
+  - —— Land Reform, 264–268
+  - —— Rent Act, 268, 470, 501
 - *Our Financial Relations with India* (Wingate), xvi., 214, 219
 - Outram, Sir James, 11, 13, 29, 267
 - <span class="sc">Pachiapa</span> College, 200
@@ -7666,7 +7579,7 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Ponang, 367
 - Poona, 455, 489
 - Population, Brit. India, 602
-- —— Native States, 603
+  - —— Native States, 603
 - Port Arthur, 453
 - Porto Novo, 117
 
@@ -7686,26 +7599,18 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Prout, John, 121
 - Puckle, R. K., 467, 506
 - Punjab, 6, 8, 10-524, *passim*
-- —— Administration Report, 82, 83,
--     91, 92
-- —— Land Settlements, *see Land*
-- —— Land Reforms, 270-272
-- —— Permanent Settlement Report,
--     276-277
-- —— *Year on Frontier* (Edwards), 20
+  - —— Administration Report, 82, 83, 91, 92
+  - —— Land Settlements, *see Land*
+  - —— Land Reforms, 270-272
+  - —— Permanent Settlement Report, 276-277
+  - —— *Year on Frontier* (Edwards), 20
 - Purnea, 381, 434
-- <span class="sc">Queen Victoria</span>, viii., xiii., 8, 32, 85,
--     116, 179, 184, 191, 203, 204, 205,
--     211, 212, 215, 224, 225, 229, 231,
--     232, 240, 242, 285, 286, 299, 342,
--     371, 375, 378, 394, 401, 420, 421,
--     424, 427, 435, 453, 517
-- —— Diamond Jubilee, v.
-- —— Proclamation, 1858, 231-235
+- <span class="sc">Queen Victoria</span>, viii., xiii., 8, 32, 85, 116, 179, 184, 191, 203, 204, 205, 211, 212, 215, 224, 225, 229, 231, 232, 240, 242, 285, 286, 299, 342, 371, 375, 378, 394, 401, 420, 421, 424, 427, 435, 453, 517
+  - —— Diamond Jubilee, v.
+  - —— Proclamation, 1858, 231-235
 - Quetta, 423
-- <span class="sc">Railways</span>, 166-178, 353-360, 374,
--     545-550
-- —— *Report* (Robertson), 547, 548
+- <span class="sc">Railways</span>, 166-178, 353-360, 374, 545-550
+  - —— *Report* (Robertson), 547, 548
 - Rajamundry, 69, 172
 - Rajputana, 87, 525, 526
 - Ram Mohun Roy, 199
@@ -7721,31 +7626,28 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Rawalpindi, 23, 91, 423, 609
 - Rawlinson, Sir Henry, 249, 259
 - Read, Hon. Mr., 65
-- —— Col., 67, 312, 313
+  - —— Col., 67, 312, 313
 - *Reign of Law* (Argyll), 390
 - Remedy: retrenchment, representation, xvii., 612-617
 - Revenue (table), 373
 - Reynolds, H. J., 506
 - Rickett, Hon. Mr., 315
-- Ripon, Marquis of, xi., xii., 245, 286,
--     287, 442, 443, 458, 461, 470,
--     478, 500, 513, 516, 525, 535, 536,
--     537, 557, 575, 581
-- —— Administration, 433-440
-- —— Land Resolutions, 503-516
+- Ripon, Marquis of, xi., xii., 245, 286, 287, 442, 443, 458, 461, 470, 478, 500, 513, 516, 525, 535, 536, 537, 557, 575, 581
+  - —— Administration, 433-440
+  - —— Land Resolutions, 503-516
 - Roberts, Lord, 222, 432, 433, 557
 - Robertson, Capt., 50, 51
-- —— T. C., 43
-- —— *Railway Report*, 547, 548
+  - —— T. C., 43
+  - —— *Railway Report*, 547, 548
 - Robinson, Francis, 188
-- —— Lieut.-Col., 206
+  - —— Lieut.-Col., 206
 - Rogers, Alex., 116
 - Rosebery, Lord, 450, 452, 454
 - Royle, Dr. J. F., C.I.E., 130, 143,
 -     144, 180
 - Rupee, fluctuations, 578-591
 - Russell, Lord John, 18, 179
-- —— A., 293
+  - —— A., 293
 - Russia, 117, 164, 239-608, *passim*
 - Rustomji, Merwanji: Evidence, Currency Committee, 587-588
 - Ryan, Sir Edward, 179, 180, 191,
@@ -7757,13 +7659,10 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 -     475, 476
 - <span class="sc">Sadar</span> Board of Revenue, 54, 59, 76
 - Sadulapur, 22, 23
-- Sagor, 291, 292, 294, 296, 298, 302,
--     304, 305, 307, 482, 483, 484, 610
-- —— Settlement Report, 294
-- Saharanpur, 36, 41, 46, 48, 131, 143,
--     464
-- —— Rules, 48, 94, 98, 140, 305, 306,
--     512
+- Sagor, 291, 292, 294, 296, 298, 302, 304, 305, 307, 482, 483, 484, 610
+  - —— Settlement Report, 294
+- Saharanpur, 36, 41, 46, 48, 131, 143, 464
+  - —— Rules, 48, 94, 98, 140, 305, 306, 512
 - St. John, Major, 421
 - Salem, 71, 79, 313, 526, 606
 - Salisbury, Lord, xii., xiii., 32, 248-
@@ -7800,27 +7699,24 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Sikkim, 143
 - Simla, 91, 240, 270, 422, 440, 443,
 -     446, 615
-- Sind, 8, 11, 12, 13, 154, 170, 177, 182,
--     217, 550
-- —— *Conquest of* (W. Napier), 13
+- Sind, 8, 11, 12, 13, 154, 170, 177, 182, 217, 550
+  - —— *Conquest of* (W. Napier), 13
 - Singh, Chatra, 21, 22
-- —— Dhalip, 17, 19, 20, 21, 23
-- —— Golab, 17
-- —— Gorman, 39
-- —— Hari, 82
-- —— Lal, 15, 16
-- —— Lehna, 84
-- —— Maharaja Pratap, 447, 448, 449
-- —— Ranjit, 6, 7, 8, 15, 17, 20, 82,
--     83
-- —— Sher, 20, 22
-- —— Tej, 16
+  - —— Dhalip, 17, 19, 20, 21, 23
+  - —— Golab, 17
+  - —— Gorman, 39
+  - —— Hari, 82
+  - —— Lal, 15, 16
+  - —— Lehna, 84
+  - —— Maharaja Pratap, 447, 448, 449
+  - —— Ranjit, 6, 7, 8, 15, 17, 20, 82, 83
+  - —— Sher, 20, 22
+  - —— Tej, 16
 - Sitabaldi, 291
 - Sleeman, Gen. Sir Wm., 29, 194
-- Smith, Baird, 167–172, 273–276, 278,
--     282, 285, 299, 311, 323, 325
-- —— Col. Robert, 167
-- —— Samuel, M.P., 484
+- Smith, Baird, 167–172, 273–276, 278, 282, 285, 299, 311, 323, 325
+  - —— Col. Robert, 167
+  - —— Samuel, M.P., 484
 - Stanhope, H., M.P., 579
 - Stanley, Lord, 179, 220, 221, 245,
 -     336, 338
@@ -7831,11 +7727,10 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Stevens, Sir Charles, 542
 - Stewart, Sir Donald, 557
 - Stokes, Mr., 74
-- —— Whitby, 412
+  - —— Whitby, 412
 - Stoletoff, General, 428
-- Strachey, Sir John, 253, 410, 415, 416,
--     432, 592, 593
-- —— Gen. Sir Richard, 357, 358, 408
+- Strachey, Sir John, 253, 410, 415, 416, 432, 592, 593
+  - —— Gen. Sir Richard, 357, 358, 408
 - Straits Settlements, 506, 608
 - Suakim, 564, 565
 - Suez, 558, 563, 564
@@ -7856,14 +7751,12 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Temple, Sir Richard, 91, 92, 253,
 -     298, 299, 300, 301, 303, 305, 306,
 -     473, 474, 475, 476, 482
-- Thomasson, James, 43, 44, 47, 61, 94,
--     268, 298
-- —— *Directions for Revenue Officers*,
--     44, 94, 268
+- Thomasson, James, 43, 44, 47, 61, 94, 268, 298
+  - —— *Directions for Revenue Officers*, 44, 94, 268
 - Thompson, George, 138, 139
 - Thomson, Rivers, 413
 - Thornton, Edward, 144
-- —— Wm., 353, 354
+  - —— Wm., 353, 354
 - Tibet, 459
 - *Times, the*, 430, 535
 - Tinnevelly, 77, 95
@@ -7878,10 +7771,9 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 -     123, 179, 180, 187, 198, 200, 201,
 -     245, 339, 361, 378, 379, 380, 381,
 -     383, 385, 592
-- Tucker, Henry St. George, 3, 4, 5, 7,
--     25, 33, 126, 128
-- —— *Life of* (Kaye), 7
-- —— Joseph, 118
+- Tucker, Henry St. George, 3, 4, 5, 7, 25, 33, 126, 128
+  - —— *Life of* (Kaye), 7
+  - —— Joseph, 118
 - <span class="sc">Ulangu</span> land system, 95, 96
 - Umballa, 253, 420
 - Universities in India, 202, 203, 205,
@@ -7902,11 +7794,10 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - <span class="sc">Wacha, D. E.</span>: Evidence, Expend.
 -   Com., 570-572
 - Wages, 605-607
-- —— table of, 606
+  - —— table of, 606
 - Warda, 307
-- Waterfield, Sir Henry, *Memorandum*,
--   372, 562
-- —— Col., 610
+- Waterfield, Sir Henry, *Memorandum*, 372, 562
+  - —— Col., 610
 - Waziristan, 450
 - Wedderburn, Sir Wm., 506, 557, 559,
 -   574
@@ -7920,12 +7811,9 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Wilberforce, Wm., 198
 - Williamson, Thomas, 134
 - Wilson, H. H., vii., 118, 179
-- —— James, 243, 337, 390, 401
-- Wingate, Sir George, 52, 53, 54, 57,
--   58, 61, 65, 66, 76, 214, 219, 220,
--   323, 489, 605
-- —— *Our Financial Relations with*
--   *India*, xvi., 214, 219
+  - —— James, 243, 337, 390, 401
+- Wingate, Sir George, 52, 53, 54, 57, 58, 61, 65, 66, 76, 214, 219, 220, 323, 489, 605
+  - —— *Our Financial Relations with   India*, xvi., 214, 219
 - Wingfield, Sir Charles, 398, 399
 - Wolseley, Lord, 557
 - Wood, Sir Charles (Lord Halifax), x.,

@@ -24,11 +24,12 @@ THE MACMILLAN CO. OF CANADA, Ltd</span>.
 
 <!-- page: 9 | folio: iii -->
 
+### FROM AKBAR TO AURANGZEB
+
+
 #### A STUDY IN INDIAN ECONOMIC HISTORY
 
-BY
-
-W. H. MORELAND C.S.I., C.I.E. <span class="sc">Late of the Indian Civil Service Author of</span> “INDIA AT THE DEATH OF AKBAR” <span class="sc">And “An Introduction to Economics for Indian Students”</span>
+BY W. H. MORELAND C.S.I., C.I.E. <span class="sc">Late of the Indian Civil Service Author of</span> “INDIA AT THE DEATH OF AKBAR” <span class="sc">And “An Introduction to Economics for Indian Students”</span>
 
 MACMILLAN AND CO., LIMITED
 ST. MARTIN’S STREET, LONDON
@@ -76,7 +77,7 @@ It remains only to acknowledge the generous assistance which I have received fro
 ### CONTENTS
 
 
-#### CHAPTER I
+### CHAPTER I
 
 - <span class="sc">The Asiatic Environment</span> . . . . . 1
 - 1. The Political Situation . . . . . 1
@@ -84,14 +85,14 @@ It remains only to acknowledge the generous assistance which I have received fro
 - 3. The Advent of the Dutch and English . . . . 11
 - 4. Dutch Progress and Portuguese Decay . . . . 21
 
-#### CHAPTER II
+### CHAPTER II
 
 - <span class="sc">The Development of Dutch and English Commerce in India</span> 30
 - 1. First Attempts, and the Factories on the Coromandel Coast 30
 - 2. The Factories in Western India . . . . 34
 - 3. The Extension to Bengal . . . . . 44
 
-#### CHAPTER III
+### CHAPTER III
 
 - <span class="sc">Changes in the Foreign Commerce of India</span> . . 52
 - 1. The Commercial Position of India at the Opening of the
@@ -102,7 +103,7 @@ Seventeenth Century . . . . . 52
 - 5. Changes in the Asiatic Export Trade . . . 72
 - 6. The Indian Shipping Industry . . . . 81
 
-#### CHAPTER IV
+### CHAPTER IV
 
 - <span class="sc">The Establishment of New Markets in Western Europe</span> 91
 - 1. Trade with Western Europe at the Opening of the Seventeenth
@@ -115,7 +116,7 @@ Century . . . . . . . 91
 
 <!-- page: 18 | folio: xii -->
 
-##### CHAPTER V
+### CHAPTER V
 
 - <span class="sc">The Course of Indian Markets</span> . . . . 145
 - 1. General Features of the Markets . . . . 145
@@ -125,19 +126,19 @@ Century . . . . . . . 91
 - 5. Food-Grains and Silver . . . . . 170
 - 6. Gold and Copper . . . . . . 182
 
-##### CHAPTER VI
+### CHAPTER VI
 
 - <span class="sc">Production and Consumption</span> . . . . 188
 - 1. Changes in Production . . . . . 188
 - 2. Consumption . . . . . . 197
 
-##### CHAPTER VII
+### CHAPTER VII
 
 - <span class="sc">The Economic Results of Famine</span> . . . 205
 - 1. The Nature and Frequency of Famines . . . 205
 - 2. The Famine of 1630–31 . . . . . 210
 
-##### CHAPTER VIII
+### CHAPTER VIII
 
 - <span class="sc">The Economic Influence of the Administration</span> . 220
 - 1. The Position of Foreign Merchants in Indian States . . 220
@@ -146,14 +147,14 @@ Century . . . . . . . 91
 - 4. Administrative Changes in the Mogul Empire . . 246
 - 5. The Statistics of Mogul Land Revenue . . . 260
 
-##### CHAPTER IX
+### CHAPTER IX
 
 - <span class="sc">The System of Taxation</span> . . . . . 268
 - 1. A General View of the Fiscal System . . . 268
 - 2. The Mogul Imperial Resources . . . . 273
 - 3. Provincial and Local Resources . . . . 283
 
-##### CHAPTER X
+### CHAPTER X
 
 - <span class="sc">Summary and Conclusion</span> . . . . . 297
 
@@ -352,11 +353,7 @@ We have seen that the early efforts of the Dutch to establish themselves on the 
 
 In order to understand his reception by the local authorities, it is necessary to take into account the position occupied in Surat by the Portuguese. They had no territorial settlement in the town, but for nearly a century they had dominated its sea-borne trade: they were established in strength at Diu and Damān, from which stations they collected licence-fees on the ships leaving all the ports of Gujarat; their coasting-fleets (*kafila*) carried a large proportion of the merchandise exported from the province; and their fighting craft policed the coastal waters, which were not protected by the Moguls. The local officials lived in terror of the Portuguese commanders who visited the port from time to time, and who could threaten to burn the shipping if their wishes were disregarded. The Dutch had just been deprived of the foothold they had obtained in Surat; and when Hawkins arrived, the local prestige of the Portuguese was probably at its highest point, while their determination to maintain their position was uncompromising. The English were, however, by no means daunted by the hostility they experienced, and when the local officials declared that the settlement of a factory required the sanction of the Emperor, Hawkins promptly set out for the Court of Jahangir at Agra in order to negotiate an agreement for regular trade. His reception was favourable, but his somewhat boisterous diplomacy proved to be ineffective against Portuguese intrigue, and after prolonged negotiations he left Agra without having achieved his object.
 
-The English Company continued to send ships to Surat while waiting for news of the results obtained by Hawkins. In 1609 the *Ascension* arrived off the coast, but was wrecked on a shoal, and this loss, together with the misconduct of some of the survivors on land, probably injured the prospects of the English already in the country. In 1611 Sir Henry Middleton reached Surat, but found the Portuguese influence still too strong; in the following year Best had a more favourable reception, and concluded an agreement under which the
-
-
-<!-- page: 58 | folio: 36 -->
-English were permitted to establish factories in Gujarat. The motives which led to this change of front are not on record, and it is dangerous to speculate regarding the course of Oriental diplomacy, but apparently one of the contributory factors was the injury to Portuguese prestige which resulted from the failure of their attacks on Best's ships. The Moguls, having themselves no strength on the water, had come to regard the Portuguese naval forces as invincible, and the successful defence of the English against a greatly superior fleet, in actions some of which were witnessed from the land, probably suggested the idea of playing off one nation against the other, and thus loosening the Portuguese grip on the commerce of the country. Middleton's activities in the Red Sea, which had involved interference with Gujarat shipping, had already shown that the English were formidable on the water: probably also the news of Dutch successes in the Eastern seas was by this time opening the eyes of the Mogul authorities to the fact that the Portuguese supremacy was no longer unchallenged; but, whatever the motives at work, the fact is clear that Best's defence was followed by the formal delivery to him of what purported to be an Imperial *farmān* or rescript, confirming the terms of agreement which had been settled provisionally with the Mogul officers in Gujarat.
+The English Company continued to send ships to Surat while waiting for news of the results obtained by Hawkins. In 1609 the *Ascension* arrived off the coast, but was wrecked on a shoal, and this loss, together with the misconduct of some of the survivors on land, probably injured the prospects of the English already in the country. In 1611 Sir Henry Middleton reached Surat, but found the Portuguese influence still too strong; in the following year Best had a more favourable reception, and concluded an agreement under which the [p. 36] English were permitted to establish factories in Gujarat. The motives which led to this change of front are not on record, and it is dangerous to speculate regarding the course of Oriental diplomacy, but apparently one of the contributory factors was the injury to Portuguese prestige which resulted from the failure of their attacks on Best's ships. The Moguls, having themselves no strength on the water, had come to regard the Portuguese naval forces as invincible, and the successful defence of the English against a greatly superior fleet, in actions some of which were witnessed from the land, probably suggested the idea of playing off one nation against the other, and thus loosening the Portuguese grip on the commerce of the country. Middleton's activities in the Red Sea, which had involved interference with Gujarat shipping, had already shown that the English were formidable on the water: probably also the news of Dutch successes in the Eastern seas was by this time opening the eyes of the Mogul authorities to the fact that the Portuguese supremacy was no longer unchallenged; but, whatever the motives at work, the fact is clear that Best's defence was followed by the formal delivery to him of what purported to be an Imperial *farmān* or rescript, confirming the terms of agreement which had been settled provisionally with the Mogul officers in Gujarat.
 
 The issue of this rescript was considered by the English to justify them in establishing factories in Gujarat, and action was taken accordingly, but it is clear that the Mogul diplomatists, who presumably desired English trade but did not wish to commit themselves for the future, had the best of the negotiations, for the supposed *farmān* proved to be a document of little value; for the moment, however, it served, and regular English trade at Surat may be said to date from the beginning of the year 1613.[^sec-05-fn-003] The precarious footing so secured was improved, at least temporarily, by the outbreak [p. 37] of war between the Moguls and the Portuguese. Hostilities continued for two years, the Moguls besieging Damān by land, while the Portuguese caused much injury to Gujarat shipping, and eventually an inconclusive peace was arranged; but this very fact tended to emphasise the rapid decline of Portuguese prestige, while, so long as hostilities lasted, merchants of other European nations were obviously more likely to be welcomed than when Portuguese agents were active throughout the country.
 
@@ -599,7 +596,7 @@ As regards the southern portion of the Coromandel coast, I have found nothing to
 
 In regard to Bengal, the evidence already summarised appears to justify the inference that up to about 1630 the bulk of the small export trade was in the hands of the Portuguese. It did not pass immediately to the Dutch and English, who at first handled few goods other than those intended for the new markets which they were developing, and for a time Indian ship-owners appear to have gained ground at Pipli and Balasore, from which ports as many as 26 foreign sailings were recorded in the season of 1643–44. After this year there was a sudden decline, due mainly to the attacks of the Danes in prosecution of their war with Bengal; while the establishment of the Dutch at Hooghly enabled them to handle exports for Asiatic markets in increasing quantities, and by the end of our period their share in the trade was certainly substantial.
 
-Taking then the Indian-owned shipping as a whole, and excluding from that term the vessels owned by Portuguese inhabitants of India, we may say that during our period it lost ground definitely, but not progressively, in Gujarat, gained ground but failed to retain it in Bengal, and possibly lost on balance in the Coromandel ports. The Dutch handled all or nearly all of the new Asiatic trade which they had created, and the Dutch and English between them took over an undetermined but substantial portion of the trade which had existed before their arrival in India. It is safe to infer that those Indian merchants who were also ship-owners suffered by the change, but the inference cannot be extended to Indian merchants as a whole, or to any class of Indian producers with the exception of shipbuilders;[^sec-06-fn-022] [p. 87] on the contrary, we are justified in concluding that Indian merchants benefited by a service at once cheaper and better, and it is possible that some portion of the advantage may have accrued indirectly to producers. The attitude of merchants in inland cities may be gathered from the fact that, at the time when Surat was actively opposing the admission of English ships to the Red Sea, Ahmadabad was asking the English to carry goods on freight to Mocha, Persia, and elsewhere; and after more than twenty years' experience of the business, the English at Surat reported that Indian merchants chose Dutch or English in preference to Indian vessels. That freights were lowered as the result of competition is shown in the same report; Indian owners were then not only quoting low rates but offering to bear a share of the customs duties or other incidental payments, and throughout our period the efforts of the Dutch to outbid the English furnished a guarantee against excessive charges. Indian merchants were frequently in a position to pick and choose, since cargo-space was available in excess of needs; in 1647, for instance, the English at Surat complained that they could not find employment for their ships owing to Dutch competition, while Dutch vessels were sailing half-laden or in ballast. The greater security offered by European vessels followed necessarily from the conditions which existed. The essence of Indian navigation was adaptation to stable seasons and avoidance of bad weather; the ships were weakly built, and their crews must often have been found wanting in experience during emergencies. The Dutch and English ships were built to stand bad weather, their crews were trained in the storms of the North Sea and the English [p. 88] Channel, and men who had brought a ship safely round the Cape could be relied on to face the worst accidents of Indian waters.[^sec-06-fn-023] Further, European ships were ordinarily better armed, and could defy attacks of pirates, against which Indian ships were almost helpless; while, as has been said already, the Portuguese customs boats left the Dutch and English alone. The preference shown by Indian merchants was therefore justified; and while those of them who owned ships must have suffered from reduced freights, and presumably from shortage of cargo, the larger number, whose business required only the transit of goods, found it possible to transact their business more cheaply and with a greater degree of security.
+Taking then the Indian-owned shipping as a whole, and excluding from that term the vessels owned by Portuguese inhabitants of India, we may say that during our period it lost ground definitely, but not progressively, in Gujarat, gained ground but failed to retain it in Bengal, and possibly lost on balance in the Coromandel ports. The Dutch handled all or nearly all of the new Asiatic trade which they had created, and the Dutch and English between them took over an undetermined but substantial portion of the trade which had existed before their arrival in India. It is safe to infer that those Indian merchants who were also ship-owners suffered by the change, but the inference cannot be extended to Indian merchants as a whole, or to any class of Indian producers with the exception of ship-builders;[^sec-06-fn-022] [p. 87] on the contrary, we are justified in concluding that Indian merchants benefited by a service at once cheaper and better, and it is possible that some portion of the advantage may have accrued indirectly to producers. The attitude of merchants in inland cities may be gathered from the fact that, at the time when Surat was actively opposing the admission of English ships to the Red Sea, Ahmadabad was asking the English to carry goods on freight to Mocha, Persia, and elsewhere; and after more than twenty years' experience of the business, the English at Surat reported that Indian merchants chose Dutch or English in preference to Indian vessels. That freights were lowered as the result of competition is shown in the same report; Indian owners were then not only quoting low rates but offering to bear a share of the customs duties or other incidental payments, and throughout our period the efforts of the Dutch to outbid the English furnished a guarantee against excessive charges. Indian merchants were frequently in a position to pick and choose, since cargo-space was available in excess of needs; in 1647, for instance, the English at Surat complained that they could not find employment for their ships owing to Dutch competition, while Dutch vessels were sailing half-laden or in ballast. The greater security offered by European vessels followed necessarily from the conditions which existed. The essence of Indian navigation was adaptation to stable seasons and avoidance of bad weather; the ships were weakly built, and their crews must often have been found wanting in experience during emergencies. The Dutch and English ships were built to stand bad weather, their crews were trained in the storms of the North Sea and the English [p. 88] Channel, and men who had brought a ship safely round the Cape could be relied on to face the worst accidents of Indian waters.[^sec-06-fn-023] Further, European ships were ordinarily better armed, and could defy attacks of pirates, against which Indian ships were almost helpless; while, as has been said already, the Portuguese customs boats left the Dutch and English alone. The preference shown by Indian merchants was therefore justified; and while those of them who owned ships must have suffered from reduced freights, and presumably from shortage of cargo, the larger number, whose business required only the transit of goods, found it possible to transact their business more cheaply and with a greater degree of security.
 
 
 #### AUTHORITIES FOR CHAPTER III
@@ -873,10 +870,8 @@ The English Company was alive to the possibility of trade in cotton goods from t
 
 Trade sprang up very much on the lines indicated in this report, and we may take the first recorded English shipment from Surat as an example of the exports in the initial phase. The table on the following page shows the cotton goods taken by the *Royal Anne* to England in the year 1619; the prices are given in mahmudis, the current coin of Gujarat, which was taken at <sup>2</sup>/<sub>5</sub> of a rupee, and they include cost of transit to the ship’s side.
 
-It will be observed at once that several of the items in this list are sample consignments, and that the main export was of calico of the ordinary type, baftas broad and narrow, dutties, and semianoes, or three out of the four descriptions recommended by Finch ten years previously. It will also be noticed that there might be substantial variations in the average prices of different consignments bearing the same description, and this point is of real importance to an understanding of the trade. There was, as yet, nothing like a fixed standard of quality: individual artisans wove very much as they chose, and buyers had to pick single pieces to suit their needs. Speaking generally, the best pieces were chosen for England, and the inferior goods sent to Java for the Eastern markets; and I take it that this is what is meant by contemporary
+It will be observed at once that several of the items in this list are sample consignments, and that the main export was of calico of the ordinary type, baftas broad and narrow, dutties, and semianoes, or three out of the four descriptions recommended by Finch ten years previously. It will also be noticed that there might be substantial variations in the average prices of different consignments bearing the same description, and this point is of real importance to an understanding of the trade. There was, as yet, nothing like a fixed standard of quality: individual artisans wove very much as they chose, and buyers had to pick single pieces to suit their needs. Speaking generally, the best pieces were chosen for England, and the inferior goods sent to Java for the Eastern markets; and I take it that this is what is meant by contemporary [p. 126] writers when they speak of buying " fine " goods for England. They do not mean the finer qualities of Indian cloth, the muslins and other thin goods suited for tropical wear, but worthless as household linen; they mean merely the best pieces of calico suited for the purposes for which they were buying.
 
-
-<!-- page: 148 | folio: 126 -->
 
 | Description. :: <span class="sc">Calicoes</span>— | No. of Pieces. | Value. :: Ma. | Average Price per Piece. :: Ma. |
 | --- | --- | --- | --- |
@@ -904,8 +899,6 @@ It will be observed at once that several of the items in this list are sample co
 | " Sahum " | 50 | 431 | 8·6 |
 | " Necanies " | 420 | 1,320 | 3·1 |
 | " Eramies " | ? | 177 | ? |
-
-writers when they speak of buying " fine " goods for England. They do not mean the finer qualities of Indian cloth, the muslins and other thin goods suited for tropical wear, but worthless as household linen; they mean merely the best pieces of calico suited for the purposes for which they were buying.
 
 The demand for calico increased with remarkable rapidity. The shipment of 1619 totalled about 14,000 pieces (each ordinary piece being from 12 to 15 yards in length): the goods ordered in 1625 exceeded 200,000 pieces; in 1628 the actual consignment consisted of nearly 1000 bales, which would represent 150,000 pieces or more; while in 1630, when the [p. 127] Gujarat famine was about to bring this phase of the trade to an abrupt conclusion, the Company ordered 100,000 to 120,000 pieces of calicoes, together with small quantities of fancy goods. The large imports attracted the attention of King James I., who in 1623 asked the Deputy Governor of the Company how they were disposed of, and was informed that “much of it is very useful and vends in England, whereby the prices of lawns, cambrics, and other linen cloth are brought down; for the rest, England is now made the staple for that commodity, which having first served His Majesty’s dominions, the overplus is transported into foreign parts in the nature of a home-bred commodity. The king approved exceedingly thereof, and said that this was the ready way to bring treasure into the kingdom.” Less than two years later, the Governor informed the Company that the sale of Surat goods had much improved, and that the foreign demand for calicoes was so great that from 100,000 to 200,000 pieces could be disposed of in a short time if they were available. The sudden large demand could not be met immediately by Gujarat alone, and buyers were sent to those places in Northern India where the staple goods appeared to be fitted for the London market. The places where we hear of factors being specially sent are Patna and Samana, but purchases were also made in Agra of calico woven in other localities, chiefly in Oudh. Patna was soon abandoned, while we hear of buyers at Samana on various occasions up to the year 1627, but the Company’s final verdict on its products was unfavourable, and the indent sent out early in 1630, which has already been quoted, specified only Gujarat calico, and explicitly forbad “ Agra goods,” including semianoes.
 
@@ -1444,7 +1437,7 @@ In the same spirit van Twist insisted on the contrast between the comfort enjoye
 
 <span class="sc">Section 1.</span>—The references for the use of tobacco are *Elliot*, vi. 351, and *Manucci*, ii. 175. The adaptation of cropping to market-conditions is deduced from various passages, especially *English Factories*, v. 64, vii. 136, and *Dagh Register* (Surat), June 13, 1644, April 12 and June 9, 1645. Instances of want of capital will be found in *English Factories*, vii. 203, and *Dagh Register*, August 14, October 6, 1634, and October 6, 1636. For apprehensions of scarcity of material, see *English Factories*, i. pp. xv, 92, and iv. 22; and for ease or difficulty in obtaining goods of special quality, *idem*, iii. 209, vii. 187, viii. 117, and *Dagh Register*, January 31, 1633, August 14, 1634, October 31, 1636, and May 20, 1641. The restrictions on weavers in Bengal are in *idem*, November 29, 1661; the subject is referred to in *Taylor's Dacca*, 173, 189. For advances for saltpetre, see *Dagh Register*, April 12, 1661; and for indigo, *English Factories*, iii. 246, vii. 208.
 
-The facts given regarding wages are taken from *Pelsart*, 16 ff.; *Methwold*, 1001; *Begin ende Voortgangh* (van den Broecke's journal), ii. 77 ff.; and *English Factories*, v. 151, x. 261. As regards public works, the Burhanpur waterworks are described in *Imperial rollGazetteer*, ix. 105; the canals, in *Elliot*, vii. 67, 86; the estimated cost of buildings, in *idem*, vii. 86, 142, and *Sarkar's Studies*, 30. For impressment, see *English Factories*, ii. 230, viii. 253, 299. For private buildings, see *Pelsart*, MS. ff. 2, 21.
+The facts given regarding wages are taken from *Pelsart*, 16 ff.; *Methwold*, 1001; *Begin ende Voortgangh* (van den Broecke's journal), ii. 77 ff.; and *English Factories*, v. 151, x. 261. As regards public works, the Burhanpur waterworks are described in *Imperial Gazetteer*, ix. 105; the canals, in *Elliot*, vii. 67, 86; the estimated cost of buildings, in *idem*, vii. 86, 142, and *Sarkar's Studies*, 30. For impressment, see *English Factories*, ii. 230, viii. 253, 299. For private buildings, see *Pelsart*, MS. ff. 2, 21.
 
 <span class="sc">Section 2.</span>—The long translation from *Pelsart* has been made from ff. 23 ff. of the MS.; his observations on the peasants are on ff. 18 and 20. The Golconda reference is *Begin ende Voortgangh*, p. 77 of van den Broecke's journal; for Gujarat, see the *Gujarat Report*, ff. 7, 20, 21, *van Twist*, xxxiv, xli, and *English Factories*, v. 65. For Sind, see *idem*, vii. 209. For the close of the period, see *Tavernier*, i. 391, and *Bernier*, 205, 226, 228, 230.
 
@@ -1720,7 +1713,7 @@ Before, however, we compare statistical data extending over more than half a cen
 <!-- page: 284 | folio: 262 -->
 One other preliminary remark seems to be required. The value of these statistics has been occasionally questioned on the ground of the discrepancies between the various tables which have survived, but this objection overlooks the fact that the revenue was assessed annually and not, as now, for a term of years. If, then, two tables of revenue were in exact agreement, we should have to conclude that they referred to the same year, and even large proportionate differences in the entry for a district or subdivision need excite no surprise if we remember that war, famine, or rebellion might suddenly transform the economic position of an extensive region. In my opinion the true way of using these tables is to ascertain the date to which each refers—unfortunately a matter of some occasional difficulty—and then, having arranged them in chronological order, to see whether they tell an intelligible story. For the present purpose, I make use of six tables. The first shows the revenue demand under Akbar about the year 1594; the second gives the demand at the accession of Shahjahan; the third relates to 1647, or perhaps a year or two earlier; the fourth and fifth are not precisely dated, but refer to years very near the end of Shahjahan's reign; while the sixth is taken from a chronicle which closes with the year 1668, and may be presumed to relate to one of the early years of Aurangzeb. In the table on the following page I have excluded the southern provinces, the boundaries of which are known to have varied; the province of Bengal, because the initial record of its revenue is obviously not in accord with the administrative facts; and the small province of Sind, the figures for which are doubtful and incomplete.
 
-Looking first at the changes between the year 1594 and the accession of Shahjahan, we see that the revenue of nine provinces rose by 29 per cent, but that the increase was by no means uniform. In four, the increase was less than 20 per cent, a rise which cannot be taken as evidence of unduly increased pressure, since it may be accounted for by a reasonable extension of cultivation. Of the provinces where the increase was greater, we know that Allahabad and Bihar were very much under-cultivated about the year 1594, and the [p. 263] increase in them may well represent mainly a recovery from the low state of cultivation which then prevailed. In Ajmer also the increase of 48 per cent probably represents a process of levelling up : the administration of this province was not very effective in Akbar's time, when the standard of revenue was only one-seventh or one-eighth of the produce, and the extension of Mogul authority which was effected by Jahangir must have meant a larger revenue, which was the primary
+Looking first at the changes between the year 1594 and the accession of Shahjahan, we see that the revenue of nine provinces rose by 29 per cent, but that the increase was by no means uniform. In four, the increase was less than 20 per cent, a rise which cannot be taken as evidence of unduly increased pressure, since it may be accounted for by a reasonable extension of cultivation. Of the provinces where the increase was greater, we know that Allahabad and Bihar were very much under-cultivated about the year 1594, and the [p. 263] increase in them may well represent mainly a recovery from the low state of cultivation which then prevailed. In Ajmer also the increase of 48 per cent probably represents a process of levelling up : the administration of this province was not very effective in Akbar's time, when the standard of revenue was only one-seventh or one-eighth of the produce, and the extension of Mogul authority which was effected by Jahangir must have meant a larger revenue, which was the primary object of all such developments. There remains the anomaly that Agra and Lahore show large increases, while Delhi, intermediate in situation and probably in economic condition, shows the lowest increase of all. Various conjectural explanations of these figures could be suggested, but I have found no positive basis for any of them, and the anomaly must stand until further facts come to light ; but, taking all the provinces together, the figures justify the statement that during Jahangir's reign there was no large general increase [p. 264] in the revenue, though the demand on some provinces was levelled up, and Lahore and Agra show large unexplained enhancements.
 
 
 **<span class="sc">Proportionate Increase in the Mogul Revenue Demand</span> (Stated in terms of Akbar's revenue of about 1594, which is shown as 100.)**
@@ -1737,8 +1730,6 @@ Looking first at the changes between the year 1594 and the accession of Shahjaha
 | Lahore . | 100 | 147 | 161 | 160 | 153 | 162 | 110 |
 | Multan . | 100 | ? | 187 | 147 | 144 | 164 | ? |
 | Total . | 100 | 129 | 166 | 170 | 175 | 175 | 136 (eight provinces) |
-
-object of all such developments. There remains the anomaly that Agra and Lahore show large increases, while Delhi, intermediate in situation and probably in economic condition, shows the lowest increase of all. Various conjectural explanations of these figures could be suggested, but I have found no positive basis for any of them, and the anomaly must stand until further facts come to light ; but, taking all the provinces together, the figures justify the statement that during Jahangir's reign there was no large general increase [p. 264] in the revenue, though the demand on some provinces was levelled up, and Lahore and Agra show large unexplained enhancements.
 
 Turning to the reign of Shahjahan, it will be seen that the index for nine provinces rose from 129 at his accession to 175 in the early years of his successor, while the figures given for his reign prove that the increase occurred within it, since the index in his time had already risen to that level. In order then to measure the increase in this reign, we may take the figures for Shahjahan's accession as the base, and re-calculate those of Aurangzeb as percentages, as is done in the last column of the table for eight provinces, the figures for Multan being doubtful in one year and those for Bihar in the other. The first obvious anomaly in this column is the actual fall in the revenue of Gujarat, but it is adequately accounted for by the persistent effects of the famine of 1630, which has been described at length in an earlier chapter: the lapse of a generation had sufficed to restore the economic life of the country, but even at this time its revenue had not increased materially above the amount claimed by Akbar. Shahjahan's enhancement over the eight provinces works out at 36 per cent, but if Gujarat be excluded, the figure for the remainder rises to nearly 44. The other anomalies are the relatively low increases in Lahore and Agra, with a relatively large increase in Delhi, and it will be noticed at once that their effect is largely to obliterate the unexplained anomalies observed in the reign of Jahangir. In general terms, then, it may be said that under Shahjahan the revenue rose by 40 to 50 per cent —more in Delhi, where the revenue at his accession was low, and less in Agra and Lahore, where it was exceptionally high.
 
@@ -3599,7 +3590,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - 248, 291
 - Zamorin of Calicut, the, 43, 222
 
-##### THE END
+#### THE END
 
 *Printed in Great Britain by* <span class="sc">R. & R. Clark, Limited</span>, *Edinburgh.*
 
@@ -3609,7 +3600,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 
 <!-- page: 387 | folio: 365 -->
 
-#### BY THE SAME AUTHOR
+### BY THE SAME AUTHOR
 
 *8vo.   12s. net*
 

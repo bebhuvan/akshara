@@ -23,9 +23,10 @@ TORONTO**
 
 
 <!-- page: 7 | folio: iii -->
-BY
 
-J. N. FARQUHAR, M.A., D.<span class="sc">Litt.</span> (<span class="sc">Oxon.</span>)
+### MODERN RELIGIOUS MOVEMENTS IN INDIA
+
+BY J. N. FARQUHAR, M.A., D.<span class="sc">Litt.</span> (<span class="sc">Oxon.</span>)
 
 LITERARY SECRETARY, NATIONAL COUNCIL OF YOUNG MEN’S CHRISTIAN ASSOCIATIONS, INDIA AND CEYLON
 
@@ -215,7 +216,7 @@ PAGE
 
 - Raja Ram Mohan Ray, from the life-size portrait by Biggs in Bristol Museum. Reproduced by permission of the Committee of the Museum and Art Gallery . . . *Frontispiece*
 
-##### PLATE   FACING PAGE
+#### PLATE   FACING PAGE
 
 - I. Prince Dwarka Nath Tagore, from the life-size portrait by Baron de Schweter in the Tagore Residence, Calcutta   39
 - II. Maharshi Debendra Nath Tagore, from the portrait by W. Archer, R. A., in the Tagore Residence, Calcutta .   44
@@ -851,7 +852,7 @@ The more earnest men, however, held by their convictions and watched with great 
 
 <!-- page: 103 | folio: 77 -->
 
-![PLATE IV — Mr. Justice Ranade](../figures/fig-005_p0103.webp)
+![Mr. Justice Ranade](../figures/fig-005_p0103.webp)
 
 
 ![Sir N. G. Chandavarkar](../figures/fig-006_p0103.webp)
@@ -1222,7 +1223,7 @@ Consequently, he determined to appeal to the people themselves, both by lectures
 
 <!-- page: 138 | folio: 108 -->
 
-![PLATE V — Dayānanda Sarasvatī As a sannyāsī](../figures/fig-009_p0138.webp)
+![Dayānanda Sarasvatī As a sannyāsī](../figures/fig-009_p0138.webp)
 
 
 ![Dayānanda Sarasvatī After his visit to Calcutta](../figures/fig-010_p0138.webp)
@@ -1322,7 +1323,7 @@ It ought to be stated here that Paṇḍit S. N. Agnihotṛi,[^sec-06-fn-020] th
 
 10\. A careful reading of the *Satyārth Prakāsh* shews that the ethical system of the Samāj is crude in the extreme. Many of the laws of Manu in all their barbarity are laid down for use in modern life. For example, the individual is encouraged to kill those whom he regards as monstrously evil men;[^sec-06-fn-023] and the king is advised to have the adulterer burned alive on a redhot iron bedstead, and the adulteress devoured alive by dogs, in the presence of many men and women.[^sec-06-fn-024] But it is in its marriage laws that the book goes farthest astray. Child-marriage is prohibited,[^sec-06-fn-025] and virgin widows and widowers are allowed to remarry,[^sec-06-fn-026] excellent regulations, as all will agree. But widows and widowers who have lived with their spouses are told not to remarry.[^sec-06-fn-027] Yet, for their relief, and for the [p. 122] relief also of husbands and wives in certain circumstances, the law of *niyoga* is laid down.[^sec-06-fn-028]  *Niyoga* is simply sexual relationships without marriage.  The details are too horrible to transcribe.  They may be seen in the book.  In 1892 some Āryas brought a law-suit against a Hindu who wrote against *niyoga*, calling it adultery, but the case was dismissed.[^sec-06-fn-029]  One is glad to hear that many members of the Samāj would now like to repudiate this most immoral legislation, which is equally repulsive to the Hindu and the Christian.
 
-There is another feature of the *Satyārth Prakāsh* which has attracted wide attention.  All the outstanding Hindu sects, and Jainism, Sikhism, Islam, and Christianity as well, are mercilessly criticized in it, and here and there with a good deal of malice and injustice.  This section of the book has encouraged Āryas and provided them with very useful ammunition for their controversies, but it has also created vehement hatred against the Samāj in many quarters.  Dayānanda’s stinging taunts have been effective in rousing a number of the sects to retaliation and defensive organization.  This is noticeably true of the Sikhs,[^sec-06-fn-030] the Jains,[^sec-06-fn-031] the Aḥmadīyas,<sup>5</sup> the Muḥammadans,[^sec-06-fn-032] and also of Paṇḍit Dīn Dayāl,[^sec-06-fn-033] the founder of the Bhārata Dharma Mahāmaṇḍala.
+There is another feature of the *Satyārth Prakāsh* which has attracted wide attention.  All the outstanding Hindu sects, and Jainism, Sikhism, Islam, and Christianity as well, are mercilessly criticized in it, and here and there with a good deal of malice and injustice.  This section of the book has encouraged Āryas and provided them with very useful ammunition for their controversies, but it has also created vehement hatred against the Samāj in many quarters.  Dayānanda’s stinging taunts have been effective in rousing a number of the sects to retaliation and defensive organization.  This is noticeably true of the Sikhs,[^sec-06-fn-030] the Jains,[^sec-06-fn-031] the Aḥmadīyas,[^sec-06-fn-032] the Muḥammadans,[^sec-06-fn-033] and also of Paṇḍit Dīn Dayāl,[^sec-06-fn-034] the founder of the Bhārata Dharma Mahāmaṇḍala.
 
 Dayānanda’s own methods of controversy, shewn in his public addresses and debates and also in his writings, have naturally been adopted by his followers.  Wherever they go, one hears of slander, passion, and unfair methods; and disturbances in the streets and squares have been pitiably common.
 
@@ -1334,15 +1335,15 @@ The second part of the service then began. It consisted of the singing of hymns,
 
 In 1892 the Ārya community fell in two.  This division is parallel to the first split in the Brāhma camp.  As Keshab led out the progressives, and left Debendra and the conservatives behind; so the Ārya Samāj broke up into the College or “Cultured” party and the Vegetarian or “Mahātma” party.  The former are progressive, stand for modern education and for freedom in diet, and declare that the Ārya Samāj is the one true universal religion, which must be taught to all the world; while their opponents favour the ancient Hindu education, stand by vegetarianism and declare that the teaching of the Samāj is pure Hinduism, but not the universal religion.
 
-13\. I have failed to obtain printed reports of the work of the Samāj, so that it is rather hard to estimate what they are doing. Their methods, however, are well known.  Those members of a local Samāj who pay 1% of their income to the funds elect the managing Committee of the Samāj.  Then the Samājes in each Province elect representatives who form the *Pratinidhi Sabhā*, or Representative Assembly, of the Province. [p. 125] Since the split in 1892 there have been duplicate organizations. There are missionaries and preachers of the Samāj, some paid, others honorary. Most of the paid men were originally Hindu paṇḍits; most of the honorary workers are men who have had an English education. The Samāj also copies other forms of Christian effort. They have their Tract Society, their Strī Samāj or Women’s Ārya Samāj, their *Ārya Kumār Sabhā*, or Young Men’s Ārya Association (a copy of the Y. M. C. A.), their Orphanages, and their work among the Depressed, which will be noticed elsewhere.[^sec-06-fn-034]
+13\. I have failed to obtain printed reports of the work of the Samāj, so that it is rather hard to estimate what they are doing. Their methods, however, are well known.  Those members of a local Samāj who pay 1% of their income to the funds elect the managing Committee of the Samāj.  Then the Samājes in each Province elect representatives who form the *Pratinidhi Sabhā*, or Representative Assembly, of the Province. [p. 125] Since the split in 1892 there have been duplicate organizations. There are missionaries and preachers of the Samāj, some paid, others honorary. Most of the paid men were originally Hindu paṇḍits; most of the honorary workers are men who have had an English education. The Samāj also copies other forms of Christian effort. They have their Tract Society, their Strī Samāj or Women’s Ārya Samāj, their *Ārya Kumār Sabhā*, or Young Men’s Ārya Association (a copy of the Y. M. C. A.), their Orphanages, and their work among the Depressed, which will be noticed elsewhere.[^sec-06-fn-035]
 
 The Samāj is doing a good deal of education. Lala Lajpat Rai writes with regard to the schools and colleges of the progressive party:
 
-> At Lahore it has founded and maintains a first-class College, preparing scholars up to the highest standard and for the highest University examinations. This was created in 1886 in sacred memory of its founder, and is called “The Dayanand Anglo-Vedic College.” Its objects are to encourage and enforce the study of (*a*) Hindi literature; (*b*) classical Sanskrit and the Vedas; and (*c*) English literature and sciences, both theoretical and applied; and, furthermore, “to provide means for giving technical education.” It owns considerable property, and has endowments yielding an annual income (including tuition and admission fees, etc.) of over Rs. 60,000 (£4000). The Principal is honorary, and has held the post with remarkable success since the foundation. On the staff are several of its own alumni, working in a missionary spirit on mere subsistence allowances. Directly or indirectly connected with the College are a number of secondary and primary schools maintained by the Samaj throughout the province, some of which receive the usual grants from the Educational Department. In the United Provinces, also, the Samaj maintains several schools on the same lines as the Anglo-Vedic or Anglo-Sanskrit Schools of the Punjab, their principal Anglo-Vedic school being at Dehra Dun.[^sec-06-fn-035]
+> At Lahore it has founded and maintains a first-class College, preparing scholars up to the highest standard and for the highest University examinations. This was created in 1886 in sacred memory of its founder, and is called “The Dayanand Anglo-Vedic College.” Its objects are to encourage and enforce the study of (*a*) Hindi literature; (*b*) classical Sanskrit and the Vedas; and (*c*) English literature and sciences, both theoretical and applied; and, furthermore, “to provide means for giving technical education.” It owns considerable property, and has endowments yielding an annual income (including tuition and admission fees, etc.) of over Rs. 60,000 (£4000). The Principal is honorary, and has held the post with remarkable success since the foundation. On the staff are several of its own alumni, working in a missionary spirit on mere subsistence allowances. Directly or indirectly connected with the College are a number of secondary and primary schools maintained by the Samaj throughout the province, some of which receive the usual grants from the Educational Department. In the United Provinces, also, the Samaj maintains several schools on the same lines as the Anglo-Vedic or Anglo-Sanskrit Schools of the Punjab, their principal Anglo-Vedic school being at Dehra Dun.[^sec-06-fn-036]
 
 
 <!-- page: 156 | folio: 126 -->
-The centre and crown of the educational efforts of the Mahātma party is the *Gurukula Mahāvidyālaya* at Hardwar, a great institution, founded in 1902, in which an attempt is being made to give a true Hindu education and to save students from the contaminations both of Hindu home and city life and of Western civilization. It is a most interesting and promising experiment. The situation is all that could be desired; good food is provided, and the physique of the students receives a good deal of attention. Here is what a Christian writes of the conditions of life and study :[^sec-06-fn-036]
+The centre and crown of the educational efforts of the Mahātma party is the *Gurukula Mahāvidyālaya* at Hardwar, a great institution, founded in 1902, in which an attempt is being made to give a true Hindu education and to save students from the contaminations both of Hindu home and city life and of Western civilization. It is a most interesting and promising experiment. The situation is all that could be desired; good food is provided, and the physique of the students receives a good deal of attention. Here is what a Christian writes of the conditions of life and study :[^sec-06-fn-037]
 
 > The students are admitted at the age of eight years, and the parents are under written pledge not to remove their sons from the school till the expiry of the 17 years' course, *i.e.* till they have reached the age of 25. During the whole of these 17 years they may never once go home or leave the school. Indeed, they are only allowed to have a quarter of an hour's interview once a year with their parents, and that in presence of their teachers. . . . During the whole of their long course they are watched day and night by their teachers and housefathers. Without these they may not go out even for a walk. No woman may approach the Gurukula. They live a simple, hardy life, on strictly vegetarian diet. . . . They wear the saffron dress of the religious orders.
 
@@ -1354,20 +1355,20 @@ The Samāj does also a good deal for the education of girls. They have a very su
 <!-- page: 157 | folio: 127 -->
 Lala Lajpat Rai, struck with the work of the Salvation Army, started recently in Lahore the Vedic Salvation Army.
 
-In the Panjab and the United Provinces the Samāj has done valuable work by its testimony to monotheism, its opposition to idolatry and to other superstitions and by its educational work. Its polemic against caste, child-marriage, priestcraft, pilgrimage, and self-torture in the name of religion, is all to the good, although members of the Samāj are still bound by caste,[^sec-06-fn-037] and many have not given up child-marriage. In these matters there is far more talk than action. The great expansion of the Samāj in recent years[^sec-06-fn-038] gives promise of still farther growth, and the zeal of the members is proved by the very generous way in which they subscribe to the funds. Dayānanda’s praise of all things Indian, and his defence of the Vedas and of transmigration have proved very popular.
+In the Panjab and the United Provinces the Samāj has done valuable work by its testimony to monotheism, its opposition to idolatry and to other superstitions and by its educational work. Its polemic against caste, child-marriage, priestcraft, pilgrimage, and self-torture in the name of religion, is all to the good, although members of the Samāj are still bound by caste,[^sec-06-fn-038] and many have not given up child-marriage. In these matters there is far more talk than action. The great expansion of the Samāj in recent years[^sec-06-fn-039] gives promise of still farther growth, and the zeal of the members is proved by the very generous way in which they subscribe to the funds. Dayānanda’s praise of all things Indian, and his defence of the Vedas and of transmigration have proved very popular.
 
-Yet there is no risk involved in prophesying that the Samāj will not have a great history. In the very sources of its present strength there is that which will inevitably lead to its ruin. The false interpretation of the Vedas, on which the whole structure rests, will inevitably crumble as enlightenment proceeds. The attempt to retain much that is old and outworn, instead of transcending it, is another source of weakness. The retention of the doctrine of transmigration and karma is in itself most dangerous. So long as that remains, a healthy monotheism is impossible,[^sec-06-fn-039] and caste cannot be rooted out.[^sec-06-fn-040]
+Yet there is no risk involved in prophesying that the Samāj will not have a great history. In the very sources of its present strength there is that which will inevitably lead to its ruin. The false interpretation of the Vedas, on which the whole structure rests, will inevitably crumble as enlightenment proceeds. The attempt to retain much that is old and outworn, instead of transcending it, is another source of weakness. The retention of the doctrine of transmigration and karma is in itself most dangerous. So long as that remains, a healthy monotheism is impossible,[^sec-06-fn-040] and caste cannot be rooted out.[^sec-06-fn-041]
 
 On the 30th of November, 1907, at the Samāj Anniversary in Lahore, Prof. Lala Sain Das, M.A., gave an address in which he asked the assembly to realize how little work they were doing in comparison with Christian Missions, how weak they [p. 128] were spiritually and how impotent socially through the caste system.  He added:
 
-Two new forces are now at work in India (1) English education, and (2) Christian evangelisation.  The first, formerly a source of weakness to the Hindu society, has now proved a source of strength to the Ārya Samāj.  Superstition at once gave way before the scientific education.  In order, therefore, to fully avail ourselves of the former and to nullify the effect of the latter, we should open as many schools as possible where all the latest discoveries in science should be taught and education on national and modern lines should be imparted free to as large a number as our funds permit, and, secondly to carry the torch of Vedic light to the remotest corners of India at least where the Ārya Samāj is still unrepresented.  But then there comes in the question of funds.  Our rich men are not going to part with their money, because they have to minister to their own wants, to those of their sons and daughters and relations. Then there is a question of time.  Now those who can spare time, won’t do it, because they have to attend to this business and to that business.[^sec-06-fn-041]
+Two new forces are now at work in India (1) English education, and (2) Christian evangelisation.  The first, formerly a source of weakness to the Hindu society, has now proved a source of strength to the Ārya Samāj.  Superstition at once gave way before the scientific education.  In order, therefore, to fully avail ourselves of the former and to nullify the effect of the latter, we should open as many schools as possible where all the latest discoveries in science should be taught and education on national and modern lines should be imparted free to as large a number as our funds permit, and, secondly to carry the torch of Vedic light to the remotest corners of India at least where the Ārya Samāj is still unrepresented.  But then there comes in the question of funds.  Our rich men are not going to part with their money, because they have to minister to their own wants, to those of their sons and daughters and relations. Then there is a question of time.  Now those who can spare time, won’t do it, because they have to attend to this business and to that business.[^sec-06-fn-042]
 
 An article appeared in Lahore in December, 1912, by Dr. Gokal Chand, Barrister, Lahore, in which he declares that the Samāj is gradually losing its intensity, and tries to discover the causes of this weakening.  He puts it down, first, to the want of a Scripture, a book of spiritual instruction which the ordinary man can take up and find help in: “the members of the Ārya Samāj do not read the Vedas.” Secondly, he notes they have no religious ministers doing pastoral work among the people.  Thirdly, they want missionaries settled each in his district with an organization and assistants, just like Christian missionaries.  Fourthly, they want men who have renounced the world and will live only for the Samāj.
 
 <span class="sc">LITERATURE.</span> — <span class="sc">GENERAL</span>: Dr. H. D. Griswold, art. *Ārya Samāj* in *ERE*.  *Hand-Book of the Ārya Samāj*, by Pandit Vishun [p. 129] Lal Sharma, Allahabad, the Indian Press, 1912, 6 as. (The best official account of the rise of the sect, its opinions and work.) <span class="sc">BIOGRAPHY</span>: The Autobiography is published in Durga Prasad's translation of the *Satyarth Prakash* (see below). *Maharshi Swāmī Dayānand Sarasvatī Jī Mahārāj Kā Jīvan Charitra*, by Pandit Lekh Ram and Lala Atma Ram, Lahore, 1897 (the standard biography ; in Hindī). *The Life and Teachings of Swami Dayanand Saraswati*, by Bawa Chhajju Singh, Lahore, Addison Press, 1903, two vols., Rs. 2. <span class="sc">Dayānanda's Works</span>: *Ṛigvedabhāshya* (a Hindī commentary on the *Ṛigveda*). *Ṛigvedādibhāshya Bhūmikā* (Hindī introduction to the commentary on the *Ṛik*). *An English Translation of the Satyarth Prakash* by Durga Prasad, Lahore, Virjanand Press, 1908, Rs. 2. *The Ocean of Mercy* (an English translation of Dayānanda's tract on Cow-killing), by Durga Prasad, Lahore, Virjanand Press, 1889. <span class="sc">Criticism</span>: Chirol's *Indian Unrest*, chap. VIII. *The Niyoga Doctrine of the Ārya Samāj*, by Ruchi Ram Sahni, Lahore, 1896, one half-anna. *Pandit Dayānand Unveiled*, by S. N. Agnihotri, Lahore, The Tribune Press, 1891, out of print. *The Dayānandī Interpretation of the Word "Deva" in the Ṛig Veda*, by H. D. Griswold, Ludhiana, 1897. <span class="sc">Defence</span>: *The Ārya Samāj, Its Aims and Teachings*, by Lala Lajpat Rai, *Contemporary Review*, May, 1910. *The Ārya Samāj and its Detractors*, by Munshi Ram and Ram Deva, Hardwar, Satya Dharm Pracharak Press, 1911, Rs. 3. *Agnihotri Demolished* by Rambhaj Datta, Lahore, 1891, out of print.
 
 
-#### 2. <span class="sc">ŚIVANĀRĀYAṆA PARAMAHAṀSA</span>[^sec-06-fn-042]
+#### 2. <span class="sc">ŚIVANĀRĀYAṆA PARAMAHAṀSA</span>[^sec-06-fn-043]
 
 1\. We take next another wandering ascetic whose teaching bears quite a close resemblance to Dayānanda's.
 
@@ -1383,9 +1384,9 @@ Mr. Chatterji writes, [p. 131] Those who came under his influence were common pe
 
 He taught as seriously as Dayānanda did that there is but one God; but he attempted to conceive Him as having two aspects, the one unknowable, inactive, and tending to be impersonal, the other distinctly personal and active. He lays more stress on the will of God than any other Hindu thinker of the nineteenth century. There is one rather curious survival in his thought, viz., that God is specially manifested in light. Perhaps in connection with this same thought, he affirms that it is God’s will that all men should make to Him offerings in fire of things fragrant and sweet. Like Dayānanda, he holds that this form of sacrifice purifies the air.
 
-He condemns idolatry with quite as much vehemence as Dayānanda; but he goes further, and, like a prophet of the Old Testament, proclaims that the worship of idols degrades man and works ruin to the nation as a whole. His teaching on this point is most penetrating. He also condemned man-worship. Consequently, though he visited all the great shrines of India, he would not bow down to idols, nor would he prostrate himself before religious authorities, as Hindus are wont to do. He held most sincerely that the weakness of modern India was the result of idolatry and superstition. As he wandered through the country, he saw how gross the ordinary worship of the temples was, and how frequently fraud was employed to increase the popularity of a particular god or shrine. All this he condemned very frankly.[^sec-06-fn-043] His [p. 132] attitude to social questions was also practically the same as Dayānanda's. He opposed caste, condemned child-marriage, advocated female education, and declared woman to be equal with man. He says:
+He condemns idolatry with quite as much vehemence as Dayānanda; but he goes further, and, like a prophet of the Old Testament, proclaims that the worship of idols degrades man and works ruin to the nation as a whole. His teaching on this point is most penetrating. He also condemned man-worship. Consequently, though he visited all the great shrines of India, he would not bow down to idols, nor would he prostrate himself before religious authorities, as Hindus are wont to do. He held most sincerely that the weakness of modern India was the result of idolatry and superstition. As he wandered through the country, he saw how gross the ordinary worship of the temples was, and how frequently fraud was employed to increase the popularity of a particular god or shrine. All this he condemned very frankly.[^sec-06-fn-044] His [p. 132] attitude to social questions was also practically the same as Dayānanda's. He opposed caste, condemned child-marriage, advocated female education, and declared woman to be equal with man. He says:
 
-> Similar reasons will show you the injustice of the treatment to which your women are subjected. Man and woman are equally related to the all-comprehending supreme Being, manifested as light. It is pleasant in His sight that each should be free to realise the perfection possible to the human individual.[^sec-06-fn-044]
+> Similar reasons will show you the injustice of the treatment to which your women are subjected. Man and woman are equally related to the all-comprehending supreme Being, manifested as light. It is pleasant in His sight that each should be free to realise the perfection possible to the human individual.[^sec-06-fn-045]
 
 His teaching is distinctly better than Dayānanda's in two particulars. First, he did not press the doctrine of transmigration and karma. Clearly he had not realized what an incubus it had been on the theology of Hinduism and on the life of the common people; so that he occupied rather an ambiguous position towards it. Mr. Chatterji writes:
 
@@ -1393,7 +1394,7 @@ His teaching is distinctly better than Dayānanda's in two particulars. First, h
 
 The other point on which he advanced beyond Dayānanda was this: he did not hold the infallibility of the Veda, but recognized the value of many sacred books.
 
-He believed that, if men would only recognize the true import of the two aspects of God, peace would come amongst all religions, and good will would be established in place of evil. At one time he urged the advisability of holding a great religious Conference with the object of bringing all men to one opinion with regard to God. The following is another of his proposals, which, if not very practical, gives us a peep into his mind: [p. 133] Let all mankind have a common speech. Compile from all the scriptures of the world, in that common human tongue, a scripture, containing all that is useful for man to know concerning his spiritual and temporal welfare. Preserve that one and burn all the rest, burying their ashes out of sight.[^sec-06-fn-045]
+He believed that, if men would only recognize the true import of the two aspects of God, peace would come amongst all religions, and good will would be established in place of evil. At one time he urged the advisability of holding a great religious Conference with the object of bringing all men to one opinion with regard to God. The following is another of his proposals, which, if not very practical, gives us a peep into his mind: [p. 133] Let all mankind have a common speech. Compile from all the scriptures of the world, in that common human tongue, a scripture, containing all that is useful for man to know concerning his spiritual and temporal welfare. Preserve that one and burn all the rest, burying their ashes out of sight.[^sec-06-fn-046]
 
 He insists on the duty of training the body to be the obedient servant of the spirit, and he makes practical service of our neighbours an essential part of spiritual religion. The following summary is given at the end of one of his latest tracts :
 
@@ -1404,8 +1405,8 @@ He insists on the duty of training the body to be the obedient servant of the sp
 - 5. Light or the sun and moon is His expression. Let all men at the rising and the setting of light with love and reverence bow down with folded hands and adore Him who is light, craving forgiveness of sins.
 When you perceive the true nature of light, you will understand all phenomena of life and movement, such as birth and death, eclipses and the waxing and the waning of the moon.
 
-- 6. Knowing Him to be all-comprehending and complete, keep your hearts well established on Him.[^sec-06-fn-046] [p. 134] Christian influence is very distinctly visible in his teaching at several points, notably in his attitude to idolatry, his freedom from the grip of transmigration, and his conception of the equality of man and woman.
-2\. A number of intelligent people in Calcutta still confess his influence; the Īsāmoshipanthīs are the outcome of the teaching of one of his disciples;[^sec-06-fn-047] and a new sect has sprung from his teaching in Assam.[^sec-06-fn-048] The Kacheris are a Burma-Tibetan race scattered throughout Upper Assam. One branch of the Kacheris are known as the Mech tribe. The word Mech is simply a corruption of the Sanskrit word *Mleccha*, which means “barbarian,” “unclean,” “foreign.” There is a good deal of unrest up and down the country; and the Mech tribe, having grown in knowledge and intelligence during recent years, very naturally dislike their tribal name.
+- 6. Knowing Him to be all-comprehending and complete, keep your hearts well established on Him.[^sec-06-fn-047] [p. 134] Christian influence is very distinctly visible in his teaching at several points, notably in his attitude to idolatry, his freedom from the grip of transmigration, and his conception of the equality of man and woman.
+2\. A number of intelligent people in Calcutta still confess his influence; the Īsāmoshipanthīs are the outcome of the teaching of one of his disciples;[^sec-06-fn-048] and a new sect has sprung from his teaching in Assam.[^sec-06-fn-049] The Kacheris are a Burma-Tibetan race scattered throughout Upper Assam. One branch of the Kacheris are known as the Mech tribe. The word Mech is simply a corruption of the Sanskrit word *Mleccha*, which means “barbarian,” “unclean,” “foreign.” There is a good deal of unrest up and down the country; and the Mech tribe, having grown in knowledge and intelligence during recent years, very naturally dislike their tribal name.
 
 Shortly after Śivanārāyaṇa’s death, a member of this tribe, Kali Charan by name, went to Calcutta and met some of his followers. He picked up the teacher’s main ideas, and carried away one of his Bengali books with him, *Sār Nityakriyā*, *i.e.* “Essential Daily Duties.” When he reached Assam, he taught the new doctrines as a means of changing the status of the tribe. He received a ready response, and the movement grew apace. He teaches the people that by accepting the new teaching they become *Brahmas*, or, as they pronounce it, *Bormhos*. He means they will become Brahman, God. Those who follow him call themselves Bormhos instead of using the old name Mech. They do their best to follow the teaching of *Sār Nityakriyā*, but they do not understand it well. They are setting themselves up as a caste, at least thus far that they will not eat with others. They have neither temples [p. 135] nor idols, but worship fire, earth, air, water and sun in a spot prepared for the occasion. These are supposed to be God. They offer fruits and vegetables, and sacrifice certain sweetsmelling substances in fire.
 
@@ -1422,7 +1423,7 @@ The Common Path (Sadharana Dharma) is open to people of any creed. Those who pro
 
 
 <!-- page: 166 | folio: 136 -->
-In 1909 this organization was included in a wider body called the Vedic Mission. This new organization has two divisions, Vedic Dharma and Sādhārana Dharma, the former purely Hindu, the later for everybody and anybody. For a time they were affiliated with the Bhārata Dharma Mahāmaṇḍal,[^sec-06-fn-049] but its orthodoxy was too stiff for the Vedic Mission. The following sentences allude to that fact:
+In 1909 this organization was included in a wider body called the Vedic Mission. This new organization has two divisions, Vedic Dharma and Sādhārana Dharma, the former purely Hindu, the later for everybody and anybody. For a time they were affiliated with the Bhārata Dharma Mahāmaṇḍal,[^sec-06-fn-050] but its orthodoxy was too stiff for the Vedic Mission. The following sentences allude to that fact:
 
 > We take this opportunity of informing the public that our Mission has nothing to do with so called Hindu orthodoxy and priesthood. Nothing short of thorough religious reform based on “Vedic monotheism” will satisfy us.
 
@@ -1452,15 +1453,15 @@ We now turn to a group of movements which have one striking feature in common, n
 
 1\. The first is a very successful and combative sect which arose in the Panjab in the eighties, largely as a reaction from the striking success of a Christian mission in the Central Panjab and from the fierce onslaught of Dayānanda and his Samāj.
 
-In the village of Qadian[^sec-06-fn-050] in the Gurdaspur district of the Panjab, there was born, about 1838, in an ancient Muḥammadan [p. 138] family which had long been known for its attachment to the mysticism of Islam, viz., Sufiism, a boy called Mirza Gḥulam Aḥmad. Very little is known about his youth or education; so that it is not possible to trace the growth of his mind, as may be done in the case of Dayānanda. He began to teach about 1879, and died in 1908.
+In the village of Qadian[^sec-06-fn-051] in the Gurdaspur district of the Panjab, there was born, about 1838, in an ancient Muḥammadan [p. 138] family which had long been known for its attachment to the mysticism of Islam, viz., Sufiism, a boy called Mirza Gḥulam Aḥmad. Very little is known about his youth or education; so that it is not possible to trace the growth of his mind, as may be done in the case of Dayānanda. He began to teach about 1879, and died in 1908.
 
 2\. The whole movement rests on his personal claims. He declared himself to be the Christian Messiah, the Muḥammadan Maḥdi, and the final *avatāra* or “Incarnation” of the Hindus. In one of his latest utterances he said,
 
-> My advent in this age is not meant for the reformation of the Mohammedans only, but Almighty God has willed to bring about through me a regeneration of three great nations, viz., Hindus, Mohammedans and Christians. As for the last two I am the promised Messiah, so for the first I have been sent as an Avatar.[^sec-06-fn-051]
+> My advent in this age is not meant for the reformation of the Mohammedans only, but Almighty God has willed to bring about through me a regeneration of three great nations, viz., Hindus, Mohammedans and Christians. As for the last two I am the promised Messiah, so for the first I have been sent as an Avatar.[^sec-06-fn-052]
 
 The last claim, to be Hindu *avatāra*, was made for the first time towards the end of his life, and has had no results. He spent his life in trying to prove himself the Maḥdi of Islam as well as the Christian Messiah, in seeking to shew that in him Christianity and Islam unite and culminate.
 
-The conception is rather an unusual one for a Muslim; for, according to ordinary Muḥammadan belief, the Messiah and the Maḥdi are distinct persons;[^sec-06-fn-052] and the common expectation is that the Maḥdi will be a man of blood, a character which it would be impossible to combine with Christ. The Mirza gets over this last difficulty by declaring that the traditions which speak of the Maḥdi as a man of blood are all forgeries, that the Guided One (*i.e.* the Maḥdi) is to be a man of peace. Thus, the controlling idea of his conception of himself as a prophet is the character and work of Christ. It [p. 139] seems almost as if he had first come to believe himself to be the Messiah, and had then added the idea that he was the Maḥdi as a sort of inference from his position in Islam. In any case, nearly the whole of his apologetic is built up with the object of proving himself the Messiah. With that, then, we begin.
+The conception is rather an unusual one for a Muslim; for, according to ordinary Muḥammadan belief, the Messiah and the Maḥdi are distinct persons;[^sec-06-fn-053] and the common expectation is that the Maḥdi will be a man of blood, a character which it would be impossible to combine with Christ. The Mirza gets over this last difficulty by declaring that the traditions which speak of the Maḥdi as a man of blood are all forgeries, that the Guided One (*i.e.* the Maḥdi) is to be a man of peace. Thus, the controlling idea of his conception of himself as a prophet is the character and work of Christ. It [p. 139] seems almost as if he had first come to believe himself to be the Messiah, and had then added the idea that he was the Maḥdi as a sort of inference from his position in Islam. In any case, nearly the whole of his apologetic is built up with the object of proving himself the Messiah. With that, then, we begin.
 
 
 <!-- page: 169 | folio: 139 -->
@@ -1469,9 +1470,9 @@ The conception is rather an unusual one for a Muslim; for, according to ordinary
 
 He does not profess to be Jesus Christ returned *in propria persona*. He claims to be the fufilment of the prophecy of the Second Coming, on the ground that he has come in the spirit and power of Jesus. In order to make this claim seem reasonable, he uses two series of arguments.
 
-*A.* He first sets about proving that Christ did not die on the Cross, rise from the dead, and ascend to Heaven.[^sec-06-fn-053] He acknowledges that, if Jesus really died, rose, and went to heaven, then Christianity must be true, and he himself must be an impostor:
+*A.* He first sets about proving that Christ did not die on the Cross, rise from the dead, and ascend to Heaven.[^sec-06-fn-054] He acknowledges that, if Jesus really died, rose, and went to heaven, then Christianity must be true, and he himself must be an impostor:
 
-> If Christ was in reality exalted in bodily form alive to heaven, then there is no need of further controversy, and my claim to be the promised Messiah is in vain. The reason is that my claim is based upon the natural death (wafat) of the Son of Mary.[^sec-06-fn-054]
+> If Christ was in reality exalted in bodily form alive to heaven, then there is no need of further controversy, and my claim to be the promised Messiah is in vain. The reason is that my claim is based upon the natural death (wafat) of the Son of Mary.[^sec-06-fn-055]
 
 He avers that, while Jesus was truly crucified, He was taken down from the cross seemingly dead, but really in a swoon, recovered from His wounds, came to India, lived for many years and finally died in Cashmere like any ordinary mortal. The materials he uses to establish these propositions are as follows: *a.* He revives the old swoon theory of the death of Jesus, citing as confirmation the facts, that He was on the cross for only a few hours and that His legs were not broken. He also uses the phrase, “Why seek ye the living amongst the dead ?” [p. 140] and urges that the appearances of Jesus to His disciples after the crucifixion are those of a living man and not of a disembodied spirit. Christ’s own use of the experience of Jonah as a parallel to Himself is pressed into service. As Jonah was alive in the whale’s belly, so Jesus must have meant that He Himself would be alive in the tomb.
 
@@ -1497,7 +1498,7 @@ It ought to be noticed that, in denying the Ascension of [p. 142] Christ, the Mi
 
 *a.* As the Old Testament prophecy of the second coming of Elijah was fulfilled in John the Baptist, who was not Elijah, so the New Testament prophecy of the second coming of Christ will be fulfilled, not by a personal return of Jesus, but by the appearance of one coming in the spirit and power of Jesus.
 
-*b.* In the Koran Christ’s prophecy of the coming of the Comforter is referred to. The Greek word in John 16, 7 is *paracletos*, advocate, defender, comforter. Muḥammad seems to have got this word mixed up with the similar Greek word *periclytos*, which means famous, and took it as a prophecy of his own name, which, whether in the form Muḥammad or or Aḥmad, means praised, glorified. Hence the words of the Koran,[^sec-06-fn-055]
+*b.* In the Koran Christ’s prophecy of the coming of the Comforter is referred to. The Greek word in John 16, 7 is *paracletos*, advocate, defender, comforter. Muḥammad seems to have got this word mixed up with the similar Greek word *periclytos*, which means famous, and took it as a prophecy of his own name, which, whether in the form Muḥammad or or Aḥmad, means praised, glorified. Hence the words of the Koran,[^sec-06-fn-056]
 
 > And remember when Jesus the son of Mary said, “O children of Israel ! of a truth I am God’s apostle to you to confirm the law which was given before me, and to announce an apostle that shall come after me whose name shall be Ahmad !”
 
@@ -1513,7 +1514,7 @@ It is said that he predicted the death of no less than one hundred and twenty-on
 
 - (1) To refrain from publishing any prediction involving the disgrace of any person, or in which anyone should be represented as an object of God’s displeasure.
 - (2) To refrain from publishing any challenge to appeal to God to indicate by the signs of His displeasure, such as disgrace, etc., the party in a religious controversy which is in the wrong.
-- (3) To refrain from publishing any writing purporting to be an *inspiration*, the object of which can be reasonably taken to be the disgrace of any person, or the representing of him as an object of the Divine wrath.[^sec-06-fn-056]
+- (3) To refrain from publishing any writing purporting to be an *inspiration*, the object of which can be reasonably taken to be the disgrace of any person, or the representing of him as an object of the Divine wrath.[^sec-06-fn-057]
 He also predicted the birth of sons to certain friends, but, unfortunately, fulfilment did not always follow.  Sometimes there was no birth at all, sometimes the sons turned out to be daughters, to the disgust of the parties and the discomfiture of the prophet.
 
 In 1898 he published a pamphlet called, *A Revealed Cure for the Bubonic Plague*, in which he declared the *Marham-i-Īsā*, or Ointment of Jesus, mentioned above, to be a perfect remedy for bubonic plague, on the ground that it had been “prepared solely under the influence of divine inspiration.”  Hakīm Muḥammad Husain of Lahore was the manufacturer of the ointment.  Unfortunately, the Government again interfered with the action of his “divine inspiration,” and prohibited the exploitation of the specific.
@@ -1522,11 +1523,11 @@ He also prophesied that his people would be immune from pestilence without plagu
 
 His own death from cholera in 1908 formed a fitting climax to this series of fraudulent impostures.
 
-*f.* His claim to be the Second Adam is another of his arguments for his Messiahship.  Dr. Griswold writes :[^sec-06-fn-057] [p. 145] At the close of the sixth day, God created the first Adam. But one day is with the Lord as a thousand years. Therefore at the close of the sixth millenium or the beginning of the seventh, the second Adam is to appear. We are now at the beginning of the seventh millenium, if we reckon according to the lunar year, which is the inspired mode of reckoning; and so the time is fulfilled for the second Adam to be manifested. Where is the Second Adam to appear? “In the East and not in the West,” says the Mirza Sahib; “for from Gen. ii. 8 we learn that God had put the first Adam in a garden *eastward.* It is therefore necessary that the second Adam should appear in the East, in order to have a resemblance with the first in respect of his locality.”
+*f.* His claim to be the Second Adam is another of his arguments for his Messiahship.  Dr. Griswold writes :[^sec-06-fn-058] [p. 145] At the close of the sixth day, God created the first Adam. But one day is with the Lord as a thousand years. Therefore at the close of the sixth millenium or the beginning of the seventh, the second Adam is to appear. We are now at the beginning of the seventh millenium, if we reckon according to the lunar year, which is the inspired mode of reckoning; and so the time is fulfilled for the second Adam to be manifested. Where is the Second Adam to appear? “In the East and not in the West,” says the Mirza Sahib; “for from Gen. ii. 8 we learn that God had put the first Adam in a garden *eastward.* It is therefore necessary that the second Adam should appear in the East, in order to have a resemblance with the first in respect of his locality.”
 
 *g.* Towards the end of his life he began to claim that he was greater than Christ :
 
-I swear by the Lord . . . that the words expressing my dignity revealed from God . . . are far more weighty and glorious than the words of the Gospels relating to Jesus. . . . My superiority lies in being the Messiah of Muhammad, as Jesus was the Messiah of Moses.[^sec-06-fn-058]
+I swear by the Lord . . . that the words expressing my dignity revealed from God . . . are far more weighty and glorious than the words of the Gospels relating to Jesus. . . . My superiority lies in being the Messiah of Muhammad, as Jesus was the Messiah of Moses.[^sec-06-fn-059]
 
 He also began to carp at the character of Christ, accusing Him of drunkenness, lack of philanthropy and several other such things.
 
@@ -1540,9 +1541,9 @@ Clearly the Messiah and the Maḥdi are here regarded as distinct personalities,
 
 This opens the way for his own claims.
 
-*ii*. He cites the passage from the Koran quoted above[^sec-06-fn-059] as a proof that he is the Maḥdi, declaring himself the *Burūz* or spiritual reappearance of Muḥammad.
+*ii*. He cites the passage from the Koran quoted above[^sec-06-fn-060] as a proof that he is the Maḥdi, declaring himself the *Burūz* or spiritual reappearance of Muḥammad.
 
-3\. Apart from these personal claims, his teaching is an attempt to find, amidst the irresistible inrush of Western education and Christian thought, a middle path between impossible orthodoxy and the extreme rationalism of Sir Syed Aḥmad Khan.[^sec-06-fn-060] He is opposed to *jihad*, i.e. Muslim religious warfare, and the spirit of the *ghāzī*, or religious fanatic, as well as to a bloody Maḥdi; and he condemns tomb-worship. He says the Koran teaches that slavery ought to be gradually abolished. He says polygamy, the veiling of women and divorce were permitted by Muḥammad to prevent worse evils.
+3\. Apart from these personal claims, his teaching is an attempt to find, amidst the irresistible inrush of Western education and Christian thought, a middle path between impossible orthodoxy and the extreme rationalism of Sir Syed Aḥmad Khan.[^sec-06-fn-061] He is opposed to *jihad*, i.e. Muslim religious warfare, and the spirit of the *ghāzī*, or religious fanatic, as well as to a bloody Maḥdi; and he condemns tomb-worship. He says the Koran teaches that slavery ought to be gradually abolished. He says polygamy, the veiling of women and divorce were permitted by Muḥammad to prevent worse evils.
 
 His sect, which, in organization, is like a Samāj, has its headquarters in Qadian, and is called the *Sadr Anjuman-i-Aḥmadīya*, or Chief Society of Aḥmad.
 
@@ -1552,7 +1553,7 @@ He was as eager for disputation as Dayānanda himself, and as violent and unscru
 
 The likeness of the movement to Persian Babism is very striking, and well worth study.
 
-The whole movement is outside orthodox Islam. Dr. Griswold writes :[^sec-06-fn-061]
+The whole movement is outside orthodox Islam. Dr. Griswold writes :[^sec-06-fn-062]
 
 > In the numerous *fatwas*, which Muhammadan Associations all over India have issued against the Mirza Sahib, the strongest words of denunciation are used. Thus he is called *Kafir* ‘unbeliever,’ *Dajjal* ‘Anti-Christ,’ *mulhid* ‘heretic,’ *murtadd* ‘apostate,’ *kazzab* ‘liar,’ *be-iman* ‘faithless,’ *dag habaz* ‘deceitful,’ etc., etc. With such epithets as these is the ‘certificate’ filled, with which Muhammadan orthodoxy has dismissed the Mirza Sahib from its fellowship and service.
 
@@ -1562,7 +1563,7 @@ The sect has also a branch in Shorapur in the Deccan. A man named Abdulla has be
 
 4\. A member of the sect, Mr. Khwaja Kamal-ud-Din, a [p. 148] Pleader of the Chief Court, Lahore, began a Muslim Mission in England some two years ago.  He settled first at Richmond, but has recently gone to Woking, where he has his office close by the Muḥammadan Mosque erected by the late Dr. Leitner, formerly Principal of the Oriental College, Lahore.  The chief means whereby Mr. Kamal-ud-Din carries on his propaganda is a monthly magazine called *Muslim India and Islamic Review*.  Lectures are also delivered from time to time in different places.  A new English translation of the *Koran* is being prepared for use in England.  Recently, Lord Headley, who for years has proclaimed himself to be more in sympathy with Islam than with Christianity, formally accepted Muḥammadanism in connection with the mission.  This accession has caused great rejoicing in the Panjab.  Two Moulvies have been sent to England from Delhi to strengthen Mr.Kamal-ud-Din's hands.
 
-Naturally orthodox Muslims do not quite like to have Islam represented in England by such a heterodox group as the Aḥmadīyas.  A pamphlet has recently been written by the Secretary of the Anjuman-i-Himayet-i-Islam[^sec-06-fn-062] in Lahore, which violently denounces the mission.
+Naturally orthodox Muslims do not quite like to have Islam represented in England by such a heterodox group as the Aḥmadīyas.  A pamphlet has recently been written by the Secretary of the Anjuman-i-Himayet-i-Islam[^sec-06-fn-063] in Lahore, which violently denounces the mission.
 
 <span class="sc">Literature</span>. — *Mirza Ghulam Ahmad*, by Dr. H. D. Griswold, Ludhiana, The American Tract Society, 1902, one anna.  *The Ahmadīya Movement*, by Dr. H. D. Griswold in *The Moslem World* for October, 1912.  Also *The Review of Religions*, an English monthly published in Qadian, and many little pamphlets.  *The Unknown Life of Christ*, by N. Notovitch, London, Hutchinson & Co., 1895.
 
@@ -1588,7 +1589,7 @@ So the movement soon ended.
 The two Hindu movements which use the person of Christ are small groups, almost altogether confined to the common people.
 
 
-##### 7. <span class="sc">The Chet Rāmīs</span>[^sec-06-fn-063]
+##### 7. <span class="sc">The Chet Rāmīs</span>[^sec-06-fn-064]
 
 In a village in the Lahore district of the Panjab, Chet Rām was born about 1835. The family were Vishṇuites by sect, and belonged to a class of shop-keepers and money-lenders. Chet Rām was uneducated, and almost illiterate. He could keep his shop accounts but that was all. He spent some two years in China, from about 1858 to 1860, as a camp-follower in the second Chinese war. When he returned, he settled down in his father-in-law’s village Buchhoke, and kept a shop and sold opium and liquor.
 
@@ -1629,7 +1630,7 @@ Mahbub died when Chet Rām had been his disciple for some three or four years, p
 > What was all this which Omnipotence did ?
 
 > 26. Then my soul realized  
-> That Jesus came to give salvation.[^sec-06-fn-064]
+> That Jesus came to give salvation.[^sec-06-fn-065]
 
 The date of the vision must have been somewhere between 1868 and 1870. From that time Chet Rām became, in his own way, a follower of Christ. He built a small church and placed a Bible in it, and began to gather disciples “in the name of Christ.” He succeeded in inducing a number of men and women, both Hindu and Muḥammadan, to attach themselves to him. He lived a wandering life, moving about the country with a number of his followers, everywhere proclaiming Jesus as Lord, and suffering much persecution from both Hindus and Muḥammadans. He sought the friendship of Christians and missionaries in a general way, but did not join the Christian church. One Sunday in 1887, Chet Rām and his followers came to the American Mission Compound in Lahore; and both the Rev. C. W. Forman and the Rev. C. B. Newton give accounts of the appearance and the behaviour of the leader and his disciples. Mr. Newton went with them to Buchhoke, and saw the church. We have also a report from a missionary in Ludhiana of the year 1888.
 
@@ -1637,7 +1638,7 @@ Chet Rām died at Buchhoke in 1894 and was cremated ; and his bones were buried 
 
 
 <!-- page: 185 | folio: 153 -->
-Of Chet Rām’s character Mr. Newton gives us a very pleasing picture, though it is clear that he had but little knowledge of Christ :[^sec-06-fn-065]
+Of Chet Rām’s character Mr. Newton gives us a very pleasing picture, though it is clear that he had but little knowledge of Christ :[^sec-06-fn-066]
 
 During my stay, I had an opportunity of observing Chet Rām’s conduct and character ; and certainly the case is a remarkable one, though the good in him is so obscured by superstition and ignorance, that one can scarcely call his case a very hopeful one. He manifests on all occasions a strong feeling of love and reverence for Christ, and undergoes persecution and contumely for His name. His treatment of others is marked by a spirit of rare kindness and generosity. One day a *faqir*, a total stranger, from some distant place, came to the *takyà*, and told a story of his sufferings, having been robbed of some article of clothing. Chet Rām at once pulled off his own principal garment, and gave it to him. He never refuses appeals of this kind.
 
@@ -1645,7 +1646,7 @@ He was no real student of the Bible. He was ignorant and had no desire to read. 
 
 Chet Rām’s daughter was appointed his successor and the head of his sect, while the leader was alive. She is an unmarried woman, and is pledged to lifelong celibacy. She lives at the headquarters of the sect, which are now in Lahore.
 
-Just outside the Taxali Gate, Lahore, and at a distance of only two or three hundred feet from the Royal Mosque is a small garden thickly planted with trees and flowers and trailing vines and containing a tiny square building and several faqirs’ huts. The square building has one room, perhaps fourteen feet by ten, and contains certain relics of Chet Rām such as his bed and his Bible. In front of the building is a pole surmounted by a cross. Such are the monastic headquarters of the Chet Rami Sect in Lahore.[^sec-06-fn-066]
+Just outside the Taxali Gate, Lahore, and at a distance of only two or three hundred feet from the Royal Mosque is a small garden thickly planted with trees and flowers and trailing vines and containing a tiny square building and several faqirs’ huts. The square building has one room, perhaps fourteen feet by ten, and contains certain relics of Chet Rām such as his bed and his Bible. In front of the building is a pole surmounted by a cross. Such are the monastic headquarters of the Chet Rami Sect in Lahore.[^sec-06-fn-067]
 
 The only other leader whose name is known is one Munshi Nathu, who has been called the theologian of the sect. He has interpolated large pieces into Chet Rām’s poem.
 
@@ -1653,7 +1654,7 @@ The only other leader whose name is known is one Munshi Nathu, who has been call
 <!-- page: 186 | folio: 154 -->
 The creed of the sect is quite short. It is engraved on a tablet over the door of Chet Rām's cell at headquarters. The translation is as follows:
 
-> Help, O Jesus, Son of Mary, Holy Spirit, Lord God Shepherd. Read the Bible and the Gospels for salvation. Signed by Chet Rām and the followers.[^sec-06-fn-067]
+> Help, O Jesus, Son of Mary, Holy Spirit, Lord God Shepherd. Read the Bible and the Gospels for salvation. Signed by Chet Rām and the followers.[^sec-06-fn-068]
 
 In this we note the recognition of the Trinity, the duty of reading the Bible and the belief that salvation is made known in the Gospels.
 
@@ -1670,7 +1671,7 @@ After his cremation, his ashes were mixed with water and eagerly swallowed by hi
 <!-- page: 187 | folio: 155 -->
 The followers of Chet Rām are either householders or monks. When a man joins the community, there is a ceremony of baptism. When a birth takes place, the creed is recited in the ears of the child, and also the names of the twelve Apostles. When a member wants to become a Chet Rāmī monk, he tears off his clothes, casts dust upon his head and thus becomes a monk. This is known as Earth-baptism. The monks get their living by begging; and they are the only clergy of the sect. It is their business to preach the Gospel of Chet Rām. Like most modern Indian ascetics, they are addicted to the use of intoxicating drugs, such as bhang, charas, opium.
 
-As to the Chet Rāmī worship Dr. Griswold writes:[^sec-06-fn-068]
+As to the Chet Rāmī worship Dr. Griswold writes:[^sec-06-fn-069]
 
 There does not seem to be any fixed form of worship among the Chet Rāmīs. One old *faqir* declared that for the enlightened there is no need of religious worship. ‘We have received,’ said he; ‘worship is for those who have not received.’ I invited Munshi Nathu to attend our Church services in Lahore. He proceeded to tell me that all such worship is man-made worship. I have spent many hours at the Chet Rami *Khanqah* in Lahore, conversing with Munshi Nathu. He said to me on one occasion, ‘This conversation of ours is worship: no other worship is needed.’ All Chet Rāmīs are supposed to own a Bible, and the few who can read doubtless read it. Ghulam Muhammad one day said to me: ‘I read the Bible every day and especially on the Sabbath. I was just reading the first chapter of John’s Gospel, when you arrived.’ The Chet Rāmī creed is repeated as an act of worship, and the Hymn of Chet Rām is chanted. There are some forms of worship which show decidedly the influence of Hinduism and Mohammedanism. At the *Khanqah* in Lahore are preserved with great care certain relics of Chet Rām. At evening lighted lamps are placed before the Cross and the Bible. On one occasion I noticed the evening worship of two Chet Rāmī women. They came and bowed themselves to the ground first before the cross and then before the Bible, and so went their way. A [p. 156] considerable use is made of amulets. Charms are made and inscribed with the Chet Rāmī Creed and with the names of the Twelve Apostles, and hung about the neck.
 
@@ -1679,16 +1680,16 @@ Most of the members of the sect are poor, illiterate people. They are a small bo
 
 ##### 8. <span class="sc">The Īsamoshipanthīs</span>
 
-A group of Hindus in South Behar, mostly cobblers and masons, have formed a new sect and call themselves *Īsāmoshipanthīs*, i.e., the Jesus-Messiah-followers.[^sec-06-fn-069] Besides these simple people, there are a few educated ascetics who are identified with the sect. They study the Bible, and lay a good deal of stress on the teaching of Jesus. They do not class Christ with the incarnations of Vishṇu ; yet they have mixed up His life with the story of Kṛishṇa. Christ’s death is of more importance to them than His resurrection. They meet for worship on Fridays. It is said that the sect is the result of the teaching of one of the disciples of Śivanārāyaṇa Paramahaṁsa.[^sec-06-fn-070] I am told they number two to three thousand.
+A group of Hindus in South Behar, mostly cobblers and masons, have formed a new sect and call themselves *Īsāmoshipanthīs*, i.e., the Jesus-Messiah-followers.[^sec-06-fn-070] Besides these simple people, there are a few educated ascetics who are identified with the sect. They study the Bible, and lay a good deal of stress on the teaching of Jesus. They do not class Christ with the incarnations of Vishṇu ; yet they have mixed up His life with the story of Kṛishṇa. Christ’s death is of more importance to them than His resurrection. They meet for worship on Fridays. It is said that the sect is the result of the teaching of one of the disciples of Śivanārāyaṇa Paramahaṁsa.[^sec-06-fn-071] I am told they number two to three thousand.
 
 The four movements which close this chapter are grouped together, because, though they have all accepted a good deal that is new, the system in each case is very distinctly [p. 157] Hindu, and the worship of the teacher as God is prominent in all. The first pair are closely related in the elements they borrow from the West and in the claim that their teaching is scientifically trustworthy and verifiable.
 
 
 #### 9. <span class="sc">The Rādhā Soāmi Satsaṅg</span>
 
-1\. The word *satsaṅg* seems to come from the Sikhs, among whom it means “a company of pious people.” The phrase Rādhā Soāmi cannot be explained apart from the history of the sect. It is dealt with below.[^sec-06-fn-071]
+1\. The word *satsaṅg* seems to come from the Sikhs, among whom it means “a company of pious people.” The phrase Rādhā Soāmi cannot be explained apart from the history of the sect. It is dealt with below.[^sec-06-fn-072]
 
-In order to secure a reliable account of this society and its teaching, a few paragraphs are here transcribed from a manual of doctrine published by the second guru.[^sec-06-fn-072]
+In order to secure a reliable account of this society and its teaching, a few paragraphs are here transcribed from a manual of doctrine published by the second guru.[^sec-06-fn-073]
 
 1\. The Rādhā Soāmi faith derives its name from its original Founder, the Supreme Being, Rādhā Soāmi, who appeared in this world in human form and designated Himself Sant Satguru or perfect Saint or true Guide and Preceptor, and preached holy doctrines to sincere enquirers of Truth for the deliverance of their spirit from the bondage of body and its surroundings, as well as from the pains and pleasures of this world, and for the ultimate admission of their spirit into the Holy Presence of the Supreme Being after traversing and breaking through the trammels and impediments in the material spheres.
 
@@ -1751,11 +1752,11 @@ Pure spirit, uncontaminated with matter, exists in the first grand division. Her
 
 147\. A member of Rādhā Soāmi faith is strictly forbidden to divulge the secrets or mention to any one (even to a fellow member without express permission) the glory and wonder of the higher creation he sees now and then within himself, or the happiness and extraordinary joy he experiences during his practice, or the special Mercy, Grace and Protection extended to him from time to time on important occasions by the Supreme Father and Sant Satguru.
 
-2\. One fact stands out clear from the above statement of doctrine that the guru occupies a place of supreme importance in the sect. He is the centre of the whole; for he is not only the source of revelation but the essential means of salvation. [p. 163] Thus the sect ought to have an unbroken succession of gurus.  There have been already three, and a fourth is now required.  The following facts are taken from a book by the third guru.[^sec-06-fn-073]
+2\. One fact stands out clear from the above statement of doctrine that the guru occupies a place of supreme importance in the sect. He is the centre of the whole; for he is not only the source of revelation but the essential means of salvation. [p. 163] Thus the sect ought to have an unbroken succession of gurus.  There have been already three, and a fourth is now required.  The following facts are taken from a book by the third guru.[^sec-06-fn-074]
 
-The first guru was an Agra banker of Kshatriya caste, born in 1818.  His name seems to have been Tulsī Rām, but he is better known as Śiva Dayāl Saheb.  He came of a pious Vishṇuite family, and had his guru, whose name was Tulsī Saheb; yet, according to the sect, he did not learn any of the deep things from his guru, but brought his divine knowledge with him from the other world.  He is said to have had the power of sending people into *samādhi*,[^sec-06-fn-074] that is, a sort of religious trance, and of enabling them to see visions.  He publicly proclaimed his doctrine in 1861.  He left two books, each named *Sār Bachan*, i.e. “Essential Utterance,” one in poetry and one in prose.  He died in 1878.  His ashes lie in a sacred tomb in the Rādhā Soāmi Garden, Agra.[^sec-06-fn-075]  His titles are *Rādhā Soāmi Dayāl* and *Soāmijī Mahārāj*.
+The first guru was an Agra banker of Kshatriya caste, born in 1818.  His name seems to have been Tulsī Rām, but he is better known as Śiva Dayāl Saheb.  He came of a pious Vishṇuite family, and had his guru, whose name was Tulsī Saheb; yet, according to the sect, he did not learn any of the deep things from his guru, but brought his divine knowledge with him from the other world.  He is said to have had the power of sending people into *samādhi*,[^sec-06-fn-075] that is, a sort of religious trance, and of enabling them to see visions.  He publicly proclaimed his doctrine in 1861.  He left two books, each named *Sār Bachan*, i.e. “Essential Utterance,” one in poetry and one in prose.  He died in 1878.  His ashes lie in a sacred tomb in the Rādhā Soāmi Garden, Agra.[^sec-06-fn-076]  His titles are *Rādhā Soāmi Dayāl* and *Soāmijī Mahārāj*.
 
-The second guru was born in Agra in 1828, in a family of Kāyastha caste.  He was a government official, serving in the Post Office, and finally rose to be Postmaster-General of the United Provinces, and received from Government the title Rai Bahadur.  He was thus known as Rai Saligram Saheb Bahadur.  Of his early life and his relations with the first guru, whom he met in 1856, Max Müller[^sec-06-fn-076] writes :
+The second guru was born in Agra in 1828, in a family of Kāyastha caste.  He was a government official, serving in the Post Office, and finally rose to be Postmaster-General of the United Provinces, and received from Government the title Rai Bahadur.  He was thus known as Rai Saligram Saheb Bahadur.  Of his early life and his relations with the first guru, whom he met in 1856, Max Müller[^sec-06-fn-077] writes :
 
 > It seems that the horrors of the mutiny in 1857 made a deep impression on his mind.  He saw thousands of men, women, and children butchered before his eyes, the rich reduced to poverty, the poor raised to unexpected and undeserved wealth, so that the idea of the world’s impermanent and transient nature took complete possession of him and estranged him from all that had formerly enlisted his interest and occupied his [p. 164] energies. From his very youth, however, his mind had been filled with religious and philosophical questions, and he is said to have devoted much time from his youth onward through all the years of his official life to the study of the Sacred Scriptures. No wonder therefore that after witnessing the horrors of the mutiny and its suppression, he should have wished to flee from this den of misery and to get happiness unalloyed and permanent where alone it could be found. He went to consult several Sannyāsīs and Yogīs, but they could not help him. At last one of his colleagues at the Post Office recommended his elder brother as a spiritual guide who could be trusted. For two years he attended his lectures, compared his teaching with that of the Upanishads and other holy writings, and then became his devoted pupil or Chela. During his stay at Agra he allowed no one else to serve his master. He used to grind the flour for him, cook his meals, and feed him with his own hands. Every morning he could be seen carrying a pitcher of pure water on his head for the Guru to bathe in, which he fetched from a place two miles distant. His monthly salary also was handed over to the Saint, who used it for the support of his pupils, wife and children, and spent the rest in charity.
 
@@ -1769,14 +1770,14 @@ Since his death the community has been unable to agree [p. 166] as to who is to 
 
 3\. Thus far we have relied on the literature published by the sect, but there are many important facts which do not appear in the official books. For this further information I am indebted to members of the sect or to people who were members but are no longer so.
 
-The first guru was a man who had had no Western education and did not know English. We may compare him with Rāmakṛishṇa.[^sec-06-fn-077] His wife, whose real name I have not discovered, was a woman of great piety and goodness. They acted together as religious teachers, although the guru was probably the greater of the two. There was no organization, no sect, in those days. Disciples came to them and received instruction; and the photographs of both the man and his wife were given them to contemplate during their private meditations.
+The first guru was a man who had had no Western education and did not know English. We may compare him with Rāmakṛishṇa.[^sec-06-fn-078] His wife, whose real name I have not discovered, was a woman of great piety and goodness. They acted together as religious teachers, although the guru was probably the greater of the two. There was no organization, no sect, in those days. Disciples came to them and received instruction; and the photographs of both the man and his wife were given them to contemplate during their private meditations.
 
 The guru belonged to a Vaishṇava family, as we have already seen. His connections were with the Kṛishṇaite gurus of Brindaban. From time to time he and his wife dressed up as Kṛishṇa and Rādhā to receive the worship of their disciples. The second guru also got himself up as Kṛishṇa from time to time. Thus the guru-worship of the sect was probably borrowed unchanged from the practices of the gurus at Brindaban. In February, 1914, I was able to visit the Rādhā Soāmi Bāgh (*i.e.* Garden), some four miles outside Agra, where the tomb, *samādh*, of the first guru is. I was shown over the premises [p. 167] by Mr. Tota Ram, who was educated at Roorki and served Government as a civil engineer for years, but has now retired, and is both architect and builder of a fine new marble structure being erected over the samādh. I was greatly interested to find two photographs hanging on the front of the samādh, a woman and a man. I asked my guide who they represented. He answered that the woman was Rādhā and the man Soāmi, and then explained that they were the first guru and his wife. He also said that Rādhā was not the woman’s real name.
 
 
 <!-- page: 200 | folio: 166 -->
 
-![PLATE VII — RĀDHĀ Wife of the first guru](../figures/fig-012_p0200.webp)
+![RĀDHĀ Wife of the first guru](../figures/fig-012_p0200.webp)
 
 
 ![SOĀMI The first guru](../figures/fig-013_p0200.webp)
@@ -1787,7 +1788,7 @@ The guru belonged to a Vaishṇava family, as we have already seen. His connecti
 
 ![The third guru](../figures/fig-015_p0200.webp)
 
-So far as my information goes, it was the second guru, Rai Saligram Saheb Bahadur, guru of the sect from 1878–1898, who organized the Satsaṅg, systematized the teaching and gave it its modern character. I have also been told that the sect owes its name to him. It is most noteworthy that this extraordinary name, Rādhā Soāmi, bears four significations in the sect. It is the name of God Himself; it is the name which the first guru bears, as the perfect incarnation of God; it is the sound which the spiritual sound-current (*Śabda*) makes as it rings through all regions; and it is the name of the sect. It is necessary also to realize that the real meaning of Rādhāsvāmī is Kṛishṇa, as Lord of Rādhā (his cowherd mistress in the latest cycle of the myth); and that Soāmi is only a curious phonetic misspell for Svāmī. How comes it that this name stands for God in a sect which rejects the whole Hindu pantheon? We can only conjecture, until some scholar explores the Hindī writings of the first guru; but it almost seems as if, in the first instance, it had been applied to the first guru and his wife, as they shewed themselves to their disciples in person and in portrait, and as they still appear on the samādh, and also in our reproduction of their portraits,[^sec-06-fn-078] and had then been applied to God, of whom the guru was held to be the full and perfect revelation. The third guru quotes a Hindī [p. 168] couplet, said to be by Kabīr, which is supposed, by transposition, to say that the name of God is Rādhāsvāmī ;[^sec-06-fn-079] but the couplet is clearly a forgery : it nowhere occurs among the writings of Kabīr, published or unpublished ; the language is of a later date than Kabīr ; and the forger was a bungler, for, when transposed according to rule, the name reads *Ārādhsvāmī*, and not Rādhāsvāmī.[^sec-06-fn-080]
+So far as my information goes, it was the second guru, Rai Saligram Saheb Bahadur, guru of the sect from 1878–1898, who organized the Satsaṅg, systematized the teaching and gave it its modern character. I have also been told that the sect owes its name to him. It is most noteworthy that this extraordinary name, Rādhā Soāmi, bears four significations in the sect. It is the name of God Himself; it is the name which the first guru bears, as the perfect incarnation of God; it is the sound which the spiritual sound-current (*Śabda*) makes as it rings through all regions; and it is the name of the sect. It is necessary also to realize that the real meaning of Rādhāsvāmī is Kṛishṇa, as Lord of Rādhā (his cowherd mistress in the latest cycle of the myth); and that Soāmi is only a curious phonetic misspell for Svāmī. How comes it that this name stands for God in a sect which rejects the whole Hindu pantheon? We can only conjecture, until some scholar explores the Hindī writings of the first guru; but it almost seems as if, in the first instance, it had been applied to the first guru and his wife, as they shewed themselves to their disciples in person and in portrait, and as they still appear on the samādh, and also in our reproduction of their portraits,[^sec-06-fn-079] and had then been applied to God, of whom the guru was held to be the full and perfect revelation. The third guru quotes a Hindī [p. 168] couplet, said to be by Kabīr, which is supposed, by transposition, to say that the name of God is Rādhāsvāmī ;[^sec-06-fn-080] but the couplet is clearly a forgery : it nowhere occurs among the writings of Kabīr, published or unpublished ; the language is of a later date than Kabīr ; and the forger was a bungler, for, when transposed according to rule, the name reads *Ārādhsvāmī*, and not Rādhāsvāmī.[^sec-06-fn-081]
 
 The cosmogony is curiously like the Buddhist scheme, which also has three planes or worlds, the Formless World, the World of Form, and the World of Desire, each sub-divided into sections. We may also compare the Theosophic scheme, which sets forth reality as existing in seven distinct planes.
 
@@ -1801,9 +1802,9 @@ As to the powers of the Sant Satguru Dr. Griswold writes :
 
 We are told in the books that the sect recognizes no temples, shrines or sacred places, except those sanctified by the presence of the guru or his relics: that the practice of the sect can be carried on anywhere. This is quite true; for the initiate can sit down, with the photograph of his guru in front of him, and practise his meditations and his exercises wherever he pleases, so long as he does it in secret. But for their meetings the members of the sect prefer to have their own buildings and the presence of either the living guru or the relics of one who has passed away. There are three relic-shrines already in existence, each called *gurudwāra* (the guru’s chamber), two in Agra and one in Benares. Each guru’s photograph hangs on his tomb.
 
-In the daily meetings of the sect portions of their own [p. 170] sacred books or of the writings of Kabīr and other Hindu saints are read.  There is a prayer, hymn-singing and an address by the guru, if he is present, by some other one, if he is not present.  Besides these common practices, there is the adoration of the guru or of his portrait ;[^sec-06-fn-081] but of that I have received no detailed description.  Several things are clear, however. We are told in the books that each member brings to the meeting with him a wreath of flowers, which he places round the neck of the guru.  The wreath is afterwards returned to him, filled with the spiritual power of the guru.  Everything that has touched him is charged with his sanctity and influence. All relics from his body, such as clothing, hair, nail-parings or water in which he has washed his feet, are sacred and precious. There are some very disgusting practices connected with this idea, certain products of his body being actually eaten or drunk by his followers.  When he dies, his body is burnt ; and his ashes, mixed with water, are swallowed by the faithful.  The place where he resided is considered holy ; and contemplation of his image is held to be contemplation of the Supreme Being.
+In the daily meetings of the sect portions of their own [p. 170] sacred books or of the writings of Kabīr and other Hindu saints are read.  There is a prayer, hymn-singing and an address by the guru, if he is present, by some other one, if he is not present.  Besides these common practices, there is the adoration of the guru or of his portrait ;[^sec-06-fn-082] but of that I have received no detailed description.  Several things are clear, however. We are told in the books that each member brings to the meeting with him a wreath of flowers, which he places round the neck of the guru.  The wreath is afterwards returned to him, filled with the spiritual power of the guru.  Everything that has touched him is charged with his sanctity and influence. All relics from his body, such as clothing, hair, nail-parings or water in which he has washed his feet, are sacred and precious. There are some very disgusting practices connected with this idea, certain products of his body being actually eaten or drunk by his followers.  When he dies, his body is burnt ; and his ashes, mixed with water, are swallowed by the faithful.  The place where he resided is considered holy ; and contemplation of his image is held to be contemplation of the Supreme Being.
 
-Rādhā Soāmis are taught that there is no need for them to give up their life as householders and become monks.[^sec-06-fn-082]  Indeed, the lives of the three gurus themselves show what is the ideal.  Yet, in spite of this, in the Constitution of the Satsaṅg drawn up in 1902, a set of rules is given for the enrolment and conduct of Rādhā Soāmi monks.[^sec-06-fn-083]
+Rādhā Soāmis are taught that there is no need for them to give up their life as householders and become monks.[^sec-06-fn-083]  Indeed, the lives of the three gurus themselves show what is the ideal.  Yet, in spite of this, in the Constitution of the Satsaṅg drawn up in 1902, a set of rules is given for the enrolment and conduct of Rādhā Soāmi monks.[^sec-06-fn-084]
 
 There is one side of Rādhā Soāmi influence which is very curious, their want of touch with modern movements.  The gurus discourage study.  The members shew no national feeling whatsoever, nor any serious interest in the life of the country.  If any member were to accept a public position of [p. 171] any prominence, he would be looked down upon.  Economic, literary or educational progress is no part of the ideal of the sect.  This neglect of public affairs is what takes the place of the old ascetic renunciation.
 
@@ -1813,7 +1814,7 @@ There is no proselytism in the sect, except in so far as the individual member m
 
 6\. The affinities of the theology of the sect stand out quite clear.  Most of the teaching is purely Hindu ; it stands nearer to Vaishṇavism than to any other part of Hinduism, and is [p. 172] perhaps most closely allied to the teaching of Kabīr.  This is reflected in the practice of the sect.  While they profess to find all truth in the books of their own gurus, they do use the writings of certain Hindu and Muḥammadan saints, and amongst these they give Kabīr the highest place.  But, though the system is in the main Hindu and old, there are modern elements.  There is an attempt to place religious leaders in the various spheres of the universe, according to their merit ; and there are a number of Christian elements in the teaching. The unknown Supreme is constantly called the Heavenly Father ; His will is frequently emphasized ; and Satsaṅgīs are taught to seek His approbation.  The Sant Satguru, who alone can reveal Him, is called His beloved Son.  God created man in His own image.  Love is emphasized in the teaching of the sect in such a way as clearly to reveal its Christian origin ; for it goes far beyond the old ideas connected with *bhakti*.  Works of faith and charity, the spirit of service and prayer, are laid down as necessary duties.  Finally, the forms of worship in the regular services, apart from the adoration of the guru, are Christian.
 
-In this connection, however, nothing is more noteworthy than the many points in which Rādhā Soāmi and Theosophical doctrine and practice coincide.  The most important items are : the unknowable Supreme, the spheres and their regents, the human revealers of religion, the emphasis on the Word, reincarnation, the use of methodical exercises (*sādhanāni*) of a hypnotic character for the development of the spiritual powers and of the photograph[^sec-06-fn-084] of the guru in meditation, the worship of gurus, the supernatural powers of the gurus, the claim that the teaching of the sect is scientifically accurate and verifiable in every particular, esoteric teaching, secret practice, and all the talk about astral and higher planes, adepts and such like.
+In this connection, however, nothing is more noteworthy than the many points in which Rādhā Soāmi and Theosophical doctrine and practice coincide.  The most important items are : the unknowable Supreme, the spheres and their regents, the human revealers of religion, the emphasis on the Word, reincarnation, the use of methodical exercises (*sādhanāni*) of a hypnotic character for the development of the spiritual powers and of the photograph[^sec-06-fn-085] of the guru in meditation, the worship of gurus, the supernatural powers of the gurus, the claim that the teaching of the sect is scientifically accurate and verifiable in every particular, esoteric teaching, secret practice, and all the talk about astral and higher planes, adepts and such like.
 
 
 <!-- page: 207 | folio: 173 -->
@@ -1824,17 +1825,17 @@ In this connection, however, nothing is more noteworthy than the many points in 
 
 1\. Śiva Nārāyaṇa Agnihotṛi was born in a Kanauji Brāhman family in 1850, in a small town in the Cawnpore district of the United Provinces. When he was sixteen, he entered the Government Engineering College at Rurki, and got the degree of Overseer after some years of study and service there. Before the close of his course, he came greatly under the religious influence of the Curator of the Instrument Depot of the College, and through him became convinced of the truth of the Vedānta philosophy as taught by Śaṅkarāchārya, namely, that God is impersonal, and that the human spirit is God. In 1871, while he was acting as a master in the College, both he and his wife underwent a ceremony of initiation and became disciples of the Curator-guru. He also began to see clearly the need of religious and social reform. Hence he banished idolatry from his household and set his wife free from the restrictions of the zenāna.
 
-In 1873, now 23 years of age, he was appointed Drawing-master in the Government School, Lahore; and in that city he has lived ever since. Here he at once came under the influence of the Brāhma Samāj, with its doctrine that God is essentially personal. Both he and his capable wife became active Brāhma workers. In 1875 he was appointed honorary minister of the Lahore Samāj, and soon became well known in the city as a man of character and a good speaker. Wherever [p. 174] he went, large audiences gathered to hear him.  The Ārya Samāj was planted in Lahore in 1877, as we have already seen, and very soon rose to great influence.  The following year, Agnihotṛi began a long-continued crusade against its false pretences about the Veda.  In January, 1880, he attended the anniversary meetings of the recently founded Sādhāran Brāhma Samāj in Calcutta ;[^sec-06-fn-085] and he and three others were ordained as the first missionaries of the movement.[^sec-06-fn-086]  For two years longer he gave all his leisure to work for the Lahore Samāj ; but in 1882 he gave up the post of Drawing-master in the Government School, in order that his full time might be devoted to missionary labour.  We are also informed in the recent literature of the Samāj that on his birthday, the 20th of December of the same year, he took his great vow, expressed in a Hindī couplet, the translation of which runs :
+In 1873, now 23 years of age, he was appointed Drawing-master in the Government School, Lahore; and in that city he has lived ever since. Here he at once came under the influence of the Brāhma Samāj, with its doctrine that God is essentially personal. Both he and his capable wife became active Brāhma workers. In 1875 he was appointed honorary minister of the Lahore Samāj, and soon became well known in the city as a man of character and a good speaker. Wherever [p. 174] he went, large audiences gathered to hear him.  The Ārya Samāj was planted in Lahore in 1877, as we have already seen, and very soon rose to great influence.  The following year, Agnihotṛi began a long-continued crusade against its false pretences about the Veda.  In January, 1880, he attended the anniversary meetings of the recently founded Sādhāran Brāhma Samāj in Calcutta ;[^sec-06-fn-086] and he and three others were ordained as the first missionaries of the movement.[^sec-06-fn-087]  For two years longer he gave all his leisure to work for the Lahore Samāj ; but in 1882 he gave up the post of Drawing-master in the Government School, in order that his full time might be devoted to missionary labour.  We are also informed in the recent literature of the Samāj that on his birthday, the 20th of December of the same year, he took his great vow, expressed in a Hindī couplet, the translation of which runs :
 
 > The supreme object of my Life is to serve the world by establishing the kingdom of Truth and Goodness on this earth and by destroying what is opposed to them ; may I spend my whole life for the fulfilment of this supreme object !
 
 In any case his full powers now began to make themselves manifest.  He proved effective as a writer as well as a speaker. Books, pamphlets and tracts poured from the press.  For a little time a sort of simple copy of the Salvation Army, called the Brāhma Sena or Brāhma Army, was used as an auxiliary. He made his influence felt in every section of public life in Lahore.  But it was not long before difficulties arose within the Samāj.  His methods displeased the quieter members ; and his forceful will and autocratic temper led to constant friction with the other leaders.  He wanted to rule.  He would often be heard to say, “I am born to command not to obey.” Most of the members were apprehensive that he would soon set up as the authoritative guru of the Samāj.  The way his followers now express this is : “His life-mission was unique [p. 175] and quite different from the object of the Brāhmo Samāj.” A split became inevitable.
 
-2\. Accordingly, he seceded from the Brāhma Samāj, taking with him a fair number of followers, and organized, on the Queen’s Jubilee day,[^sec-06-fn-087] February 16th, 1887, a new society to be known as the Deva Samāj. The name was clearly chosen in order to distinguish the new society from the old, and yet to indicate its close relationship to it. Brāhma is an adjective formed from the word Brahman, the name of the supreme God of the Upanishads. Deva is the ordinary Sanskrit word for one of the innumerable gods of the Hindu pantheon, but is probably used in the name of the society as an adjective. So that the whole name means the Divine Society. A creed was soon issued, which showed that the aims and beliefs of the new community were very similar to those of the Brāhma Samāj; yet there were significant differences. The Deva Dharma, the divine religion of the divine society, is a special divine dispensation,[^sec-06-fn-088] and so is distinct from the Brāhma Dharma. The doctrines are Brāhma doctrines; yet the beginnings of a guru-doctrine are perceptible; and, within a few years, the leader could say of himself, “My mission is unique”; “I am free from sin”;[^sec-06-fn-089] and “I am a ship of hope and a leaven for elevating nations.” The work of the Samāj ran along the usual lines: only Agnihotṛi dabbled in spiritualism.
+2\. Accordingly, he seceded from the Brāhma Samāj, taking with him a fair number of followers, and organized, on the Queen’s Jubilee day,[^sec-06-fn-088] February 16th, 1887, a new society to be known as the Deva Samāj. The name was clearly chosen in order to distinguish the new society from the old, and yet to indicate its close relationship to it. Brāhma is an adjective formed from the word Brahman, the name of the supreme God of the Upanishads. Deva is the ordinary Sanskrit word for one of the innumerable gods of the Hindu pantheon, but is probably used in the name of the society as an adjective. So that the whole name means the Divine Society. A creed was soon issued, which showed that the aims and beliefs of the new community were very similar to those of the Brāhma Samāj; yet there were significant differences. The Deva Dharma, the divine religion of the divine society, is a special divine dispensation,[^sec-06-fn-089] and so is distinct from the Brāhma Dharma. The doctrines are Brāhma doctrines; yet the beginnings of a guru-doctrine are perceptible; and, within a few years, the leader could say of himself, “My mission is unique”; “I am free from sin”;[^sec-06-fn-090] and “I am a ship of hope and a leaven for elevating nations.” The work of the Samāj ran along the usual lines: only Agnihotṛi dabbled in spiritualism.
 
 In 1893 he became involved in a libel case which, dragging on for five long years, greatly hindered the work of the Samāj. During this period Agnihotṛi’s mind underwent a very serious change; and at its close a new period opens.
 
-3\. From 1898 down to the present day the Deva Samāj has been an atheistic society, working for educational and moral ends. Yet the members attribute to the guru such a supreme place in human evolution and give him such a position in their [p. 176] own minds and devotional practice that we are fully justified in saying that, practically, he is regarded and worshipped as a god. Indeed, they call him *sattya deva*, a real god.[^sec-06-fn-090] The literature of the earlier period was at once withdrawn from circulation as far as possible; a new creed, quite different from the previous one was promulgated; and, for several years, there was no public preaching or disputation. The literature of the sect is now sold publicly and many of the meetings are public; but the devotional meetings and the worship of the guru are held in private. The chief book of the Samāj is called the *Deva Śāstra*, or Divine Scripture, and the teaching, *Deva Dharma*, or Divine Religion.
+3\. From 1898 down to the present day the Deva Samāj has been an atheistic society, working for educational and moral ends. Yet the members attribute to the guru such a supreme place in human evolution and give him such a position in their [p. 176] own minds and devotional practice that we are fully justified in saying that, practically, he is regarded and worshipped as a god. Indeed, they call him *sattya deva*, a real god.[^sec-06-fn-091] The literature of the earlier period was at once withdrawn from circulation as far as possible; a new creed, quite different from the previous one was promulgated; and, for several years, there was no public preaching or disputation. The literature of the sect is now sold publicly and many of the meetings are public; but the devotional meetings and the worship of the guru are held in private. The chief book of the Samāj is called the *Deva Śāstra*, or Divine Scripture, and the teaching, *Deva Dharma*, or Divine Religion.
 
 4\. The teaching of the sect is that the universe consists of matter and force, which are uncreated and indestructible, and which manifest themselves in four forms, inorganic, vegetable, animal, human. Man's life or soul is the builder of his body, the most essential part of his existence. The soul develops if it possess the necessary capacity and unite with the right evolutionary environment; but if it lacks the capacity or fails to grasp the environment, it degenerates; and if degeneration is not checked, it will become extinct. A soul that rises to the Complete Higher Life is thereby raised above the danger of degeneration and extinction. The soul then survives in the form of a refined human body.
 
@@ -1855,7 +1856,7 @@ The guru teaches and practises spiritualism. Being the summit of all evolution, 
 
 Transmigration is denied. This is one of the elements of Brāhma teaching which have been carried over into the new period.
 
-5\. Those who wish to become members of the Samāj have to take the following ten vows.[^sec-06-fn-091]
+5\. Those who wish to become members of the Samāj have to take the following ten vows.[^sec-06-fn-092]
 
 
 <!-- page: 214 | folio: 178 -->
@@ -1873,21 +1874,21 @@ Transmigration is denied. This is one of the elements of Brāhma teaching which 
 - 8. I shall not use, prepare, cultivate, buy or sell, or give to any person any intoxicant such as Wine, Opium, Bhang, Tobacco, Charas, Chandoo, Cocaine, etc., for the purpose of intoxication.
 - 9. I shall not eat flesh or eggs myself, or give or direct others to eat flesh or eggs or anything made thereof.
 - 10. I shall not kill any sentient being, barring certain right occasions.
-When any one wants to become a member of the Samāj, he writes a letter to the guru, putting into it a catalogue of all his past sins, telling how he has been brought to a better [p. 179] mind by the guru, and promising to give them up. From time to time thereafter he writes in a similar strain. All these documents the guru preserves most carefully.[^sec-06-fn-092]
+When any one wants to become a member of the Samāj, he writes a letter to the guru, putting into it a catalogue of all his past sins, telling how he has been brought to a better [p. 179] mind by the guru, and promising to give them up. From time to time thereafter he writes in a similar strain. All these documents the guru preserves most carefully.[^sec-06-fn-093]
 
-6\. The guru is seldom present at the regular devotional meetings of the Samāj, but his photograph hangs before the congregation. An image would be used; but hitherto the cost has stood in the way. When the people have assembled, all stand up, and the conductor offers a tray of flowers to the portrait,[^sec-06-fn-093] or hangs a garland round it. All then bend low in adoration. The *stotra*, a Sanskrit hymn in praise of the guru, is then sung by all, and a Hindī translation is read by the conductor. All then prostrate themselves before the portrait. When all are seated, the conductor offers prayer to the guru. Then a hymn is sung. This is often followed by a sermon, or a meditation on the virtues of the guru, and another hymn; or a passage is read from the *Deva Śāstra*. The conductor or some other one then closes the meeting with another prayer. The burning of incense and the waving of lights (*āratī*) before the portrait were originally parts of the service, but they have been discontinued. When the guru himself is present, the service centres in him; and when members call on him, they prostrate themselves at his feet. His birthday is the anniversary of the Samāj.
+6\. The guru is seldom present at the regular devotional meetings of the Samāj, but his photograph hangs before the congregation. An image would be used; but hitherto the cost has stood in the way. When the people have assembled, all stand up, and the conductor offers a tray of flowers to the portrait,[^sec-06-fn-094] or hangs a garland round it. All then bend low in adoration. The *stotra*, a Sanskrit hymn in praise of the guru, is then sung by all, and a Hindī translation is read by the conductor. All then prostrate themselves before the portrait. When all are seated, the conductor offers prayer to the guru. Then a hymn is sung. This is often followed by a sermon, or a meditation on the virtues of the guru, and another hymn; or a passage is read from the *Deva Śāstra*. The conductor or some other one then closes the meeting with another prayer. The burning of incense and the waving of lights (*āratī*) before the portrait were originally parts of the service, but they have been discontinued. When the guru himself is present, the service centres in him; and when members call on him, they prostrate themselves at his feet. His birthday is the anniversary of the Samāj.
 
-7\. The methods of the Samāj are practically all Christian. Many of them the guru brought with him from the Brāhma Samāj; the rest have been copied direct from Christian missions. The Samāj has missionaries, and also lay-workers, both men and women. They have two High Schools, a number of Primary Schools, a School for the Depressed Classes, and a Training College for mission workers, called the *Bikāshālai*, or House of Development. A good deal of attention is given to female education. They have a successful Boarding [p. 180] School for Girls at Firozepore, teaching up to the Matriculation Standard. They do a little medical work, have two Widows’ Homes, and have held Industrial Exhibitions. They lay a good deal of stress on social reform, as we have already seen, and endeavour to do a little social service. They have a Temperance League and a Vegetarian League.[^sec-06-fn-094]
+7\. The methods of the Samāj are practically all Christian. Many of them the guru brought with him from the Brāhma Samāj; the rest have been copied direct from Christian missions. The Samāj has missionaries, and also lay-workers, both men and women. They have two High Schools, a number of Primary Schools, a School for the Depressed Classes, and a Training College for mission workers, called the *Bikāshālai*, or House of Development. A good deal of attention is given to female education. They have a successful Boarding [p. 180] School for Girls at Firozepore, teaching up to the Matriculation Standard. They do a little medical work, have two Widows’ Homes, and have held Industrial Exhibitions. They lay a good deal of stress on social reform, as we have already seen, and endeavour to do a little social service. They have a Temperance League and a Vegetarian League.[^sec-06-fn-095]
 
 Literature is much used in spreading the teaching of the Samāj. The guru’s chief work is a Hindī book, the *Deva Śāstra*, i.e., the Divine Scripture, which, he believes, is destined to eclipse all the sacred books of the world. The portrait of the guru which forms the frontispiece of the *Deva Śāstra* is reproduced in the plate facing page 177. There are a few more books of some size in Hindī which expound the principles of their doctrine; and there are a great many pamphlets in Hindī, Urdū, Sindhī and English. A series of schoolbooks in Hindī has been published. Four journals are published: an English monthly, called the *Science-Grounded Religion*, an Anglo-Sindhī monthly, called the *Sindh-Upakārak*, an Urdū fortnightly, called *Jiwan Tattva*, and a Hindī monthly, called the *Sewak*, which is meant only for those belonging to the Samāj.
 
-The Reports read at the Anniversary Meetings tell of steady expansion.[^sec-06-fn-095] Lahore and Firozepore are the two chief centres of the work; but members from Sindh, Baluchistan, the N. W. Frontier Province and the United Provinces attend the annual meetings.
+The Reports read at the Anniversary Meetings tell of steady expansion.[^sec-06-fn-096] Lahore and Firozepore are the two chief centres of the work; but members from Sindh, Baluchistan, the N. W. Frontier Province and the United Provinces attend the annual meetings.
 
-8\. The sources and connections of the system stand out quite clear. The scientific elements are fairly prominent: the conceptions of life, seed, soil, growth, evolution, progress, degeneration, extinction, are scattered throughout the literature. Originally, the guru seems to have been considerably influenced by Drummond’s *Natural Law in the Spiritual* [p. 181] *World;* but his later thought is drawn mainly from Spencer. Hinduism shews itself in the Samāj in the beliefs about the guru and in the worship, and lingers on in the practice of caste, though transmigration has been expelled, and in the stress laid on vegetarianism and on the preservation of animal life. The influence of Christianity is visible throughout, chiefly in the vigorous moral sense which characterizes the doctrine of salvation, and in the claim made in every report, that numerous individuals have been saved from various forms of vice by the teaching of the Samāj ;[^sec-06-fn-096] also in the rejection of transmigration, in the demand for social reform, and in the practical methods employed. The religious atheism of the Samāj reminds one of Comtism, but the position of the guru is distinctly Hindu. Curiously enough, his doctrine of conditional immortality is not unlike that preached by the Rev. Edward White in London, shortly before the rise of the Deva Samāj.
+8\. The sources and connections of the system stand out quite clear. The scientific elements are fairly prominent: the conceptions of life, seed, soil, growth, evolution, progress, degeneration, extinction, are scattered throughout the literature. Originally, the guru seems to have been considerably influenced by Drummond’s *Natural Law in the Spiritual* [p. 181] *World;* but his later thought is drawn mainly from Spencer. Hinduism shews itself in the Samāj in the beliefs about the guru and in the worship, and lingers on in the practice of caste, though transmigration has been expelled, and in the stress laid on vegetarianism and on the preservation of animal life. The influence of Christianity is visible throughout, chiefly in the vigorous moral sense which characterizes the doctrine of salvation, and in the claim made in every report, that numerous individuals have been saved from various forms of vice by the teaching of the Samāj ;[^sec-06-fn-097] also in the rejection of transmigration, in the demand for social reform, and in the practical methods employed. The religious atheism of the Samāj reminds one of Comtism, but the position of the guru is distinctly Hindu. Curiously enough, his doctrine of conditional immortality is not unlike that preached by the Rev. Edward White in London, shortly before the rise of the Deva Samāj.
 
 9\. All went fairly well with the Samāj until 1913, when the guru took two measures which have raised a storm. He appointed his own second son, Devānand, who keeps an athletic store in Lahore, to succeed him. Naturally, Dev Ratan, who has been associated with him for twenty-four years, and for many years has been his right hand, did not think this quite the right appointment. In the second place he published a book, called *Bignan-Mulak Tattva Siksha*, in which he declared himself the perfect ideal, the perfect object of worship, the perfect giver of life, perfection and salvation for all mankind. No one has been equal to him in the past ; no one will ever equal him in the future. The worship of all other beings, whether imaginary gods and goddesses or real men, should be abandoned as harmful.
 
-The consequence is that Dev Ratan, the one considerable [p. 182] man in the movement after the guru, has seceded from the Samāj; and one of the sons of the guru, his brother-in-law, his sister-in-law, two graduates and some others have come out with him. The bulk of the members have, however, remained. The seceders have formed *The Society for the Promotion of Higher Life.* Their position is the old teaching without the guru. Meantime the guru has published the letters of confession[^sec-06-fn-097] written to him by Dev Ratan in former years, and seeks to show from them what a bad man he is; — a proceeding which suggests many thoughts. What the outcome of all this will be no one can tell.
+The consequence is that Dev Ratan, the one considerable [p. 182] man in the movement after the guru, has seceded from the Samāj; and one of the sons of the guru, his brother-in-law, his sister-in-law, two graduates and some others have come out with him. The bulk of the members have, however, remained. The seceders have formed *The Society for the Promotion of Higher Life.* Their position is the old teaching without the guru. Meantime the guru has published the letters of confession[^sec-06-fn-098] written to him by Dev Ratan in former years, and seeks to show from them what a bad man he is; — a proceeding which suggests many thoughts. What the outcome of all this will be no one can tell.
 
 <span class="sc">Literature.</span>—<span class="sc">Official:</span> *Devaśāstra*, by S. N. Agnihotṛi, Lahore, Jivan Press, Rs. 5. (The chief scripture of the Samāj; in Hindī.) *Dev Dharm*, Lahore, Deva Samaj Office, price 1½ as. (An account of the teaching of the sect, in English, in fifty pages.) *A Dialogue about the Dev Samaj*, Lahore, The Jivan Press, 1912, 1 an. (A brief account of the Samāj and its work.) <span class="sc">Critical:</span> *Pandit Agnihotṛi and the Deva Samāj*, by Dr. H. D. Griswold, Lahore, 1906. (A clear account of the Samāj.) *A Lecture on Pandit S. N. Agnihotṛi and His Atheistic Propaganda*, by Kashi Ram, Lahore, N. W. Indian Press, 1908.
 
@@ -1896,7 +1897,7 @@ The consequence is that Dev Ratan, the one considerable [p. 182] man in the move
 
 Two young Hindus, belonging to our own day, the one a Telugu, the other a Tamil, have each sketched a system and gathered a few disciples. Both have been deeply influenced by Christ; yet, the main teaching of each is Hindu; and they both wish to be worshipped as gurus. They are of no importance as leaders, but their teaching may be worth notice as further evidence of the character of Indian thought to-day.
 
-1\. The Telugu guru[^sec-06-fn-098] is not quite ready yet to appear in public to expound his system. His thought, as it at present exists in his mind, seems to be fundamentally Hindu, but with [p. 183] a good deal of Christianity worked into it. He declares that his system is for all men, and that he selects what is good from all religions.
+1\. The Telugu guru[^sec-06-fn-099] is not quite ready yet to appear in public to expound his system. His thought, as it at present exists in his mind, seems to be fundamentally Hindu, but with [p. 183] a good deal of Christianity worked into it. He declares that his system is for all men, and that he selects what is good from all religions.
 
 At present he seems to be a pantheist. The whole world is God, and we are part of God. God is not a Spirit. God is not *Sat*, *Chit*, *Ānanda*, except in so far as the universe deserves these titles. God is non-moral. He has no will. He does not act. He does not listen to prayer, and does not receive sacrifice. God does not answer prayer : prayer automatically answers itself.
 
@@ -1957,74 +1958,75 @@ The disciples consider him worthy of divine honour. Each bows down individually 
 [^sec-06-fn-028]: (1) Durga Prasad’s translation, 156–161.
 [^sec-06-fn-029]: (2) Ruchi Ram Sahni, *The Niyoga Doctrine of the Ārya Samāj*, 35–6.
 [^sec-06-fn-030]: (3) P. 340, below.
-[^sec-06-fn-031]: (4) P. 329, below. P. 137, below.
-[^sec-06-fn-032]: (6) P. 351, below.
-[^sec-06-fn-033]: (7) P. 316, below.
-[^sec-06-fn-034]: (1) P. 371, below.
-[^sec-06-fn-035]: (2) *Contemporary Review*, May, 1910.
-[^sec-06-fn-036]: (1) Rev. W. E. S. Holland in *East and West*, June, 1907.
-[^sec-06-fn-037]: (1) A low-caste man wanted to send his son to the D. A. V. College, Lahore, but there was so much opposition that the authorities kept him out.
-[^sec-06-fn-038]: (2) The last census shows that they now number 243,000.
-[^sec-06-fn-039]: (3) See the author’s *Crown of Hinduism*, 392–407.
-[^sec-06-fn-040]: (4) *Ib.*, 179–181; 191.
-[^sec-06-fn-041]: (1) Reported in the *Bombay Guardian*, Dec. 14, 1907.
-[^sec-06-fn-042]: (1) For the word Paramahaṁsa see below, page 191.
-[^sec-06-fn-043]: (1) See *Indian Spirituality.*
-[^sec-06-fn-044]: (1) *A Word in Season*, 14.
-[^sec-06-fn-045]: (1) *Take Heed unto Yourselves, 5.*
-[^sec-06-fn-046]: (2) *A Word in Season, 22–23.*
-[^sec-06-fn-047]: (1) P. 156, below.
-[^sec-06-fn-048]: (2) All my information about this Assamese movement I owe to the Rev. A. C. Bowers of Goalpara, Assam. There is a brief mention in *Census of India*, 1911, vol. 1, 125.
-[^sec-06-fn-049]: (1) P. 316, below.
-[^sec-06-fn-050]: (1) I am indebted for most of my information about this sect to Dr. Griswold of Lahore. See his pamphlet, *Mirza Ghulam Ahmad*, and his article in *The Moslem World* for October, 1912.
-[^sec-06-fn-051]: (1) *Review of Religions*, November, 1904, p. 410.
-[^sec-06-fn-052]: (2) Yet some groups assert that Jesus is the only Maḥdi that will ever come.
-[^sec-06-fn-053]: (1) He asserts that the Gospels were deliberately corrupted by Christians.
-[^sec-06-fn-054]: (2) Griswold, *Mirza Ghulam Ahmad*, 5.
-[^sec-06-fn-055]: (1) *Sura*, LXI.
-[^sec-06-fn-056]: (1) *Akhbar i Amm* of Lahore, March 17th, 1899.
-[^sec-06-fn-057]: (2) Pp. 6–7.
-[^sec-06-fn-058]: (1) P. 15.
-[^sec-06-fn-059]: (1) P. 142.
-[^sec-06-fn-060]: (2) P. 92, above.
-[^sec-06-fn-061]: (1) Pp. 26–7.
-[^sec-06-fn-062]: (1) See below, p. 347.
-[^sec-06-fn-063]: (1) All my information about this sect is derived from Dr. Griswold’s pamphlet, *The Chet Rami Sect*, Cawnpore, Christ Church Mission Press, 1904. The references are to its pages.
-[^sec-06-fn-064]: (1) Pp. 4–6.
-[^sec-06-fn-065]: (1) P. 9.
-[^sec-06-fn-066]: (2) P. 1.
-[^sec-06-fn-067]: (1) P. 13.
-[^sec-06-fn-068]: (1) Pp. 21–2.
-[^sec-06-fn-069]: (1) My informant is Mr. B. C. Sircar, M. A., one of the National Secretaries of the Y. M. C. A. in India.
-[^sec-06-fn-070]: (2) Above, p. 129.
-[^sec-06-fn-071]: (1) See p. 167.
-[^sec-06-fn-072]: (2) *Rādhā Soāmi Mat Prakāsh.* The numbers of the sections are retained.
-[^sec-06-fn-073]: (1) *Discourses on Rādhā Soāmi Faith.*
-[^sec-06-fn-074]: (2) See p. 189.
-[^sec-06-fn-075]: (3) See below, p. 166.
-[^sec-06-fn-076]: (4) *Rāmakṛishṇa*, 20–1.
-[^sec-06-fn-077]: (1) Below, p. 188.
-[^sec-06-fn-078]: (1) Plate VII, facing this page.
-[^sec-06-fn-079]: (1) *Discourses of Rādhāsoāmi Faith*, 162.
-[^sec-06-fn-080]: (2) I owe this criticism to my friend the Rev. Ahmad Shah of Hamirpur, U. P.
-[^sec-06-fn-081]: (1) Cf. the Deva Samāj, p. 179 below, and Theosophy, p. 261, below.
-[^sec-06-fn-082]: (2) *Rādhā Soāmi Mat Prakāsh*, 51.
-[^sec-06-fn-083]: (3) *Discourses of Rādhāsoāmi Faith*, 329.
-[^sec-06-fn-084]: (1) See above, pp. 169, 170; below, p. 261.
-[^sec-06-fn-085]: (1) P. 55, above.
-[^sec-06-fn-086]: (2) *HBS.*, II, 144.
-[^sec-06-fn-087]: (1) As celebrated in India.
-[^sec-06-fn-088]: (2) Cf. Keshab’s idea, above, p. 55.
-[^sec-06-fn-089]: (3) *Dharma Jivan*, 4th October, 1892.
-[^sec-06-fn-090]: (1) He is so called in a letter sent me by the Secretary of the Samāj.
-[^sec-06-fn-091]: (1) *A Dialogue about the Deva Samāj*, 14–16.
-[^sec-06-fn-092]: (1) Cf. p. 182, below.
-[^sec-06-fn-093]: (2) Cf. the Rādhā Soāmis, p. 169 f., above, and Theosophy, p. 261, below.
-[^sec-06-fn-094]: (1) All this may be found in the *Dialogue about the Deva Samāj*.
-[^sec-06-fn-095]: (2) *ISR*., XX, 258; XXI, 207, 257; XXIII, 235.
-[^sec-06-fn-096]: (1) See, for example, the *Dialogue*, 19. Cf. Madame Blavatsky's boasts, below, p. 438.
-[^sec-06-fn-097]: (1) P. 178, above.
-[^sec-06-fn-098]: (2) My informant is one of his disciples, whom I met in Madras.
+[^sec-06-fn-031]: (4) P. 329, below.
+[^sec-06-fn-032]: [5] P. 137, below.
+[^sec-06-fn-033]: (6) P. 351, below.
+[^sec-06-fn-034]: (7) P. 316, below.
+[^sec-06-fn-035]: (1) P. 371, below.
+[^sec-06-fn-036]: (2) *Contemporary Review*, May, 1910.
+[^sec-06-fn-037]: (1) Rev. W. E. S. Holland in *East and West*, June, 1907.
+[^sec-06-fn-038]: (1) A low-caste man wanted to send his son to the D. A. V. College, Lahore, but there was so much opposition that the authorities kept him out.
+[^sec-06-fn-039]: (2) The last census shows that they now number 243,000.
+[^sec-06-fn-040]: (3) See the author’s *Crown of Hinduism*, 392–407.
+[^sec-06-fn-041]: (4) *Ib.*, 179–181; 191.
+[^sec-06-fn-042]: (1) Reported in the *Bombay Guardian*, Dec. 14, 1907.
+[^sec-06-fn-043]: (1) For the word Paramahaṁsa see below, page 191.
+[^sec-06-fn-044]: (1) See *Indian Spirituality.*
+[^sec-06-fn-045]: (1) *A Word in Season*, 14.
+[^sec-06-fn-046]: (1) *Take Heed unto Yourselves, 5.*
+[^sec-06-fn-047]: (2) *A Word in Season, 22–23.*
+[^sec-06-fn-048]: (1) P. 156, below.
+[^sec-06-fn-049]: (2) All my information about this Assamese movement I owe to the Rev. A. C. Bowers of Goalpara, Assam. There is a brief mention in *Census of India*, 1911, vol. 1, 125.
+[^sec-06-fn-050]: (1) P. 316, below.
+[^sec-06-fn-051]: (1) I am indebted for most of my information about this sect to Dr. Griswold of Lahore. See his pamphlet, *Mirza Ghulam Ahmad*, and his article in *The Moslem World* for October, 1912.
+[^sec-06-fn-052]: (1) *Review of Religions*, November, 1904, p. 410.
+[^sec-06-fn-053]: (2) Yet some groups assert that Jesus is the only Maḥdi that will ever come.
+[^sec-06-fn-054]: (1) He asserts that the Gospels were deliberately corrupted by Christians.
+[^sec-06-fn-055]: (2) Griswold, *Mirza Ghulam Ahmad*, 5.
+[^sec-06-fn-056]: (1) *Sura*, LXI.
+[^sec-06-fn-057]: (1) *Akhbar i Amm* of Lahore, March 17th, 1899.
+[^sec-06-fn-058]: (2) Pp. 6–7.
+[^sec-06-fn-059]: (1) P. 15.
+[^sec-06-fn-060]: (1) P. 142.
+[^sec-06-fn-061]: (2) P. 92, above.
+[^sec-06-fn-062]: (1) Pp. 26–7.
+[^sec-06-fn-063]: (1) See below, p. 347.
+[^sec-06-fn-064]: (1) All my information about this sect is derived from Dr. Griswold’s pamphlet, *The Chet Rami Sect*, Cawnpore, Christ Church Mission Press, 1904. The references are to its pages.
+[^sec-06-fn-065]: (1) Pp. 4–6.
+[^sec-06-fn-066]: (1) P. 9.
+[^sec-06-fn-067]: (2) P. 1.
+[^sec-06-fn-068]: (1) P. 13.
+[^sec-06-fn-069]: (1) Pp. 21–2.
+[^sec-06-fn-070]: (1) My informant is Mr. B. C. Sircar, M. A., one of the National Secretaries of the Y. M. C. A. in India.
+[^sec-06-fn-071]: (2) Above, p. 129.
+[^sec-06-fn-072]: (1) See p. 167.
+[^sec-06-fn-073]: (2) *Rādhā Soāmi Mat Prakāsh.* The numbers of the sections are retained.
+[^sec-06-fn-074]: (1) *Discourses on Rādhā Soāmi Faith.*
+[^sec-06-fn-075]: (2) See p. 189.
+[^sec-06-fn-076]: (3) See below, p. 166.
+[^sec-06-fn-077]: (4) *Rāmakṛishṇa*, 20–1.
+[^sec-06-fn-078]: (1) Below, p. 188.
+[^sec-06-fn-079]: (1) Plate VII, facing this page.
+[^sec-06-fn-080]: (1) *Discourses of Rādhāsoāmi Faith*, 162.
+[^sec-06-fn-081]: (2) I owe this criticism to my friend the Rev. Ahmad Shah of Hamirpur, U. P.
+[^sec-06-fn-082]: (1) Cf. the Deva Samāj, p. 179 below, and Theosophy, p. 261, below.
+[^sec-06-fn-083]: (2) *Rādhā Soāmi Mat Prakāsh*, 51.
+[^sec-06-fn-084]: (3) *Discourses of Rādhāsoāmi Faith*, 329.
+[^sec-06-fn-085]: (1) See above, pp. 169, 170; below, p. 261.
+[^sec-06-fn-086]: (1) P. 55, above.
+[^sec-06-fn-087]: (2) *HBS.*, II, 144.
+[^sec-06-fn-088]: (1) As celebrated in India.
+[^sec-06-fn-089]: (2) Cf. Keshab’s idea, above, p. 55.
+[^sec-06-fn-090]: (3) *Dharma Jivan*, 4th October, 1892.
+[^sec-06-fn-091]: (1) He is so called in a letter sent me by the Secretary of the Samāj.
+[^sec-06-fn-092]: (1) *A Dialogue about the Deva Samāj*, 14–16.
+[^sec-06-fn-093]: (1) Cf. p. 182, below.
+[^sec-06-fn-094]: (2) Cf. the Rādhā Soāmis, p. 169 f., above, and Theosophy, p. 261, below.
+[^sec-06-fn-095]: (1) All this may be found in the *Dialogue about the Deva Samāj*.
+[^sec-06-fn-096]: (2) *ISR*., XX, 258; XXI, 207, 257; XXIII, 235.
+[^sec-06-fn-097]: (1) See, for example, the *Dialogue*, 19. Cf. Madame Blavatsky's boasts, below, p. 438.
+[^sec-06-fn-098]: (1) P. 178, above.
+[^sec-06-fn-099]: (2) My informant is one of his disciples, whom I met in Madras.
 
 
 ## Chapter IV: Full Defence of the Old Religions, 1870–1913
@@ -2107,7 +2109,7 @@ According to his most famous disciple, Narendra Nath Dutt, [p. 195] usually call
 
 <!-- page: 232 | folio: 194 -->
 
-![PLATE IX — Rāmakrishṇa Paramahaṁsa](../figures/fig-017_p0232.webp)
+![Rāmakrishṇa Paramahaṁsa](../figures/fig-017_p0232.webp)
 
 
 ![Svāmī Vivekānanda](../figures/fig-018_p0232.webp)
@@ -2126,15 +2128,15 @@ According to his most famous disciple, Narendra Nath Dutt, [p. 195] usually call
 
 This same passion for God, taken along with the Hindu idea of God, will explain also the more curious and eccentric points of his character. One of his own sayings is :
 
-> A true devotee who has drunk deep of the Divine Love is like a veritable drunkard, and, as such, cannot always observe the rules of propriety.[^sec-07-fn-025]
+> A true devotee who has drunk deep of the Divine Love is like a veritable drunkard, and, as such, cannot always observe the rules of propriety.[^sec-07-fn-023]
 
 It is from this point of view that we can understand another of Mozoomdar's statements about him :
 
-> His speech at times was abominably filthy.[^sec-07-fn-023]
+> His speech at times was abominably filthy.[^sec-07-fn-024]
 
 He believed God in His true essence to be impersonal, unknowable, beyond the reach of man. On the other hand, every human being, indeed everything that is, is a manifestation of God. Everything that happens is, in a sense, done by Him :
 
-> God tells the thief to go and steal, and at the same time warns the householder against the thief.[^sec-07-fn-024]
+> God tells the thief to go and steal, and at the same time warns the householder against the thief.[^sec-07-fn-025]
 
 God is thus so truly all that is, that in Him moral distinctions become obliterated.[^sec-07-fn-026] Here we get a glimpse of the radical distinction between Christianity and Hinduism. Another point in his conduct will enable us to understand still more clearly. Since every human being is a manifestation of God, [p. 197] if Rāmakṛishṇa happened to meet an unfortunate, he would bow down before her in adoration. Contrast with this the mind of Christ, who loved the unfortunate as a child of God, but could not be content, unless she came to repentance.
 
@@ -2156,9 +2158,9 @@ Thus far Rāmakṛishṇa was simply a very devoted Hindu. Had there been nothin
 
 > A truly religious man should think that other religions also are paths leading to the truth.[^sec-07-fn-029]
 
-> Every man should follow his own religion. A Christian should follow Christianity, a Mohammedan should follow Mohammedanism, and so on. For the Hindus the ancient path, the path of the Aryan Rishis, is the best.[^sec-07-fn-032]
+> Every man should follow his own religion. A Christian should follow Christianity, a Mohammedan should follow Mohammedanism, and so on. For the Hindus the ancient path, the path of the Aryan Rishis, is the best.[^sec-07-fn-030]
 
-4\. One of Rāmakṛishṇa’s disciples, a wealthy Calcutta man, named Surendranath Mitter, was keenly interested in the result produced on Keshab Chandra Sen by his master’s teaching on this point,[^sec-07-fn-034] and employed a painter to produce a symbolical picture, embodying the idea of the harmony of all religions and of the part played by Rāmakṛishṇa in introducing it to Keshab.[^sec-07-fn-030] I have not been able to discover with certainty when the picture was painted, but it was already in existence on the 27th of October, 1882.[^sec-07-fn-031] When it was shewn to Keshab, he exclaimed, “Blessed is the man who conceived the idea of this picture.” At a later date the picture was reproduced and published as a supplement to *Unity and the Minister*, a weekly paper representing one of the sub-divisions into which the Church of the New Dispensation split up after the great leader’s death. This picture is reproduced here. In the background are a Christian church, a Muḥammadan mosque, and a Hindu temple. In front of the church stand Keshab and Rāmakṛishṇa, Keshab carrying the symbol of the New Dispensation described above,[^sec-07-fn-033] and Rāmakṛishṇa calling Keshab’s attention to the group of figures arranged in front of the mosque and the temple. In the middle of this group Christ and Chaitanya, a Bengali religious leader of the sixteenth century,[^sec-07-fn-035] are represented dancing together, while a [p. 199] Muslim, a Confucian, a Sikh, a Parsee, an Anglican clergyman and various Hindus stand round them, each carrying some symbol of his faith.  It seems to me that nothing could be more fitting (for I am writing in Oxford and the subject is most apposite) than to dedicate this interesting piece of theological art to the versatile author of *Reunion All Round.*
+4\. One of Rāmakṛishṇa’s disciples, a wealthy Calcutta man, named Surendranath Mitter, was keenly interested in the result produced on Keshab Chandra Sen by his master’s teaching on this point,[^sec-07-fn-031] and employed a painter to produce a symbolical picture, embodying the idea of the harmony of all religions and of the part played by Rāmakṛishṇa in introducing it to Keshab.[^sec-07-fn-032] I have not been able to discover with certainty when the picture was painted, but it was already in existence on the 27th of October, 1882.[^sec-07-fn-033] When it was shewn to Keshab, he exclaimed, “Blessed is the man who conceived the idea of this picture.” At a later date the picture was reproduced and published as a supplement to *Unity and the Minister*, a weekly paper representing one of the sub-divisions into which the Church of the New Dispensation split up after the great leader’s death. This picture is reproduced here. In the background are a Christian church, a Muḥammadan mosque, and a Hindu temple. In front of the church stand Keshab and Rāmakṛishṇa, Keshab carrying the symbol of the New Dispensation described above,[^sec-07-fn-034] and Rāmakṛishṇa calling Keshab’s attention to the group of figures arranged in front of the mosque and the temple. In the middle of this group Christ and Chaitanya, a Bengali religious leader of the sixteenth century,[^sec-07-fn-035] are represented dancing together, while a [p. 199] Muslim, a Confucian, a Sikh, a Parsee, an Anglican clergyman and various Hindus stand round them, each carrying some symbol of his faith.  It seems to me that nothing could be more fitting (for I am writing in Oxford and the subject is most apposite) than to dedicate this interesting piece of theological art to the versatile author of *Reunion All Round.*
 
 5\. It was his teaching on the religions that laid hold of his disciples.  He impressed all who came in contact with him as a most sincere soul, a God-intoxicated man; but what distinguished his message from the teaching of others was his defence of everything Hindu and his theory that all religions are true.  This gave his teaching a universalistic turn, and provided the ordinary Hindu with a defence which he could use to meet Christian criticism and the Brāhma Samāj.
 
@@ -2176,15 +2178,15 @@ Here we have ancient Hindu guru-worship checked in Vivekānanda's mind by the Ch
 <!-- page: 240 | folio: 200 -->
 The picture given of him by his disciples is very pleasing and very vivid ; yet there are not many personal traits to notice. Though he was a sannyāsī, he dressed like an ordinary Bengali, and lived like one.[^sec-07-fn-039] Mozoomdar in describing him uses the words :
 
-> a child-like tenderness, a profound visible humbleness, an unspeakable sweetness of expression and a smile that I have seen on no other face that I can remember.[^sec-07-fn-043]
+> a child-like tenderness, a profound visible humbleness, an unspeakable sweetness of expression and a smile that I have seen on no other face that I can remember.[^sec-07-fn-040]
 
-He knew no Sanskrit and scarcely any English. His disciples would smile when he used the English words, “Thank you.” Indeed he had no scholarly knowledge even of Bengali.[^sec-07-fn-040] But his conversation was full of quaint, good sense, expressed in vivid homely phrases, and lighted up here and there with a broad kindly humour. He was fond of certain short alliterative phrases, which he had coined,[^sec-07-fn-044] expressive of his main religious ideas, such as :
+He knew no Sanskrit and scarcely any English. His disciples would smile when he used the English words, “Thank you.” Indeed he had no scholarly knowledge even of Bengali.[^sec-07-fn-041] But his conversation was full of quaint, good sense, expressed in vivid homely phrases, and lighted up here and there with a broad kindly humour. He was fond of certain short alliterative phrases, which he had coined,[^sec-07-fn-042] expressive of his main religious ideas, such as :
 
 > Nāham, nāham : Tuhu, tuhu.
 
-that is, “Not I, not I, Thou, Thou.” He was no formal teacher. Indeed he used to say, “I am nobody’s teacher : I am everybody’s disciple.”[^sec-07-fn-041] He was a conversationalist, pouring out his riches like Samuel Johnson.
+that is, “Not I, not I, Thou, Thou.” He was no formal teacher. Indeed he used to say, “I am nobody’s teacher : I am everybody’s disciple.”[^sec-07-fn-043] He was a conversationalist, pouring out his riches like Samuel Johnson.
 
-6\. After Rāmakṛishṇa’s death,[^sec-07-fn-045] his chief disciples decided that they must devote their lives to the spread of his teaching. So a group of them renounced the world and became sannyāsīs. Amongst these by far the most prominent has been Narenda Nath Datta, who took the name Vivekānanda, when he became a sannyāsī. Svāmī is a title of respect given to any sannyāsī. He was a Bengali, belonging to Calcutta, a Kāyastha by caste, born on the 9th of January, 1862.[^sec-07-fn-042] He received [p. 201] a good English education, taking his degree from a Mission College in Calcutta, and distinguishing himself in philosophy. As a student, he came a good deal under the influence of the Brāhma Samāj. He had a fine voice, and wherever he went was in great request for the singing of Bengali hymns. After taking his degree, he began the study of law ; but, early in 1882, an uncle took him to see Rāmakṛishṇa ; and that moment became the turning-point in his life.
+6\. After Rāmakṛishṇa’s death,[^sec-07-fn-044] his chief disciples decided that they must devote their lives to the spread of his teaching. So a group of them renounced the world and became sannyāsīs. Amongst these by far the most prominent has been Narenda Nath Datta, who took the name Vivekānanda, when he became a sannyāsī. Svāmī is a title of respect given to any sannyāsī. He was a Bengali, belonging to Calcutta, a Kāyastha by caste, born on the 9th of January, 1862.[^sec-07-fn-045] He received [p. 201] a good English education, taking his degree from a Mission College in Calcutta, and distinguishing himself in philosophy. As a student, he came a good deal under the influence of the Brāhma Samāj. He had a fine voice, and wherever he went was in great request for the singing of Bengali hymns. After taking his degree, he began the study of law ; but, early in 1882, an uncle took him to see Rāmakṛishṇa ; and that moment became the turning-point in his life.
 
 From the first Rāmakṛishṇa singled him out as one destined to do great things for God, and gave him a great deal of attention. On his master's death he became a sannyāsī, as we have said, and then spent some six years in retirement on the Himalayas, doubtless studying and thinking about many things. Among other places he is said to have visited Tibet, in order to study Buddhism. In 1892 he emerged from his retirement, and toured all down the western coast of India, going as far south as Trevandrum, whence he turned north again and went to Madras. Preparations were being made at that time for holding the Parliament of Religions in Chicago. Some friends in Madras proposed that Vivekānanda should be sent to the Parliament to represent Hinduism. Funds were collected, and he travelled to America by way of Japan.
 
@@ -3403,29 +3405,29 @@ These proposals are so contrary to the spirit of University culture and so likel
 [^sec-07-fn-020]: (1) *Rāmakṛishna*, 58.
 [^sec-07-fn-021]: (2) *My Master*, 61.
 [^sec-07-fn-022]: (1) *Paramahaṁsa Rāmakṛishṇa*, 13.
-[^sec-07-fn-023]: (3) *Ib.*, 62.
-[^sec-07-fn-024]: (4) *Ib.*, 103.
-[^sec-07-fn-025]: (2) *Rāmakṛishṇa*, 121.
+[^sec-07-fn-023]: (2) *Rāmakṛishṇa*, 121.
+[^sec-07-fn-024]: (3) *Ib.*, 62.
+[^sec-07-fn-025]: (4) *Ib.*, 103.
 [^sec-07-fn-026]: (5) *Gospel of R.*, 72.
 [^sec-07-fn-027]: (1) See above, p. 189, and *Gospel of R.*, 187.
 [^sec-07-fn-028]: (2) *Rāmakṛishṇa*, 133.
 [^sec-07-fn-029]: (1) *Rāmakṛishṇa*, 153.
-[^sec-07-fn-030]: (4) *Janmabhumi*, Āsāṛha, 1317 Sal.
-[^sec-07-fn-031]: (5) *Gospel of R.*, 132, 164.
-[^sec-07-fn-032]: (2) *Ib.*, 177.
-[^sec-07-fn-033]: (6) P. 56, above.
-[^sec-07-fn-034]: (3) See above, pp. 57–8.
+[^sec-07-fn-030]: (2) *Ib.*, 177.
+[^sec-07-fn-031]: (3) See above, pp. 57–8.
+[^sec-07-fn-032]: (4) *Janmabhumi*, Āsāṛha, 1317 Sal.
+[^sec-07-fn-033]: (5) *Gospel of R.*, 132, 164.
+[^sec-07-fn-034]: (6) P. 56, above.
 [^sec-07-fn-035]: (7) P. 293, below.
 [^sec-07-fn-036]: (1) *Paramahaṁsa Rāmakṛishṇa*, 1.
 [^sec-07-fn-037]: (2) *Gospel of R.*, 357.
 [^sec-07-fn-038]: (3) *Ib.*, 360.
 [^sec-07-fn-039]: (1) *Gospel of R.*, 133.
-[^sec-07-fn-040]: (3) *Rāmakṛishṇa*, 62 ; *Gospel of R.*, 194.
-[^sec-07-fn-041]: (5) *Ib.*, 337.
-[^sec-07-fn-042]: (7) See a brief biography published by Natesan, Madras.
-[^sec-07-fn-043]: (2) *Paramahaṁsa Rāmakṛishṇa*, 3.
-[^sec-07-fn-044]: (4) *Gospel of R.*, 196–7.
-[^sec-07-fn-045]: (6) On the 15th March, 1886.
+[^sec-07-fn-040]: (2) *Paramahaṁsa Rāmakṛishṇa*, 3.
+[^sec-07-fn-041]: (3) *Rāmakṛishṇa*, 62 ; *Gospel of R.*, 194.
+[^sec-07-fn-042]: (4) *Gospel of R.*, 196–7.
+[^sec-07-fn-043]: (5) *Ib.*, 337.
+[^sec-07-fn-044]: (6) On the 15th March, 1886.
+[^sec-07-fn-045]: (7) See a brief biography published by Natesan, Madras.
 [^sec-07-fn-046]: (1) *The New York Critique.*
 [^sec-07-fn-047]: (1) *The New York Herald.*
 [^sec-07-fn-048]: (1) *ISR.*, XXI, 114.
@@ -3876,7 +3878,7 @@ Only University graduates or men who have done successful public service are adm
 
 <!-- page: 417 | folio: 377 -->
 
-![PLATE XI — Rajchandra Ravjibhai](../figures/fig-024_p0417.webp)
+![Rajchandra Ravjibhai](../figures/fig-024_p0417.webp)
 
 
 ![The Hon'ble G. K. Gokhale, C. I. E.](../figures/fig-025_p0417.webp)
@@ -4197,9 +4199,9 @@ In the following year the Bombay Government issued a resolution on the subject. 
 
 Two years later Sir George Clarke, Governor of Bombay, issued a proclamation, calling the attention of District Magistrates to the powers of the law and to the necessity of enforcing them seriously.[^sec-09-fn-051]
 
-The Mysore Government next took action. In 1909 they issued an order, in which they prohibit the performance of any religious ceremony which has an intimate connection with dedication to the profession of a prostitute or dancing-girl. This prohibition applies to every temple under the control of the Mysore Government.[^sec-09-fn-052] About the same time, the head of the Śaṅkeśvara monastery, a modern representative of Śaṅkarāchārya, issued an order in which he declares that the custom of dedicating girls has not the sanction of any sacred book of the Hindus, and therefore must be put a stop to.[^sec-09-fn-054] Later still the Travancore Government took the matter up.[^sec-09-fn-055]
+The Mysore Government next took action. In 1909 they issued an order, in which they prohibit the performance of any religious ceremony which has an intimate connection with dedication to the profession of a prostitute or dancing-girl. This prohibition applies to every temple under the control of the Mysore Government.[^sec-09-fn-052] About the same time, the head of the Śaṅkeśvara monastery, a modern representative of Śaṅkarāchārya, issued an order in which he declares that the custom of dedicating girls has not the sanction of any sacred book of the Hindus, and therefore must be put a stop to.[^sec-09-fn-053] Later still the Travancore Government took the matter up.[^sec-09-fn-054]
 
-But though the movement has thus made considerable progress, there are those who oppose it for various reasons.[^sec-09-fn-056] The first of these is the fear that the musical art may suffer if they are discouraged. How absurd this argument is, we need not say. Yet it had weight enough with certain Government officials to lead them to introduce dancing-girls into the Arts and Industries Exhibition at Allahabad in the winter of 1910–1911, and to give prizes to the most skilful of these artistes.[^sec-09-fn-053] As one might expect in such a country as India, Government example at once led to serious results. Here is what the Rev. C. F. Andrews of Delhi wrote to the press on the subject: [p. 413] An intimate friend of mine, who was known by all the city to refuse under any circumstances to be present at a wedding where a nautch was a part of the ceremonies, was asked a few days ago to a wedding, and was on the point of accepting it, when he discovered that a nautch was to be held.  When he remonstrated with some indignation, saying that his own abstention from nautches was well known in the city, the reply was immediately made that now things were different.  The Government itself was encouraging nautches, and one was being held every night at the Government Exhibition.[^sec-09-fn-057]
+But though the movement has thus made considerable progress, there are those who oppose it for various reasons.[^sec-09-fn-055] The first of these is the fear that the musical art may suffer if they are discouraged. How absurd this argument is, we need not say. Yet it had weight enough with certain Government officials to lead them to introduce dancing-girls into the Arts and Industries Exhibition at Allahabad in the winter of 1910–1911, and to give prizes to the most skilful of these artistes.[^sec-09-fn-056] As one might expect in such a country as India, Government example at once led to serious results. Here is what the Rev. C. F. Andrews of Delhi wrote to the press on the subject: [p. 413] An intimate friend of mine, who was known by all the city to refuse under any circumstances to be present at a wedding where a nautch was a part of the ceremonies, was asked a few days ago to a wedding, and was on the point of accepting it, when he discovered that a nautch was to be held.  When he remonstrated with some indignation, saying that his own abstention from nautches was well known in the city, the reply was immediately made that now things were different.  The Government itself was encouraging nautches, and one was being held every night at the Government Exhibition.[^sec-09-fn-057]
 
 Fortunately, the press of India, whether European or Indian, almost unanimously condemned the action of those who had charge of the Exhibition ;[^sec-09-fn-058] and public opinion was so clearly expressed that we may hope that little final evil will come of it.
 
@@ -4384,10 +4386,10 @@ Arrangements are being made for the opening of more [p. 429] Settlements under p
 [^sec-09-fn-050]: (1) *Indian Witness*, August 15, 1907.
 [^sec-09-fn-051]: (2) *ISR.*, XIX, 568.
 [^sec-09-fn-052]: (3) *Harvest Field*, 1909, p. 190.
-[^sec-09-fn-053]: (7) The Social Conference objected. See p. 393, above.
-[^sec-09-fn-054]: (4) *ISR.*, XIX, 565.
-[^sec-09-fn-055]: (5) *ISR.*, XX, 461.
-[^sec-09-fn-056]: (6) *ISR.*, XX, 127 and 123.
+[^sec-09-fn-053]: (4) *ISR.*, XIX, 565.
+[^sec-09-fn-054]: (5) *ISR.*, XX, 461.
+[^sec-09-fn-055]: (6) *ISR.*, XX, 127 and 123.
+[^sec-09-fn-056]: (7) The Social Conference objected. See p. 393, above.
 [^sec-09-fn-057]: (1) From the *Leader*.  See *ISR.*, XXI, 292.
 [^sec-09-fn-058]: (2) *ISR.*, XXI, 306.
 [^sec-09-fn-059]: (1) Parts of Chirol’s writing on education are weakened by a failure to take this most important fact into full consideration.

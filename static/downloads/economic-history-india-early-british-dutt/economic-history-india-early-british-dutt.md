@@ -30,9 +30,7 @@
 
 ##### *FROM THE RISE OF THE BRITISH POWER IN 1757 TO THE ACCESSION OF QUEEN VICTORIA IN 1837*
 
-BY
-
-ROMESH DUTT, C.I.E. <span class="sc">Lecturer in Indian History at University College, London Late Commissioner of Orissa and Member of the Bengal Legislative Council</span>
+BY ROMESH DUTT, C.I.E. <span class="sc">Lecturer in Indian History at University College, London Late Commissioner of Orissa and Member of the Bengal Legislative Council</span>
 
 SECOND EDITION
 
@@ -175,10 +173,10 @@ I. <span class="sc">Growth of the Empire</span> . . . . . 1
 ### THE ECONOMIC HISTORY OF BRITISH INDIA
 
 
-#### CHAPTER I
+### CHAPTER I
 
 
-##### GROWTH OF THE EMPIRE
+#### GROWTH OF THE EMPIRE
 
 "<span class="sc">I am</span> sure that I can save the country, and that no one else can." So spoke the great William Pitt, afterwards Lord Chatham, not boastfully, but with that consciousness of power, and that clear prevision of great events, which sometimes come to men inspired by a lofty mission. William Pitt more than redeemed his pledge. He directed the administration of his country from 1757 to 1761, and, singularly enough, these five years mark the rise of the modern British Empire. England's ally, Frederick the Great, won the battle of Rossbach in 1757, made Prussia, and humbled France. Wolfe took Quebec in 1759, and the whole of Canada was conquered from the French in 1760. Clive won the battle of Plassy in 1757, and Eyre Coote crushed the French power in India in 1761. Within five years England's greatness as a world-power was assured; France was humbled in Europe, and effaced in Asia and in America.
 
@@ -187,7 +185,7 @@ Our story concerns itself with the growth of the British Empire in India, or rat
 Three generations of British statesmen and administrators laboured to extend and consolidate the Indian Empire within these eighty years, and each generation had a distinct and characteristic policy of its own. The first was the age of Clive and Warren Hastings, an age of bold adventures and arduous struggles, which made a Company of traders a great territorial power in India. This age ended with Pitt’s India Act of 1784 and the retirement of Warren Hastings from India in the following year. The second age was the age of Cornwallis, Wellesley, and Lord Hastings, the age of the final wars with Mysore and the Mahrattas, which made the Company the supreme power in India. This age ended with the annexation of the province of Bombay in 1817, and the capture of the last of the Peshwas in the following year. The third age was an age of peace, retrenchment, and administrative reforms, the age of Munro, Elphinstone, and Bentinck, whose names are more gratefully cherished in India to the present day than the names of warriors and conquerors. This age ended with the arrival of Lord Auckland in India in 1836, and the accession of Queen Victoria in the following year.
 
 
-##### I.—<span class="sc">The Period of Clive and Warren Hastings, ending</span> 1785.
+#### I.—<span class="sc">The Period of Clive and Warren Hastings, ending</span> 1785.
 
 The East India Company was founded in 1600 with a capital of £70,000. The Company built Fort St. George [p. 3] in Madras in 1639; bought the island of Bombay from King Charles II., and removed their factories to that place in 1687; and made their Bengal headquarters in Calcutta in 1700. The French had a settlement at Pondicherry, south of Madras, and another at Chandranagar, north of Calcutta.
 
@@ -228,7 +226,7 @@ All these acts cast a shadow over the administration [p. 8] of Warren Hastings. 
 Such is, briefly, the history of the rise of British power in India down to 1785. The three wars with the French which made the British nation supreme in the Karnatic, the two wars with Suraj-ud-Dawla and Mir Kasim which made them masters of Bengal, and the first struggles with Mysore and the Mahrattas, were the leading military transactions which engaged the generation of Clive and Hastings in India. Bengal, the Northern Circars, and Benares, together with small tracts of country round Madras and Bombay, were the extent of the Company’s actual possessions in India when Warren Hastings left the country in 1785.
 
 
-##### II.—<span class="sc">The Period of Cornwallis, Wellesley, and Lord Hastings</span>, 1785–1817.
+#### II.—<span class="sc">The Period of Cornwallis, Wellesley, and Lord Hastings</span>, 1785–1817.
 
 Pitt’s India Act was passed on the 13th August 1784. All civil, military, and revenue affairs of the Company were placed under the superintendence of six Commissioners appointed by the Crown. There was a sincere desire to improve the administration of India, and to relieve the people from that oppression and misgovernment under which they had suffered during the first period of British rule. The Directors of the Company themselves wished to put their house in order. They sent out Lord Cornwallis, a nobleman of high character and generous instincts, as Governor-General after Warren Hastings, and they gave him definite instructions to permanently fix the State demand from the land, so as to leave the people a motive for making agricultural improvements and to better their own condition.
 
@@ -255,7 +253,7 @@ When Lord Moira, afterwards Marquis of Hastings, succeeded Lord Minto in 1813, t
 Such is briefly the history of the political and military transactions of the second period of British rule in India. The Permanent Settlement of the land revenues, which was concluded in Bengal in 1793, and extended to Benares in 1795, and to the Northern [p. 13] Circars and other tracts between 1802 and 1805, stands out as the most notable and the most beneficent act of civil administration within this period. The final quelling of the power of Mysore and the Mahrattas is the leading political achievement of the same period.
 
 
-##### III.—<span class="sc">Period of Munro, Elphinstone, and Bentinck, 1817–1837.</span>
+#### III.—<span class="sc">Period of Munro, Elphinstone, and Bentinck, 1817–1837.</span>
 
 We now enter upon a period of peace, retrenchment, and reform, in Europe and in India. The nations of Europe were tired of the Napoleonic wars, and enjoyed a long term of peace after the battle of Waterloo. Everywhere there was an endeavour to effect reforms and to secure civil rights for the people. In France this continual struggle ended in the Revolution of 1830. In England it secured the Reform Act of 1832. Belgium separated itself from Holland and formed its own national government. In Germany and in Italy there were movements after national unity and national independence. Greece became independent in 1830. Slavery was abolished in 1833. The spirit of the times was for reforms and for bettering the condition of the people everywhere, and this spirit inspired the policy of the administrators in India.
 
@@ -2624,9 +2622,7 @@ The export of rice from Bengal in the husk increased to 1000 tons shortly before
 
 ##### <span class="sc">Indigo</span>.
 
-Somewhat contradictory evidence was given, as might be expected, as regards the condition of the cultivators under European indigo planters. Ramsay asserted that the condition of Ryots, who laboured for European planters, was worse than that of other Ryots; that European planters compelled them to sow a larger portion of their land with indigo than they would
-
-> good as, and in some respects the superior of, the average British farmer; whilst at his worst, it can only be said that this state is brought about largely by an absence of facilities for improvement which is probably unequalled in any other country, and that the Ryot will struggle on patiently and uncomplainingly in the face of difficulties in a way that no one else would. “Nor need our British farmers be surprised at what I say, for it must be remembered that the natives of India were cultivators of wheat centuries before we in England were. It is not likely, therefore, that their *practice* should be capable of much improvement. What does, however, prevent them from growing larger crops is the limited facilities to which they have access, such as the supply of water and manure. But, to take the ordinary acts of husbandry, nowhere would one find better instances of keeping land scrupulously clean from weeds, of ingenuity in device of water-raising appliances, of knowledge of soils and their capabilities, as well as the exact time to sow and to reap, as one would in Indian agriculture, and this not at its best alone, but at its ordinary level. It is wonderful, too, how much is known of rotation, the system of mixed crops and of fallowing. Certain it is that I, at least, have never seen a more perfect picture of careful cultivation, combined with hard labour, perseverance, and fertility of resource, than I have seen in many of the halting-places in my tour.”—*Report on the Improvement of Indian Agriculture*. [p. 279] otherwise have done; that European planters interfered with the tiller’s right to cultivate his land as he liked. Other witnesses contradicted him; but those who remember the state of things in Bengal down to 1860 are aware that the evils complained of by Ramsay prevailed in Bengal for a long period.
+Somewhat contradictory evidence was given, as might be expected, as regards the condition of the cultivators under European indigo planters. Ramsay asserted that the condition of Ryots, who laboured for European planters, was worse than that of other Ryots; that European planters compelled them to sow a larger portion of their land with indigo than they would [p. 279] otherwise have done; that European planters interfered with the tiller’s right to cultivate his land as he liked. Other witnesses contradicted him; but those who remember the state of things in Bengal down to 1860 are aware that the evils complained of by Ramsay prevailed in Bengal for a long period.
 
 European planters made advances to cultivators who agreed to deliver so much weed at certain prices. If the planter was oppressive, “the Ryot had no other remedy against oppression than an appeal to the Courts where he has very little chance of having his appeal heard. Oppression is principally exercised in the lower parts of Bengal where a number of Europeans and half castes are settled.”
 
@@ -2733,7 +2729,7 @@ A smile of grim satisfaction must have overspread the faces of the grave and rev
 [^sec-18-fn-005]: (1) Evidence before the Lords’ Committee, 1830. Digest.
 [^sec-18-fn-006]: (2) Evidence in the Commons’ Reports, 1830, 1830–31, and 1831 Digest.
 [^sec-18-fn-007]: (1) Evidence before the Commons' Committee, 1832. Digest.
-[^sec-18-fn-008]: (1) Evidence before the Commons' Committee, 1832, vol. ii., Part I., p. 195. This is the opinion of all experts down to the present day. In 1889 Dr. Voelcker, Consulting Chemist to the Royal Agricultural Society of England, was deputed to India to make inquiries and suggest improvements, in respect of Indian agriculture. And he wrote: “On one point there can be no question, viz. that the ideas generally entertained in England, and often given expression to even in India, that Indian agriculture is, as a whole, primitive and backward, and that little has been done to try and remedy it, are altogether erroneous. . . . At his best the Indian Ryot, or cultivator, is quite as
+[^sec-18-fn-008]: (1) Evidence before the Commons' Committee, 1832, vol. ii., Part I., p. 195. This is the opinion of all experts down to the present day. In 1889 Dr. Voelcker, Consulting Chemist to the Royal Agricultural Society of England, was deputed to India to make inquiries and suggest improvements, in respect of Indian agriculture. And he wrote: “On one point there can be no question, viz. that the ideas generally entertained in England, and often given expression to even in India, that Indian agriculture is, as a whole, primitive and backward, and that little has been done to try and remedy it, are altogether erroneous. . . . At his best the Indian Ryot, or cultivator, is quite as [p. 278] good as, and in some respects the superior of, the average British farmer; whilst at his worst, it can only be said that this state is brought about largely by an absence of facilities for improvement which is probably unequalled in any other country, and that the Ryot will struggle on patiently and uncomplainingly in the face of difficulties in a way that no one else would. “Nor need our British farmers be surprised at what I say, for it must be remembered that the natives of India were cultivators of wheat centuries before we in England were. It is not likely, therefore, that their *practice* should be capable of much improvement. What does, however, prevent them from growing larger crops is the limited facilities to which they have access, such as the supply of water and manure. But, to take the ordinary acts of husbandry, nowhere would one find better instances of keeping land scrupulously clean from weeds, of ingenuity in device of water-raising appliances, of knowledge of soils and their capabilities, as well as the exact time to sow and to reap, as one would in Indian agriculture, and this not at its best alone, but at its ordinary level. It is wonderful, too, how much is known of rotation, the system of mixed crops and of fallowing. Certain it is that I, at least, have never seen a more perfect picture of careful cultivation, combined with hard labour, perseverance, and fertility of resource, than I have seen in many of the halting-places in my tour.”—*Report on the Improvement of Indian Agriculture*.
 [^sec-18-fn-009]: (1) Evidence before the Lords’ Committee, 1830. *Digest*.
 [^sec-18-fn-010]: (1) Evidence in the Commons’ Reports of 1830, 1830–31, and 1831. Digest.
 [^sec-18-fn-011]: (2) Evidence before the Commons’ Committee, 1832. Digest.
@@ -3446,9 +3442,7 @@ Passing on to the subject of the assessment of the soil under the newly establis
 <!-- page: 390 | folio: 362 -->
 It will be seen that a State demand of £4, 4s. out of an estimated income of £12 is less than 45 or 50 per cent. of the gross produce which the Government originally demanded both in Madras and Bombay from the peasantry. But even this tax of £4, 4s. out of £12 left the cultivator no savings and no resources. It is quite clear that the Ryotwari system found favour with the Directors of the Company for this very reason, viz., that there were no intermediate landlords or Village Communities to intercept a part of the profits. The Company had as good a grip over the cultivators as a slave-owner has over his slaves, and could take away all that was not needed to keep them alive. “It cannot be concealed or denied, I think,” said one Director, “that the object of this [Ryotwari] system is to obtain for Government the utmost that the land will yield in the shape of rent.”[^sec-23-fn-013]
 
-With regard to the Mirasi tenure, Chaplin wrote that it “is very general throughout the whole of that part of the conquered territory which extends from the Krishna to the range of Ghats that divide Gungterre from Khandesh.” That “a Ryot having once acquired the hereditary right of occupancy is, together with his heirs, entitled to hold it by sale, gift, or mortgage, and according to the usage of the Deccan, without previously obtaining the permission of the Government.” That a Mirasdar “has a voice in all the village councils, has a right of pasture on the village commons, can build a house or dispose of it by sale.” That in Poona the proportion of Mirasdars to Upris or tenants at will “may be about three to one.” That to the north, beyond the Godavari, “the existence of the Miras right becomes less general, and
-
-Chaplin also thinks the dairy produce brought 14s. annually to the cultivator. [p. 363] the difference between it and the Upri tenure more faint and indistinct." That in the Southern Mahratta country, "Miras does not exist at all," but "permanent occupancy is, however, recognised." That "the privileges of Miras in Satara are the same as in other parts of the Deccan."[^sec-23-fn-014]
+With regard to the Mirasi tenure, Chaplin wrote that it “is very general throughout the whole of that part of the conquered territory which extends from the Krishna to the range of Ghats that divide Gungterre from Khandesh.” That “a Ryot having once acquired the hereditary right of occupancy is, together with his heirs, entitled to hold it by sale, gift, or mortgage, and according to the usage of the Deccan, without previously obtaining the permission of the Government.” That a Mirasdar “has a voice in all the village councils, has a right of pasture on the village commons, can build a house or dispose of it by sale.” That in Poona the proportion of Mirasdars to Upris or tenants at will “may be about three to one.” That to the north, beyond the Godavari, “the existence of the Miras right becomes less general, and Chaplin also thinks the dairy produce brought 14s. annually to the cultivator. [p. 363] the difference between it and the Upri tenure more faint and indistinct." That in the Southern Mahratta country, "Miras does not exist at all," but "permanent occupancy is, however, recognised." That "the privileges of Miras in Satara are the same as in other parts of the Deccan."[^sec-23-fn-014]
 
 "The Collector [of Poona] is very properly an advocate," Chaplin wrote, "for preserving the rights of Mirasdars, a line of policy which he strenuously recommends in several places; but as nobody, I trust, has ever thought of invading their rights, the discussion of the question at any length would be superfluous."[^sec-23-fn-015] Mr. Chaplin did not anticipate that later British administration would virtually cnnfiscate the ancient Mirasi rights of the Deccan cultivators.
 
@@ -3889,28 +3883,44 @@ It is necessary here to place before the reader the Indian revenue and expenditu
 | Bombay . . . . | 396,482 | 691,914 | 2,081,671 |
 | Total . . . | 5,286,935 | 15,655,985 | 15,534,711 |
 | 1810–11. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 3,295,382 1,071,666 437,108 | 10,682,249 5,238,576 758,372 | 7,241,839 5,110,977 1,557,165 |
+| Bengal | 3,295,382 | 10,682,249 | 7,241,839 |
+| Madras | 1,071,666 | 5,238,576 | 5,110,977 |
+| Bombay | 437,108 | 758,372 | 1,557,165 |
 | Total . . . . | 4,804,156 | 16,679,197 | 13,909,981 |
 | 1811–12. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 3,296,905 1,048,844 433,785 | 10,706,172 5,156,717 742,726 | 7,058,871 4,619,610 1,542,485 |
+| Bengal | 3,296,905 | 10,706,172 | 7,058,871 |
+| Madras | 1,048,844 | 5,156,717 | 4,619,610 |
+| Bombay | 433,785 | 742,726 | 1,542,485 |
 | Total . . . . | 4,779,534 | 16,605,615 | 13,220,966 |
 | 1812–13. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 3,310,874 1,159,778 420,323 | 10,390,257 5,258,244 687,789 | 7,222,936 4,799,630 1,493,262 |
+| Bengal | 3,310,874 | 10,390,257 | 7,222,936 |
+| Madras | 1,159,778 | 5,258,244 | 4,799,630 |
+| Bombay | 420,323 | 687,789 | 1,493,262 |
 | Total . . . . | 4,890,975 | 16,336,290 | 13,515,828 |
 | 1813–14. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 3,310,617 892,793 400,802 | 11,172,471 5,297,088 759,152 | 7,135,172 4,893,224 1,589,329 |
+| Bengal | 3,310,617 | 11,172,471 | 7,135,172 |
+| Madras | 892,793 | 5,297,088 | 4,893,224 |
+| Bombay | 400,802 | 759,152 | 1,589,329 |
 | Total . . . . | 4,604,212 | 17,228,711 | 13,617,725 |
 | 1814–15. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 7 370,741 3,889,555 488,998 | 11,155,912 5,322,164 819,204 | 9,145,560 5,134,246 1,675,200 |
+| Bengal | 7 370,741 | 11,155,912 | 9,145,560 |
+| Madras | 3,889,555 | 5,322,164 | 5,134,246 |
+| Bombay | 488,998 | 819,204 | 1,675,200 |
 | Total . . . . | 11,749,294 | 17,297,280 | 15,955,006 |
 | 1815–16. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 7,566,439 3,609,668 467,777 | 11,312,896 5,106,107 818,816 | 9,833,062 5,289,476 1,937,430 |
+| Bengal | 7,566,439 | 11,312,896 | 9,833,062 |
+| Madras | 3,609,668 | 5,106,107 | 5,289,476 |
+| Bombay | 467,777 | 818,816 | 1,937,430 |
 | Total . . . . | 11,643,884 | 17,237,819 | 17,059,968 |
 | 1816–17. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 7,875,647 3,826,107 498,102 | 11,856,953 5,360,220 860,405 | 10,200,303 5,201,399 1,902,460 |
+| Bengal | 7,875,647 | 11,856,953 | 10,200,303 |
+| Madras | 3,826,107 | 5,360,220 | 5,201,399 |
+| Bombay | 498,102 | 860,405 | 1,902,460 |
 | Total . . . . | 12,199,856 | 18,077,578 | 17,304,162 |
 | 1817–18. |  |  |  |
-| Bengal . . . . Madras . . . . Bombay . . . . | 7,639,154 3,856,433 868,047 | 11,692,068 5,381,307 1,302,445 | 10,685,154 5,475,254 1,885,786 |
+| Bengal | 7,639,154 | 11,692,068 | 10,685,154 |
+| Madras | 3,856,433 | 5,381,307 | 5,475,254 |
+| Bombay | 868,047 | 1,302,445 | 1,885,786 |
 | Total . . . . | 12,363,634 | 18,375,820 | 18,046,194 |
 | 1818–19. |  |  |  |
 | Bengal . . . . | 8,548,138 | 12,437,385 | 11,925,349 |

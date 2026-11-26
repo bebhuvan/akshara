@@ -8,14 +8,13 @@
 
 <!-- page: 6 | folio: 6 -->
 
-![Map of the Indian Empire prepared for the Imperial Gazetteer of India by J. G. Bartholomew, F.R.G.S., Scale 1:10,000,000 or 157 Miles to an Inch, showing British India, territories permanently administered by the Government of India, Native States and Territories, and railways.](../figures/fig-001_p0006.webp)
-
-The Edinburgh Geographical Institute
-
-John Bartholomew & Co.
+![The Edinburgh Geographical Institute — John Bartholomew & Co.](../figures/fig-001_p0006.webp)
 
 
 <!-- page: 7 | folio: i -->
+
+### THE IMPERIAL GAZETTEER OF INDIA
+
 
 #### THE INDIAN EMPIRE
 
@@ -2237,7 +2236,11 @@ J. F. FLEET
 ### Notes
 
 [^sec-05-fn-001]: (1) For the explanation of the abbreviations used in this chapter, see the list on page 87 f. below.
-[^sec-05-fn-002]: (2) The legend belongs specially to the Jains. As regards this part of it, Professor Kielhorn has shown that the era of 58 <span class="sc">B.C.</span> was known in <span class="sc">A.D.</span> 473 and 532–33 as ‘the reckoning of the Mālavas,’ and in <span class="sc">A.D.</span> 879 as ‘the Mālava time or era,’ and that records of <span class="sc">A.D.</span> 738 and 1169 speak of it as ‘the years of the Mālava lord or lords.’ He has shown that the word *vikrama* is first found coupled with it in a record of <span class="sc">A.D.</span> 842 which speaks of ‘the time called *vikrama*,’ and that we hear for the first time of a prince or king named Vikrama, in connexion with the era, in a poem composed in <span class="sc">A.D.</span> 993, the author of which gives its date by saying that he was writing one thousand and fifty years ‘after king Vikrama had ascended to the pure dwelling of the immortals.’ And he has shown that the first specific mention of the era as having been established by Vikramāditya is in a record of <span class="sc">A.D.</span> 1198. He has pointed out that these facts ‘would seem to indicate that the connexion of Vikrama with the era grew up gradually, or was an innovation which took centuries to become generally adopted.’ And he has put forward the very reasonable opinion that the word *vikrama*, from which the idea of the king Vikrama or Vikramāditya was evolved, most probably came to be connected with the era by the poets, because the years of the reckoning originally began in the autumn, and the autumn was the season for commencing campaigns, and was, in short, the *vikrama-kāla* or ‘war-time.’ On the general question, reference may be made to a note by the present writer, in IA, 1901. 3 f. All the results of epigraphic research emphatically endorse Professor Kielhorn’s conclusions, and point, as far as we can see at present, to the period between <span class="sc">A.D.</span> 842 and 993 as the time during which [p. 5] the first crude rudiments of the full legend were evolved, or at least were brought into something like a substantial story. It has further now become clear that that part of the legend which connects certain alien foes with Vikramāditya is ultimately based upon nothing but a confusion (see JRAS, 1905. 643 ff.; 1906. 161, 176) between Saka, Śaka, as the name of a foreign people, and the epigraphic forms Saka, Śaka, = Sakka, Śakka, Sakya, Śakya, Śākya, a ‘Buddhist.’ That part of it rests, not upon wars between an Indian king and foreign invaders of his country, but upon the rivalry, with varying success, during the first centuries before and after the Christian era, between the Buddhists and the Jains. The reckoning of 58 <span class="sc">B. C.</span> was founded by Kanishka, in the sense that the opening years of it were the years of his reign; it was set going as an era by his successor, who, instead of breaking the reckoning, so started, by introducing another according to his own regnal years, continued it; and it was accepted and perpetuated as an era by the Mālava people, and so was transmitted to posterity by them: see JRAS, 1905. 233; 1906. 979; 1907. 169.
+[^sec-05-fn-002]: (2) The legend belongs specially to the Jains. As regards this part of it, Professor Kielhorn has shown that the era of 58 <span class="sc">B.C.</span> was known in <span class="sc">A.D.</span> 473 and 532–33 as ‘the reckoning of the Mālavas,’ and in <span class="sc">A.D.</span> 879 as ‘the Mālava time or era,’ and that records of <span class="sc">A.D.</span> 738 and 1169 speak of it as ‘the years of the Mālava lord or lords.’ He has shown that the word *vikrama* is first found coupled with it in a record of <span class="sc">A.D.</span> 842 which speaks of ‘the time called *vikrama*,’ and that we hear for the first time of a prince or king named Vikrama, in connexion with the era, in a poem composed in <span class="sc">A.D.</span> 993, the author of which gives its date by saying that he was writing one thousand and fifty years ‘after king Vikrama had ascended to the pure dwelling of the immortals.’ And he has shown that the first specific mention of the era as having been established by Vikramāditya is in a record of <span class="sc">A.D.</span> 1198. He has pointed out that these facts ‘would seem to indicate that the connexion of Vikrama with the era grew up gradually, or was an innovation which took centuries to become generally adopted.’ And he has put forward the very reasonable opinion that the word *vikrama*, from which the idea of the king Vikrama or Vikramāditya was evolved, most probably came to be connected with the era by the poets, because the years of the reckoning originally began in the autumn, and the autumn was the season for commencing campaigns, and was, in short, the *vikrama-kāla* or ‘war-time.’ On the general question, reference may be made to a note by the present writer, in IA, 1901. 3 f. All the results of epigraphic research emphatically endorse Professor Kielhorn’s conclusions, and point, as far as we can see at present, to the period between <span class="sc">A.D.</span> 842 and 993 as the time during which [p. 5] the first crude rudiments of the full legend were evolved, or at least were brought into something like a substantial story.
+
+    It has further now become clear that that part of the legend which connects certain alien foes with Vikramāditya is ultimately based upon nothing but a confusion (see JRAS, 1905. 643 ff.; 1906. 161, 176) between Saka, Śaka, as the name of a foreign people, and the epigraphic forms Saka, Śaka, = Sakka, Śakka, Sakya, Śakya, Śākya, a ‘Buddhist.’ That part of it rests, not upon wars between an Indian king and foreign invaders of his country, but upon the rivalry, with varying success, during the first centuries before and after the Christian era, between the Buddhists and the Jains.
+
+    The reckoning of 58 <span class="sc">B. C.</span> was founded by Kanishka, in the sense that the opening years of it were the years of his reign; it was set going as an era by his successor, who, instead of breaking the reckoning, so started, by introducing another according to his own regnal years, continued it; and it was accepted and perpetuated as an era by the Mālava people, and so was transmitted to posterity by them: see JRAS, 1905. 233; 1906. 979; 1907. 169.
 [^sec-05-fn-003]: (1) In connexion with this matter it may be added that, whereas the Syriac version of the Acts of St. Thomas mentions a certain Gad as a brother of king Gūdnaphar, Gondophernēs (IA, 1904. 4), there has recently been obtained, from the territory to which the Takht-i-Bahaī inscription belongs, an intaglio (see the *Annual Report of the Archaeological Survey of India* for 1902-3. 167) which bears the Kharōshṭhī legend *Gadasa*, ‘of Gada (Gad).’ It would be rash to jump to the conclusion that we have here a souvenir of Gad himself, brother of Gondophernēs. But we have evidence, in this new discovery, that the name Gad is at least not purely legendary.
 [^sec-05-fn-004]: (1) Sachau’s translation of Albērūnī’s India, 2. 10.
 [^sec-05-fn-005]: (2) See EC, 2, Inscriptions at Śravaṇa-Beḷgoḷa, introd. 3 ff., 8 ff., 25 f., 61.
@@ -2688,7 +2691,7 @@ But, during the reign of Jahāngīr, the European artists and craftsmen then in 
 
 The Florentine mosaic, a revival of the ancient *opus sectile*, first appears in the Fabbrica Ducale built by Ferdinand I, Grand Duke of Tuscany, in 1558. It is composed of thin sections of hard stones (*pietra dura*), such as jasper, carnelian, and agate, cut to the shapes required, and neatly bedded in the masonry with cement. This style of mosaic, when executed by capable workmen, can be applied in the most various patterns, and is of an extremely decorative character.
 
-The earliest imitation in India of the Florentine work is to be seen in the bold floral mosaics on Akbar’s mausoleum at Sikandra near Agra, executed about <span class="sc">A.D.</span> 1613. But the first closely accurate copy of Italian *pietra dura* mosaic is ten years later in date and occurs in the Gol Mahāl, a domed pavilion in the Jagmandir palace at Udaipur. Shāh Jahān, while still known as Prince Khurram and in rebellion against his father, resided as a fugitive in this very building a year or two after the execution of the mosaics, and thus probably acquired his strong liking for the Italian mode of decoration. All travellers who have visited Agra and Delhi are familiar with the exquisite *pietra dura* decorations of the Tāj, of the tomb of Itimād-ud-daula, and of the royal palaces erected during Shāh Jahān’s reign. Practitioners of the art settled in Agra, where it flourished for a considerable time as long as it was supported by court patronage. But when the imperial court dwindled to a shadow, the arts which depended upon it dwindled also, and at the beginning of the nineteenth century the Agra craftsmen had almost forgotten their ancient skill in *pietra dura*. The exertions of Dr. Murray, Inspector-General of Hospitals about 1830, revived the art, and the now numerous cold-season visitors to Agra buy enough to keep a moderate number of workmen engaged in producing commonplace articles. Highclass [p. 128] is necessarily so expensive that the demand for it is very small. The localization of this pretty handicraft in Agra is a good example of the benefits which the Indian arts have so often gained by intercourse with outside nations and the importation of foreign ideas and designs.
+The earliest imitation in India of the Florentine work is to be seen in the bold floral mosaics on Akbar’s mausoleum at Sikandra near Agra, executed about <span class="sc">A.D.</span> 1613. But the first closely accurate copy of Italian *pietra dura* mosaic is ten years later in date and occurs in the Gol Mahāl, a domed pavilion in the Jagmandir palace at Udaipur. Shāh Jahān, while still known as Prince Khurram and in rebellion against his father, resided as a fugitive in this very building a year or two after the execution of the mosaics, and thus probably acquired his strong liking for the Italian mode of decoration. All travellers who have visited Agra and Delhi are familiar with the exquisite *pietra dura* decorations of the Tāj, of the tomb of Itimād-ud-daula, and of the royal palaces erected during Shāh Jahān’s reign. Practitioners of the art settled in Agra, where it flourished for a considerable time as long as it was supported by court patronage. But when the imperial court dwindled to a shadow, the arts which depended upon it dwindled also, and at the beginning of the nineteenth century the Agra craftsmen had almost forgotten their ancient skill in *pietra dura*. The exertions of Dr. Murray, Inspector-General of Hospitals about 1830, revived the art, and the now numerous cold-season visitors to Agra buy enough to keep a moderate number of workmen engaged in producing commonplace articles. High-class [p. 128] is necessarily so expensive that the demand for it is very small. The localization of this pretty handicraft in Agra is a good example of the benefits which the Indian arts have so often gained by intercourse with outside nations and the importation of foreign ideas and designs.
 
 > _[Margin: Tomb of Jahāngīr at Lahore.]_
 
@@ -4457,7 +4460,7 @@ It has been shown above (p. 245) that Prākrit is used to a considerable extent 
 
 > _[Margin: Prākrit Kāvyas.]_
 
-The Kāvya type is represented by two extant Prākrit poems. The older of the two is entitled *Rāvaṇa-vaha* (Skt. *Rāvaṇavadha*), [p. 268] ‘Death of Rāvaṇa,’ or *Dahamuha-vaha* (Skt. *Daśa-mukha-vadha*), ‘Death of the Ten-headed (Rāvaṇa),’ which relates the story of Rāma from the point when the monkey army set out for Laṅkā (p. 237) down to the slaughter of Rāvaṇa. The poem is also known under the Sanskrit title of *Setu-bandha*, ‘The Building of the Bridge.’ The Pravarasena to whom it is ascribed was probably a king of Kashmīr of the sixth century, the patron of the real author, who composed the poem to commemorate the construction of a bridge over the Vitastā (Jhelum) by his royal master. The other Prākrit Kāvya is the *Gauḍa-vaha*, which was composed by Bappairāo (Skt. Vākpati-rāja) about <span class="sc">A.D.</span> 750, to signalize the victory of his patron, Yaśovarman of Kanauj, over a Gauḍa king.
+The Kāvya type is represented by two extant Prākrit poems. The older of the two is entitled *Rāvaṇa-vaha* (Skt. *Rāvaṇa-vadha*), [p. 268] ‘Death of Rāvaṇa,’ or *Dahamuha-vaha* (Skt. *Daśa-mukha-vadha*), ‘Death of the Ten-headed (Rāvaṇa),’ which relates the story of Rāma from the point when the monkey army set out for Laṅkā (p. 237) down to the slaughter of Rāvaṇa. The poem is also known under the Sanskrit title of *Setu-bandha*, ‘The Building of the Bridge.’ The Pravarasena to whom it is ascribed was probably a king of Kashmīr of the sixth century, the patron of the real author, who composed the poem to commemorate the construction of a bridge over the Vitastā (Jhelum) by his royal master. The other Prākrit Kāvya is the *Gauḍa-vaha*, which was composed by Bappairāo (Skt. Vākpati-rāja) about <span class="sc">A.D.</span> 750, to signalize the victory of his patron, Yaśovarman of Kanauj, over a Gauḍa king.
 
 A. A. MACDONELL.
 
@@ -5308,7 +5311,7 @@ It seems that, on his return northwards from Kāñchī, Sōmēsvara passed Siddh
 
 His son, Sōmēsvara II, reigned for a short time, and then [p. 337] was deposed by a brother, Vikramāditya VI, in circumstances that must be recorded. Vikramāditya had been the leader of his father’s forces in their victorious campaigns. At his brother’s accession Vikramāditya submitted to him, but quarrels soon arose, and increased to such a pitch as to lead to civil war, in the course of which Vikramāditya defeated the army of his brother. Afterwards he seems to have gone about fighting on his own account. Jayakēsi I, chief of the Goa Kādambas, submitted to him, and so did the Kēralas of Malabar, while he arranged a truce with the Chōlas after suffering a defeat at their hands at Kudal-Sangama. A Chōla revolution followed, and in the end the Eastern Chālukyan king Rājēndra seized the Chōla throne in the manner already stated. This was in <span class="sc">a.d.</span> 1070. Vikramāditya, who had married a Chōla princess, had attempted to forestall Rājēndra by placing on the Chōla throne his own wife’s brother, but as soon as his back was turned Rājēndra had seized upon the throne. Vikramāditya therefore marched on Kāñchī, but was attacked in rear, at Rājēndra’s suggestion, by king Sōmēsvara. In the battle which ensued Vikramāditya was completely victorious, and he deposed Sōmēsvara and seized for himself the throne of the Chālukyas. He seems to have been actually crowned in <span class="sc">a.d.</span> 1076.
 
-Vikramāditya had a long and comparatively peaceful reign. He was liberal, tolerant, and a patron of learning. Bilhana flourished in his reign, and was made chief Pandit at his court. Vijñānēsvara, author of the celebrated legal work, the *Mitāksharā*, was patronized by him. In 1095 he gave a grant to a Buddhist *vihāra*, one of the last acts of royal favour accorded to Buddhism, then in its decay. Bilhana states that the king’s brother, Jaya-simha, viceroy of Banavāsi, rebelled, and was defeated in a pitched battle. But the most important political event of his reign was the rise of the Hoysalas. The Ganga dynasty of Talakād, perpetually attacked by the Chōlas, Pāndyas, and others, had by this time been failing in strength for some years; and about the middle of the eleventh century the Hoysalas, a feudatory family residing at Dorasamudra, the modern Halebīd in Mysore, sprang into power. They seem to have been constantly at feud with the Kādambas of Banavāsi and Hāngal, whom after a time they dispossessed. The Hoysala chief Vinayāditya was a noted warrior, and his son fought in the north (probably under the Chālukyas) against Bhōja of Mālwā. In the reign of Vikramāditya the Hoysalas suddenly attacked the southwestern [p. 338] territories of the Chālukyas, ruled by a certain Acha, or Achugi, of the Sinda family of Yelburga, by whom they were defeated. Acha also defeated a rising of the Kādambas of Goa, whose capital he seized and burned, and further crushed an attack by Bhōja, one of the Silāhāra feudatories of Karād, about the year 1117. We have no means of knowing what it was that gave rise to these attempts on the part of the great vassal families, but they must have caused the king considerable trouble. Ballāla I, son of Vinayāditya, was possessed of the headship of the Hoysalas in 1103, and he made war on and overcame the Sāntara king of Humcha in Mysore. His successor, Vishnuvardhana, *alias* Bittiga, seized Talakād, the Ganga capital, and put an end for ever to the Ganga dynasty, which thereupon disappears from history. The Chōlas, now in great power, being amalgamated with the Eastern Chālukyas, held for a time at least the Kurnool provinces of the Western Chālukyas during this reign, for there are inscriptions extant which prove Chōla sovereignty over that tract in A.D. 1108 and 1123 (*Kurnool District Manual*, p. 21). The occupation, however, does not seem to have been prolonged.
+Vikramāditya had a long and comparatively peaceful reign. He was liberal, tolerant, and a patron of learning. Bilhana flourished in his reign, and was made chief Pandit at his court. Vijñānēsvara, author of the celebrated legal work, the *Mitāksharā*, was patronized by him. In 1095 he gave a grant to a Buddhist *vihāra*, one of the last acts of royal favour accorded to Buddhism, then in its decay. Bilhana states that the king’s brother, Jaya-simha, viceroy of Banavāsi, rebelled, and was defeated in a pitched battle. But the most important political event of his reign was the rise of the Hoysalas. The Ganga dynasty of Talakād, perpetually attacked by the Chōlas, Pāndyas, and others, had by this time been failing in strength for some years; and about the middle of the eleventh century the Hoysalas, a feudatory family residing at Dorasamudra, the modern Halebīd in Mysore, sprang into power. They seem to have been constantly at feud with the Kādambas of Banavāsi and Hāngal, whom after a time they dispossessed. The Hoysala chief Vinayāditya was a noted warrior, and his son fought in the north (probably under the Chālukyas) against Bhōja of Mālwā. In the reign of Vikramāditya the Hoysalas suddenly attacked the south-western [p. 338] territories of the Chālukyas, ruled by a certain Acha, or Achugi, of the Sinda family of Yelburga, by whom they were defeated. Acha also defeated a rising of the Kādambas of Goa, whose capital he seized and burned, and further crushed an attack by Bhōja, one of the Silāhāra feudatories of Karād, about the year 1117. We have no means of knowing what it was that gave rise to these attempts on the part of the great vassal families, but they must have caused the king considerable trouble. Ballāla I, son of Vinayāditya, was possessed of the headship of the Hoysalas in 1103, and he made war on and overcame the Sāntara king of Humcha in Mysore. His successor, Vishnuvardhana, *alias* Bittiga, seized Talakād, the Ganga capital, and put an end for ever to the Ganga dynasty, which thereupon disappears from history. The Chōlas, now in great power, being amalgamated with the Eastern Chālukyas, held for a time at least the Kurnool provinces of the Western Chālukyas during this reign, for there are inscriptions extant which prove Chōla sovereignty over that tract in A.D. 1108 and 1123 (*Kurnool District Manual*, p. 21). The occupation, however, does not seem to have been prolonged.
 
 Sōmēsvara III succeeded Vikramāditya in 1126 on the Chālukyan throne. His reign was peaceful, and so was that of his successor, Jagadēkamalla II (1138–49), except for attacks by the Hoysalas and Kadambas, which were successfully met by the feudatory Sinda chief, Permādi I, who pursued the invading Hoysalas even as far as their capital, Dorasamudra. But the power of the Chālukyas now began to decline in spite of these successes. Rāmānuja, the great Vaishnava reformer, belongs to this period, though his exact date is doubtful. One Hindu author gives it as A.D. 1127–8.
 
@@ -5568,21 +5571,21 @@ At his death (July, 1489), Bahlol left a considerable kingdom, extending from De
 #### <span class="sc">TABLES OF DELHI KINGS, 1206–1526</span>
 
 
-![Genealogical tree diagram of the Muʿizzī Slave Kings of Delhi (1206–90), from Qutb-ud-dīn, Ībak (d. 1210) to Muʿizz-ud-dīn, Kaiqubād (killed Oct. 14, 1290).](../figures/fig-002_p0410.webp)
+![Table I Muʿizzī Slave Kings, 1206–90](../figures/fig-002_p0410.webp)
 
 
-![Genealogical tree diagram of the Khaljī Kings of Delhi (1290–1320), from Qāim Khān and Jalāl-ud-dīn, Fīroz Shāh (d. July 21, 1296) to Nāsir-ud-dīn Khusrū (d. c. Oct., 1320).](../figures/fig-003_p0410.webp)
+![Table II Khaljī Kings of Delhi, 1290–1320](../figures/fig-003_p0410.webp)
 
 
 <!-- page: 411 | folio: 369 -->
 
-![Genealogical tree of the Tughlaq Shāhī Kings of Delhi (1320–1413) from Ghiyās-ud-dīn Tughlaq and Rajab through Mahmūd Shāh.](../figures/fig-004_p0411.webp)
+![Table III Tughlaq Shāhī Kings of Delhi, 1320–1413](../figures/fig-004_p0411.webp)
 
 
-![Genealogical tree of the Saiyid Kings of Delhi (1414–51) from Khizr Khān to Alā-ud-dīn, Alim Shāh.](../figures/fig-005_p0411.webp)
+![Table IV The Saiyid Kings of Delhi, 1414–51](../figures/fig-005_p0411.webp)
 
 
-![Genealogical tree of the Lodī Kings of Delhi (1451–1526): I. Bahlol, Lodī, II. Nizām Khān, Sikandar, Lodī, and III. Ibrāhīm, Lodī.](../figures/fig-006_p0411.webp)
+![Table V The Lodī Kings of Delhi, 1451–1526](../figures/fig-006_p0411.webp)
 
 
 #### § B. *Minor Dynasties in Northern India* (1206–1591)
@@ -5650,7 +5653,7 @@ Gujarāt, one of the richest and most productive provinces of India, was first i
 The reign (1511–26) of his son and successor was chiefly remarkable for an attempt to protect Mālwā against the Rānā of Mewār. The Rānā retaliated by an invasion of Gujarāt ; the king of Gujarāt replied by besieging the Rānā in Mandasor. The short and inglorious reigns of two sons followed (1526), when the throne passed to the third son, Bahādur. This king fully maintained the warlike traditions of his line ; he joined a confederacy against the king of Ahmadnagar in the Deccan, of which the command was given to Bahādur, and his supremacy thereby acknowledged by Khāndesh and Berār. This campaign was successful. Mālwā was the scene of his next exploit ; the king of that country having intrigued against Gujarāt and also attacked Mewār, Bahādur and the Rānā allied themselves to crush him. The king of Mālwā was captured at Māndū, his capital, and in the end was put to death. Mālwā was annexed (February, 1531) to Gujarāt. While Bahādur was absent, Diu had undergone an attack from the Portuguese, which the garrison had succeeded in repulsing (February 16, 1531). Next came the quarrel with the emperor Humāyūn. Bahādur had espoused the cause of the dispossessed Lodī princes, and furnished them with means to attack the Mughals. Humāyūn marched against Bahādur, then engaged on a siege of Chitor ; but before the armies could meet, Bahādur had retired to an entrenched camp at Mandasor in Mālwā. Finding this position untenable, he then fled to Māndū, thence to Chāmpāner and Cambay. The day before Humāyūn reached Cambay, Bahādur had continued his flight to Diu in Kāthiāwār. Humāyūn being recalled to Hindustān by trouble then brewing there, his hold of Gujarāt was so weakened that his officers evacuated it, and Bahādur recovered his kingdom. Shortly afterwards, he quarrelled with the Portuguese about their encroachments at Diu. In the course of the negotiations, Bahādur went on board the admiral’s ship, and in a scuffle which ensued as he was leaving, he was killed (February 14, 1537). For nearly forty years the kingdom survived, and four more kings reigned over it, amid a scene of continuous war, confusion, and tumult. It finally came to an end in September, 1572, when Akbar [p. 378] marched from Delhi to Ahmadābād, and the last king formally resigned his crown to that Mughal emperor. He escaped in 1583 and recovered his country, only to be expelled again in the following year. Eight years of guerrilla warfare followed, until his final capture in 1592–3, when he committed suicide on his way to the Mughal general’s camp.
 
 
-![Genealogical table of the Kings of Gujarāt, 1394–1572, from Wajih-ul-mulk through XV. Muzaffar Shāh (III).](../figures/fig-008_p0420.webp)
+![Table VII — Kings of Gujarāt, 1394–1572](../figures/fig-008_p0420.webp)
 
 
 <!-- page: 421 | folio: 379 -->
@@ -5663,7 +5666,7 @@ Humāyūn in the year 1535 made a temporary conquest of the province. The next y
 
 <!-- page: 423 | folio: 381 -->
 
-![Genealogical table of the Kings of Mālwā, 1401–1564, tracing the Ghorī and Khaljī dynasties from Dilāwar Khān (d. 1405) through Mahmūd Khaljī and Azam Humāyūn (d. 1531) to Bāyazīd, Sūr (1564).](../figures/fig-009_p0423.webp)
+![Table VIII Kings of Mālwā, 1401–1564](../figures/fig-009_p0423.webp)
 
 
 ##### § C. *Southern India to 1526, with names of kings to 1687*
@@ -5681,7 +5684,7 @@ The kingdom of the Bahmanīs reached its fullest extent almost at once, in the e
 
 <!-- page: 427 | folio: 385 -->
 
-![[Names not in the line of succession are omitted. The table is founded on Major W. Haig’s ‘Notes,’ J. A. S. B., pt. i, vol. lxxiii (1904), Extra No. p. 15.]](../figures/fig-010_p0427.webp)
+![Table IX — Bahmanī Kings at Gulbarga and Bīdar, 1347–1526 — [Names not in the line of succession are omitted. The table is founded on Major W. Haig’s ‘Notes,’ J. A. S. B., pt. i, vol. lxxiii (1904), Extra No. p. 15.]](../figures/fig-010_p0427.webp)
 
 > _[Margin: Ādil Shāhīs of Bījāpur, 1490–1686]_
 
@@ -5697,7 +5700,7 @@ The founder of the Ādil Shāhī dynasty, Yūsuf, entitled Ādil Khān, was a Tu
 The history of the Nizām Shāhīs is much like that of the Ādil Shāhīs—consisting chiefly of wars and rumours of wars, intrigues of generals and courtiers, and disputed successions. The founder had been governor of Junnar under the Bahmanīs. When his father, a converted Brāhman who had risen to be minister, was murdered by the king’s order, the son proclaimed himself independent. He founded the city of Ahmadnagar, built a fort there, and made the place his capital. On his northern frontier he captured the fortress of Daulatābād, and along with it a part of Khāndesh. The next king was involved for some time in a war of succession ; as soon as he had freed himself from this entanglement, he inflicted defeats on Berār and Khāndesh. Bahādur, king of Gujarāt, intervened, and in the end, having been proclaimed at Ahmadnagar, forced its king to admit his supremacy. In the remaining years of the reign there were further wars with Bijāpur. On the second king’s death the succession was again disputed. Fresh war with Bijāpur broke out, in the course of which the Nizām Shāhī king was besieged in his capital. Peace was made only to be broken. Golconda then offered itself as an ally against Bijāpur and Vijayanagar. The campaign was disastrous, Ahmadnagar was besieged a second time, and the king forced to sue for peace. Tired of fighting with each other, the Muhammadan rulers now entered into a confederacy against the Hindu power of Vijayanagar, which was successfully attacked and crushed. In the next reign, during the regency of the queen-mother, the state was once more involved in war with Bijāpur. Next, these two states united against their northern neighbour of Berār. By this time the king had set aside the queen-mother and had assumed control himself. He invaded and conquered Berār, but, yielding to a protest from the Mughal emperor, relinquished his conquest. In 1588 the king, whose epithet was ‘the Madman,’ was murdered by his son ; confusion reigned, and assassination was rife. In the end, a rival prince, the parricide’s cousin, replaced him, only to be superseded two years afterwards by his own father, Burhān. This king endeavoured to recover the territory which the Portuguese had occupied, and also engaged in other wars. His son and successor was killed (1595) in a battle fought against the Bijāpur army. The minister set up a usurper, who was soon deposed in favour of his predecessor’s son. The new king had only reigned about a year when Akbar sent an army against Ahmadnagar, but it was repulsed by the vigorous defence of the celebrated queen, Chānd Bībī (1596). The capital fell, however, [p. 389] upon a second attempt (July, 1600), the king being made captive and sent to the fortress of Gwalior. In 1610 the chief minister, an Abyssinian called Malik ‘Ambar, freed the territory from the Mughals and set up the last king’s son. In 1612 the emperor Jahāngīr failed in an attempt to oust Malik ‘Ambar. This great minister died about 1626, and his son, who succeeded to power, having quarrelled with the king, strangled him (about 1631). Meanwhile, early in the reign of Shāhjahān (1627– 58), one of his generals, Khān Jahān, rose in revolt, and obtained an ally in the king of Ahmadnagar ; but the attempt to throw off the Mughal yoke did not succeed. Husain, a child of ten, had been made king by the son of Malik ‘Ambar ; but in 1635 this noble was divested of all power by the Mughal emperor, and the boy-king sent to prison at Gwalior. Shāhjī, Bhonsla, the father of Sivajī, attempted to revive the kingdom under another boy-king. This youth, too, was taken and sent to Gwalior ; and in 1637 the Nizām Shāhī kingdom was finally absorbed into the Mughal empire.
 
 
-![Genealogical table of the Nizām Shāhī Kings of Ahmadnagar, 1490–1637, tracing descent from Nizām-ul-mulk, Bahrī, through I. Ahmad Shāh (d. 1508) to XII. Husain Shāh (1635) and another boy prince set up by Shāhjī, Bhonsla (1637).](../figures/fig-012_p0431.webp)
+![Table XI Nizām Shāhī Kings of Ahmadnagar, 1490–1637](../figures/fig-012_p0431.webp)
 
 
 <!-- page: 432 | folio: 390 -->
@@ -5706,7 +5709,7 @@ The history of the Nizām Shāhīs is much like that of the Ādil Shāhīs—con
 The Qutb Shāhī kingdom was founded by a Turk in the Bahmanī service, who had become governor of their eastern province of Golconda. In 1512, after having long held that province, he declared himself independent and ruled the country as king for thirty-one years. His son succeeded him, and, during a reign of seven years, carried on war against Bijāpur with varying success. Ibrāhīm, another son, followed, and during his long reign of over thirty years the usual warfare continued. This king was one of the allies who destroyed Vijayanagar, the last Hindu kingdom of the south. Another long reign carries us on to 1612; it was during this period that the city of Hyderābād, the present capital of the Nizām, was founded a few miles from Golconda. A nephew succeeded in 1612. In his reign (1635) the Mughal emperor, Shāhjahān, forced the Qutb Shāhīs to pay tribute. Twenty years afterwards, Aurangzeb, then governor of the Mughal provinces, won over by his intrigues Mīr Jumla, the Qutb Shāhī minister, and began to undermine the dynasty. Events in Hindustān called the prince away (1657) before he could carry out his project. But the Golconda state was already in decay; Sivajī, the Marāthā, levied tribute from it in 1667; Diler Khān, the Mughal general, invaded it in 1678; and at length, during 1685 to 1687, the emperor Aurangzeb accomplished his life-long purpose of extinguishing all the independent states of India. Hyderābād-Golconda was taken in September, 1687, and the Qutb Shāhī kingdom came to an end.
 
 
-![Genealogical tree of the Qutb Shāhī Kings of Golconda (Hyderābād), 1512–1687, from I. Sultān Qulī (d. Nov. 21, 1543) to VIII. Abu'l Hasan (Hyderābād taken Sept. 21, 1687; king died in captivity about 1704).](../figures/fig-013_p0432.webp)
+![Table XII — Qutb Shāhī Kings of Golconda (Hyderābād), 1512–1687](../figures/fig-013_p0432.webp)
 
 
 <!-- page: 433 | folio: 391 -->
@@ -5715,14 +5718,14 @@ The Qutb Shāhī kingdom was founded by a Turk in the Bahmanī service, who had 
 When the other generals and governors threw off the Bahmanī yoke, the governor of Berār, Imād-ul-mulk, a converted Hindu from the Kanara coast, followed their example (1484); when he died, he was succeeded by his eldest son, who maintained his position and reigned for about twenty-three years. His son, Daryā Shāh, had a more peaceable reign than usual, and after about thirty-four years was succeeded by an infant son. The regent set aside this boy after a few years, and assumed power in his own name. At length the Nizām Shāhī king of Ahmadnagar defeated the usurper about 1574–5, and, setting both him and the legitimate king aside, annexed the territory to his own dominions.
 
 
-![Genealogical tree of the Imād Shāhī Kings of Ellichpur: I. Fathullah, Imād-ul-mulk (Hindu convert), d. 1504; II. Alā-ud-dīn (capital, Gāwīl), d. c. 1527–8; III. Daryā, d. c. 1562; IV. Burhān (infant), deposed by Tufāl Khān, c. 1568; followed by a horizontal rule and note: Tufāl Khān usurps the throne; defeated and imprisoned by king of Ahmadnagar, 1574–5.](../figures/fig-014_p0433.webp)
+![Table XIII Imād Shāhī Kings of Ellichpur, 1484–1574-5](../figures/fig-014_p0433.webp)
 
 > _[Margin: Barīd Shāhī, of Bīdar, 1492–1609.]_
 
 Qāsim, Barīd, a Turkish officer of the Bahmanī dynasty, had risen to high office at the capital during the time when that kingdom was slowly decaying. Following the example of the governors of the outlying provinces, he appropriated the last strip of territory adjoining the capital (1492), and limited the Bahmanī king’s power to the citadel of Bīdar. The country passed from father to son for four generations. The last of these rulers was expelled by a distant relation, who continued to rule for some time after 1609, but it is not known exactly when or how his reign ended.
 
 
-![Genealogical tree of the Barīd Shāhī Kings of Bīdar: I. Qāsim, Barīd, d. 1504; II. Amīr, d. 1539; III. Alī, d. 1582; branching to IV. Ibrāhīm, d. 1589 (with dotted line to VII. Amīr) and V. Qāsim, d. 1592 (with solid line to VI. Alī, expelled c. 1599).](../figures/fig-015_p0433.webp)
+![Table XIV Barīd Shāhī Kings of Bīdar, 1492–1609](../figures/fig-015_p0433.webp)
 
 
 <!-- page: 434 | folio: 392 -->
@@ -5883,10 +5886,10 @@ W. IRVINE.
 
 <!-- page: 455 | folio: 413 -->
 
-![Genealogical tree of the Sūr Emperors (1540–55), descending from Ibrāhīm Khān through Hasan Khān, Ghāzī Khān, and an unnamed son.](../figures/fig-017_p0455.webp)
+![TABLE XVI Sūr Emperors, 1540–55](../figures/fig-017_p0455.webp)
 
 
-![Genealogical tree of the Chaghatae Gurgānīs, or Mughal Emperors (1526–1803), descending from I. Zahīr-ud-dīn, Bābar (d. 1530) to Bahādur Shāh (d. 1862).](../figures/fig-018_p0455.webp)
+![TABLE XVII Chaghatae Gurgānīs, or Mughal Emperors, 1526–1803](../figures/fig-018_p0455.webp)
 
 
 ### Notes
@@ -5942,7 +5945,7 @@ Another offshoot of the religion taught by Kabīr was the Sikh faith preached by
 
 The three bodies of literature which have just been described, though derived from Rāmānuja’s teaching, have little in common with it. Rāma was considered as identical with, not as an incarnation of, the Supreme Deity. The religions on which they were founded wanted that touch of personal love, directed to a gracious individual, for which human nature craves. It followed that, though attracting a few choice souls, they could be but somewhat barren systems of morality to the masses of their respective adherents. Far different was it with the literature which we now proceed to discuss. Seventh in [p. 418] descent from Rāmānanda, in succession of master and pupil, came Tulsī Dās (1532-1623). The first thing to be noted about him is his success. India has had many reformers, but none, except perhaps the Buddha, has been adopted as a religious teacher by so many professed followers. Kabīr’s and Dādū’s adherents may be numbered by hundreds of thousands, but to-day at least ninety millions of the people of Upper India acknowledge Tulsī Dās as their guide. One of the greatest reformers and one of the greatest poets that India has produced—to the present writer he is, in both characters, *the greatest*—he disdained to found a church, and contented himself with telling his fellow countrymen how to work out each his own salvation amongst his own kith and kin. All forms of religion, all beliefs and all forms of non-belief in the ordinary polytheism of the many Hindu cults, were to him but so many accidents beside the great truths on which he was never weary of laying stress: namely, that there is one Supreme Being; that sin is hateful, not because it defiles the sinner, but because it is incompatible with that Supreme Being; that man is by nature infinitely sinful and unworthy of salvation; that, nevertheless, the Supreme Being, in his infinite mercy, became incarnate in the person of Rāma to relieve the world of sin; that this Rāma has returned to heaven, and is there, as Rāma, now; that mankind has therefore a God who is not only infinitely merciful but who knows by actual experience how great are man’s infirmities and temptations, and who, though himself incapable of sin, is ever ready to extend his help to the sinful being that calls upon him. On all this follows, not independently but as a corollary, the duty which is owed to one’s neighbour, and the doctrine of the universal brotherhood of man. Most of his teaching was learned by Tulsī Dās from his predecessors; but, so far as the present writer’s knowledge goes, two things were first enunciated by him—the idea of the nature of sin, and that of the celestial humanity of Rāma; and these, as in the case of Kabīr, he almost certainly adopted from the Nestorians. He was the first Hindu to teach that God was δυνάμενος συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, a belief which is usually considered to be peculiar to Christianity.
 
-These lessons Tulsī Dās conveyed through the medium of some of the most beautiful poetry which has found birth in Asia. In Eastern Hindī he had at his disposal a language flexible in its form, copious in its vocabulary, and musical in its tones, which he wielded with a master’s hand. His best known work, the religious epic known as the *Rāma-charitamānasa*, [p. 419] the ‘Lake of the Gestes of Rāma,’ is no mere translation of Vālmīki’s Sanskrit *Rāmāyaṇa* dealing with the same course of events, but is quite independent in its treatment. As a work of art, it has for European readers its prolixities and episodes which grate against Occidental tastes, but no one can read it in the original without being impressed by it as the work of a great genius. Its style varies with each subject. There is the deep pathos of the scene in which is described Rāma’s farewell to his mother ; the rugged language describing the horrors of the battle-field—a torrent of harsh sounds, clashing against each other, and reverberating from phrase to phrase ; and, as occasion requires, a sententious, aphoristic method of narrative, teeming with similes drawn from nature herself and not from the traditions of the schools. His characters, too, live and move with all the dignity of an heroic age. Each is a real being, with a well-defined personality. Rāma, perhaps too perfect to enlist all our sympathies ; his impetuous and loving brother Lakshmaṇa ; the tender, constant Bharata ; Sītā, the ideal of an Indian wife and mother ; Rāvaṇa, destined to failure, and fighting with all his demon force against his destiny—the Satan of the epic—all these are characters as life-like and distinct as any in Occidental literature. Tulsī Dās was not a mere ascetic. He was a man that had lived. He had been a householder (a word of much meaning in India), and had experienced the pleasures of a wedded life, the joy of clasping an infant son to his bosom, and the sorrow of losing that son ere he had attained his prime. He appealed, not to scholars, but to the voiceless millions of his native country—the people that he knew. He had lived with them, begged from them, prayed with them, taught them, shared their yearnings, proved their happiness. He had wandered far and wide, and had contracted intimate friendships with the great men of his time and his country. No wonder that such a man, who was also a rare poet and an enthusiastic reformer, at once sane and clean, was taken for its own by the multitude which lived under the sway of nature and in daily contact with her secrets. ‘Here,’ cried they, ‘is a great soul that knows us. Let us choose him for our guide.’
+These lessons Tulsī Dās conveyed through the medium of some of the most beautiful poetry which has found birth in Asia. In Eastern Hindī he had at his disposal a language flexible in its form, copious in its vocabulary, and musical in its tones, which he wielded with a master’s hand. His best known work, the religious epic known as the *Rāma-charita-mānasa*, [p. 419] the ‘Lake of the Gestes of Rāma,’ is no mere translation of Vālmīki’s Sanskrit *Rāmāyaṇa* dealing with the same course of events, but is quite independent in its treatment. As a work of art, it has for European readers its prolixities and episodes which grate against Occidental tastes, but no one can read it in the original without being impressed by it as the work of a great genius. Its style varies with each subject. There is the deep pathos of the scene in which is described Rāma’s farewell to his mother ; the rugged language describing the horrors of the battle-field—a torrent of harsh sounds, clashing against each other, and reverberating from phrase to phrase ; and, as occasion requires, a sententious, aphoristic method of narrative, teeming with similes drawn from nature herself and not from the traditions of the schools. His characters, too, live and move with all the dignity of an heroic age. Each is a real being, with a well-defined personality. Rāma, perhaps too perfect to enlist all our sympathies ; his impetuous and loving brother Lakshmaṇa ; the tender, constant Bharata ; Sītā, the ideal of an Indian wife and mother ; Rāvaṇa, destined to failure, and fighting with all his demon force against his destiny—the Satan of the epic—all these are characters as life-like and distinct as any in Occidental literature. Tulsī Dās was not a mere ascetic. He was a man that had lived. He had been a householder (a word of much meaning in India), and had experienced the pleasures of a wedded life, the joy of clasping an infant son to his bosom, and the sorrow of losing that son ere he had attained his prime. He appealed, not to scholars, but to the voiceless millions of his native country—the people that he knew. He had lived with them, begged from them, prayed with them, taught them, shared their yearnings, proved their happiness. He had wandered far and wide, and had contracted intimate friendships with the great men of his time and his country. No wonder that such a man, who was also a rare poet and an enthusiastic reformer, at once sane and clean, was taken for its own by the multitude which lived under the sway of nature and in daily contact with her secrets. ‘Here,’ cried they, ‘is a great soul that knows us. Let us choose him for our guide.’
 
 Besides his epic, eleven other works can, with some certainty, be attributed to Tulsī Dās. Most of them cover either the same ground or a portion of it. Such are the *Gītāvalī* (a sort of Gospel of the Infant Rāma), and the *Kavittāvalī*. Of a purely religious description is the *Vinayapattrikā*, ‘The Petition,’ a volume of prayers addressed to [p. 420] Rāma when the poet was in great mental distress. As he put it :—
 
@@ -6122,23 +6125,6 @@ Tradition refers the commencement of literature in the Tamiḷ country to the Br
 After the Jain period we have the great Śaiva movement of the thirteenth and fourteenth centuries, to which we owe the hymnologies already described. Then came two centuries of literary inactivity, followed at the end of the sixteenth century by a revival headed by the poet-king Vallabha-dēva. This was a period of translations and imitations of Sanskrit works, none of much value. In the seventeenth century there arose an anti-Brāhmanical Tamiḷ literature known as the school of the Śittar (or Siddhas). The Śittar were a Tamiḷ sect, who, while retaining Śiva as the name of the one God, rejected everything in Śiva-worship inconsistent with pure theism. They were quietists in religion and alchemists in science. Their mystical poems, especially the *Śiva-vākyam*, are said to be of singular beauty, and some scholars have detected in them traces of Christian influence[^sec-15-fn-006].
 
 
-##### <span class="sc">THE SHEPHERD OF THE WORLDS</span>
-
-> How many various flowers  
-> Did I, in bygone hours,  
-> Cull for the gods, and in their honour strew ;  
-> In vain how many a prayer  
-> I breathed into the air,  
-> And made, with many forms, obeisance due.
-
-> Beating my breast, aloud  
-> How oft I called the crowd  
-> To drag the village car ; how oft I stray’d,  
-> In manhood’s prime, to lave  
-> Sunwards the flowing wave,  
-> And, circling Śaiva fanes, my homage paid.
-
-
 <!-- page: 478 | folio: 436 -->
 The Tamiḻ writers of the eighteenth and nineteenth centuries are classified as modern. The most important are Tāyumānavan, the author of 1,453 pantheistic stanzas which have a high reputation, and the Italian Jesuit Beschi (d. 1742). Beschi’s Tamiḻ style is considered irreproachable. His principal work in that language is the *Tēmbāvaṇi*, or ‘Unfading Garland.’ It is a mixture of old Tamiḻ legends with Italian reminiscences, the leading one being an episode from Tasso’s *Gerusalemme Liberata*, in which St. Joseph is made the hero [^sec-15-fn-007].
 
@@ -6148,39 +6134,7 @@ The oldest Malayāḷam literature imitated Tamiḻ poetry, but it soon fell und
 
 > _[Margin: Kanarese literature.]_
 
-Kanarese literature originated, like Tamiḻ literature, in the labours of the Jains. It is of considerable extent, and has existed for at least a thousand years. Nearly all the works which have been described seem to be either translations from or imitations
-
-> But they, the truly wise,  
-> Who know and realize  
-> Where dwells the Shepherd of the Worlds, will ne’er  
-> To any visible shrine,  
-> As if it were divine,  
-> Deign to raise hands of worship or of prayer.
-
-
-##### <span class="sc">The Unity of God and of Truth</span>
-
-> God is one, and the Veda is one;  
-> The disinterested, true Guru is one, and his initiatory rite one;  
-> When this is obtained his heaven is one;  
-> There is but one birth of men upon the earth,  
-> And only one way for all men to walk in :  
-> But as for those who hold four Vedas and six shastras,  
-> And different customs for different people,  
-> And believe in a plurality of gods,  
-> Down they will go to the fire of hell !
-
-
-##### <span class="sc">God is Love</span>
-
-> The ignorant think that God and love are different.  
-> None knows that God and love are the same.  
-> Did all men know that God and love are the same,  
-> They would dwell together in peace, considering love as God.
-
-
-<!-- page: 479 | folio: 437 -->
-of Sanskrit. Besides treatises on poetics, rhetoric, and grammar, it includes sectarian works of Jains, Lingāyats, Śaivas, and Vaishṇavas. Those of the Lingāyats appear to possess most originality. Their list includes several episodes of a *Basava Purāṇa*, in glorification of a certain Basava who is said to have been an incarnation of Śiva's bull Nandi. There is also an admired *Śataka* of Sōmēśvara. Modern Kanarese has a large number of particularly racy folk-ballads, some of which have been translated into English by Mr. Fleet. One of the most amusing echoes the cry of the long-suffering income-tax payer, and tells with considerable humour how the ‘virtuous’ merchants carefully understate their incomes.
+Kanarese literature originated, like Tamiḻ literature, in the labours of the Jains. It is of considerable extent, and has existed for at least a thousand years. Nearly all the works which have been described seem to be either translations from or imitations [p. 437] of Sanskrit. Besides treatises on poetics, rhetoric, and grammar, it includes sectarian works of Jains, Lingāyats, Śaivas, and Vaishṇavas. Those of the Lingāyats appear to possess most originality. Their list includes several episodes of a *Basava Purāṇa*, in glorification of a certain Basava who is said to have been an incarnation of Śiva's bull Nandi. There is also an admired *Śataka* of Sōmēśvara. Modern Kanarese has a large number of particularly racy folk-ballads, some of which have been translated into English by Mr. Fleet. One of the most amusing echoes the cry of the long-suffering income-tax payer, and tells with considerable humour how the ‘virtuous’ merchants carefully understate their incomes.
 
 > _[Margin: Telugu literature.]_
 
@@ -6202,6 +6156,48 @@ G. A. GRIERSON.
 [^sec-15-fn-004]: (1) One of the most famous works of this school, the *Satsaiyā* of Bihārī, commences with an invocation to Rādhā and not to Kṛishṇa.
 [^sec-15-fn-005]: (1) Taken from p. xxviii of the second edition of Molesworth’s *Marāṭhī Dictionary*.
 [^sec-15-fn-006]: (1) The following specimens of the Śittar school of Tamiḷ poetry are taken from Bishop Caldwell’s *Comparative Grammar*, pp. 147, 148. The first is a version of a poem of the *Śiva-vākyam*, given by Mr. R. C. Caldwell, the Bishop’s son, in the *Indian Antiquary* for 1872.
+
+    **<span class="sc">THE SHEPHERD OF THE WORLDS</span>**
+
+    > How many various flowers  
+    > Did I, in bygone hours,  
+    > Cull for the gods, and in their honour strew ;  
+    > In vain how many a prayer  
+    > I breathed into the air,  
+    > And made, with many forms, obeisance due.
+
+    > Beating my breast, aloud  
+    > How oft I called the crowd  
+    > To drag the village car ; how oft I stray’d,  
+    > In manhood’s prime, to lave  
+    > Sunwards the flowing wave,  
+    > And, circling Śaiva fanes, my homage paid.
+
+    > But they, the truly wise,  
+    > Who know and realize  
+    > Where dwells the Shepherd of the Worlds, will ne’er  
+    > To any visible shrine,  
+    > As if it were divine,  
+    > Deign to raise hands of worship or of prayer.
+
+    **<span class="sc">The Unity of God and of Truth</span>**
+
+    > God is one, and the Veda is one;  
+    > The disinterested, true Guru is one, and his initiatory rite one;  
+    > When this is obtained his heaven is one;  
+    > There is but one birth of men upon the earth,  
+    > And only one way for all men to walk in :  
+    > But as for those who hold four Vedas and six shastras,  
+    > And different customs for different people,  
+    > And believe in a plurality of gods,  
+    > Down they will go to the fire of hell !
+
+    **<span class="sc">God is Love</span>**
+
+    > The ignorant think that God and love are different.  
+    > None knows that God and love are the same.  
+    > Did all men know that God and love are the same,  
+    > They would dwell together in peace, considering love as God.
 [^sec-15-fn-007]: (1) See J. Vinson, ‘Le Tasse dans la Poésie tamoule,’ *Revue de Linguistique*, viii (1875), pp. 52 and ff. Beschi’s original MS. is in the Library of the India Office.
 
 
@@ -7768,7 +7764,7 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - operations against Rājputs and Mongols, 360, 361 ; a strong, severe ruler,
 - and patron of literature, 361 ; he and [p. 535] his descendants in Bengal, 371, 372;
 - his coinage, 144.
-- Bankim Chandra (1838-94), a Bengali
+- Bankim Chandra (1838–94), a Bengali
 - novelist and magazine editor, 433.
 - Bantam, in Java, factory (1601) of East
 - India Company at, 455; its early importance, political and commercial,
@@ -7776,7 +7772,7 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - Surat, 457; its fall (1682) and withdrawal of British from Java, 457.
 - Barābar caves, 111, 161, 162.
 - Barīd Shāhīs of Bīdar, Muhammadan
-- dynasty of (1492-1609), 391; founded
+- dynasty of (1492–1609), 391; founded
 - by a revolter from the Bahmanīs, 391;
 - a table of the dynasty, 391.
 - Barlow, Sir George, Governor-General
@@ -7793,24 +7789,24 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - Hinduized by the Sen dynasty, 317;
 - under Muhammadan rule, 188, 355, 359;
 - under independent Muhammadan kings
-- (1202-1576), 371-373; under the Mughal and Sur dynasties, 395-398; its
-- native rulers or Nawābs (1707-56),
+- (1202–1576), 371–373; under the Mughal and Sur dynasties, 395–398; its
+- native rulers or Nawābs (1707–56),
 - 474; the removal of its capital from
-- Dacca to Murshidābād, 474; Sirāj-ud-daula, Nawāb (1756-7), 474-476;
+- Dacca to Murshidābād, 474; Sirāj-ud-daula, Nawāb (1756–7), 474–476;
 - capture of Calcutta, the Black Hole
-- (1756), and battle of Plassey, 474-476;
-- Mīr Jafar (1757-60, 1763-5), 476-9;
-- Clive's first Governorship of Bengal
-- (1758-60), 478; his second (1765-7),
+- (1756), and battle of Plassey, 474–476;
+- Mīr Jafar (1757–60, 1763–5), 476–9;
+- Clive’s first Governorship of Bengal
+- (1758–60), 478; his second (1765–7),
 - 479, 480; grant of the Dīwānī (1765),
 - 480; Warren Hastings, Governor
-- (1772-4), first Governor-General (1774-
-- 85), 481-484; the architecture of its
+- (1772–4), first Governor-General (1774–
+- 85), 481–484; the architecture of its
 - ancient capitals Gaur (Lakhnautī) and
-- Pandua, 188-193. *See also* British Rule
+- Pandua, 188–193. *See also* British Rule
 - in India *and* East India Company.
 - Bengal, early English settlements in, 458;
-- war with the Mughal empire (1686-
+- war with the Mughal empire (1686–
 - 90), 460; Calcutta founded (1690),
 - 460; its early relations with the Nawābs, 462; later relations, 474; battle
 - of Plassey, 476; Permanent Settlement
@@ -7823,11 +7819,11 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - under English influence, 415, 433; its authors and their attacks on abuses,
 - 433; its fiction, 433; its poetry, 433;
 - its drama, 433, 434.
-- Bentinck, Lord William, Governor-General (1828-35), 497-499; the inscription on his statue at Calcutta,
+- Bentinck, Lord William, Governor-General (1828–35), 497–499; the inscription on his statue at Calcutta,
 - 497; his financial and social reforms,
 - 497, 498; prohibition of *satī*, 498;
-- suppression of *thagī*, 498; Mysore protected (1830), 498, Coorg (1834) annexed, at 'the unanimous wish of the
-- people,' 498, 499.
+- suppression of *thagī*, 498; Mysore protected (1830), 498, Coorg (1834) annexed, at ‘the unanimous wish of the
+- people,’ 498, 499.
 - Berār, perpetual lease of, to British by
 - Nizām (1902), 529.
 - Beschi (d. 1742), Italian Jesuit and Tamil
@@ -7842,7 +7838,7 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - *Bhāgavata Purāṇa*, the, to the glory of
 - Vishnu, 237; its doctrine of *bhakti*, 414.
 - Bhājā caves, 112, 162, 164.
-- Bhakti (Faith), the Hindu doctrine of,
+- *Bhakti* (Faith), the Hindu doctrine of,
 - 414, 416; expressed in terms of Latin
 - Christianity, 414; the inspirer of its
 - vernacular literature, 414, 416, 425, 426;
@@ -7858,16 +7854,16 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - Bharatpur, repulse (1805) of Lake at
 - siege of, 492; stormed (1826) by Combermere, 497.
 - Bharhut, the *stūpa* at, its sculptures and
-- reliefs described, 106-108, 160.
+- reliefs described, 106–108, 160.
 - Bhartṛihari, a gifted Sanskrit writer of
-- aphoristic stanzas, 252; his grammarepic, the *Bhaṭṭikāvya*, 240; his lyrics,
+- aphoristic stanzas, 252; his grammar-epic, the *Bhaṭṭikāvya*, 240; his lyrics,
 - 242, 243; his life divided between the
 - world and a monastery, 243.
 - Bhavabhūti, Brāhman dramatist of the
 - eighth century, 249.
-- Bhoja I (840-85), great king of Kanauj,
+- Bhoja I (840–85), great king of Kanauj,
 - 310.
-- Bhoja (c. A. D. 1010-50), famous Ponwār
+- Bhoja (c. A. D. 1010–50), famous Ponwār
 - king of Mālwā, warrior, author, and
 - patron of letters, 249, 311.
 - Bhonsla, Marāthā chief of Nāgpur, 491;
@@ -9984,11 +9980,11 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - general principles and style, 181-184;
 - its special characteristics in several
 - centres, 181-198.
-- Muhammadan India (A. D. 637-1803),
+- Muhammadan India (<span class="sc">A. D.</span> 637-1803),
 - 350-413; the results of Muhammadan
 - invasions deeper and more lasting than
 - those of previous, 350; (*a*) incursions
-- and first conquest (A. D. 637-1206),
+- and first conquest (<span class="sc">A. D.</span> 637-1206),
 - 350-355; early Arab conquests of
 - Multān and Sind, 351; the predatory
 - incursions of Mahmūd of Ghaznī (999-
@@ -10046,7 +10042,7 @@ In conjunction with Lord Kitchener, Commander-in-Chief since 1902, Lord Curzon h
 - lasting influence on India, 350; its
 - gradual and natural infiltration into
 - the lower Hindu population, 355; the
-- obduracv of the higher classes, 356;
+- obduracy of the higher classes, 356;
 - its spread and influence measured by
 - the existing distribution of the two
 - races and faiths, 356; the toleration or

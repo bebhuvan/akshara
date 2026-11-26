@@ -156,7 +156,7 @@ As regards geographical details, the reader may be reminded of the maps given in
 ## 1655. The Surat Presidency
 
 
-#### THE SURAT PRESIDENCY, 1655
+### THE SURAT PRESIDENCY, 1655
 
 <span class="sc">At</span> the beginning of this year the English East India Company's factories in the East were still fairly numerous. They were organized under two Presidents, of whom one, seated at Surat, controlled the establishments in western and north-western India and in Persia, besides superintending such commerce as there was with Rājāpur in the Deccan, Mokha in the Red Sea, and Basra, at the [p. 7] head of the Persian Gulf; the other, whose head-quarters had been at Bantam (in Java) until the autumn of 1652, when (under orders from home) President Baker transferred himself to Madras, looked after trade on the Coast of Coromandel (usually termed ‘the Coast’), in Orissa and Bengal (‘the Bay’), and in the various settlements in the Far East. Coming to details, the regular factories in the Surat Presidency were stationed in Surat itself (with its port of Swally), Ahmadābād, Agra, and Tatta (Sind) in India, and of Gombroon (now Bandar Abbās) and Ispahān in Persia. Those under the Madras President were Fort St. George and Masulipatam on the Coast, Balasore in Orissa, Hūgli in Bengal, Bantam in Java, Jambi in Sumatra, Macassar in Celebes, Syriam in Pegu, and Camboja in Indo-China.
 
@@ -261,7 +261,7 @@ From the Court Minutes of 4 August, 1659, we learn that Lewis's mother, Elizabet
 ## Events in Persia
 
 
-#### EVENTS IN PERSIA, 1655
+### EVENTS IN PERSIA, 1655
 
 <span class="sc">The</span> letters from Persia at this period contain much that is of interest. In the 1651–4 volume of *The English Factories* some account was given of the arrival of Lord Bellomont as ambassador from the exiled King Charles to Shāh Abbās II; and the story is now continued and carried to its close. The main authority on this subject is the *Storia do Mogor*, by Niccolao Manucci, who was in attendance upon the ambassador; but Manucci wrote long afterwards, when his memory was hazy as to dates and details, and the evidence now given from contemporary correspondence is therefore all the more valuable.[^sec-06-fn-001] The envoy's object was to obtain monetary assistance from the Persian monarch for his needy master, and incidentally to divert into the latter's coffers the East India Company's share of the customs at Gombroon. He found the Shāh a sympathetic listener to the story of the fate which had befallen a brother sovereign whose autocratic rule had made him unpopular with his subjects, but less interested in the pecuniary needs of that sovereign's son. After long and wearisome negotiations Bellomont concluded that it was hopeless to extract from [p. 21] the Persians anything more substantial than compliments and promises; and so, with studied brusqueness, he departed from Ispahān and proceeded to India, to see whether the Great Mogul would prove more liberal.
 
@@ -358,7 +358,7 @@ This letter was sent in the *Seahorse*, which carried also six horses and money 
 ## The Coromandel Coast and Bengal
 
 
-#### THE COROMANDEL COAST AND BENGAL, 1655
+### THE COROMANDEL COAST AND BENGAL, 1655
 
 <span class="sc">If</span> the outlook in the western Presidency was dark at this period, the situation on the eastern side of India was even worse, for dissensions within and disturbances without added to the troubles of the Company's servants. Of the disputes between President Baker and his Second, Henry Greenhill, an account has been given in the last volume (pp. xxxi et seq.). The departure of Baker in the *Katherine* on 20 January, 1655, leaving Greenhill in charge, put an end to these so far as Madras itself was concerned; but some of the factors had taken Baker's side, and time was needed to assuage the feelings aroused by the controversy. Greenhill himself and his adherent, John Leigh, pursued the late President to England with elaborate indictments. As, however, the subject has already been dealt with at some length, it will suffice if we refer those interested in the matter to Greenhill's letters of 20 January and 21 April, 1655, from the former of which extracts have been printed in Col. Love's *Vestiges of Old Madras* (vol. i. pp. 134, 139).
 
@@ -539,7 +539,7 @@ Considerable interest, so far as the Bengal trade was concerned, attaches to the
 ## 1656. Western India
 
 
-#### WESTERN INDIA, 1656
+### WESTERN INDIA, 1656
 
 <span class="sc">In</span> obedience to the Company’s instructions, the goods purchased at Surat and Tatta for England during the past season, to the value of over 14,000*l.*, were put on board two private ships, the [p. 50] *Constantinople Merchant* and the *Merchant Adventure*, on freight terms. Both vessels sailed from Swally on 19 January, 1656, accompanied by a third interloper, the *Adventure*, commanded by Joseph Taylor. In the *Constantinople Merchant* went home Edward Pearce,[^sec-08-fn-001] leaving John Spiller in charge as ‘Agent’. With Pearce departed John Goodyear, Walter Gollofer, Robert Masters, and Hugh Prythrich (surgeon); while Nicholas Buckeridge left the Company’s service to trade on his own account, and others were preparing to follow his example. There was thus a very considerable reduction in the establishment at Surat and its dependencies.
 
@@ -657,7 +657,7 @@ The ship called the *King Farnandoes*, Roger Griffen commander and Christopher O
 ## The Inland Factories
 
 
-#### THE INLAND FACTORIES, 1656
+### THE INLAND FACTORIES, 1656
 
 <span class="sc">Owing</span> to the survival at home of a ‘copie booke’ of letters received at Surat from December, 1655, to November, 1656 (*Surat Factory Records* at the India Office, vol. 103), and of a similar volume at Bombay (transcripts from which form vol. 102 <span class="sc">b</span> of the India Office Series) continuing the series for a year longer, we learn much about what was happening at the various factories subordinate to Surat. Pre-eminent in interest are the letters [p. 62] received from Jesson at Agra, of which the first, dated 6 February, 1656, contained the intelligence that a new Governor had been appointed to Surat.
 
@@ -874,7 +874,7 @@ Of the last letter received at Surat from Scrivener during this year only a port
 ## Events in Persia
 
 
-#### EVENTS IN PERSIA, 1656
+### EVENTS IN PERSIA, 1656
 
 <span class="sc">Copies</span> are available of a number of letters from or to Persia during the year 1656. The first of these, written by Weale and Otgher at Gombroon on 3 January, describes the reception of the new Governor.
 
@@ -882,9 +882,7 @@ Of the last letter received at Surat from Scrivener during this year only a port
 <!-- page: 94 | folio: 82 -->
 The 22th passed we went to Bundally[^sec-10-fn-001] to meete the Ckaune. The 23th he came to Govendas[^sec-10-fn-002] garden, wheare he stayed, awayting a good hower, tell the 27th dittoe. We have often vissitted him, and finde him very courteous to us, with fine complements and faire promises in the Persian moode. But he told the Dutch in our presents that he had some thing to say to them before hee were soe much their friend as ours; he haveing received in Asphahaun some affront from Signor Jacobus[^sec-10-fn-003] (whoe is now provissional Cheife) about their silke business, which it seemes hee hath not yet forgott. The next day after his comeing into towne, the Ckaune came to vissitt us; and the 29th we sent him a present in cloath and gold and silver lace and wyne (which he is a greate drinker off), to the vallue of neere 14 tomands.... The Dutch sent him a present the time hee was at Govendas garden, and another since hee came in. The latter is not as yet received, though in the Ckauns howse, because of the perpetuall raynes, which have continud these five dayes with greate voyolence, in soe much that it hath washed downe many of the mud walls and howses in towne.
 
-The reply from Surat (29 Jan.) to this and some previous letters contains nothing of importance beyond the reference to Lord Bellomont already quoted. On 30 January the Gombroon factors wrote again, mentioning, among other items of intelligence, that
-
-Noe Shawbander is as yet arived, nor is it certainely knowne whoe will have the place. But he that supplyeth it heere would play the knave with us to palpably, had we not the Ckaune very much our friend; for in one night [he] would have stole three trankeys[^sec-10-fn-004] of the *Nugdees* ladeing; which we haveing notice of, acquainted the Jannazeene [deputy: *jā-nishīn*] therewith, whoe caused the waterside to be guarded with his owne men, and the next morning the trankeys with their full ladeing to be brought to our custome howse; which accion hath some what awed this fellow, for we pretended he did not steale it for the King but for himselfe; which pretence tooke some good effect.
+The reply from Surat (29 Jan.) to this and some previous letters contains nothing of importance beyond the reference to Lord Bellomont already quoted. On 30 January the Gombroon factors wrote again, mentioning, among other items of intelligence, that Noe Shawbander is as yet arived, nor is it certainely knowne whoe will have the place. But he that supplyeth it heere would play the knave with us to palpably, had we not the Ckaune very much our friend; for in one night [he] would have stole three trankeys[^sec-10-fn-004] of the *Nugdees* ladeing; which we haveing notice of, acquainted the Jannazeene [deputy: *jā-nishīn*] therewith, whoe caused the waterside to be guarded with his owne men, and the next morning the trankeys with their full ladeing to be brought to our custome howse; which accion hath some what awed this fellow, for we pretended he did not steale it for the King but for himselfe; which pretence tooke some good effect.
 
 In their next letter (21 Feb.) the factors complained that the same trickery was being continued, and that the Khān, in spite of presents of strong waters, did not interfere; to which the [p. 83] Surat Council replied (15 March) by counselling patience, since they understood that the new Shāhbandar had powerful friends at Court. Weale and his colleagues wrote again on 28 March, announcing that
 
@@ -963,7 +961,7 @@ The Gombroon factors were not without hopes that the *Seahorse*, which reached S
 ## The Coromandel Coast
 
 
-#### THE COROMANDEL COAST, 1656
+### THE COROMANDEL COAST, 1656
 
 <span class="sc">Some</span> account has already been given of the startling events that marked the close of 1655 and the beginning of the following year— the defection of Mīr Jumla, the invasion of Golconda by Aurangzeb, and the conclusion by Abdullah Kutb Shāh of a humiliating peace; and it has been remarked that, but for the disappearance of the Madras register of letters received, we might have had some interesting particulars from the pen of Thomas Symonds, who was in Golconda at this period. From two letters, however, of rather [p. 91] later date, we learn something of the subsequent events there. The first of these is a note from Madras to the Surat factors, dated 16 July, 1656, which says :
 
@@ -1127,7 +1125,7 @@ Of the *nishān* thus obtained, dated 6 April, 1656, a translation was made twen
 ## 1657. Western India
 
 
-#### WESTERN INDIA, 1657
+### WESTERN INDIA, 1657
 
 <span class="sc">At</span> the beginning of 1657 the fortunes of the East India Company had reached their lowest ebb. In India their servants were merely holding on, in hopes of better days, and had little to do except to serve their own interests; at home the shareholders of the two existing Stocks were growing desperate at the long delay of the Council of State in deciding whether or not to grant a new charter. So black did the outlook appear that at a general court held on 14 January it was resolved to set up notices on the Exchange that a month later all the Company's property and rights in the East would be sold to the highest bidder. This drastic step quickly produced the desired result. The prospect of the disappearance of the only body that was holding the trade together created alarm amongst those interested in it. Moreover, the opposition to the monopoly had been weakening even among those merchants who had been the most prominent of the 'interlopers', for experience had taught them that unrestricted competition, both in the Eastern and in the home markets, was less profitable than co-ordinated efforts. They now decided to throw in their lot with those who were agitating for the continuance of the trade on its old basis, and to join in pressing for the necessary charter. The Council, whose hesitation appears to have been chiefly due to the division of opinion among the merchants themselves, promptly decided (6 Feb.) to recommend to the Protector the grant of the desired monopoly, and four days later Cromwell signified his approval. The notice of sale was accordingly withdrawn, and preparations were begun for the flotation of a new Stock as soon as the charter should be sealed. Several months, however, elapsed before the terms of the document were finally settled, and it was not until [p. 113] 19 October, 1657, that the Great Seal was affixed.[^sec-13-fn-001] This was followed by an appeal for a new capital, which resulted in about 740,000*l.* being subscribed, though only one-half was ever called up. One striking difference between this ‘New General Stock’ and its predecessors was that it was not to be wound up after a limited period; instead thereof, a valuation was to be made at the end of seven years (and every third year after), and any shareholder wishing to withdraw was to be paid out on this basis and others admitted in his place. As a matter of fact, by 1664 the free sale of shares made this cumbrous arrangement unnecessary; and the new stock became the permanent capital of the Company.
 
@@ -1161,11 +1159,7 @@ On the 20th of the same month arrived a letter from Jesson at Agra, dated 24 Aug
 
 > The like raines to the present hath not been in many yeares, in so much that the cropps of indico, sugar, cotten, and corne are like to bee exceeding plentifull, and consequently cheaper then the last yeare. So that many sheroffs and others who, allured with the sweetness of former yeares gaines, have ingrossed great quantity of sugar, corne, and cotten, are like to bee [see ?] scarce one third part of the mony they disbarced. . . . Tis reported the King intends for Lahoore. How true it is, I cannot tell; nor yet whether (as some speaks) it bee certaine that a peace is concluded with the King of Deccan.
 
-The reference here is to the conclusion of the campaign against Bījāpur, in which the forces of Aurangzeb and Mīr Jumla had been engaged. Bīdar had been captured at the end of March, and
-
-
-<!-- page: 131 | folio: 119 -->
-Kalyāni was stormed at the end of July. Thereupon the King of Bījāpur opened negotiations for peace; and to these overtures Aurangzeb was forced to listen, since his brother Dāra, jealous of his success, had induced Shāh Jahān to write commanding that peace should be made. Terms were accordingly agreed upon, by which certain districts were ceded and an indemnity was to be paid. In the troubles which followed, however, the Bījāpuris managed to retain a considerable portion of the territory they had agreed to surrender.
+The reference here is to the conclusion of the campaign against Bījāpur, in which the forces of Aurangzeb and Mīr Jumla had been engaged. Bīdar had been captured at the end of March, and [p. 119] Kalyāni was stormed at the end of July. Thereupon the King of Bījāpur opened negotiations for peace; and to these overtures Aurangzeb was forced to listen, since his brother Dāra, jealous of his success, had induced Shāh Jahān to write commanding that peace should be made. Terms were accordingly agreed upon, by which certain districts were ceded and an indemnity was to be paid. In the troubles which followed, however, the Bījāpuris managed to retain a considerable portion of the territory they had agreed to surrender.
 
 Meanwhile, the English factors at Surat had on 15 September received a letter from the Company, dated 21 March, 1657, and dispatched in duplicate by two private ships, the *Merchant Adventure* and the *Richard and Martha*. This was chiefly taken up by comments on the letters sent from Surat in January, 1656. The Committees said that the goods then forwarded had fetched very poor prices, owing to the competition of those brought back by private merchants; and they disapproved of the instructions given to the factors in Persia to buy silk, for that commodity was little in demand in England. They reaffirmed their orders for the reduction of establishments and expenses, and directed that
 
@@ -1218,7 +1212,7 @@ Only one letter from Sind during 1657 is now extant. This is dated 13 October, a
 ## Persia and Basra
 
 
-#### PERSIA AND BASRA, 1657
+### PERSIA AND BASRA, 1657
 
 <span class="sc">Reference</span> has been already made to the death of Milward and the dispatch to Gombroon of Andrews and Bell. The instructions [p. 125] to the former, dated 31 March, 1657, show that the main objects of his mission were to collect the Company's share of the customs and to reaffirm their claims to the continuance of this privilege. For the latter purpose he was furnished with a letter from the Surat Council, together with copies, in English and Persian, of the original agreement, and was instructed to require a written reply, in order that ' we may know what we have to trust to '. If necessary, Andrews might go up to Ispahān on the business; it was hoped, however, that this might be avoided. In the latter case he was to leave Daniel in charge at Gombroon, while he himself and Bell proceeded in the *Seaflower* to Basra. Returning to Gombroon, he was to bring away all surplus plate etc. from the factory, settle either Bell or Daniel as Chief at that place, and then sail for Surat.
 
@@ -1291,7 +1285,7 @@ Bell added that no letters had arrived from the Company during his stay in Basra
 ## The Coast and Bay
 
 
-#### THE COAST AND BAY, 1657
+### THE COAST AND BAY, 1657
 
 <span class="sc">The</span> contents of the letter carried home from Fort St. George by the *Mayflower* in January, 1657, have been summarized on p. 103. The next we hear from Greenhill and Chamber at that place is in a letter addressed by them to the Surat factors on 10 September, in answer to one dated 11 July. They forwarded a statement of their 'aggrievances against the Nabob' (Mīr Jumla), brought down to 13 June:
 
@@ -1478,7 +1472,7 @@ The letter also mentioned the dispatch of the *Welcome* to Gombroon, and the int
 ## The Inland Factories
 
 
-#### THE INLAND FACTORIES, 1658
+### THE INLAND FACTORIES, 1658
 
 <span class="sc">It</span> was perhaps as well that the Committees of the New Stock showed themselves determined at the outset to tolerate no competition from private English adventurers, for a few of the former servants of the Company displayed some unwillingness to quit their independent positions. Thus, Smith and Craddock at Ahmadābād objected to sign the required indentures, on account of the clause prohibiting private trade; and further expressed a reluctance to be bound for more than two years. The President and Council, however, took a firm line on both points. They pointed out (9 Nov., 1658) that the Company allowed all men to send home their goods without restriction up to the end of January, 1659, and at the expiration of that period would take over any private stock of prohibited goods at a fair rate; while, as to the stipulated term of service, they warned the two factors that, if they would not agree to the usual five years, there were others ready to take their places. Thus admonished, Smith and Craddock gave way and signed the bonds; but the former protested that the salary allotted to him was quite insufficient, and the President and Council recommended the Company to increase it.
 
@@ -1535,7 +1529,7 @@ The account usually given is that Shāh Nawāz Khān went out to welcome Dāra, 
 ## The Persia Agency
 
 
-#### THE PERSIA AGENCY, 1658
+### THE PERSIA AGENCY, 1658
 
 <span class="sc">The</span> non-survival of any letter written from Persia during this year and the general silence of the Surat Council on the subject prevent us from learning what the three factors—Andrews, Daniel, and Bell—who were there at the opening of 1658, were [p. 169] doing during its course. On the other hand we have full information concerning the views of the Company in the spring of 1658 on the policy to be pursued in that country, as set forth in the instructions given to William Garway,[^sec-18-fn-001] who, as we have seen (p. 142), had been selected for the post of Agent in Persia. Garway went out to Surat with President Wyche, and thence proceeded in the *Society* to Gombroon (Oct. 1658), accompanied by his second, Nicholas Buckeridge; probably also by George Morton, whom the Company had designated for employment in Persia. They reached their destination on 29 November. Garway had brought with him from London detailed instructions from the Company, and to these Wyche and his Council had added others. The former (6 April, 1658) contained, besides general admonitions, the following special instructions:
 
@@ -1586,7 +1580,7 @@ That Garway and his associates wrote overland to the Company on 10 and 31 Decemb
 ## The Madras Agency
 
 
-#### THE MADRAS AGENCY, 1658
+### THE MADRAS AGENCY, 1658
 
 <span class="sc">Our</span> information concerning the history of the Coast factories during the first half of this year is of the vaguest description. That Greenhill and his colleagues sent home some goods to the Company early in January by the *Coast Frigate* (a private vessel) is shown by references in the Court Minutes to the payment of freight for the same. That a letter accompanied the goods is also evident; but all that has survived of it is an enclosure, dated 18 January, 1658, giving a list of men in Fort St. George. This includes Greenhill, Chamber, and Isaacson; Stevenson and Taylor, 'Bay factors' (see p. 140); Shem Bridges and Andrew [p. 174] Clapper, 'assistants, but not in the Companies pay'; Robert Cowper, surgeon; Arthur Herris, 'to command the out guards'; a sergeant, gunner, two corporals, and twenty privates of the garrison; and '49 Portugall and mistezaes imployed'. The absence from this list of the name of William Dawes, the whilom Secretary (see p. 39), is explained by two letters from him, one of 14 June, 1658, and the other of two months later, in which he refers to the fact that he had been imprisoned in Fort St. George since July, 1657, and implores Greenhill to bring him to trial. Why he was thus detained, and when or how he was released, we do not know.
 
@@ -1668,9 +1662,7 @@ Evidently Greenhill and his colleagues were not pleased with their new employers
 
 In the same letter Greenhill and his colleagues were instructed to give notice to all Englishmen not in the Company's service to quit the country; and were also to warn the owners of 'jounks' that any English seamen found in them would be taken out by the commanders of the Company's ships.
 
-On 29 November the Masulipatam factors, replying to some missing letter from Fort St. George, noted the instructions that the factories at Vīravāsaram and Petapoli were no longer to be regarded as subordinate to that at Masulipatam; also that the accounts of all three factories were henceforth to be kept in new pagodas instead of old. They saw no advantage in the latter arrangement, but did not wish to dispute it. Similarly À Court and Seymour wrote from Vīravāsaram (7 Dec.) that they would observe the rule, though new pagodas were seldom heard of there. They also said that they were awaiting orders from Madras whether they were to repair their existing premises or to buy another house from Winter; and they desired to know what ground belonged to the Company, for Winter was claiming 'not only the great garden without the towne which is usually (though it seemes improperly) called the Companies garden, but also part of the yard and some of the outhouses that are within the factory'. They supposed that the Madras Council were aware that
-
-Neither hee nor Mr. Jearsey intend to goe home this yeare, but meane to confront the Companies servants in all these parts with scorne and derision, knowing that wee have noe order to curbe them, and that the most that wee can doe against them is but to make them pay custome, by informeing that they are not of the Company.
+On 29 November the Masulipatam factors, replying to some missing letter from Fort St. George, noted the instructions that the factories at Vīravāsaram and Petapoli were no longer to be regarded as subordinate to that at Masulipatam; also that the accounts of all three factories were henceforth to be kept in new pagodas instead of old. They saw no advantage in the latter arrangement, but did not wish to dispute it. Similarly À Court and Seymour wrote from Vīravāsaram (7 Dec.) that they would observe the rule, though new pagodas were seldom heard of there. They also said that they were awaiting orders from Madras whether they were to repair their existing premises or to buy another house from Winter; and they desired to know what ground belonged to the Company, for Winter was claiming 'not only the great garden without the towne which is usually (though it seemes improperly) called the Companies garden, but also part of the yard and some of the outhouses that are within the factory'. They supposed that the Madras Council were aware that Neither hee nor Mr. Jearsey intend to goe home this yeare, but meane to confront the Companies servants in all these parts with scorne and derision, knowing that wee have noe order to curbe them, and that the most that wee can doe against them is but to make them pay custome, by informeing that they are not of the Company.
 
 
 <!-- page: 198 | folio: 186 -->
@@ -1704,7 +1696,7 @@ The situation was an unpleasant one for Greenhill and Chamber. Unless satisfacti
 
 <!-- page: 200 | folio: 188 -->
 
-#### <span class="sc">THE BENGAL AGENCY, 1658</span>
+### <span class="sc">THE BENGAL AGENCY, 1658</span>
 
 <span class="sc">When</span>, on the last day of 1657, ‘the Governour, Deputie, and Committees for the new Joint Stock for India’ penned their first letter to Bengal, the only Englishmen in that country were a few private adventurers and the merchants who had been sent out by the syndicate promoted by Maurice Thomson (now the Governor of the resuscitated East India Company). It was therefore to a number of these merchants, viz. George Gawton, Thomas Billidge, William Blake, Thomas Hopkins, Richard Chamberlain, and Ion Ken, that the letter was addressed. It informed them of the grant of an exclusive charter and the subscription of a new stock; announced the dispatch of the *Blackamoor* and other ships; and empowered them to dispose of the cargoes of these vessels, and to arrange for their relading, ‘without having any subordinacy to our Agent etc. at the Coast’. The goods to be sent home were to consist of saltpetre, sugar, raw silk, cotton yarn, turmeric, ‘bowgees’ [cowries: Port. *buzios*], gumlac, taffetas, ‘sannoes[^sec-20-fn-001] adaties’, and any cinnamon the factors could procure (from the Dutch or other merchants). Gawton and his colleagues were warned that ‘the whole trade aperteyneth singly unto us, exclusive unto all others’, and were charged not only to refuse any commissions from private adventurers, but also to hinder any investment being made on behalf of such interlopers.
 
@@ -1943,7 +1935,9 @@ The instructions given to Masters (16 Dec., 1659) were certainly not lacking in 
 [^sec-21-fn-015]: (3) Part of a journal kept on board this ship (28 June–17 Aug.) will be found in Brit. Mus. Sloane MS. 3672 (f. 67).
 [^sec-21-fn-016]: (1) There are several other allusions to this scarcity. It seems to have been first mentioned in a letter from Scrivener of 6 June, 1659, which is missing. In reply the Surat factors promised a supply of corn—a promise they repeated on 6 August, suggesting that any of the corn that was not required for the factors' own use should be distributed to the weavers 'upon accompt, and be a meanes to keepe them unto your devotion'. In another letter of 17 September (sent overland) they announced the dispatch of the corn by the *Vine*, adding: 'We hope also that, the famine and pestilence being abated, the weavers may encrease, to the returne of trading againe; which we would endeavour to encrease by large investments every yeare, were we incouraged by goods that would be made well and propper for Persia and Mocho; for cloth for England, as yet is required but a small quantety'. A third letter, dated a month later, said: 'The corne formerly sent you wee would have you to distribute some to the weavers to keepe them at worke, and pay them in halfe corne, halfe money; maintaining them so all the yeare. For which purpose wee shall send you a supply untill the famine ceaseth, being that wee suppose it may be a means to gaine the greater quantity of cloth, both for Persia and Mocha, and better made; for wee would have you alwayes be providing of those sorts, as well as baftaes for Europe.' See also a letter of 13 April, 1660, quoted on a later page.
 [^sec-21-fn-017]: (1) In a letter to Rāybāg, 4 October, 1659, the President and Council reiterated their conviction that Aurangzeb would not buy these munitions, unless 'to allaram Candaharr, when he hath nothing elce to doe; for sure we are he is soe covetous a prince that, till necessity urgeth him, he will not spend soe much money to looke on iron'.
-[^sec-21-fn-018]: (2) 'The Governor of this place hath caused rupees to be stamped six choul or rice finer then formerly; which causeth both trouble and loss to the Company' (Surat to Ahmadābād, 11 September, 1659). Grains of rice (*chāwal*) were used as weights by the silversmiths. In a letter to Mokha of 16 January, 1660, the Surat Council asked that returns should be made in gold 'chickeens' (sequins); 'the newe Kinge having raised his coine in fin[en]esse and caused it to be made to weigh heavier, hath abated the price of all sorts of silver'.
+[^sec-21-fn-018]: (2) 'The Governor of this place hath caused rupees to be stamped six choul or rice finer then formerly; which causeth both trouble and loss to the Company' (Surat to Ahmadābād, 11 September, 1659). Grains of rice (*chāwal*) were used as weights by the silversmiths.
+
+    In a letter to Mokha of 16 January, 1660, the Surat Council asked that returns should be made in gold 'chickeens' (sequins); 'the newe Kinge having raised his coine in fin[en]esse and caused it to be made to weigh heavier, hath abated the price of all sorts of silver'.
 [^sec-21-fn-019]: (1) *O.C.* 2841 and *Hague Transcripts*, ser. i. vol. xxiv. nos. 654, 664. In no. 651 (vol. xxiii) will be found a Dutch account of the incident.
 [^sec-21-fn-020]: (1) St. Helena had just been settled by the Company as a place of rendezvous for their homeward-bound ships (*Court Minutes*, 1655–9, p. xxx), a garrison having been conveyed thither by the *London* in her outward voyage. In the letter to Surat of 11 January, 1659, the Company had ordered that each vessel sent home should carry a ton of rice to be left at St. Helena for the use of the settlers; and four tons were accordingly sent thither by the present fleet.
 [^sec-21-fn-021]: (1) Vesava, or Versova, on the western side of Salsette Island, 12 miles north of Bombay. It has a narrow but deep harbour, with an old Portuguese fort at the entrance.
@@ -1961,7 +1955,7 @@ The instructions given to Masters (16 Dec., 1659) were certainly not lacking in 
 ## The Persia Agency, and the Muskat Project
 
 
-#### THE PERSIA AGENCY, AND THE MUSKAT PROJECT, 1659
+### THE PERSIA AGENCY, AND THE MUSKAT PROJECT, 1659
 
 <span class="sc">At</span> the close of 1658 we left William Garway at Gombroon, waiting for the presents which the President and Council were to send him with a view to his journey to the Court. On 19 January, 1659, the *Welcome* was dispatched to that port from Surat, carrying goods for sale to the value of about 4,500*l.* and a letter stating that the presents were being provided, in accordance with a list furnished by Andrews. Writing to the Company a day earlier, the President and Council had said that the cost of the presents would be 1,338*l.* 15*s.*,
 
@@ -2147,7 +2141,7 @@ The inconvenience caused to traders by the absence of any silver coinage in the 
 <!-- page: 256 | folio: 244 -->
 Almost simultaneously (28 Oct.) Revington, in blaming the President for sending him bar silver instead of gold, wrote :
 
-> You must knowe that the further you send sylver downe the coast, the further you send it from the tancksall at Suratt, and therefore the more charge it is to bringe it upp againe by land, and soe the lesse will be given for it; for what can youdrawString any shroffe should doe with barre sylver, which will neyther buy any thinge or sell here to any body but shroffes, who sends it to Suratt againe, and soe will pay a price accordingly. . . . If that you thought the tannksall in Rajapore would take them of, you are more mistaken, for that [the *lāri*?] is a tagg that's currant noe where but there (I cannot call it a coyne).
+> You must knowe that the further you send sylver downe the coast, the further you send it from the tancksall at Suratt, and therefore the more charge it is to bringe it upp againe by land, and soe the lesse will be given for it; for what can you immagine any shroffe should doe with barre sylver, which will neyther buy any thinge or sell here to any body but shroffes, who sends it to Suratt againe, and soe will pay a price accordingly. . . . If that you thought the tannksall in Rajapore would take them of, you are more mistaken, for that [the *lāri*?] is a tagg that's currant noe where but there (I cannot call it a coyne).
 
 Evidently Revington did broach the subject to Rustam Zamān, with the result that his suggestion was favourably received. This appears from the following passage in a letter to the Company of 19 November, 1659, in which, characteristically enough, the establishment of a mint was linked with a plan for thereupon making Rājāpur the centre of trade while an English fleet waged war upon both the Persian King and the Mughal Emperor :
 
@@ -2436,9 +2430,7 @@ Ken, however, was not so irreverent, and he writes to Davies with an unfailing d
 
 I desire you would ever abase your stile, that I might bee in a capacity of corresponding ; for to the height of this you now write I shall never bee able to soare, except my unfledg'd wings are strengthned by the warmth of your understanding.
 
-Later (21 May) he begs Davies to lend him Seneca's *Epistles* ; and five days after he desires to know his opinion of
-
-Mr. Hobbs his booke of *Humane Nature*.[^sec-25-fn-004] In my small intellect, it is the only thinge I ever saw that was truth ; and if by you comended, I am resolv'd never more to reade any bookes but the Bible and the mathematiques, all antiquity either having bene erroneus in fundamentalls, or wee in this latter age have bene unfortunate in the loss of their knowledge.
+Later (21 May) he begs Davies to lend him Seneca's *Epistles* ; and five days after he desires to know his opinion of Mr. Hobbs his booke of *Humane Nature*.[^sec-25-fn-004] In my small intellect, it is the only thinge I ever saw that was truth ; and if by you comended, I am resolv'd never more to reade any bookes but the Bible and the mathematiques, all antiquity either having bene erroneus in fundamentalls, or wee in this latter age have bene unfortunate in the loss of their knowledge.
 
 Davies's reply has not been preserved ; but Ken (14 June) is fervid in his admiration of his correspondent's wisdom :
 
@@ -2606,7 +2598,7 @@ An order from the Nawāb to the Governor of Balasore to send up Trevisa put an e
 
 This postscript, dated 3 November, states also that Trevisa was then leaving Balasore for Hūgli in a sloop. The date of his arrival at the latter place is not recorded, but the voyage cannot have occupied more than a few days. Of what had been happening at Hūgli during the preceding months we have a summary in a letter written by Matthias Halstead to President Andrews nearly a year later (13 Sept. 1660), pleading his good services at that time:
 
-> The last yeare the mannagment of the Companies affairs at Heugley, from the first of Januarie to the last of November, was in my charge, and then there was twice the tr[ouble] and danger to what is now; being betweene two armies and bound to pleese both; each demanding gunns and amunition, and when were assisted, the opposite partie was greived and sought reveng; yet I behaved myselfe so to both parties that I delivered to neither gunns nor amunition, and yet got love and rep[u]tation of them both; whereas the Duch had all theire goods seized on at Dacka upon this accompt and theire persons grossly abused. At Heugley alsoe the Second of the Duch was imprisoned ten dayes, and narrowly saved [p. 295] his life; nay, they could not have a letter passe but under my covert. I am the first Englishman that ever conveyed Chandera-Cona [see p. 193] commodities by water; besides the discoverie of the trade of Oudagunjay[^sec-25-fn-035] and places adjacent, abounding in sugers, silk, and other commodities proper both for Persia and Guinne, as cherconnas, checolas, rommalls, cattaries [?], all varietie of silken, cotten, and herba [grass-cloth] clouts; beside the convenience of lying neere the sea and upon a branch of the Ganges. The Governour of Heugley had a strict order from Merjumbelo the last yeare to hinder the shipping off of our goods and s[t]opp our trade;Filter nevertheless, I sent downe the sloope to Ballasore to fetch up Agent Trevisa (for there was noe possibilitie of coming by land) to treate with Merjumbelo, and afterwards shipped off and conveyed all the goods safly to Ballasore. A good part of this time I had noe Englishman to assist me; Mr. Thomas Davies, my consort, being deseased.[^sec-25-fn-036]
+> The last yeare the mannagment of the Companies affairs at Heugley, from the first of Januarie to the last of November, was in my charge, and then there was twice the tr[ouble] and danger to what is now; being betweene two armies and bound to pleese both; each demanding gunns and amunition, and when were assisted, the opposite partie was greived and sought reveng; yet I behaved myselfe so to both parties that I delivered to neither gunns nor amunition, and yet got love and rep[u]tation of them both; whereas the Duch had all theire goods seized on at Dacka upon this accompt and theire persons grossly abused. At Heugley alsoe the Second of the Duch was imprisoned ten dayes, and narrowly saved [p. 295] his life; nay, they could not have a letter passe but under my covert. I am the first Englishman that ever conveyed Chandera-Cona [see p. 193] commodities by water; besides the discoverie of the trade of Oudagunjay[^sec-25-fn-035] and places adjacent, abounding in sugers, silk, and other commodities proper both for Persia and Guinne, as cherconnas, checolas, rommalls, cattaries [?], all varietie of silken, cotten, and herba [grass-cloth] clouts; beside the convenience of lying neere the sea and upon a branch of the Ganges. The Governour of Heugley had a strict order from Merjumbelo the last yeare to hinder the shipping off of our goods and s[t]opp our trade; neverthelesse, I sent downe the sloope to Ballasore to fetch up Agent Trevisa (for there was noe possibilitie of coming by land) to treate with Merjumbelo, and afterwards shipped off and conveyed all the goods safly to Ballasore. A good part of this time I had noe Englishman to assist me; Mr. Thomas Davies, my consort, being deseased.[^sec-25-fn-036]
 
 On 23 November both he and Ken joined the other Hūgli factors in signing a general letter to the Company (written by Ken), which contains some interesting passages on matters of trade. They had found little or no sale for their English goods, especially broadcloth; and as a result
 
@@ -2967,7 +2959,7 @@ The *Mayflower* having been found on survey to be so much damaged that there was
 
 At Christmas the *Welcome* returned from Achin, where Gary had [p. 335] succeeded in securing a grant of privileges from the Queen. At this point there is a gap in the Surat Factory Records; but it appears that the *Richard and Martha* and the *Blackamoor* were duly laden and dispatched on 20 January, 1661, to England,[^sec-26-fn-019] where they arrived six months later. Their cargoes had cost 22,740*l*. (*O.C.* 2921).
 
-The *America* must have returned to Surat either at the close of 1660 or at the beginning of 1661. Presumably she brought a copy of the following letter, which the Company dispatched overland on 11 June, 1660, addressing it to ‘our verie loving freinds the comanders of the English ships, or any of them, at Gombroone, to bee by themFly comunicated to our Agent and factors, both aboard and ashore’. That its contents were not known at Surat by 27 December, 1660, is shown by the absence of any reference to the subject in the extant Surat Letters Sent, which go down to that date.
+The *America* must have returned to Surat either at the close of 1660 or at the beginning of 1661. Presumably she brought a copy of the following letter, which the Company dispatched overland on 11 June, 1660, addressing it to ‘our verie loving freinds the comanders of the English ships, or any of them, at Gombroone, to bee by them comunicated to our Agent and factors, both aboard and ashore’. That its contents were not known at Surat by 27 December, 1660, is shown by the absence of any reference to the subject in the extant Surat Letters Sent, which go down to that date.
 
 > It having pleased the Almightie, by His good and gratious providence, to restore our Soveraigne, Charles the Second, to his native and just rights, and setled him most miracliously in the government of his kingdomes in peace and honnor, to the great joy of all his loyall subjects, even without any the least shedding of bloud (for which wee blesse His holy name), wee have thereupon thought it expedient to make it knowne by these few lynes unto you; which wee doubt not will bee as joyfully received by you as the mercy is thanckfully acknowledged by us. It is exceeding probable that there will bee a happy and blessed setlement in these our nations, and a right understanding betweene His Majestie, his present Parliament, and people; His Majestie having declared that there shall be nothing tendred unto him, as to the establishing of the nations upon a sure foundation of honnor and peace, but hee will most readily confirme the same; whereby wee have very great hopes that wee here shall not onely bee happy in the injoying of soe pious and good a prince, but that the lost honnor and repute of our English nation in all parts will bee restored to its former lustre and glorie; and in perticuler that wee the Company shall receive such asistance and power from His Majestie as wee shall thereby bee encoraged and inabled to carry on all our just and lawfull designes. Wee therefore desire you, in consideracion hereof, to proceed on with courage and chearefullnes to the putting in execution that designe for which wee gave our directions and comission by our ship *Eagle* etc., and to manadge the same to our [p. 336] best advantage; being wee are confident that you may now insist upon and capitulate in that negotiation upon a better and surer foundacion then before. Wee hope that, when this shall come unto you, you will bee in hand with the worke, and that in due time wee shall receive a good and desired accompt of your actions. . . .
 
@@ -3070,7 +3062,9 @@ Thus the matter was shelved for the time being.
 [^sec-26-fn-008]: (1) When the guards, &c., would be mostly asleep.
 [^sec-26-fn-009]: (1) See *English Factories, 1646–50*, p. 251. ‘Carapatan’ is Khārepātan (see p. 151).
 [^sec-26-fn-010]: (2) ‘Ambassador’ (Francisco de Mello) seems to be meant.
-[^sec-26-fn-011]: (1) By this term is meant the indigo grown at Biāna and in other districts round Agra. Prior to the establishment of the Company's trade, this kind was exported to Europe mainly through Lahore overland (via Persia) to Aleppo, and so became known as Lahore indigo. The reference to the competition of West Indian indigo is significant. This competition led first to the restriction and then (in 1729) to the cessation of the Company's import of this commodity. There was then a lapse of half a century until the revival of the trade.
+[^sec-26-fn-011]: (1) By this term is meant the indigo grown at Biāna and in other districts round Agra. Prior to the establishment of the Company's trade, this kind was exported to Europe mainly through Lahore overland (via Persia) to Aleppo, and so became known as Lahore indigo.
+
+    The reference to the competition of West Indian indigo is significant. This competition led first to the restriction and then (in 1729) to the cessation of the Company's import of this commodity. There was then a lapse of half a century until the revival of the trade.
 [^sec-26-fn-012]: (1) Formerly one of the ‘Committees’. The book was Walton’s *Biblia Sacra Polyglotta* (1655–7). According to a Surat letter of 25 September, 1666, the volumes were ‘fairely bound in blew Turkey leather and gilded on the leaves’.
 [^sec-26-fn-013]: (1) See *English Factories*, 1651–4, p. 149.
 [^sec-26-fn-014]: (1) That the matter was debated at a consultation held on 24 October is inferred from an entry in No. 266 of the Orme MSS.; but the record is no longer extant.
@@ -3088,7 +3082,7 @@ Thus the matter was shelved for the time being.
 ## The Persia Agency and Basra
 
 
-#### THE PERSIA AGENCY AND BASRA, 1660
+### THE PERSIA AGENCY AND BASRA, 1660
 
 <span class="sc">Though</span> much has been said in the previous chapter concerning Persia, there still remains a certain amount of detail which may fitly be grouped, as before, under a separate heading.
 
@@ -3169,7 +3163,7 @@ The letter adds that the *Rājāpur Merchant* will shortly be ready for a ventur
 The letter to Rustam Zamān (enclosing one for Fazl Khān of like tenor), complaining of Giffard's imprisonment, contains nothing of special note; but that to Sivāji (of the same date as the other two, viz. 13 February, 1660) is worth transcribing, as the earliest recorded communication from the English to that remarkable chieftain.
 
 
-##### *To Sevagy, Generall of the Hendoo Forces.*
+#### *To Sevagy, Generall of the Hendoo Forces.*
 
 > How much freindshipp the English hath promised to act for you against Danda Rajapore Castle your servants Dorogy etc. [p. 359] wee beleive hath informd you; but how much injury wee have received from them wee are ashamed to tell you. Only thus much bee pleased to understand: that because wee would not take the jounkes lying in Rajapore River, and bee enemies to thoss who were our freinds, therefore hath our broker and one English man binn carryed away by your servants and kept and abused in prison for 25 dayes; and although now our broker is released, yet still the English man is detayned and imprisoned in Carrapatann Castle, to the sorrow of us and feare of all merchants in the port townes under your command, beleiveing that this action will hinder there and our trading. But wee are patient and hope for satisfaction by a letter from you unto the cheife of theis your forces. Therefore wee pray that theis may come to your hands, and intreat your answer to this for the restoring of our English man and what else hath binn taken, against your command.
 
@@ -3418,7 +3412,7 @@ It is advisable perhaps, before concluding, to round off the story of the siege 
 
 <!-- page: 400 | folio: 388 -->
 
-#### THE COAST AND BAY, 1660
+### THE COAST AND BAY, 1660
 
 <span class="sc">While</span> materials for the elucidation of the history of the factories directly under the Surat President are fairly abundant for 1660, there is a striking dearth for that year of documents relating to the Madras and Bengal Agencies. The records kept at the several factories of consultations and of letters received or sent during this period have all perished; and we are left dependent upon the Surat records (which include copies of letters dispatched to the Coast or to the Bay) and upon a scanty number of documents scattered through various collections. The *Original Correspondence* series, for example, contains for 1660 only two documents originating at the Coast settlements and only five from Bengal. Fortunately, however, it includes also a letter from Madras to the Company of 11 January, 1661, which reviews briefly the events of the previous year; and this, combined with the letters from Surat (which reflect the contents of those received from the Coast), and occasional contributions from other series, will enable us to give a summary of the principal events.
 
@@ -3627,7 +3621,7 @@ One small piece of information has been preserved in the *Dagh-Register*, 1661 (
 ## Addendum
 
 
-#### ADDENDUM
+### ADDENDUM
 
 While this work was in the press, Sir Richard Temple kindly communicated, from papers in the possession of the Master family, some further particulars regarding the early career of Streynsham Master. In 1655 he ‘went to schoole at London to writ and cipher to Mr. Thomas Fox’. The date of his departure for India in the *Smyrna Merchant* was 4 April, 1656. In October, 1657, he sailed from Surat in the *Dove*, with Colonel Rainsford, to Rājāpur and Cannanore, returning in the following December. Blake, the captain of the vessel, died and was buried at Rājāpur. He was succeeded by Jeremy Weddell (son of the famous John Weddell), ‘and the ship goeing to Legorne never heard of’. During 1658 Master lay ill for many months, apparently at Surat.
 
@@ -3752,22 +3746,82 @@ With the exception of the last named, all these volumes are in the India Office.
 
 #### 1655
 
-- January 10. Greenhill's Answer. C, 2442 20. Greenhill to Company. C, 2445 25. Vīrji Vora to Company. C, 2448 31. Company to Madras. A, 276 31. Company to Surat. A, 283
-- March 10. Company to Madras. A, 297 15. Surat to Company. C, 2455 27. Company to Gombroon. A, 298 27. Company to Surat. A, 299 31. Consultation at Madras. L, 1 31. Examination of the Brahmans. L, 4
-- April 20. Leigh to Company. C, 2464 21. Greenhill to Company. C, 2466
-- —. Declaration of Right Hand Caste.
-- C, 2467
-- May 16. Weale to Young. J, 53
-- June 3. Shīrāz to Gombroon. J, 47 18. Weale to Ispahān. J, 56
-- July 31. Shīrāz to Company. J, 12
-- August 1. Consultation at Shīrāz. C, 2497 27. Company to Surat. A, 305 27. Company to Vīrji Vora. A, 310 27. Company to Pearce. A, 311 27. Company to Madras. A, 312 31. Shīrāz to Gombroon. J, 50
-- September 12. Young to Weale. J, 21 24. Company to Surat. A, 316 24. Company to Madras. A, 318
-- October 1. Young to Weale. J, 28 16. Consultation at Vīravāsaram. C, 2502;
-- J, 138; L, 34 20. Surat to Company. C, 2503-4
-- November 18. Masulipatam to Surat. J, 1 20. Gombroon to Surat. J, 9 24. Gombroon to Company. C, 2508 28. Masulipatam to Surat. J, 33
-- December 3. Gombroon to Surat. C, 2509; J, 36 4. Consultation at Masulipatam. C, 2510;
-- J, 140; L, 37 13. Ahmadābād to Surat. J, 7 14. Company to Madras. A, 321 20. Agra to Surat. C, 2512 24. Agra to Surat. C, 2513 24. Surat to Agra. J, 81 25. John Lewis to his parents. C, 2514 27. Curtis and Chambers to Company.
-- C, 2515
+
+#### January
+
+- 10. Greenhill's Answer. C, 2442
+- 20. Greenhill to Company. C, 2445
+- 25. Vīrji Vora to Company. C, 2448
+- 31. Company to Madras. A, 276
+- 31. Company to Surat. A, 283
+
+#### March
+
+- 10. Company to Madras. A, 297
+- 15. Surat to Company. C, 2455
+- 27. Company to Gombroon. A, 298
+- 27. Company to Surat. A, 299
+- 31. Consultation at Madras. L, 1
+- 31. Examination of the Brahmans. L, 4
+
+#### April
+
+- 20. Leigh to Company. C, 2464
+- 21. Greenhill to Company. C, 2466
+- —. Declaration of Right Hand Caste. C, 2467
+
+#### May
+
+- 16. Weale to Young. J, 53
+
+#### June
+
+- 3. Shīrāz to Gombroon. J, 47
+- 18. Weale to Ispahān. J, 56
+
+#### July
+
+- 31. Shīrāz to Company. J, 12
+
+#### August
+
+- 1. Consultation at Shīrāz. C, 2497
+- 27. Company to Surat. A, 305
+- 27. Company to Vīrji Vora. A, 310
+- 27. Company to Pearce. A, 311
+- 27. Company to Madras. A, 312
+- 31. Shīrāz to Gombroon. J, 50
+
+#### September
+
+- 12. Young to Weale. J, 21
+- 24. Company to Surat. A, 316
+- 24. Company to Madras. A, 318
+
+#### October
+
+- 1. Young to Weale. J, 28
+- 16. Consultation at Vīravāsaram. C, 2502; J, 138; L, 34
+- 20. Surat to Company. C, 2503-4
+
+#### November
+
+- 18. Masulipatam to Surat. J, 1
+- 20. Gombroon to Surat. J, 9
+- 24. Gombroon to Company. C, 2508
+- 28. Masulipatam to Surat. J, 33
+
+#### December
+
+- 3. Gombroon to Surat. C, 2509; J, 36
+- 4. Consultation at Masulipatam. C, 2510; J, 140; L, 37
+- 13. Ahmadābād to Surat. J, 7
+- 14. Company to Madras. A, 321
+- 20. Agra to Surat. C, 2512
+- 24. Agra to Surat. C, 2513
+- 24. Surat to Agra. J, 81
+- 25. John Lewis to his parents. C, 2514
+- 27. Curtis and Chambers to Company. C, 2515
 
 <!-- page: 430 | folio: 418 -->
 

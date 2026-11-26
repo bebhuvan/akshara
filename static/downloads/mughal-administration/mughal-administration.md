@@ -687,13 +687,23 @@ The *Bayutát*.—This name is derived from the Arabic word *bait*, meaning ‘h
 
 ### Notes
 
-[^sec-05-fn-001]: (*) *Siáhá*—The daily ledger or account book of the receipts and disbursemts ......specifying all sums received, whether regular or miscellaneous, and all items of disbursement, whether customary or incidental. *Awárija*—An abstract account of receipts and disbursenents ; a rough note-book Wilson’s *Glossary*, 481 and 40.]
+[^sec-05-fn-001]: (*) *Siáhá*—The daily ledger or account book of the receipts and disbursemts ......specifying all sums received, whether regular or miscellaneous, and all items of disbursement, whether customary or incidental.
+
+    *Awárija*—An abstract account of receipts and disbursenents ; a rough note-book Wilson’s *Glossary*, 481 and 40.]
 [^sec-05-fn-002]: (†) *Charhandar*—a servant accompanying a cargo of goods; a supercargo (Wilson, 103.)
 [^sec-05-fn-003]: (*) *Sukh-sajya* is a Sanskrit word meaning “cosy bed”. The *Ain-i-Akbari* (ii 122) describes a *sukh-asan* (or cosy litter) used by the rich men of Bengal in tra velling.
 [^sec-05-fn-004]: (*) *Daul*—an estimate of the amount of revenue which a district or estate may be expected to yield ; valuation, (Wilson, 129.)
 [^sec-05-fn-005]: (†) *Nuskha*—a copy, a specimen or draught of a writing etc. (Wilson, 381.)
-[^sec-05-fn-006]: (*) *Krori*—the collector of a revenue area yielding one *kror of dam* i.e., 2½ lakhs of rupees. The office was instituted by Akbar, but the jurisdiction of a *krori* soon lost all relation to the above amount of revenue. *Mushrif*—an examiner (of accounts), i.e., auditor; an officer of the treasury who authenticates accounts and documents. (Wilson, 358.) *Fotahdar*—a cash-keeper, a money changer, an officer in public establishments for weighing money and bullion, and examining and valuing coins. (Wilson, 160.) *Sazawal*—a bailiff or agent appointed to compel payment or attendance; an officer specially appointed to take charge of and collect the revenue of an estate from the management of which the owner or farmer has been removed, (Wilson, 473.)
-[^sec-05-fn-007]: (*) *Badar-navisi*—writing off items of an accouut which are objectionable or excessive audit of an account. (Wilson, 43.) *Mustaufi*—an examiner or auditor of accounts, the principal officer of the department in which the accounts of ex-collectors or farmers of the revenue were examined. (*Ibid*, 358.)
+[^sec-05-fn-006]: (*) *Krori*—the collector of a revenue area yielding one *kror of dam* i.e., 2½ lakhs of rupees. The office was instituted by Akbar, but the jurisdiction of a *krori* soon lost all relation to the above amount of revenue.
+
+    *Mushrif*—an examiner (of accounts), i.e., auditor; an officer of the treasury who authenticates accounts and documents. (Wilson, 358.)
+
+    *Fotahdar*—a cash-keeper, a money changer, an officer in public establishments for weighing money and bullion, and examining and valuing coins. (Wilson, 160.)
+
+    *Sazawal*—a bailiff or agent appointed to compel payment or attendance; an officer specially appointed to take charge of and collect the revenue of an estate from the management of which the owner or farmer has been removed, (Wilson, 473.)
+[^sec-05-fn-007]: (*) *Badar-navisi*—writing off items of an accouut which are objectionable or excessive audit of an account. (Wilson, 43.)
+
+    *Mustaufi*—an examiner or auditor of accounts, the principal officer of the department in which the accounts of ex-collectors or farmers of the revenue were examined. (*Ibid*, 358.)
 [^sec-05-fn-008]: (*) *Zimn*—the endorsement of a grant giving an abstract of its contents. Formerly the words *zimn navisand*, ‘let them write the abstract’ were inscribed on a sanad granting an assignment of revenue, which served as authority for the subordinate officers to make out the particulars of the grant. [Wilson, 567.]
 
 
@@ -712,7 +722,7 @@ The *Bayutát*.—This name is derived from the Arabic word *bait*, meaning ‘h
 
 The administrative agency in the provinces of the Mughal Empire was an exact miniature of that of the Central Government. There were the governor (officially styled the *názim* and popularly called the *subahdár*), the *diwán*, the *bakhshi*, the *qazi*, the *sadr*, and the censor ; but no *Khan-i-saman* and no *bayutat*. These provincial bakhshis were really officers attached to the contingents that accompanied the different subahdars rather than officers of the subahs as geographical units. The practical effect, however, was the same.
 
-The administration was concentrated in the provincial capital. It was city-government, not in the Greek sense of the term, but rather as a government living and working in cities and mainly concerning itself with the inhabitants of the cities and their immediate neighbourhood. The Mughals— after due allowance has been made for their love of hunting and laying out pleasure gardens and their frequent marches,— were essentially an urban people in India, and so were their courtiers, officials, and generally speaking the upper and middle classes of the Muhammadan population here. The villages were neglected and despised, and villagelife was dreaded by them as a punishment. No doubt, the villages were the places from which their food and income came ; but that was their only connection with them. Life in a village was as intolerable to them as residence on ‘ the Getic and Sarmatian shores ’ away from ‘ the seat of empire and of the gods ’ was to a cultured poet of imperial Rome. This feeling comes out very clearly in a Persian couplet :
+The administration was concentrated in the provincial capital. It was city-government, not in the Greek sense of the term, but rather as a government living and working in cities and mainly concerning itself with the inhabitants of the cities and their immediate neighbourhood. The Mughals— after due allowance has been made for their love of hunting and laying out pleasure gardens and their frequent marches,— were essentially an urban people in India, and so were their courtiers, officials, and generally speaking the upper and middle classes of the Muhammadan population here. The villages were neglected and despised, and village-life was dreaded by them as a punishment. No doubt, the villages were the places from which their food and income came ; but that was their only connection with them. Life in a village was as intolerable to them as residence on ‘ the Getic and Sarmatian shores ’ away from ‘ the seat of empire and of the gods ’ was to a cultured poet of imperial Rome. This feeling comes out very clearly in a Persian couplet :
 
 > *Zágh dum su-i-shahar wa sar su-i-deh*  
 > *Dum-i-án Zágh az sar-i-u beh.*[^sec-06-fn-001]  

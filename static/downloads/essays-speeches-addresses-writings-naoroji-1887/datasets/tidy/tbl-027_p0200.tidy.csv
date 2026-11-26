@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,1,data,,Bajri,2,Acres.,"2,715,715",2715715.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,1,data,,Bajri,3,Rs.,"5,98,35,748",59835748.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,1,data,,Bajri,4,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,1,data,,Bajri,5,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,2,data,,Jowari,2,Acres.,"4,906,070",4906070.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,2,data,,Jowari,3,Rs.,"7,37,54,269",73754269.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,2,data,,Jowari,4,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,2,data,,Jowari,5,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,3,data,,Rice,2,Acres.,"504,013",504013.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,3,data,,Rice,3,Rs.,"2,21,24,406",22124406.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,3,data,,Rice,4,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,3,data,,Rice,5,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,4,data,,Row 4,2,Acres.,,,acres,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,4,data,,Row 4,3,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,4,data,,Row 4,4,Rs.,"15,57,14,423 — 10 % =",,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,4,data,,Row 4,5,Rs.,"14,01,42,981 91,67,367",,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,5,data,,Cotton,2,Acres.,"704,629",704629.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,5,data,,Cotton,3,Rs.,... ... ...,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,5,data,,Cotton,4,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,5,data,,Cotton,5,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,6,total,,Total,2,Acres.,"8,830,427",8830427.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,6,total,,Total,3,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,6,total,,Total,4,Rs.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-027,Southern Division.,200,181,6,total,,Total,5,Rs.,"Rs....14,93,10,348",,Rs,False,True

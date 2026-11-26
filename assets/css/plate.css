@@ -847,6 +847,23 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 #chapter-text .apparatus-item { padding-left: 1.8em; text-indent: -1.8em; margin-bottom: .45em; }
 #chapter-text .fn-backlink { display: inline-block; width: 1.8em; text-indent: 0; color: var(--k); }
 #chapter-text .apparatus-item:target { background: color-mix(in srgb, var(--g) 70%, transparent); }
+#chapter-text .fn-children { text-indent: 0; margin-top: .45em; }
+#chapter-text .fn-children > * + * { margin-top: .5em; }
+#chapter-text .fn-para { margin: 0; text-indent: 0; }
+#chapter-text .fn-subhead { margin: .6em 0 .25em; font-size: .95em; color: var(--k); font-weight: 400; text-indent: 0; }
+#chapter-text .fn-quote { margin: .5em 0 .5em 1.2em; padding-left: .8em; border-left: 1px solid color-mix(in srgb, var(--k) 35%, transparent); font-style: italic; color: var(--ink-2); text-indent: 0; }
+#chapter-text .fn-verse { margin: .5em 0 .5em 1.2em; line-height: 1.5; text-indent: 0; hyphens: none; }
+#chapter-text .fn-verse br { display: none; }
+#chapter-text .fn-verse .line { display: block; padding-left: 1.2em; text-indent: -1.2em; }
+#chapter-text .fn-sidenote { margin: .35em 0; font-size: var(--fs-note); line-height: 1.4; color: var(--ink-2); font-style: italic; text-indent: 0; }
+#chapter-text .fn-children .ledger-table-block { margin: .7em 0 .8em; }
+#chapter-text .fn-plate { margin: .8em 0; text-indent: 0; }
+#chapter-text .fn-plate img { display: block; max-width: 100%; height: auto; mix-blend-mode: multiply; filter: brightness(1.06) contrast(1.1); }
+#chapter-text .fn-plate figcaption { margin-top: .4em; font-size: var(--fs-note); color: var(--ink-2); text-align: center; }
+#chapter-text .fn-back { color: var(--k); font-size: .85em; margin-left: .25em; }
+#chapter-text .fn-back:hover { text-decoration: underline; text-underline-offset: 2px; }
+#chapter-text [id*="-en-"] { scroll-margin-top: 80px; }
+#chapter-text [id*="-en-"]:target { background: color-mix(in srgb, var(--g) 70%, transparent); }
 /* Tables, set as printed, as a ledger: a firm rule above, faint rules between rows, figures aligned to the right;
    the table's number and its data on one quiet line beneath. */
 #chapter-text .ledger-table-block { display: flex; flex-direction: column; margin: 1.8em 0 2em; clear: both; text-indent: 0; }
@@ -878,6 +895,11 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 #chapter-text .epigraph-block { margin: 1.4em 0 1.6em 2em; font-size: .92em; font-style: italic; color: var(--ink-2); text-indent: 0; }
 #chapter-text .unclear { text-decoration: underline dotted color-mix(in srgb, var(--k) 50%, transparent); text-underline-offset: .22em; cursor: help; }
 #chapter-text .index-entry { padding-left: 1.6em; text-indent: -1.6em !important; margin: 0 !important; font-size: .9em; line-height: 1.45; }
+#chapter-text div.index-entry { padding-left: 0; text-indent: 0 !important; }
+#chapter-text div.index-entry > .index-head { padding-left: 1.6em; text-indent: -1.6em !important; margin: 0 !important; }
+#chapter-text ul.index-sub { list-style: none; margin: .08em 0 .25em; padding-left: 1.6em; }
+#chapter-text ul.index-sub li { padding-left: 1.4em; text-indent: -1.4em; margin: 0; }
+#chapter-text ul.index-sub ul.index-sub { margin: .05em 0 .1em; padding-left: 1.2em; }
 #chapter-text .printed-toc-line { margin: .15em 0 !important; font-size: .95em; text-indent: 0 !important; }
 #chapter-text .imprint-line { text-align: center; margin: .4em 0 !important; text-indent: 0 !important; }
 #chapter-text .editorial-list { padding-left: 1.4em; font-size: .95em; }
@@ -1019,7 +1041,8 @@ html[data-theme="dark"] { color-scheme: dark; --paper: #17181A; --ink: #E6E2DA; 
   --well: #222326; --well-edge: #2E2F31; --on-k: #17181A; --shadow: 0, 0, 0; --g: #26272A; --k: #C9C4BA; --ft-ink: #8A867E; } }
 /* photographs of pages keep their paper but are dimmed a little; the book's own figures are printed light on dark */
 html[data-theme="dark"] .made-scan img, html[data-theme="dark"] .jl-art img, html[data-theme="dark"] .leaf .leaf-img img { filter: brightness(.82) contrast(1.05); }
-html[data-theme="dark"] #chapter-text .archival-plate img { mix-blend-mode: screen; filter: invert(1) brightness(.85) contrast(1.1); }
+html[data-theme="dark"] #chapter-text .archival-plate img,
+html[data-theme="dark"] #chapter-text .fn-plate img { mix-blend-mode: screen; filter: invert(1) brightness(.85) contrast(1.1); }
 html[data-theme="dark"] .leaf .leaf-img { background: #222326; }
 html[data-theme="dark"] .cover::after { opacity: .55; }
 html[data-theme="dark"] .bk-head .cover { background: color-mix(in srgb, var(--g) 70%, black); }

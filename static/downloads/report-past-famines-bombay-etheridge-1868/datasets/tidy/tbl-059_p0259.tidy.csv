@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,1,data,,"Owners of the Waldegrave for bags 2,000",2,Column 2,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,1,data,,"Owners of the Waldegrave for bags 2,000",3,Column 3,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,1,data,,"Owners of the Waldegrave for bags 2,000",4,Column 4,Failed to supply.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,2,data,,Ditto,2,Column 2,Thetis,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,2,data,,Ditto,3,Column 3,"ditto 2,500",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,2,data,,Ditto,4,Column 4,"Supposed on the passage from Calcutta,",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,3,data,,Ditto,2,Column 2,Tay,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,3,data,,Ditto,3,Column 3,"ditto 1,000",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,3,data,,Ditto,4,Column 4,"Supposed on the passage from Calcutta,",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,4,data,,Ditto,2,Column 2,Hercules,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,4,data,,Ditto,3,Column 3,"ditto 1,500",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,4,data,,Ditto,4,Column 4,"Supposed on the passage from Calcutta,",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,5,data,,Ditto,2,Column 2,Melville,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,5,data,,Ditto,3,Column 3,"ditto 3,000",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,"Statement of Engagements for Horse Grain, viz:—",259,247,5,data,,Ditto,4,Column 4,"Supposed on the passage from Calcutta,",,,False,False

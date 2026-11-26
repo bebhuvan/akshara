@@ -19,7 +19,7 @@ proofing_url: "https://proof.akshara.ink/#desk/indian-famines-causes-prevention-
 next: "/books/indian-famines-causes-prevention-dutt-1901/chapters/02-indian-famines/"
 ---
 
-<div class="page-rail-marker" id="page-3"><button type="button" class="folio-trigger" data-page="3" data-folio="3" data-scan="https://archive.org/download/indianfaminesthe00duttrich/page/n2_w1400.jpg" aria-label="Inspect scan for page 3">[p. 3]</button></div><h2 class="sec-h1">INDIAN FAMINES</h2><h3 class="sec-h2">THEIR CAUSES AND PREVENTION.</h3><h4 class="sec-h3">BY</h4><h3 class="sec-h2">ROMESH DUTT, C.I.E.,</h3><div class="prose-unit"><p class="prose-p"><em>Late of the Indian Civil Service, and of the Middle Temple, Barrister-at-Law.</em></p></div><div class="prose-unit"><p class="imprint-line"><strong>London:</strong>
+<div class="page-rail-marker" id="page-3"><button type="button" class="folio-trigger" data-page="3" data-folio="3" data-scan="https://archive.org/download/indianfaminesthe00duttrich/page/n2_w1400.jpg" aria-label="Inspect scan for page 3">[p. 3]</button></div><h2 class="sec-h1">THEIR CAUSES AND PREVENTION.</h2><h3 class="sec-h2">BY</h3><h2 class="sec-h1">ROMESH DUTT, C.I.E.,</h2><div class="prose-unit"><p class="prose-p"><em>Late of the Indian Civil Service, and of the Middle Temple, Barrister-at-Law.</em></p></div><div class="prose-unit"><p class="imprint-line"><strong>London:</strong>
 P. S. KING &amp; SON,
 ORCHARD HOUSE,
 2 &amp; 4, GREAT SMITH STREET, WESTMINSTER.

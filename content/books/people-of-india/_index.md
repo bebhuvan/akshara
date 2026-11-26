@@ -1,6 +1,6 @@
 ---
 title: "The People of India"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "Second Edition, Edited by W. Crooke, B.A."
 author: "Sir Herbert Hope Risley"
 author_slug: "herbert-hope-risley"
@@ -13,9 +13,9 @@ reread_pages: 46
 human_verified_pages: 0
 chapters: 24
 footnotes_count: 216
-tables_count: 51
+tables_count: 44
 figures_count: 126
-reading_time: "~17 hrs"
+reading_time: "~16 hrs"
 type: "books"
 layout: "book"
 collection_slug: "general-heritage"
@@ -45,9 +45,9 @@ provenance_statement: "Machine-checked; 46 of 576 pages had flagged passages re-
 taxonomy_provenance:
   - "Read: Gemini 4 Hydrogen"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 129 fixes · 46 pp. checked"
+  - "Scan-Triaged: 143 fixes · 46 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
-  - "Tables: 51 Structured (No Printed Totals)"
+  - "Tables: 44 Structured (No Printed Totals)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
   - "Script: Latin"
@@ -349,14 +349,15 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (68 flyleaf/stamp block(s)) are excluded from reading prose; **299** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **8** cross-page split footnotes and **0** multi-page tables were stitched; and **952** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (68 flyleaf/stamp block(s)) are excluded from reading prose; **299** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **8** cross-page split footnotes and **7** multi-page tables were stitched; and **952** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (86 distinct non-ASCII characters across 393 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**1916** places); **349** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (1 pp.), `gemini-4-hydrogen` (575 pp.).
   - **Reader**: Read by gemini-4-hydrogen on 575 of 576 pages, gemini-3.8-flash on 1 of 576 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen).
-  - **Human Proofing**: 129 replayed correction(s). Machine-checked; 46 of 576 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 143 replayed correction(s). Machine-checked; 46 of 576 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
@@ -369,4 +370,4 @@ editorial_note_markdown: |-
 
 Second Edition, Edited by W. Crooke, B.A. Archival scope: spanning 1901-1915; covering All-India, Bengal, Punjab, Rajputana, South India; focusing on ethnology, caste and tribes, census anthropometry, proverbs, social history. Original imprint: Calcutta & Simla: Thacker, Spink & Co.; London: W. Thacker & Co. (1915).
 
-Digitized from Internet Archive copy [`cu31924024114773`](https://archive.org/details/cu31924024114773) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (216), and statistical tables (51) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`cu31924024114773`](https://archive.org/details/cu31924024114773) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (216), and statistical tables (44) are preserved faithfully from the source camera scans.

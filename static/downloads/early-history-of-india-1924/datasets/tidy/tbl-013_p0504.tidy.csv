@@ -1,0 +1,43 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,1,data,,I,2,Name.,"Dantidurga (Khaḍgāvaloka, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,1,data,,I,3,Approximate date of Acc. A. D.,753,753.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,1,data,,I,4,Known epigraphic dates.,753,753.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,2,data,,II,2,Name.,"Kṛishṇa I (Akālavarsha, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,2,data,,II,3,Approximate date of Acc. A. D.,760,760.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,2,data,,II,4,Known epigraphic dates.,770 (Govinda yuvarāja),,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,3,data,,III,2,Name.,"Govinda II (Prabhūtavarsha, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,3,data,,III,3,Approximate date of Acc. A. D.,775,775.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,3,data,,III,4,Known epigraphic dates.,779,779.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,4,data,,IV,2,Name.,"Dhruva (Nirupama, Śrivallabha, borrowed from the Chalukyas, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,4,data,,IV,3,Approximate date of Acc. A. D.,780,780.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,4,data,,IV,4,Known epigraphic dates.,783 (Jain Harivamsa),,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,5,data,,v,2,Name.,"Govinda III (Prabhūtavarsha, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,5,data,,v,3,Approximate date of Acc. A. D.,793,793.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,5,data,,v,4,Known epigraphic dates.,"794, 804, 808, 813",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,6,data,,vi,2,Name.,"Amōghavarsha I (Nṛipatuṅga, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,6,data,,vi,3,Approximate date of Acc. A. D.,815,815.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,6,data,,vi,4,Known epigraphic dates.,817–77,,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,7,data,,vii,2,Name.,"Kṛishṇa II (Kṛishṇavallabha, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,7,data,,vii,3,Approximate date of Acc. A. D.,880,880.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,7,data,,vii,4,Known epigraphic dates.,902–11,,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,8,data,,viii,2,Name.,"Indra III (Nityavarsha, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,8,data,,viii,3,Approximate date of Acc. A. D.,912,912.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,8,data,,viii,4,Known epigraphic dates.,"914, 916",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,9,data,,ix,2,Name.,Amōghavarsha II,,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,9,data,,ix,3,Approximate date of Acc. A. D.,916–7,,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,9,data,,ix,4,Known epigraphic dates.,Nil,0.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,10,data,,x,2,Name.,"Govinda IV (Gojjiga, Suvarṇavarsha, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,10,data,,x,3,Approximate date of Acc. A. D.,917,917.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,10,data,,x,4,Known epigraphic dates.,918–33,,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,11,data,,xi,2,Name.,"Amōghavarsha III (Baddiga, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,11,data,,xi,3,Approximate date of Acc. A. D.,935,935.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,11,data,,xi,4,Known epigraphic dates.,Nil,0.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,12,data,,xii,2,Name.,"Kṛishṇa III (Kannara, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,12,data,,xii,3,Approximate date of Acc. A. D.,940,940.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,12,data,,xii,4,Known epigraphic dates.,940–61,,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,13,data,,xiii,2,Name.,"Khoṭṭiga (Nityavarsha, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,13,data,,xiii,3,Approximate date of Acc. A. D.,965,965.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,13,data,,xiii,4,Known epigraphic dates.,971,971.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,14,data,,xiv,2,Name.,"Kakka II (Kakkalla, &c.)",,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,14,data,,xiv,3,Approximate date of Acc. A. D.,972,972.0,,False,False
+early-history-of-india-1924,tbl-013,A. D. 753–973.,504,454,14,data,,xiv,4,Known epigraphic dates.,"972, 973. (Restoration of Chalukyas by Taila in 973)",,,False,False

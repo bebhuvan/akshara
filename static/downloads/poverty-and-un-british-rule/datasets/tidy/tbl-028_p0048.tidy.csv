@@ -1,22 +1,16 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,1,data,,1½ Saree (dress),2,Column 2,Rs.,,Rs,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,1,data,,1½ Saree (dress),3,Column 3,3,3.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,1,data,,1½ Saree (dress),4,Column 4,12,12.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,2,data,,1 Cholee (short jacket),2,Column 2,",,",,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,2,data,,1 Cholee (short jacket),3,Column 3,0,0.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,2,data,,1 Cholee (short jacket),4,Column 4,12,12.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,3,data,,Oil for head,2,Column 2,",,",,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,3,data,,Oil for head,3,Column 3,1,1.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,3,data,,Oil for head,4,Column 4,8,8.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,4,data,,Bangrees (glass bangles),2,Column 2,",,",,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,4,data,,Bangrees (glass bangles),3,Column 3,0,0.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,4,data,,Bangrees (glass bangles),4,Column 4,6,6.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,5,data,,½ Champal (shoes),2,Column 2,",,",,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,5,data,,½ Champal (shoes),3,Column 3,0,0.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,5,data,,½ Champal (shoes),4,Column 4,4,4.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,6,data,,Extras,2,Column 2,",,",,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,6,data,,Extras,3,Column 3,1,1.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,6,data,,Extras,4,Column 4,0,0.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,7,total,,Row 7,2,Column 2,Rs.,,Rs,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,7,total,,Row 7,3,Column 3,7,7.0,,False,False
-poverty-and-un-british-rule,tbl-028,Table 28,48,28,7,total,,Row 7,4,Column 4,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,1,data,,Hut (labour taken as his own),2,Column 2,Rs.,,Rs,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,1,data,,Hut (labour taken as his own),3,Column 3,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,1,data,,Hut (labour taken as his own),4,Column 4,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,2,data,,"Hut repairs (bamboos, &c.), per annum",2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,2,data,,"Hut repairs (bamboos, &c.), per annum",3,Column 3,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,2,data,,"Hut repairs (bamboos, &c.), per annum",4,Column 4,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,3,data,,"Oil for lamp, per day",2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,3,data,,"Oil for lamp, per day",3,Column 3,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,3,data,,"Oil for lamp, per day",4,Column 4,0⅙,0.166667,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,4,data,,Barber per month,2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,4,data,,Barber per month,3,Column 3,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,4,data,,Barber per month,4,Column 4,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,5,data,,Domestic utensils per annum,2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,5,data,,Domestic utensils per annum,3,Column 3,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-028,Table 28,48,28,5,data,,Domestic utensils per annum,4,Column 4,12,12.0,,False,False

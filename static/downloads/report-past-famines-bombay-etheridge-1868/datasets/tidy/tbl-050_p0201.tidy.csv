@@ -1,0 +1,631 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,2,A. D. 1805.,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,3,A. D. 1806.,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,4,A. D. 1808.,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,5,A. D. 1810.,Jowaree .. 44 Seers. Gram .... 20 „,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,6,Column 6,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,7,Column 7,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,8,Column 8,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,9,Column 9,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,10,Column 10,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,11,Column 11,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,12,Column 12,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,13,Column 13,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,14,Column 14,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,2,subheader,the extent that the records furnish evidence,Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „,15,Column 15,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,2,A. D. 1805.,Remissions.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,3,A. D. 1806.,Percentage.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,4,A. D. 1808.,Ordinary Revenue.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,5,A. D. 1810.,Remissions.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,6,Column 6,Percentage.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,7,Column 7,Ordinary Revenue.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,8,Column 8,Remissions.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,9,Column 9,Percentage.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,10,Column 10,Ordinary Revenue.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,11,Column 11,Remissions.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,12,Column 12,Percentage.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,13,Column 13,Ordinary Revenue.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,14,Column 14,Remissions.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,3,header,the extent that the records furnish evidence,Ordinary Revenue,15,Column 15,Percentage.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,2,A. D. 1805.,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,3,A. D. 1806.,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,4,A. D. 1808.,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,5,A. D. 1810.,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,6,Column 6,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,7,Column 7,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,8,Column 8,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,9,Column 9,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,10,Column 10,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,11,Column 11,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,12,Column 12,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,13,Column 13,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,14,Column 14,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,4,header,the extent that the records furnish evidence,Rs,15,Column 15,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,4,A. D. 1808.,"1,09,316",109316.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,5,A. D. 1810.,"13,580",13580.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,6,Column 6,12,12.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,7,Column 7,"71,484",71484.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,8,Column 8,"12,162",12162.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,9,Column 9,17,17.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,5,data,the extent that the records furnish evidence,Row 5,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,6,data,the extent that the records furnish evidence,Row 6,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,7,data,the extent that the records furnish evidence,Row 7,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,13,Column 13,"2,77,122",277122.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,14,Column 14,"1,09,499",109499.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,8,data,the extent that the records furnish evidence,Row 8,15,Column 15,39,39.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,9,data,the extent that the records furnish evidence,Row 9,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,13,Column 13,"17,245",17245.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,14,Column 14,"1,535",1535.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,10,data,the extent that the records furnish evidence,Row 10,15,Column 15,9,9.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,13,Column 13,"15,827",15827.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,14,Column 14,"1,691",1691.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,11,data,the extent that the records furnish evidence,Row 11,15,Column 15,11,11.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,12,data,the extent that the records furnish evidence,Row 12,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,13,Column 13,"3,812",3812.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,14,Column 14,582,582.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,13,data,the extent that the records furnish evidence,Row 13,15,Column 15,15,15.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,14,data,the extent that the records furnish evidence,Row 14,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,13,Column 13,"15,356",15356.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,14,Column 14,"2,231",2231.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,15,data,the extent that the records furnish evidence,Row 15,15,Column 15,15,15.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,16,data,the extent that the records furnish evidence,Row 16,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,13,Column 13,"2,969",2969.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,14,Column 14,135,135.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,17,data,the extent that the records furnish evidence,Row 17,15,Column 15,4,4.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,13,Column 13,"40,921",40921.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,14,Column 14,"33,975",33975.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,18,data,the extent that the records furnish evidence,Row 18,15,Column 15,83,83.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,19,data,the extent that the records furnish evidence,Row 19,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,20,data,the extent that the records furnish evidence,Row 20,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,21,data,the extent that the records furnish evidence,Row 21,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,22,data,the extent that the records furnish evidence,Row 22,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,23,data,the extent that the records furnish evidence,Row 23,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,24,data,the extent that the records furnish evidence,Row 24,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,25,data,the extent that the records furnish evidence,Row 25,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,26,data,the extent that the records furnish evidence,Row 26,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,27,data,the extent that the records furnish evidence,Row 27,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,28,data,the extent that the records furnish evidence,Row 28,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,29,data,the extent that the records furnish evidence,Row 29,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,30,data,the extent that the records furnish evidence,Row 30,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,31,data,the extent that the records furnish evidence,Row 31,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,32,data,the extent that the records furnish evidence,Row 32,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",2,A. D. 1805.,"29,271",29271.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",3,A. D. 1806.,13,13.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",7,Column 7,"4,72,527",472527.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",8,Column 8,"2,15,336",215336.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",9,Column 9,46,46.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,33,data,the extent that the records furnish evidence,"2,21,518",15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,34,data,the extent that the records furnish evidence,Row 34,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,35,data,the extent that the records furnish evidence,Row 35,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,36,data,the extent that the records furnish evidence,Row 36,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,37,data,the extent that the records furnish evidence,Row 37,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",2,A. D. 1805.,"4,493",4493.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",3,A. D. 1806.,11,11.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,38,data,the extent that the records furnish evidence,"41,364",15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,39,data,the extent that the records furnish evidence,Row 39,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",2,A. D. 1805.,32 082,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",3,A. D. 1806.,23,23.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",4,A. D. 1808.,"1,33,381",133381.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",5,A. D. 1810.,"32,089",32089.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",6,Column 6,24,24.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",7,Column 7,"1,34,266",134266.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",8,Column 8,"29,361",29361.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",9,Column 9,22,22.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",10,Column 10,"1,34,029",134029.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",11,Column 11,"29,055",29055.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",12,Column 12,22,22.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",13,Column 13,"1,09,357",109357.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",14,Column 14,"23,021",23021.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,40,data,the extent that the records furnish evidence,"1,39,573",15,Column 15,21,21.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,41,data,the extent that the records furnish evidence,Row 41,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,42,data,the extent that the records furnish evidence,Row 42,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,43,data,the extent that the records furnish evidence,Row 43,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,10,Column 10,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,11,Column 11,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,12,Column 12,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,44,data,the extent that the records furnish evidence,Row 44,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,2,A. D. 1805.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,3,A. D. 1806.,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,4,A. D. 1808.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,5,A. D. 1810.,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,6,Column 6,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,7,Column 7,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,8,Column 8,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,9,Column 9,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,10,Column 10,"39,161",39161.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,11,Column 11,"21,897",21897.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,12,Column 12,56,56.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,13,Column 13,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,14,Column 14,....,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,45,data,the extent that the records furnish evidence,Row 45,15,Column 15,..,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",2,A. D. 1805.,"65,846",65846.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",3,A. D. 1806.,16,16.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",4,A. D. 1808.,"2,42,697",242697.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",5,A. D. 1810.,"45,669",45669.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",6,Column 6,19,19.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",7,Column 7,"6,78,277",678277.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",8,Column 8,"2,56,879",256879.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",9,Column 9,38,38.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",10,Column 10,"1,73,190",173190.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",11,Column 11,"50,952",50952.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",12,Column 12,29,29.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",13,Column 13,"4,82,609",482609.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",14,Column 14,"1,72,669",172669.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-050,Table 50,201,189,46,total,,"4,02,455",15,Column 15,36,36.0,,False,False

@@ -22,7 +22,7 @@
         <idno type="book_id">poverty-and-un-british-rule</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -299,24 +299,13 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">Punjab.</hi></head>
             <p>The administration report of 1867-8 gives all the necessary agricultural tables, except one, <hi rend="italic">viz.</hi>, the produce per acre of the different kinds of crops. I take this year (1867-8) as a better season, and with a larger extent of cultivation than that of 1868-9.</p>
             <p>The chief crops are wheat and other inferior grains—the former nearly 20, and the latter 50 per cent., of the whole cultivation. The price of wheat is higher than that of other inferior grains; and as I take the prices of first-class wheat, I think the average price of the produce of one acre of wheat, applied to the whole cultivated acreage, will be very much above the actual value of the production, and my estimate will be much higher than it ought to be.</p>
-            <table xml:id="tbl-001" rows="7" cols="3">
-        <head>Summary.</head>
-        <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>Rice</cell><cell rend="num">2,938,328</cell><cell rend="num">4,18,43,575</cell></row>
-        <row role="data"><cell>Wheat</cell><cell rend="num">3,313,677</cell><cell rend="num">3,51,77,956</cell></row>
-        <row role="data"><cell>Other Food Grains</cell><cell rend="num">4,197,516</cell><cell rend="num">4,70,63,760</cell></row>
-        <row role="data"><cell>Oil Seeds</cell><cell rend="num">697,100</cell><cell rend="num">1,04,42,854</cell></row>
-        <row role="data"><cell>Cotton</cell><cell rend="num">643,390</cell><cell rend="num">50,28,838</cell></row>
-        <row role="data" rend="total"><cell>Total</cell><cell rend="num">11,790,011</cell><cell rend="num">13,95,56,983</cell></row>
-      </table>
-            <p>Average, Rs. 11-13-5 per acre.</p>
             <pb xml:id="page-26" n="6" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n25_w1400.jpg"/>
             <p>As the administration reports of both 1867-8 and 1868-9 do not give the produce of crops per acre, I ascertain it from other sources.</p>
             <p>In the administration report of the Punjab for the year 1850-51 (published in 1854 by the Court of Directors), drawn up by Mr. (now Sir Richard) Temple, a detailed table, dated Jullundhur, 25th October, 1851, gives the produce per acre. The table gives fourteen instances of first-class lands, which, by the rough process of adding up and dividing by the number of instances, gives 14⅐ maunds = 1,160 lbs. (a maund equals 82 lbs.—Report 1855-6) ; for the <hi rend="italic">second class</hi> from eight instances, I find the average 13½ maunds, or 1,107 lbs. ; and for the third class from six instances, I find 11 maunds, or 902 lbs. From this table I have taken all at 10 maunds or upwards as representing irrigated land, and the second class, representing the bulk of it, as producing 1,100 lbs. per acre. For unirrigated land I have not sufficient data. I adopt 600 lbs. per acre, for reasons I have stated under heading “North-West Provinces.”</p>
             <p>After I had made my following calculations on the above basis, I was favoured with a loan from the Record Department of the India Office of the administration report for 1869-70. The produce per acre is given in this report, but the average is taken on the objectionable principle of adding up the produce of all districts and dividing by the number of districts, without reference to the extent of cultivation in each district. According to this, the average of the produce of wheat per acre of all the districts is given in the report as only 624 lbs. The highest produce in three districts included in this average is 1,044, 1,066, and 1,000 lbs. ; so that my assumption of 1,100 lbs. per acre for <hi rend="italic">all</hi> irrigated land is much above the mark. Again, even making allowance for the drought of the years 1868-9 and 1869-70, my assumption, of 600 lbs. of wheat per acre of all unirrigated land only, is also above the mark.</p>
             <p>I take the calculated area of 1867-8, which is also the largest of the three years 1867-8, 1868-9, 1869-70 ; and I take prices for 1867-8, that having been an average good season. The prices of 1868-9 and 1869-70 are scarcity-prices. The year 1867-8 is a fair test for the produce of the Punjab in an average favourable season.</p>
             <p>The report for 1867-8 does not give prices of produce for <pb xml:id="page-27" n="7" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n26_w1400.jpg"/> all districts separately, but only of a few important towns, <hi rend="italic">viz.</hi>, Delhi, Umballa, Lahore, Sealkote, Mooltan, and Peshawur (page ciii.); and as I take these prices to represent not only those of the whole of the districts of these towns, but of all the districts of the Punjab, I evidently assume a much higher price than actually must have been the case. My results, therefore, will be affected in a double way (<hi rend="italic">viz.</hi>, firstly, in taking first-class wheat to represent all produce; and secondly, in taking the prices in the principal towns to represent all Punjab); and will show then the total value of the production of all Punjab much higher than the reality. I therefore think I shall not be unfair in deducting 10 per cent. as some correction of this double error; and even then I shall be above the mark. The prices given in the report for 1867-8 are as follows (III E. J. Statement, showing the prices of produce in the Punjab for the year 1867-8) :—</p>
-            <table xml:id="tbl-002" rows="8" cols="7">
+            <table xml:id="tbl-001" rows="8" cols="7">
         <row role="label"><cell role="label" rows="2"></cell><cell role="label" cols="5">Price in Seers for One Rupee.</cell><cell role="label" rows="2"></cell></row>
         <row role="label"><cell role="label">1st June 1866.</cell><cell role="label">1st Jan. 1867.</cell><cell role="label">1st June 1867.</cell><cell role="label">1st Jan. 1868.</cell><cell role="label">Average</cell></row>
         <row role="data"><cell>Delhi</cell><cell rend="num">21½</cell><cell rend="num">20</cell><cell rend="num">19½</cell><cell rend="num">25</cell><cell rend="num">21½</cell><cell rows="6">The Seer is 2 lbs.</cell></row>
@@ -327,7 +316,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell>Peshawur</cell><cell rend="num">24¾</cell><cell rend="num">22</cell><cell rend="num">20¾</cell><cell rend="num">15</cell><cell rend="num">20½</cell></row>
       </table>
             <p>I take the above averages of the towns to represent their whole districts, and then the average of the six districts to represent the whole of the Punjab in the following calculation (wheat first sort is taken to represent all produce) :--</p>
-            <table xml:id="tbl-003" rows="9" cols="6">
+            <table xml:id="tbl-002" rows="9" cols="6">
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Irrigated Land.</cell><cell role="label">Produce per Acre.</cell><cell role="label">Total Produce.</cell><cell role="label">For Re. 1.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>Delhi</cell><cell rend="num">200,955</cell><cell rend="num">1,100</cell><cell rend="num">221,050,500</cell><cell rend="num">43</cell><cell rend="num">51,40,709</cell></row>
@@ -343,7 +332,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>I now apply this to all irrigated land of the Punjab.</p>
             <p>Total irrigated acres are 6,147,038, which, at Rs. 28-7-9 per acre, will give Rs. 17,69,73,224 as the total value of the produce of irrigated land of the Punjab for 1867-8.</p>
             <p>I now calculate the value of the produce of unirrigated land (wheat first sort is taken to represent all produce) :—</p>
-            <table xml:id="tbl-004" rows="9" cols="6">
+            <table xml:id="tbl-003" rows="9" cols="6">
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Unirrigated Land.</cell><cell role="label">Produce per acre.</cell><cell role="label">Total Produce.</cell><cell role="label">For Re. 1.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>Delhi</cell><cell rend="num">307,690</cell><cell rend="num">600</cell><cell rend="num">184,614,000</cell><cell rend="num">43</cell><cell rend="num">42,93,348</cell></row>
@@ -361,7 +350,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">North-West Provinces.</hi></head>
             <p>I take the figures of 1867-8, being an average good season. The subsequent ones, 1868-9 and 1869-70, have been bad.</p>
             <p>The administration report does not give the distribution of chief crops, but I find in the Statistical Reporter of the <hi rend="italic">Indian Economist</hi> (page 136) of 15th March, 1871, a table of the crops for 1868-9. From this it will be seen that, out of a total of about 22,000,000 acres, rice, jowari, bajri, wheat, and barley make up—</p>
-            <table xml:id="tbl-005" rows="4" cols="2">
+            <table xml:id="tbl-004" rows="4" cols="2">
         <row role="data"><cell>Rice</cell><cell rend="num">2,479,874</cell></row>
         <row role="data"><cell>Jowari and Bajri</cell><cell rend="num">4,302,890</cell></row>
         <row role="data"><cell>Wheat and Barley</cell><cell rend="num">7,257,873</cell></row>
@@ -371,7 +360,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>As I cannot get the prices of all the above kinds of produce, except wheat and barley, if I take wheat to represent all, I shall be above the mark.</p>
             <p>In the administration report of 1868-9 there is a table given of prices of wheat and barley. I take the prices for the months of April, May, and June as those of the good season of 1867-8. The subsequent prices are affected by drought. I should have preferred to take the prices for January to June, 1868; but the table does not give the earlier months. These prices are of some of the chief markets only, so that, taking the prices to represent the whole of the respective districts, and then taking the average of these few districts to represent the whole of the North-West Provinces, the result will be much higher; so, as in the case of the Punjab, I deduct 10 per cent. as some correction for these errors of excess.</p>
             <p>The prices given in the report of 1868-9, pages 29, 30, are as follows:—“ The following table gives the prices at the close of each month for the year in the chief markets of the provinces. The figures denote seers and chittacks.</p>
-            <table xml:id="tbl-006" rows="13" cols="12">
+            <table xml:id="tbl-005" rows="13" cols="12">
         <row role="label"><cell role="label" rows="3">Districts.</cell><cell role="label" cols="10"><hi rend="smallcaps">Wheat.</hi></cell><cell role="label" rows="3">My Remarks.</cell></row>
         <row role="label"><cell role="label" cols="2">April.</cell><cell role="label" cols="2">May.</cell><cell role="label" cols="2">June.</cell><cell role="label" cols="4">Average.</cell></row>
         <row role="label"><cell role="label">s.</cell><cell role="label">c.</cell><cell role="label">s.</cell><cell role="label">c.</cell><cell role="label">s.</cell><cell role="label">c.</cell><cell role="label">s.</cell><cell role="label">c.</cell><cell role="label">lb.</cell><cell role="label">oz.</cell></row>
@@ -393,7 +382,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <quote><p>1st class 11 bushels = 638 lbs. 2nd ,, 9 ,, = 522 ,, 3rd ,, 7 ,, = 406 ,,</p></quote>
             <p>Taking second class as representing the bulk, the average for irrigated land may be considered as 928 lbs., and for unirrigated 522 lbs. From all the above particulars it will be seen that the estimate I have adopted, of 1,100 lbs. per acre for irrigated and 600 lbs. for unirrigated land, is something above a fair average. A Settlement Officer of the North-West Provinces, in a letter to the <hi rend="italic">Indian Economist</hi> of 15th February, 1871 (“Agricultural Gazette,” page 171) sums up all that is known to him on the subject of the produce of wheat per acre in those Provinces. It will be too long an extract to insert here; but, making allowance for the “mischievous fallacy” of all official documents alluded to by this writer, about which I have already complained to the India Office, and which vitiates averages for a number of years or places, I think the average I have adopted above is something more than a reasonable one. When administration reports will give, as they ought, correct particulars for each <pb xml:id="page-31" n="11" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n30_w1400.jpg"/> district every year, accurate estimates of the actual produce of the Provinces could be easily made. I give the calculations below. The table of cultivated land, given at page 45 of the appendix to the administration report of 1867-8, does not give the irrigated and unirrigated extent of land separately for the Moradabad, Tarrae, Mynpoorie, Banda and Ghazipore districts.</p>
             <p>I find that the totals of irrigated and unirrigated land bear nearly the proportion of two-fifths and three-fifths respectively of the whole total cultivated land. I assign the same proportion to the above districts in the absence of actual particulars.</p>
-            <table xml:id="tbl-007" rows="13" cols="6">
+            <table xml:id="tbl-006" rows="13" cols="6">
         <head><hi rend="italic">Wheat.</hi></head>
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Irrigated Land.</cell><cell role="label">Produce per Acre.</cell><cell role="label">Total Produce.</cell><cell role="label">For 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs. ozs.</cell><cell role="label">Rs.</cell></row>
@@ -413,7 +402,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>Applying the average of the above districts to the whole of the irrigated area of the North-West Provinces, the result will be—acres 10,045,050 × Rs. 24-2-8 = Rs. 24,38,93,814.</p>
             <p>In a similar manner, the total value of the produce of unirrigated land, as represented by wheat, will be as follows :—</p>
             <pb xml:id="page-32" n="12" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n31_w1400.jpg"/>
-            <table xml:id="tbl-008" rows="13" cols="6">
+            <table xml:id="tbl-007" rows="13" cols="6">
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Unirrigated Land.</cell><cell role="label">Produce per Acre.</cell><cell role="label">Total Produce.</cell><cell role="label">For 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs. ozs.</cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>Saharunpore</cell><cell rend="num">621,382</cell><cell rend="num">600</cell><cell rend="num">372,829,200</cell><cell>47 6</cell><cell rend="num">75,50,960</cell></row>
@@ -430,7 +419,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>The average value of wheat per acre of unirrigated land is, therefore, Rs. 13-4-9.</p>
             <p>Applying this average to the whole unirrigated land of the North-West Provinces, we get — acres 14,132,111 × Rs. 13-4-9 = Rs. 19,06,42,177. The grand total of the value of the produce of irrigated and unirrigated land will be—</p>
-            <table xml:id="tbl-009" rows="3" cols="3">
+            <table xml:id="tbl-008" rows="3" cols="3">
         <row role="data"><cell>Irrigated</cell><cell rend="num">10,045,050 acres</cell><cell rend="num">Rs. 24,38,93,814</cell></row>
         <row role="data"><cell>Unirrigated</cell><cell rend="num">14,132,111 „</cell><cell>„ 19,06,42,177</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">24,177,161 „</cell><cell>„ 43,45,35,991</cell></row>
@@ -453,7 +442,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">Madras.</hi></head>
             <p>I take the administration report of 1868-9 as I have not been able to get an opportunity of studying that of 1867-8. Besides, as prices have not much altered, the later report is the better. I am obliged to ascertain the produce per acre from other sources : the report does not give the information. I take paddy to represent the produce of wet, and cumboo for dry land, as they form the bulk of the produce of the country.</p>
             <p>Mr. H. Newill, the Director of Settlements for South Arcot, in his letter of 27th August, 1859 (Selections of the Madras Government, No. 14, of 1869, Appendix Y, from page 142), gives an elaborate table of produce per acre of the principal grains, as ascertained by a large number of experiments and general enquiry; and the result of his investigations gives, for the different classes of soils, the following produce, from which 5 per cent. is to be deducted for numerous ridges for regulating irrigation channels, exterior boundaries, etc. :—</p>
-            <table xml:id="tbl-010" rows="10" cols="4">
+            <table xml:id="tbl-009" rows="10" cols="4">
         <head><hi rend="italic">Produce of Wet Land per acre for “Good Crop” first grade Land—</hi></head>
         <row role="label"><cell role="label">Description of Soils.</cell><cell role="label">Value assigned for Good Crops per Acre H. C. (Bazar Huris Cullum).</cell><cell role="label">Description of Soils.</cell><cell role="label">Value assigned for Good Crops per Acre H. C. (Bazar Huris Cullum).</cell></row>
         <row role="data"><cell rend="num">1</cell><cell rend="num">45</cell><cell rend="num">10</cell><cell rend="num">30</cell></row>
@@ -470,7 +459,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>For second grade land, deduct 15 per cent., which will give 24¼ H. C. For third grade deduct 20 per cent., which will give 22·8 H. C. For bad seasons Mr. Newill deducts 10 per cent. more, which I do not; so that the produce calculated by me is for “good crop,” or in “good season,” as in all other cases. Taking second grade as the bulk of the land, I take 24¼ H. C. as the average of all wet land.</p>
             <pb xml:id="page-36" n="16" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n35_w1400.jpg"/>
             <p>For dry land for cumboo (page 150), Mr. Newill gives the produce per acre as follows :—</p>
-            <table xml:id="tbl-011" rows="7" cols="6">
+            <table xml:id="tbl-010" rows="7" cols="6">
         <row role="label"><cell role="label">Descriptions of Soil.</cell><cell role="label">H. C.</cell><cell role="label">Descriptions of Soils.</cell><cell role="label">H. C.</cell><cell role="label">Descriptions of Soils.</cell><cell role="label">H. C.</cell></row>
         <row role="data"><cell rend="num">1</cell><cell rend="num">21</cell><cell rend="num">6</cell><cell rend="num">17</cell><cell rend="num">11</cell><cell rend="num">12</cell></row>
         <row role="data"><cell rend="num">2</cell><cell rend="num">18</cell><cell rend="num">7</cell><cell rend="num">15</cell><cell rend="num">12</cell><cell rend="num">10</cell></row>
@@ -486,7 +475,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Bombay</hi>.</head>
             <p>The season 1867-8 was a favourable one (Bombay administration report, 1867-8, page 59); that for 1868-9 unfavourable (report for 1868-9, page 65). I take the former to ascertain the produce of a fair good season. I am sorry that the administration reports give no agricultural information. I therefore take the necessary particulars from other sources. The Revenue Commissioner’s reports for 1867-8 give the total area under cultivation for the Northern Division at 5,129,754 acres and 1,263,139 beegahs, in which are included for grass and fallow-land 611,198 acres and 226,708 beegahs. The actual cultivated land will, after deducting this, be 4,518,556 acres, and 1,036,431 beegahs = 609,842 acres, or total acres, 5,128,398. Out of this, bajri, jowari, rice, and cotton make up nearly two-thirds, or above 60 per cent., as follows:—</p>
-            <table xml:id="tbl-012" rows="6" cols="3">
+            <table xml:id="tbl-011" rows="6" cols="3">
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">Beegahs.</cell></row>
         <row role="data"><cell>Bajri</cell><cell rend="num">985,427</cell><cell rend="num">56,857</cell></row>
         <row role="data"><cell>Jowari</cell><cell rend="num">676,377</cell><cell rend="num">224,210</cell></row>
@@ -496,7 +485,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>or total acres 3,206,455.</p>
             <p>Similarly for the Southern Division, out of the total acres, 13,985,892, jowari, bajri, rice, and cotton make up above 60 per cent. as follows:—</p>
-            <table xml:id="tbl-013" rows="6" cols="2">
+            <table xml:id="tbl-012" rows="6" cols="2">
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell></row>
         <row role="data"><cell>Jowari</cell><cell rend="num">4,906,073</cell></row>
         <row role="data"><cell>Bajri</cell><cell rend="num">2,715,719</cell></row>
@@ -505,7 +494,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data" rend="total"><cell></cell><cell rend="num">8,830,436</cell></row>
       </table>
             <p>I take, therefore, these four articles to represent the produce of the whole Presidency, though this will give a higher estimate. Neither the administration nor the Revenue Commissioner’s reports give produce per acre or prices. I take these two items as follows. From selections of the <pb xml:id="page-38" n="18" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n37_w1400.jpg"/> Bombay Government, Nos. 10 and 11 of 1853, I get the following estimate of produce :—</p>
-            <table xml:id="tbl-014" rows="8" cols="8">
+            <table xml:id="tbl-013" rows="8" cols="8">
         <head><hi rend="italic">Produce per Acre in Pounds.</hi></head>
         <row role="label"><cell role="label" cols="2">Selections.</cell><cell role="label" rows="2">Districts Reported upon.</cell><cell role="label">Bajri with Kuthole.</cell><cell role="label">Jowari with Kuthole.</cell><cell role="label">Sathi, or Coarse Rice.</cell><cell role="label">Kupas, or uncleaned Cotton.</cell><cell role="label" rows="2">Remarks.</cell></row>
         <row role="label"><cell role="label">No.</cell><cell role="label">Page.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell></row>
@@ -520,7 +509,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>The next thing to settle is the prices. I take them from the <hi rend="italic">Government Gazette</hi> weekly prices for the months of January to May, 1868, as fairly representing the effect of the average favourable season of 1867-8. These are retail prices of the chief markets of the respective districts, and it will be necessary to deduct 10 per cent. to make a fair average for the whole of the Division. For cotton I take the export prices from the Prices Current of the Bombay Chamber of Commerce for January to May, 1868. This gives an average of Rs. 181 per candy. The export prices I have taken represent more than the average value of the whole crop of the <pb xml:id="page-39" n="19" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n38_w1400.jpg"/> Presidency, as the above average is for Fair Dhollera and Bhownuggur, which necessarily give a higher figure than the average of all the different varieties. Again, the bulk of the cotton is not “fair,” but “mid-fair”; so, to make a fair allowance for all these circumstances, I take the price for 1867-8 as Rs. 170 per candy of 784 lbs.</p>
             <p><hi rend="italic">The Southern Division.</hi>—As a whole, this Division is not as fertile as the Northern. I shall take, however, only 50 lbs. less for bajri, jowari, and rice; and for cotton I take 60 lbs. per acre—a high average for the whole of the Division; for Mr. J. B. Smith, M.P., in his paper of 1857 read before the Society of Arts, quotes Mr. Vary, the then late Superintendent of Government Cotton Experiments in Sattara and Sholapore, to the effect that “40 lbs. of clean cotton per acre is considered a fair crop.” For rice, I take Rutnagherry as exceptional in its produce. If I give 1,700 lbs. per acre for the whole district, it will be a high average.<ref xml:id="ref-sec-04-fn-006" type="noteref" target="#sec-04-fn-006">1</ref> I take the prices from the <hi rend="italic">Government Gazette</hi> in the same way as for the Northern Division, and a similar reduction of 10 per cent. will have to be made. I give below a table worked out in the manner described above:—</p>
             <pb xml:id="page-40" n="20" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n39_w1400.jpg"/>
-            <table xml:id="tbl-015" rows="17" cols="5">
+            <table xml:id="tbl-014" rows="17" cols="5">
         <head><hi rend="italic">Bajri.</hi></head>
         <row role="label"><cell role="label">Collectorates.</cell><cell role="label">Cultivated Area.</cell><cell role="label">Total Produce (at 900 lbs. per Acre).</cell><cell role="label">Price per 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
@@ -540,7 +529,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell>Sattara</cell><cell rend="num">398,573</cell><cell rend="num">338,787,050</cell><cell rend="num">52·9</cell><cell rend="num">64,04,292</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">2,715,715</cell><cell>......</cell><cell>....</cell><cell rend="num">5,98,35,748</cell></row>
       </table>
-            <table xml:id="tbl-016" rows="17" cols="5">
+            <table xml:id="tbl-015" rows="17" cols="5">
         <head><hi rend="italic">Jowari.</hi></head>
         <row role="label"><cell role="label">Collectorates.</cell><cell role="label">Cultivated Area.</cell><cell role="label">Total Produce (at 900 lbs. per Acre).</cell><cell role="label">Price per 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
@@ -561,7 +550,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">4,906,070</cell><cell>......</cell><cell>....</cell><cell rend="num">7,37,54,269</cell></row>
       </table>
             <pb xml:id="page-41" n="21" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n40_w1400.jpg"/>
-            <table xml:id="tbl-017" rows="17" cols="5">
+            <table xml:id="tbl-016" rows="17" cols="5">
         <head><hi rend="italic">Rice.</hi></head>
         <row role="label"><cell role="label">Collectorates.</cell><cell role="label">Cultivated Area.</cell><cell role="label">Total Produce (at 900 lbs. per Acre.)</cell><cell role="label">2nd Sort, price per 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
@@ -581,7 +570,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell>Sattara</cell><cell rend="num">67,820</cell><cell rend="num">57,647,000</cell><cell rend="num">22·4</cell><cell rend="num">25,73,527</cell></row>
         <row role="data" rend="total"><cell>Total.</cell><cell rend="num">504,013</cell><cell rend="num">539,253,600</cell><cell>...</cell><cell rend="num">2,21,24,406</cell></row>
       </table>
-            <table xml:id="tbl-018" rows="4" cols="6">
+            <table xml:id="tbl-017" rows="4" cols="6">
         <head><hi rend="italic">Cotton.</hi></head>
         <row role="label"><cell role="label">Collectorates.</cell><cell role="label">Cultivated Area.</cell><cell role="label">Produce per Acre.</cell><cell role="label">Total Produce.</cell><cell role="label">Price per Candy.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell><cell role="label">Rs.</cell></row>
@@ -592,7 +581,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           </div>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Summary.</hi></head>
-            <table xml:id="tbl-019" rows="7" cols="5">
+            <table xml:id="tbl-018" rows="7" cols="5">
         <head><hi rend="italic">Northern Division.</hi></head>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">Rs.</cell><cell role="label">Rs.</cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>Bajri .</cell><cell rend="num">1,018,870</cell><cell rend="num">3,21,50,323</cell><cell></cell><cell></cell></row>
@@ -603,7 +592,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data" rend="total"><cell>Total .</cell><cell rend="num">3,206,446</cell><cell></cell><cell></cell><cell rend="num">Rs. 9,14,25,182</cell></row>
       </table>
             <p>Average per acre . . . Rs. 28·51</p>
-            <table xml:id="tbl-020" rows="7" cols="5">
+            <table xml:id="tbl-019" rows="7" cols="5">
         <head><hi rend="italic">Southern Division.</hi></head>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">Rs.</cell><cell role="label">Rs.</cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>Bajri .</cell><cell rend="num">2,715,715</cell><cell rend="num">5,98,35,748</cell><cell></cell><cell></cell></row>
@@ -614,7 +603,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data" rend="total"><cell>Total .</cell><cell rend="num">8,830,427</cell><cell></cell><cell></cell><cell rend="num">Rs. 14,93,10,348</cell></row>
       </table>
             <p>Average per acre . . . . Rs. 17.</p>
-            <table xml:id="tbl-021" rows="4" cols="3">
+            <table xml:id="tbl-020" rows="4" cols="3">
         <head><hi rend="italic">Total Cultivated Area.</hi></head>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>Northern Division .</cell><cell>5,128,221 at Rs. 28·51 =</cell><cell rend="num">14,62,05,580</cell></row>
@@ -627,7 +616,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Oudh.</hi></head>
             <p>The administration report does not give the agricultural tables, but they are given in the revenue report. Wheat <pb xml:id="page-43" n="23" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n42_w1400.jpg"/> forms the most important produce in Oudh, as in the North-West Provinces. I take it to represent the whole produce. In the revenue report ending 30th September, 1868, the average produce per acre is given at 892 lbs.—say 900 lbs. Now, in Oudh, irrigated land is nearly within 10 per cent. of unirrigated land. I shall give the above produce per acre for both, as the table also gives this as the average of all land. The year 1867-8 was somewhat below an average good season, and the prices, therefore, higher than they would be for an average good season year. I take them, however, as they are. The average for wheat, first quality, is given at Rs. 1-9-7 per maund of 80 lbs., and for second quality Rs. 1-8-4—the average will be about Rs. 1-9. As a small correction for the prices being of an inferior season, the average being on the usual wrong principle, and the second quality being the largest quantity, I shall deduct only 10 per cent. The total cultivated area is 12,486 square miles, or 7,991,040 acres. The total produce, at 900 lbs. of wheat per acre, will be 7,191,936,000 lbs.; and the total value, at the rate of Rs. 1-9 per maund of 80 lbs., will be Rs. 14,04,67,500. This, less 10 per cent., will be Rs. 12,64,20,750, or say £13,000,000, for a population of 9,500,000.</p>
-            <table xml:id="tbl-022" rows="10" cols="4">
+            <table xml:id="tbl-021" rows="10" cols="4">
         <head><hi rend="smallcaps">Summary.</hi></head>
         <row role="label"><cell role="label">Provinces.</cell><cell role="label">Value of the Produce of Cultivated Land.</cell><cell role="label">Population.</cell><cell role="label">Produce per head.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">£</cell><cell role="label"></cell><cell role="label">Rs.</cell></row>
@@ -656,7 +645,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>I now consider what is necessary for the bare wants of a human being, to keep him in ordinary good health and decency.</p>
             <p>I have calculated production chiefly for the year 1867-8. I shall take the same year for ascertaining the necessary consumption.</p>
             <p>Surgeon S. B. Partridge, Government Medical Inspector of Emigrants, in a statement dated Calcutta, 26th March, 1870,<ref xml:id="ref-sec-04-fn-011" type="noteref" target="#sec-04-fn-011">1</ref> proposes the following as a scale of diet to supply the necessary ingredients of nourishment for the emigrant coolies during their voyage, living in a state of quietude:—</p>
-            <table xml:id="tbl-023" rows="10" cols="4">
+            <table xml:id="tbl-022" rows="10" cols="4">
         <row role="label"><cell role="label" cols="2">Rice Diet for One Man.</cell><cell role="label" cols="2">For Flour Diet</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">ozs.</cell><cell role="label"></cell><cell role="label">ozs.</cell></row>
         <row role="data"><cell>Rice</cell><cell rend="num">20·0</cell><cell>Flour</cell><cell rend="num">16·0</cell></row>
@@ -670,7 +659,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <pb xml:id="page-46" n="26" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n45_w1400.jpg"/>
             <p>The administration report of Bengal for 1870-1 gives in appendix II D<hi rend="sub">2</hi>, the following “scale of provision for ships carrying Indian emigrants to British and foreign colonies west of the Cape of Good Hope.”</p>
-            <table xml:id="tbl-024" rows="20" cols="3">
+            <table xml:id="tbl-023" rows="20" cols="3">
         <head>“<hi rend="italic">Daily Allowance to each statute Adult [Children above two and under ten years of age to receive half rations.]</hi>”</head>
         <row role="label"><cell role="label">Class.</cell><cell role="label">Articles.</cell><cell role="label">Remarks.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">oz. drs.</cell><cell role="label"></cell></row>
@@ -694,7 +683,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell></cell><cell>Firewood 2 0</cell><cell></cell></row>
       </table>
             <p>Besides the above there is an allowance for dry provision to be used at the discretion of the surgeon, for medical comforts, medicine, instruments, and appliances for hospital and dispensary. Again, for confirmed opium-eaters or <hi rend="italic">ganja</hi>-smokers, the surgeon superintendent is to see a proper quantity supplied. Surgeon Partridge's scale is absolutely necessary to supply the necessary ingredients of nitrogen and carbon; not the slightest luxury—no sugar or tea, or any little enjoyment of life, but simple animal subsistence of coolies living in a state of <pb xml:id="page-47" n="27" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n46_w1400.jpg"/> quietude. I have worked out below the cost of living according to Surgeon Partridge’s scale for the year 1867-8 at Ahmedabad prices. The scale in the Bengal administration report provides curry-stuff and narcotics in addition, which I have not calculated in this table, though it can hardly be said that they are not necessaries to those poor people.</p>
-            <table xml:id="tbl-025" rows="8" cols="4">
+            <table xml:id="tbl-024" rows="8" cols="4">
         <head><hi rend="italic">Cost of necessary living at Ahmedabad prices, on 30th January, 1868, as given in the “Bombay Government Gazette.”</hi></head>
         <row role="data"><cell>Rice, second sort, 20 ozs. per day, or 37½ lbs. per month, at 15 lbs. per rupee</cell><cell rend="num">Rs. 2</cell><cell rend="num">8</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>Dhal 6 oz. per day, or 11¼ lbs. per month, at 20 lbs.<ref xml:id="ref-sec-04-fn-012" type="noteref" target="#sec-04-fn-012">1</ref> per rupee</cell><cell rend="num">,, 0</cell><cell rend="num">9</cell><cell rend="num">0</cell></row>
@@ -710,7 +699,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Cost of Subsistence.</hi></head>
             <p>The following is an estimate of the lowest absolute scale of necessaries of a common agricultural labourer in the Bombay Presidency annually, by Mr. Kazee Shahabudin:—</p>
-            <table xml:id="tbl-026" rows="9" cols="3">
+            <table xml:id="tbl-025" rows="9" cols="3">
         <row role="label"><cell role="label"><hi rend="italic">Food—</hi></cell><cell role="label"></cell><cell role="label"></cell></row>
         <row role="data"><cell>1½ lbs. Rice per day, at Rs. 2 to Rs. 2-8 per maund of 40 lbs., say</cell><cell rend="num">Rs. 28</cell><cell rend="num">8</cell></row>
         <row role="data"><cell>Salt, including waste, about 1 oz. a day</cell><cell rend="num">,, 1</cell><cell rend="num">0</cell></row>
@@ -723,7 +712,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <pb xml:id="page-48" n="28" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n47_w1400.jpg"/>
             <p><hi rend="italic">Clothing</hi>—</p>
-            <table xml:id="tbl-027" rows="8" cols="4">
+            <table xml:id="tbl-026" rows="8" cols="4">
         <row role="data"><cell>3 Dhotees a year</cell><cell>Rs.</cell><cell rend="num">3</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>1 pair champal (shoes)</cell><cell>,,</cell><cell rend="num">0</cell><cell rend="num">12</cell></row>
         <row role="data"><cell>½ a turban</cell><cell>,,</cell><cell rend="num">1</cell><cell rend="num">8</cell></row>
@@ -734,7 +723,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data" rend="total"><cell></cell><cell>Rs.</cell><cell rend="num">8</cell><cell rend="num">2</cell></row>
       </table>
             <p>The dress of the female of the house—</p>
-            <table xml:id="tbl-028" rows="7" cols="4">
+            <table xml:id="tbl-027" rows="7" cols="4">
         <row role="data"><cell>1½ Saree (dress)</cell><cell>Rs.</cell><cell rend="num">3</cell><cell rend="num">12</cell></row>
         <row role="data"><cell>1 Cholee (short jacket)</cell><cell>,,</cell><cell rend="num">0</cell><cell rend="num">12</cell></row>
         <row role="data"><cell>Oil for head</cell><cell>,,</cell><cell rend="num">1</cell><cell rend="num">8</cell></row>
@@ -745,7 +734,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>The old members of the family will require as much.</p>
             <p><hi rend="italic">Lodging</hi>—</p>
-            <table xml:id="tbl-029" rows="5" cols="4">
+            <table xml:id="tbl-028" rows="5" cols="4">
         <row role="data"><cell>Hut (labour taken as his own)</cell><cell>Rs.</cell><cell rend="num">25</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>Hut repairs (bamboos, &amp;c.), per annum</cell><cell>,,</cell><cell rend="num">4</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>Oil for lamp, per day</cell><cell>,,</cell><cell rend="num">0</cell><cell rend="num">0⅙</cell></row>
@@ -757,7 +746,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Subsistence per Head.</hi></head>
             <p>Taking one-quarter less, for reasons stated further on, to calculate the cost per head of family, the result will be—</p>
-            <table xml:id="tbl-030" rows="4" cols="3">
+            <table xml:id="tbl-029" rows="4" cols="3">
         <row role="data"><cell>Food</cell><cell>Rs.</cell><cell rend="num">36</cell></row>
         <row role="data"><cell>Clothing</cell><cell>,,</cell><cell rend="num">6</cell></row>
         <row role="data"><cell>Lodging</cell><cell>,,</cell><cell rend="num">3</cell></row>
@@ -766,7 +755,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>Without any provision for social and religious wants, letting alone luxuries, and anything to spare for bad seasons.</p>
             <p>The report of the Bombay Price Commission gives the following particulars of the wants of the lowest servants of Government (pages 85. 86), supplied from the Poona District :—</p>
             <pb xml:id="page-49" n="29" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n48_w1400.jpg"/>
-            <table xml:id="tbl-031" rows="25" cols="5">
+            <table xml:id="tbl-030" rows="25" cols="5">
         <row role="label"><cell role="label" rows="2">Articles.</cell><cell role="label">Quantities per month.</cell><cell role="label" cols="2">Cost per month in 1863.</cell><cell role="label" rows="2">Remarks.</cell></row>
         <row role="label"><cell role="label">Seers.</cell><cell role="label">Rs.</cell><cell role="label">a.</cell></row>
         <row role="data"><cell>Rice</cell><cell rend="num">12</cell><cell rend="num">1</cell><cell rend="num">8</cell><cell rows="12">It will be observed that simple living and clothing are here exhibited, and nothing is taken into account for support of dependent members of family, servants, religious and other domestic expenses.</cell></row>
@@ -796,7 +785,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>For Poona the above scale is calculated to cost Rs. 6-11 per month, or Rs. 80-4 per annum, at the high prices of 1863, while my estimate, according to Surgeon Partridge’s scale for 1867-8, is Rs. 5-2-10 per month, or Rs. 62-2 per annum— nearly 24 per cent. less, as prices have gone lower. For clothing, the estimate for 1863 is Rs. 1-11 per month, or Rs. 20-8 per annum, while Mr. Shahabudin’s estimate is only Rs. 8-2 in 1868. Even allowing for fall in price Mr. Shahabudin’s estimate is lower, and calculated on a very low scale for an agricultural labourer in the poorest districts, while that of 1863 is for the lowest class of Government servants. Upon the whole, therefore, the estimate given for 1867-8, as for the bare necessaries of a common agricultural labourer, is evidently under the mark.</p>
             <p>Lately I found the following in the “Statement of the Moral and Material Progress of India” for 1871-2 :—“The <pb xml:id="page-50" n="30" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n49_w1400.jpg"/> best account of the Bombay peasantry is still probably that by Mr. Coats, written fifty years ago. The clothes of a man then cost about 12s. and the furniture of his house about £2.”—(Parliamentary Return No. 172 of 28th April, 1873.)</p>
             <p>I have not been able to work out the details of cost of living in other parts of India. For the present I give the following approximate comparison for 1867-8 :—</p>
-            <table xml:id="tbl-032" rows="9" cols="10">
+            <table xml:id="tbl-031" rows="9" cols="10">
         <head><hi rend="italic">Jails.</hi></head>
         <row role="label"><cell role="label" rows="2">Provinces.</cell><cell role="label" cols="3">Cost of Living.</cell><cell role="label" cols="3">Cost of Clothing.</cell><cell role="label" cols="3">Total.</cell></row>
         <row role="label"><cell role="label">Rs.</cell><cell role="label">a.</cell><cell role="label">p.</cell><cell role="label">Rs.</cell><cell role="label">a.</cell><cell role="label">p.</cell><cell role="label">Rs.</cell><cell role="label">a.</cell><cell role="label">p.</cell></row>
@@ -812,7 +801,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">PROPORTION OF CHILDREN TO ADULTS.</hi></head>
             <p>Now, the Bengal Census Report of 1872, page 109 of the appendix, gives the percentage of population according to age as follows :—</p>
-            <table xml:id="tbl-033" rows="3" cols="5">
+            <table xml:id="tbl-032" rows="3" cols="5">
         <row role="label"><cell role="label" cols="2">Males.</cell><cell role="label" cols="2">Females.</cell><cell role="label" rows="2"></cell></row>
         <row role="label"><cell role="label">Not exceeding 12 Years.</cell><cell role="label">Above 12 Years.</cell><cell role="label">Not exceeding 12 Years.</cell><cell role="label">Above 12 Years.</cell></row>
         <row role="data"><cell rend="num">18·8</cell><cell rend="num">31·3</cell><cell rend="num">15·7</cell><cell rend="num">34·2</cell><cell>The Census of the N.W. Provinces gives nearly the same result. Above 12 years, adults, 64·4 per cent.; under 12, 35·6 per cent. (See Administration Report for 1871—72, page 55; Census Report, vol. 1, page 31.)</cell></row>
@@ -824,7 +813,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">Production Compared with Cost of Living.</hi></head>
             <p>From taking the cost of adults per head to be <hi rend="italic">a</hi>, and cost of the mass per head to be <hi rend="italic">x</hi>, and supposing that, out of 34 per cent. of children under 12, only 17 per cent. cost anything, say one-half of the adult (though the Bengal provision is half for children from two to ten years), while the other 17 cost nothing at all, the problem will be—</p>
             <p>66<hi rend="italic">a</hi> + 17 <hi rend="italic"><hi rend="sup">a</hi></hi>/<hi rend="sub">2</hi> + 17 × 0 = 100<hi rend="italic">x x</hi> = <hi rend="sup">74½<hi rend="italic">a</hi></hi>/<hi rend="sub">100</hi>, or say <hi rend="sup">75<hi rend="italic">a</hi></hi>/<hi rend="sub">100</hi> or ¾<hi rend="italic">a</hi>; <hi rend="italic">i.e.</hi>, the cost outside jail, or for the whole mass per head, will be about three-fourths of inside the jail, allowing the jail for adults only. Thus, taking the cost of three persons in the jail, or of three adults to four persons outside, or of the mass, it comes to this :—</p>
-            <table xml:id="tbl-034" rows="8" cols="2">
+            <table xml:id="tbl-033" rows="8" cols="2">
         <row role="label"><cell role="label">Production per Head.</cell><cell role="label">Three-fourths of Jail Cost of Living, or Cost per head outside Jail.</cell></row>
         <row role="data"><cell>Central Provinces Rs. 21¾ or say Rs. 22</cell><cell rend="num">Rs. 23</cell></row>
         <row role="data"><cell>Punjab „ 24¾ „ „ 25</cell><cell>„ 20</cell></row>
@@ -842,20 +831,20 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Deficit of Imports Compared with the Exports of India.</hi></head>
             <p>The total imports and exports of the United Kingdom for the years 1858 to 1870 are—</p>
-            <table xml:id="tbl-035" rows="2" cols="3">
+            <table xml:id="tbl-034" rows="2" cols="3">
         <row role="data"><cell>Imports</cell><cell rend="num">£3,608,216,242</cell><cell>(including Bullion).</cell></row>
         <row role="data"><cell>Exports</cell><cell rend="num">£2,875,027,301</cell><cell>„ „</cell></row>
       </table>
             <p>This shows an <hi rend="italic">excess of imports</hi> over exports of £733,188,941, <hi rend="italic">i.e.</hi>, the imports are above 25 per cent. greater than the exports.</p>
             <p>This excess is to be increased to the extent of about £125,000,000, the balance of loans to India included in the exports, less interest on these loans included in imports of about £60,000,000, and by such further amounts as may be made up by balances of loans and interests with foreign parts. As England is the greatest lending country in the world, the ultimate result of excess of commercial imports over commercial exports will most probably be above, rather than under, £733,000,000 or 25 per cent. of exports. At all events, it will not be less than 15 per cent.</p>
             <p>For British North America, the total imports and exports, including bullion, for the years 1854 to 1868, are—</p>
-            <table xml:id="tbl-036" rows="2" cols="2">
+            <table xml:id="tbl-035" rows="2" cols="2">
         <row role="data"><cell>Imports</cell><cell rend="num">£200,257,620</cell></row>
         <row role="data"><cell>Exports</cell><cell rend="num">£154,900,367</cell></row>
       </table>
             <p>This shows an excess of imports over exports of £45,357,253, <hi rend="italic">i.e.</hi>, the imports are about 29 per cent. more than the exports, subject to a modification of the extent to which it has received from, or given loan to, foreign parts. As far as I can see, it is a borrower, and the excess to that extent will be lesser.</p>
             <p>For Australia, the total imports and exports, including bullion, for the years 1854 to 1868, are—</p>
-            <table xml:id="tbl-037" rows="2" cols="2">
+            <table xml:id="tbl-036" rows="2" cols="2">
         <row role="data"><cell>Imports</cell><cell rend="num">£443,407,019</cell></row>
         <row role="data"><cell>Exports</cell><cell rend="num">£384,503,081</cell></row>
       </table>
@@ -869,7 +858,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">INCREASE OF THE DRAIN.</hi></head>
             <p>Allowing for the railway interest as a mere matter of business, and analysing the deficit of imports, or drain to England, as only about £453,000,000, the following is the yearly average for every five years :—</p>
-            <table xml:id="tbl-038" rows="9" cols="2">
+            <table xml:id="tbl-037" rows="9" cols="2">
         <row role="label"><cell role="label">Years.</cell><cell role="label">Yearly Average. £</cell></row>
         <row role="data"><cell>1835 to 1839</cell><cell rend="num">5,347,000</cell></row>
         <row role="data"><cell>1840 „ 1844</cell><cell rend="num">5,930,000</cell></row>
@@ -882,7 +871,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>Now, can it be shown by anybody that the production during these 38 years has been such as to leave the same amount per head every year, and surplus besides, to make up the above £200,000,000 taken away from the produce of the country, in <hi rend="italic">addition</hi> to opium revenue and profits of commerce? In that case it will be that India is no better off now, but is only in the same condition as in 1834. If it can be shown that the production of the country has been such as to be the same per head during all these years, and a surplus greater than £200,000,000 besides, then will it be that any material benefit has been derived by India to the extent of such excess of surplus over £200,000,000. It must, however, be remembered that, in the years about 1834, the condition of the people had already gone down very low by <pb xml:id="page-55" n="35" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n54_w1400.jpg"/> the effects of the previous deficits, as will be seen further <unclear>o</unclear> from the official opinions I have given there.</p>
             <p>The benefit to England by its connection with India must not be measured by the £500,000,000 only during the last 38 years. Besides this the industries of England receive large additional support for supplying all European stores which Government need, and all those articles which Europeans want in India from their habits and customs, not from mere choice, as may be the case with natives. All the produce of the country, thus exported from sheer necessity, would otherwise have brought returns suitable to native wants, or would have remained in the country, in either case, to the benefit of the produce or industry of India. Be it clearly borne in mind that all this additional benefit to English industries is entirely independent of, and in addition to, the <hi rend="italic">actual deficit</hi> between the export, <hi rend="italic">plus</hi> profits and imports. Everything I allude to is already included in the imports. It is so much additional capital drawn away, whether India will or no, from the industry of India to the benefit of English industry. There is, again, the further legitimate benefit to England of the profits of English firms there carrying on commerce with India, the profits of the shipping trade, and insurance. The only pity—and a very great one too—is that the commerce between England and India is not so large as it should and can be, the present <hi rend="italic">total</hi> exports of India to all the outside world being only about 5s. a head, while the exports of the United Kingdom are about £6 10s. a head, of British North America about £3 a head, and of Australia about £19 a head, including gold (and exclusive of gold, about £11 a head). Again, what are imports into India from the United Kingdom, including treasure, Government stores of every kind, railway and other stores, articles for European consumption, and everything for native consumption and use? Only less than 3s. a head, as below :—</p>
-            <table xml:id="tbl-039" rows="4" cols="3">
+            <table xml:id="tbl-038" rows="4" cols="3">
         <head><hi rend="italic">Total Imports, including Treasure, into India from the United Kingdom.</hi></head>
         <row role="data"><cell rend="num">1868</cell><cell rend="num">£31,629,315</cell><cell rows="4">Say £32,000,000, on an average, for a population of about 225,000,000, or less than 3s. a head.</cell></row>
         <row role="data"><cell rend="num">1869</cell><cell rend="num">35,309,973</cell></row>
@@ -996,7 +985,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Punjab.</hi></head>
             <p>The administration report for 1855-6 (Government of India Selections, No. 18, 1856) gives the following table :—</p>
-            <table xml:id="tbl-040" rows="6" cols="3">
+            <table xml:id="tbl-039" rows="6" cols="3">
         <head><hi rend="italic">Average Prices.</hi></head>
         <row role="label"><cell role="label">For Ten Years up to 1850—51.</cell><cell role="label">Wheat, Rs. 2 per maund of 82 lb.</cell><cell role="label">Indian Corn, Rs. 1 <hi rend="sup">11</hi>⁄<hi rend="sub">16</hi> per maund.</cell></row>
         <row role="data"><cell>1851-2</cell><cell>Rs. 1 per maund.</cell><cell>Rs. 0 <hi rend="sup">14</hi>⁄<hi rend="sub">16</hi> per maund.</cell></row>
@@ -1128,7 +1117,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Fluctuation in Price of Cotton.</hi></head>
             <p>The following table will show how near the prices are <pb xml:id="page-85" n="65" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n84_w1400.jpg"/> returning to their old level before the American War (Parliamentary Return [c. 145] of 1870) :—</p>
-            <table xml:id="tbl-041" rows="6" cols="16">
+            <table xml:id="tbl-040" rows="6" cols="16">
         <row role="label"><cell role="label" cols="4">Average price per cwt.</cell><cell role="label" cols="4">Average price per cwt.</cell><cell role="label" cols="4">Average price per cwt.</cell><cell role="label" cols="4">Average price per cwt.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"></cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"></cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"></cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
         <row role="data"><cell rend="num">1857</cell><cell rend="num">2</cell><cell rend="num">8</cell><cell rend="num">8</cell><cell rend="num">1858</cell><cell rend="num">2</cell><cell rend="num">10</cell><cell rend="num">7</cell><cell rend="num">1859</cell><cell rend="num">2</cell><cell rend="num">5</cell><cell rend="num">10</cell><cell rend="num"><ref xml:id="ref-sec-04-fn-023" type="noteref" target="#sec-04-fn-023">1</ref>1860</cell><cell rend="num">1</cell><cell rend="num">17</cell><cell rend="num">0</cell></row>
@@ -1141,7 +1130,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Price of Coffee.</hi></head>
             <p>Take <hi rend="italic">Coffee.</hi>—The average prices in the United Kingdom (Parliamentary Return [c. 145] of 1870) are per cwt. :—</p>
-            <table xml:id="tbl-042" rows="8" cols="12">
+            <table xml:id="tbl-041" rows="8" cols="12">
         <row role="label"><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
         <row role="data"><cell rend="num">1855</cell><cell rend="num">3</cell><cell rend="num">3</cell><cell rend="num">0</cell><cell rend="num">1860</cell><cell rend="num">3</cell><cell rend="num">18</cell><cell rend="num">2</cell><cell rend="num">1865</cell><cell rend="num">3</cell><cell rend="num">16</cell><cell rend="num">2</cell></row>
         <row role="data"><cell rend="num">1856</cell><cell rend="num">3</cell><cell rend="num">11</cell><cell rend="num">8</cell><cell rend="num">1861</cell><cell rend="num">3</cell><cell rend="num">16</cell><cell rend="num">2</cell><cell rend="num">1866</cell><cell rend="num">3</cell><cell rend="num">16</cell><cell rend="num">4</cell></row>
@@ -1156,7 +1145,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Price of Indigo.</hi></head>
             <p>Take <hi rend="italic">Indigo</hi> :—</p>
-            <table xml:id="tbl-043" rows="8" cols="12">
+            <table xml:id="tbl-042" rows="8" cols="12">
         <row role="label"><cell role="label"></cell><cell role="label" cols="3">Average price per cwt.</cell><cell role="label"></cell><cell role="label" cols="3">Average price per cwt.</cell><cell role="label"></cell><cell role="label" cols="3">Average price per cwt.</cell></row>
         <row role="label"><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
         <row role="data"><cell rend="num">1855</cell><cell rend="num">27</cell><cell rend="num">8</cell><cell rend="num">0</cell><cell rend="num">1860</cell><cell rend="num">33</cell><cell rend="num">13</cell><cell rend="num">11</cell><cell rend="num">1865</cell><cell rend="num">31</cell><cell rend="num">7</cell><cell rend="num">2</cell></row>
@@ -1173,7 +1162,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">Price of Rice.</hi></head>
             <p>Now take <hi rend="italic">Rice.</hi>—This is the most important article; rise or fall in its price requires careful consideration. It is the alleged rise of price in this article which is held up as proving the prosperity of the country.</p>
             <p>The average price of rice in the United Kingdom, after paying all charges and profits from India to arrival in England, is per cwt. :—</p>
-            <table xml:id="tbl-044" rows="5" cols="12">
+            <table xml:id="tbl-043" rows="5" cols="12">
         <row role="label"><cell role="label">Years.</cell><cell role="label">s.</cell><cell role="label">d.</cell><cell role="label">Years.</cell><cell role="label">s.</cell><cell role="label">d.</cell><cell role="label">Years.</cell><cell role="label">s.</cell><cell role="label">d.</cell><cell role="label">Years.</cell><cell role="label">s.</cell><cell role="label">d.</cell></row>
         <row role="data"><cell rend="num">1855</cell><cell rend="num">14</cell><cell rend="num">6</cell><cell rend="num">1859</cell><cell rend="num">10</cell><cell rend="num">9</cell><cell rend="num">1863</cell><cell rend="num">11</cell><cell rend="num">11</cell><cell rend="num">1867</cell><cell rend="num">14</cell><cell rend="num">3</cell></row>
         <row role="data"><cell rend="num">1856</cell><cell rend="num">10</cell><cell rend="num">6</cell><cell rend="num">1860</cell><cell rend="num">13</cell><cell rend="num">0</cell><cell rend="num">1864</cell><cell rend="num">11</cell><cell rend="num">2</cell><cell rend="num">1868</cell><cell rend="num">12</cell><cell rend="num">2</cell></row>
@@ -1185,7 +1174,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <div type="subsection" n="h3">
               <head><hi rend="smallcaps">Price of Silk.</hi></head>
               <p>Take <hi rend="italic">Silk</hi>.—The prices of silk are as follows :—</p>
-              <table xml:id="tbl-045" rows="9" cols="9">
+              <table xml:id="tbl-044" rows="9" cols="9">
           <row role="label"><cell role="label">Years.</cell><cell role="label">Price per lb.</cell><cell role="label">Years.</cell><cell role="label">Price per lb.</cell><cell role="label">Years.</cell><cell role="label">Price per lb.</cell></row>
           <row role="label"><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
           <row role="data"><cell rend="num">1855</cell><cell rend="num">12</cell><cell rend="num">9</cell><cell rend="num">1860</cell><cell rend="num">20</cell><cell rend="num">2</cell><cell rend="num">1865</cell><cell rend="num">23</cell><cell rend="num">6</cell></row>
@@ -1201,7 +1190,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <div type="subsection" n="h3">
               <head><hi rend="smallcaps">Price of Sugar.</hi></head>
               <p><hi rend="italic">Sugar</hi>.—There are three or four qualities of sugar imported into the United Kingdom from India. I give below the price of middling as a fair representative of the bulk :—</p>
-              <table xml:id="tbl-046" rows="6" cols="16">
+              <table xml:id="tbl-045" rows="6" cols="16">
           <row role="label"><cell role="label" cols="2">Years.</cell><cell role="label" cols="2">Price per cwt.</cell><cell role="label" cols="2">Years.</cell><cell role="label" cols="2">Price per cwt.</cell><cell role="label" cols="2">Years.</cell><cell role="label" cols="2">Price per cwt.</cell><cell role="label" cols="2">Years.</cell><cell role="label" cols="2">Price per cwt.</cell></row>
           <row role="label"><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
           <row role="data"><cell rend="num">1855</cell><cell rend="num">1</cell><cell rend="num">9</cell><cell rend="num">8</cell><cell rend="num">1859</cell><cell rend="num">1</cell><cell rend="num">7</cell><cell rend="num">9</cell><cell rend="num">1863</cell><cell rend="num">1</cell><cell rend="num">6</cell><cell rend="num">5</cell><cell rend="num">1867</cell><cell rend="num">1</cell><cell rend="num">3</cell><cell rend="num">3</cell></row>
@@ -1216,7 +1205,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Price of Linseed.</hi></head>
             <p><hi rend="italic">Linseed.</hi>—Average prices as follows per quarter :—</p>
-            <table xml:id="tbl-047" rows="8" cols="12">
+            <table xml:id="tbl-046" rows="8" cols="12">
         <row role="label"><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
         <row role="data"><cell rend="num">1855</cell><cell rend="num">3</cell><cell rend="num">11</cell><cell rend="num">6</cell><cell rend="num">1860</cell><cell rend="num">2</cell><cell rend="num">12</cell><cell rend="num">9</cell><cell rend="num">1865</cell><cell rend="num">3</cell><cell rend="num">0</cell><cell rend="num">5</cell></row>
         <row role="data"><cell rend="num">1856</cell><cell rend="num">2</cell><cell rend="num">18</cell><cell rend="num">0</cell><cell rend="num">1861</cell><cell rend="num">2</cell><cell rend="num">15</cell><cell rend="num">10</cell><cell rend="num">1866</cell><cell rend="num">3</cell><cell rend="num">8</cell><cell rend="num">11</cell></row>
@@ -1231,7 +1220,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Price of Rapeseed.</hi></head>
             <p><hi rend="italic">Rapeseed</hi> per quarter :—</p>
-            <table xml:id="tbl-048" rows="5" cols="16">
+            <table xml:id="tbl-047" rows="5" cols="16">
         <row role="label"><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">£</hi></cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
         <row role="data"><cell rend="num">1855</cell><cell rend="num">3</cell><cell rend="num">9</cell><cell rend="num">8</cell><cell rend="num">1859</cell><cell rend="num">2</cell><cell rend="num">4</cell><cell rend="num">8</cell><cell rend="num">1863</cell><cell rend="num">2</cell><cell rend="num">19</cell><cell rend="num">6</cell><cell rend="num">1867</cell><cell rend="num">2</cell><cell rend="num">12</cell><cell rend="num">6</cell></row>
         <row role="data"><cell rend="num">1856</cell><cell rend="num">2</cell><cell rend="num">18</cell><cell rend="num">6</cell><cell rend="num">1860</cell><cell rend="num">2</cell><cell rend="num">16</cell><cell rend="num">11</cell><cell rend="num">1864</cell><cell rend="num">2</cell><cell rend="num">16</cell><cell rend="num">11</cell><cell rend="num">1868</cell><cell rend="num">2</cell><cell rend="num">11</cell><cell rend="num">4</cell></row>
@@ -1243,7 +1232,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Price of Wool.</hi></head>
             <p><hi rend="italic">Wool.</hi>—Average price per lb. :—</p>
-            <table xml:id="tbl-049" rows="5" cols="8">
+            <table xml:id="tbl-048" rows="5" cols="8">
         <row role="label"><cell role="label">Years.</cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
         <row role="data"><cell rend="num">1855</cell><cell rend="num">8¼</cell><cell rend="num">1859</cell><cell rend="num">7¾</cell><cell rend="num">1863</cell><cell rend="num">11⅝</cell><cell rend="num">1867</cell><cell rend="num">7⅞</cell></row>
         <row role="data"><cell rend="num">1856</cell><cell rend="num">9</cell><cell rend="num">1860</cell><cell rend="num">8¼</cell><cell rend="num">1864</cell><cell rend="num">11½</cell><cell rend="num">1868</cell><cell rend="num">7⅝</cell></row>
@@ -1255,7 +1244,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Price of Indian Tea.</hi></head>
             <p><hi rend="italic">Indian Tea.</hi>—Average price per lb. :—</p>
-            <table xml:id="tbl-050" rows="5" cols="12">
+            <table xml:id="tbl-049" rows="5" cols="12">
         <row role="label"><cell role="label">Years.</cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">Years.</cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
         <row role="data"><cell rend="num">1856</cell><cell rend="num">2</cell><cell rend="num">4¾</cell><cell rend="num">1860</cell><cell rend="num">1</cell><cell rend="num">9</cell><cell rend="num">1864</cell><cell rend="num">2</cell><cell rend="num">3</cell><cell rend="num">1868</cell><cell rend="num">1</cell><cell rend="num">1 <hi rend="sup">1</hi>/<hi rend="sub">16</hi></cell></row>
         <row role="data"><cell rend="num">1857</cell><cell rend="num">2</cell><cell rend="num">1¼</cell><cell rend="num">1861</cell><cell rend="num">1</cell><cell rend="num">9⅛</cell><cell rend="num">1865</cell><cell rend="num">2</cell><cell rend="num">3¼</cell><cell rend="num">1869</cell><cell rend="num">1</cell><cell rend="num">8⅞</cell></row>
@@ -1272,18 +1261,18 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>During the last twenty years, something like £82,000,000 (Railway Report, 1869) have been sent to India for railway works, out of which some £26,000,000 are spent in England for stores, etc., and about £55,000,000 remitted to India to be spent here. This amount has been spent in certain parts, with the effect of raising prices there in two ways. Large numbers of labourers are collected in such places, and to a great extent agricultural labour is diminished in their neighbourhood, the want of good communication preventing other parts from supplying the demand.</p>
             <p>The result is, that less food is produced and more mouths to feed, and, with the labourers well paid, a temporary and local rise of prices is the inevitable consequence. On looking over the maps, and examining the prices given in the tables of Administration Reports, it will be easily seen that, in every Presidency in good seasons, the localities of high prices have been those only where there have been large public works going on. For instance, in the Central Provinces in the year 1867-8, when there was an average good season, the districts in which the price of rice was highest were— Hoshungabad, Rs. 5 per maund; Baitool, Rs. 4 per maund; Nursingpore, Rs. 3-12 per maund; Jubbulpore, Rs. 3-12 per maund; Nagpore, Rs. 3-8 per maund; and Saugur, Rs. 3-9 per maund. While the lowest prices were—Raipore and Belaspore, Re. 1 per maund; Sumbulpore, Rs. 1-2; Balaghaut, Rs. 2; Bhandara, Rs. 2; Chindwara, Rs. 1-8. Now, the places having the highest prices are almost all those along, or in the neighbourhood of, railway lines, or carrying on some public works; and those with the lowest prices are away <pb xml:id="page-90" n="70" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n89_w1400.jpg"/> from the lines, etc. In 1868-69, the range of prices is about the same, though higher on account of bad season, Hoshungabad being Rs. 8 and Raipore Rs. 2 ; and through the season being unequal in different parts, there is some corresponding divergence from the preceding year.</p>
             <p>Take the <hi rend="italic">Madras Presidency</hi>.—The districts with highest prices in 1867-68 are :—</p>
-            <table xml:id="tbl-051" rows="2" cols="4">
+            <table xml:id="tbl-050" rows="2" cols="4">
         <row role="data"><cell>Cuddapah</cell><cell>Rs. 492 per garce<ref xml:id="ref-sec-04-fn-024" type="noteref" target="#sec-04-fn-024">1</ref></cell><cell>Coimbatoor</cell><cell>Rs. 474 per garce</cell></row>
         <row role="data"><cell>Madura</cell><cell>„ 477 „</cell><cell>Bellary</cell><cell>„ 469 „</cell></row>
       </table>
             <p>The districts with the lowest prices are :—</p>
-            <table xml:id="tbl-052" rows="2" cols="4">
+            <table xml:id="tbl-051" rows="2" cols="4">
         <row role="data"><cell>Vizagapatam</cell><cell>Rs. 203 per garce</cell><cell>Ganjam</cell><cell>Rs. 232 per garce</cell></row>
         <row role="data"><cell>Godavery</cell><cell>„ 222 „</cell><cell>South Canara</cell><cell>„ 308 „</cell></row>
       </table>
             <p>Almost all the high-price districts are on the railway line, or have some public works. The districts of the lowest prices are away from the line. In the Godavery district I do not know how far irrigation has helped to produce abundance.</p>
             <p>Take the <hi rend="italic">Punjab</hi> for June, 1868-9.—The report gives prices for the following districts only :—</p>
-            <table xml:id="tbl-053" rows="6" cols="3">
+            <table xml:id="tbl-052" rows="6" cols="3">
         <row role="data"><cell>Delhi</cell><cell>Wheat 26 seers or</cell><cell>52 lbs. per Re. 1</cell></row>
         <row role="data"><cell>Umballa</cell><cell>„ „</cell><cell rend="num">48 „ „</cell></row>
         <row role="data"><cell>Sealkote</cell><cell>„ „</cell><cell rend="num">38 „ „</cell></row>
@@ -1293,7 +1282,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>Now, the first three are those where railways are finished, the last three are those where new lines are being constructed.</p>
             <p>In the <hi rend="italic">North-West Provinces</hi>.—For the month of June, 1868 (I have taken this month in which there was no scarcity ; the months after, prices gradually rose to famine prices) :—</p>
-            <table xml:id="tbl-054" rows="11" cols="3">
+            <table xml:id="tbl-053" rows="11" cols="3">
         <row role="data"><cell>Meerut.</cell><cell>27 seers 8 chittacks or</cell><cell>55 lbs. per Re. 1</cell></row>
         <row role="data"><cell>Saharunpore.</cell><cell>25 „ 14 „</cell><cell>50 „ nearly „</cell></row>
         <row role="data"><cell>Bareilly</cell><cell rend="num">25 „</cell><cell rend="num">50 „ „</cell></row>
@@ -1311,7 +1300,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>Cawnpore and the places mentioned after it have had railway works in progress about them. In these Provinces, besides railways, there is public works expenditure from Imperial funds close upon a crore of rupees during 1868-69, greater part of which is spent in places where prices are high.</p>
             <p>In the <hi rend="italic">Bombay Presidency.</hi>—What with cotton money lately poured in, and perhaps not quite re-drained yet, and large railway works going on for some time past, prices are comparatively higher than in all the other parts of India, but most so only where railway works and cotton combined, such as all such places on the Bombay, Baroda, and Central India line as Surat, Broach, Kaira, Ahmedabad, etc., or on the G.I.P. line, either northward or southward. Belgaum and Dharwar, not being on a line, have not high prices.</p>
             <p>All the very high prices in the Bombay Presidency in the year 1863 (the year of the enquiry of the Price Commission) are things of the past. For instance, in the Report of the Commission, the prices given for the town of Belgaum for November, 1863, are (page 32) :—</p>
-            <table xml:id="tbl-055" rows="4" cols="3">
+            <table xml:id="tbl-054" rows="4" cols="3">
         <head><hi rend="italic">Seers (of 80 tolas or 2 lbs.) per Rupee.</hi></head>
         <row role="label"><cell role="label"></cell><cell role="label">14th Nov. Seers.</cell><cell role="label">21st Nov. Seers.</cell></row>
         <row role="data"><cell>Coarse Rice</cell><cell rend="num">8</cell><cell rend="num">6</cell></row>
@@ -1319,7 +1308,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell>Jowari</cell><cell rend="num">9½</cell><cell rend="num">7</cell></row>
       </table>
             <p>Contrast these with the prices in 1867-68 :—</p>
-            <table xml:id="tbl-056" rows="4" cols="3">
+            <table xml:id="tbl-055" rows="4" cols="3">
         <row role="label"><cell role="label"></cell><cell role="label">Nov. 1867. Seers.</cell><cell role="label">Nov. 1868. Seers.</cell></row>
         <row role="data"><cell>2nd Sort Rice</cell><cell rend="num">14·40</cell><cell rend="num">13·9</cell></row>
         <row role="data"><cell>Bajri.</cell><cell rend="num">24</cell><cell rend="num">26</cell></row>
@@ -1336,7 +1325,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>This is the only number of the <hi rend="italic">Indian Gazette</hi> I have come <pb xml:id="page-93" n="73" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n92_w1400.jpg"/> across. Again, the average price of Madras rice for the year 1868 in the United Kingdom, after paying for freight, insurance, commission, profits, and all other charges from Madras to arrival in that country, was 9s. 8d. per cwt. (Trade Returns, 1868), while the price for January, 1813, given above, is 8s. 2¾d. in Madras itself. Or, let us take the export price in the ports of the Madras Presidency. The export price of cargo rice in the ports of the Madras Presidency, according to the price currents of the Madras Chamber of Commerce, in the year 1867, is put down uniformly in the price tables at Rs. 6 per bag of 164 lbs., or two Indian maunds; but in the remarks in which precise quotations are given, the price ranges from Rs. 3-15 to Rs. 6-2. Rs. 6, though a higher price than the average for a bag of 164 lbs., is equal to 8s. 2d. per cwt. ; and even this price, though not higher than that of 1813, was owing to bad season and short crop; and certainly prices consequent upon bad seasons are not an indication of prosperity. In the year 1868, the season being average good, the price quoted for cargo rice is Rs. 3-15 per bag. Now and then, in the remarks, higher prices are quoted, but Rs. 4 will be quite an approximate average. Rs. 4 per bag is nearly 5s. 6d. per cwt. During 1869, the same Rs. 3-15 is the general quotation; but the season of 1869 not being good, prices went up in 1870 to Rs. 5-8, with an average of about Rs. 5, or about 6s. 10d. per cwt. Thus, then, there is no material rise in price in the Madras Presidency compared with the commencement of this century. The subsequent fall made the poor people wretched. Government inquired and reduced the assessment, which, with the expenditure on railways, &amp;c., gave some little relief. But the depression is not yet got over. On the contrary, the Material and Moral Progress (Report for 1869, Parliamentary Return [c. 213 of 1870], page 71) tells us that “prices in Madras have been falling continuously,” and my impression is that they so still continue.</p>
             <p><hi rend="italic">Bengal.</hi>—The Parliamentary Return 362 of 1853 gives the prices at Calcutta from 1792 only (and that is stated to be a year of famine), when there was already about that period much depression by the action of the Company’s rule. I cannot get in this return earlier prices of the time of the native rule to make a fair comparison. For 1813 the prices given in the then depressed condition are from 2s. 8¾d. to <pb xml:id="page-94" n="74" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n93_w1400.jpg"/> 3s. 7d. A comparison with this depression of the present prices is, of course, not fair. In 1832, Patna rice is quoted at 7s. 5¾d. per cwt., and Patchery at 7s. 1¾d. Now, the best sort of rice of Patna in the first half of March, 1873, is quoted 21·50 seers, or 43 lbs. per rupee, or about 5s. 1½d. per cwt. In 1852 the above return quotes Patna at 5s. 4½d. per cwt. Colonel Baird Smith, in his famine report (Parliamentary Return 29 of 1962, page 55) quotes as follows the ordinary prices of grain, etc., “from an official statement prepared from authentic documents by the Fiscal of Chinsura,” at that station between the years 1770 and 1813 (as given in “Gleanings in Science,” vol. I, page 369, 1829)—rice best sort 28 seers per rupee, coarse sort 40 seers per rupee. The same statement gives prices for the year 1803 also for ordinary rice at 40 seers per rupee (page 56). And in the <hi rend="italic">Bengal Government Gazette</hi> for the year 1867-68, it will be found that, in some places in Bengal, the ordinary price of cheapest sort of rice is even then between 40 and 50 seers per rupee (this seer being 2 lbs.) So we have the same story as Madras. Bengal first sank, and helped by a permanent settlement, by the railway loan, cotton, etc., again got over the depression to a certain extent.</p>
             <p><hi rend="italic">Bombay.</hi>—The same return, 362 of 1853, gives the average price of rice between the highest and lowest prices of the year 1812-13, as 15s. 4½d. per cwt. This price goes on declining to about 3s. 5d. to 7s. 6¾d. in 1852, and what is it now in the first half of March of 1873 (<hi rend="italic">Indian Gazette</hi>, 5th April, 1873, page 448) after all favourable circumstances of railways and other public works, some of them still going on, cottonwealth, etc.?</p>
-            <table xml:id="tbl-057" rows="4" cols="3">
+            <table xml:id="tbl-056" rows="4" cols="3">
         <head><hi rend="italic">Rice, best sort.</hi></head>
         <row role="label"><cell role="label"></cell><cell role="label">Seers.</cell><cell role="label"></cell></row>
         <row role="data"><cell>Present fortnight</cell><cell rend="num">7·4</cell><cell>= 16·28 lbs. less than 14s. per cwt.</cell></row>
@@ -1346,7 +1335,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>The average between the highest and lowest prices will be about 12s. 6d. per cwt., when in 1812-13 this is 15s. 4½d.</p>
             <p>In the report of the Indapore re-settlement (Bombay Selections, CVII., new series, pages 118 and 71), the price of jowari is given from 1809 to 1865-66:—</p>
             <pb xml:id="page-95" n="75" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n94_w1400.jpg"/>
-            <table xml:id="tbl-058" rows="11" cols="9">
+            <table xml:id="tbl-057" rows="11" cols="9">
         <row role="label"><cell role="label"></cell><cell role="label">Years.</cell><cell role="label">Pucca seers per Rupee.</cell><cell role="label"></cell><cell role="label">Years.</cell><cell role="label">Pucca seers per Rupee.</cell><cell role="label"></cell><cell role="label">Years.</cell><cell role="label">Pucca seers per Rupee.</cell></row>
         <row role="data"><cell>Feb.</cell><cell rend="num">1809.</cell><cell rend="num">24</cell><cell>Feb.</cell><cell rend="num">1819.</cell><cell rend="num">17</cell><cell>Feb.</cell><cell rend="num">1829.</cell><cell rend="num">80</cell></row>
         <row role="data"><cell>„</cell><cell rend="num">1810.</cell><cell rend="num">24</cell><cell>„</cell><cell rend="num">1820.</cell><cell rend="num">19½</cell><cell>„</cell><cell rend="num">1830.</cell><cell rend="num">46</cell></row>
@@ -1361,7 +1350,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>After giving these prices, Lieutenant A. Nash remarks :— “This table is chiefly interesting as showing the gradual diminution in the price of corn from the days of the Peishwas to our own. By comparing the prices at the commencement with those at the end of the table, and then reading the list over, this circumstance will become very apparent.”</p>
             <p>About the year 1836-37, when prices had gone down very low, the Survey Settlement commenced, and the prices subsequently are given for Indapore as follows :—</p>
-            <table xml:id="tbl-059" rows="11" cols="6">
+            <table xml:id="tbl-058" rows="11" cols="6">
         <row role="label"><cell role="label">Years.</cell><cell role="label">Seers per Rupee.</cell><cell role="label">Years.</cell><cell role="label">Seers per Rupee.</cell><cell role="label">Years.</cell><cell role="label">Seers per Rupee.</cell></row>
         <row role="data"><cell>1836-37</cell><cell rend="num">43</cell><cell>1846-47</cell><cell rend="num">15</cell><cell>1856-57</cell><cell rend="num">32</cell></row>
         <row role="data"><cell>1837-38</cell><cell rend="num">36</cell><cell>1847-48</cell><cell rend="num">48</cell><cell>1857-58</cell><cell rend="num">39</cell></row>
@@ -1377,7 +1366,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>Now, from the year of the Mutiny, followed by the cotton famine, the times were exceptional, so that the prices in 1856, or about that period, can only be considered normal, and that is about 32 seers, while in 1809-13 about 25 seers. Now, in 1867-68 the average from November, 1867, to September, 1868, for Ahmednuggar (<hi rend="italic">Bombay Government Gazette</hi> price list) is about 24½ seers.</p>
             <p>Thus, then, it is the old story. From the time of the Peishwa, prices kept going down under the British rule till, with the aid of railway loans, cotton windfall, etc., they have laboured up again, with a tendency to relapse.</p>
             <p>I take the following figures from the Price Commission Report of Bombay (Finance Committee's Report of 1871, <pb xml:id="page-96" n="76" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n95_w1400.jpg"/> page 617). I take jowari as the chief grain of the Presidency:—</p>
-            <table xml:id="tbl-060" rows="4" cols="8">
+            <table xml:id="tbl-059" rows="4" cols="8">
         <head><hi rend="italic">Tolas per Rupee.</hi></head>
         <row role="label"><cell role="label">Years.</cell><cell role="label">Poona.</cell><cell role="label">Belgaum.</cell><cell role="label">Ahmedabad.</cell><cell role="label">Years.</cell><cell role="label">Poona.</cell><cell role="label">Belgaum.</cell><cell role="label">Ahmedabad.</cell></row>
         <row role="data"><cell rend="num">1824</cell><cell rend="num">1,892</cell><cell rend="num">2,480</cell><cell rend="num">2,560</cell><cell rend="num">1827</cell><cell rend="num">3,268</cell><cell rend="num">2,800</cell><cell rend="num">3,600</cell></row>
@@ -1385,7 +1374,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell rend="num">1826</cell><cell rend="num">3,040</cell><cell rend="num">2,200</cell><cell rend="num">3,240</cell><cell rend="num">1829</cell><cell rend="num">3,440</cell><cell rend="num">4,200</cell><cell rend="num">4,800</cell></row>
       </table>
             <p>Instead of quoting here the whole table, which is already published in the first Report of the Finance Committee, page 617, I take six years, from 1850 to 1855:—</p>
-            <table xml:id="tbl-061" rows="4" cols="8">
+            <table xml:id="tbl-060" rows="4" cols="8">
         <head><hi rend="italic">Tolas per Rupee.</hi></head>
         <row role="label"><cell role="label">Years.</cell><cell role="label">Poona.</cell><cell role="label">Belgaum.</cell><cell role="label">Ahmedabad.</cell><cell role="label">Years.</cell><cell role="label">Poona.</cell><cell role="label">Belgaum.</cell><cell role="label">Ahmedabad.</cell></row>
         <row role="data"><cell rend="num">1850</cell><cell rend="num">3,056</cell><cell rend="num">4,240</cell><cell rend="num">3,520</cell><cell rend="num">1853</cell><cell rend="num">4,128</cell><cell rend="num">3,200</cell><cell rend="num">2,800</cell></row>
@@ -1393,13 +1382,13 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell rend="num">1852</cell><cell rend="num">3,440</cell><cell rend="num">3,280</cell><cell rend="num">2,800</cell><cell rend="num">1855</cell><cell rend="num">2,432</cell><cell rend="num">2,540</cell><cell rend="num">4,520</cell></row>
       </table>
             <p>Even taking the rough average without consideration of quantities in each year, the latter six years are lower than the former. It is only about and after 1857 that prices rose under exceptional and temporary circumstances—the Mutiny and the American War, aided by the expenditure on railways, etc. After the American War, prices have commenced falling. Contrast the prices in 1863 with those of 1867-68 for the same places—Poona, Belgaum, and Ahmedabad (I take the rough averages from the monthly prices given in the <hi rend="italic">Bombay Government Gazette</hi> for 1867-68) :—</p>
-            <table xml:id="tbl-062" rows="2" cols="8">
+            <table xml:id="tbl-061" rows="2" cols="8">
         <head><hi rend="italic">Tolas per Rupee.</hi></head>
         <row role="label"><cell role="label">Year.</cell><cell role="label">Poona.</cell><cell role="label">Belgaum.</cell><cell role="label">Ahmedabad.</cell><cell role="label">Years.</cell><cell role="label">Poona.</cell><cell role="label">Belgaum.</cell><cell role="label">Ahmedabad.</cell></row>
         <row role="data"><cell rend="num">1863</cell><cell rend="num">1,120</cell><cell rend="num">720</cell><cell rend="num">880</cell><cell>1867-68</cell><cell rend="num">1,786</cell><cell rend="num">2,633</cell><cell rend="num">1,180</cell></row>
       </table>
             <p>For 1868 and 1869. This year, except in the southern part of the Southern Division, was a bad season, and the Bombay Administration Report says that the distress in two districts, Poona and Ahmednuggar, became “so great that it became necessary to afford relief to the labouring poor by undertaking works of public utility.” In the Northern Division, in Ahmedabad, Kaira, and the Punch Mahals, “the scanty rains of June and July were followed by severe floods in August, which were succeeded by drought. In Khandeish there was an entire failure of the later rains in some talookas.” In some talookas, with no rain, “there were no crops to watch, and no harvest to reap.” In Khandeish, also, relief works had become necessary, as the effects of scarcity were <pb xml:id="page-97" n="77" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n96_w1400.jpg"/> heightened by immigration from Rajpootana. Such was the generally unfavourable character of the season, and yet the rough average of retail prices from the <hi rend="italic">Bombay Government Gazette</hi> is as follows for the same three places :—</p>
-            <table xml:id="tbl-063" rows="2" cols="4">
+            <table xml:id="tbl-062" rows="2" cols="4">
         <head><hi rend="italic">Tolas of Jowari per Rupee.</hi></head>
         <row role="label"><cell role="label">Nov. to Oct.</cell><cell role="label">Poona.</cell><cell role="label">Belgaum.</cell><cell role="label">Ahmedabad.</cell></row>
         <row role="data"><cell>1868-69</cell><cell rend="num">1,227</cell><cell rend="num">2,100</cell><cell rend="num">930</cell></row>
@@ -1410,7 +1399,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p><hi rend="italic">The Central Provinces.</hi>—In the Central Provinces the average price of rice, as I have pointed out before, for the year 1867-68—a year of average good season—is Rs. 1-8 per maund of 80 lbs., not a high price certainly ; and if these be an “enormous” rise in former prices, what wretched prices must they have been before ? I have not materials for comparison with prices before the British rule.</p>
             <p>Of the <hi rend="italic">North-West Provinces</hi> I have not come across sufficient materials to make a fair comparison, but from what data I have, I feel that the conclusion about these Provinces will be similar to those of other parts of India.</p>
             <p>As an imperfect indication, I may refer to the table given in Colonel Baird Smith’s report of prices in 1860, and those of 1868-69 given in the Administration Report. Both years have nearly the same common features—in 1860, in July and August, scarcity prices ; in 1868-69, latter part of the year, of scarcity. On a comparison, the prices of 1868-69 are, if anything, something lower on the whole, except at Allahabad and Cawnpore, where railway works are in progress. I give this comparison on opposite page.</p>
-            <table xml:id="tbl-064" rows="13" cols="9">
+            <table xml:id="tbl-063" rows="13" cols="9">
         <head><hi rend="italic">Prices of fine Wheat at the undermentioned places.</hi> <hi rend="smallcaps">Seers per Rupee.</hi></head>
         <row role="label"><cell role="label" cols="2">At the end of</cell><cell role="label">Saharunpore.</cell><cell role="label">Meerut.</cell><cell role="label">Allyghur.</cell><cell role="label">Cawnpore.</cell><cell role="label">Allahabad.</cell><cell role="label">Muttra.</cell><cell role="label">Agra.</cell></row>
         <row role="data"><cell>May,</cell><cell rend="num">1860.</cell><cell>26-13</cell><cell>22-8</cell><cell rend="num">19</cell><cell rend="num">25</cell><cell>24-1</cell><cell>21-12</cell><cell>17-8</cell></row>
@@ -1429,7 +1418,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <pb xml:id="page-99" n="79" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n98_w1400.jpg"/>
             <p>This really does not show any enormous rise during the nine years which of all others are supposed to have raised prices most.</p>
             <p>Take the <hi rend="italic">Punjab</hi>.—The prices of wheat in Lahore are (Report of Punjab, 1850-51, page 74) as follows :—</p>
-            <table xml:id="tbl-065" rows="5" cols="4">
+            <table xml:id="tbl-064" rows="5" cols="4">
         <row role="label"><cell role="label">Years.</cell><cell role="label">lbs. per Rupee.</cell><cell role="label">Years.</cell><cell role="label">lbs. per Rupee.</cell></row>
         <row role="data"><cell rend="num">1844</cell><cell rend="num">45</cell><cell rend="num">1848</cell><cell rend="num">54</cell></row>
         <row role="data"><cell rend="num">1845</cell><cell rend="num">46</cell><cell rend="num">1849</cell><cell rend="num">38</cell></row>
@@ -1437,7 +1426,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell rend="num">1847</cell><cell rend="num">46</cell><cell></cell><cell></cell></row>
       </table>
             <p>Mr. John (now Lord) Lawrence repeats, in his report of 1855-56 (page 28), that, for ten years up to 1850-51, wheat was Rs. 2 per maund of 82 lbs., <hi rend="italic">i.e.</hi>, during the native rule, ten years previous to annexation, the price was 41 lbs. per rupee. Now, the Administration Report for 1855-56 (Government of India Selection No. XVIII, of 1856) gives the following table :—</p>
-            <table xml:id="tbl-066" rows="6" cols="2">
+            <table xml:id="tbl-065" rows="6" cols="2">
         <head><hi rend="smallcaps">Average Prices.</hi></head>
         <row role="data"><cell>For 10 Years up to 1850-51.</cell><cell>Wheat Rs. 2 per maund of 82 lbs.</cell></row>
         <row role="data"><cell>1851-52</cell><cell>Rs. 1 per maund.</cell></row>
@@ -1454,7 +1443,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">Higher Prices due to Scarcity.</hi></head>
             <p>But, among the causes of the occasional rise in prices, and whose effects are indiscriminately mixed up in the averages, there is one which no person who gives the slightest consideration to it will regard as a matter for congratulation. Besides the public works expenditure causing high prices locally, the additional cause to which I allude is scarcity and bad season. Such rise will not certainly be regarded by anybody as a sign of prosperity, but calculation of averages often includes these scarcity prices, and their results and conclusions are mischievous, in leading to wrong practical action. For instance, take the Central Provinces. The average price of rice for all the districts is Rs. 1-8 per maund for 1867-68, while in 1868-69 it is Rs. 4-4-9 per maund, and this is entirely owing to a bad season. But there are writers who do not, or would not, see the bad season. They see only the high prices, and clamour prosperity and for increased assessments.</p>
             <p>In the North-West Provinces the price of wheat is given, say, in Saharunpore, above 50 lbs. per rupee in June, 1868, and in December, 1868, it rises to as much as 20 lbs. per rupee. I give a few more figures from the Report of 1868-69 :—</p>
-            <table xml:id="tbl-067" rows="7" cols="5">
+            <table xml:id="tbl-066" rows="7" cols="5">
         <row role="label"><cell role="label" rows="2"></cell><cell role="label" cols="2">April, 1868.</cell><cell role="label" cols="2">Sept., 1868.</cell></row>
         <row role="label"><cell role="label">seers.</cell><cell role="label">chittacks.</cell><cell role="label">seers.</cell><cell role="label">chittacks.</cell></row>
         <row role="data"><cell>Meerut</cell><cell rend="num">26</cell><cell rend="num">0</cell><cell rend="num">11</cell><cell rend="num">4</cell></row>
@@ -1471,13 +1460,13 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">Higher Prices due to Famine.</hi></head>
             <p>The comparitive high prices of 1865 to 1867 were owing to bad season ; 1867-68, a good season, brought them down. Bad season again, and a rise and continuous fall since 1870. Return No. 335 of 1867 on the Orissa famine gives a list of prices rising many times, in the time of various famines ; and are these prices of prosperity ? Leaving extreme cases of past famine alone, let us take present times.</p>
             <p><hi rend="italic">Punjab.</hi>—The Administration Report for 1868-69 says (page 101)—“ Appendix III. EI shows that food was cheaper in June, 1868, than during the preceding year, but in January, 1869, prices had risen to famine rates in consequence of the drought that prevailed during the intervening months. In January, 1869, wheat was selling at Delhi at 11¼ seers (22½ lbs.) per rupee, and in the other districts specified in the return as follows :—</p>
-            <table xml:id="tbl-068" rows="3" cols="4">
+            <table xml:id="tbl-067" rows="3" cols="4">
         <row role="data"><cell>Umballa</cell><cell>9¼ seers.</cell><cell>Multan</cell><cell>11¼ seers.</cell></row>
         <row role="data"><cell>Lahore</cell><cell rend="num">9¾ „</cell><cell>Peshawur</cell><cell rend="num">14 <hi rend="sup">5</hi>/<hi rend="sub">16</hi> „</cell></row>
         <row role="data"><cell>Sealkote</cell><cell rend="num">10¾ „</cell><cell></cell><cell></cell></row>
       </table>
             <p>Now, the prices in the above places in January and June, 1868, were :—</p>
-            <table xml:id="tbl-069" rows="4" cols="6">
+            <table xml:id="tbl-068" rows="4" cols="6">
         <row role="label"><cell role="label"></cell><cell role="label">January.</cell><cell role="label">June.</cell><cell role="label"></cell><cell role="label">January.</cell><cell role="label">June.</cell></row>
         <row role="data"><cell>Delhi</cell><cell>25 seers.</cell><cell>26 seers.</cell><cell>Sealkote</cell><cell>16 seers.</cell><cell>19 seers.</cell></row>
         <row role="data"><cell>Umballa</cell><cell rend="num">20½ „</cell><cell rend="num">24 „</cell><cell>Multan</cell><cell rend="num">13¾ „</cell><cell rend="num">17 „</cell></row>
@@ -1485,7 +1474,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>So the prices are more than doubled in January, 1869. And this unfortunate state continues, after a little relief.</p>
             <p>Here is the summary of the table in the Report for 1869-70 (page 95) :—</p>
-            <table xml:id="tbl-070" rows="7" cols="6">
+            <table xml:id="tbl-069" rows="7" cols="6">
         <row role="label"><cell role="label"></cell><cell role="label">1st June, 1868.</cell><cell role="label">1st January, 1869.</cell><cell role="label">1st June, 1869.</cell><cell role="label">1st January, 1870.</cell><cell role="label"></cell></row>
         <row role="data"><cell>Delhi</cell><cell>26 seers.</cell><cell>11¼ seers.</cell><cell>15 seers.</cell><cell>9 seers.</cell><cell rows="6">Prices in seers of 2 lbs. per rupee.</cell></row>
         <row role="data"><cell>Umballa</cell><cell rend="num">24 „</cell><cell rend="num">9¼ „</cell><cell rend="num">13¼ „</cell><cell rend="num">9 „</cell></row>
@@ -1505,7 +1494,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
               <head><hi rend="smallcaps">In Bengal.</hi></head>
               <p>With regard to <hi rend="italic">Bengal</hi>, there is the same difficulty as in the case of prices—that I cannot get earlier wages than 1790-91, which were depressed times. I find for the year 1830-31 the daily wages of a cooly was on zemindari estates two annas in the Collectorates of Dinagepore, Bakergunge, Dacca, 24-Purgunnahs, Murshedabad, in the Purgunnahs of Calcutta, Barughati (Return No. 362 of 1853).</p>
               <p>Now, in the year 1866-67, the daily wage of unskilled labour in several districts of Bengal, where even public works were going on, were as follows :—</p>
-              <table xml:id="tbl-071" rows="17" cols="3">
+              <table xml:id="tbl-070" rows="17" cols="3">
           <row role="label"><cell role="label"></cell><cell role="label">a.</cell><cell role="label">p.</cell></row>
           <row role="data"><cell>1st Division Grand Trunk-road Division</cell><cell rend="num">2</cell><cell rend="num">6</cell></row>
           <row role="data"><cell>2nd „ „ „</cell><cell rend="num">2</cell><cell rend="num">0</cell></row>
@@ -1530,7 +1519,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">In Bombay.</hi></head>
             <p><hi rend="italic">Bombay.</hi>—Sir Bartle Frere has given a table from the Price Commission Report of 1864 of Bombay, of the monthly wages of a cooly or common labourer (Finance Committee, first Report, page 616). On examining this table (which I do not repeat here), it will be seen that there is hardly a rise in wages worth mentioning between the average of 1824-29 and 1850-59, the intervening period having some depression. It is after 1859, as in the case of prices and from same causes (Mutiny, railways, and cotton), wages rose suddenly. But that they are falling again will be evident from what is passing in Bombay itself, as the centre of the greatest activity, and as where large public works are still going on, one would hardly expect a fall. I obtained the following figures from one of the Executive Engineers' office for wages paid by the Public Works Department. The following rates were current during the last six years in Bombay (the letter is dated 11th June, 1872):—</p>
-            <table xml:id="tbl-072" rows="7" cols="7">
+            <table xml:id="tbl-071" rows="7" cols="7">
         <row role="label"><cell role="label" rows="2">Years.</cell><cell role="label" cols="2">Wages of Biggari per diem.</cell><cell role="label" cols="2">Wages of Women.</cell><cell role="label" cols="2">Wages of Boys.</cell></row>
         <row role="label"><cell role="label">a.</cell><cell role="label">p.</cell><cell role="label">a.</cell><cell role="label">p.</cell><cell role="label">a.</cell><cell role="label">p.</cell></row>
         <row role="data"><cell>1867-68</cell><cell rend="num">6</cell><cell rend="num">0</cell><cell rend="num">4</cell><cell rend="num">0</cell><cell rend="num">3</cell><cell rend="num">0</cell></row>
@@ -1646,7 +1635,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head><hi rend="smallcaps">The Uncovenanted Service.</hi></head>
             <p>Sir S. Northcote, in his despatch of 8th February, 1868, wrote to the Indian Government :—“ The Legislature has determined that the more important and responsible appointments in those provinces shall be administered exclusively by those who are now admitted to the public service solely by competition, but there is a large class of appointments in the regulation, as well as in the non-regulation provinces, some of them scarcely less honourable and lucrative than those reserved by law for the Covenanted Civil Service, to which the Natives of India have certainly a preferential claim, but which, as you seem to admit, have up to this time been too exclusively conferred upon Europeans. These persons, however competent, not having entered the service by the prescribed channel, can have no claim upon the patronage of the Government—none, at least, that ought to be allowed to override the inherent rights of the Natives of the country ; and therefore, while all due consideration should be shown to well-deserving incumbents, both as regards their present position and their promotion, there can be no valid reason why the class of appointments which they now hold should not be filled, in future, by Natives of ability and high <pb xml:id="page-124" n="104" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n123_w1400.jpg"/> character.” Now, is this done? I have not been able to get a complete return of the higher Uncovenanted Servants. I shall use what I have got. The Government of India, in their dispatch in the Financial Department, to the Secretary of State for India, No. 227, dated 4th October, 1870, gives two tables; the first headed—“ Abstract of Appendix A referred to in the 6th paragraph of the above dispatch, being a statement of the number of offices in India which were filled in 1869 by Uncovenanted Servants, but <hi rend="italic">which might have been filled by Covenanted Servants or Military Officers.</hi>” Now, this list gives of such Uncovenanted Servants 1,302 Europeans and 221 Natives.</p>
             <p>I am sorry I cannot get a return of the salaries of these 1,302 European Uncovenanted Servants; but, with regard to Natives, the second table of the same dispatch shows that out of these 221</p>
-            <table xml:id="tbl-073" rows="10" cols="5">
+            <table xml:id="tbl-072" rows="10" cols="5">
         <row role="data"><cell>Only 1</cell><cell>gets a salary</cell><cell>of Rs.</cell><cell>1,500 to 1,600</cell><cell>per month,</cell></row>
         <row role="data"><cell rend="num">1</cell><cell>„</cell><cell>„</cell><cell>1,200 to 1,300</cell><cell>„</cell></row>
         <row role="data"><cell rend="num">1</cell><cell>„</cell><cell>„</cell><cell>1,100 to 1,200</cell><cell>„</cell></row>
@@ -1680,7 +1669,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Roorkee Engineering College.</hi></head>
             <p>In its first institution in 1848, the Natives were not admitted in the upper subordinate class at all—till the year 1862. In the Engineering Department I work out from the College Calendar of 1871-72 the Natives passed and their present appointment, as follows :—</p>
-            <table xml:id="tbl-074" rows="19" cols="4">
+            <table xml:id="tbl-073" rows="19" cols="4">
         <row role="label"><cell role="label"></cell><cell role="label">Year.</cell><cell role="label">Names of Natives passed.</cell><cell role="label">Their present Appointments.</cell></row>
         <row role="data"><cell rend="num">1.</cell><cell rend="num">1851</cell><cell>Ameerkhan</cell><cell>—</cell></row>
         <row role="data"><cell rend="num">2.</cell><cell rend="num">1852</cell><cell>Huree Charan</cell><cell>—</cell></row>
@@ -1742,7 +1731,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>(3) At the end of the three years they are examined by the College Professors in the College itself, and if they pass <hi rend="italic">their</hi> standard of examination, they are made “passed hospital apprentices.” They now leave the College to serve again at some regimental hospital and draw Rs. 50 a month.</p>
             <p>N.B.—In the last two paras. it <pb xml:id="page-138" n="118" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n137_w1400.jpg"/> two corresponding examinations, then called A and B Examinations, and at the end of five years’ course the successful students received the diplomas and were called G. G. M. C. It is from these successful students that the sub-assistant surgeons were made, but within the last two years they are also made (very unjustly) from the apothecary and hospital assistant classes, as will be seen further on, on very different and comparatively trifling examinations.</p>
             <p>(4) There are three classes of sub-assistant surgeons, as under :—</p>
-            <table xml:id="tbl-075" rows="4" cols="4">
+            <table xml:id="tbl-074" rows="4" cols="4">
         <row role="label"><cell role="label"></cell><cell role="label">Pay.</cell><cell role="label">Allowance.</cell><cell role="label">Total.</cell></row>
         <row role="data"><cell><hi rend="italic">3rd Class</hi> Sub-Assistant Surgeon during the first 7 years’ service</cell><cell rend="num">Rs. 100</cell><cell rend="num">Rs. 100</cell><cell rend="num">Rs. 200</cell></row>
         <row role="data"><cell><hi rend="italic">2nd Class</hi> Sub-Assistant Surgeon between 7 and 14 years’ service</cell><cell rend="num">,, 150</cell><cell rend="num">,, 150</cell><cell rend="num">,, 300</cell></row>
@@ -1750,7 +1739,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       </table>
             <p>(5) A sub-assistant surgeon cannot become an honorary assistant surgeon. During the course of the last 23 years, during which the class of sub-assistant surgeons is in existence, no is stated that the apprentices attend the same class-lectures for three years as the students proper. This arrangement is adopted in the College as the Professors cannot give separate course to the students and to the apprentices. But the amount of knowledge required at the final examination of the apprentices at the end of three years is much smaller than the knowledge required at the final examination of the students proper at the end of five years.</p>
             <p>(4) The “passed hospital apprentices” then go on with their regimental duties, and are promoted in the following order, till they reach the grade of senior apothecary :—</p>
-            <table xml:id="tbl-076" rows="7" cols="2">
+            <table xml:id="tbl-075" rows="7" cols="2">
         <row role="label"><cell role="label"></cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>Passed Hospital Apprentice</cell><cell rend="num">50</cell></row>
         <row role="data"><cell>Assistant Apothecary under 5 years</cell><cell rend="num">75</cell></row>
@@ -1766,13 +1755,13 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
               <p>(6) No provision of this sort for sub-assistant surgeon.</p>
               <p>(7) The following is the Financial Resolution No. 2,295 of April, 1867 :— “ Governor-General of India in Council is pleased to lay down the following revised scale of consolidated salaries for uncovenanted medical officers, other than sub-assistant surgeons, when in medical charge of civil stations.” From this it is clear that sub-assistant surgeons are particularly debarred from receiving the advantages of this Financial Resolution; they cannot become uncovenanted medical officers.</p>
               <p>(8) The following two sub-assistant surgeons hold medical charge of the stations opposite their names, with their pay :—</p>
-              <table xml:id="tbl-077" rows="3" cols="2">
+              <table xml:id="tbl-076" rows="3" cols="2">
           <row role="label"><cell role="label"></cell><cell role="label">Rs.</cell></row>
           <row role="data"><cell>Burjorjee Ardesir, Savuntvaree</cell><cell rend="num">350</cell></row>
           <row role="data"><cell>Abdool Rahim Hakim, Bassadore</cell><cell rend="num">200</cell></row>
         </table>
               <p>These are the only two sub-assistant surgeons who hold charge of civil stations. There are now 34 sub-assistant surgeons on the Bombay Medical Establishment; not one of them receives more than Rs. 350 a month; 34 sub-assistant surgeons receive pay as follows :—</p>
-              <table xml:id="tbl-078" rows="5" cols="3">
+              <table xml:id="tbl-077" rows="5" cols="3">
           <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">Monthly Rs.</cell></row>
           <row role="data"><cell>8 Sub-Assistants.</cell><cell>each</cell><cell rend="num">350</cell></row>
           <row role="data"><cell>9 „</cell><cell>„</cell><cell rend="num">300</cell></row>
@@ -1782,7 +1771,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
               <p>if placed in temporary medical charge of a Native regiment.</p>
               <p>(6) When an honorary assistant surgeon, or an apothecary, or an assistant apothecary, is allowed to retain medical charge of a Native corps for upwards of five years, his salary is increased to Rs. 600 a month.</p>
               <p>(7) Honorary assistant surgeons and other members of the apothecary class, when employed in independent medical charge of civil stations, will receive pay according to the scale laid down in Financial Department’s Notification No. 2,295, dated the 25th April, 1867, namely—</p>
-              <table xml:id="tbl-079" rows="5" cols="2">
+              <table xml:id="tbl-078" rows="5" cols="2">
           <row role="label"><cell role="label"></cell><cell role="label">Rs.</cell></row>
           <row role="data"><cell>Under 5 years’ service in independent civil charge</cell><cell rend="num">350</cell></row>
           <row role="data"><cell>From 5 to 10 years</cell><cell rend="num">450</cell></row>
@@ -1790,7 +1779,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <row role="data"><cell>Above 15 years</cell><cell rend="num">700</cell></row>
         </table>
               <p>(8) The following apothecaries are in medical charge of the stations placed opposite to their names, with their pay :—</p>
-              <table xml:id="tbl-080" rows="12" cols="2">
+              <table xml:id="tbl-079" rows="12" cols="2">
           <row role="label"><cell role="label"></cell><cell role="label">Rs.</cell></row>
           <row role="data"><cell>B. Burn, Nassick</cell><cell rend="num">700</cell></row>
           <row role="data"><cell>A. Pollard, Dapoolee</cell><cell rend="num">450</cell></row>
@@ -1811,7 +1800,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head>RANK OR POSITION.</head>
             <p>(9) The rank of sub-assistant surgeons is that of “ <hi rend="italic">Native com-</hi></p>
             <p>(9) Apothecaries generally are <hi rend="italic">warrant medical officers</hi> (Rule 8 of <pb xml:id="page-140" n="120" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n139_w1400.jpg"/> <hi rend="italic">missioned officers</hi> of the army,” whose designations and pay are as follows :—</p>
-            <table xml:id="tbl-081" rows="4" cols="2">
+            <table xml:id="tbl-080" rows="4" cols="2">
         <row role="label"><cell role="label"></cell><cell role="label">Monthly.</cell></row>
         <row role="data"><cell>Subadar.</cell><cell rend="num">Rs. 100</cell></row>
         <row role="data"><cell>Jemadar</cell><cell>„ 35</cell></row>
@@ -1881,7 +1870,16 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <div type="notes">
     <list type="footnotes">
       <item><note xml:id="sec-04-fn-001" place="foot" n="1" target="#ref-sec-04-fn-001">These notes in their original draft were placed before the Select Committee on Indian Finance in 1873. They were taken, but not published with the Report, as they did not suit the views of the Chairman (Mr. Ayrton), and I was led to suppose, also of Sir Grant Duff, who was then the Under-Secretary of State for India.</note></item>
-      <item><note xml:id="sec-04-fn-002" place="foot" n="1" target="#ref-sec-04-fn-002">The Table A is too large for insertion.</note></item>
+      <item><note xml:id="sec-04-fn-002" place="foot" n="1" target="#ref-sec-04-fn-002"><p>The Table A is too large for insertion.</p>        <table xml:id="tbl-081" rows="7" cols="3">
+          <head>Summary.</head>
+          <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">Rs.</cell></row>
+          <row role="data"><cell>Rice</cell><cell rend="num">2,938,328</cell><cell rend="num">4,18,43,575</cell></row>
+          <row role="data"><cell>Wheat</cell><cell rend="num">3,313,677</cell><cell rend="num">3,51,77,956</cell></row>
+          <row role="data"><cell>Other Food Grains</cell><cell rend="num">4,197,516</cell><cell rend="num">4,70,63,760</cell></row>
+          <row role="data"><cell>Oil Seeds</cell><cell rend="num">697,100</cell><cell rend="num">1,04,42,854</cell></row>
+          <row role="data"><cell>Cotton</cell><cell rend="num">643,390</cell><cell rend="num">50,28,838</cell></row>
+          <row role="data" rend="total"><cell>Total</cell><cell rend="num">11,790,011</cell><cell rend="num">13,95,56,983</cell></row>
+        </table><p>Average, Rs. 11-13-5 per acre.</p></note></item>
       <item><note xml:id="sec-04-fn-003" place="foot" n="1" target="#ref-sec-04-fn-003">The “Agricultural Gazette of India” of the <hi rend="italic">Indian Economist</hi>, 15th August, 1870, No. 1.</note></item>
       <item><note xml:id="sec-04-fn-004" place="foot" n="2" target="#ref-sec-04-fn-004">See also Parliamentary Return No. 999 of 1853, page 471.</note></item>
       <item><note xml:id="sec-04-fn-005" place="foot" n="1" target="#ref-sec-04-fn-005">24 Madras measures = 1 Huris Cullum. 133⅓ Huris Cullum = 1 Madras Garce. (Selection of the Madras Government, No. XIV. of 1869, page 16.)</note></item>
@@ -2861,7 +2859,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <div type="subsection" n="h1">
           <head>PUNJAB, 1876-7.</head>
           <table xml:id="tbl-111" rows="11" cols="7">
-      <head>FOOD.—<hi rend="italic">Man.</hi></head>
+      <head><hi rend="smallcaps">Cost of Absolute Necessaries of Life of an Agricultural Labourer.</hi> — FOOD.—<hi rend="italic">Man.</hi></head>
       <row role="label"><cell role="label">Items.</cell><cell role="label">Quantity per day.</cell><cell role="label">Quantity for 1 Year.</cell><cell role="label">Price for Re. 1.</cell><cell role="label" cols="2">Cost for 1 Year.</cell><cell role="label">Remarks.</cell></row>
       <row role="label"><cell role="label"></cell><cell role="label">Seers.</cell><cell role="label">Seers.</cell><cell role="label">Seers.</cell><cell role="label">Rs.</cell><cell role="label">As.</cell><cell role="label"></cell></row>
       <row role="data"><cell>Flour</cell><cell rend="num">1</cell><cell rend="num">365</cell><cell rend="num">25</cell><cell rend="num">14</cell><cell rend="num">9</cell><cell>The price in the Report is 20 seers for first sort; I have taken 25 per cent. lower price for lower quality.</cell></row>
@@ -2874,16 +2872,16 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <row role="data"><cell>Vegetables</cell><cell rend="num">1 ,, ,,</cell><cell>...</cell><cell>...</cell><cell rend="num">1</cell><cell rend="num">8</cell><cell></cell></row>
       <row role="data" rend="total"><cell></cell><cell></cell><cell></cell><cell>Total .</cell><cell rend="num">37</cell><cell rend="num">2</cell><cell>Without any meat, sugar, milk, or any drink, or any kind of luxury whatever.</cell></row>
     </table>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">Woman.</hi></head>
             <p>All the above items will be nearly the same, except tobacco. Deducting tobacco, it will be Rs. 34-2 as. ; say Rs. 32.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">Two more Members in a Family.</hi></head>
             <p>One young person, say, between 12 and 18, say Rs. 26, though there will not be so much difference. One ,, ,, under 12, say ,, 0, though this cannot be the case generally.</p>
             <pb xml:id="page-192" n="172" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n191_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>COST OF ABSOLUTE NECESSARIES OF LIFE OF AN AGRICULTURAL LABOURER.—<hi rend="italic">Continued.</hi></head>
             <table xml:id="tbl-112" rows="11" cols="7">
         <head>CLOTHING FOR ONE YEAR.</head>
@@ -3001,8 +2999,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>I need not discuss Mr. Danvers’ paper of 28th June, 1880, any further. The fallacy of “other sources” besides agriculture, mines, manufactures, and foreign trade, pervades his whole argument; and in the latter part of the paper two different matters are mixed up, a little misapprehension has taken place as to my meaning, and some part is irrelevant.</p>
             <p>The whole question now before us is simply this:—</p>
             <p>First, what the whole actual, material, annual income of India is, as the ultimate balance of all sources and influences; that is available for the use of the <hi rend="italic">whole people of India</hi>.</p>
-            <p>Secondly, what the absolutely necessary wants and the usual wants of all classes of the people are; and</p>
-            <p>Thirdly, whether the income of India is equal to, less, or more than such wants.</p>
+            <p>Secondly, what the absolutely necessary wants and the usual wants of all classes of the people are; and Thirdly, whether the income of India is equal to, less, or more than such wants.</p>
             <pb xml:id="page-208" n="188" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n207_w1400.jpg"/>
             <p>By carefully ascertaining these facts every year, shall we ever be able to know truly whether India is progressing in prosperity, or sinking in poverty, or is in a stationary condition ? This is the whole problem, and it must be boldly faced and clearly answered if the mission of Britain is the good of India, as I firmly believe it to be.</p>
             <p>As to the question, how and by whom, directly or indirectly, the income is actually produced, and how and by whom, and through what channels, this income is distributed among the whole people, that is an entirely different matter, and, though important in itself and involving much legislation, is quite separate from the first and fundamental question of the whole total of the means and wants of India.</p>
@@ -3374,7 +3371,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <div xml:id="sec-11" type="chapter" n="11-poverty-of-india-233-trade-statistics-of-india">
         <head>Poverty of India, 233—Trade Statistics of India</head>
         <pb xml:id="page-271" n="251" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n270_w1400.jpg"/>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head><hi rend="italic">November,</hi> 1887.</head>
         </div>
         <div type="subsection" n="h1">
@@ -3822,7 +3819,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <div type="subsection" n="h3">
               <head><hi rend="smallcaps">PRODUCE.—I.</hi></head>
               <table xml:id="tbl-135" rows="6" cols="11">
-          <head>Price of Produce per maund of 80 lbs.</head>
+          <head><hi rend="italic">Price of Produce and Labour at the end of the year.</hi> — Price of Produce per maund of 80 lbs.</head>
           <row role="label"><cell role="label">District</cell><cell role="label">Rice</cell><cell role="label">Wheat</cell><cell role="label">Linseed</cell><cell role="label">Jute</cell><cell role="label">Cotton</cell><cell role="label">Sugar</cell><cell role="label">Salt</cell><cell role="label">&amp;c., &amp;c.</cell></row>
           <row role="data" rend="total"><cell>General Average</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
           <row role="data" rend="header"><cell cols="4">Prices—<hi rend="italic">continued</hi>.</cell><cell cols="7"><hi rend="smallcaps">LABOUR.—2.</hi></cell></row>
@@ -3834,7 +3831,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           </div>
           <div type="subsection" n="h2">
             <head>FORM F.</head>
-            <p>Where Situated — Mineral Produced — Number of Mines — Annual Produce — Remarks</p>
+            <p><hi rend="smallcaps">MINES AND QUARRIES.</hi> — Where Situated — Mineral Produced — Number of Mines — Annual Produce — Remarks</p>
             <pb xml:id="page-345" n="325" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n344_w1400.jpg"/>
             <table xml:id="tbl-136" rows="11" cols="8">
         <head><hi rend="smallcaps">Form G.—Manufactures.</hi></head>
@@ -4518,7 +4515,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <p>With their despatch of 1st May, 1879, the Government of India sent the rules, and explained in para. 8 of the despatch the proportion of Indians they proposed to select : “the proposed statutory rules, in brief, provide that a proportion not exceeding one-sixth of all the recruits added to the Civil Service in any one year shall be Natives selected in India by the local Governments.”</p>
           <pb xml:id="page-460" n="440" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n459_w1400.jpg"/>
           <p>I give here the rules proposed :</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>“ No. 18.</head>
             <quote><p>“ <hi rend="smallcaps">Rules</hi> for the <hi rend="smallcaps">Appointment</hi> of <hi rend="smallcaps">Natives</hi> of <hi rend="smallcaps">India</hi> to offices ordinarily held by members of her Majesty’s Covenanted Civil Service in India.</p></quote>
             <quote><p>“ In exercise of the power conferred by the Statute 33 Vict., cap. 3, section 6, the Governor-General in Council has been pleased to make the following rules, which have been sanctioned by the Secretary of State in Council with the concurrence of a majority of members present :—</p></quote>
@@ -5461,7 +5458,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <div type="subsection" n="h1">
           <head>TABLE, &amp;c., SHOWING EXPENDITURE ON WARS BEYOND THE INDIAN FRONTIERS.</head>
           <table xml:id="tbl-165" rows="30" cols="3">
-      <head><hi rend="smallcaps">Statement showing Approximate Cost of the Forward Policy on the North-West Frontier up to 1896, including the Afghan War of 1878-79-80.</hi></head>
+      <head>(<hi rend="italic">Extracted from Colonel Hanna's "Backwards and Forwards."</hi>) — <hi rend="smallcaps">Statement showing Approximate Cost of the Forward Policy on the North-West Frontier up to 1896, including the Afghan War of 1878-79-80.</hi></head>
       <row role="label"><cell role="label"></cell><cell role="label">Rupees.</cell><cell role="label"></cell></row>
       <row role="data"><cell>I.—The Afghan War</cell><cell rend="num">223,110,000<ref xml:id="ref-sec-13-fn-008" type="noteref" target="#sec-13-fn-008">1</ref></cell><cell>Sir Evelyn Baring, Financial Member of the Viceroy's Council.</cell></row>
       <row role="data"><cell>II.—Military Railways on the North-West Frontier since the War.</cell><cell rend="num">163,967,910<ref xml:id="ref-sec-13-fn-009" type="noteref" target="#sec-13-fn-009">2</ref></cell><cell>Administrative Reports on Railways in India.</cell></row>
@@ -6117,7 +6114,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <div type="subsection" n="h1">
           <head>A SELECTION FROM ADDRESSES.</head>
           <pb xml:id="page-647" n="627" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n646_w1400.jpg"/>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">[Reprinted from <hi rend="smallcaps">INDIA</hi>, November 18th, 1898.]</hi></head>
           </div>
         </div>
@@ -6173,7 +6170,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         </div>
         <div type="subsection" n="h1">
           <head>MR. NAOROJI AT PLUMSTEAD.</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">[From Our Own Reporter.]</hi></head>
             <p>On Saturday, July 21st, Mr. Dadabhai Naoroji addressed the delegates of the Metropolitan Radical Federation, at a meeting held at the Plumstead Radical Club, under the presidency of Mr. James Jeffrey, L.C.C. There was a fairly large attendance.</p>
             <p>Mr. Naoroji, who was heartily cheered, took the following resolution as the text of his speech :—</p>
@@ -6268,7 +6265,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
     </list>
   </div>
       </div>
-      <div xml:id="sec-16" type="backmatter" n="16-index">
+      <div xml:id="sec-16" type="index" n="16-index">
         <head>INDEX.</head>
         <pb xml:id="page-681" n="661" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n680_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -6281,14 +6278,23 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Address, Amendment to the : 294-<lb/>304</item>
       <item>Admednuggur : Produce 20-1</item>
       <item>Admiralty, the : Correspondence<lb/>with 505-21</item>
-      <item>Afghan Boundary Commission : 523</item>
-      <item>„ War : 210, 303, 354-6; Cost<lb/>of 522, 523, 526</item>
+      <item>Afghan Boundary Commission : 523
+        <list type="index">
+          <item>„ War : 210, 303, 354-6; Cost of 522, 523, 526</item>
+        </list>
+      </item>
       <item>Afghanistan, Amir of : Subsidy to<lb/>525</item>
       <item>Agra, Canal : 71. Prices of rice 71,<lb/>of wheat 70, 78, 80; Irrigated<lb/>land 12; Wheat 9, 11</item>
-      <item>Agriculture : of British Isles 2 <hi rend="italic">sqq.</hi></item>
-      <item>„ Production and distribution tables 323-4</item>
-      <item>Agricultural Department for India<lb/>suggested : 227</item>
-      <item>„ Stock—<hi rend="italic">v.</hi> Stock, Agricultural</item>
+      <item>Agriculture : of British Isles 2 <hi rend="italic">sqq.</hi>
+        <list type="index">
+          <item>„ Production and distribution tables 323-4</item>
+        </list>
+      </item>
+      <item>Agricultural Department for India suggested : 227
+        <list type="index">
+          <item>„ Stock—<hi rend="italic">v.</hi> Stock, Agricultural</item>
+        </list>
+      </item>
       <item>Ahmad Khan, Sir Syad : 449</item>
       <item>Ahmedabad : Cost of living 27;<lb/>Population 214; Prices 71, of<lb/>jowari 76; Produce 20-1</item>
       <item>Ahmednuggar : Distress in 76</item>
@@ -6296,19 +6302,28 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Ajmere : Price of wheat 70</item>
       <item>Akbar : 399, 421, 588, 589</item>
       <item>Akleshwar Taluka : 22</item>
-      <item>Ali, Hyder—<hi rend="italic">v.</hi> Hyder Ali</item>
-      <item>„ , Saadat : 610</item>
-      <item>„ Khan, Mr. Faiz : 284</item>
+      <item>Ali, Hyder—<hi rend="italic">v.</hi> Hyder Ali
+        <list type="index">
+          <item>„ , Saadat : 610</item>
+          <item>„ Khan, Mr. Faiz : 284</item>
+        </list>
+      </item>
       <item>Alivardy Khan, Mr. : 598</item>
       <item>Allahabad : Irrigated land 12; Wheat<lb/>9, 11, price of wheat 70, 78</item>
       <item>Allyghur : Prices of wheat 78</item>
       <item>Alsace-Lorraine : Revenue per head<lb/>258</item>
       <item>Ameerkhan, Mr. : 111</item>
-      <item>America, British North : Exports<lb/>and imports 32, 35, 136</item>
-      <item>„ Central : Exports and imports per head 257</item>
-      <item>„ South : Earning per head<lb/>246</item>
-      <item>American Colonies, North : 333; Exports per head 254; of<lb/>British produce per<lb/>head 256; Revenue per<lb/>head 258</item>
-      <item>„ War : 65, 77, 137, 139, 216</item>
+      <item>America, British North : Exports and imports 32, 35, 136
+        <list type="index">
+          <item>„ Central : Exports and imports per head 257</item>
+          <item>„ South : Earning per head 246</item>
+        </list>
+      </item>
+      <item>American Colonies, North : 333; Exports per head 254; of British produce per head 256; Revenue per head 258
+        <list type="index">
+          <item>„ War : 65, 77, 137, 139, 216</item>
+        </list>
+      </item>
       <item>Amritsar : Barley 152; Cotton 160;<lb/>Gram 153; Hemp 161; Inferior<lb/>grains 154; Mahai 151; Oil seeds<lb/>159; Rice 149; Sugar 164; Tobacco 157; Vegetables 163; Wheat<lb/>150</item>
       <item>Anquetil du Perron : 591</item>
       <item>Appa, Chambas : 105</item>
@@ -6331,8 +6346,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
     </list>
           <pb xml:id="page-682" n="662" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n681_w1400.jpg"/>
           <list type="index">
-      <item>Bahadur, Nawab Abdul Latif : 470</item>
-      <item>„ Nawab Wilayat Ali Khan : 470</item>
+      <item>Bahadur, Nawab Abdul Latif : 470
+        <list type="index">
+          <item>„ Nawab Wilayat Ali Khan : 470</item>
+        </list>
+      </item>
       <item>Baitool : Price of wheat 69 ; Wages 85</item>
       <item>Bájrá : Consumption 155 ; Cost as diet 29 ; in Bombay 17, 18, 20, 22 ; in N.-W. Provinces 8 ; in Punjab 154, 169 ; in Rutnagherry 19 ; Prices at Belgaum 71</item>
       <item>Bakergunge : Wages 82</item>
@@ -6368,9 +6386,12 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Belgaum : Prices 71, of jowari 76 ; Produce 20-1</item>
       <item>Belgium : Earning per head 246 ; Expenditure per head and income 249 ; Exports per head 255, of British produce per head 257 ;</item>
       <item>Population per sq. mile 269 ; Revenue per head 258</item>
-      <item>Bell, Mr. : 208</item>
-      <item>„ Mr. J. : 578</item>
-      <item>„ Major : 267</item>
+      <item>Bell, Mr. : 208
+        <list type="index">
+          <item>„ Mr. J. : 578</item>
+          <item>„ Major : 267</item>
+        </list>
+      </item>
       <item>Bellary : Price of rice 70</item>
       <item>Beluchistan Agency : Cost of 522</item>
       <item>Benares : Irrigated land 12 ; Wheat 9, 11, price of wheat 70</item>
@@ -6548,9 +6569,12 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Duskroee Pergunnah: Produce 18</item>
       <item>Dyeing: Statistics in Punjab, 167</item>
       <item>East India Association: 344, 391, 420, 425, 431; Correspondence with Sir M. E. Grant Duff 94-103</item>
-      <item>East India (Laws and Regulations) Act: 95</item>
-      <item>„ Company: 39-40, 89, 90, 292, 399, 400, 463, 599, 600, 601, 611, 612, 614; its Treatment of natives, 276</item>
-      <item>„ Railway: 71</item>
+      <item>East India (Laws and Regulations) Act: 95
+        <list type="index">
+          <item>„ Company: 39-40, 89, 90, 292, 399, 400, 463, 599, 600, 601, 611, 612, 614; its Treatment of natives, 276</item>
+          <item>„ Railway: 71</item>
+        </list>
+      </item>
       <item>Eastwick, Mr. E. B.: 146</item>
       <item>Education Department: 211</item>
       <item>Eduljee, Mr. Cowasjee: 13-14</item>
@@ -6562,8 +6586,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Ellis, Mr. J. H.: 483</item>
       <item>Ellora, Pagoda of: 592</item>
       <item>Elphinstone, Mr. Mountstuart: 284, 407, 584</item>
-      <item>Engineering College, London: 209</item>
-      <item>„ Service: 105-16</item>
+      <item>Engineering College, London: 209
+        <list type="index">
+          <item>„ Service: 105-16</item>
+        </list>
+      </item>
       <item>England: Benefits derived from India 35; Earning per head 246; Effect of Drain of money from 51-4; Population 339, per sq. mile 269; Revenue 339; Taxation 60-1</item>
       <item>Europe: Earning per head 246</item>
       <item>Europeans in India: 203 <hi rend="italic">sqq.</hi>, 225, 226-7, 280, 282-3, 288, 289-90, 296-7, 300, 348-50</item>
@@ -6571,18 +6598,24 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Examinations: Military 487-504; Naval 505-21; Simultaneous 466-86</item>
       <item>Exchanges, Indian: 548-60</item>
       <item>Expenditure, British, on Administration of India: 307-20, 322-42</item>
-      <item>Exports and Imports: of British Empire 136, 254-256, 333-4; of Various countries 255</item>
-      <item>„ How prices should be taken 138</item>
-      <item>„ of British India: 32 <hi rend="italic">sqq.</hi>, 137, 252 <hi rend="italic">sqq.</hi>, 255, 256, 264, 281, 331-9, 381, 568-70; of British produce 256, 257, 628; of Bullion 89-90; to United Kingdom 35, 36</item>
-      <item>„ of British produce: British Empire 256, Various countries 257, 628</item>
-      <item>„ of United States: 136; of Gold 129</item>
+      <item>Exports and Imports: of British Empire 136, 254-256, 333-4; of Various countries 255
+        <list type="index">
+          <item>„ How prices should be taken 138</item>
+          <item>„ of British India: 32 <hi rend="italic">sqq.</hi>, 137, 252 <hi rend="italic">sqq.</hi>, 255, 256, 264, 281, 331-9, 381, 568-70; of British produce 256, 257, 628; of Bullion 89-90; to United Kingdom 35, 36</item>
+          <item>„ of British produce: British Empire 256, Various countries 257, 628</item>
+          <item>„ of United States: 136; of Gold 129</item>
+        </list>
+      </item>
     </list>
           <pb xml:id="page-686" n="666" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n685_w1400.jpg"/>
           <list type="index">
       <item>Fair Dhollera : 19</item>
-      <item>Famine Commission : 220-30</item>
-      <item>„ : of 1878, 387 ; of 1897, 387 ; of 1900, 643-7, 648, 654-60</item>
-      <item>„ : Effect on prices 81-2</item>
+      <item>Famine Commission : 220-30
+        <list type="index">
+          <item>„ : of 1878, 387 ; of 1897, 387 ; of 1900, 643-7, 648, 654-60</item>
+          <item>„ : Effect on prices 81-2</item>
+        </list>
+      </item>
       <item>Farrer, Mr. (Sir) Thomas : 539</item>
       <item>Fawcett, Mr. : 208, 267, 279, 316, 359 ; on Admission of natives to covenanted C.S. 424-5 ; on the Afghan War 354-6</item>
       <item>Ferishta : 586</item>
@@ -6591,13 +6624,19 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Fielden, Mr. M. G. : 578</item>
       <item>Firozepore : Barley 152 ; Cotton 160 ; Gram 153 ; Hemp 161 ; Indigo 162 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150</item>
       <item>Fish : Prices 324</item>
-      <item>Fitzgerald, Lieut.-Gen. Sir J. F. : 578</item>
-      <item>„ Sir Seymour : 107</item>
-      <item>„ Mr. W. R. S. : 578</item>
+      <item>Fitzgerald, Lieut.-Gen. Sir J. F. : 578
+        <list type="index">
+          <item>„ Sir Seymour : 107</item>
+          <item>„ Mr. W. R. S. : 578</item>
+        </list>
+      </item>
       <item>Flour : Daily requirement of a labourer 171 ; as Diet for coolies 25, for emigrants 26</item>
       <item>Food Crops : in Bengal 327 ; in Central Provinces 5 (and <hi rend="italic">n.</hi>) ; in Punjab 5, 169</item>
-      <item>Forest Revenue of India : 2</item>
-      <item>„ Service of India : 123-5</item>
+      <item>Forest Revenue of India : 2
+        <list type="index">
+          <item>„ Service of India : 123-5</item>
+        </list>
+      </item>
       <item>Forrest, Mr. G. W. : 483</item>
       <item>Forster, Mr. M. : 578</item>
       <item>Fowler, Sir Henry : 328, 341, 460, 538 ; on British government of India 319 ; on English treatment of the Irish 358 ; on the Revenue of India 312, 313</item>
@@ -6625,8 +6664,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Gholab Aly Khan, Mr. : 597</item>
       <item>Ghose, Hon. C. M. : 470</item>
       <item>Giberne, Mr. : 46</item>
-      <item>Gibson, Mr. E. : 483</item>
-      <item>„ Rt. Hon. T. M. : 578</item>
+      <item>Gibson, Mr. E. : 483
+        <list type="index">
+          <item>„ Rt. Hon. T. M. : 578</item>
+        </list>
+      </item>
       <item>Giffen, Mr. : 539</item>
       <item>Gilgit : Cost of British Agency 524</item>
       <item>Gladstone, Rt. Hon. W. E. : 312, 363, 453 ; on the Afghan War 356 ; on British duties to India 462 ; on the Penjdeh incident 357</item>
@@ -6637,21 +6679,30 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Goderich, Viscount : 578</item>
       <item>Governor-General of India Bill : 95</item>
       <item>Golbeurnd, Mr. : 408-9</item>
-      <item>Gold Coast : Exports per head 256</item>
-      <item>„ Exports of United States : 128-31</item>
-      <item>„ Lace : in Punjab 167</item>
-      <item>„ Ornaments : Cost of native 127</item>
-      <item>„ Production of India : 262-3 —<hi rend="italic">v.</hi> also Bullion, Currency</item>
+      <item>Gold Coast : Exports per head 256
+        <list type="index">
+          <item>„ Exports of United States : 128-31</item>
+          <item>„ Lace : in Punjab 167</item>
+          <item>„ Ornaments : Cost of native 127</item>
+          <item>„ Production of India : 262-3 —<hi rend="italic">v.</hi> also Bullion, Currency</item>
+        </list>
+      </item>
       <item>Gomal Chiefs : Subsidy to 525</item>
       <item>Gondal : 621 ; Financial condition 259 ; Loan by 390 ; Public works 259 ; Revenue per head 259</item>
       <item>Goodridge, Mr. J. P. : 483</item>
       <item>Goschen, Rt. Hon. G. J. : on Naval cadetships 511-2, 514, 518-9</item>
-      <item>Grains : in Punjab 149-66 <hi rend="italic">passim</hi>, 169, 190</item>
-      <item>„ Inferior : 323-24</item>
+      <item>Grains : in Punjab 149-66 <hi rend="italic">passim</hi>, 169, 190
+        <list type="index">
+          <item>„ Inferior : 323-24</item>
+        </list>
+      </item>
       <item>Gram : Consumption 155</item>
       <item>Grand Trunk-road : Wages on 82</item>
-      <item>Grant, Mr. Charles : 406-7</item>
-      <item>„ Sir R. : 43</item>
+      <item>Grant, Mr. Charles : 406-7
+        <list type="index">
+          <item>„ Sir R. : 43</item>
+        </list>
+      </item>
       <item>Granville, Earl : 414</item>
       <item>Grass Production : in Punjab 190</item>
     </list>
@@ -6676,12 +6727,18 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Hamilton, Lord George: 361, 640</item>
       <item>Hanna, Colonel: 526</item>
       <item>Hansi: 586</item>
-      <item>Harcourt, Mr. W.: 578</item>
-      <item>„ Sir William: 347</item>
+      <item>Harcourt, Mr. W.: 578
+        <list type="index">
+          <item>„ Sir William: 347</item>
+        </list>
+      </item>
       <item>Harrison, Mr.: 86-9, 264; on the<lb/>Coinage 571</item>
       <item>Hartington, Lord: 280, 307, 318,<lb/>372; on Employment of natives<lb/>365; on Government of India<lb/>575</item>
-      <item>Hastings, Lord: 610, 613</item>
-      <item>„ Warren: 601, 602, 639</item>
+      <item>Hastings, Lord: 610, 613
+        <list type="index">
+          <item>„ Warren: 601, 602, 639</item>
+        </list>
+      </item>
       <item>Hazara: Barley 152; Cotton 160;<lb/>Gram 153; Inferior grains 154;<lb/>Makai 151; Oil seeds 159; Rice<lb/>149; Sugar 164; Tobacco 157;<lb/>Vegetables 163; Wheat 150</item>
       <item>Heber, Bishop: 399, 400, 589; on<lb/>Oudh 609-10</item>
       <item>Hemp: in Punjab 161-66 <hi rend="italic">passim</hi></item>
@@ -6704,8 +6761,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Humayon: 588</item>
       <item>Hume, Mr. A. O.: 469, 483</item>
       <item>Hunt, Mr. T.: 578</item>
-      <item>Hunter, Dr.: 267</item>
-      <item>„ Sir William: 259, 307-308,<lb/>460-1, 621; on Employment of natives 365; on<lb/>the Poverty of India 244</item>
+      <item>Hunter, Dr.: 267
+        <list type="index">
+          <item>„ Sir William: 259, 307-308, 460-1, 621; on Employment of natives 365; on the Poverty of India 244</item>
+        </list>
+      </item>
       <item>Husore, Prant of: Produce 18</item>
       <item>Hutchins, Mr. E. J.: 578</item>
       <item>Hydaspes: 584</item>
@@ -6722,15 +6782,24 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <list type="index">
       <item>Indapore : Prices 75</item>
       <item>Incidence of Taxation—<hi rend="italic">v.</hi> Taxation</item>
-      <item>Income :—<hi rend="italic">v.</hi> names of countries</item>
-      <item>„ Tax : 288</item>
+      <item>Income :—<hi rend="italic">v.</hi> names of countries
+        <list type="index">
+          <item>„ Tax : 288</item>
+        </list>
+      </item>
       <item>Incomes, Professional : 185</item>
       <item>Indapore : Prices of grain 46</item>
-      <item>India : State under native rulers<lb/>581-614</item>
-      <item>„ Bill of 1833 : 409</item>
-      <item>„ British—<hi rend="italic">v.</hi> British India</item>
-      <item>Indian Civil Service—<hi rend="italic">v.</hi> Civil Service</item>
-      <item>„ Corn—<hi rend="italic">v.</hi> Makai</item>
+      <item>India : State under native rulers 581-614
+        <list type="index">
+          <item>„ Bill of 1833 : 409</item>
+          <item>„ British—<hi rend="italic">v.</hi> British India</item>
+        </list>
+      </item>
+      <item>Indian Civil Service—<hi rend="italic">v.</hi> Civil Service
+        <list type="index">
+          <item>„ Corn—<hi rend="italic">v.</hi> Makai</item>
+        </list>
+      </item>
       <item>Indigo : 323-4 ; in Bengal 327 ; in<lb/>Punjab 189, 190; Exports 253;<lb/>Price 65-6</item>
       <item>Indore : Revenue per head 260</item>
       <item>Ireland : Earning per head 246 ;<lb/>Population per sq. mile 270</item>
@@ -6801,19 +6870,28 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Lahore : Produce 7-8 ; Barley 152 ;<lb/>Cotton 160 ; Gram 153 ; Inferior<lb/>grains 154 ; Makai 151 ; Oil seeds<lb/>159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat<lb/>150, price of 70, 79, 81 ; Wages 84</item>
       <item>Laing, Mr. : 36-7, 369</item>
       <item>Lancashire's Interest in India: 627-35</item>
-      <item>Land-Revenue of British India: 298</item>
-      <item>„ -Tax of British India : 2</item>
+      <item>Land-Revenue of British India: 298
+        <list type="index">
+          <item>„ -Tax of British India : 2</item>
+        </list>
+      </item>
       <item>Lang, Principal : 113</item>
       <item>Lansdowne, Lord : 277-8, 312, 318 ;<lb/>on Admission of natives to covenanted C.S. 398-401 ; on England's<lb/>Duty to India 236</item>
       <item>Larminie, Mr.: 484</item>
       <item>Lawrence, Lord (formerly Sir John):<lb/>372 ; on the Admission of natives<lb/>to covenanted C. S. 96, 102 ; on<lb/>the Drain from India to England<lb/>48-9, 79 ; on the Poverty of India<lb/>50-1, 140, 186-7, 244, 314, 317, 328</item>
-      <item>Lawson, Mr. : 51, 140</item>
-      <item>„ Mr. G. : 496</item>
+      <item>Lawson, Mr. : 51, 140
+        <list type="index">
+          <item>„ Mr. G. : 496</item>
+        </list>
+      </item>
       <item>Leather : in Punjab 167</item>
       <item>Lee-Brown, Miss Annie : 642</item>
       <item>Lewin, Mr. M. : 578</item>
-      <item>Lewis, Mr. F. C. : 483</item>
-      <item>„ Mr. G. : 483</item>
+      <item>Lewis, Mr. F. C. : 483
+        <list type="index">
+          <item>„ Mr. G. : 483</item>
+        </list>
+      </item>
       <item>Linseed : 324 ; Price and Value 68,<lb/>159, 160</item>
       <item>Lodging, Cost of : 28</item>
       <item>London Indian Society : 207-8</item>
@@ -6829,19 +6907,28 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Macdonnel, Mr. A. P. : 176</item>
       <item>Macgregor, Mr. Evan : 505, 507,<lb/>508, 511</item>
       <item>Mackay, Hon. Mr. : 559</item>
-      <item>Mackenzie, Rev. D. : 483, 485</item>
-      <item>„ Rev. H. G. G. : 654</item>
+      <item>Mackenzie, Rev. D. : 483, 485
+        <list type="index">
+          <item>„ Rev. H. G. G. : 654</item>
+        </list>
+      </item>
       <item>Maclean, Mr. : 37, 124, 126-33</item>
-      <item>Macnaghten, Mr. : 317 (<hi rend="italic">n.</hi>), 418</item>
-      <item>„ Sir E. : 466 (<hi rend="italic">n.</hi>)</item>
+      <item>Macnaghten, Mr. : 317 (<hi rend="italic">n.</hi>), 418
+        <list type="index">
+          <item>„ Sir E. : 466 (<hi rend="italic">n.</hi>)</item>
+        </list>
+      </item>
       <item>MacConochi, Mr. : 10</item>
       <item>Maddox, Mr. G. : 483</item>
       <item>Madras : Condition of, in 1854, 47 ;<lb/>in 1869, 47-8 ; Grant Duff on<lb/>243 <hi rend="italic">sqq.</hi> ; Employment of native<lb/>engineers 110-1 ; Income per head<lb/>25, 244 ; Jails 30 ; Land revenue<lb/>170, 187 (<hi rend="italic">n.</hi>) ; Prices 72-3 ; Produce 15-7, 23 ; Production per<lb/>head 31 ; <hi rend="italic">Reports</hi> 3 ; Rice, export<lb/>of 63, price of 70, 80-1 ; Witnesses<lb/>for and against simultaneous examinations 467, 468, 477, 480-1</item>
       <item>Madras Association : 364</item>
       <item>Madura : Price of rice 70</item>
       <item>Mahé : 591</item>
-      <item>Mahommed of Giuzni : 585</item>
-      <item>„ Toglak : 586, 587</item>
+      <item>Mahommed of Giuzni : 585
+        <list type="index">
+          <item>„ Toglak : 586, 587</item>
+        </list>
+      </item>
       <item>Makai : in Punjab 151-66 <hi rend="italic">passim</hi></item>
       <item>Malabar : 16, 17 ; Early trade 39</item>
       <item>Malcolm, Sir J. : 57-8, 578, 604</item>
@@ -6851,8 +6938,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Manphal, Pundit : 284</item>
       <item>Manufactures, Indian : 325</item>
       <item>Marriages, Money spent by natives<lb/>on : 268</item>
-      <item>Marriot, Colonel : 43</item>
-      <item>„ Mr. Saville : 43-5</item>
+      <item>Marriot, Colonel : 43
+        <list type="index">
+          <item>„ Mr. Saville : 43-5</item>
+        </list>
+      </item>
     </list>
           <pb xml:id="page-690" n="670" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n689_w1400.jpg"/>
           <list type="index">
@@ -7001,8 +7091,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Powell, Mr. E. B. : 111</item>
       <item>Prescott, Col. : 22</item>
       <item>Price Commission Report (1864) : 77, 83</item>
-      <item>Prices, Average : 79, 80</item>
-      <item>„ Rise of : 62-3, 574-6 ; Causes 63-4, 69-72 ; due to Famine 81-2, to scarcity 80-1 ; Decrease under British rule 72-80 ; in Coffee 65-6, Cotton 64-5, Indigo 65-6, Linseed 68, Rapeseed 68, Rice 66-7, Silk 67, Sugar 67, Tea 68, Wool 68</item>
+      <item>Prices, Average : 79, 80
+        <list type="index">
+          <item>„ Rise of : 62-3, 574-6 ; Causes 63-4, 69-72 ; due to Famine 81-2, to scarcity 80-1 ; Decrease under British rule 72-80 ; in Coffee 65-6, Cotton 64-5, Indigo 65-6, Linseed 68, Rapeseed 68, Rice 66-7, Silk 67, Sugar 67, Tea 68, Wool 68</item>
+        </list>
+      </item>
       <item>Proclamation of 1858 : 417, 451, 459, 640</item>
       <item>Professional Incomes : 185</item>
       <item>Prussia : Revenue her head 258</item>
@@ -7016,9 +7109,12 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Putwurden, family of : 605</item>
       <item>Quarries : Statistics 324</item>
       <item>Quetta : Buildings 522 ; Waterworks, 522</item>
-      <item>Railway Loan, the : 34</item>
-      <item>„ Wealth of India : 180</item>
-      <item>„ Works : 71</item>
+      <item>Railway Loan, the : 34
+        <list type="index">
+          <item>„ Wealth of India : 180</item>
+          <item>„ Works : 71</item>
+        </list>
+      </item>
       <item>Railways : Construction of 110, 228 ; Military on N.-W. Frontier, 522 ; in Punjab 193-6 ; of United States 134</item>
       <item>Raipore : Price of rice 69, 70 ; Wages 84-5</item>
       <item>Rajmahal : Prices 71</item>
@@ -7026,14 +7122,17 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Ramghur : Wages 83</item>
       <item>Rampursad, Mr. : 111</item>
       <item>Ranjitsinhji, Prince : 395-7</item>
-      <item>Rao, Bajee : 603</item>
-      <item>„ Ballajee : 592</item>
-      <item>„ Barvi, Madhao : 284</item>
-      <item>„ Dunkar : 284</item>
-      <item>„ Madhao : 284</item>
-      <item>„ Mahdoo : 593</item>
-      <item>„ Peishwah Nasrain : 593-4</item>
-      <item>„ Ragonauth : 593</item>
+      <item>Rao, Bajee : 603
+        <list type="index">
+          <item>„ Ballajee : 592</item>
+          <item>„ Barvi, Madhao : 284</item>
+          <item>„ Dunkar : 284</item>
+          <item>„ Madhao : 284</item>
+          <item>„ Mahdoo : 593</item>
+          <item>„ Peishwah Nasrain : 593-4</item>
+          <item>„ Ragonauth : 593</item>
+        </list>
+      </item>
       <item>Rapeseed : Price 68</item>
       <item>Ráwalpindi : Barley 152 Cotton 160 ; Gram 153 ; Hemp 161 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150</item>
       <item>Rawlinson, Sir Henry : 368, 617</item>
@@ -7042,9 +7141,12 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Reynolds, Hon. H. J. : 469, 483</item>
       <item>Rezia, Sultana : 586</item>
       <item>Rhadhilal, Mr. : 111</item>
-      <item>Rice : Cost at Ahmedabad 27 ; Daily cost to a labourer 27, 29 ; Daily requirement of a labourer 171 ; as Diet for coolies 25, for emigrants 26 ;</item>
-      <item>„ Price of : 66-7, 74 ; in Belgaum 71 ; in Bengal 72, 73-4 ; in Bombay 74-7 ; in Central Provinces 78, 80 ; in Madras 72-3, 80-1</item>
-      <item>„ Statistics 323-4 ; in Bengal 13-4, 327 ; in Bombay 17, 18, 21-2 ; in Central Provinces, 3, 4, 5 (and <hi rend="italic">n.</hi>) ; in N.-W. Provinces 8 ; in Punjab 149-66 <hi rend="italic">passim</hi>, 169 ; in Rutnagherry 19</item>
+      <item>Rice : Cost at Ahmedabad 27 ; Daily cost to a labourer 27, 29 ; Daily requirement of a labourer 171 ; as Diet for coolies 25, for emigrants 26 ;
+        <list type="index">
+          <item>„ Price of : 66-7, 74 ; in Belgaum 71 ; in Bengal 72, 73-4 ; in Bombay 74-7 ; in Central Provinces 78, 80 ; in Madras 72-3, 80-1</item>
+          <item>„ Statistics 323-4 ; in Bengal 13-4, 327 ; in Bombay 17, 18, 21-2 ; in Central Provinces, 3, 4, 5 (and <hi rend="italic">n.</hi>) ; in N.-W. Provinces 8 ; in Punjab 149-66 <hi rend="italic">passim</hi>, 169 ; in Rutnagherry 19</item>
+        </list>
+      </item>
       <item>Rich, Mr. : 410-1, 412</item>
       <item>Ripon, Lord : 226, 272, 372, 658</item>
       <item>Roberts, Lord : on Peace 296 ; on Value of India to England 300, 341, 347</item>
@@ -7116,19 +7218,31 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Sime, Mr. J. : 483</item>
       <item>Simla : Barley 152 ; Cotton 160 ; Gram 153 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150</item>
       <item>Sindia : Loan to British Government 260</item>
-      <item>Sing, Mr. Bugwaut : 609</item>
-      <item>„ Mr. Pertaub : 611</item>
+      <item>Sing, Mr. Bugwaut : 609
+        <list type="index">
+          <item>„ Mr. Pertaub : 611</item>
+        </list>
+      </item>
       <item>Singh, Mr. G. K. : 654, 658</item>
-      <item>Sinhji, Mr. Jasvant : 390</item>
-      <item>„ Sir Bhagvat 390</item>
-      <item>Sircar, Isser Chandar, Mr. : 111</item>
-      <item>„ Dr. Mohendro Lal 470</item>
+      <item>Sinhji, Mr. Jasvant : 390
+        <list type="index">
+          <item>„ Sir Bhagvat 390</item>
+        </list>
+      </item>
+      <item>Sircar, Isser Chandar, Mr. : 111
+        <list type="index">
+          <item>„ Dr. Mohendro Lal 470</item>
+        </list>
+      </item>
       <item>Sirsa : Barley 152 ; Cotton 160 ; Gram 153 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150</item>
       <item>Slagg, Mr. : 267</item>
-      <item>Smith, Col. Baird : 49-50, 74, 78</item>
-      <item>„ Mr. G. : 323</item>
-      <item>„ Mr. J. B. : 19, 578</item>
-      <item>„ Mr. Samuel : 233, 245, 249, 261, 267, 293 <hi rend="italic">(n)</hi>, 298</item>
+      <item>Smith, Col. Baird : 49-50, 74, 78
+        <list type="index">
+          <item>„ Mr. G. : 323</item>
+          <item>„ Mr. J. B. : 19, 578</item>
+          <item>„ Mr. Samuel : 233, 245, 249, 261, 267, 293 <hi rend="italic">(n)</hi>, 298</item>
+        </list>
+      </item>
       <item>Soldiers, Native : 79</item>
       <item>Somnath, Temple of : 585</item>
       <item>Soondarlal, Mr. : 111</item>
@@ -7139,8 +7253,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Stanley, Lord—<hi rend="italic">v.</hi> Derby, Earl of</item>
       <item>Statistics : Fallacy of some present 3-4 ; How they should be compiled 4</item>
       <item>Statutory Service : 443, 448</item>
-      <item>Stephen, King, of England : 583</item>
-      <item>„ Mr. Carr : 483</item>
+      <item>Stephen, King, of England : 583
+        <list type="index">
+          <item>„ Mr. Carr : 483</item>
+        </list>
+      </item>
       <item>Stock, Agricultural : in Punjab 168, 190-1</item>
       <item>Stokes, Mr. H. E. : 483</item>
       <item>Strabo : 584</item>
@@ -7178,8 +7295,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Tochi Cantonment : 525</item>
       <item>Tonk : Revenue per head 260</item>
       <item>Toor : 27 <hi rend="italic">(n.)</hi></item>
-      <item>Trade of British India : 251 <hi rend="italic">sqq.</hi> ; Profits of 182</item>
-      <item>„ Foreign : of Punjab 196 ; of the United Kingdom 197-8 — <hi rend="italic">v.</hi> also Names of Countries</item>
+      <item>Trade of British India : 251 <hi rend="italic">sqq.</hi> ; Profits of 182
+        <list type="index">
+          <item>„ Foreign : of Punjab 196 ; of the United Kingdom 197-8 — <hi rend="italic">v.</hi> also Names of Countries</item>
+        </list>
+      </item>
       <item>Transvaal : 362</item>
       <item>Trant, Mr. : 136</item>
     </list>
@@ -7193,8 +7313,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Tupp, Mr. A. Cotterell: 483</item>
       <item>Turkey: Exports of British produce per head 257; Population<lb/>per sq. mile 270; Revenue per<lb/>head 258; Taxation 59</item>
       <item>Turmeric: in Punjab 158</item>
-      <item>Turner, Sir Charles: 448, 485</item>
-      <item>„ Mr. C. S.: 483 24-Pergunnahs: Wages 82, 83</item>
+      <item>Turner, Sir Charles: 448, 485
+        <list type="index">
+          <item>„ Mr. C. S.: 483 24-Pergunnahs: Wages 82, 83</item>
+        </list>
+      </item>
       <item>Umballa: Produce 7-8; Barley<lb/>152; Cotton 160; Gram 153;<lb/>Hemp 161; Indigo 162; Inferior<lb/>grains 154; Makai 151; Oil seeds<lb/>159; Poppy 156; Rice 149;<lb/>Sugar 164; Tobacco 157; Vegetables 163; Wheat 150, price of<lb/>70, 81</item>
       <item>Uncovenanted Service: 103-5, 210</item>
       <item>United Kingdom, the: Earning per<lb/>head 246, 248; Exports and<lb/>Imports 136, 254, 333; Foreign<lb/>Trade 197-8; Production per<lb/>head 135; Revenue per head 258</item>
@@ -7207,8 +7330,11 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Venaek, Mr. Gungadhur: 105</item>
       <item>Venezuela: Population per sq.<lb/>mile 270</item>
       <item>Vicbrermadiytia: 585</item>
-      <item>Victoria: Population 314</item>
-      <item>„ Queen: on the Duty of<lb/>England to India 94,<lb/>123, 272, 284, 293—<hi rend="italic">v</hi>.<lb/>also Proclamation of,<lb/>1858</item>
+      <item>Victoria: Population 314
+        <list type="index">
+          <item>„ Queen: on the Duty of England to India 94, 123, 272, 284, 293—<hi rend="italic">v</hi>. also Proclamation of, 1858</item>
+        </list>
+      </item>
       <item>Vizagapatam: Price of rice 70</item>
       <item>Wadhwam: Revenue per head 259</item>
       <item>Wages: 82-5, 324, 574-6; non-agricultural 184</item>
@@ -7219,18 +7345,27 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Weaving: Cost 127</item>
       <item>Wedderburn, Sir David: on Employment of natives 124; on<lb/>Salaries and pensions 222</item>
       <item>Wedderburn, Sir William: 267, 272,<lb/>483; Letters to, on Indian currency 530-48, 563-76</item>
-      <item>Welby, Mr. (Sir) Reginald: 539</item>
-      <item>„ Lord: Letters to 307, 321,<lb/>322-42, 343-64, 365-79,<lb/>380-95, 398-465</item>
+      <item>Welby, Mr. (Sir) Reginald: 539
+        <list type="index">
+          <item>„ Lord: Letters to 307, 321, 322-42, 343-64, 365-79, 380-95, 398-465</item>
+        </list>
+      </item>
       <item>Wellesley, Lord: 602, 603</item>
       <item>Wellington, Duke of: 407-8, 486,<lb/>604</item>
       <item>West, Justice: 483</item>
-      <item>West African Settlements: Exports<lb/>per head 256</item>
-      <item>„ Indies: Exports 254, of British<lb/>produce per head 256; Revenue per head 258</item>
+      <item>West African Settlements: Exports per head 256
+        <list type="index">
+          <item>„ Indies: Exports 254, of British produce per head 256; Revenue per head 258</item>
+        </list>
+      </item>
       <item>Westland, Sir James: 382, 527, 528</item>
       <item>Wheat: Statistics 323-4; in Bengal<lb/>327; in Central Provinces 5 (and<lb/><hi rend="italic">n</hi>.), in N.-W. Provinces 8, 9-10,<lb/>78, 80; in Oudh 23; in Punjab 5,<lb/>79, 81, 150-66 <hi rend="italic">passim</hi>, 169</item>
       <item>Willoughby, Sir John P.: 317 (<hi rend="italic">n</hi>.),<lb/>418, 466 (<hi rend="italic">n</hi>.)</item>
-      <item>Wilson, Mr.: 208, 267</item>
-      <item>„ Mr. G. Fleetwood: 504</item>
+      <item>Wilson, Mr.: 208, 267
+        <list type="index">
+          <item>„ Mr. G. Fleetwood: 504</item>
+        </list>
+      </item>
       <item>Wingate, Sir George: on the Drain<lb/>from India to England 617; on<lb/>Expenditure of Indian revenue<lb/>279, 316</item>
       <item>Wingfield, Sir C.: 100, 431</item>
       <item>Wise, Mr. J. A.: 578</item>

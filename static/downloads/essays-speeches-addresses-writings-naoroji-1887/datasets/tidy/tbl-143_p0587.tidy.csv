@@ -1,0 +1,45 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,1,data,,* Russian Empire,2,Exports per head. :: s.,12,12.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,1,data,,* Russian Empire,3,Exports per head. :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,2,data,,* Norway,2,Exports per head. :: s.,61,61.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,2,data,,* Norway,3,Exports per head. :: d.,7,7.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,3,data,,Sweden,2,Exports per head. :: s.,61,61.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,3,data,,Sweden,3,Exports per head. :: d.,6,6.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,4,data,,* Denmark,2,Exports per head. :: s.,97,97.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,4,data,,* Denmark,3,Exports per head. :: d.,5,5.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,5,data,,German Empire,2,Exports per head. :: s.,107,107.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,5,data,,German Empire,3,Exports per head. :: d.,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,6,data,,Holland,2,Exports per head. :: s.,348,348.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,6,data,,Holland,3,Exports per head. :: d.,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,7,data,,* Belgium,2,Exports per head. :: s.,375,375.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,7,data,,* Belgium,3,Exports per head. :: d.,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,8,data,,* France,2,Exports per head. :: s.,68,68.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,8,data,,* France,3,Exports per head. :: d.,7,7.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,9,data,,†Portugal,2,Exports per head. :: s.,33,33.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,9,data,,†Portugal,3,Exports per head. :: d.,9,9.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,10,data,,Spain,2,Exports per head. :: s.,36,36.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,10,data,,Spain,3,Exports per head. :: d.,5,5.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,11,data,,* Italy,2,Exports per head. :: s.,17,17.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,11,data,,* Italy,3,Exports per head. :: d.,9,9.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,12,data,,Austro-Hungarian Empire,2,Exports per head. :: s.,47,47.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,12,data,,Austro-Hungarian Empire,3,Exports per head. :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,13,data,,†Roumania,2,Exports per head. :: s.,27,27.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,13,data,,†Roumania,3,Exports per head. :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,14,data,,†Greece,2,Exports per head. :: s.,39,39.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,14,data,,†Greece,3,Exports per head. :: d.,9,9.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,15,data,,Egypt,2,Exports per head. :: s.,38,38.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,15,data,,Egypt,3,Exports per head. :: d.,9,9.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,16,data,,*United States,2,Exports per head. :: s.,55,55.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,16,data,,*United States,3,Exports per head. :: d.,6,6.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,17,data,,†Mexico,2,Exports per head. :: s.,20,20.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,17,data,,†Mexico,3,Exports per head. :: d.,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,18,data,,†Chili,2,Exports per head. :: s.,149,149.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,18,data,,†Chili,3,Exports per head. :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,19,data,,†Argentine Republic,2,Exports per head. :: s.,90,90.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,19,data,,†Argentine Republic,3,Exports per head. :: d.,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,20,data,,†Uruguay,2,Exports per head. :: s.,198,198.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,20,data,,†Uruguay,3,Exports per head. :: d.,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,21,data,,Japan,2,Exports per head. :: s.,3,3.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,21,data,,Japan,3,Exports per head. :: d.,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,22,data,,British India,2,Exports per head. :: s.,3,3.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-143,Table 143,587,568,22,data,,British India,3,Exports per head. :: d.,0,0.0,,False,False

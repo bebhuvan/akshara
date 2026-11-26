@@ -1,8 +1,8 @@
 ---
 title: "Part II. Passages from the Upanishads — Introduction"
-chapter_number: "20"
+chapter_number: "19"
 section_kind: "chapter"
-weight: 20
+weight: 19
 start_page: 91
 end_page: 91
 printed_start_folio: "53"
@@ -24,12 +24,12 @@ next: "/books/lays-of-ancient-india/chapters/21-ii-1-brahman-or-the-universal-so
 fervent thoughts of a long buried past without feeling a new emotion<br>
 in his heart, without seeing a new light before his eyes? The mysteries<br>
 of the unknown future will never be solved by human intellect or by<br>
-human science ; but the first recorded attempts to solve them in a pious,<br>
+human science; but the first recorded attempts to solve them in a pious,<br>
 fervent, philosophical spirit will ever have an abiding interest for every<br>
 patriotic Hindu and for every thoughtful man.</p></blockquote></div><div class="prose-unit"><blockquote class="epigraph-block"><p>“In the words of the eminent German writer and philosopher,<br>
-Schopenhauer : ‘From every sentence, deep, original, and sublime<br>
+Schopenhauer: ‘From every sentence, deep, original, and sublime<br>
 thoughts arise, and the whole is pervaded by a high and holy and<br>
 earnest spirit. Indian air surrounds us, and original thoughts of kindred spirits. . . . In the whole world there is no study except that of the<br>
 originals, so beneficial and so elevating as that of the Oupnekhat.<sup class="fn-ref"><a id="ref-sec-20-fn-001" href="#sec-20-fn-001" data-fn-target="sec-20-fn-001" role="doc-noteref">*</a></sup> It has<br>
-been the solace of my life ; it will be the solace of my death.’”<br>
+been the solace of my life; it will be the solace of my death.’”<br>
 —<em>Civilisation in Ancient India</em>, vol. i. p. 198.</p></blockquote></div><section class="apparatus-zone" aria-label="Footnotes"><h2 class="apparatus-heading">Critical Apparatus &amp; Notes</h2><ol class="apparatus-list"><li id="sec-20-fn-001" class="apparatus-item" role="doc-endnote"><a class="fn-backlink" href="#ref-sec-20-fn-001" aria-label="Return to text">*.</a> <span class="fn-body">Latin translation of the Upanishads.</span></li></ol></section>

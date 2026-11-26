@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,1,data,,Meerut,2,"April, 1868. :: seers.",26,26.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,1,data,,Meerut,3,"April, 1868. :: chittacks.",0,0.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,1,data,,Meerut,4,"Sept., 1868. :: seers.",11,11.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,1,data,,Meerut,5,"Sept., 1868. :: chittacks.",4,4.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,2,data,,Moradabad,2,"April, 1868. :: seers.",26,26.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,2,data,,Moradabad,3,"April, 1868. :: chittacks.",10,10.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,2,data,,Moradabad,4,"Sept., 1868. :: seers.",13,13.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,2,data,,Moradabad,5,"Sept., 1868. :: chittacks.",7,7.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,3,data,,Bareilly,2,"April, 1868. :: seers.",25,25.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,3,data,,Bareilly,3,"April, 1868. :: chittacks.",10,10.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,3,data,,Bareilly,4,"Sept., 1868. :: seers.",15,15.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,3,data,,Bareilly,5,"Sept., 1868. :: chittacks.",5,5.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,4,data,,Muttra,2,"April, 1868. :: seers.",24,24.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,4,data,,Muttra,3,"April, 1868. :: chittacks.",0,0.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,4,data,,Muttra,4,"Sept., 1868. :: seers.",16,16.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,4,data,,Muttra,5,"Sept., 1868. :: chittacks.",2,2.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,5,data,,Agra,2,"April, 1868. :: seers.",23,23.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,5,data,,Agra,3,"April, 1868. :: chittacks.",0,0.0,,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,5,data,,Agra,4,"Sept., 1868. :: seers.",14,14.0,seers,False,False
+poverty-and-un-british-rule,tbl-066,Table 66,100,80,5,data,,Agra,5,"Sept., 1868. :: chittacks.",0,0.0,,False,False

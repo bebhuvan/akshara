@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,1,data,,“ Jowaree,2,Column 2,21,21.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,1,data,,“ Jowaree,3,Column 3,Seers.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,2,data,,“ Bajree,2,Column 2,19½,19.5,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,2,data,,“ Bajree,3,Column 3,do.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,3,data,,"“ Rice, 1st sort",2,Column 2,10,10.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,3,data,,"“ Rice, 1st sort",3,Column 3,do.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,4,data,,"“ Do., 2nd do",2,Column 2,11¼,11.25,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,4,data,,"“ Do., 2nd do",3,Column 3,do.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,5,data,,“ Dall,2,Column 2,10½,10.5,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,5,data,,“ Dall,3,Column 3,do.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,6,data,,“ Koolthi,2,Column 2,21,21.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,6,data,,“ Koolthi,3,Column 3,do.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,7,data,,“ Horse grain,2,Column 2,5½,5.5,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,126,114,7,data,,“ Horse grain,3,Column 3,do.,,seers,False,False

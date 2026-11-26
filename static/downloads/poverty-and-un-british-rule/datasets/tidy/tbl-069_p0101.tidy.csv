@@ -1,16 +1,31 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,2,January.,25 seers.,,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,3,June.,26 seers.,,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,4,Column 4,Sealkote,,,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,5,January.,16 seers.,,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,6,June.,19 seers.,,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,2,January.,20½ „,20.5,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,3,June.,24 „,24.0,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,4,Column 4,Multan,,,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,5,January.,13¾ „,13.75,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,6,June.,17 „,17.0,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,2,January.,17 „,17.0,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,3,June.,18 „,18.0,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,4,Column 4,Peshawur,,,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,5,January.,15 „,15.0,seers,False,False
-poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,6,June.,20½ „,20.5,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,2,"1st June, 1868.",26 seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,3,"1st January, 1869.",11¼ seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,4,"1st June, 1869.",15 seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,5,"1st January, 1870.",9 seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,6,Column 6,Prices in seers of 2 lbs. per rupee.,,Rs,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,2,"1st June, 1868.",24 „,24.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,3,"1st January, 1869.",9¼ „,9.25,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,4,"1st June, 1869.",13¼ „,13.25,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,5,"1st January, 1870.",9 „,9.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,6,Column 6,,,,True,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,2,"1st June, 1868.",18 „,18.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,3,"1st January, 1869.",9¾ „,9.75,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,4,"1st June, 1869.",13½ „,13.5,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,5,"1st January, 1870.",9½ „,9.5,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,6,Column 6,,,,True,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,4,data,,Sealkote,2,"1st June, 1868.",19 „,19.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,4,data,,Sealkote,3,"1st January, 1869.",10¾ „,10.75,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,4,data,,Sealkote,4,"1st June, 1869.",13¼ „,13.25,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,4,data,,Sealkote,5,"1st January, 1870.",10½ „,10.5,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,4,data,,Sealkote,6,Column 6,,,,True,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,5,data,,Multan,2,"1st June, 1868.",17 „,17.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,5,data,,Multan,3,"1st January, 1869.",11¼ „,11.25,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,5,data,,Multan,4,"1st June, 1869.",12½ „,12.5,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,5,data,,Multan,5,"1st January, 1870.",9¾ „,9.75,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,5,data,,Multan,6,Column 6,,,,True,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,6,data,,Peshawur,2,"1st June, 1868.",20½ „,20.5,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,6,data,,Peshawur,3,"1st January, 1869.",14 5/16 „,14.3125,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,6,data,,Peshawur,4,"1st June, 1869.",17⅞ „,17.875,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,6,data,,Peshawur,5,"1st January, 1870.",17⅞ „,17.875,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,6,data,,Peshawur,6,Column 6,,,,True,False

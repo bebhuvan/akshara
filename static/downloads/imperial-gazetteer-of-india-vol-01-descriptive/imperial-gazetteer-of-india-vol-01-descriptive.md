@@ -81,7 +81,7 @@ NEW YORK AND TORONTO
 ### KING EDWARD VII
 
 
-##### EMPEROR OF INDIA
+#### EMPEROR OF INDIA
 
 THIS WORK IS BY HIS ROYAL PERMISSION
 
@@ -1053,10 +1053,10 @@ reconstituted in 1905 . . . 491
 #### DESCRIPTIVE
 
 
-##### CHAPTER I
+### CHAPTER I
 
 
-##### <span class="sc">PHYSICAL ASPECTS</span>
+#### <span class="sc">PHYSICAL ASPECTS</span>
 
 > _[Margin: Extreme variety of physical aspects.]_
 
@@ -1128,7 +1128,7 @@ Turning again to the north of Afghānistān and the borders of Kashmīr, we find
 
 The square block of Kashmīr territory (excluding the Chitrāl hinterland, which is not politically an integral part of the State) is traversed across its width by the deep trough of the Indus river, which here runs from south-east to north-west, sometimes sliding over broad shingly beds, sometimes breaking into cataracts amid vast mountain solitudes. Changing suddenly to a south-westerly course, in about 75° E. long. (a little to the east of Gilgit), it makes its way to the plains of Peshāwar through mountain districts so wild and unapproachable as to [p. 15] be even yet only partially explored. To the west of this part of its course lies the Gilgit extension of Kashmīr territory, and the passes therefrom to the Pāmirs and to Chitrāl. Farther south are the upper valleys of Buner, Swāt, Bājaur, and all the wild borderland of hills which lies north of Peshāwar and east of Kāfiristān. No part of the Himālayas lies beyond the Indus, either west or north. To the west we are immediately confronted with the long offshoots of the Hindu Kush. To the north we meet another system, the Muztāgh and its Karakoram extension. The great bend of the Indus encloses the Himālayas on the north-west, as the bend of the Brahmaputra enfolds them on the south-east; the two rivers starting from nearly the same central point, and forming deep troughs at the back of the Himālayan system during their earlier and glacier-fed stages of existence. They may be considered as the natural drains of a gigantic ice-bound wall, pouring their glacial floods in opposite directions to either side of India. Their deeply eroded valleys are, however, but scratches on the vast surface of the elevated region of which the Himālayas with their multiplied bands of ridge and range form the abutment. The Himālayas are the wrinkled and corrugated southern edge of the great Tibetan plateau, corresponding in many of their most important geographical features with the Kuen-lun abutment on its northern edge, and not separated from the plateau by the accident of the Indus and Brahmaputra drains.
 
-The Native State of Kashmħr includes about 200 miles of the most elevated crests of that magnificent mountain system, the Muztāgh. Dominating these crests are such gigantic peaks as Godwin Austen (28,300 feet), Gasherbrum (28,100), and the wonderful white pinnacle of Rakaposhi, north of Gilgit, which with the comparatively modest altitude of 25,561 feet combines the grace of the Matterhorn with the majesty of Mont Blanc. To the south of the Indus we have the initial peaks of the great Himālayan ranges (notably of the Zāskār), which stretch their length through nearly 1,000 miles from the *massif* of Nanga Parbat (26,182 feet) to Kinchinjunga (28,000) and Everest (29,000), crowned with a glittering array of magnificent snowy peaks, and unbroken save by the deepcleft passages of the upper courses of the Sutlej and Gogra, which form the mighty northern barrier between India and Tibet.
+The Native State of Kashmīr includes about 200 miles of the most elevated crests of that magnificent mountain system, the Muztāgh. Dominating these crests are such gigantic peaks as Godwin Austen (28,300 feet), Gasherbrum (28,100), and the wonderful white pinnacle of Rakaposhi, north of Gilgit, which with the comparatively modest altitude of 25,561 feet combines the grace of the Matterhorn with the majesty of Mont Blanc. To the south of the Indus we have the initial peaks of the great Himālayan ranges (notably of the Zāskār), which stretch their length through nearly 1,000 miles from the *massif* of Nanga Parbat (26,182 feet) to Kinchinjunga (28,000) and Everest (29,000), crowned with a glittering array of magnificent snowy peaks, and unbroken save by the deepcleft passages of the upper courses of the Sutlej and Gogra, which form the mighty northern barrier between India and Tibet.
 
 > _[Margin: The Vale of Kashmīr.]_
 
@@ -2140,12 +2140,10 @@ The dry monsoon, which lasts from about the middle of December to the end of May
 
 > _[Margin: Pressure conditions in Asia and Indian Ocean during cold weather period.]_
 
-The north-east monsoon air movement is fully established over the Indian land and sea areas by the beginning of January, when temperature is lowest in the Asiatic continent. A belt of high pressure and anti-cyclonic conditions then stretches from the West Mediterranean to Central Asia and North-east China. This corresponds to the belts of high pressure in about latitude 30° N. in the Pacific and Atlantic Oceans, but lies farther north. Pressure decreases southwards to a belt a little to the south of the equator, and thence increases again to a broad belt stretching from South-west Australia across the South Indian Ocean to the Cape. The northern belt of high pressure appears to separate completely the region traversed by the storms of Northern Europe (most of which enter from the North Atlantic) from the areas of the local storms of the Mediterranean Sea, Persia, and India, and limits to the north [p. 111] what may be termed the Indian monsoon region. The pressure conditions evidently accompany and determine northerly winds (deflected to north-east in consequence of the earth's rotation) in the Indian seas, and south-easterly winds in the centre of the Indian Ocean. The winds in the land area are modified by the trend and elevation of the mountain ranges, and by the direction of the mountain valleys. Temperature begins to rise in general in the month of February over the Asiatic continent, but the changes are usually small until the end of that month. Hence the normal air movement and pressure conditions are practically the same during these two months over the whole area between lat. 40° S. and 35° N., and the air movement in that large area virtually consists of two independent circulations. The rough sketch below shows the general character of the
+The north-east monsoon air movement is fully established over the Indian land and sea areas by the beginning of January, when temperature is lowest in the Asiatic continent. A belt of high pressure and anti-cyclonic conditions then stretches from the West Mediterranean to Central Asia and North-east China. This corresponds to the belts of high pressure in about latitude 30° N. in the Pacific and Atlantic Oceans, but lies farther north. Pressure decreases southwards to a belt a little to the south of the equator, and thence increases again to a broad belt stretching from South-west Australia across the South Indian Ocean to the Cape. The northern belt of high pressure appears to separate completely the region traversed by the storms of Northern Europe (most of which enter from the North Atlantic) from the areas of the local storms of the Mediterranean Sea, Persia, and India, and limits to the north [p. 111] what may be termed the Indian monsoon region. The pressure conditions evidently accompany and determine northerly winds (deflected to north-east in consequence of the earth's rotation) in the Indian seas, and south-easterly winds in the centre of the Indian Ocean. The winds in the land area are modified by the trend and elevation of the mountain ranges, and by the direction of the mountain valleys. Temperature begins to rise in general in the month of February over the Asiatic continent, but the changes are usually small until the end of that month. Hence the normal air movement and pressure conditions are practically the same during these two months over the whole area between lat. 40° S. and 35° N., and the air movement in that large area virtually consists of two independent circulations. The rough sketch below shows the general character of the pressure conditions and air movements in these areas. The meteorology of India during this period is only concerned with the actions and changes in the northern circulation. The Central Asia high pressure or anticyclone, although intense, is ineffective so far as the *lower* air movement in India is concerned, as it not only lies over very elevated ground but is shut off from India by the Himālayan barrier range.
 
 
 ![Vertical Section along Meridian of 70° E. in January — Fig. I.](../figures/fig-002_p0149.webp)
-
-pressure conditions and air movements in these areas. The meteorology of India during this period is only concerned with the actions and changes in the northern circulation. The Central Asia high pressure or anticyclone, although intense, is ineffective so far as the *lower* air movement in India is concerned, as it not only lies over very elevated ground but is shut off from India by the Himālayan barrier range.
 
 > _[Margin: Sketch of air movement in India during cold weather period.]_
 
@@ -2181,11 +2179,7 @@ The second half of the dry season includes the months of March, April, and May. 
 
 > _[Margin: Changes of pressure conditions and air movement accompanying local increase of temperature in Indian land area.]_
 
-The conditions existing during the first half of the dry monsoon season begin to be modified over the whole land and sea area of India in the latter half of March, owing to rapid increase of temperature. North-east winds continue in the Arabian Sea and Bay of Bengal, but fall off in strength, and in April and May light winds obtain in the centre and south of the two seas, more especially in the Arabian Sea. Very large and important changes in the pressure, temperature, and humidity conditions are initiated in the interior of India during these two months. Temperature increases rapidly and steadily[^sec-06-fn-003], and pressure diminishes *pari passu*, over the heated [p. 116] land area, owing to the transfer of air to neighbouring cooler regions, more especially the sea areas to the south. India thus becomes a low-pressure area relative to the adjacent seas. The depression is very slight at first, but increases in intensity with the advance of the season. The most important local features in this general depression are the formation and development of a deepish low-pressure focus or sink in the hottest area, including Upper Sind and the adjacent districts of the Punjab and Rājputāna, and the formation of a shallow depression in Chotā Nāgpur. There is thus increasing local indraught from the adjacent seas across the Bengal and Bombay coasts, which is, however, only clearly marked over comparatively narrow belts round the coasts landwards and seawards. These belts slowly increase in width with the season; but in the Arabian Sea the belt, even in May, probably does not at the utmost extend more than 300 miles seawards, thus leaving a large area of light northerly or variable winds in the centre and south of that area. In the Bay of Bengal, on the contrary, the local sea winds extend in May over the greater part or the whole of its area, in consequence chiefly of its comparatively small extent. These changes convert the air high temperature to consider the maximum day temperature as the best indication of the intensity of the thermal conditions and actions. The following gives a brief statement for the months from February to June of the maximum day temperature conditions in the plains of India.
-
-In *February* the mean maximum temperature ranges from a mean of 66° in the Northern Punjab to one of 90° to 95° in the Deccan and interior of Southern India. It increases in *March* to about 100° in the latter area, and ranges between that amount and 76° in the Northern Punjab. In *April* it ranges between 100° and 105° over by far the greater part of the interior of India except the north-west and submontane districts. The area of greatest day temperature is transferred in this month to the Central Provinces and Western Rājputāna. In *May* the mean maximum day temperature varies between 105° and 110° over the greater part of the interior, and the thermal focus, as the area of greatest temperature was termed by Mr. Blanford, now includes Upper Sind, the South-western Punjab, and Rājputāna, in parts of which it slightly exceeds 110°. In *June* the highest mean maximum temperatures are, as in May, between 105° and 110°, but occur in a comparatively small area including the Western and South-western Punjab and Upper Sind.
-
-The hottest area in India just before the invasion of the south-west monsoon currents is Upper Sind and the South-western Punjab, as represented by the observatories at Jacobābād and Montgomery. The hottest period is usually the last week of May or the first week of June, just before the first advance of the Bombay monsoon current up or across the western coast. The highest maximum day temperature hitherto recorded in India is 126°, at Jacobābād, on the 12th of June, 1897. [p. 117] circulation in India and the adjacent seas from a general into a local movement, marked by strong hot winds down the river valleys in Northern India as well as by the strong sea winds above mentioned. It is no longer part of the previously established north-east trades, nor is it, as some have maintained, the commencement of the south-west monsoon. The period is undoubtedly a transition from the general air movement of the north-east to that of the south-west monsoon, but the final transformation occurs under conditions, and in the manner, explained later.
+The conditions existing during the first half of the dry monsoon season begin to be modified over the whole land and sea area of India in the latter half of March, owing to rapid increase of temperature. North-east winds continue in the Arabian Sea and Bay of Bengal, but fall off in strength, and in April and May light winds obtain in the centre and south of the two seas, more especially in the Arabian Sea. Very large and important changes in the pressure, temperature, and humidity conditions are initiated in the interior of India during these two months. Temperature increases rapidly and steadily[^sec-06-fn-003], and pressure diminishes *pari passu*, over the heated [p. 116] land area, owing to the transfer of air to neighbouring cooler regions, more especially the sea areas to the south. India thus becomes a low-pressure area relative to the adjacent seas. The depression is very slight at first, but increases in intensity with the advance of the season. The most important local features in this general depression are the formation and development of a deepish low-pressure focus or sink in the hottest area, including Upper Sind and the adjacent districts of the Punjab and Rājputāna, and the formation of a shallow depression in Chotā Nāgpur. There is thus increasing local indraught from the adjacent seas across the Bengal and Bombay coasts, which is, however, only clearly marked over comparatively narrow belts round the coasts landwards and seawards. These belts slowly increase in width with the season; but in the Arabian Sea the belt, even in May, probably does not at the utmost extend more than 300 miles seawards, thus leaving a large area of light northerly or variable winds in the centre and south of that area. In the Bay of Bengal, on the contrary, the local sea winds extend in May over the greater part or the whole of its area, in consequence chiefly of its comparatively small extent. These changes convert the air [p. 117] circulation in India and the adjacent seas from a general into a local movement, marked by strong hot winds down the river valleys in Northern India as well as by the strong sea winds above mentioned. It is no longer part of the previously established north-east trades, nor is it, as some have maintained, the commencement of the south-west monsoon. The period is undoubtedly a transition from the general air movement of the north-east to that of the south-west monsoon, but the final transformation occurs under conditions, and in the manner, explained later.
 
 > _[Margin: Storms of the hot-weather period.]_
 
@@ -2210,12 +2204,10 @@ We have next to deal with the south-west monsoon. In the first or cold-weather p
 
 The first portion of the wet season, from June to September, witnesses the extension of the south-west monsoon currents over the whole of India and their persistence during these [p. 119] months as rain-giving currents. This is the season of the south-west monsoon proper. It is the most important season of the year, as it is upon the amount and distribution of the rainfall of this period that the prosperity of at least five-sixths of India mainly depends.
 
-Accompanying the rapid increase of temperature in the Asiatic land area in May, pressure generally decreases, so that at the end of May the Asian winter anticyclone has been replaced by a deepish low-pressure area, the axis of which stretches from the Sūdān to Sind and Western Rājputāna and thence to Bengal, and is hence farther south than the median line of the winter anticyclone. A graphical representation of the chief pressure conditions in India and the Indian Ocean in May is given below. As compared with that given on p. 111
+Accompanying the rapid increase of temperature in the Asiatic land area in May, pressure generally decreases, so that at the end of May the Asian winter anticyclone has been replaced by a deepish low-pressure area, the axis of which stretches from the Sūdān to Sind and Western Rājputāna and thence to Bengal, and is hence farther south than the median line of the winter anticyclone. A graphical representation of the chief pressure conditions in India and the Indian Ocean in May is given below. As compared with that given on p. 111 it indicates the replacement of a stable by an unstable system. Finally by a spasmodic and sudden burst, due chiefly to the momentum of the current and the diminution of resistance, and hence to *vis a tergo* and not to indraught towards the low-pressure area in India, the equatorial belt closes up, and the south-east circulation extends northwards across the equator into the two areas of the Arabian Sea and the Bay of Bengal, whence it advances more or less quickly into the neighbouring land areas of Burma, India, and Abyssinia.
 
 
 ![Vertical Section along Meridian of 70° E. in May — Fig. 2.](../figures/fig-003_p0157.webp)
-
-it indicates the replacement of a stable by an unstable system. Finally by a spasmodic and sudden burst, due chiefly to the momentum of the current and the diminution of resistance, and hence to *vis a tergo* and not to indraught towards the low-pressure area in India, the equatorial belt closes up, and the south-east circulation extends northwards across the equator into the two areas of the Arabian Sea and the Bay of Bengal, whence it advances more or less quickly into the neighbouring land areas of Burma, India, and Abyssinia.
 
 > _[Margin: Extension of the south-east trades across the equator into the Indian sea and land areas.]_
 > _[Margin: Cyclonic storms in the Arabian Sea.]_
@@ -2226,12 +2218,10 @@ When this current is established over the Indian seas and adjacent land areas, a
 
 > _[Margin: Complete field of extension of the south-west monsoon currents.]_
 
-The south-east trades, previous to their extension across the equator, are largely directed to the African coast, and give more or less general rain, during the dry monsoon period of India, in South and East Africa. During April and May the rainfall occurs most largely in the Equatorial Lakes area and
+The south-east trades, previous to their extension across the equator, are largely directed to the African coast, and give more or less general rain, during the dry monsoon period of India, in South and East Africa. During April and May the rainfall occurs most largely in the Equatorial Lakes area and adjacent districts. This rainfall produces the first seasonal rise of the Nile in May and June. The extension of the south-east trades as south-west winds over the Arabian Sea is followed by a diversion of a part of the monsoon current to Abyssinia and the Sūdān. The rainfall in the mountain districts of Abyssinia is similar in period and character to that of Northern India. Sir W. Willcocks estimates that an average of 60 to 70 inches falls over that area from June to September. This gives rise to a much higher and greater flood in the Nile than does the rainfall in Central Africa. The Nile floods hence reach their culmination in September.
 
 
 ![Vertical Section along Meridian of 70° E. in July — Fig. 3.](../figures/fig-004_p0159.webp)
-
-adjacent districts. This rainfall produces the first seasonal rise of the Nile in May and June. The extension of the south-east trades as south-west winds over the Arabian Sea is followed by a diversion of a part of the monsoon current to Abyssinia and the Sūdān. The rainfall in the mountain districts of Abyssinia is similar in period and character to that of Northern India. Sir W. Willcocks estimates that an average of 60 to 70 inches falls over that area from June to September. This gives rise to a much higher and greater flood in the Nile than does the rainfall in Central Africa. The Nile floods hence reach their culmination in September.
 
 
 <!-- page: 160 | folio: 122 -->
@@ -2329,7 +2319,7 @@ The table on the next page, giving the annual variation of the rainfall in diffe
 
 > _[Margin: Variations in local extension of monsoon currents caused by pressure anomalies.]_
 
-India shows, moreover, large local variations from the normal distribution of the rainfall. When such is the case, it is found that the current and rainfall are determined largely by the abnormal pressure conditions set up during the hot weather and hence antecedent to the arrival of the rains. The currents are directed more largely than usual towards any area over which [p. 128] there has been for some time previously a local deficiency, and less largely to areas in which there is from any cause a local excess, of pressure. These conditions cause a variation of rainfall from the normal in the earlier stages of the monsoon, viz. relative excess in one area and relative defect in another. This special rainfall distribution tends to maintain the pressure and other conditions which determined the initial set of the currents and consequent rainfall, and hence the areas of increased rainfall continue to be areas also of deficient pressure. Such
+India shows, moreover, large local variations from the normal distribution of the rainfall. When such is the case, it is found that the current and rainfall are determined largely by the abnormal pressure conditions set up during the hot weather and hence antecedent to the arrival of the rains. The currents are directed more largely than usual towards any area over which [p. 128] there has been for some time previously a local deficiency, and less largely to areas in which there is from any cause a local excess, of pressure. These conditions cause a variation of rainfall from the normal in the earlier stages of the monsoon, viz. relative excess in one area and relative defect in another. This special rainfall distribution tends to maintain the pressure and other conditions which determined the initial set of the currents and consequent rainfall, and hence the areas of increased rainfall continue to be areas also of deficient pressure. Such persistency of abnormal pressure conditions is one of the most striking features of the meteorology of India, and it is mainly for this reason that the study of pressure anomalies in India must be the basis for any successful system of long period or seasonal forecasts from meteorological data. The continuity of pressure anomalies is sometimes persistent throughout the whole monsoon period, but occasionally interfering actions occur, such as snowfall in June or July in the Western Himālayas.
 
 
 | Year. | <span class="sc">Nile Floods</span>. | <span class="sc">Rainfall Variation</span>. :: Whole of India (excluding Burma). :: Inches | <span class="sc">Rainfall Variation</span>. :: Burma. :: Inches | <span class="sc">Rainfall Variation</span>. :: North-western India. :: Inches |
@@ -2359,8 +2349,6 @@ India shows, moreover, large local variations from the normal distribution of th
 | 1900 | Above | - 0·57 | - 0·91 | - 1·08 |
 | 1901 | Above | - 4·13 | + 0·07 | - 8·18 |
 | 1902 | Below | - 2·05 | - 7·21 | - 5·17 |
-
-persistency of abnormal pressure conditions is one of the most striking features of the meteorology of India, and it is mainly for this reason that the study of pressure anomalies in India must be the basis for any successful system of long period or seasonal forecasts from meteorological data. The continuity of pressure anomalies is sometimes persistent throughout the whole monsoon period, but occasionally interfering actions occur, such as snowfall in June or July in the Western Himālayas.
 
 
 <!-- page: 167 | folio: 129 -->
@@ -2533,7 +2521,7 @@ After the Bay current has withdrawn from Northern India and Upper Burma, and is 
 > _[Margin: Examples of excessive downpours]_
 > _[Margin: four hours during the wet mon-soon.]_
 
-A characteristic feature of Indian meteorology is the excessive downpours which occasionally occur, chiefly during the passage of the cyclonic storms of the south-west monsoon, and also in twentyin [p. 144] the Western Ghāts and Lower Himālayas during a strong influx of monsoon winds. The fall at Purnea in Bihār of 35·38 inches in one day, in September, 1879, has already been mentioned (p. 139). Other phenomenal downpours, exceeding in each case 24 inches within the twenty-four hours, have been:—
+A characteristic feature of Indian meteorology is the excessive downpours which occasionally occur, chiefly during the passage of the cyclonic storms of the south-west monsoon, and also in twenty- [p. 144] in the Western Ghāts and Lower Himālayas during a strong influx of monsoon winds. The fall at Purnea in Bihār of 35·38 inches in one day, in September, 1879, has already been mentioned (p. 139). Other phenomenal downpours, exceeding in each case 24 inches within the twenty-four hours, have been:—
 
 
 | Year. | Date and month. | District. | Station. | Amount of rainfall in 24 hours. |
@@ -2798,7 +2786,11 @@ The following publications of the Indian Meteorological Department, which are pr
 
 [^sec-06-fn-001]: (1) *Note by Editor.*—The constitution and present efficiency of the Indian Meteorological Department are due mainly to two men who have successively been at its head—Mr. H. F. Blanford and Sir John Eliot, K.C.I.E., the latter of whom has contributed the material for the present chapter.
 [^sec-06-fn-002]: (1) It is this tract which is hereafter referred to as ‘the Peninsula.’
-[^sec-06-fn-003]: (1) It is most satisfactory, on the whole, in discussing the meteorological conditions and changes accompanying the prevalence of increasing and
+[^sec-06-fn-003]: (1) It is most satisfactory, on the whole, in discussing the meteorological conditions and changes accompanying the prevalence of increasing and [p. 116] high temperature to consider the maximum day temperature as the best indication of the intensity of the thermal conditions and actions. The following gives a brief statement for the months from February to June of the maximum day temperature conditions in the plains of India.
+
+    In *February* the mean maximum temperature ranges from a mean of 66° in the Northern Punjab to one of 90° to 95° in the Deccan and interior of Southern India. It increases in *March* to about 100° in the latter area, and ranges between that amount and 76° in the Northern Punjab. In *April* it ranges between 100° and 105° over by far the greater part of the interior of India except the north-west and submontane districts. The area of greatest day temperature is transferred in this month to the Central Provinces and Western Rājputāna. In *May* the mean maximum day temperature varies between 105° and 110° over the greater part of the interior, and the thermal focus, as the area of greatest temperature was termed by Mr. Blanford, now includes Upper Sind, the South-western Punjab, and Rājputāna, in parts of which it slightly exceeds 110°. In *June* the highest mean maximum temperatures are, as in May, between 105° and 110°, but occur in a comparatively small area including the Western and South-western Punjab and Upper Sind.
+
+    The hottest area in India just before the invasion of the south-west monsoon currents is Upper Sind and the South-western Punjab, as represented by the observatories at Jacobābād and Montgomery. The hottest period is usually the last week of May or the first week of June, just before the first advance of the Bombay monsoon current up or across the western coast. The highest maximum day temperature hitherto recorded in India is 126°, at Jacobābād, on the 12th of June, 1897.
 [^sec-06-fn-004]: (1) Sometimes under very special conditions, as in the year 1903, a series of cold-weather storms continues to cross Baluchistān and Northern India in March.
 [^sec-06-fn-005]: (2) These are sometimes, but rarely, accompanied by destructive hail. In the Morādābād hailstorm of April 30, 1888, at least 230 persons were killed.
 [^sec-06-fn-006]: (1) It may also be noted that storms occasionally form in the Bay of Bengal and the Arabian Sea *before* the establishment of the monsoon currents in those areas. They are initiated under different conditions, but are on the whole similar in character, to the October cyclones. These storms are usually generated in the centre of the Bay after a period of light unsteady winds and hot sultry weather, and hence probably of the accumulation of much aqueous vapour in the air by evaporation. They at first advance very slowly, but increase considerably in velocity as they approach the coast. They usually move westwards to the Madras coast or north-north-eastwards to the Pegu or Arakan coasts. It is very remarkable that these storms sometimes form in several years in succession about the same time and advance along the same route. For example, one such storm has formed during four out of the five years ending with 1902 in the last week of April or the first fortnight of May and has marched along the same general track to the Burma coast.
@@ -2915,14 +2907,14 @@ A comparison of its vegetation with that of the Western Himālayas will be found
 Sikkim is the most humid district in the whole range of the Himālayas, because of its proximity to the Bay of Bengal and direct exposure to the effects of the moisture-laden south-west monsoon, from which the ranges east of Sikkim are partially screened by the mountains on the south flank of the Assam valley. It is estimated to contain about 4,000 species of Flowering plants under 160 Natural Orders; also 250 Ferns [p. 167] and their allies, of which eight are Tree-ferns. The ten dominant Orders are the following, to which are appended, in brackets, their relative places in the Western Himālayan decad:—
 
 - 1. *Orchideae* (7).
-- 6. *Urticaceae*.
 - 2. *Gramineae* (1).
-- 7. *Scrophularineae* (10).
 - 3. *Leguminosae* (3).
-- 8. *Rosaceae* (8).
 - 4. *Compositae* (2).
-- 9. *Rubiaceae*.
 - 5. *Cyperaceae* (5).
+- 6. *Urticaceae*.
+- 7. *Scrophularineae* (10).
+- 8. *Rosaceae* (8).
+- 9. *Rubiaceae*.
 - 10. *Euphorbiaceae*.
 The proportion of Monocotyledons to Dicotyledons in Sikkim is about 1 to 2·5. Its Flora is disposed in three altitudinal zones: tropical, temperate, and alpine. It is difficult to limit, even approximately, the elevation of these zones above the sea, many tropical species ascending far into the temperate, and temperate species descending into the tropical. So too with the alpine zone, many of its species descend far into the temperate, and temperate species ascend far into the alpine. Assuming the normal tropical Flora to ascend from the level of the plains of India to 6,500 feet, and the normal alpine to descend from 18,000 to 12,000 feet, the number of species normal to each zone may possibly be found to approximate to 2,000, 1,500, and 500. The total number of recorded species of Orchids in Sikkim is 440; of Palms, twenty; of *Bambusae*, about twenty-three; and of Ferns and their allies, 280, of which eight are Tree-ferns.
 
@@ -2931,14 +2923,14 @@ The proportion of Monocotyledons to Dicotyledons in Sikkim is about 1 to 2·5. I
 The tropical zone of Sikkim is skirted at its base by a low belt about 20 miles broad, which gradually slopes upwards from the level of the plains of Bengal to the foothills of the zone at 1,000 feet elevation, from which the ascent is rapid to 6,500 feet and upwards. This belt was, when Sikkim was first botanically explored (in 1848), a deadly, unhealthy tarai[^sec-07-fn-014], covered with a loose forest (now for the most part cleared away) of trees common in the hotter parts of India, especially the Sāl (*Shorea robusta*), together with a rich undergrowth of shrubs, coarse grasses, and the herbaceous plants of the Gangetic Plain. Among them a few species of the temperate zone occur, brought down by the streams from higher levels. The foothills and spurs of the tropical zone are (or were before the introduction of tea cultivation) clothed throughout with a dense [p. 168] forest, Malayan in general character. The ten dominant Orders of the tropical zone are, in numerical sequence :—
 
 - 1. *Orchideae.*
-- 6. *Cyperaceae.*
 - 2. *Leguminosae.*
-- 7. *Rubiaceae.*
 - 3. *Gramineae.*
-- 8. *Compositae.*
 - 4. *Urticaceae.*
-- 9. *Asclepiadeae.*
 - 5. *Euphorbiaceae.*
+- 6. *Cyperaceae.*
+- 7. *Rubiaceae.*
+- 8. *Compositae.*
+- 9. *Asclepiadeae.*
 - 10. *Acanthaceae.*
 There are in this zone about 850 trees and shrubs, many of them timber trees, among the most conspicuous of which are (beside the Sāl), species of *Magnoliaceae*, *Anonaceae*, *Guttiferae*, *Sterculiaceae*, *Tiliaceae*, *Meliaceae*, *Sapindaceae*, *Anacardiaceae*, *Leguminosae*, *Combretaceae*, *Myrtaceae*, *Lythraceae*, *Rubiaceae*, *Bignoniaceae*, *Laurineae*, *Euphorbiaceae*, *Urticaceae*, and *Myristicaceae*.
 
@@ -2949,14 +2941,14 @@ There are four species of Oak, as many of *Castanopsis* (a genus allied to *Cast
 The temperate zone of Sikkim, from 6,500 to 11,500 feet, is roughly divisible into a lower non-coniferous and an upper coniferous and Rhododendron belt; but the line of demarcation between these varies so greatly with the exposure and humidity of the locality that they cannot be dealt with apart. Of about 100 Natural Orders of Flowering plants that occur in this zone the following ten dominate, the figure in brackets after each Order denoting its relative position in the tropical zone :—
 
 - 1. *Orchideae* (1).
-- 6. *Geraniaceae.*
 - 2. *Compositae* (8).
-- 7. *Ericaceae.*
 - 3. *Gramineae* (3).
-- 8. *Liliaceae.*
 - 4. *Rosaceae.*
-- 9. *Labiatae.*
 - 5. *Cyperaceae* (6).
+- 6. *Geraniaceae.*
+- 7. *Ericaceae.*
+- 8. *Liliaceae.*
+- 9. *Labiatae.*
 - 10. *Umbelliferae.*
 Of the above Orders the *Orchideae* alone are strongly [p. 169] Malayan in character, the others are mostly European, Central Asian, Japanese, or Chinese. The most conspicuous trees are *Magnoliaceae* (five species), of which one (*Magnolia Campbellii*), before the working of the forest began, clothed the slopes around Darjeeling, starring them in spring, when still leafless, with its magnificent flowers. Other conspicuous trees of this region are Oaks, Laurels, Maples, Birches, Alder, *Bucklandia*, *Pyrus*, and Conifers. Of these the Conifers are chiefly confined to a belt from 9,000 to 12,000 feet in elevation. The monarch and most common of them is a Silver Fir (*Abies Webbiana*), which is also the most gregarious; others are the English Yew, a Spruce (*Picea Morinda*), a Larch (*Larix Griffithii*, the only deciduous Conifer in the Himālayas), the weeping *Tsuga Brunoniana*, and two species of Juniper, both of which, in dwarf forms, ascend high into the alpine zone. The absence of any true Pine or Cypress in the forests of this region of the Himālayas is notable, in contrast with similar elevations in the Western Himālayas. Of shrubs, the most conspicuous are the Rhododendrons (twenty-five species), which abound between 9,000 and 12,000 feet elevation, some of them forming impenetrable thickets; a few of these are arboreous, though never attaining any considerable height. Other shrubs are species of *Clematis*, *Ternstroemiaceae*, *Berberideae*, *Ilex*, *Rosa*, *Rubus*, *Cotoneaster*, *Spiraea*, *Hydrangea*, *Aucuba*, *Lonicera*, *Leycesteria*, *Osmanthus*, *Osbeckia*, *Buddleia*, *Vacciniaceae* (some epiphytic), *Ericaceae*, Elder, *Viburnum*, *Polygonum*, Ivy, &c. Beautiful herbaceous plants abound—Anemones, Aconites, Violets, many species of Balsam, *Potentilla*, *Fragaria*, *Gentianeae*, *Campanulaceae*, *Gesneraceae*, *Scrophularineae*, *Orchideae* (*Coelogyne*, eight species), *Cypripedium*, *Polygonatum*, *Smilacina*, *Lilium*, *Fritillaria*, *Arisaema*. Only two Palms inhabit this zone, a scandent Rattan (*Plectocomia himalaica*), and very rarely a Fan-Palm (*Trachycarpus Martiana*). Dwarf Bamboos, of which there are six species, abound, some of them forming impervious thickets infested with leeches and large ticks. Ferns are characteristic of this zone.
 
@@ -2983,14 +2975,14 @@ The Western Himālayan ranges differ greatly from the Eastern, in orientation, i
 Upwards of 4,000 Flowering plants are recorded as Western Himālayan, comprised in 147[^sec-07-fn-015] Natural Orders, and there are also 230 Ferns and their allies. Of the former, the following ten are the dominant, the number in brackets indicating their corresponding positions in the Eastern Himālayan decad:—
 
 - 1. *Gramineae* (2).
-- 6. *Ranunculaceae*.
 - 2. *Compositae* (4).
-- 7. *Orchideae* (1).
 - 3. *Leguminosae* (3).
-- 8. *Cruciferae*.
 - 4. *Cyperaceae* (5).
-- 9. *Rosaceae* (8)
 - 5. *Labiatae*.
+- 6. *Ranunculaceae*.
+- 7. *Orchideae* (1).
+- 8. *Cruciferae*.
+- 9. *Rosaceae* (8)
 - 10. *Scrophulariaceae* (7).
 The proportion of Monocotyledons to Dicotyledons is about 1 to 3. Twelve Eastern Himālayan Orders here disappear: namely, *Dilleniaceae*, *Guttiferae*, *Passifloraceae*, *Stylidieae*, *Vacciniaceae*, *Diapensiaceae*, *Myristicaceae*, *Proteaceae*, *Cycadeae*, *Burmanniaceae*, *Xyrideae*, and *Pandaneae*, together with Tree-ferns and many Palms. With the exception of *Vacciniaceae* and *Diapensiaceae*, all are tropical. The following Orders that are absent in the Eastern Himālayas are found in the Western: *Moringeae*, *Polemoniaceae*, *Illecebraceae*, of which *Polemonium* alone is strictly temperate or sub-alpine. Of even greater significance is the removal of Orchids from the first to the seventh place in the above decad, and the replacement of the tropical Orders of *Urticaceae*, *Rubiaceae*, and *Euphorbiaceae* of the Eastern Region [p. 172] by the temperate *Ranunculaceae*, *Cruciferae*, and *Labiatae* of the Western. Finally, an instructive example of the difference between the Eastern and Western Floras is afforded by a reference to the recently published *Flora Simlensis* by the late Colonel Sir Henry Collett. In that work, 1,326 Flowering plants are described, of which nearly one-third are absent from Sikkim.
 
@@ -3035,14 +3027,14 @@ Among other shrubs and small trees peculiar to the Western Himālayas are the In
 Assuming 11,000 to 12,000 feet as the lower limit of the alpine zone of the Western Himālayas in the outer ranges, and 18,000 feet as the normal upper limit of Flowering plants, about 600 species belonging to forty-eight Natural Orders are recorded as indigenous. Of these Orders the dominant ten are the following, with their relative positions in the alpine Sikkim decad indicated in brackets:—
 
 - 1. *Compositae* (1).
-- 6. *Ranunculaceae* (7).
 - 2. *Gramineae* (9).
-- 7. *Gentianeae*.
 - 3. *Leguminosae*.
-- 8. *Caryophylleae* (6).
 - 4. *Cyperaceae* (3).
-- 9. *Saxifragaceae* (4).
 - 5. *Cruciferae* (5).
+- 6. *Ranunculaceae* (7).
+- 7. *Gentianeae*.
+- 8. *Caryophylleae* (6).
+- 9. *Saxifragaceae* (4).
 - 10. *Fumariaceae* (10).
 Two Orders of the above decad, *Leguminosae* and *Gentianeae*, are absent in the corresponding Eastern one, where they are replaced by *Primulaceae* and *Scrophularineae*. I doubt, however, whether this and other comparisons will hold good when the alpine zone of Sikkim shall have been fully explored. As was to be expected, the Western alpine Flora is much richer than the Eastern, due to its greater area. The increment consists mainly of small European genera, and not in additions to [p. 175] the large genera common to both ; for taking twenty-nine of the latter, the sum of their species is nearly the same for both Regions, 277 in the Eastern, 266 in the Western ; the close coincidence is of course accidental, but not the less instructive.
 
@@ -3114,14 +3106,14 @@ The Gangetic Plain Region presents three assemblages of plants which may be rega
 The number of indigenous species in this Region is small, possibly amounting to 1,500, under 112 Orders, of which the following ten are dominant; the attached numbers in brackets are those of the corresponding decad in the Indus Plain Region:—
 
 - 1. *Gramineae* (1).
-- 6. *Malvaceae* (8).
 - 2. *Leguminosae* (2).
-- 7. *Acanthaceae*.
 - 3. *Cyperaceae* (4).
-- 8. *Euphorbiaceae* (9).
 - 4. *Compositae* (3).
-- 9. *Convolvulaceae* (10).
 - 5. *Scrophularineae* (5).
+- 6. *Malvaceae* (8).
+- 7. *Acanthaceae*.
+- 8. *Euphorbiaceae* (9).
+- 9. *Convolvulaceae* (10).
 - 10. *Labiatae* (6).
 The only other Orders rich in genera and species are *Cucurbitaceae*, *Asclepiadeae*, *Verbenaceae*, and *Amarantaceae*. The largest genera are *Hibiscus*, *Indigofera*, *Crotalaria*, *Ipomoea*, *Polygonum*, *Cyperus*, *Fimbristylis*, *Panicum*, *Andropogon*, and *Eragrostis*; *Gymnospermae* and *Cupuliferae* are absent; and the European Orders *Ranunculaceae*, *Cruciferae*, *Caryophylleae*, *Geraniaceae*, *Rosaceae*, *Saxifragaceae*, *Campanulaceae*, and *Gentianeae* are very scantily represented, chiefly by annual weeds.
 
@@ -3170,14 +3162,14 @@ The Flora of the large portion of India, roughly bounded on the north by the Vin
 Upwards of 4,000 species of Flowering plants have been recorded from the whole Western Peninsula as above delimited, under about 150 Natural Orders, of which the ten dominant are here given in approximately numerical sequence, the figures in brackets indicating their corresponding position in the Burmese decad :—
 
 - 1. *Gramineae* (3)
-- 6. *Euphorbiaceae* (5).
 - 2. *Leguminosae* (2).
-- 7. *Rubiaceae* (4).
 - 3. *Acanthaceae* (6).
-- 8. *Compositae* (9).
 - 4. *Orchideae* (1).
-- 9. *Labiatae*.
 - 5. *Cyperaceae* (7).
+- 6. *Euphorbiaceae* (5).
+- 7. *Rubiaceae* (4).
+- 8. *Compositae* (9).
+- 9. *Labiatae*.
 - 10. *Asclepiadeae*[^sec-07-fn-024].
 The proportion of Monocotyledons to Dicotyledons is about 1 to 2·7, and of genera to species 1 to 3·3.
 
@@ -3333,14 +3325,14 @@ Burma is botanically by far the richest Region of British India, and at the same
 The Burmese Region, when better known, will probably prove to be botanically divisible into four Sub-regions, before discussing which some general observations on the cardinal features of its whole Flora are necessary. Its recorded species of Flowering plants amount to about 6,000[^sec-07-fn-031], under 161 Natural [p. 197] Orders, of which the following ten are the dominant, the numbers following in brackets showing their corresponding positions in the tropical zone of the Eastern Himālayan Region on the north (p. 168):—
 
 - 1. *Orchideae* (1).
-- 6. *Acanthaceae* (10).
 - 2. *Leguminosae* (2).
-- 7. *Cyperaceae* (6).
 - 3. *Gramineae* (3).
-- 8. *Urticaceae* (4).
 - 4. *Rubiaceae* (7).
-- 9. *Compositae* (8).
 - 5. *Euphorbiaceae* (5).
+- 6. *Acanthaceae* (10).
+- 7. *Cyperaceae* (6).
+- 8. *Urticaceae* (4).
+- 9. *Compositae* (8).
 - 10. *Scitamineae*.
 The proportion of Monocotyledons to Dicotyledons is about 1 to 2·3; of genera to species, 1 to 3·25. One Order alone (*Scitamineae*) is not in the Sikkim decad. *Acanthaceae* are relatively much more numerous in Burma, *Urticaceae* in Sikkim; but these proportions are founded on very insufficient data. Over and above the Orders included in the decad, the following are very largely represented in Burma:—*Magnoliaceae* (21 sp.), *Dipterocarpeae* (26 sp.), *Begoniaceae* (43 sp.), *Melastomaceae* (57 sp.), *Gesneraceae* (60 sp.), *Asclepiadeae* (100 sp.), *Cupuliferae* (44 sp.), *Laurineae* (100 sp.), *Myristiceae* (11 sp.), *Coniferae* (8 sp.), *Cycadeae* (3 sp.), *Palmeae* (68 sp.), *Pandaneae* (12 sp.), *Bambuseae* (68 sp.). Balsams and Ferns abound, but data are wanting for even a rude estimate of their numbers; about fifty Balsams have been collected. The Coniferous genera are *Cephalotaxus*, *Taxus*, *Dacrydium*, *Libocedrus*, *Podocarpus* (2 sp.), and *Pinus* (2 sp.). Of *Orchideae*, 700 species are recorded.
 
@@ -3493,14 +3485,14 @@ The Cocos and Keeling islets, in the South Indian Ocean, 500 miles S.W. of Java,
 <span class="sc">The</span> Kurram is the only valley in the long range of mountains bordering British India on the west of the Indus of which the Flora has been described. It was exhaustively explored by Surgeon-Major J. E. T. Aitchison, F.R.S., in 1879-80, who collected in it about 900 species of Flowering plants, and twenty-six Ferns and their allies[^sec-07-fn-044]. The valley is nearly 100 miles long, and the elevations at which the collections were made varied from 2,000 feet above the sea at the mouth of the valley to 15,000 feet on its flanks: that is, from the tropical Flora of the Indus Plain to the alpine of the Himālayas. Of the ninety-three Orders to which the Flowering plants belong, the following ten are the dominant. The added numbers in brackets indicate the positions of the same in the Western Himālayan Region :—
 
 - 1. *Compositae* (2).
-- 6. *Cruciferae* (8).
 - 2. *Gramineae* (1).
-- 7. *Umbelliferae.*
 - 3. *Leguminosae* (3).
-- 8. *Ranunculaceae* (6).
 - 4. *Labiatae* (5).
-- 9. *Boragineae.*
 - 5. *Rosaceae* (9).
+- 6. *Cruciferae* (8).
+- 7. *Umbelliferae.*
+- 8. *Ranunculaceae* (6).
+- 9. *Boragineae.*
 - 10. *Cyperaceae* (4).
 The low position of *Cyperaceae*, and the subjection of *Gramineae* to *Compositae*, may be attributed to the dryness of the climate, as also may the prevalence of *Boragineae*. The genera and most of the species are Himālayan, the chief exceptions being such plants as *Herniaria* and *Peganum*, which are typical of the Indus Plain. The nine *Coniferae*, which include the Deodār, are all Himālayan. The only Palm is *Nannorrhops Ritchieana*, which extends from the Salt Range to Sind and Baluchistān. The distinctively Oriental genera, such as *Pistacia* and *Eremurus*, are few. Of *Bambuseae* there are none. On the whole, the Flora may be regarded as a dyingout Himālayan, and not as typically Oriental. It differs considerably from that of British Baluchistān.
 
@@ -3519,14 +3511,14 @@ The low position of *Cyperaceae*, and the subjection of *Gramineae* to *Composit
 Only three botanists have collected in it. Griffith[^sec-07-fn-045] in the spring of 1839 passed through it when accompanying the army of the Indus from Shikārpur to Kandahār, Dr. Stocks[^sec-07-fn-046] visited it in the spring of 1850, and Mr. J. H. Lace, F.L.S. (of the Indian Forest Department), resided in it from 1885 to 1888. Some of the plants collected by the first two travellers are included in Boissier's *Flora Orientalis*, and excellent observations on the vegetation of the country are published in the works cited below. Mr. Lace alone was enabled to make a detailed botanical exploration of the district. He collected upwards of 700 species, which, aided by Mr. Hemsley, he has published[^sec-07-fn-047], prefacing his account with an exhaustive description of the botanical features of the country. These materials prove the Flora to be Oriental, with an admixture of Himālayan and Indian plants; it is Afghān, in short, and very different from that of the Indus Plain, and of Baluchistān in its lower levels, which is more Arabic-Persian. It may be gathered from the observations of these three botanists that the vegetation, though poor, is very varied and presents many local assemblages of species, dependent upon climate, soil (including saline), humidity, and elevation within a very limited area. The ten dominant Orders of the eighty-two in Mr. Lace's [p. 210] collections are the following, with, in brackets, their relative positions in the Kurram Valley Flora :—
 
 - 1. *Compositae* (1).
-- 6. *Chenopodiaceae*.
 - 2. *Gramineae* (2).
-- 7. *Boragineae* (9).
 - 3. *Leguminosae* (3).
-- 8. *Liliaceae*.
 - 4. *Cruciferae* (6).
-- 9. *Caryophylleae*.
 - 5. *Labiatae* (4).
+- 6. *Chenopodiaceae*.
+- 7. *Boragineae* (9).
+- 8. *Liliaceae*.
+- 9. *Caryophylleae*.
 - 10. *Rosaceae* (5).
 Of the eighty-two Orders, no fewer than twenty are monotypic, including *Acanthaceae*, which is well represented in every other botanical Region of India. The forest trees are *Juniperus macropoda* (the only Conifer), which is found at 7,000 to 10,000 feet elevation; *Populus euphratica* and species of *Pistacia*, *Dalbergia*, *Celtis*, *Acacia*, *Prosopis*, *Salix*, *Fraxinus*, *Ulmus*, *Crataegus*, and *Tamarix*. (The Oriental Plane included in Mr. Lace’s list I assume to have been introduced.) The Pomegranate and Fig are indigenous. *Nannorrhops* is the only Palm. There are no *Bambuseae* in the collections, and only six Ferns.
 
@@ -3825,7 +3817,7 @@ The *Turdinae* comprise the Thrushes and Blackbirds, which are in India almost c
 
 The Ploceidae comprise two sub-families, the *Ploceinae* or Weaver Birds, and the *Viduinae* or Munias, both found throughout the Indian Empire. The Weaver Birds are finch-like, and generally the males are more or less yellow in the breeding season; they make curious flask-shaped grass nests, which may often be seen hanging from trees or bushes, some of them having long tubular entrances. The Munias and Avadavats are even smaller, and comprise several common cage-birds.
 
-The Finch family (Fringillidae) are divided into the Hawfinches (*Coccothraustinae*), True Finches (*Fringillinae*), and Buntings (*Emberizinae*). The Hawfinches or Grossbeaks are scarcely Indian; five species are known from the Himālayas, chiefly from the higher forests; but one of these ranges as far as Manipur and the Burmese Shan States. Among the True Finches the great majority are Himālayan. Bullfinches, a Crossbill, [p. 245] Rose Finches of several genera and many of them beautifully coloured, a Goldfinch, two Linnets, a Siskin, a Greenfinch, and several Mountain Finches inhabit parts of the higher ranges, while a single migratory Rose Finch (*Carpodacus erythrinus*) visits India and Northern Burma in the winter. The Yellowthroated Sparrow (*Gymnorhis*), a bird with African affinities, inhabits the Indian Peninsula, and the House Sparrow is found wherever there are human habitations. Three more species of Sparrow are found in Burma; and two others, with the Brambling (*Fringilla montifringilla*) and the Desert Finch (*Erythrospiza githaginea*), are met with in the Punjab or Sind. The Buntings are mostly migratory. Of the fifteen species found within Indian limits the majority are winter visitors to the Himālayas or to North-western India or to both; five are found in the Eastern Himālayas and Burma; one (*Emberiza striolata*) is resident in North-western India; and two migratory birds, the Corn Buntings (*E. melanocephala* and *E. luteola*), are common winter visitors to India, the first being notorious for the ravages it commits in corn-fields. The Crested Bunting (*Melophus melanicterus*), of which the male is a rather handsome bird, black and chestnut, is resident in many parts of India and Burma.
+The Finch family (Fringillidae) are divided into the Hawfinches (*Coccothraustinae*), True Finches (*Fringillinae*), and Buntings (*Emberizinae*). The Hawfinches or Grossbeaks are scarcely Indian; five species are known from the Himālayas, chiefly from the higher forests; but one of these ranges as far as Manipur and the Burmese Shan States. Among the True Finches the great majority are Himālayan. Bullfinches, a Cross-bill, [p. 245] Rose Finches of several genera and many of them beautifully coloured, a Goldfinch, two Linnets, a Siskin, a Greenfinch, and several Mountain Finches inhabit parts of the higher ranges, while a single migratory Rose Finch (*Carpodacus erythrinus*) visits India and Northern Burma in the winter. The Yellowthroated Sparrow (*Gymnorhis*), a bird with African affinities, inhabits the Indian Peninsula, and the House Sparrow is found wherever there are human habitations. Three more species of Sparrow are found in Burma; and two others, with the Brambling (*Fringilla montifringilla*) and the Desert Finch (*Erythrospiza githaginea*), are met with in the Punjab or Sind. The Buntings are mostly migratory. Of the fifteen species found within Indian limits the majority are winter visitors to the Himālayas or to North-western India or to both; five are found in the Eastern Himālayas and Burma; one (*Emberiza striolata*) is resident in North-western India; and two migratory birds, the Corn Buntings (*E. melanocephala* and *E. luteola*), are common winter visitors to India, the first being notorious for the ravages it commits in corn-fields. The Crested Bunting (*Melophus melanicterus*), of which the male is a rather handsome bird, black and chestnut, is resident in many parts of India and Burma.
 
 In the Swallow family (Hirundinidae) are included, besides the true Swallows, the Martins (*Chelidon*), Sand Martins (*Cotile*), and Crag Martins (*Ptyonoprogne*). The House Martins are chiefly Himālayan, though stragglers have been found in various parts of the Empire. Sand Martins of two closely allied species are very widely distributed. Crag Martins are met with about cliffs in the Peninsula of India and the Himālayas, but are not known with certainty from Burma. Ten species of true Swallows occur within Indian limits, some of them migratory but the greater number resident. Among them are the common European Swallow (*H. rustica*), a winter visitor everywhere; the Wire-tailed Swallow (*H. smithii*), with the shafts of the outer tail feathers produced beyond the webs; the Indian Cliff Swallow, which breeds on the high banks of rivers in large societies; and several forms of Striated Swallow, with the lower surface streaked.
 
@@ -4412,7 +4404,7 @@ If the Marāthās can be described as a caste, their history and traditions cert
 
 A good illustration of the formation of a caste by migration is to be found in the traditions of the Nambūdri or Nampūtiri Brāhmans of Malabar. These Brāhmans claim to have come to the west coast from various sacred localities in Kāthiāwār and the Northern Deccan. Mr. F. Fawcett describes them as ‘the truest Aryans in Southern India,’ and their complexion and features seem to lend some support to the tradition which assigns to them a foreign origin. Whatever their original stock may have been, they are now an entirely separate caste, differing from the Brāhmans of most other parts of India by their tendency to polygamy; by their rejection of infant marriage; by their restriction of marriage to the eldest son, the other brothers entering into relations with Nāyar women; and by the curious custom of ceremonial fishing which forms part of the marriage ritual with a certain division of them. Another instance of the same process is furnished by the Rārhi Brāhmans of Bengal. The current legend is that early in the eleventh century <span class="sc">a.d.</span>, Rājā Adisura or Adisvara, finding the Brāhmans then settled in Bengal too ignorant to perform for [p. 320] him certain Vedic ceremonies, applied to the Rājā of Kanauj for priests conversant with the sacred ritual of the Aryans. In answer to his request there were sent to him five Brāhmans of Kanauj, who brought with them their wives, their sacred fire, and their sacrificial implements, and from these the Rārhi Brāhmans are descended. Adisura did what the Rājās of outlying and unorthodox tracts of country (such as Bengal was in the eleventh century) have constantly done since and are doing still. A local chief, far removed from the great centres of Brāhmanical lore, somehow becomes aware of his ceremonial shortcomings. He sends for Brāhmans, gives them grants of land near his own residence, and proceeds at their dictation to reform his ways on the model of the devout kings whom Brāhmanical literature holds up as the ideal for a Rājā to follow. The Brāhmans find for him a pedigree of respectable antiquity and provide him with a family legend; and in course of time, by dint of money and diplomacy, he succeeds in getting himself recognized as a member of the local Rājput community. But that does not mean that the real Rājputs will acknowledge his pretensions; nor will the Brāhmans who have attached themselves to his fortunes retain their status among the community from which they have broken off. It will be said of them, as is said of the Brāhman immigrants into Bengal, that they have married local women, eaten forbidden food, adopted strange customs, and forgotten the endless details of the elaborate ritual which they set forth to teach. As priests *in partibus infidelium* they will be regarded with suspicion by the Brāhmans of their original stock: they will have to pay high for brides from among their own people, and eventually will be cut off altogether from the *ius connubii*. When that stage has been reached they will have become to all intents and purposes a separate caste, retaining the generic name of Brāhman, but forming a new species and presenting a distinctive type. And this great change will have been brought about by the simple fact of their abandoning the habitat of their original community.
 
-Occasionally it may happen that social promotion, rather than degradation, results from a change of residence. In Chānda, a remote District of the Central Provinces, a number of persons returned themselves at the 1901 Census as Barwaiks, and it was stated that the Barwaiks were a clan of Rājputs from Orissa who had come to Nāgpur in the train of the Bhonsla Rājās and had taken military service under them. Now in Chotā Nāgpur the Baraiks or Chick-Baraiks are a subcaste [p. 321] of the Pāns, the helot weavers and basketmakers who perform a variety of service functions for the organized Dravidian tribes, and used to live in a kind of ghetto in the villages of the Khonds, for whom they purveyed children destined for human sacrifice. The Census Superintendent observes that ‘though it is possible that the coincidence may be accidental, still there seems good reason to fear that it is from these humble beginnings that the Barwaik sept of Rājputs in Chānda must trace its extraction. And it is clear that, before the days of railways and the half-anna post, an imposture of this sort must have been practically impossible of detection.’
+Occasionally it may happen that social promotion, rather than degradation, results from a change of residence. In Chānda, a remote District of the Central Provinces, a number of persons returned themselves at the 1901 Census as Barwaiks, and it was stated that the Barwaiks were a clan of Rājputs from Orissa who had come to Nāgpur in the train of the Bhonsla Rājās and had taken military service under them. Now in Chotā Nāgpur the Baraiks or Chick-Baraiks are a sub-caste [p. 321] of the Pāns, the helot weavers and basketmakers who perform a variety of service functions for the organized Dravidian tribes, and used to live in a kind of ghetto in the villages of the Khonds, for whom they purveyed children destined for human sacrifice. The Census Superintendent observes that ‘though it is possible that the coincidence may be accidental, still there seems good reason to fear that it is from these humble beginnings that the Barwaik sept of Rājputs in Chānda must trace its extraction. And it is clear that, before the days of railways and the half-anna post, an imposture of this sort must have been practically impossible of detection.’
 
 > _[Margin: (vii) Castes formed by changes of custom.]_
 
@@ -4424,7 +4416,7 @@ An account will be found in chapter ix of the *Report on the Census of India*, 1
 
 > _[Margin: Classification of caste.]_
 
-In a country where the accident of birth determines irrevocably the whole course of a man's social and domestic relations, and he must throughout life eat, drink, dress, marry, and give in marriage in accordance with the usages of the community into which he was born, one is tempted at first sight to assume that the one thing that he may be expected to know with certainty, and to disclose without much reluctance, is the name of the caste, tribe, or nationality to which he belongs. As a matter of fact, no column in the Census schedule displays a more bewildering variety of entries, or gives so much trouble to the enumerating and testing staff and to the central offices which compile the results. If the person enumerated gives the name of a well-known tribe, such as Bhġl or Santāl, or of a standard caste like Brāhman or Kāyasth, all is well. But he may belong to an obscure caste from the other end of India; he may give the name of a sect, of a sub-caste, of an exogamous sept or section, of a hypergamous group; he may mention some titular designation which sounds finer than the name of his caste; he may describe himself by his occupation, or by the Province or tract of country from which he comes. These various alternatives, which are far from exhausting the possibilities of the situation, undergo a series of transformations at the hands of the more or less illiterate enumerator who writes them down in his own vernacular, and the abstractor in the central office who transliterates them into English. Then begins a laborious and most difficult process of sorting, referencing, cross-referencing, and corresponding with local authorities, which ultimately results in the compilation of the Census Table XIII, showing the distribution of the inhabitants [p. 324] of India by caste, tribe, race, or nationality. The arrangement of this table is alphabetical, and it consists of two parts. The first is a general list of all the groups returned, with their distribution by religion, while the second shows the distribution by Provinces and States of all groups with an aggregate strength of 10,000. An analysis of the 1901 table shows that it includes 2,378 main castes and tribes, and forty-three races or nationalities. With the latter we are not concerned here; as to the former, the question at once arises—on what principle should they be arranged? An alphabetical system is useful for reference, and essential for the purely statistical purposes of a census table. But it does not help in the least towards presenting an intelligible picture of the social grouping of that large proportion of the people of India which is organized, admittedly or tacitly, on the basis of caste.
+In a country where the accident of birth determines irrevocably the whole course of a man's social and domestic relations, and he must throughout life eat, drink, dress, marry, and give in marriage in accordance with the usages of the community into which he was born, one is tempted at first sight to assume that the one thing that he may be expected to know with certainty, and to disclose without much reluctance, is the name of the caste, tribe, or nationality to which he belongs. As a matter of fact, no column in the Census schedule displays a more bewildering variety of entries, or gives so much trouble to the enumerating and testing staff and to the central offices which compile the results. If the person enumerated gives the name of a well-known tribe, such as Bhīl or Santāl, or of a standard caste like Brāhman or Kāyasth, all is well. But he may belong to an obscure caste from the other end of India; he may give the name of a sect, of a sub-caste, of an exogamous sept or section, of a hypergamous group; he may mention some titular designation which sounds finer than the name of his caste; he may describe himself by his occupation, or by the Province or tract of country from which he comes. These various alternatives, which are far from exhausting the possibilities of the situation, undergo a series of transformations at the hands of the more or less illiterate enumerator who writes them down in his own vernacular, and the abstractor in the central office who transliterates them into English. Then begins a laborious and most difficult process of sorting, referencing, cross-referencing, and corresponding with local authorities, which ultimately results in the compilation of the Census Table XIII, showing the distribution of the inhabitants [p. 324] of India by caste, tribe, race, or nationality. The arrangement of this table is alphabetical, and it consists of two parts. The first is a general list of all the groups returned, with their distribution by religion, while the second shows the distribution by Provinces and States of all groups with an aggregate strength of 10,000. An analysis of the 1901 table shows that it includes 2,378 main castes and tribes, and forty-three races or nationalities. With the latter we are not concerned here; as to the former, the question at once arises—on what principle should they be arranged? An alphabetical system is useful for reference, and essential for the purely statistical purposes of a census table. But it does not help in the least towards presenting an intelligible picture of the social grouping of that large proportion of the people of India which is organized, admittedly or tacitly, on the basis of caste.
 
 > _[Margin: Principles adopted in the 1901 Census.]_
 
@@ -5124,23 +5116,35 @@ In Aden we find Arabic and Somali spoken. The former belongs to the Semitic and 
 |  |  | Anu. | 775 | "," |
 |  |  | That. | 67 | "," |
 |  |  | Kuki (unspecified). | 53,880 | Assam and Bengal. |
-| **TIBETO-CHINESE FAMILY** (*cont.*). **TIBETO-BURMAN BRANCH** (*cont.*). **Assam-Burmese Sub-branch** (*cont.*). | *Unclassed Languages (cont.).* | Chin (unspecified). | 181,765 | Burma. |
-|  | **Kachin Group.** | Kachin or Singpho. | 67,340 | ", |
-|  | *Kachin-Burma Hybrids.* | Szi Lepai. Lashi. Maru. Maingtha. | 756 84 151 465 | ", ", ", ", |
-|  | *Other Hybrids.* | .   . | 56,979 | ", |
+| **TIBETO-CHINESE FAMILY** (*cont.*). | *Unclassed Languages (cont.).* | Chin (unspecified). | 181,765 | Burma. |
+| **TIBETO-BURMAN BRANCH** (*cont.*). | **Kachin Group.** | Kachin or Singpho. | 67,340 | ,, |
+| **Assam-Burmese Sub-branch** (*cont.*). | *Kachin-Burma Hybrids.* | Szi Lepai. | 756 | ,, |
+|  |  | Lashi. | 84 | ,, |
+|  |  | Maru. | 151 | ,, |
+|  |  | Maingtha. | 465 | ,, |
+|  | *Other Hybrids.* | .   . | 56,979 | ,, |
 |  | **Burma Group.** | Mrū. | 23,898 | Bengal and Burma. |
 |  |  | Burmese. | 7,474,896 | Burma and Bengal. |
-|  | **SIAMESE-CHINESE BRANCH.** | **Sinitic Group.** | Karen. | 887,875 |
-| **Tai Group.** |  | Siamese. Lü Khün. Shan. Khāmtī. Phākial. Norā. Tai-rong. Aiton. | 19,536 19,380 42,160 751,772 1,490 289 2 12 1,569 | ", ", ", ", ", Assam. ", ", ", |
+| **SIAMESE-CHINESE BRANCH.** | **Sinitic Group.** | Karen. | 887,875 | Burma. |
+|  | **Tai Group.** | Siamese. | 19,536 | ,, |
+|  |  | Lü | 19,380 | ,, |
+|  |  | Khün. | 42,160 | ,, |
+|  |  | Shan. | 751,772 | ,, |
+|  |  | Khāmtī. | 1,490 | ,, |
+|  |  | Phākial. | 289 | Assam. |
+|  |  | Norā. | 2 | ,, |
+|  |  | Tai-rong. | 12 | ,, |
+|  |  | Aiton. | 1,569 | ,, |
 
 
 **<span class="sc">II. List of Minor Languages spoken in British India</span>**
 | Family, Branch, and Sub-branch. | Group and Sub-group. | Language. | Total Number of speakers. | Where chiefly spoken in British India. |
 | --- | --- | --- | --- | --- |
-| **MALAYO-POLYNESIAN FAMILY.** | **Malay Group.** | Selung or Selon. Nicobarese. | 1,318 6,513 | Burma. Nicobars. |
+| **MALAYO-POLYNESIAN FAMILY.** | **Malay Group.** | Selung or Selon. | 1,318 | Burma. |
+|  |  | Nicobarese. | 6,513 | Nicobars. |
 | **SEMITIC FAMILY.** | .   .   . | Arabic. | 42,881 | Hyderābād and Aden. |
 | **HAMITIC FAMILY.** | .   .   . | Somali. | 5,530 | Aden. |
-| **UNCLASSIFIED LANGUAGES.** | .   .   . | Andamese. | 1,882 | Andamans. |
+| **UNCLASSIFIED LANGUAGES.** | .   .   . | Andamanese. | 1,882 | Andamans. |
 |  |  | Gipsy languages. | 344,143 | Hyderābād, Berār, Bombay, Central Provinces, and Mysore. |
 |  |  | Burushaski. | .   .   . | Hunza-Nagar (no Census was taken of this tract). |
 |  |  | Others. | 125 |  |
@@ -5364,7 +5368,7 @@ The Indo-Aryans brought little theology with them from their original home beyon
 
 > _[Margin: The Vedas.]_
 
-The Rig-veda, with its supplement, the Sāma-veda, was composed when the Aryans had reached the point of junction of the Punjab rivers with the Indus; the Black and White Yajurveda [p. 403] when they had reached the neighbourhood of the Sutlej and Jumna; the Atharvan, combining the lower beliefs of Aryans and aborigines, when the new-comers had penetrated as far as Benares.
+The Rig-veda, with its supplement, the Sāma-veda, was composed when the Aryans had reached the point of junction of the Punjab rivers with the Indus; the Black and White Yajur-veda [p. 403] when they had reached the neighbourhood of the Sutlej and Jumna; the Atharvan, combining the lower beliefs of Aryans and aborigines, when the new-comers had penetrated as far as Benares.
 
 > _[Margin: Vedic theology.]_
 
@@ -6089,7 +6093,7 @@ Although in theory polygamy is allowed, in practice a second wife is rarely take
 
 > _[Margin: Polyandry.]_
 
-There are two recognized types of polyandry—the matriarchal, where a woman forms simultaneous alliances with two or more men who are not necessarily related to each other, and succession is therefore traced through the female; and the fraternal, where she becomes the wife of several brothers. The former practice was once prevalent among the Nāyar and other castes on the Malabar coast, but it has now fallen into desuetude, though the women enjoy full liberty (which, however, is seldom exercised) to change their husbands, and succession is still traced through the female, i. e. a Nāyar's next heirs are not his own sons, who belong to their mother's family, but his sister's. The latter form of polyandry is still more or less common along the whole of the Himālayan area from Kashmħr to Assam, and likewise among the Todas of the Nħlgiris. It exists as a recognized institution chiefly among people of Tibetan affinities, but it occurs also, though more or less concealed, among various communities in the plains, such as the Jāts of the Punjab and the Santāls of Bengal. The census returns, however, throw no light on this subject.
+There are two recognized types of polyandry—the matriarchal, where a woman forms simultaneous alliances with two or more men who are not necessarily related to each other, and succession is therefore traced through the female; and the fraternal, where she becomes the wife of several brothers. The former practice was once prevalent among the Nāyar and other castes on the Malabar coast, but it has now fallen into desuetude, though the women enjoy full liberty (which, however, is seldom exercised) to change their husbands, and succession is still traced through the female, i. e. a Nāyar's next heirs are not his own sons, who belong to their mother's family, but his sister's. The latter form of polyandry is still more or less common along the whole of the Himālayan area from Kashmīr to Assam, and likewise among the Todas of the Nīlgiris. It exists as a recognized institution chiefly among people of Tibetan affinities, but it occurs also, though more or less concealed, among various communities in the plains, such as the Jāts of the Punjab and the Santāls of Bengal. The census returns, however, throw no light on this subject.
 
 > _[Margin: Education.]_
 
@@ -6702,6 +6706,7 @@ The proportion borne by males to females at birth is shown below :—
 
 The range within each area is greatest where registration, always at its worst in regard to events affecting females, is most defective. The highest proportion of males is returned in areas where the male population outnumbers the female, and where the practice of female infanticide formerly prevailed; but in certain parts of two of the Provinces at the top of the list registration is notoriously very defective, viz. in the Western Punjab and in Sind. The records of Berār, where registration is at its best, show that the excess of males born in the January to June or July period is always very much higher than during the rest of the year, the mean during a normal quinquennium being, for the first six months of the year, 107·3, and for the last six months 104·8. Now the corresponding periods of conception are April to September and October to March; and the latter period is associated with three [p. 511] distinct factors—the harvest, the season of least sickness and mortality, and that of the lowest temperature, which would appear to influence favourably the relatively higher production of females[^sec-13-fn-005].
 
+> _[Margin: Urban and rural birth-rates.]_
 > _[Margin: Proportion of still-births.]_
 
 The results of urban and rural conditions on the birth-rate will be gathered from the statement below :—
@@ -6820,12 +6825,12 @@ The relative influence of urban and rural conditions on the mortality at all age
 | <span class="sc">Province</span>. | Urban. | Rural. |
 | --- | --- | --- |
 | Bengal[^sec-13-fn-014] | 33·0 | 30·7 |
-| United Provinces<sup>*†</sup> | 40·6 | 32·5 |
-| Punjab<sup>*†</sup> | 35·6 | 32·0 |
+| United Provinces[^sec-13-fn-014][^sec-13-fn-015] | 40·6 | 32·5 |
+| Punjab[^sec-13-fn-014][^sec-13-fn-015] | 35·6 | 32·0 |
 | Central Provinces[^sec-13-fn-015] | 50·3 | 45·2 |
 | Berār[^sec-13-fn-015] | 51·4 | 48·1 |
 | Madras | 30·5 | 21·4 |
-| Bombay<sup>*†</sup> | 61·6 | 38·4 |
+| Bombay[^sec-13-fn-014][^sec-13-fn-015] | 61·6 | 38·4 |
 
 > _[Margin: Overcrowding in cities: Bombay.]_
 
@@ -6996,7 +7001,8 @@ Passing over the next twenty-five years, the records for which are similarly vit
 ***Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).***
 | Constantly sick. | Cholera. | Fevers: intermittent, remittent, and simple continued. | Tubercle of lungs. | Other respiratory diseases. | Dysentery and diarrhoea. | Venereal diseases. | All causes. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 30 { A \n D | 1.5 \n 0.9 | 327.9 \n 1.8 | 3.0 \n 0.7 | 43.6 \n 4.0 | 58.7 \n 0.7 | 37.5 \n 0.1 | 782.9 \n 11.7 |
+| 30 { A | 1·5 | 327·9 | 3·0 | 43·6 | 58·7 | 37·5 | 782·9 |
+| D | 0·9 | 1·8 | 0·7 | 4·0 | 0·7 | 0·1 | 11·7 |
 
 To this, which shows a reduction in the mortality of nearly 50 per cent., equal to an annual saving of over 1,200 lives, it may be added that the invaliding rate has fallen to 13 per mille of strength. Enteric fever caused only 204 admissions and 67 deaths during the six years, yielding ratios of 0.3 and 0.09 per mille per annum, respectively : that is to say, the European troops are about 88 times more liable to this disease, from which the mortality to strength is nearly 80 times greater, than are the troops of the Native army.
 
@@ -7136,7 +7142,9 @@ For Plague, (12) Report of Indian Commission of 1898–9 (1901).
 [^sec-13-fn-006]: (2) Statistics for later years furnished to the Government of India do not discriminate between urban and rural birth-rates.
 [^sec-13-fn-007]: (*) During 1892–1900, births for years prior to 1892 not being available.
 [^sec-13-fn-008]: (†) During 1883–1900,      „            „        1883        „            „
-[^sec-13-fn-009]: (‡) Famine in these areas during this period; plague in Bengal, United Provinces, Punjab, Madras, and Bombay. The ‘probable true normal rates’ are estimates based on the Census data of 1881 and 1891 by Mr. Hardy, F.I.A., F.S.S.; the rate for all British India being 39·6 per mille (see *Census Report*, 1891, vol. ii). The Assam rate is probably somewhat higher than that of Bengal, while the rates of the Central Provinces and Berār probably come between those of the United Provinces and Bengal.
+[^sec-13-fn-009]: (‡) Famine in these areas during this period; plague in Bengal, United Provinces, Punjab, Madras, and Bombay.
+
+    The ‘probable true normal rates’ are estimates based on the Census data of 1881 and 1891 by Mr. Hardy, F.I.A., F.S.S.; the rate for all British India being 39·6 per mille (see *Census Report*, 1891, vol. ii). The Assam rate is probably somewhat higher than that of Bengal, while the rates of the Central Provinces and Berār probably come between those of the United Provinces and Bengal.
 [^sec-13-fn-010]: (1) The decade 1891–1901 has been ignored, owing to the abnormal conditions of famine and plague.
 [^sec-13-fn-011]: (1) In London in the seventeenth century it was about 1 to 40; in England it is now about 1 to 212.
 [^sec-13-fn-012]: (*) Excluding Presidency cities and Rangoon.
@@ -7828,7 +7836,7 @@ For Plague, (12) Report of Indian Commission of 1898–9 (1901).
 - 42–46; its mountain ranges and elevated
 - table-land, 37, 42; its ‘cotton’ soil,
 - 43, 101; its forests, 43, 44; its rivers,
-- 42; the course and ‘anShield’ or dams
+- 42; the course and ‘anicuts’ or dams
 - of the Godāvari, 44, 45; of the Kistna,
 - 45; of the Cauvery, 45, 46; their
 - deltas, the granaries of the Peninsula,
@@ -10009,7 +10017,7 @@ Oxford: Printed at the Clarendon Press by <span class="sc">Horace Hart, M.A.</sp
 ### THE INDIAN EMPIRE
 
 
-##### PREPARED FOR
+#### PREPARED FOR
 
 
 #### THE IMPERIAL GAZETTEER OF INDIA
@@ -10036,6 +10044,4 @@ John Bartholomew & Co.
 
 <!-- page: 610 | folio: 572 -->
 
-![Map of Lower Burma, Tenasserim, Mergui Archipelago, Andaman and Nicobar Islands, Siam (Bangkok), and northern Sumatra (Achin).](../figures/fig-007_p0610.webp)
-
-John Bartholomew & Co.
+![John Bartholomew & Co.](../figures/fig-007_p0610.webp)

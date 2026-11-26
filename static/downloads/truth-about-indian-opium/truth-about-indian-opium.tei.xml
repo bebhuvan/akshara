@@ -23,7 +23,7 @@
         <idno type="book_id">truth-about-indian-opium</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -71,7 +71,7 @@
         <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0003.webp"/><figDesc>Royal Coat of Arms of the United Kingdom with the mottoes &#x27;Honi soit qui mal y pense&#x27; and &#x27;Dieu et mon droit&#x27;.</figDesc></figure>
         <div type="subsection" n="h1">
           <head>THE TRUTH ABOUT INDIAN OPIUM</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>BY</head>
           </div>
           <div type="subsection" n="h2">
@@ -90,7 +90,7 @@
       </div>
       <div xml:id="sec-02" type="frontmatter" n="02-contents">
         <head>CONTENTS</head>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head>CONTENTS.</head>
           <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> I.—The Royal Commission on Opium in India . 1</p>
           <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> II.—The Production of Opium in India - - - 4</p>
@@ -101,7 +101,7 @@
           <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> VII.—The Position of India in relation to the World's
 Opium Problem - - - - 38</p>
           <p rend="toc-entry"><hi rend="smallcaps">Bibliography</hi> - - - - - - 42</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Tables.</hi></head>
             <p rend="toc-entry">Acreage under poppy in British India and Indian States, with statistics
 of opium production - - - - - 7–8</p>
@@ -123,25 +123,25 @@ revenues of British India - - - - - 29</p>
         <pb xml:id="page-5" n="1" facs="https://archive.org/download/truthaboutindian00grearich/page/n4_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>THE TRUTH ABOUT INDIAN OPIUM.</head>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER I.</head>
           <div type="subsection" n="h2">
-            <head>CHAPTER I.</head>
-            <div type="subsection" n="h3">
-              <head><hi rend="smallcaps">The Royal Commission on Opium in India.</hi></head>
-              <p>In India, apart from Burma, which will be discussed separately, opium is generally eaten in the form of pills, and in some parts it is dissolved in water and drunk. It is the ordinary domestic medicine of the people, great numbers of whom are unaccustomed to, or beyond the reach of, skilled medical treatment, and it is a medicine of which they could not be deprived without very great suffering. It is largely used in the malarial tracts as a prophylactic against fever, and is a great aid to endurance; the fisherman swallows his opium pill before entering the water, just as his European brother carries his whisky flask, and the carrier eats opium when on the march. The drug has been commonly employed for hundreds of years, and abuse of its properties is rarer than the abuse of alcohol in Western countries.<ref xml:id="ref-sec-03-fn-001" type="noteref" target="#sec-03-fn-001">1</ref></p>
-              <p>The danger of indulgence always exists, and for many years it has been the policy of the Government of India to guard against this in every possible way. It is the aim of this paper to explain the steps which they have taken and the results which have been achieved.</p>
-              <p>Opium smoking, which is the common form of consumption in other parts of the East, is on a different footing in India. It is a practice foreign to the country, and was introduced as a form of social indulgence among the disreputable classes. It is regarded as a vicious habit, much on a par with the consumption of alcohol, and has been hedged round by Government with restrictions which are little short of prohibition.</p>
-              <p>The consumption of opium in India dates probably from the 16th century, and a monopoly of the purchase of opium from the cultivators grew up in Bihar under the Mughal Empire. At that time cultivation in other parts of India was apparently unrestricted. The Empire lost hold of the monopoly during the anarchy of the 18th century, but it was carried on in <pb xml:id="page-6" n="2" facs="https://archive.org/download/truthaboutindian00grearich/page/n5_w1400.jpg"/> practice by a “ring” of Patna merchants. When the East India Company assumed responsibility for the collection of the Bengal and Bihar revenues in 1765, its servants appropriated the monopoly for their own private benefit, and the prevailing corruption continued. Disturbances ensued, and when Warren Hastings was appointed Governor-General in 1773 and given power to organise a proper system of government, he found himself compelled, in pursuance of his policy of depriving the Company’s servants of the right of private trade, to assume control of the opium monopoly.</p>
-              <p>At first the right to manufacture opium was farmed out on contract, but this led to oppression of the cultivators, and the system broke down, with the result that in 1797 Government assumed the monopoly of manufacture. This measure, which included restriction and prohibition of cultivation except under licence, and extended to nearly all Northern India as it came into British possession, resulted in smuggling and clandestine production for local use, and attention was thus directed for the first time to the demand for opium in India itself, which it was found impossible to suppress. Accordingly there was passed in 1813 the first Bengal Regulation regarding consumption in India, the Government enunciating their policy of restricting the habit of opium eating by obtaining the maximum revenue from the minimum consumption, and declaring that they were desirous of countenancing only to the narrowest extent possible a habit which they found themselves unable to eradicate. This policy has never been lost sight of.</p>
-              <p>As a result of the activities of the Society for the Suppression of the Opium Trade, a Royal Commission was appointed in 1893 to enquire into all the circumstances connected with the production and sale of Indian opium, and the Society itself recorded the opinion that the appointment constituted “the greatest and most solid forward step that the “movement for the suppression of the opium trade has yet “made,” and considered that the Commission was “‘as fair- “minded and impartial a tribunal as the Society could have “desired to hear its case.”</p>
-              <p>The results of the Commission’s labours were published in 1895 in seven volumes, which can be procured by anyone who desires to acquaint himself with the real facts regarding opium in India. Since 1895 consumption has declined, but the findings of the Commission still stand as a complete justification of the Government’s policy.</p>
-              <p>The Commission examined with very great care the question of the consumption of opium in India, and found that in all provinces a limit was placed on the amount of opium, or preparations of opium, which might be sold to any individual, or of which a person might be legally in possession, at any one time, and that the average annual consumption for the whole of British India amounted to 27 grains per head.</p>
-              <pb xml:id="page-7" n="3" facs="https://archive.org/download/truthaboutindian00grearich/page/n6_w1400.jpg"/>
-              <p>As regards the use of opium and its effects, the Commission stated that opium was universally believed in as a common domestic medicine, special value being attached to its use in cases of fever and as a protection against malaria. As a stimulant, it was held in esteem as a specific against old age, many men of failing health taking the drug for periods varying from 15 to 50 years, and apparently obtaining benefit from the habit. It was also habitually used in many parts of India during the extremes of the winter months, and for the purpose of resisting fatigue in the case of journeys and hard physical labour. In Rajputana the use of opium in connection with social and ceremonial functions had acquired a quasi-religious sanction.</p>
-              <p>With reference to the consumption of opium in the Indian army, the Commission concluded that the number of soldiers accustomed to take opium to a harmful extent was insignificant, that its use in the army was often beneficial, and that any attempt to limit consumption would be highly unpopular.</p>
-              <p>As regards the general physical and moral effects of the use of opium, the Commission found that hard work, energy and thrift existed side by side with the opium habit; that it was unheard of for workmen to be dismissed on account of opium excess, though alcoholic excess was a constant source of trouble; and that the largest Indian insurance company had not found it necessary to impose any extra premium on the lives of moderate opium consumers. They were of opinion that the opium habit did not lead to insanity, crime, or suicide, and they finally concluded that the use of opium among the people in British Provinces was, as a rule, a moderate use, and was not attended by injurious consequences. Excess was exceptional, and condemned by public opinion.</p>
-              <p>The Commission were emphatic when they came to deal with the suggestion that the use of opium in India could be limited to strictly medical needs. They remarked that it was generally admitted that the limitation of cultivation and the monopoly of manufacture and wholesale supply, constituted the most restrictive position, short of prohibition, which the Government could adopt towards internal consumption. No distinct line was drawn in popular opinion between the medical uses of the drug and those which cannot be strictly so-called, and it would be impracticable to issue opium only on the prescription of medical practitioners. Further, the Commission were convinced that the great mass of Indian opinion was opposed to the proposal as an unnecessary restriction on individual liberty and an interference with established customs and habits. Apart from the religious question, Indians generally considered the use of alcohol to be more open to objection in itself, more injurious, and more disgraceful.</p>
-              <p>The Report of the Commission remains unchallenged on points of fact, and evidence that the situation in India has not <pb xml:id="page-8" n="4" facs="https://archive.org/download/truthaboutindian00grearich/page/n7_w1400.jpg"/> undergone retrograde developments is afforded by the fact that in 1920 the <hi rend="italic">per capita</hi> consumption of opium in the British provinces was 26 grains, slightly less than the figure at which it stood 30 years ago.  Moreover, if it were possible to ascertain the amount of opium used for veterinary purposes, this figure would without doubt, be smaller still.  There are 150 million cattle and horses in British India.</p>
-            </div>
+            <head><hi rend="smallcaps">The Royal Commission on Opium in India.</hi></head>
+            <p>In India, apart from Burma, which will be discussed separately, opium is generally eaten in the form of pills, and in some parts it is dissolved in water and drunk. It is the ordinary domestic medicine of the people, great numbers of whom are unaccustomed to, or beyond the reach of, skilled medical treatment, and it is a medicine of which they could not be deprived without very great suffering. It is largely used in the malarial tracts as a prophylactic against fever, and is a great aid to endurance; the fisherman swallows his opium pill before entering the water, just as his European brother carries his whisky flask, and the carrier eats opium when on the march. The drug has been commonly employed for hundreds of years, and abuse of its properties is rarer than the abuse of alcohol in Western countries.<ref xml:id="ref-sec-03-fn-001" type="noteref" target="#sec-03-fn-001">1</ref></p>
+            <p>The danger of indulgence always exists, and for many years it has been the policy of the Government of India to guard against this in every possible way. It is the aim of this paper to explain the steps which they have taken and the results which have been achieved.</p>
+            <p>Opium smoking, which is the common form of consumption in other parts of the East, is on a different footing in India. It is a practice foreign to the country, and was introduced as a form of social indulgence among the disreputable classes. It is regarded as a vicious habit, much on a par with the consumption of alcohol, and has been hedged round by Government with restrictions which are little short of prohibition.</p>
+            <p>The consumption of opium in India dates probably from the 16th century, and a monopoly of the purchase of opium from the cultivators grew up in Bihar under the Mughal Empire. At that time cultivation in other parts of India was apparently unrestricted. The Empire lost hold of the monopoly during the anarchy of the 18th century, but it was carried on in <pb xml:id="page-6" n="2" facs="https://archive.org/download/truthaboutindian00grearich/page/n5_w1400.jpg"/> practice by a “ring” of Patna merchants. When the East India Company assumed responsibility for the collection of the Bengal and Bihar revenues in 1765, its servants appropriated the monopoly for their own private benefit, and the prevailing corruption continued. Disturbances ensued, and when Warren Hastings was appointed Governor-General in 1773 and given power to organise a proper system of government, he found himself compelled, in pursuance of his policy of depriving the Company’s servants of the right of private trade, to assume control of the opium monopoly.</p>
+            <p>At first the right to manufacture opium was farmed out on contract, but this led to oppression of the cultivators, and the system broke down, with the result that in 1797 Government assumed the monopoly of manufacture. This measure, which included restriction and prohibition of cultivation except under licence, and extended to nearly all Northern India as it came into British possession, resulted in smuggling and clandestine production for local use, and attention was thus directed for the first time to the demand for opium in India itself, which it was found impossible to suppress. Accordingly there was passed in 1813 the first Bengal Regulation regarding consumption in India, the Government enunciating their policy of restricting the habit of opium eating by obtaining the maximum revenue from the minimum consumption, and declaring that they were desirous of countenancing only to the narrowest extent possible a habit which they found themselves unable to eradicate. This policy has never been lost sight of.</p>
+            <p>As a result of the activities of the Society for the Suppression of the Opium Trade, a Royal Commission was appointed in 1893 to enquire into all the circumstances connected with the production and sale of Indian opium, and the Society itself recorded the opinion that the appointment constituted “the greatest and most solid forward step that the “movement for the suppression of the opium trade has yet “made,” and considered that the Commission was “‘as fair- “minded and impartial a tribunal as the Society could have “desired to hear its case.”</p>
+            <p>The results of the Commission’s labours were published in 1895 in seven volumes, which can be procured by anyone who desires to acquaint himself with the real facts regarding opium in India. Since 1895 consumption has declined, but the findings of the Commission still stand as a complete justification of the Government’s policy.</p>
+            <p>The Commission examined with very great care the question of the consumption of opium in India, and found that in all provinces a limit was placed on the amount of opium, or preparations of opium, which might be sold to any individual, or of which a person might be legally in possession, at any one time, and that the average annual consumption for the whole of British India amounted to 27 grains per head.</p>
+            <pb xml:id="page-7" n="3" facs="https://archive.org/download/truthaboutindian00grearich/page/n6_w1400.jpg"/>
+            <p>As regards the use of opium and its effects, the Commission stated that opium was universally believed in as a common domestic medicine, special value being attached to its use in cases of fever and as a protection against malaria. As a stimulant, it was held in esteem as a specific against old age, many men of failing health taking the drug for periods varying from 15 to 50 years, and apparently obtaining benefit from the habit. It was also habitually used in many parts of India during the extremes of the winter months, and for the purpose of resisting fatigue in the case of journeys and hard physical labour. In Rajputana the use of opium in connection with social and ceremonial functions had acquired a quasi-religious sanction.</p>
+            <p>With reference to the consumption of opium in the Indian army, the Commission concluded that the number of soldiers accustomed to take opium to a harmful extent was insignificant, that its use in the army was often beneficial, and that any attempt to limit consumption would be highly unpopular.</p>
+            <p>As regards the general physical and moral effects of the use of opium, the Commission found that hard work, energy and thrift existed side by side with the opium habit; that it was unheard of for workmen to be dismissed on account of opium excess, though alcoholic excess was a constant source of trouble; and that the largest Indian insurance company had not found it necessary to impose any extra premium on the lives of moderate opium consumers. They were of opinion that the opium habit did not lead to insanity, crime, or suicide, and they finally concluded that the use of opium among the people in British Provinces was, as a rule, a moderate use, and was not attended by injurious consequences. Excess was exceptional, and condemned by public opinion.</p>
+            <p>The Commission were emphatic when they came to deal with the suggestion that the use of opium in India could be limited to strictly medical needs. They remarked that it was generally admitted that the limitation of cultivation and the monopoly of manufacture and wholesale supply, constituted the most restrictive position, short of prohibition, which the Government could adopt towards internal consumption. No distinct line was drawn in popular opinion between the medical uses of the drug and those which cannot be strictly so-called, and it would be impracticable to issue opium only on the prescription of medical practitioners. Further, the Commission were convinced that the great mass of Indian opinion was opposed to the proposal as an unnecessary restriction on individual liberty and an interference with established customs and habits. Apart from the religious question, Indians generally considered the use of alcohol to be more open to objection in itself, more injurious, and more disgraceful.</p>
+            <p>The Report of the Commission remains unchallenged on points of fact, and evidence that the situation in India has not <pb xml:id="page-8" n="4" facs="https://archive.org/download/truthaboutindian00grearich/page/n7_w1400.jpg"/> undergone retrograde developments is afforded by the fact that in 1920 the <hi rend="italic">per capita</hi> consumption of opium in the British provinces was 26 grains, slightly less than the figure at which it stood 30 years ago.  Moreover, if it were possible to ascertain the amount of opium used for veterinary purposes, this figure would without doubt, be smaller still.  There are 150 million cattle and horses in British India.</p>
           </div>
         </div>
         <div type="notes">
@@ -490,61 +490,61 @@ revenues of British India - - - - - 29</p>
             <p>The preceding chapters have shown how rigidly the Government of India's practice conforms to, and in many respects goes beyond, the requirements of the Hague Convention. a summary of which was given above, but it may be as well to set out these requirements in detail, and to show categorically how they are satisfied by the law or regulations in force in India.</p>
             <p>The principal articles of the Convention are as follows:—</p>
           </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head><hi rend="smallcaps">Chapter I.—Raw Opium.</hi></head>
+          <p><hi rend="italic">Definition.—By "raw opium" is understood— The spontaneously coagulated juice obtained from the capsules of the papaver somniferum, which has only been submitted to the necessary manipulations for packing and transport.</hi></p>
           <div type="subsection" n="h2">
-            <head><hi rend="smallcaps">Chapter I.—Raw Opium.</hi></head>
-            <p><hi rend="italic">Definition.—By "raw opium" is understood— The spontaneously coagulated juice obtained from the capsules of the papaver somniferum, which has only been submitted to the necessary manipulations for packing and transport.</hi></p>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article 1.</hi></head>
-              <p><hi rend="italic">The contracting Powers shall enact effective laws or regulations for the control of the production and distribution of raw opium, unless laws or regulations on the subject are already in existence.</hi></p>
-              <p>The laws and regulations in force in India have been described in Chapters II. and III.</p>
-            </div>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article 2.</hi></head>
-              <p><hi rend="italic">Due regard being had to the differences in their commercial conditions, the contracting Powers shall limit the number of towns, ports, or other localties through which the export or import of raw opium shall be permitted.</hi></p>
-              <p>Opium is only allowed to be exported from British India through the ports of Calcutta and Bombay.</p>
-            </div>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article 3.</hi></head>
-              <p><hi rend="italic">The contracting Powers shall take measures—</hi> (a) <hi rend="italic">To prevent the export of raw opium to countries which shall have prohibited its entry, and</hi> <pb xml:id="page-36" n="32" facs="https://archive.org/download/truthaboutindian00grearich/page/n35_w1400.jpg"/> (b) <hi rend="italic">To control the export of raw opium to countries which restrict its import, unless regulations on the subject are already in existence.</hi></p>
-              <p>The export of opium from India has been dealt with in Chapter V. Opium is not allowed to be exported to countries which have prohibited its import, and the Government of India would co-operate with any Government that desired to restrict its imports of Indian opium. To prevent the abuse of Indian opium, the Government of India have, in this respect, gone further than the terms of the Convention demand, by arbitrarily limiting the amount of their opium exports to a figure below the ascertained normal demands of countries which permit its import.</p>
-            </div>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article</hi> 4.</head>
-              <quote><p><hi rend="italic">The contracting Powers shall make regulations requiring that every package containing raw opium intended for export shall be marked in such a way as to indicate its contents, provided that the consignment exceeds</hi> 5 <hi rend="italic">kilog.</hi></p></quote>
-              <p>All chests of opium for export are packed in gunny and marked with a number, a red stripe and the words “ Benares Opium.”</p>
-            </div>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article</hi> 5.</head>
-              <quote><p><hi rend="italic">The contracting Powers shall not allow the import and export of raw opium except by duly authorised persons.</hi></p></quote>
-              <p>Seventy-seven per cent. of the exports are sent by the Government of India direct to Governments of importing countries. Compliance with this Article in respect of exports by private merchants is secured by notifications issued under the Opium Act of 1878.</p>
-              <p>The import of opium by post is absolutely prohibited, and import by other means is only allowed to persons properly authorised by Local Governments.</p>
-            </div>
+            <head><hi rend="italic">Article 1.</hi></head>
+            <p><hi rend="italic">The contracting Powers shall enact effective laws or regulations for the control of the production and distribution of raw opium, unless laws or regulations on the subject are already in existence.</hi></p>
+            <p>The laws and regulations in force in India have been described in Chapters II. and III.</p>
           </div>
           <div type="subsection" n="h2">
-            <head><hi rend="smallcaps">Chapter II.—Prepared Opium.</hi></head>
-            <quote><p><hi rend="italic">Definition.—By “ prepared opium ” is understood— The product of raw opium, obtained by a series of special operations, especially by dissolving, boiling, roasting and fermentation designed to transform it into an extract suitable for consumption. Prepared opium includes dross and all other residues remaining when opium has been smoked.</hi></p></quote>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article</hi> 6.</head>
-              <quote><p><hi rend="italic">The contracting Powers shall take measures for the gradual and effective suppression of the manufacture of, internal trade in, and use of prepared opium, with due regard to the varying circumstances of each country concerned, unless regulations on the subject are already in existence.</hi></p></quote>
-              <pb xml:id="page-37" n="33" facs="https://archive.org/download/truthaboutindian00grearich/page/n36_w1400.jpg"/>
-              <p>The measures taken by the Government of India for the gradual and effective suppression of the use of prepared opium are explained in Chapter IV. Except in Burma, manufacture is only permitted to private individuals from raw opium lawfully in their possession, and an individual may not manufacture for his own use more than eleven-fiftieths of an ounce at any one time. Burma is the only part of India where opium is habitually smoked, and there the Government of India have waged a long campaign for its suppression. Within a short period of time there will be complete prohibition of the use of opium by Burmans for other than medicinal purposes. The sale of prepared opium is prohibited throughout India.</p>
-            </div>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article</hi> 7.</head>
-              <quote><p><hi rend="italic">The contracting Powers shall prohibit the import and export of prepared opium; those Powers, however, which are not yet ready to prohibit immediately the export of prepared opium shall prohibit it as soon as possible.</hi></p></quote>
-            </div>
-            <div type="subsection" n="h3">
-              <head><hi rend="italic">Article</hi> 8.</head>
-              <quote><p><hi rend="italic">The contracting Powers which are not yet ready to prohibit immediately the export of prepared opium—</hi></p></quote>
-              <list>
-          <item>(<hi rend="italic">a</hi>) <hi rend="italic">shall restrict the number of towns, ports, or other localities through which prepared opium may be exported;</hi></item>
-          <item>(<hi rend="italic">b</hi>) <hi rend="italic">shall prohibit the export of prepared opium to countries which now forbid, or which may hereafter forbid, the import thereof;</hi></item>
-          <item>(<hi rend="italic">c</hi>) <hi rend="italic">shall, in the meanwhile, prohibit the consignment of prepared opium to a country which desires to restrict its entry unless the exporter complies with the regulations of the importing country;</hi></item>
-          <item>(<hi rend="italic">d</hi>) <hi rend="italic">shall take measures to ensure that every package exported, containing prepared opium, bears a special mark indicating the nature of its contents;</hi></item>
-          <item>(<hi rend="italic">e</hi>) <hi rend="italic">shall not permit the export of prepared opium except by special authorised persons.</hi></item>
-        </list>
-              <p>Both import and export of prepared opium are forbidden under section 4 of the Opium Act of 1878. At no time in her history has prepared opium been exported from India.</p>
-            </div>
+            <head><hi rend="italic">Article 2.</hi></head>
+            <p><hi rend="italic">Due regard being had to the differences in their commercial conditions, the contracting Powers shall limit the number of towns, ports, or other localties through which the export or import of raw opium shall be permitted.</hi></p>
+            <p>Opium is only allowed to be exported from British India through the ports of Calcutta and Bombay.</p>
+          </div>
+          <div type="subsection" n="h2">
+            <head><hi rend="italic">Article 3.</hi></head>
+            <p><hi rend="italic">The contracting Powers shall take measures—</hi> (a) <hi rend="italic">To prevent the export of raw opium to countries which shall have prohibited its entry, and</hi> <pb xml:id="page-36" n="32" facs="https://archive.org/download/truthaboutindian00grearich/page/n35_w1400.jpg"/> (b) <hi rend="italic">To control the export of raw opium to countries which restrict its import, unless regulations on the subject are already in existence.</hi></p>
+            <p>The export of opium from India has been dealt with in Chapter V. Opium is not allowed to be exported to countries which have prohibited its import, and the Government of India would co-operate with any Government that desired to restrict its imports of Indian opium. To prevent the abuse of Indian opium, the Government of India have, in this respect, gone further than the terms of the Convention demand, by arbitrarily limiting the amount of their opium exports to a figure below the ascertained normal demands of countries which permit its import.</p>
+          </div>
+          <div type="subsection" n="h2">
+            <head><hi rend="italic">Article</hi> 4.</head>
+            <quote><p><hi rend="italic">The contracting Powers shall make regulations requiring that every package containing raw opium intended for export shall be marked in such a way as to indicate its contents, provided that the consignment exceeds</hi> 5 <hi rend="italic">kilog.</hi></p></quote>
+            <p>All chests of opium for export are packed in gunny and marked with a number, a red stripe and the words “ Benares Opium.”</p>
+          </div>
+          <div type="subsection" n="h2">
+            <head><hi rend="italic">Article</hi> 5.</head>
+            <quote><p><hi rend="italic">The contracting Powers shall not allow the import and export of raw opium except by duly authorised persons.</hi></p></quote>
+            <p>Seventy-seven per cent. of the exports are sent by the Government of India direct to Governments of importing countries. Compliance with this Article in respect of exports by private merchants is secured by notifications issued under the Opium Act of 1878.</p>
+            <p>The import of opium by post is absolutely prohibited, and import by other means is only allowed to persons properly authorised by Local Governments.</p>
+          </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head><hi rend="smallcaps">Chapter II.—Prepared Opium.</hi></head>
+          <quote><p><hi rend="italic">Definition.—By “ prepared opium ” is understood— The product of raw opium, obtained by a series of special operations, especially by dissolving, boiling, roasting and fermentation designed to transform it into an extract suitable for consumption. Prepared opium includes dross and all other residues remaining when opium has been smoked.</hi></p></quote>
+          <div type="subsection" n="h2">
+            <head><hi rend="italic">Article</hi> 6.</head>
+            <quote><p><hi rend="italic">The contracting Powers shall take measures for the gradual and effective suppression of the manufacture of, internal trade in, and use of prepared opium, with due regard to the varying circumstances of each country concerned, unless regulations on the subject are already in existence.</hi></p></quote>
+            <pb xml:id="page-37" n="33" facs="https://archive.org/download/truthaboutindian00grearich/page/n36_w1400.jpg"/>
+            <p>The measures taken by the Government of India for the gradual and effective suppression of the use of prepared opium are explained in Chapter IV. Except in Burma, manufacture is only permitted to private individuals from raw opium lawfully in their possession, and an individual may not manufacture for his own use more than eleven-fiftieths of an ounce at any one time. Burma is the only part of India where opium is habitually smoked, and there the Government of India have waged a long campaign for its suppression. Within a short period of time there will be complete prohibition of the use of opium by Burmans for other than medicinal purposes. The sale of prepared opium is prohibited throughout India.</p>
+          </div>
+          <div type="subsection" n="h2">
+            <head><hi rend="italic">Article</hi> 7.</head>
+            <quote><p><hi rend="italic">The contracting Powers shall prohibit the import and export of prepared opium; those Powers, however, which are not yet ready to prohibit immediately the export of prepared opium shall prohibit it as soon as possible.</hi></p></quote>
+          </div>
+          <div type="subsection" n="h2">
+            <head><hi rend="italic">Article</hi> 8.</head>
+            <quote><p><hi rend="italic">The contracting Powers which are not yet ready to prohibit immediately the export of prepared opium—</hi></p></quote>
+            <list>
+        <item>(<hi rend="italic">a</hi>) <hi rend="italic">shall restrict the number of towns, ports, or other localities through which prepared opium may be exported;</hi></item>
+        <item>(<hi rend="italic">b</hi>) <hi rend="italic">shall prohibit the export of prepared opium to countries which now forbid, or which may hereafter forbid, the import thereof;</hi></item>
+        <item>(<hi rend="italic">c</hi>) <hi rend="italic">shall, in the meanwhile, prohibit the consignment of prepared opium to a country which desires to restrict its entry unless the exporter complies with the regulations of the importing country;</hi></item>
+        <item>(<hi rend="italic">d</hi>) <hi rend="italic">shall take measures to ensure that every package exported, containing prepared opium, bears a special mark indicating the nature of its contents;</hi></item>
+        <item>(<hi rend="italic">e</hi>) <hi rend="italic">shall not permit the export of prepared opium except by special authorised persons.</hi></item>
+      </list>
+            <p>Both import and export of prepared opium are forbidden under section 4 of the Opium Act of 1878. At no time in her history has prepared opium been exported from India.</p>
           </div>
         </div>
         <div type="subsection" n="h1">
@@ -553,12 +553,12 @@ revenues of British India - - - - - 29</p>
           <quote><p><hi rend="italic">Raw opium which has been heated to 60° centrigade and contains not less than 10 per cent. of morphine, whether or not it be powdered or granulated, or mixed with indifferent materials.</hi></p></quote>
           <pb xml:id="page-38" n="34" facs="https://archive.org/download/truthaboutindian00grearich/page/n37_w1400.jpg"/>
           <p><hi rend="italic">By “morphine” is understood</hi>— <hi rend="italic">The principal alkaloid of opium, having the chemical formula</hi> C<hi rend="sub">17</hi> H<hi rend="sub">19</hi> NO<hi rend="sub">3</hi>. <hi rend="italic">By “cocaine” is understood</hi>— <hi rend="italic">The principal alkaloid of the leaves of erythroxylon coca. having the formula</hi> C<hi rend="sub">17</hi> H<hi rend="sub">21</hi> NO<hi rend="sub">4</hi>. <hi rend="italic">By “heroin” is understood</hi>— <hi rend="italic">Diacetyl-morphine, having the formula</hi> C<hi rend="sub">21</hi> H<hi rend="sub">23</hi> NO<hi rend="sub">5</hi>.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>Article 9.</head>
             <p><hi rend="italic">The contracting Powers shall enact pharmacy laws or regulations to confine to medical and legitimate purposes the manufacture, sale, and use of morphine, cocaine, and their respective salts unless laws or regulations on the subject are already in existence. They shall co-operate with one another to prevent the use of these drugs for any other purpose.</hi></p>
             <p>Under the rules in force in India, licensed dealers or chemists may manufacture and sell morphia drugs and cocaine, and may sell to other chemical dealers, or chemists, or to approved medical, veterinary and dental practitioners. In fact, however, no morphia is manufactured in India except at the Government factory at Ghazipur. The chemist can only sell on the prescription of an approved practitioner, and the latter may only possess morphia drugs for use in his practice. The ordinary individual may only possess morphia drugs and cocaine as issued to him on medical prescription. The Government of India, who were largely responsible for the inclusion of these drugs within the terms of the Convention, are prepared to co-operate to the fullest possible extent with other Governments to prevent their use for other than medical purposes.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>Article 10.</head>
             <p><hi rend="italic">The contracting Powers shall use their best endeavours to control, or to cause to be controlled, all persons manufacturing, importing, selling, distributing, and exporting morphine, cocaine, and their respective salts, as well as the buildings in which these persons carry on such industry or trade.</hi></p>
             <p><hi rend="italic">With this object, the contracting Parties shall use their best endeavours to adopt, or cause to be adopted, the following measures, uuless regulations on the subject are already in existence :</hi>—</p>
@@ -566,22 +566,22 @@ revenues of British India - - - - - 29</p>
             <quote><p>(c) <hi rend="italic">to require that such persons shall enter in their books the quantities manufactured, imports, sales, and all other distribution, and exports of morphine, cocaine, and their respective salts. This rule shall not necessarily apply to medical prescriptions and to sales by duly authorised chemists.</hi></p></quote>
             <p>These requirements are all fulfilled by the rules in force in India, with the following exceptions. As manufacture of morphia drugs is only carried on at the Government factory, the form of licence granted to dealers and chemists contains no reference to the premises where manufacture may be carried on. The Government of India therefore suggested to Local Governments early in 1921 that this omission should be remedied. The same position exists in respect of cocaine, but as no cocaine whatever is manufactured in India, it has not been thought necessary up to the present to make any amendments.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>Article 11.</head>
             <quote><p><hi rend="italic">The contracting Powers shall take measures to prohibit, as regards their internal trade, the delivery of morphine, cocaine, and their respective salts to any unauthorised persons, unless regulations on the subject are already in existence.</hi></p></quote>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>Article 12.</head>
             <quote><p><hi rend="italic">Due regard being had to the difference in their conditions, the contracting Powers shall use their best endeavours to restrict to authorised persons the import of morphine, cocaine, and their respective salts.</hi></p></quote>
             <p>The import by post of alkaloids of opium and cocaine is absolutely prohibited, and these drugs may not circulate through the post within India. Morphine drugs can only be imported by persons licensed to possess such drugs, and cocaine only under the authorisation of a special permit. The imports of cocaine for the year 1919–20 amounted to 172 ounces, to supply the needs of 318,000,000 people.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>Article 13.</head>
             <quote><p><hi rend="italic">The contracting Powers shall use their best endeavours to adopt, or cause to be adopted, measures to ensure that morphine, cocaine, and their respective salts shall not be exported from their countries, possessions, colonies and leased territories to the countries, possessions, colonies and leased territories of the other</hi> <pb xml:id="page-40" n="36" facs="https://archive.org/download/truthaboutindian00grearich/page/n39_w1400.jpg"/> <hi rend="italic">contracting Powers, except when consigned to persons furnished with the licences or permits provided for by the laws or regulations of the importing country.</hi></p></quote>
             <quote><p><hi rend="italic">With this object each Government may communicate from time to time to the Governments of the exporting countries lists of the persons to whom licences or permits for the import of morphine, cocaine, and their respective salts have been granted.</hi></p></quote>
             <p>The fulfilment of this Article requires the co-operation of importing countries, and the Government of India have expressed their readiness to prohibit the export of morphine and cocaine unless the consignment to be exported is covered by an import certificate granted by the Government of the importing country, to the effect that the drug is required solely for medicinal or scientific purposes. In fact, no cocaine has ever been exported from India, and morphia has only been exported in small quantities in the form of by-products obtained from waste materials at the Government factory.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>Article 14.</head>
             <quote><p><hi rend="italic">The contracting Powers shall apply the laws and regulations respecting the manufacture, import, sale, or export of morphine, cocaine, and their respective salts—</hi></p></quote>
             <quote><p>(a) <hi rend="italic">to medicinal opium;</hi></p></quote>
@@ -621,7 +621,7 @@ revenues of British India - - - - - 29</p>
     <back>
       <div xml:id="sec-10" type="backmatter" n="10-bibliography">
         <head>Bibliography</head>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head>BIBLIOGRAPHY.</head>
           <list>
       <item>Statistics of British India. Vol. II. : Financial Statistics.</item>
@@ -640,7 +640,7 @@ revenues of British India - - - - - 29</p>
       <item>Proceedings of International Conferences and of the League of Nations.</item>
       <item>Colonial Reports : Hong Kong, Ceylon, Straits Settlements and Federated Malay States.</item>
     </list>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Parliamentary Papers.</hi></head>
             <list>
         <item>C. 5660 of 1911. Agreement between the United Kingdom and China.</item>

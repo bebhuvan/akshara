@@ -1,9 +1,0 @@
-book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,1,data,,1835 to 1839,2,Yearly Average. £,"5,347,000",5347000.0,GBP,False,False
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,2,data,,1840 „ 1844,2,Yearly Average. £,"5,930,000",5930000.0,GBP,False,False
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,3,data,,1845 „ 1849,2,Yearly Average. £,"7,760,000",7760000.0,GBP,False,False
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,4,data,,1850 „ 1854,2,Yearly Average. £,"7,458,000",7458000.0,GBP,False,False
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,5,data,,1855 „ 1859,2,Yearly Average. £,"7,730,000",7730000.0,GBP,False,False
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,6,data,,1860 „ 1864,2,Yearly Average. £,"17,300,000",17300000.0,GBP,False,False
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,7,data,,1865 „ 1869,2,Yearly Average. £,"24,600,000",24600000.0,GBP,False,False
-poverty-and-un-british-rule,tbl-038,Table 38,54,34,8,data,,1870 „ 1872,2,Yearly Average. £,"27,400,000",27400000.0,GBP,False,False

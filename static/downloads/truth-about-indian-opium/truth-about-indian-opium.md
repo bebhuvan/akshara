@@ -14,7 +14,7 @@
 ### THE TRUTH ABOUT INDIAN OPIUM
 
 
-##### BY
+#### BY
 
 
 #### <span class="sc">G. Graham Dixon.</span>
@@ -35,7 +35,7 @@ Printed by <span class="sc">His Majesty's Stationery Office</span>.
 ## CONTENTS
 
 
-#### CONTENTS.
+### CONTENTS.
 
 - <span class="sc">Chapter</span> I.—The Royal Commission on Opium in India . 1
 - <span class="sc">Chapter</span> II.—The Production of Opium in India - - - 4
@@ -47,7 +47,7 @@ Printed by <span class="sc">His Majesty's Stationery Office</span>.
 Opium Problem - - - - 38
 - <span class="sc">Bibliography</span> - - - - - - 42
 
-##### <span class="sc">Tables.</span>
+#### <span class="sc">Tables.</span>
 
 - Acreage under poppy in British India and Indian States, with statistics
 of opium production - - - - - 7–8
@@ -68,10 +68,10 @@ revenues of British India - - - - - 29
 ### THE TRUTH ABOUT INDIAN OPIUM.
 
 
-#### CHAPTER I.
+### CHAPTER I.
 
 
-##### <span class="sc">The Royal Commission on Opium in India.</span>
+#### <span class="sc">The Royal Commission on Opium in India.</span>
 
 In India, apart from Burma, which will be discussed separately, opium is generally eaten in the form of pills, and in some parts it is dissolved in water and drunk. It is the ordinary domestic medicine of the people, great numbers of whom are unaccustomed to, or beyond the reach of, skilled medical treatment, and it is a medicine of which they could not be deprived without very great suffering. It is largely used in the malarial tracts as a prophylactic against fever, and is a great aid to endurance; the fisherman swallows his opium pill before entering the water, just as his European brother carries his whisky flask, and the carrier eats opium when on the march. The drug has been commonly employed for hundreds of years, and abuse of its properties is rarer than the abuse of alcohol in Western countries.[^sec-03-fn-001]
 
@@ -553,40 +553,40 @@ The preceding chapters have shown how rigidly the Government of India's practice
 The principal articles of the Convention are as follows:—
 
 
-#### <span class="sc">Chapter I.—Raw Opium.</span>
+### <span class="sc">Chapter I.—Raw Opium.</span>
 
 *Definition.—By "raw opium" is understood— The spontaneously coagulated juice obtained from the capsules of the papaver somniferum, which has only been submitted to the necessary manipulations for packing and transport.*
 
 
-##### *Article 1.*
+#### *Article 1.*
 
 *The contracting Powers shall enact effective laws or regulations for the control of the production and distribution of raw opium, unless laws or regulations on the subject are already in existence.*
 
 The laws and regulations in force in India have been described in Chapters II. and III.
 
 
-##### *Article 2.*
+#### *Article 2.*
 
 *Due regard being had to the differences in their commercial conditions, the contracting Powers shall limit the number of towns, ports, or other localties through which the export or import of raw opium shall be permitted.*
 
 Opium is only allowed to be exported from British India through the ports of Calcutta and Bombay.
 
 
-##### *Article 3.*
+#### *Article 3.*
 
 *The contracting Powers shall take measures—* (a) *To prevent the export of raw opium to countries which shall have prohibited its entry, and* [p. 32] (b) *To control the export of raw opium to countries which restrict its import, unless regulations on the subject are already in existence.*
 
 The export of opium from India has been dealt with in Chapter V. Opium is not allowed to be exported to countries which have prohibited its import, and the Government of India would co-operate with any Government that desired to restrict its imports of Indian opium. To prevent the abuse of Indian opium, the Government of India have, in this respect, gone further than the terms of the Convention demand, by arbitrarily limiting the amount of their opium exports to a figure below the ascertained normal demands of countries which permit its import.
 
 
-##### *Article* 4.
+#### *Article* 4.
 
 > *The contracting Powers shall make regulations requiring that every package containing raw opium intended for export shall be marked in such a way as to indicate its contents, provided that the consignment exceeds* 5 *kilog.*
 
 All chests of opium for export are packed in gunny and marked with a number, a red stripe and the words “ Benares Opium.”
 
 
-##### *Article* 5.
+#### *Article* 5.
 
 > *The contracting Powers shall not allow the import and export of raw opium except by duly authorised persons.*
 
@@ -595,12 +595,12 @@ Seventy-seven per cent. of the exports are sent by the Government of India direc
 The import of opium by post is absolutely prohibited, and import by other means is only allowed to persons properly authorised by Local Governments.
 
 
-#### <span class="sc">Chapter II.—Prepared Opium.</span>
+### <span class="sc">Chapter II.—Prepared Opium.</span>
 
 > *Definition.—By “ prepared opium ” is understood— The product of raw opium, obtained by a series of special operations, especially by dissolving, boiling, roasting and fermentation designed to transform it into an extract suitable for consumption. Prepared opium includes dross and all other residues remaining when opium has been smoked.*
 
 
-##### *Article* 6.
+#### *Article* 6.
 
 > *The contracting Powers shall take measures for the gradual and effective suppression of the manufacture of, internal trade in, and use of prepared opium, with due regard to the varying circumstances of each country concerned, unless regulations on the subject are already in existence.*
 
@@ -609,12 +609,12 @@ The import of opium by post is absolutely prohibited, and import by other means 
 The measures taken by the Government of India for the gradual and effective suppression of the use of prepared opium are explained in Chapter IV. Except in Burma, manufacture is only permitted to private individuals from raw opium lawfully in their possession, and an individual may not manufacture for his own use more than eleven-fiftieths of an ounce at any one time. Burma is the only part of India where opium is habitually smoked, and there the Government of India have waged a long campaign for its suppression. Within a short period of time there will be complete prohibition of the use of opium by Burmans for other than medicinal purposes. The sale of prepared opium is prohibited throughout India.
 
 
-##### *Article* 7.
+#### *Article* 7.
 
 > *The contracting Powers shall prohibit the import and export of prepared opium; those Powers, however, which are not yet ready to prohibit immediately the export of prepared opium shall prohibit it as soon as possible.*
 
 
-##### *Article* 8.
+#### *Article* 8.
 
 > *The contracting Powers which are not yet ready to prohibit immediately the export of prepared opium—*
 
@@ -637,14 +637,14 @@ Both import and export of prepared opium are forbidden under section 4 of the Op
 *By “morphine” is understood*— *The principal alkaloid of opium, having the chemical formula* C<sub>17</sub> H<sub>19</sub> NO<sub>3</sub>. *By “cocaine” is understood*— *The principal alkaloid of the leaves of erythroxylon coca. having the formula* C<sub>17</sub> H<sub>21</sub> NO<sub>4</sub>. *By “heroin” is understood*— *Diacetyl-morphine, having the formula* C<sub>21</sub> H<sub>23</sub> NO<sub>5</sub>.
 
 
-##### Article 9.
+#### Article 9.
 
 *The contracting Powers shall enact pharmacy laws or regulations to confine to medical and legitimate purposes the manufacture, sale, and use of morphine, cocaine, and their respective salts unless laws or regulations on the subject are already in existence. They shall co-operate with one another to prevent the use of these drugs for any other purpose.*
 
 Under the rules in force in India, licensed dealers or chemists may manufacture and sell morphia drugs and cocaine, and may sell to other chemical dealers, or chemists, or to approved medical, veterinary and dental practitioners. In fact, however, no morphia is manufactured in India except at the Government factory at Ghazipur. The chemist can only sell on the prescription of an approved practitioner, and the latter may only possess morphia drugs for use in his practice. The ordinary individual may only possess morphia drugs and cocaine as issued to him on medical prescription. The Government of India, who were largely responsible for the inclusion of these drugs within the terms of the Convention, are prepared to co-operate to the fullest possible extent with other Governments to prevent their use for other than medical purposes.
 
 
-##### Article 10.
+#### Article 10.
 
 *The contracting Powers shall use their best endeavours to control, or to cause to be controlled, all persons manufacturing, importing, selling, distributing, and exporting morphine, cocaine, and their respective salts, as well as the buildings in which these persons carry on such industry or trade.*
 
@@ -657,19 +657,19 @@ Under the rules in force in India, licensed dealers or chemists may manufacture 
 These requirements are all fulfilled by the rules in force in India, with the following exceptions. As manufacture of morphia drugs is only carried on at the Government factory, the form of licence granted to dealers and chemists contains no reference to the premises where manufacture may be carried on. The Government of India therefore suggested to Local Governments early in 1921 that this omission should be remedied. The same position exists in respect of cocaine, but as no cocaine whatever is manufactured in India, it has not been thought necessary up to the present to make any amendments.
 
 
-##### Article 11.
+#### Article 11.
 
 > *The contracting Powers shall take measures to prohibit, as regards their internal trade, the delivery of morphine, cocaine, and their respective salts to any unauthorised persons, unless regulations on the subject are already in existence.*
 
 
-##### Article 12.
+#### Article 12.
 
 > *Due regard being had to the difference in their conditions, the contracting Powers shall use their best endeavours to restrict to authorised persons the import of morphine, cocaine, and their respective salts.*
 
 The import by post of alkaloids of opium and cocaine is absolutely prohibited, and these drugs may not circulate through the post within India. Morphine drugs can only be imported by persons licensed to possess such drugs, and cocaine only under the authorisation of a special permit. The imports of cocaine for the year 1919–20 amounted to 172 ounces, to supply the needs of 318,000,000 people.
 
 
-##### Article 13.
+#### Article 13.
 
 > *The contracting Powers shall use their best endeavours to adopt, or cause to be adopted, measures to ensure that morphine, cocaine, and their respective salts shall not be exported from their countries, possessions, colonies and leased territories to the countries, possessions, colonies and leased territories of the other* [p. 36] *contracting Powers, except when consigned to persons furnished with the licences or permits provided for by the laws or regulations of the importing country.*
 
@@ -678,7 +678,7 @@ The import by post of alkaloids of opium and cocaine is absolutely prohibited, a
 The fulfilment of this Article requires the co-operation of importing countries, and the Government of India have expressed their readiness to prohibit the export of morphine and cocaine unless the consignment to be exported is covered by an import certificate granted by the Government of the importing country, to the effect that the drug is required solely for medicinal or scientific purposes. In fact, no cocaine has ever been exported from India, and morphia has only been exported in small quantities in the form of by-products obtained from waste materials at the Government factory.
 
 
-##### Article 14.
+#### Article 14.
 
 > *The contracting Powers shall apply the laws and regulations respecting the manufacture, import, sale, or export of morphine, cocaine, and their respective salts—*
 
@@ -737,7 +737,7 @@ China produces seven times as much opium as India; Persia exports 30 per cent. m
 ## Bibliography
 
 
-#### BIBLIOGRAPHY.
+### BIBLIOGRAPHY.
 
 - Statistics of British India. Vol. II. : Financial Statistics.
 - Annual Statement of the Sea-borne Trade of British India. Vol. I.
@@ -754,7 +754,7 @@ China produces seven times as much opium as India; Persia exports 30 per cent. m
 - Proceedings of International Conferences and of the League of Nations.
 - Colonial Reports : Hong Kong, Ceylon, Straits Settlements and Federated Malay States.
 
-##### <span class="sc">Parliamentary Papers.</span>
+#### <span class="sc">Parliamentary Papers.</span>
 
 - C. 5660 of 1911. Agreement between the United Kingdom and China.
 - C. 7052 of 1914. Agreement between the United Kingdom and Portugal for the regulation of the opium monopolies in the Colonies of Hong Kong and Macao.

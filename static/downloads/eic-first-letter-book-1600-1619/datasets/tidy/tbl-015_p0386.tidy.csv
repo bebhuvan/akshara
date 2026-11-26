@@ -1,0 +1,281 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,1,data,,Sr Thomas,2,Column 2,Smyth .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,1,data,,Sr Thomas,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,1,data,,Sr Thomas,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,1,data,,Sr Thomas,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,1,data,,Sr Thomas,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,2,data,,William,2,Column 2,Greenwell .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,2,data,,William,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,2,data,,William,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,2,data,,William,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,2,data,,William,6,Column 6,616 . 13. 4d,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,3,data,,Sr William,2,Column 2,Romeney .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,3,data,,Sr William,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,3,data,,Sr William,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,3,data,,Sr William,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,3,data,,Sr William,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,4,data,,Thomas,2,Column 2,Symonde .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,4,data,,Thomas,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,4,data,,Thomas,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,4,data,,Thomas,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,4,data,,Thomas,6,Column 6,500 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,5,data,,To mr William,2,Column 2,Cockaine .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,5,data,,To mr William,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,5,data,,To mr William,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,5,data,,To mr William,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,5,data,,To mr William,6,Column 6,700 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,6,data,,Robert,2,Column 2,Sandie .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,6,data,,Robert,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,6,data,,Robert,4,Column 4,",",,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,6,data,,Robert,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,6,data,,Robert,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,7,data,,Oliver,2,Column 2,Stile .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,7,data,,Oliver,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,7,data,,Oliver,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,7,data,,Oliver,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,7,data,,Oliver,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,8,data,,Iohn,2,Column 2,Eldred .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,8,data,,Iohn,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,8,data,,Iohn,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,8,data,,Iohn,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,8,data,,Iohn,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,9,data,,Richard,2,Column 2,Humble .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,9,data,,Richard,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,9,data,,Richard,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,9,data,,Richard,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,9,data,,Richard,6,Column 6,600 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,10,data,,William,2,Column 2,fferrers .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,10,data,,William,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,10,data,,William,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,10,data,,William,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,10,data,,William,6,Column 6,660 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,11,data,,Humfrey,2,Column 2,Basse .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,11,data,,Humfrey,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,11,data,,Humfrey,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,11,data,,Humfrey,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,11,data,,Humfrey,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,12,data,,Robert,2,Column 2,Brooke .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,12,data,,Robert,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,12,data,,Robert,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,12,data,,Robert,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,12,data,,Robert,6,Column 6,700 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,13,data,,Thomas,2,Column 2,ffarrington .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,13,data,,Thomas,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,13,data,,Thomas,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,13,data,,Thomas,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,13,data,,Thomas,6,Column 6,700 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,14,data,,Raphe,2,Column 2,ffreeman .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,14,data,,Raphe,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,14,data,,Raphe,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,14,data,,Raphe,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,14,data,,Raphe,6,Column 6,600 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,15,data,,Martyn,2,Column 2,ffreeman .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,15,data,,Martyn,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,15,data,,Martyn,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,15,data,,Martyn,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,15,data,,Martyn,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,16,data,,Robert,2,Column 2,Iohnson .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,16,data,,Robert,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,16,data,,Robert,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,16,data,,Robert,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,16,data,,Robert,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,17,data,,Robert,2,Column 2,Chilcott .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,17,data,,Robert,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,17,data,,Robert,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,17,data,,Robert,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,17,data,,Robert,6,Column 6,650 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,18,data,,Thomas,2,Column 2,Stylle .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,18,data,,Thomas,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,18,data,,Thomas,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,18,data,,Thomas,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,18,data,,Thomas,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,19,data,,Robert,2,Column 2,Bell .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,19,data,,Robert,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,19,data,,Robert,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,19,data,,Robert,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,19,data,,Robert,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,20,data,,To mr Iohn,2,Column 2,Busbridge .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,20,data,,To mr Iohn,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,20,data,,To mr Iohn,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,20,data,,To mr Iohn,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,20,data,,To mr Iohn,6,Column 6,650 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,21,data,,Richard,2,Column 2,Burrell .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,21,data,,Richard,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,21,data,,Richard,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,21,data,,Richard,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,21,data,,Richard,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,22,data,,Richard,2,Column 2,Gossen .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,22,data,,Richard,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,22,data,,Richard,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,22,data,,Richard,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,22,data,,Richard,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,23,data,,Iohn,2,Column 2,Highlord .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,23,data,,Iohn,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,23,data,,Iohn,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,23,data,,Iohn,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,23,data,,Iohn,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,24,data,,William,2,Column 2,Cater .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,24,data,,William,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,24,data,,William,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,24,data,,William,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,24,data,,William,6,Column 6,660 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,25,data,,William,2,Column 2,Berblocke .,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,25,data,,William,3,Column 3,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,25,data,,William,4,Column 4,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,25,data,,William,5,Column 5,.,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,386,294,25,data,,William,6,Column 6,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,26,data,,William,2,Column 2,Millett,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,26,data,,William,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,26,data,,William,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,26,data,,William,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,26,data,,William,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,27,data,,Christopher,2,Column 2,Nicholls,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,27,data,,Christopher,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,27,data,,Christopher,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,27,data,,Christopher,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,27,data,,Christopher,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,28,data,,Richard,2,Column 2,Pointell,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,28,data,,Richard,3,Column 3,600 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,28,data,,Richard,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,28,data,,Richard,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,28,data,,Richard,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,29,data,,Raphe,2,Column 2,Hamo,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,29,data,,Raphe,3,Column 3,700 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,29,data,,Raphe,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,29,data,,Raphe,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,29,data,,Raphe,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,30,data,,Thomas,2,Column 2,Henshawe,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,30,data,,Thomas,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,30,data,,Thomas,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,30,data,,Thomas,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,30,data,,Thomas,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,31,data,,Henry,2,Column 2,Robinson,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,31,data,,Henry,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,31,data,,Henry,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,31,data,,Henry,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,31,data,,Henry,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,32,data,,Humfrey,2,Column 2,Robinson,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,32,data,,Humfrey,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,32,data,,Humfrey,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,32,data,,Humfrey,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,32,data,,Humfrey,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,33,data,,Richard,2,Column 2,Ironside,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,33,data,,Richard,3,Column 3,600 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,33,data,,Richard,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,33,data,,Richard,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,33,data,,Richard,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,34,data,,Robert,2,Column 2,Robinson,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,34,data,,Robert,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,34,data,,Robert,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,34,data,,Robert,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,34,data,,Robert,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,35,data,,Thomas,2,Column 2,Westrowe,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,35,data,,Thomas,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,35,data,,Thomas,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,35,data,,Thomas,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,35,data,,Thomas,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,36,data,,Richard,2,Column 2,Maplesden,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,36,data,,Richard,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,36,data,,Richard,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,36,data,,Richard,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,36,data,,Richard,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,37,data,,Edward,2,Column 2,Allen,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,37,data,,Edward,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,37,data,,Edward,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,37,data,,Edward,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,37,data,,Edward,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,38,data,,Iohn,2,Column 2,Bancke,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,38,data,,Iohn,3,Column 3,600 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,38,data,,Iohn,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,38,data,,Iohn,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,38,data,,Iohn,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,39,data,,Richard,2,Column 2,Beale,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,39,data,,Richard,3,Column 3,600 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,39,data,,Richard,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,39,data,,Richard,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,39,data,,Richard,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,40,data,,Roger,2,Column 2,Dye,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,40,data,,Roger,3,Column 3,550 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,40,data,,Roger,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,40,data,,Roger,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,40,data,,Roger,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,41,data,,Ieofferey,2,Column 2,Kirbie,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,41,data,,Ieofferey,3,Column 3,660 . 0 . 0,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,41,data,,Ieofferey,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,41,data,,Ieofferey,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,41,data,,Ieofferey,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,42,data,,Humfrey,2,Column 2,Smythe,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,42,data,,Humfrey,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,42,data,,Humfrey,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,42,data,,Humfrey,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,42,data,,Humfrey,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,43,data,,Thomas,2,Column 2,White,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,43,data,,Thomas,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,43,data,,Thomas,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,43,data,,Thomas,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,43,data,,Thomas,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,44,data,,Richard,2,Column 2,Stratford,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,44,data,,Richard,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,44,data,,Richard,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,44,data,,Richard,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,44,data,,Richard,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,45,data,,William,2,Column 2,Bonham,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,45,data,,William,3,Column 3,860 . 0 .,860.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,45,data,,William,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,45,data,,William,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,45,data,,William,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,46,data,,Richard,2,Column 2,Deane,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,46,data,,Richard,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,46,data,,Richard,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,46,data,,Richard,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,46,data,,Richard,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,47,data,,Edward,2,Column 2,Lutterforde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,47,data,,Edward,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,47,data,,Edward,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,47,data,,Edward,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,47,data,,Edward,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,48,data,,Henry,2,Column 2,Bridgman,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,48,data,,Henry,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,48,data,,Henry,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,48,data,,Henry,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,48,data,,Henry,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,49,data,,George,2,Column 2,Bennett,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,49,data,,George,3,Column 3,675 . 0 .,675.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,49,data,,George,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,49,data,,George,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,49,data,,George,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,50,data,,Thomas,2,Column 2,Whiteley,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,50,data,,Thomas,3,Column 3,660 . 0 .,660.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,50,data,,Thomas,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,50,data,,Thomas,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,50,data,,Thomas,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,51,data,,Thomas,2,Column 2,Cutlar,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,51,data,,Thomas,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,51,data,,Thomas,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,51,data,,Thomas,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,51,data,,Thomas,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,52,data,,William,2,Column 2,Compton,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,52,data,,William,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,52,data,,William,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,52,data,,William,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,52,data,,William,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,53,data,,Stephen,2,Column 2,Harvey,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,53,data,,Stephen,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,53,data,,Stephen,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,53,data,,Stephen,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,53,data,,Stephen,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,54,data,,The lo :,2,Column 2,Cavendishe,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,54,data,,The lo :,3,Column 3,600 . 0 .,600.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,54,data,,The lo :,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,54,data,,The lo :,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,54,data,,The lo :,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,55,data,,Roger,2,Column 2,Clarke,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,55,data,,Roger,3,Column 3,550 . 0 .,550.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,55,data,,Roger,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,55,data,,Roger,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,55,data,,Roger,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,56,data,,Iohn S,2,Column 2,Andrew,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,56,data,,Iohn S,3,Column 3,200 . 0 .,200.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,56,data,,Iohn S,4,Column 4,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,56,data,,Iohn S,5,Column 5,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,387,294,56,data,,Iohn S,6,Column 6,,,,True,False

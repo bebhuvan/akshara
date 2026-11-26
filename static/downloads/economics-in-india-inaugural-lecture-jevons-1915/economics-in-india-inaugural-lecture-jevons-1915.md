@@ -13,9 +13,7 @@
 
 #### INAUGURAL LECTURE
 
-BY
-
-H. STANLEY JEVONS, M.A., F.S.S.
+BY H. STANLEY JEVONS, M.A., F.S.S.
 
 *University Professor of Economics*
 
@@ -41,9 +39,7 @@ BY THE PIONEER PRESS, ALLAHABAD
 
 #### INAUGURAL LECTURE
 
-BY
-
-H. STANLEY JEVONS, M.A., F.S.S. *University Professor of Economics*
+BY H. STANLEY JEVONS, M.A., F.S.S. *University Professor of Economics*
 
 PUBLISHED FOR
 THE UNIVERSITY OF ALLAHABAD

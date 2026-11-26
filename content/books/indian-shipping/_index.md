@@ -1,6 +1,6 @@
 ---
 title: "Indian Shipping"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: "A History of the Sea-Borne Trade and Maritime Activity of the Indians from the Earliest Times. With an Introductory Note by Brajendranath Seal"
 author: "Radhakumud Mookerji"
 author_slug: "radhakumud-mookerji"
@@ -166,6 +166,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (77 flyleaf/stamp block(s)) are excluded from reading prose; **145** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **7** cross-page split footnotes and **2** multi-page tables were stitched; and **398** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (136 distinct non-ASCII characters across 159 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**322** places); **88** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

@@ -127,16 +127,12 @@ Others of these tribes, more daring, by long marches, and through many generatio
 
 From the names of the rivers mentioned in their hymns it is clear that about the time that they were composed, the chief settlements of the Aryans in India were in the neighbourhood of the Sindhu, the modern Indus, a river which after receiving the waters of its tributaries is so wide that people on one bank cannot see the opposite bank. The Himalayas would prevent them from turning towards the north, and it is thus clear that before they crossed the Yamuna, the modern Jumna, and made their way to the Ganges, the Aryans dwelt mainly in East Kabulistan and the Panjab. The Saraswati was their southern boundary during that period.
 
-As to other races that were in the land there is little information in the hymns of the Aryans and the science of ethnology has to help us. From it we learn that before the Aryans came India was sparsely peopled by some of the races that are now often called ‘jungle tribes’. Among them the majority would be Dravidians. The Gonds, Bhīls and Santāls are modern
-
-
-<!-- page: 17 | folio: 5 -->
-
-![Map of India in the Vedic and Epic Age, about B.C. 1500–1000, showing rivers, regions, and Lanka, published by the Christian Literature Society.](../figures/fig-001_p0017.webp)
-
 > _[Margin: **The Dasyus**]_
 
-survivors of those races. Some were very humble in the scale of humanity burying their dead in the cells made of stone-slabs, called *Kistvaens* by scientists and ‘Pāṇḍava vīdu’—the houses of the Pāṇḍava brothers when in exile—by the Tamil people of the south to this day. Those in the south were never so subject to the Aryans as the tribes of the north and grew into the [p. 6] powerful and civilized Tamil and Telugu nations, but there is no hint of this in the Rig-veda. There these aborigines are named ‘Dasyu’ ‘destroyers’ or ‘Dāsa’, or ‘injurious’. Their skins were much darker than those of the Aryans and so they were stigmatized as ‘black’ or ‘black-skins’. From the shape of their broad noses they were called ‘goat-nosed’. They possessed herds, they had strongholds called ‘pur’. Those who were captured were made slaves, and the very word ‘*dāsa*’ came to mean ‘slave’ in later Sanskrit and cognate languages. The references to their religion describe them as offering no sacrifices, being unbelievers in the gods of the Aryans, and thus grievously impious. There are two passages in which they are called *śiśna-devah*, ‘whose god is the phallus’ (*Rig-veda* vii. 21. 5; x. 99. 3), and it will be remembered that the phallus, as the linga, came to be the chief symbol of the god Siva in later Hinduism.[^sec-04-fn-002]
+As to other races that were in the land there is little information in the hymns of the Aryans and the science of ethnology has to help us. From it we learn that before the Aryans came India was sparsely peopled by some of the races that are now often called ‘jungle tribes’. Among them the majority would be Dravidians. The Gonds, Bhīls and Santāls are modern [p. 5] survivors of those races. Some were very humble in the scale of humanity burying their dead in the cells made of stone-slabs, called *Kistvaens* by scientists and ‘Pāṇḍava vīdu’—the houses of the Pāṇḍava brothers when in exile—by the Tamil people of the south to this day. Those in the south were never so subject to the Aryans as the tribes of the north and grew into the [p. 6] powerful and civilized Tamil and Telugu nations, but there is no hint of this in the Rig-veda. There these aborigines are named ‘Dasyu’ ‘destroyers’ or ‘Dāsa’, or ‘injurious’. Their skins were much darker than those of the Aryans and so they were stigmatized as ‘black’ or ‘black-skins’. From the shape of their broad noses they were called ‘goat-nosed’. They possessed herds, they had strongholds called ‘pur’. Those who were captured were made slaves, and the very word ‘*dāsa*’ came to mean ‘slave’ in later Sanskrit and cognate languages. The references to their religion describe them as offering no sacrifices, being unbelievers in the gods of the Aryans, and thus grievously impious. There are two passages in which they are called *śiśna-devah*, ‘whose god is the phallus’ (*Rig-veda* vii. 21. 5; x. 99. 3), and it will be remembered that the phallus, as the linga, came to be the chief symbol of the god Siva in later Hinduism.[^sec-04-fn-002]
+
+
+![Map of India in the Vedic and Epic Age, about B.C. 1500–1000, showing rivers, regions, and Lanka, published by the Christian Literature Society.](../figures/fig-001_p0017.webp)
 
 From the first these Dasyus were the enemies of the Aryans, but their demon worship greatly affected the Aryans, especially in the simpler domestic religion that has always been that of the ordinary folk.
 
@@ -2307,7 +2303,7 @@ The commentator Sāyaṇa says that Vāmadeva had by much praise got Indra into 
 The charms and magic formulae in the Atharva-veda are expressions of the same paralysing belief, but it is found in the period before the Atharva-veda also. From the earliest days there had always been present in the mind of the Aryan a firm belief in demons; and while the high aspirations of a few singers were fixed on Varuṇa, the many, especially as they came in contact with the Dravidians who seemed to worship the devils that the Aryans feared, were more and more inclined to forms of faith and worship which seemed to them to guarantee, protection and welfare that they longed for while conscious of the malice and power of the demon hosts. And this belief has persisted in the magic practices of the Dravidians of Malabar and in the black magic of the Tantras.
 
 
-##### **3. Monistic ideas**
+#### **3. Monistic ideas**
 
 If modern processes of thought held good in the minds of the ancient Aryans there must always have been men among them who did not accept the established conceptions of those around them. There are Protestants in the most conservative communities and from the Puruṣa sūkta[^sec-10-fn-006] it is certain that in later Vedic times there were those who had [p. 165] begun to give a monistic interpretation to the universe. The idea of the ancient human sacrifice supplies the almost repellent framework and the imagery of this hymn, and the attempts to link the older mythology to the more developed ideas is awkward, but the general conception of the One that is the All is definite in the poet’s mind and is forcibly put. The full import can only be grasped if it is quoted in full.
 
@@ -2417,45 +2413,45 @@ The same idea appears in the remarkable hymn in which Prajāpati is declared the
 
 
 <!-- page: 180 | folio: 168 -->
-> 5. By him the heavens are strong and earth is\n  
-> steadfast, by him light’s realm and sky-vault are\n  
-> supported :\n  
-> By him the regions in mid-air were measured.\n  
+> 5. By him the heavens are strong and earth is  
+> steadfast, by him light’s realm and sky-vault are  
+> supported :  
+> By him the regions in mid-air were measured.  
 > What god shall we adore with our oblations ?
 
-> 6. To him, supported by his help, two armies\n  
-> embattled look while trembling in their spirit,\n  
-> When over them the risen sun is shining.\n  
+> 6. To him, supported by his help, two armies  
+> embattled look while trembling in their spirit,  
+> When over them the risen sun is shining.  
 > What god shall we adore with our oblation ?
 
-> 7. What time the mighty waters came, containing\n  
-> the universal germ, producing Agni,\n  
-> Thence sprang the gods’ one spirit into being.\n  
+> 7. What time the mighty waters came, containing  
+> the universal germ, producing Agni,  
+> Thence sprang the gods’ one spirit into being.  
 > What god shall we adore with our oblation ?
 
-> 8. He in his might surveyed the floods containing\n  
-> productive force and generating Worship (or, giving\n  
-> birth to sacrifice).\n  
-> He is the god of gods, and none beside him.\n  
+> 8. He in his might surveyed the floods containing  
+> productive force and generating Worship (or, giving  
+> birth to sacrifice).  
+> He is the god of gods, and none beside him.  
 > What god shall we adore with our oblation ?
 
-> 9. Ne’er may he harm us who is earth’s begetter,\n  
-> nor he whose laws are sure, the heaven’s creator,\n  
-> He who brought forth the great and lucid\n  
+> 9. Ne’er may he harm us who is earth’s begetter,  
+> nor he whose laws are sure, the heaven’s creator,  
+> He who brought forth the great and lucid  
 > waters. What god shall we adore with our oblation ?
 
-> 10. Prajāpati ! thou only comprehendest all these\n  
-> created things, and none beside thee.\n  
-> Grant us our hearts’ desire when we invoke\n  
+> 10. Prajāpati ! thou only comprehendest all these  
+> created things, and none beside thee.  
+> Grant us our hearts’ desire when we invoke  
 > thee : may we have store of riches in possession.
 
 *Hymn to Ka. Rig-veda,* x. 121.
 
-If this hymn is an uncertain rather than a reasoned\n presentation of monism, it at any rate contains founda-\n tion enough to justify later Vedantism in attempting to\n read its own teaching into the Vedas.
+If this hymn is an uncertain rather than a reasoned presentation of monism, it at any rate contains foundation enough to justify later Vedantism in attempting to read its own teaching into the Vedas.
 
-> _[Margin: **The legacy of the\nAryan religion**]_
+> _[Margin: **The legacy of the Aryan religion**]_
 
-From all that has been said it will be clear that the\n religion of the Vedas, like every other living religion, con-\n tained various and even contrary modes\n of thought and expression, and repre-\n sented the worship of more than one type [p. 169] of believer. And just as it is not easy to define the precise contents of these various types of faith, so it is not less difficult to state exactly what legacy the religion of the Aryans bequeathed to the later ceremonial religion that flourished in India before Buddhism arose. But the present study indicates the following as the main results which the religion of Vedic times transmitted to the succeeding ages.
+From all that has been said it will be clear that the religion of the Vedas, like every other living religion, contained various and even contrary modes of thought and expression, and represented the worship of more than one type [p. 169] of believer. And just as it is not easy to define the precise contents of these various types of faith, so it is not less difficult to state exactly what legacy the religion of the Aryans bequeathed to the later ceremonial religion that flourished in India before Buddhism arose. But the present study indicates the following as the main results which the religion of Vedic times transmitted to the succeeding ages.
 
 (i) Hinduism received from Vedic times a pantheon of gods and goddesses, of very various and sometimes of very doubtful moral character, generally benevolent, but not always so; and generally apparently regardless of the moral conduct of those who worshipped them, provided the worship was duly rendered. In this is the beginning of the vast, confused, anthropomorphic and sometimes utterly vile mythology of some of the Puranas.
 
@@ -3285,12 +3281,12 @@ Aśvins, bestow on us a glorious heritage and give our princes treasure fair as 
 > 6. The daughter of the Sun[^sec-11-fn-027] by means of this eternal fleece makes pure  
 > Thy Soma that is gushing forth,
 
-> 7. Ten sister maids[^sec-11-fn-030] of slender form seize him  
+> 7. Ten sister maids[^sec-11-fn-028] of slender form seize him  
 > amid the press and hold  
 > Him firmly on the final day.
 
-> 8. The virgins[^sec-11-fn-028] send him forth: they blow the  
-> skin[^sec-11-fn-031] musician-like, and fuse  
+> 8. The virgins[^sec-11-fn-029] send him forth: they blow the  
+> skin[^sec-11-fn-030] musician-like, and fuse  
 > The triple foe-repelling meath.
 
 > 9. The inviolable milch-kine round about him  
@@ -3309,7 +3305,7 @@ Aśvins, bestow on us a glorious heritage and give our princes treasure fair as 
 > 1. We all have various thoughts and plans, and  
 > diverse are the ways of men.  
 > The priest (Brahman) seeks one who pours the  
-> juice,[^sec-11-fn-029] wright[^sec-11-fn-032] seeks the cracked, and leech the maimed. Flow, Indu, flow for Indra’s sake.
+> juice,[^sec-11-fn-031] wright[^sec-11-fn-032] seeks the cracked, and leech the maimed. Flow, Indu, flow for Indra’s sake.
 
 > 2. The smith with ripe and seasoned plants,[^sec-11-fn-033] with  
 > feathers of the birds of air,
@@ -3469,7 +3465,7 @@ Aśvins, bestow on us a glorious heritage and give our princes treasure fair as 
 > and Varuṇa, let us be thine own beloved.
 
 
-### Book x. Hymn 124. <span class="sc">The Passing of Varuna</span>
+#### Book x. Hymn 124. <span class="sc">The Passing of Varuna</span>
 
 [This hymn is remarkable as indicating the passing of Varuṇa out of the popular religion and the exaltation of Indra.]
 
@@ -4047,7 +4043,7 @@ I. 113.
 
 <!-- page: 224 | folio: 212 -->
 
-### Book x. Hymn 15. <span class="sc">The Fathers</span>
+#### Book x. Hymn 15. <span class="sc">The Fathers</span>
 
 [This hymn is said to have been composed by Śankha, son of Yama. It is the only one specially addressed to the Pitṛis. Offerings are made to them, of which they are invited to partake, and blessings are solicited.]
 
@@ -5052,7 +5048,7 @@ As already mentioned, the Sāma-veda consists largely of extracts from the Rig-v
 A verse from the ordinary matter of the book will justify the above statement.
 
 
-##### *White Yajur-veda.* Book v. Verse 12
+#### *White Yajur-veda.* Book v. Verse 12
 
 > Thou[^sec-11-fn-141] art a lioness. All hail. Thou art a lioness  
 > winning Ādityas. All-hail.  
@@ -5285,10 +5281,10 @@ A verse from the ordinary matter of the book will justify the above statement.
 [^sec-11-fn-025]: (3) Used in pressing soma-juice from the soma-plant.
 [^sec-11-fn-026]: (1) Soma falling from the strainer in drops.
 [^sec-11-fn-027]: (2) Śraddhā or Faith personified.
-[^sec-11-fn-028]: (4) The fingers.
-[^sec-11-fn-029]: (6) Who offers libations.
-[^sec-11-fn-030]: (3) The priest’s fingers.
-[^sec-11-fn-031]: (5) Some sort of bag-pipe.
+[^sec-11-fn-028]: (3) The priest’s fingers.
+[^sec-11-fn-029]: (4) The fingers.
+[^sec-11-fn-030]: (5) Some sort of bag-pipe.
+[^sec-11-fn-031]: (6) Who offers libations.
 [^sec-11-fn-032]: (7) Carpenter.
 [^sec-11-fn-033]: (8) Reeds to be made into arrows.
 [^sec-11-fn-034]: (1) Dad, *tataḥ*: originally a child’s word.
@@ -6163,30 +6159,8 @@ Book XL is a sort of Upanishad not connected directly with any sacrifice.
 - hymn to quoted, 180.
 - Aśvamedha sacrifice, 118-121.
 - *Atharvāṅgirasaḥ*, 26.
-- Atharva-veda
-- analysis of, 274
-- hymn to drum, 6
-- editions and translations, 23ff
-- composition, character and
-- date, 30ff
-- vaidikas, 43
-- on power of priest, 107
-- on power of mantra, 164
-- passages quoted
-- ii. 17 1-7 240.
-- iii. 15 1-8 242.
-- iii. 19 1-5 108.
-- iv. 16 1-5 64.
-- v. 22 1 etc. 239.
-- vi. 130 1-4 242.
-- x. 7 20 251.
-- xi. 7 24 252.
-- xii. 5 5-73 241.
-- xiii. 3 3 61.
-- xiii. 4 38 252.
-- xviii. 2 2 101.
-- — 2 2 102.
-- xix. 54 3 252.
+- Atharva-veda analysis of, 274 hymn to drum, 6 editions and translations, 23ff composition, character and date, 30ff vaidikas, 43 on power of priest, 107 on power of mantra, 164 passages quoted ii. 17 1-7 240. iii. 15 1-8 242. iii. 19 1-5 108. iv. 16 1-5 64. v. 22 1 etc. 239. vi. 130 1-4 242. x. 7 20 251. xi. 7 24 252. xii. 5 5-73 241. xiii. 3 3 61. xiii. 4 38 252. xviii. 2 2 101.
+  - — 2 2 102. xix. 54 3 252.
 - Atri, 225.
 - Avesta, 3, 264.
 
@@ -6384,7 +6358,8 @@ Book XL is a sort of Upanishad not connected directly with any sacrifice.
 - devas, 52; ‘the bright ones’, 53
 - number of, 53
 - dual gods, 54
-- collective, 55 origin of, 55
+- collective, 55
+- origin of, 55
 - immortality of, 55
 - appearance, 56
 - character, 56

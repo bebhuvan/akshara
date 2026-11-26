@@ -1,6 +1,6 @@
 ---
 title: "Indian Famines, Their Causes and Prevention"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: ""
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -15,7 +15,7 @@ chapters: 4
 footnotes_count: 0
 tables_count: 3
 figures_count: 0
-reading_time: "~35 min"
+reading_time: "~34 min"
 type: "books"
 layout: "book"
 collection_slug: "indian-economic-history"
@@ -126,6 +126,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (15 flyleaf/stamp block(s)) are excluded from reading prose; **8** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **57** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (1 distinct non-ASCII characters across 2 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**33** places); **34** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

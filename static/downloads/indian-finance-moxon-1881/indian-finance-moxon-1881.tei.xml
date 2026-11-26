@@ -23,7 +23,7 @@
         <idno type="book_id">indian-finance-moxon-1881</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -63,7 +63,7 @@
       <div xml:id="sec-01" type="frontmatter" n="01-frontmatter">
         <head>Frontmatter</head>
         <pb xml:id="page-3" n="3" facs="https://archive.org/download/indianfinance00moxorich/page/n2_w1400.jpg"/>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head>Manchester Statistical Society.</head>
         </div>
       </div>
@@ -73,8 +73,7 @@
         <head>INDIAN FINANCE.</head>
         <div type="subsection" n="h1">
           <head>INDIAN FINANCE.</head>
-          <p>BY</p>
-          <p>MR. THOMAS B. MOXON.</p>
+          <p>BY MR. THOMAS B. MOXON.</p>
           <p>[<hi rend="smallcaps">Read January</hi> 12<hi rend="smallcaps">th</hi>, 1881.]</p>
           <p rend="imprint">JOHN HEYWOOD, EXCELSIOR BUILDINGS, RIDGEFIELD, MANCHESTER;
 AND 11, PATERNOSTER BUILDINGS, LONDON, E.C.</p>
@@ -140,7 +139,7 @@ AND 11, PATERNOSTER BUILDINGS, LONDON, E.C.</p>
             <p>Deducting this total we arrive at a Net Revenue of £45,369,356, as in the following statement, based upon the Government form of <pb xml:id="page-12" n="8" facs="https://archive.org/download/indianfinance00moxorich/page/n11_w1400.jpg"/> accounts, but although this form is adopted in some official Returns, we fail to see the reason why the Cost of Collecting Revenue should be included in the deductions. Such a deduction tends to mislead us in estimating the total taxation of the country, though it enables us to see what is the net amount contributed by each tax towards the general revenue.</p>
             <p>We should prefer to look at the other side of the accounts, where we find a Total Net Expenditure of £42,619,705 (the Provincial and Local Balances are items allotted for expenditure but not expended), and add to this total the Cost of Collecting the Revenue, giving a true Expenditure for the year of £49,061,037.</p>
             <table xml:id="tbl-003" rows="16" cols="4">
-        <head><hi rend="italic">Based on Government Form of Accounts.</hi></head>
+        <head>STATEMENT OF REVENUE, 1878-9. — <hi rend="italic">Based on Government Form of Accounts.</hi></head>
         <row role="label"><cell role="label">Sources.</cell><cell role="label">Gross.</cell><cell role="label">Expenses of Collection, &amp;c.</cell><cell role="label">Net.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">£</cell><cell role="label">£</cell><cell role="label">£</cell></row>
         <row role="data"><cell>Land Revenue, less refunds</cell><cell rend="num">22,278,421</cell><cell rend="num">2,966,489</cell><cell rend="num">19,311,932</cell></row>

@@ -1,15 +1,97 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,1,data,,1787-88 1788-89 1789-90 1790-91 1791-92 1792-93 1793-94 1794-95 1795-96 1796-97 1797-98 1798-99 1799-1800 1800-1 1801-2 1802-3 1803-4 1804-5 1805 6 1806-7 1807-8 1808-9 1809-10 1810-11 1811-12 1812-13 1813-14 1814-15 1815-16 1816-17 1817-18 1818-19 1819-20 1820-21 1821-22 1822-23 1823-24 1824-25 1825-26 1826-27 1827-28 1828-29,2,Charges of India.,"£ 5,275,000 5,599,000 5,898,000 5,678,000 5,845,000 6,317,000 6,639,000 6,503,000 7,012,000 7,641,000 8,254,000 9,786,000 10,111,000 11,653,000 12,547,000 12,594,000 15,052,000 15,000,000 15,000,000 15,000,000 15,000,000 15,000,000 15,000,000 15,000,000 15,000,000 15,333,000 15,340,000 15,887,000 16,858,000 17,025,000 17,763,000 19,404.000 19,183,000 19,590,000 19,648,000 20,055,000 21,046,000 22,086,000 24,057,000 23,323,000 23.932,000 21,594,000",,GBP,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,1,data,,1787-88 1788-89 1789-90 1790-91 1791-92 1792-93 1793-94 1794-95 1795-96 1796-97 1797-98 1798-99 1799-1800 1800-1 1801-2 1802-3 1803-4 1804-5 1805 6 1806-7 1807-8 1808-9 1809-10 1810-11 1811-12 1812-13 1813-14 1814-15 1815-16 1816-17 1817-18 1818-19 1819-20 1820-21 1821-22 1822-23 1823-24 1824-25 1825-26 1826-27 1827-28 1828-29,3,Column 3,"This Table, as well as those in Appendix A, includes interest on public debt. Should it be considered that such interest must be treated as for money actually paid by English capitalists, an allowance made from the total result of this Table to the extent of £200,000,000 will be more than sufficient. Taking the booty and various other unascertainable sources, the total result may fully amount to above £1,500,000,000. Appendix C confirms this result from commercial returns. Nearly.",,GBP,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,2,total,,Total,2,Charges of India.,"£596,528,000",596528000.0,GBP,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,2,total,,Total,3,Column 3,,,,True,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,3,data,,Row 3,2,Charges of India.,"59,652,000",59652000.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,3,data,,Row 3,3,Column 3,"One-tenth, for purposes mentioned at in Appendix A.",,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,4,data,,"Add, say",2,Charges of India.,"800,000,000",800000000.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,4,data,,"Add, say",3,Column 3,Interest till 1866.,,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,5,data,,"Add, say",2,Charges of India.,"300,000,000",300000000.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,5,data,,"Add, say",3,Column 3,"For acquirements by England before 1788, say £10,000,000 in principal, which, with interest to 1866, will be above £300,000,000.",,GBP,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,6,data,,Add,2,Charges of India.,"488,331,000",488331000.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,6,data,,Add,3,Column 3,Total of Appendix A.,,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,7,total,,Row 7,2,Charges of India.,"1647,983,000",1647983000.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,7,total,,Row 7,3,Column 3,Rough estimate of the amount of benefit derived by England from India as the result of English rule.,,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,1,data,,1787-88,2,Charges of India. :: £,"5,275,000",5275000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,1,data,,1787-88,3,Column 3,"This Table, as well as those in Appendix A, includes interest on public debt. Should it be considered that such interest must be treated as for money actually paid by English capitalists, an allowance made from the total result of this Table to the extent of £200,000,000 will be more than sufficient. Taking the booty and various other unascertainable sources, the total result may fully amount to above £1,500,000,000. Appendix C confirms this result from commercial returns.",,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,2,data,,1788-89,2,Charges of India. :: £,"5,599,000",5599000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,2,data,,1788-89,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,3,data,,1789-90,2,Charges of India. :: £,"5,898,000",5898000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,3,data,,1789-90,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,4,data,,1790-91,2,Charges of India. :: £,"5,678,000",5678000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,4,data,,1790-91,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,5,data,,1791-92,2,Charges of India. :: £,"5,845,000",5845000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,5,data,,1791-92,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,6,data,,1792-93,2,Charges of India. :: £,"6,317,000",6317000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,6,data,,1792-93,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,7,data,,1793-94,2,Charges of India. :: £,"6,639,000",6639000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,7,data,,1793-94,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,8,data,,1794-95,2,Charges of India. :: £,"6,503,000",6503000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,8,data,,1794-95,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,9,data,,1795-96,2,Charges of India. :: £,"7,012,000",7012000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,9,data,,1795-96,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,10,data,,1796-97,2,Charges of India. :: £,"7,641,000",7641000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,10,data,,1796-97,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,11,data,,1797-98,2,Charges of India. :: £,"8,254,000",8254000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,11,data,,1797-98,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,12,data,,1798-99,2,Charges of India. :: £,"9,786,000",9786000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,12,data,,1798-99,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,13,data,,1799-1800,2,Charges of India. :: £,"10,111,000",10111000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,13,data,,1799-1800,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,14,data,,1800-1,2,Charges of India. :: £,"11,653,000",11653000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,14,data,,1800-1,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,15,data,,1801-2,2,Charges of India. :: £,"12,547,000",12547000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,15,data,,1801-2,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,16,data,,1802-3,2,Charges of India. :: £,"12,594,000",12594000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,16,data,,1802-3,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,17,data,,1803-4,2,Charges of India. :: £,"15,052,000",15052000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,17,data,,1803-4,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,18,data,,1804-5,2,Charges of India. :: £,"15,000,000",15000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,18,data,,1804-5,3,Column 3,Nearly.,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,19,data,,1805 6,2,Charges of India. :: £,"15,000,000",15000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,19,data,,1805 6,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,20,data,,1806-7,2,Charges of India. :: £,"15,000,000",15000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,20,data,,1806-7,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,21,data,,1807-8,2,Charges of India. :: £,"15,000.000",,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,21,data,,1807-8,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,22,data,,1808-9,2,Charges of India. :: £,"15,000,000",15000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,22,data,,1808-9,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,23,data,,1809-10,2,Charges of India. :: £,"15,000,000",15000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,23,data,,1809-10,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,24,data,,1810-11,2,Charges of India. :: £,"15,000,000",15000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,24,data,,1810-11,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,25,data,,1811-12,2,Charges of India. :: £,"15,000,000",15000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,25,data,,1811-12,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,26,data,,1812-13,2,Charges of India. :: £,"15,333,000",15333000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,26,data,,1812-13,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,27,data,,1813-14,2,Charges of India. :: £,"15,340,000",15340000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,27,data,,1813-14,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,28,data,,1814-15,2,Charges of India. :: £,"15,887,000",15887000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,28,data,,1814-15,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,29,data,,1815-16,2,Charges of India. :: £,"16,858,000",16858000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,29,data,,1815-16,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,30,data,,1816-17,2,Charges of India. :: £,"17,025,000",17025000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,30,data,,1816-17,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,31,data,,1817-18,2,Charges of India. :: £,"17,763,000",17763000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,31,data,,1817-18,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,32,data,,1818-19,2,Charges of India. :: £,"19,404.000",,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,32,data,,1818-19,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,33,data,,1819-20,2,Charges of India. :: £,"19,183,000",19183000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,33,data,,1819-20,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,34,data,,1820-21,2,Charges of India. :: £,"19,590,000",19590000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,34,data,,1820-21,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,35,data,,1821-22,2,Charges of India. :: £,"19,648,000",19648000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,35,data,,1821-22,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,36,data,,1822-23,2,Charges of India. :: £,"20,055,000",20055000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,36,data,,1822-23,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,37,data,,1823-24,2,Charges of India. :: £,"21,046,000",21046000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,37,data,,1823-24,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,38,data,,1824-25,2,Charges of India. :: £,"22,086,000",22086000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,38,data,,1824-25,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,39,data,,1825-26,2,Charges of India. :: £,"24,057,000",24057000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,39,data,,1825-26,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,40,data,,1826-27,2,Charges of India. :: £,"23,323,000",23323000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,40,data,,1826-27,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,41,data,,1827-28,2,Charges of India. :: £,"23.932,000",,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,41,data,,1827-28,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,42,data,,1828-29,2,Charges of India. :: £,"21,594,000",21594000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,42,data,,1828-29,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,43,total,,Total,2,Charges of India. :: £,"£596,528,000",596528000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,43,total,,Total,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,44,data,,Row 44,2,Charges of India. :: £,"59,652,000",59652000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,44,data,,Row 44,3,Column 3,"One-tenth, for purposes mentioned at * in Appendix A.",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,45,data,,"Add, say",2,Charges of India. :: £,"800,000,000",800000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,45,data,,"Add, say",3,Column 3,Interest till 1866.,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,46,data,,"Add, say",2,Charges of India. :: £,"300,000,000",300000000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,46,data,,"Add, say",3,Column 3,"For acquirements by England before 1788, say £10,000,000 in principal, which, with interest to 1866, will be above £300,000,000.",,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,47,data,,Add,2,Charges of India. :: £,"488,331,000",488331000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,47,data,,Add,3,Column 3,Total of Appendix A.,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,48,total,,Row 48,2,Charges of India. :: £,"1647,983,000",1647983000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-002,Table 2,74,47,48,total,,Row 48,3,Column 3,Rough estimate of the amount of benefit derived by England from India as the result of English rule.,,,False,False

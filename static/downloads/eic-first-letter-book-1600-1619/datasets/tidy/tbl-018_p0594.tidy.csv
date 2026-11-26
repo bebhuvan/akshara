@@ -1,0 +1,40 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,1,data,,ffor Anchors from ... 100 to 1000,2,li,1,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,1,data,,ffor Anchors from ... 100 to 1000,3,s,10,10.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,1,data,,ffor Anchors from ... 100 to 1000,4,d,0 p Cent,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,2,data,,ffor Anchors from ... 1000 to 2000,2,li,1,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,2,data,,ffor Anchors from ... 1000 to 2000,3,s,13,13.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,2,data,,ffor Anchors from ... 1000 to 2000,4,d,0 p Cent,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,3,data,,ffor Anchors from ... 2000 & vpwarde,2,li,1,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,3,data,,ffor Anchors from ... 2000 & vpwarde,3,s,15,15.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,3,data,,ffor Anchors from ... 2000 & vpwarde,4,d,0 p Cent,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,4,data,,ffor Ruther Irons and Pumpe chaines,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,4,data,,ffor Ruther Irons and Pumpe chaines,3,s,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,4,data,,ffor Ruther Irons and Pumpe chaines,4,d,4 p pound,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,5,data,,Boate Hookes and Leech hooke,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,5,data,,Boate Hookes and Leech hooke,3,s,1,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,5,data,,Boate Hookes and Leech hooke,4,d,4 p peece,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,6,data,,Gromette and Staples poz 4 p doss,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,6,data,,Gromette and Staples poz 4 p doss,3,s,2,2.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,6,data,,Gromette and Staples poz 4 p doss,4,d,0 p doss,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,7,data,,Muskett Hooke,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,7,data,,Muskett Hooke,3,s,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,7,data,,Muskett Hooke,4,d,2 p peece,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,8,data,,Carriage fore locke,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,8,data,,Carriage fore locke,3,s,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,8,data,,Carriage fore locke,4,d,2 p peece,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,9,data,,Shutting of ould boulte,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,9,data,,Shutting of ould boulte,3,s,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,9,data,,Shutting of ould boulte,4,d,2 p shut,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,10,data,,Boate Ruther Irons,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,10,data,,Boate Ruther Irons,3,s,4,4.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,10,data,,Boate Ruther Irons,4,d,0 p paire,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,11,data,,Stiffe Ruther Irons,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,11,data,,Stiffe Ruther Irons,3,s,3,3.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,11,data,,Stiffe Ruther Irons,4,d,4 p paire,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,12,data,,Pinchers of all sorte well steeled,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,12,data,,Pinchers of all sorte well steeled,3,s,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,12,data,,Pinchers of all sorte well steeled,4,d,5 p pound,,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,13,data,,Murthering peeces standing to tryall,2,li,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,13,data,,Murthering peeces standing to tryall,3,s,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-018,Table 18,594,502,13,data,,Murthering peeces standing to tryall,4,d,5 p pound,,,False,False

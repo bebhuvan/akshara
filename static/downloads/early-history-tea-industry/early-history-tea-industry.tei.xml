@@ -22,7 +22,7 @@
         <idno type="book_id">early-history-tea-industry</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -62,12 +62,12 @@
       <div xml:id="sec-01" type="frontmatter" n="01-title-imprint">
         <head>Title &amp; Imprint</head>
         <pb xml:id="page-3" n="1" facs="https://archive.org/download/cu31924013772441/page/n2_w1400.jpg"/>
-        <div type="subsection" n="h3">
+        <div type="subsection" n="h1">
           <head><hi rend="italic">For Private Circulation.</hi></head>
         </div>
         <div type="subsection" n="h1">
           <head><hi rend="italic">The</hi> EARLY HISTORY of the TEA INDUSTRY in NORTH-EAST INDIA</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>By HAROLD H. MANN, D.Sc.</head>
             <p rend="imprint"><hi rend="italic">Reprinted from the</hi>
 BENGAL ECONOMIC JOURNAL
@@ -169,7 +169,7 @@ calcutta</hi></p>
       <div xml:id="sec-03" type="chapter" n="03-part-ii-the-assam-company-1839-1856">
         <head>Part II — The Assam Company (1839–1856)</head>
         <pb xml:id="page-21" n="19" facs="https://archive.org/download/cu31924013772441/page/n20_w1400.jpg"/>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head>II.</head>
           <p><hi rend="smallcaps">In</hi> my last article I traced the history of the tea industry in north-east India to the time when tea from the plantations in Assam was really on the market. This point was reached by the end of 1838 or the beginning of 1839, though the public were hardly satisfied of the soundness of the undertaking till a year or so later. At that time it must be remembered the whole of the so-called plantations in the Assam Valley, chiefly consisting of groups of indigenous tea plants in the jungle which had been cleared of other growth and weeds and had been cut down so as to form leaf-bearing bushes, were in the hands of Government under a Superintendent of tea culture. This Superintendent, Mr. C. A. Bruce, the real founder of tea cultivation in Assam, had opened out such areas in many places. Many of his gardens were near Dibrugarh, more near the Tingri and other smaller rivers in Upper Assam, others were at the foot of the Naga hills as far to the south-east as the well-known garden of Gabro Purbut.</p>
           <p>All that had been proved, however, by 1839 was that tea would grow, and that commercial tea could be made for which a market existed in London. But the matter was getting beyond the stage at which the Government wished to control it. Their idea was only to prove its success and then hand it over to private enterprise. Early in 1839, hence, both in Calcutta and London, a number of capitalists apparently approached Government for the transfer of the existing plantations to themselves and for the creation of a monopoly of tea cultivation in the Assam Valley in their favour.</p>

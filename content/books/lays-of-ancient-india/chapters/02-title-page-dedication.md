@@ -2,7 +2,7 @@
 title: "Title Page & Dedication"
 chapter_number: "FRONTMATTER"
 section_kind: "frontmatter"
-weight: 2
+weight: 1
 start_page: 23
 end_page: 27
 printed_start_folio: "23"
@@ -16,7 +16,6 @@ edition_tier: "machine_checked"
 edition_generation: "v6"
 proofing_base_url: "https://proof.akshara.ink"
 proofing_url: "https://proof.akshara.ink/#desk/lays-of-ancient-india/23"
-prev: "/books/lays-of-ancient-india/chapters/01-cover-seal-trubner-s-oriental-series-catalogue/"
 next: "/books/lays-of-ancient-india/chapters/03-preface/"
 ---
 

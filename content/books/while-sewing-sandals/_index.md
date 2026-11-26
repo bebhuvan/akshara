@@ -1,6 +1,6 @@
 ---
 title: "While Sewing Sandals"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: "Or, Tales of a Telugu Pariah Tribe"
 author: "Emma Rauschenbusch-Clough"
 author_slug: "emma-rauschenbusch-clough"
@@ -45,7 +45,7 @@ provenance_statement: "Machine-checked; 2 of 337 pages had flagged passages re-r
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 6 fixes · 2 pp. checked"
+  - "Scan-Triaged: 7 fixes · 2 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 1/1 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -113,12 +113,13 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (50 flyleaf/stamp block(s)) are excluded from reading prose; **232** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **535** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (6 distinct non-ASCII characters across 12 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**277** places); **449** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (337 pp.).
   - **Reader**: Read by gemini-3.8-flash on 337 of 337 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 6 replayed correction(s). Machine-checked; 2 of 337 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 7 replayed correction(s). Machine-checked; 2 of 337 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

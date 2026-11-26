@@ -1,0 +1,26 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,1,data,,Hector,2,Column 2,Her price by appraysm,,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,1,data,,Hector,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,1,data,,Hector,4,Column 4,1416,1416.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,1,data,,Hector,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,1,data,,Hector,6,Column 6,00d,,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,2,data,,Row 2,2,Column 2,Her repaier & chardge of setting forth.,,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,2,data,,Row 2,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,2,data,,Row 2,4,Column 4,3000,3000.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,2,data,,Row 2,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,2,data,,Row 2,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,3,data,,Row 3,2,Column 2,Her victualls ...,,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,3,data,,Row 3,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,3,data,,Row 3,4,Column 4,1726,1726.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,3,data,,Row 3,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,3,data,,Row 3,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,4,data,,Row 4,2,Column 2,Imprest to men,,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,4,data,,Row 4,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,4,data,,Row 4,4,Column 4,322,322.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,4,data,,Row 4,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,4,data,,Row 4,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,5,subtotal,,Row 5,2,Column 2,,,,True,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,5,subtotal,,Row 5,3,Column 3,,,,True,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,5,subtotal,,Row 5,4,Column 4,6464,6464.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,5,subtotal,,Row 5,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-004,THE HECTOR.,188,96,5,subtotal,,Row 5,6,Column 6,00,0.0,,False,False

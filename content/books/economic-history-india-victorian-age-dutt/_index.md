@@ -1,6 +1,6 @@
 ---
 title: "The Economic History of India in the Victorian Age"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "From the Accession of Queen Victoria in 1837 to the Commencement of the Twentieth Century"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -45,7 +45,7 @@ provenance_statement: "Automated reading (1 open review item); 4 of 651 pages ha
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 6 fixes · 4 pp. checked"
+  - "Scan-Triaged: 11 fixes · 4 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 20/20 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -349,14 +349,15 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (60 flyleaf/stamp block(s)) are excluded from reading prose; **454** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **0** multi-page tables were stitched; and **1635** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (60 flyleaf/stamp block(s)) are excluded from reading prose; **464** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **0** multi-page tables were stitched; and **1635** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (15 distinct non-ASCII characters across 21 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**212** places); **1560** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (651 pp.).
   - **Reader**: Read by gemini-3.8-flash on 651 of 651 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 6 replayed correction(s). Automated reading (1 open review item); 4 of 651 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 11 replayed correction(s). Automated reading (1 open review item); 4 of 651 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

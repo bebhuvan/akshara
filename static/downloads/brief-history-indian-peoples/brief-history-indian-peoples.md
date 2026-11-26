@@ -15,14 +15,13 @@ TORONTO AND MELBOURNE
 
 <!-- page: 4 | folio: 2 -->
 
-![Map of The Indian Empire, prepared for Sir William Wilson Hunter's Imperial Gazetteer of India (Scale 265 miles to 1 inch), showing provinces, rivers, railways, and surrounding seas.](../figures/fig-001_p0004.webp)
-
-Clarendon Press, Oxford.
-
-Engraved by W. & A. K. Johnston, Limited, Edinburgh & London.
+![Clarendon Press, Oxford. — Engraved by W. & A. K. Johnston, Limited, Edinburgh & London.](../figures/fig-001_p0004.webp)
 
 
 <!-- page: 5 | folio: 3 -->
+
+### *A BRIEF HISTORY OF THE INDIAN PEOPLES*
+
 <span class="sc">By</span> SIR WILLIAM WILSON HUNTER, K.C.S.I., C.I.E.
 
 M.A. <span class="sc">Oxon.</span>, LL.D. <span class="sc">Cambridge</span>
@@ -90,19 +89,19 @@ W. H. HUTTON.
 ### TABLE OF CONTENTS
 
 
-#### CHAPTER I.
+### CHAPTER I.
 
 - <span class="sc">The Country</span> . . . . . . . 17–31
 Situation and size of India, 17, 18; the four regions of which it is composed, 18; first region—the Himálayas, 18–21; Himálayan river system—Indus, Sutlej, Brahmaputra, Ganges and Jumna, 21, 22; second region—river plains of India, 22, 23; work done by the rivers—the Bengal Delta, 23–26; crops and scenery of the northern river plains, 26, 27; third region—the southern table-land, its scenery, rivers and products, 27–30; fourth region—Burma, 30, 31; materials for reference, 31.
 
 
-#### CHAPTER II.
+### CHAPTER II.
 
 - <span class="sc">The People</span> . . . . . . . 32–39
 General survey of the people, 32, 33; population statistics in British and Native India, 33–35; density of population, 36; scarcity of large towns, 36; overcrowded and under-peopled Districts, 36, 37; distribution of the people, 37; nomadic system of husbandry, 37; rise in rents, 37, 38; abolition of serfdom, 38; four-fold division of the people, 38, 39; the two chief races of pre-historic India, 39; materials for reference, 39.
 
 
-#### CHAPTER III.
+### CHAPTER III.
 
 - <span class="sc">The non-Aryans</span> . . . . . 40–51
 - The non-Aryans or ‘Aborigines,’ 40; as described in the Veda, 40, 41; the non-Aryans at the present day, 41, 42; the Andaman islanders, 42; hill tribes in Madras, 42, 43; in the Vindhya ranges, 43; in the Central Provinces, 44; leaf-wearing tribe in Orissa, 44; Himálayan tribes, 44, 45; the Santáls of Lower Bengal, their system of government history, &c., 45–47; the Kandhs of Orissa,

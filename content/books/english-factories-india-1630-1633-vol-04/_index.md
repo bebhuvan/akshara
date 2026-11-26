@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1630–1633"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: "A Calendar of Documents in the India Office, Etc."
 author: "William Foster"
 author_slug: "william-foster"
@@ -45,7 +45,7 @@ provenance_statement: "Machine-checked; 7 of 400 pages had flagged passages re-r
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 4 fixes · 7 pp. checked"
+  - "Scan-Triaged: 5 fixes · 7 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 1 Structured (No Printed Totals)"
 taxonomy_diplomatic:
@@ -117,14 +117,15 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (81 flyleaf/stamp block(s)) are excluded from reading prose; **192** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **5** cross-page split footnotes and **0** multi-page tables were stitched; and **742** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (81 flyleaf/stamp block(s)) are excluded from reading prose; **191** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **5** cross-page split footnotes and **0** multi-page tables were stitched; and **742** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (27 distinct non-ASCII characters across 247 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**370** places); **1382** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.6-flash` (4 pp.), `gemini-3.8-flash` (396 pp.).
   - **Reader**: Read by gemini-3.8-flash on 396 of 400 pages, gemini-3.6-flash on 4 of 400 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 4 replayed correction(s). Machine-checked; 7 of 400 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 5 replayed correction(s). Machine-checked; 7 of 400 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

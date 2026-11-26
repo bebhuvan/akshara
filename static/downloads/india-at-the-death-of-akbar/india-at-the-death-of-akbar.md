@@ -26,6 +26,9 @@ Toronto</span>
 
 <!-- page: 7 | folio: iii -->
 
+### INDIA AT THE DEATH OF AKBAR
+
+
 #### AN ECONOMIC STUDY
 
 BY W. H. MORELAND C.S.I., C.I.E. LATE OF THE INDIAN CIVIL SERVICE AUTHOR OF “ THE AGRICULTURE OF THE UNITED PROVINCES,” “ THE REVENUE ADMINISTRATION OF THE UNITED PROVINCES,” AND “ AN INTRODUCTION TO ECONOMICS FOR INDIAN STUDENTS ”
@@ -66,7 +69,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 ### <span class="sc">CONTENTS</span>
 
 
-#### CHAPTER I
+### CHAPTER I
 
 - <span class="sc">PAGE</span>
 - <span class="sc">The Country and People</span> . . . . . 1
@@ -74,7 +77,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 - 2. The Numbers of the People . . . . 9
 - 3. The Classes of the Population . . . . 23
 
-#### CHAPTER II
+### CHAPTER II
 
 - <span class="sc">The Administration</span> . . . . . 31
 - 1. The Form of Administration . . . . 31
@@ -85,7 +88,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 - 6. Effect on Trade and Industry . . . . 50
 - 7. Weights, Measures, and Currency . . . 52
 
-#### CHAPTER III
+### CHAPTER III
 
 - <span class="sc">The Consuming Classes</span> . . . . . 63
 - 1. The Court and the Imperial Service . . . 63
@@ -93,7 +96,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 - 3. The Professional and Religious Classes . . 83
 - 4. Servants and Slaves . . . . . 87
 
-#### CHAPTER IV
+### CHAPTER IV
 
 - <span class="sc">Agricultural Production</span> . . . . . 96
 - 1. Land Tenures . . . . . . 96
@@ -105,7 +108,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 
 <!-- page: 14 | folio: x -->
 
-#### CHAPTER V
+### CHAPTER V
 
 - <span class="sc">Non-Agricultural Production</span> . . . . 141
 - 1. The General Position . . . . 141
@@ -119,7 +122,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 - 9. Industrial Organisation . . 184
 - 10. Urban Wages . . . 189
 
-#### CHAPTER VI
+### CHAPTER VI
 
 - <span class="sc">Commerce</span> . . . . . 196
 - 1. General Features . . . 196
@@ -131,7 +134,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 - 7. Coasting and Internal Trade . 240
 - 8. The Organisation of Indian Commerce 245
 
-#### CHAPTER VII
+### CHAPTER VII
 
 - <span class="sc">The Standard of Life</span> . . . . 253
 - 1. Introductory . . 253
@@ -140,7 +143,7 @@ The subject which I have treated is extensive, and has involved a certain amount
 - 4. The Economic Position of the Lower Classes . 265
 - 5. Food, Clothing, and other Details . . 270
 
-#### CHAPTER VIII
+### CHAPTER VIII
 
 - <span class="sc">The Wealth of India</span> . . . . 282
 - 1. Contemporary Ideas . . . 282
@@ -677,7 +680,7 @@ The statistics preserved by Abul Fazl render it possible to obtain a rough idea 
 | Mandua | 44 | Indigo | 254 |
 | Sāwan | 22 |  |  |
 
-So far as the food-grains are concerned, comparative values have changed very little ; an acre of barley, or jowār, or gram is now worth, roughly speaking, 60 to 70 per cent of an acre of wheat, as was the case in Akbar's time, and the small millets, acre for acre, are worth substantially less.[^sec-07-fn-005] Oilseeds [p. 104] were proportionately less valuable than they are now, when a great and profitable export trade has grown up: sugar-cane, on the other hand, shows little change in the relative position, being still worth rather more than double the value of wheat. It is noteworthy that in Akbar's time poppy was as valuable as sugar-cane: its present value in a free market is unknown because the price paid to the grower has long been fixed by the State on considerations of a different order, but if we take into account the revenue realised until recently from the sale of the drug, the position occupied by the crop will occasion no surprise. The high level of the comparative value of cotton is a point to be considered in connection with the industrial development of the country; it is clear that the raw material of ordinary clothing was expensive when judged by the prices obtainable for food-grains. Indigo also was highly valued, but in this case the cause is to be sought in commerce rather than in industry, for even in the sixteenth century this crop was grown mainly for the export market. It is tempting to pass from relative to actual values, and deduce from these data figures for the average yield of crops in Akbar's time. Such a calculation is indeed possible on paper, but the uncertain factors are relatively large, and the result depends mainly on the values assigned to them by the individual calculator: in the present state of our knowledge, therefore, it is better to resist the temptation offered by the figures, and to be content with the conclusion that on the whole the relative values of the various crops show little alteration, and that in cases where the change is marked an explanation can usually be found in the known history of the intervening period.
+So far as the food-grains are concerned, comparative values have changed very little ; an acre of barley, or jowār, or gram is now worth, roughly speaking, 60 to 70 per cent of an acre of wheat, as was the case in Akbar's time, and the small millets, acre for acre, are worth substantially less.[^sec-07-fn-005] Oil-seeds [p. 104] were proportionately less valuable than they are now, when a great and profitable export trade has grown up: sugar-cane, on the other hand, shows little change in the relative position, being still worth rather more than double the value of wheat. It is noteworthy that in Akbar's time poppy was as valuable as sugar-cane: its present value in a free market is unknown because the price paid to the grower has long been fixed by the State on considerations of a different order, but if we take into account the revenue realised until recently from the sale of the drug, the position occupied by the crop will occasion no surprise. The high level of the comparative value of cotton is a point to be considered in connection with the industrial development of the country; it is clear that the raw material of ordinary clothing was expensive when judged by the prices obtainable for food-grains. Indigo also was highly valued, but in this case the cause is to be sought in commerce rather than in industry, for even in the sixteenth century this crop was grown mainly for the export market. It is tempting to pass from relative to actual values, and deduce from these data figures for the average yield of crops in Akbar's time. Such a calculation is indeed possible on paper, but the uncertain factors are relatively large, and the result depends mainly on the values assigned to them by the individual calculator: in the present state of our knowledge, therefore, it is better to resist the temptation offered by the figures, and to be content with the conclusion that on the whole the relative values of the various crops show little alteration, and that in cases where the change is marked an explanation can usually be found in the known history of the intervening period.
 
 We know then that, apart from the exceptions already indicated, India taken as a whole yielded the same agricultural produce as she yields now. We know also that the distribution of the various crops followed the main lines determined by the conditions of soil and climate: Bengal depended mainly on rice, Northern India on cereals, millets, and pulses, the Deccan on jowār and cotton, the south on [p. 105] rice and millets; and indications drawn from various sources justify the inference that there was less specialisation of cropping than is found at the present time. Specialisation was not indeed entirely unknown, for Bengal supplied sugar to many parts of India, while the production of indigo was to a large extent concentrated in two localities, Biāna near Agra, and Sarkhej in Gujarat, and both these instances throw light on the conditions affecting the process. Sugar was carried mainly by water, whether it went westwards to Agra or southwards to the ports of Malabar, that is to say, the trade was to a great extent independent of the high cost of land transit; indigo, on the other hand, was carried by land from Agra to the Cambay ports or across the frontier to Persia, the export value of the commodity being exceptionally high in proportion to its bulk; and thus we have in these instances early manifestations of the process of specialisation which has made such progress since the development of means of communication in the course of the past century. On the other hand, we look in vain for anything corresponding to the modern wheat tracts or cotton tracts, which are essentially the results of railway enterprise: cotton, at least, was more widely grown than is now the case, though the aggregate of production was probably less, and it is reasonable to infer that most parts of the country were nearly self-sufficing in the matter of clothes as well as of food and other requisites. We can therefore arrive at a general idea of the system of cropping practised in a particular part of India if we eliminate those staples which are known to have been subsequently introduced, and make due allowance for the progress of specialisation, and for the changes in regard to irrigation which we are about to discuss.
 
@@ -1719,14 +1722,7 @@ The question will naturally be asked which of these seaports represents the "cit
 
 <span class="sc">The</span> origin of the shipping ton is the tun of wine. In European ports the practice grew up of describing a ship's capacity for cargo in terms of the number of tuns of wine which could be carried. A tun of wine consisted of two butts, and was equivalent to 40·3 cubic feet; adding the size of the casks, and the loss of space due to their irregular shape, the space occupied by a tun comes to about 60 cubic feet.[^sec-15-fn-001] Originally the number of tuns was not reached by any process of measurement: the capacity of a ship which had carried wine would be known by experience, and practical men would acquire sufficient knowledge to judge the capacity of other ships by their appearance and build. It is such estimates as these that are available in regard to the period we are considering: they are all given in round numbers, and obviously are not intended to be accurate to a tun; on the average, they are probably fairly close to the truth, though there are doubtless errors in particular observations.
 
-Towards the end of the sixteenth century the number of tuns for particular ships became an important question in England, because it determined the amount of the subsidy paid for shipbuilding, and estimates such as had hitherto sufficed became subject to bias; a system of measurement was therefore worked out to supersede such estimates. At the first attempt the number of tuns which could be carried in a particular ship was determined by experiment; the length, breadth, and depth of the ship were then measured, and the volume in cubic feet calculated; the rest was a sum in simple proportion. It was found that each actual tun required about 97 cubic feet of volume measured on
-
-
-<!-- page: 329 | folio: 311 -->
-
-##### <span class="sc">app. d</span>
-
-the lines adopted, and this relation was made the basis of a general rule; find the volume of a ship by a particular set of measurements and divide by 97.
+Towards the end of the sixteenth century the number of tuns for particular ships became an important question in England, because it determined the amount of the subsidy paid for shipbuilding, and estimates such as had hitherto sufficed became subject to bias; a system of measurement was therefore worked out to supersede such estimates. At the first attempt the number of tuns which could be carried in a particular ship was determined by experiment; the length, breadth, and depth of the ship were then measured, and the volume in cubic feet calculated; the rest was a sum in simple proportion. It was found that each actual tun required about 97 cubic feet of volume measured on [p. 311] the lines adopted, and this relation was made the basis of a general rule; find the volume of a ship by a particular set of measurements and divide by 97.
 
 The effect of this rule was to alter the definition, but not at first the size, of the tun. The unit was still the space required by a tun of wine, and this space was found to be 97 cubic feet *measured in a particular way*. This system has survived up to the present day, but both the method of measurement and the divisor adopted have been varied from time to time. A "registered ton" is now defined as 100 cubic feet of space measured according to the precise specifications made under the Merchant Shipping Acts; it is a conventional unit, which has lost its original relation to the tun of wine, and its present relation could be determined with precision only by filling a series of modern cargo boats with tuns, a measure which nobody is likely to undertake. For our purposes, the important point is that the changes in the method of measurement have been in the direction of a closer approximation to the actual cargo space. The original method of measuring the length, breadth, and depth of the ship as a whole could give the actual cargo space only if the ship was rectangular and there were no internal structures below the topmost deck; the fact that 97 cubic feet (measured in this way) were required to accommodate 60 cubic feet (actual) shows that the cargo space was greatly overstated. This overstatement has now disappeared, because each deck is measured separately, and allowance is made for the curve of the sides; hence substantially less than 100 cubic feet (a measured ton) would now be required to accommodate a tun of wine, and in fact the volume of ordinary goods carried in recently-built vessels is, generally speaking, in excess of the volume given by the measurement. It follows that we shall not understate the cargo-capacity of Indian ships of the sixteenth century if we say that a tun of wine would require from <sup>4</sup>/<sub>10</sub> to <sup>6</sup>/<sub>10</sub> of a modern registered ton, instead of requiring a whole measured ton as was the case when measurement was first introduced. At this rate 1000 tuns of wine would require from 400 to 600 modern tons of shipping; and we should reduce the "tunnage" calculated for Indian trade in the sixteenth century by from <sup>2</sup>/<sub>5</sub> to <sup>3</sup>/<sub>5</sub> in order to compare it with the returns of shipping published at the present day. In the text I have arrived at 60,000 tuns as the probable maximum volume of Indian commerce: this would require from 24,000 to 36,000 tons present measurement, and since this figure has to be compared with about 6¾ million tons (the volume of Indian trade before the War), it really matters very little which fraction we take.
 
@@ -2109,12 +2105,14 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - 213, 215, 216, 218, 283, 291-2;
 - organisation, 245-50; textiles,
 - 179-84; transport, 166-71, 197,
-- 243-4 foreign: cash basis of, 57; European, 221-7; income from, 289;
+- 243-4
+- foreign: cash basis of, 57; European, 221-7; income from, 289;
 - regulated by seasons, 230-33;
 - sea-borne, 198-212; shipping
 - employed, 233-9; volume of,
 - 233-9, 288-9, Appendix D.,
-- 310-12 internal, 241-5; agriculture and, 126-7; charges on, 46-52;
+- 310-12
+- internal, 241-5; agriculture and, 126-7; charges on, 46-52;
 - security of, 37-46
 - Commercial law and morality, 247,
 - 249-50
@@ -2803,7 +2801,7 @@ LONDON: MACMILLAN AND CO., <span class="sc">Ltd.</span>
 ### A NEW WORK ON ECONOMICS
 
 
-##### *8vo. 18s. net.*
+#### *8vo. 18s. net.*
 
 
 ### **INDUSTRY AND TRADE**
@@ -2833,7 +2831,7 @@ LONDON : MACMILLAN AND CO., <span class="sc">Ltd.</span>
 ### <span class="sc">other new works on economics</span>
 
 
-##### *8vo.    18s. net.*
+#### *8vo.    18s. net.*
 
 
 #### **INDIAN FINANCE AND BANKING**

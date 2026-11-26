@@ -1,6 +1,6 @@
 ---
 title: "Indian Finance"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "Read Before the Manchester Statistical Society, March 9th, 1881"
 author: "Thomas Bouchier Moxon"
 author_slug: "thomas-bouchier-moxon"
@@ -99,7 +99,7 @@ tables_list:
     tidy_csv: "/downloads/indian-finance-moxon-1881/datasets/tidy/tbl-002_p0011.tidy.csv"
     section_url: "/books/indian-finance-moxon-1881/chapters/03-manchester-statistical-society-indian-finance/#tbl-002"
   - table_id: "tbl-003"
-    caption: "Based on Government Form of Accounts."
+    caption: "STATEMENT OF REVENUE, 1878-9. — Based on Government Form of Accounts."
     printed_folio: "8"
     rows: 14
     cols: 4
@@ -176,6 +176,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (19 flyleaf/stamp block(s)) are excluded from reading prose; **31** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **57** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (7 distinct non-ASCII characters across 11 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**56** places). The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

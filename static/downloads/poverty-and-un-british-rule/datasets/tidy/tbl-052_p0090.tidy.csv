@@ -1,7 +1,13 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-052,Table 52,90,70,1,data,,Vizagapatam,2,Column 2,Rs. 203 per garce,,Rs,False,False
-poverty-and-un-british-rule,tbl-052,Table 52,90,70,1,data,,Vizagapatam,3,Column 3,Ganjam,,,False,False
-poverty-and-un-british-rule,tbl-052,Table 52,90,70,1,data,,Vizagapatam,4,Column 4,Rs. 232 per garce,,Rs,False,False
-poverty-and-un-british-rule,tbl-052,Table 52,90,70,2,data,,Godavery,2,Column 2,„ 222 „,,Rs,False,False
-poverty-and-un-british-rule,tbl-052,Table 52,90,70,2,data,,Godavery,3,Column 3,South Canara,,,False,False
-poverty-and-un-british-rule,tbl-052,Table 52,90,70,2,data,,Godavery,4,Column 4,„ 308 „,,Rs,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,1,data,,Delhi,2,Column 2,Wheat 26 seers or,,seers,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,1,data,,Delhi,3,Column 3,52 lbs. per Re. 1,,lbs,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,2,data,,Umballa,2,Column 2,„ „,,seers,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,2,data,,Umballa,3,Column 3,48 „ „,48.0,lbs,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,3,data,,Sealkote,2,Column 2,„ „,,seers,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,3,data,,Sealkote,3,Column 3,38 „ „,38.0,lbs,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,4,data,,Lahore,2,Column 2,„ „,,seers,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,4,data,,Lahore,3,Column 3,34 „ „,34.0,lbs,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,5,data,,Multan,2,Column 2,„ „,,seers,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,5,data,,Multan,3,Column 3,34 „ „,34.0,lbs,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,6,data,,Peshawur,2,Column 2,„ „,,seers,False,False
+poverty-and-un-british-rule,tbl-052,Table 52,90,70,6,data,,Peshawur,3,Column 3,30 „ „,30.0,lbs,False,False

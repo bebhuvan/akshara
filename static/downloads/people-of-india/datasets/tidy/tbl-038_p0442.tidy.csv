@@ -1,0 +1,320 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,2,Name of Tribe or Caste.,Māchhi,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,3,Language or Dialect.,Punjābī,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,4,Locality.,Punjāb,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,188·4,188.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,196,196.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,182,182.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,136·3,136.3,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,147,147.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,127,127.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,72·3,72.3,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,76,76.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·8,49.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,53,53.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,46,46.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,34·9,34.9,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,41,41.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,70·0,70.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,82,82.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,62,62.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,23,STATURE. :: Average.,1699,1699.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,24,STATURE. :: Maximum.,1828,1828.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,25,STATURE. :: Minimum.,1600,1600.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,112·1,112.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,131·0,131.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·8,116.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,125,125.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,1,data,,19,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,110,110.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,2,Name of Tribe or Caste.,Rājput,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,3,Language or Dialect.,Rājasthāni,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,4,Locality.,Rajputānā,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,192·5,192.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,213,213.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,180,180.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,139·4,139.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,127,127.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,72·4,72.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,81,81.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,64,64.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,51·2,51.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,61,61.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,43,43.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·7,36.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,71·6,71.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,91,91.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,53,53.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,23,STATURE. :: Average.,1748,1748.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,24,STATURE. :: Maximum.,1924,1924.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,25,STATURE. :: Minimum.,1654,1654.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,108·5,108.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,128·0,128.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,117·9,117.9,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,129,129.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,2,data,,120,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,2,Name of Tribe or Caste.,Gūjar,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,3,Language or Dialect.,Punjābī,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,4,Locality.,Punjāb,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,192·6,192.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,205,205.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,185,185.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,139·6,139.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,148,148.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,133,133.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,72·4,72.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,78,78.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·3,50.3,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,47,47.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,33·7,33.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,39,39.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,66·9,66.9,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,78,78.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,60,60.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,23,STATURE. :: Average.,1703,1703.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,24,STATURE. :: Maximum.,1778,1778.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,25,STATURE. :: Minimum.,1650,1650.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,112·7,112.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,130·6,130.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·8,115.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,123,123.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,3,data,,13,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,111,111.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,2,Name of Tribe or Caste.,Arora,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,3,Language or Dialect.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,4,Locality.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,190·7,190.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,206,206.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,177,177.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,138·6,138.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,149,149.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,72·6,72.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,81,81.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·7,49.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,54,54.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,47,47.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,35·4,35.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,71·2,71.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,81,81.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,60,60.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,23,STATURE. :: Average.,1658,1658.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,24,STATURE. :: Maximum.,1803,1803.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,25,STATURE. :: Minimum.,1574,1574.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,111·5,111.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,129·5,129.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·1,116.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,4,data,,27,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,110,110.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,2,Name of Tribe or Caste.,Sikh (Jāt),,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,3,Language or Dialect.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,4,Locality.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,190·2,190.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,203,203.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,172,172.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,138·4,138.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,152,152.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,127,127.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,72·7,72.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,81,81.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,66,66.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·1,50.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,61,61.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,45,45.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,34·5,34.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,41,41.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,68·8,68.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,85,85.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,56,56.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,23,STATURE. :: Average.,1716,1716.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,24,STATURE. :: Maximum.,1905,1905.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,25,STATURE. :: Minimum.,1625,1625.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,113·6,113.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,132·5,132.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·6,116.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,125,125.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,5,data,,80,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,110,110.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,2,Name of Tribe or Caste.,Meo,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,3,Language or Dialect.,Rājasthāni,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,4,Locality.,Rajputānā,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,189·5,189.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,204,204.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,178,178.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,138·4,138.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,147,147.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,126,126.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,73·0,73.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,81,81.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·4,50.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,60,60.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,43,43.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·1,38.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,46,46.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,75·5,75.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,92,92.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,59,59.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,23,STATURE. :: Average.,1690,1690.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,24,STATURE. :: Maximum.,1852,1852.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,25,STATURE. :: Minimum.,1536,1536.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,106·4,106.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,121·2,121.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,113·9,113.9,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,123,123.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,6,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,2,Name of Tribe or Caste.,Mīna Zamindār,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,3,Language or Dialect.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,4,Locality.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,192·4,192.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,207,207.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,174,174.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,140·6,140.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,155,155.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,132,132.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,73·0,73.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,83,83.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,51·2,51.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,59,59.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·1,38.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,74·4,74.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,91,91.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,61,61.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,23,STATURE. :: Average.,1713,1713.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,24,STATURE. :: Maximum.,1850,1850.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,25,STATURE. :: Minimum.,1606,1606.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,108·0,108.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,124·4,124.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·1,115.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,123,123.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,7,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,2,Name of Tribe or Caste.,Mīna Chaukidār,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,3,Language or Dialect.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,4,Locality.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,189·9,189.9,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,207,207.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,176,176.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,139·1,139.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,150,150.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,73·2,73.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,81,81.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,61,61.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,51·0,51.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,59,59.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,44,44.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·8,37.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,74·2,74.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,96,96.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,61,61.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,23,STATURE. :: Average.,1703,1703.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,24,STATURE. :: Maximum.,1820,1820.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,25,STATURE. :: Minimum.,1570,1570.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,108·5,108.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,125·4,125.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·5,115.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,125,125.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,8,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,2,Name of Tribe or Caste.,Chuhra,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,3,Language or Dialect.,Punjābī,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,4,Locality.,Punjāb,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,186·7,186.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,200,200.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,171,171.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,137·1,137.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,152,152.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,127,127.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,73·4,73.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,82,82.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·0,48.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,56,56.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,45,45.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·1,36.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,75·2,75.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,94,94.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,60,60.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,23,STATURE. :: Average.,1666,1666.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,24,STATURE. :: Maximum.,1803,1803.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,25,STATURE. :: Minimum.,1524,1524.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,112·2,112.2,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,129·4,129.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·3,115.3,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,123,123.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,9,data,,80,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,2,Name of Tribe or Caste.,Khatri,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,3,Language or Dialect.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,4,Locality.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,185·7,185.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,200,200.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,172,172.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,137·5,137.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,150,150.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,128,128.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,74·0,74.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,86,86.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,66,66.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·8,48.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,58,58.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,44,44.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,35·7,35.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,73·1,73.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,95,95.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,59,59.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,23,STATURE. :: Average.,1662,1662.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,24,STATURE. :: Maximum.,1803,1803.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,25,STATURE. :: Minimum.,1574,1574.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,111·9,111.9,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,126·6,126.6,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,113·1,113.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,122,122.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,10,data,,60,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,106,106.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,2,Name of Tribe or Caste.,Awān,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,3,Language or Dialect.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,4,Locality.,Ditto,,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,5,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Average.,188·8,188.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,6,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Maximum.,201,201.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,7,DIMENSIONS OF HEAD. :: Length (Glabel-lo-occipital). :: Minimum.,175,175.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,8,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Average.,140·5,140.5,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,9,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Maximum.,147,147.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,10,DIMENSIONS OF HEAD. :: Breadth (Extreme). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,11,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average.,74·4,74.4,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,12,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum.,80,80.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,13,PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·7,50.7,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,44,44.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,34·9,34.9,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,39,39.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,68·8,68.8,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,79,79.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,55,55.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,23,STATURE. :: Average.,1706,1706.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,24,STATURE. :: Maximum.,1828,1828.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,25,STATURE. :: Minimum.,1600,1600.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,113·0,113.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,131·3,131.3,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,110·1,110.1,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,125,125.0,,False,False
+people-of-india,tbl-038,PUNJAB AND RAJPUTANA. (In order of Cephalic Index.),442,400,11,data,,33,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,110,110.0,,False,False

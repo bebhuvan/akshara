@@ -4,8 +4,9 @@
   "title": "The Imperial Gazetteer of India: The Indian Empire, Vol. III — Economic — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -4447,14 +4448,14 @@
     },
     {
       "name": "tbl-055-diplomatic",
-      "title": "(In Lakhs of Rupees) (Diplomatic Matrix)",
+      "title": "Trade of the Provincial Blocks, 1903–4 — (In Lakhs of Rupees) (Diplomatic Matrix)",
       "path": "tables/tbl-055_p0356.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-055-tidy",
-      "title": "(In Lakhs of Rupees) (Tidy Observations)",
+      "title": "Trade of the Provincial Blocks, 1903–4 — (In Lakhs of Rupees) (Tidy Observations)",
       "path": "tidy/tbl-055_p0356.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",

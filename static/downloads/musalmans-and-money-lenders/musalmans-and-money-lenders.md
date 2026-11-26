@@ -17,7 +17,7 @@
 ### PUNJAB.
 
 
-##### BY
+#### BY
 
 
 #### S. S. THORBURN,
@@ -83,18 +83,18 @@ MDCCCLXXXVI.
 - Education of Musalmans ... 96
 - Elasticity of demand—four modes of ... 109
 - Expropriation of peasantry ... 1
-- „ —Sir W. Muir on ... 65
-- „ —Mr. J. B. Lyall on ... 87
-- „ —Sir J. Strachey on ... 66
-- „ —Sir D. McLeod on ... 68
+  - „ —Sir W. Muir on ... 65
+  - „ —Mr. J. B. Lyall on ... 87
+  - „ —Sir J. Strachey on ... 66
+  - „ —Sir D. McLeod on ... 68
 - False bonds—making of ... 135–136
 - Famine Commission on indebtedness ... 80
-- „ „ „ fixity and elasticity ... 180–183
-- „ „ „ land transfers ... 93
+  - „ „ „ fixity and elasticity ... 180–183
+  - „ „ „ land transfers ... 93
 - Fixed cash assessments—introduction of ... 46
 - Fluctuating „ —kinds of ... 109–112
-- „ „ —area under ... 113
-- „ „ —extension of ... 114
+  - „ „ —area under ... 113
+  - „ „ —extension of ... 114
 - Fraud—High Court, N.-W. P., on ... 194
 - Ghakkhars ... 31
 - Gujars ... 30
@@ -184,10 +184,10 @@ MDCCCLXXXVI.
 ### <span class="sc">MUSALMANS AND MONEY-LENDERS</span>.
 
 
-#### CHAPTER I.
+### CHAPTER I.
 
 
-##### A GENERAL DESCRIPTION OF THE PUNJAB.
+#### A GENERAL DESCRIPTION OF THE PUNJAB.
 
 > _[Margin: Gradual expropriation of Musalman peasant proprietors a source of danger.]_
 
@@ -223,7 +223,7 @@ In the cold weather the stream meanders with feeble current in its narrow channe
 
 When the flooded streams subside, a vast expanse of arable or grazing land becomes available, and has for ages been always utilized for tilth and pasturage by its amphibious human denizens.
 
-The area composing the south-eastern plain just described is about 44,640 square miles, or two-thirds of the Western Punjab. It is divided into nine districts—Bannu, Dera-Ismail-Khan, and Dera-Ghazi-Khan (Trans-Indus), and Gujrat, Shahpur, Jhang, Montgomery, Mooltan, and Muzaffargarh (Cis-Indus). Excluding the long strip of upland [p. 5] and river bed between the Indus south of Bannu (Edwardesabad) and the Suliman Range, which forms the western boundary of British India, this great south-western plain is broken up, by the river system flowing through it, into four "*doabs*" or tongues of land between rivers. In good seasons each "*doab*" is throughout the autumn, and early months in the cold weather, covered with a flush of grass and scrub jungle, and thus affords ample pasturage to the numerous flocks and herds of the graziers who occupy it. But for the first six months of the year, whenever the hot weather rains fail, in place of such prairielike verdure the land looks, as it is often called, " a howling wilderness "—a desert such as the shores of the Red Sea appear to the P. and O. passenger. As the banks or lips of the valleys within which the Punjab rivers flow form the line of demarcation between desert and green pasturage or rich corn land, the change from one to the other is always abrupt and sudden.
+The area composing the south-eastern plain just described is about 44,640 square miles, or two-thirds of the Western Punjab. It is divided into nine districts—Bannu, Dera-Ismail-Khan, and Dera-Ghazi-Khan (Trans-Indus), and Gujrat, Shahpur, Jhang, Montgomery, Mooltan, and Muzaffargarh (Cis-Indus). Excluding the long strip of upland [p. 5] and river bed between the Indus south of Bannu (Edwardesabad) and the Suliman Range, which forms the western boundary of British India, this great south-western plain is broken up, by the river system flowing through it, into four "*doabs*" or tongues of land between rivers. In good seasons each "*doab*" is throughout the autumn, and early months in the cold weather, covered with a flush of grass and scrub jungle, and thus affords ample pasturage to the numerous flocks and herds of the graziers who occupy it. But for the first six months of the year, whenever the hot weather rains fail, in place of such prairie-like verdure the land looks, as it is often called, " a howling wilderness "—a desert such as the shores of the Red Sea appear to the P. and O. passenger. As the banks or lips of the valleys within which the Punjab rivers flow form the line of demarcation between desert and green pasturage or rich corn land, the change from one to the other is always abrupt and sudden.
 
 > _[Margin: The Northern Table-land.]_
 
@@ -263,7 +263,7 @@ It is chiefly with the Western Punjab, in which I have served for 18 years, I in
 
 > _[Margin: Colonisation of the Punjab.]_
 
-Many centuries before Christ, successive Aryan colonists had crossed the Indus, and, everpressing eastward, had driven out or absorbed the aboriginal occupants, and increased and multiplied into a great and civilized people. Later came Scythian swarms. At the time of Alexander the Great's invasion (320 *B. C.*), the Punjab was ruled by Hindu Rajas, the country was studded with walled towns, and Buddhism was for the time obscuring Brahminism. The jungly beds of the Punjab rivers and the desert tracts between them were roamed over by bands of pastoral nomads, probably of Scythian origin, and certainly the ancestors of some of the Jat and nondescript Musalman tribes of to-day. There can be no doubt that from pre-historic up to recent times, bands of mountaineers from Afghanistan and Khorasan, either independently as peaceful colonists, or as a force in an army of invasion, were constantly settling down as graziers and cultivators in thinly occupied tracts in the Punjab. The continuous flow of immigrants from the west—each successive swarm displacing and pushing further east or absorbing a group of earlier squatters— was only finally stopped by the British annexation of the [p. 8] Punjab 36 years ago. In popular migrations between India and beyond, there has never been any ebb and flow. Those who have come have remained. The "*pax Indo-Britannica*," instead of welding the medley of miscellaneous tribes and races into one nation, is, so far as Punjab Musalmans are concerned, fusing them into one religious confraternity of bigots, and widening rather than closing the natural opposition of sentiments and interests which separate them from Hindus.
+Many centuries before Christ, successive Aryan colonists had crossed the Indus, and, ever-pressing eastward, had driven out or absorbed the aboriginal occupants, and increased and multiplied into a great and civilized people. Later came Scythian swarms. At the time of Alexander the Great's invasion (320 *B. C.*), the Punjab was ruled by Hindu Rajas, the country was studded with walled towns, and Buddhism was for the time obscuring Brahminism. The jungly beds of the Punjab rivers and the desert tracts between them were roamed over by bands of pastoral nomads, probably of Scythian origin, and certainly the ancestors of some of the Jat and nondescript Musalman tribes of to-day. There can be no doubt that from pre-historic up to recent times, bands of mountaineers from Afghanistan and Khorasan, either independently as peaceful colonists, or as a force in an army of invasion, were constantly settling down as graziers and cultivators in thinly occupied tracts in the Punjab. The continuous flow of immigrants from the west—each successive swarm displacing and pushing further east or absorbing a group of earlier squatters— was only finally stopped by the British annexation of the [p. 8] Punjab 36 years ago. In popular migrations between India and beyond, there has never been any ebb and flow. Those who have come have remained. The "*pax Indo-Britannica*," instead of welding the medley of miscellaneous tribes and races into one nation, is, so far as Punjab Musalmans are concerned, fusing them into one religious confraternity of bigots, and widening rather than closing the natural opposition of sentiments and interests which separate them from Hindus.
 
 > _[Margin: Moghal conquest of Upper India.]_
 
@@ -343,7 +343,7 @@ As to Sikhism, he writes:—
 
 > _[Margin: Sikhism.]_
 
-The Sikh Jats of the Punjab are proverbially "the finest peasantry in India." Much no doubt is due to the sturdy independence and resolute industry which characterise the Jat of our eastern plans, whatever his religion. But much is also due to the freedom and boldness which the Sikh has inherited from the traditions of the Khalsa. I know of nothing more striking in the history of India than the bravery with which the Sikh fought against us, the contented cheerfulness with which he seems to have accepted defeat, and the loyalty with which he now serves and obeys us. It is barely [p. 16] 30 years since the Khalsa was the ruling power in the land, yet outside a few fanatical bodies, there is, so far as we know, no secret repining, no hankering after what has passed away. But the Sikh retains the energy and determination which made his name renowned, and, though still inclined to military service, carries them into the more peaceful pursuits of husbandry. In 1853 Sir Richard Temple wrote:—"The staunch foot-soldier has become the sturdy cultivator, and the brave officer is now the village elder; and their children now grasp the plough with the same strong hand with which the father wielded the sword." The prohibition against the use of tobacco has driven them to spirits and drugs, which are not unseldom indulged in to excess. But the evil is largely confined to the wealthier classes, and is more than counterbalanced by the manly love of field sports and openair exercise, which their freedom from restraint in the matter of taking animal life and their natural pride, exercising and displaying that freedom, have engendered in them. The Sikh is more independent, more brave, more manly, than the Hindu, and no whit less industrious and thrifty; while he is less conceited than the Musalman, and not devoured by that carking discontent which so often seems to suppress the latter.
+The Sikh Jats of the Punjab are proverbially "the finest peasantry in India." Much no doubt is due to the sturdy independence and resolute industry which characterise the Jat of our eastern plans, whatever his religion. But much is also due to the freedom and boldness which the Sikh has inherited from the traditions of the Khalsa. I know of nothing more striking in the history of India than the bravery with which the Sikh fought against us, the contented cheerfulness with which he seems to have accepted defeat, and the loyalty with which he now serves and obeys us. It is barely [p. 16] 30 years since the Khalsa was the ruling power in the land, yet outside a few fanatical bodies, there is, so far as we know, no secret repining, no hankering after what has passed away. But the Sikh retains the energy and determination which made his name renowned, and, though still inclined to military service, carries them into the more peaceful pursuits of husbandry. In 1853 Sir Richard Temple wrote:—"The staunch foot-soldier has become the sturdy cultivator, and the brave officer is now the village elder; and their children now grasp the plough with the same strong hand with which the father wielded the sword." The prohibition against the use of tobacco has driven them to spirits and drugs, which are not unseldom indulged in to excess. But the evil is largely confined to the wealthier classes, and is more than counterbalanced by the manly love of field sports and open-air exercise, which their freedom from restraint in the matter of taking animal life and their natural pride, exercising and displaying that freedom, have engendered in them. The Sikh is more independent, more brave, more manly, than the Hindu, and no whit less industrious and thrifty; while he is less conceited than the Musalman, and not devoured by that carking discontent which so often seems to suppress the latter.
 
 Finally, as to the effect of Islam upon the character of its followers, Mr. Ibbetson writes with caustic severity:—
 
@@ -957,36 +957,7 @@ The number of suits disposed of in that year rose to 2,18,390, of which 1,66,679
 
 > _[Margin: Optimism of the Punjab Government.]_
 
-In the Administration Report for the financial year 1872-73, the Lieutenant-Governor complacently referred to the peasant proprietors of his Province as " thriving and industrious cultivators of the soil," and was " not disposed to regard
-
-> _[Margin: Comparative statement showing increase in litigation since 1866.]_
-
-
-| Year. | Number of civil courts sitting. | NUMBER OF SUITS DISPOSED OF :: For money due. | NUMBER OF SUITS DISPOSED OF :: Others. | NUMBER OF SUITS DISPOSED OF :: Total. | + or - on figures of preceding year. | Remarks. |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1866 | 392 | 96,222 | 70,336 | 1,66,558 | ... |  |
-| 1867 | 409 | 90,697 | 54,980 | 1,45,677 | - 20,881 |  |
-| 1868 | 405 | 1,05,506 | 46,321 | 1,51,827 | + 6,150 |  |
-| 1869 | 434 | 1,21,597 | 48,318 | 1,69,715 | +18,088 |  |
-| 1870 | 433 | 1,44,958 | 58,856 | 2,03,714 | +33,799 |  |
-| 1871 | 442 | 1,66,679 | 51,711 | 2,18,390 | +14,676 |  |
-| 1872 | 505 | 1,68,209 | 50,134 | 2,18,343 | - 47 |  |
-| 1873 | 497 | 1,69,937 | 53,456 | 2,23,393 | + 5,050 |  |
-| 1874 | 501 | 1,77,279 | 57,561 | 2,34,840 | +11,447 |  |
-| 1875 | 595 | 1,73,224 | 62,123 | 2,35,347 | + 507 |  |
-| 1876 | 596 | 1,87,895 | 59,341 | 2,47,236 | +11,889 |  |
-| 1877 | 490 | 1,83,421 | 60,561 | 2,43,082 | - 3,254 |  |
-| 1878 | (?) | 1,91,635 | 59,221 | 2,50,856 | + 6,874 |  |
-| 1879 | 469 | 2,08,862 | 44,225 | 2,53,087 | + 2,231 | The detail of disposals |
-| 1880 | 450 | 2,13,987 | 49,890 | 2,63,877 | +10,790 |  |
-| 1881 | 438 | 2,12,967 | 51,324 | 2,64,291 | + 414 |  |
-| 1882 | 444 | 2,09,492 | 60,281 | 2,69,773 | + 5,482 |  |
-| 1883 | 440 | 2,13,895 | 58,706 | 2,72,601 | + 2,828 |  |
-| 1884 | (?) | 2,13,297 | 58,078 | 2,71,375 | - 1,226 |  |
-
-
-<!-- page: 89 | folio: 77 -->
-this comparatively free resort to the courts in petty cases as an unfavourable sign."
+In the Administration Report for the financial year 1872-73, the Lieutenant-Governor complacently referred to the peasant proprietors of his Province as " thriving and industrious cultivators of the soil," and was " not disposed to regard [p. 77] this comparatively free resort to the courts in petty cases as an unfavourable sign."
 
 > _[Margin: Arbitration seldom resorted to.]_
 
@@ -1039,7 +1010,6 @@ A Commission, then, of unbiassed experts, after carefully considering the best o
 The officers who know the people best are those who spend five or six months in camp every year, and are left for several years in one district. Settlement Officers generally serve for six [p. 81] or seven years in the same district. If it happens to be a quiet rural district, the chances are, that the officer will knock about in camp for half the year and hold an open *levée* every day in the week all the year round. Should there be a cantonment in the district, or a popular hill station, the distraction of society and the delights of Himalayan life will probably prove inimical to the acquisition of intimacy with the people. The same causes affect district officers, who are, moreover, generally older men than Settlement Officers, and therefore less inclined for camp life ; and further, they do not, on an average, hold charge of the same district for more than two years. We may presume that such men will generalise more correctly, but have less particular rural knowledge, than Settlement Officers. Of the 14 districts of the Western Punjab, five only are quiet rural districts[^sec-09-fn-006] without cantonments or hill stations. The head-quarters of the other nine have large garrisons, [^sec-09-fn-007] and two (Rawalpindi and Hazara) have, in addition, popular Himalayan stations within their limits.
 
 > _[Margin: The five quiet rural districts.]_
-> _[Margin: Garrison of the 14 Musalman districts.]_
 
 Of the five ungarrisoned districts, two—Gujrat and Shahpur—were settled nearly 20 years ago, in days when cultivators were still comparatively unembarrassed. The other three districts— Montgomery, Muzaffargarh, and Jhang—were settled between 1868 and 1880 by Messrs. Purser, O'Brien, and Steedman, and their reports prove that during their six years' lonely exile in their respective districts, they learnt to know the people as thoroughly as it is possible for English gentlemen to become intimate with uneducated [p. 82] natives. The three districts lie together south of the Salt Range, in the great arid plain described in the opening chapter of this book.
 
@@ -1155,12 +1125,38 @@ Reviewing all the *data* available for forming an opinion on the state of indebt
 ### Notes
 
 [^sec-09-fn-001]: (*) The following statement exhibits the increase in civil litigation since 1886 :—
+
+    > _[Margin: Comparative statement showing increase in litigation since 1866.]_
+
+    | Year. | Number of civil courts sitting. | NUMBER OF SUITS DISPOSED OF :: For money due. | NUMBER OF SUITS DISPOSED OF :: Others. | NUMBER OF SUITS DISPOSED OF :: Total. | + or - on figures of preceding year. | Remarks. |
+    | --- | --- | --- | --- | --- | --- | --- |
+    | 1866 | 392 | 96,222 | 70,336 | 1,66,558 | ... |  |
+    | 1867 | 409 | 90,697 | 54,980 | 1,45,677 | - 20,881 |  |
+    | 1868 | 405 | 1,05,506 | 46,321 | 1,51,827 | + 6,150 |  |
+    | 1869 | 434 | 1,21,597 | 48,318 | 1,69,715 | +18,088 |  |
+    | 1870 | 433 | 1,44,958 | 58,856 | 2,03,714 | +33,799 |  |
+    | 1871 | 442 | 1,66,679 | 51,711 | 2,18,390 | +14,676 |  |
+    | 1872 | 505 | 1,68,209 | 50,134 | 2,18,343 | - 47 |  |
+    | 1873 | 497 | 1,69,937 | 53,456 | 2,23,393 | + 5,050 |  |
+    | 1874 | 501 | 1,77,279 | 57,561 | 2,34,840 | +11,447 |  |
+    | 1875 | 595 | 1,73,224 | 62,123 | 2,35,347 | + 507 |  |
+    | 1876 | 596 | 1,87,895 | 59,341 | 2,47,236 | +11,889 |  |
+    | 1877 | 490 | 1,83,421 | 60,561 | 2,43,082 | - 3,254 |  |
+    | 1878 | (?) | 1,91,635 | 59,221 | 2,50,856 | + 6,874 |  |
+    | 1879 | 469 | 2,08,862 | 44,225 | 2,53,087 | + 2,231 | The detail of disposals |
+    | 1880 | 450 | 2,13,987 | 49,890 | 2,63,877 | +10,790 |  |
+    | 1881 | 438 | 2,12,967 | 51,324 | 2,64,291 | + 414 |  |
+    | 1882 | 444 | 2,09,492 | 60,281 | 2,69,773 | + 5,482 |  |
+    | 1883 | 440 | 2,13,895 | 58,706 | 2,72,601 | + 2,828 |  |
+    | 1884 | (?) | 2,13,297 | 58,078 | 2,71,375 | - 1,226 |  |
 [^sec-09-fn-002]: (*) Previously a court had power to accept, refuse, or modify an award by Arbitration. arbitrators. The new law deprived the courts of that power, and compelled them to "give judgment according to the award." The change in the law, as much as the loss of confidence of natives in each other, has operated to make reference to arbitration as a mode of settlement of civil disputes of rare occurrence.
 [^sec-09-fn-003]: (†) Punjab Administration Report, 1873-74, page 37.
 [^sec-09-fn-004]: (*) A District Officer or Deputy Commissioner in the Punjab is equivalent to the Collector of the N.-W. Provinces, and a Tahsildar to the Deputy Collector.
 [^sec-09-fn-005]: (*) Para. 4, page 131 of *Report of the Indian Famine Commission*, Part II.
 [^sec-09-fn-006]: (*) Gujrat, Shahpur, Montgomery, Jhang, and Muzaffargarh.
 [^sec-09-fn-007]: (†) The strength of the garrisons are, in round numbers, Peshawar valley, 8,000 ; Rawalpindi district, 7,000 ; Hazara, 1,800 ; Jhelum, 1,100 ; Mooltan, 1,400 ; Kohat, 3,000 ; Bannu, 2,200 ; Dera-Ismail-Khan, 2,500 ; Dera-Ghazi-Khan district, 1,500 : in all, about 28,000 men.
+
+    > _[Margin: Garrison of the 14 Musalman districts.]_
 [^sec-09-fn-008]: (*) To save space here, I omit very lengthy quotations from reports by Settlement and District Officers on the condition of the people in each of the 14 districts, but give extracts from them in appendix A.
 [^sec-09-fn-009]: (†) Page 92 of the *Gazetteer* of the Jhang district. I may note generally that the contents of the district *Gazetteers* of the Punjab, as far as revenue matters and the economic condition of the people are concerned, are passages taken from settlement reports. The *Gazetteers* being handier, I generally quote from them.
 [^sec-09-fn-010]: (‡) Page 94 of the *Gazetteer* of the Jhang district.
@@ -1184,9 +1180,7 @@ Reviewing all the *data* available for forming an opinion on the state of indebt
 
 > _[Margin: Statistics of land alienated to money-lenders still imperfect.]_
 
-<span class="sc">Fifteen</span> years ago, when reviewing the Revenue Report of the Punjab for 1871-72, the Lieutenant-Governor remarked :— "There do not appear to be any statistics available for showing the amount of land which generally, since annexation, or during any particular year, has been sold or mortgaged to money-lenders by zemindars." Some figures having been prepared, the Lieutenant-Governor in the following year "resolved" that they were "indicative of remarkable prosperity and a very moderate land revenue assessment." Since that year first regular settlements and the revisions of such settlements earlier made, have been completed or are in progress in 22 [^sec-10-fn-001] districts, and efforts have been made to obtain reliable statistics as to transfers of rights in land, but with small success ; for, writing on December 24th, 1885, the Lieutenant-Governor, reviewing the Revenue Report for 1884-85, remarked that such returns were still admittedly defective and uncertain in meaning. [^sec-10-fn-002] He then proposes
-
-> "In the Punjab the sale of landed property is not decreed by the civil court as an ordinary process for recovering a debt, and is only sanctioned in special cases, where there is no other possible way of satisfying a creditor. The number of such sales has been insignificant. The transfers of land by private sale and mortgage in the three years 1874-77 have concerned 850,000 acres, or an eightieth part of the area of the Province. The consideration [p. 94] that typical villages should be selected, and the history of transfers worked out in them, so that by the “patient study of particular instances,” Government “may be enabled to generalize with confidence on a wider field.”
+<span class="sc">Fifteen</span> years ago, when reviewing the Revenue Report of the Punjab for 1871-72, the Lieutenant-Governor remarked :— "There do not appear to be any statistics available for showing the amount of land which generally, since annexation, or during any particular year, has been sold or mortgaged to money-lenders by zemindars." Some figures having been prepared, the Lieutenant-Governor in the following year "resolved" that they were "indicative of remarkable prosperity and a very moderate land revenue assessment." Since that year first regular settlements and the revisions of such settlements earlier made, have been completed or are in progress in 22 [^sec-10-fn-001] districts, and efforts have been made to obtain reliable statistics as to transfers of rights in land, but with small success ; for, writing on December 24th, 1885, the Lieutenant-Governor, reviewing the Revenue Report for 1884-85, remarked that such returns were still admittedly defective and uncertain in meaning. [^sec-10-fn-002] He then proposes [p. 94] that typical villages should be selected, and the history of transfers worked out in them, so that by the “patient study of particular instances,” Government “may be enabled to generalize with confidence on a wider field.”
 
 > _[Margin: Why 15 years of inquiry have resulted in nothing.]_
 
@@ -1213,7 +1207,7 @@ I.—The gift of full individual proprietary right—in which term is included t
 <!-- page: 108 | folio: 96 -->
 > _[Margin: Unfitness of peasants for such a gift.]_
 
-2.—Punjab agriculturists were, and still are, unfit for such a gift, the vast majority of them being to-day, after 36 years of British rule, almost as rude, ignorant,[^sec-10-fn-004] and imprudent as they were upon annexation.
+2.—Punjab agriculturists were, and still are, unfit for such a gift, the vast majority of them being to-day, after 36 years of British rule, almost as rude, ignorant,[^sec-10-fn-003] and imprudent as they were upon annexation.
 
 > _[Margin: Fixed cash assessments a mistake in rainless tracts.]_
 
@@ -1224,7 +1218,6 @@ I.—The gift of full individual proprietary right—in which term is included t
 4.—The Acts, Codes, and Rules affecting the relations between ignorant debtors and educated Bunniah-creditors, all tend to benefit the latter at the expense of the former.
 
 > _[Margin: Expropriation of peasantry by money-lenders.]_
-> _[Margin: Education amongst Musalman peasants.]_
 
 5.—Making due allowance for the consideration shown to agricultural debtors in the new Civil Procedure Code (Act XIV of 1882), and in the Law of Contract as interpreted in recent Chief Court Circulars and Decisions, the fact remains that agricultural indebtedness is increasing, and that if the acquisition of rights in land by Bunniahs be not arrested, agrarian troubles will shortly arise.
 
@@ -1257,8 +1250,13 @@ With these preliminary remarks I shall proceed to state and discuss the various 
 
 [^sec-10-fn-001]: (*) Detail is, first regular settlements completed in seven districts, revisions in eleven, and in four more still in progress.
 [^sec-10-fn-002]: (†) The available information on the subject was summed up by the Famine Commission at page 126, para. 7, Part II of their Report of 1880, as follows :—
-[^sec-10-fn-003]: [Unlinked note, p. 94] paid has amounted to 145 lakhs of rupees, of which half was contributed by agriculturists and half by non-agriculturists. The amount of land which has passed yearly into the hands of the trading community, has therefore been only one-five-hundredth part of the area of the Province. In the North-Western Provinces the civil courts are not governed by the same rules as obtain in the Punjab, and sales of landed property in execution of decrees are comparatively common; so that anxiety has at times been felt as to the extent to which land has changed hands and become the property of traders. In a special inquiry held in 1873, it was ascertained that during the preceding 35 years, 17 per cent. of the land had passed from agriculturists to the trading classes, who then held 27 per cent. of the whole. But the rate of transfer had much decreased in later years, and it may be added that since then a change has been made in the law of Civil Procedure, under which sales of land have become much less a matter of course than they were.”
-[^sec-10-fn-004]: (*) A compulsory school cess, amounting to 1 per cent. on the land revenue demand, is levied in the Punjab. West of the Jhelum meridian it is chiefly paid by Musalmans, but utilized by Hindus The number of boys in primary schools in the 14 Musalman districts, ranges from 1 in 59 of the male population in Jhelum to 1 in 154 in Montgomery. Most of the boys are only learning to read and write. More than half are Hindus. Of Musalman agriculturists, perhaps one in a hundred can read in an advanced district like Jhelum or Rawalpindi, and one in three hundred in a backward district like Montgomery or Hazara. South of the Salt Range there are hundreds of villages in which not a single Musalman agriculturist can read or sign his own name.
+
+    "In the Punjab the sale of landed property is not decreed by the civil court as an ordinary process for recovering a debt, and is only sanctioned in special cases, where there is no other possible way of satisfying a creditor. The number of such sales has been insignificant. The transfers of land by private sale and mortgage in the three years 1874-77 have concerned 850,000 acres, or an eightieth part of the area of the Province. The consideration [p. 94] paid has amounted to 145 lakhs of rupees, of which half was contributed by agriculturists and half by non-agriculturists. The amount of land which has passed yearly into the hands of the trading community, has therefore been only one-five-hundredth part of the area of the Province. In the North-Western Provinces the civil courts are not governed by the same rules as obtain in the Punjab, and sales of landed property in execution of decrees are comparatively common; so that anxiety has at times been felt as to the extent to which land has changed hands and become the property of traders. In a special inquiry held in 1873, it was ascertained that during the preceding 35 years, 17 per cent. of the land had passed from agriculturists to the trading classes, who then held 27 per cent. of the whole. But the rate of transfer had much decreased in later years, and it may be added that since then a change has been made in the law of Civil Procedure, under which sales of land have become much less a matter of course than they were.”
+
+    > _[Margin: Famine Commission's conclusions on alienations made to money-lenders.]_
+[^sec-10-fn-003]: (*) A compulsory school cess, amounting to 1 per cent. on the land revenue demand, is levied in the Punjab. West of the Jhelum meridian it is chiefly paid by Musalmans, but utilized by Hindus The number of boys in primary schools in the 14 Musalman districts, ranges from 1 in 59 of the male population in Jhelum to 1 in 154 in Montgomery. Most of the boys are only learning to read and write. More than half are Hindus. Of Musalman agriculturists, perhaps one in a hundred can read in an advanced district like Jhelum or Rawalpindi, and one in three hundred in a backward district like Montgomery or Hazara. South of the Salt Range there are hundreds of villages in which not a single Musalman agriculturist can read or sign his own name.
+
+    > _[Margin: Education amongst Musalman peasants.]_
 
 
 ## CHAPTER X: restrictions on the free transfer of land.
@@ -1292,22 +1290,9 @@ In the case of wells used for irrigation and the cultivated area attached theret
 
 > _[Margin: Liberality of Government in making advances for improvements and relief purposes.]_
 > _[Margin: General proposition.]_
-
-Since 1871, Government has encouraged landlords to take advances for agricultural improvements, particularly for well sinking. This wise measure is now well known. Large sums have, for the last 12 years, been advanced ; [^sec-11-fn-002] hence the landlord, if not in debt already, has no longer occasion to go to the money-lenders for means to sink a well. With the exception of isolated plots and villages, the above are the only localities in which the representatives of the original proprietary body have succumbed before the superior means and energy of outsiders. The proportion of all such lands in which money-lenders as owners, mortgagees or receivers of rent, have rights, is probably under 30 per cent. of their whole area. It may be laid down as a general proposition that wherever natural advantages have been great, over-population has caused the minute sub-divisions of estates, and has consequently so
-
-
-| Item | Rs. | a. | p. |
-| --- | --- | --- | --- |
-| Agricultural improvements | 4,51,814 | 0 | 0 |
-| Seed-grain | 19,468 | 0 | 0 |
-| Bullocks | 41,925 | 0 | 0 |
-|  | 5,13,207 | 0 | 0 |
-
-
-<!-- page: 114 | folio: 102 -->
 > _[Margin: A small reform in land tenure recommended.]_
 
-operated as to freely admit outsiders as purchasers and mortgagees ; and further, that in tracts suitable for the profitable working of irrigation wells, until recently the capital of the money-lender was generally required to help the land-owner to sink a well. Giving due weight to the above considerations, and fully recognising the necessity of imposing no unnecessary restrictions on the investment of capital in land, whenever such investment will be spent on increasing the productive power of the land, I proceed to state the reform in land tenure which I recommend for adoption.
+Since 1871, Government has encouraged landlords to take advances for agricultural improvements, particularly for well sinking. This wise measure is now well known. Large sums have, for the last 12 years, been advanced ; [^sec-11-fn-002] hence the landlord, if not in debt already, has no longer occasion to go to the money-lenders for means to sink a well. With the exception of isolated plots and villages, the above are the only localities in which the representatives of the original proprietary body have succumbed before the superior means and energy of outsiders. The proportion of all such lands in which money-lenders as owners, mortgagees or receivers of rent, have rights, is probably under 30 per cent. of their whole area. It may be laid down as a general proposition that wherever natural advantages have been great, over-population has caused the minute sub-divisions of estates, and has consequently so [p. 102] operated as to freely admit outsiders as purchasers and mortgagees ; and further, that in tracts suitable for the profitable working of irrigation wells, until recently the capital of the money-lender was generally required to help the land-owner to sink a well. Giving due weight to the above considerations, and fully recognising the necessity of imposing no unnecessary restrictions on the investment of capital in land, whenever such investment will be spent on increasing the productive power of the land, I proceed to state the reform in land tenure which I recommend for adoption.
 
 > _[Margin: Restriction in free trade in land proposed.]_
 
@@ -1338,6 +1323,13 @@ In order to illustrate the possible effect of the alterations in the law which I
 
 [^sec-11-fn-001]: (*) For definition of the term, see page 83.
 [^sec-11-fn-002]: (*) See Land Improvement Acts XXVI of 1871 and XIX of 1883 ; also Agriculturists Loan Act XII of 1884 and its predecessor Act X of 1879. In 1871-72 the amount of advances made to agriculturists in the Punjab was nearly a lakh and a quarter, and has since that year been steadily increasing, and now aggregates over five lakhs in each year. The detail for 1884-85 was—
+
+    | Item | Rs. | a. | p. |
+    | --- | --- | --- | --- |
+    | Agricultural improvements | 4,51,814 | 0 | 0 |
+    | Seed-grain | 19,468 | 0 | 0 |
+    | Bullocks | 41,925 | 0 | 0 |
+    |  | 5,13,207 | 0 | 0 |
 
 
 ## CHAPTER XI: REFORM IN OUR LAND REVENUE SYSTEM IN RAINLESS TRACTS.
@@ -1547,11 +1539,6 @@ Thus, in reviewing the administration of the Punjab for 1884-85, the Lieutenant-
 
 Steps have been taken to remove an erroneous but too general impression, that when a rate of interest has been fixed by the consent of the parties, the court is bound to decree accordingly.
 
-> _[Margin: Award of interest in decrees.]_
-> _[Margin: Punjab Record, Civil Judgment No. 110 of 1879.]_
-
-> "The award of interest after decree has been discussed in the section which deals with disposal of suits. A more difficult matter to deal with is the award of interest in decrees, that is, in the sum substantively decreed. Instructions have been issued for the guidance of Judicial Officers in this matter in Judicial Circular No. XXIV, and in the case noted in the margin it was ruled that the absence of free consent on the part of the borrower might be presumed, under Section 114 of the Indian Evidence Act, from the bare facts of the borrower being a zemindar and the lender a village money-lender. It is to be feared, however, that civil courts are sometimes not as careful as they should be in dealing with claims which are largely, or sometimes even mostly, made up of interest. In cases in which a settlement is come to by the parties under Section 375 of the Civil Procedure Code, the courts are helpless, for they must pass a decree in accordance with the lawful agreement of the parties ; but in other cases the court can exercise its discretion ; and in such cases, even if the claim to interest is not specifically objected to, the court should act in the spirit of the instructions which have been above referred to, and the superior courts should make the most of such opportunities as are afforded them by appeals and inspection of records to see that they do so."
-
 
 <!-- page: 139 | folio: 127 -->
 Such rulings, instructions, and interpretations effectually encourage sympathetic civil courts,—*i. e.*, most of those presided over by Englishmen,—to treat a large part of the Indian Law of Contract as a dead letter in cases in which agriculturists are defendants.
@@ -1600,7 +1587,7 @@ Now to pass on to the effect of legal practitioners on litigation. Their increas
 
 > The number of pleaders is annually increasing, and few cases reach the higher appellate court without the entertainment of advocates, however small the value of the subject-matter may be. Whether, in the present state of the Province, it is an unmixed benefit to the people, to be able to avail themselves so freely of professional assistance in the prosecution of their claims, may be matter for consideration.
 
-When these words were written, the number of legal practitioners in the Punjab was 149. Since then—*i. e.*, between the beginning of 1883 and end of April, 1886, *the number has more than doubled*, there being on the latter date 396. The annual rate of increase for the future will not be under 50. In the first four months of the current year, no fewer than 49 new pleaders and mukhtars were admitted and enrolled. Of the 396 practising in the Province on 1st May last, 308 were men of inferior qualifications, being pleaders and mukhtars of the second grade. At a [p. 133] low computation[^sec-13-fn-015] the gross annual earnings of the Bar are about 22 lakhs, almost all of which money comes out of
+When these words were written, the number of legal practitioners in the Punjab was 149. Since then—*i. e.*, between the beginning of 1883 and end of April, 1886, *the number has more than doubled*, there being on the latter date 396. The annual rate of increase for the future will not be under 50. In the first four months of the current year, no fewer than 49 new pleaders and mukhtars were admitted and enrolled. Of the 396 practising in the Province on 1st May last, 308 were men of inferior qualifications, being pleaders and mukhtars of the second grade. At a [p. 133] low computation[^sec-13-fn-015] the gross annual earnings of the Bar are about 22 lakhs, almost all of which money comes out of the pockets of litigants. Of practising lawyers, only 21 advocates and perhaps half of the pleaders and mukhtars of the first grade, received legal educations. All the others have become lawyers under the stress of circumstances, the large majority being failures in, or having failed to obtain Government service. In a lengthy or intricate case a good pleader is undoubtedly of great assistance both to his client and to the Judge who hears the cause; but an indifferent one is a nuisance to both. Those inferior practitioners who take up petty cases and appear in munsifs' courts, are generally unscrupulous pretenders, who prey on the ignorance of their clients. As a rule, a poor man has no wish to engage the services of a pleader or mukhtar unless his opponent first does so, in which case he thinks it necessary to do the same.
 
 
 | Class. | Number. | Annual receipts per head. :: Rs. | Total receipts of class. :: Rs. |
@@ -1611,8 +1598,6 @@ When these words were written, the number of legal practitioners in the Punjab w
 | 1st grade mukhtars, | 15 | 5,000 | 75,000 |
 | 2nd grade mukhtars, | 133 | 1,200 | 1,59,600 |
 | Total ... | 396 | 38,200 | 22,02,600 |
-
-the pockets of litigants. Of practising lawyers, only 21 advocates and perhaps half of the pleaders and mukhtars of the first grade, received legal educations. All the others have become lawyers under the stress of circumstances, the large majority being failures in, or having failed to obtain Government service. In a lengthy or intricate case a good pleader is undoubtedly of great assistance both to his client and to the Judge who hears the cause; but an indifferent one is a nuisance to both. Those inferior practitioners who take up petty cases and appear in munsifs' courts, are generally unscrupulous pretenders, who prey on the ignorance of their clients. As a rule, a poor man has no wish to engage the services of a pleader or mukhtar unless his opponent first does so, in which case he thinks it necessary to do the same.
 
 Petition-writers playing into the hands of their friends or patrons and cutcherry-touts often induce simpletons— [p. 134] and most agriculturists when litigating are simpletons—to engage pleaders, believing that by so doing they must win. I shall refer to this subject again. For the present I draw attention to the annually increasing number of low class legal practitioners in the Punjab, a large proportion of whom are legal impostors, who live on the credulity of foolish litigants, and impede, rather than help, justice.
 
@@ -1628,22 +1613,7 @@ Munsifs are not to be blamed for pocketing whatever consciences they may have, a
 
 > _[Margin: Manufacture of false bonds common in every district.]_
 
-Since 1868 the registration of bonds has been optional, hence few bonds are now registered. Their registration used to be a protection to the debtor, but was, in fact, no complete security, as the consideration, though stated in the deed to have been received, was frequently paid—if at all—afterwards. Since the registration of bonds for more than Rs. 50 ceased to be compulsory, the manufacture of false bonds has gradually become a profession. In every district Cis-Indus the trade flourishes. It is a matter of daily occurrence for a frightened peasant to give in petitions to the effect that such and such an one has forged a bond against him. It must not be supposed that Bunniahs enjoy a monopoly of the various means by which
-
-
-| Col 1 | Col 2 | Col 3 |
-| --- | --- | --- |
-| 52 | Sundays. |  |
-| 17 | Mahomedan holidays. |  |
-| 21 | Hindu | „ |
-| 11 | Christian | „ |
-| 17 | Local and conditional holidays. |  |
-| 10 | Days for indisposition, casual leave, &c. |  |
-| 128 |  |  |
-
-
-<!-- page: 148 | folio: 136 -->
-our legal system helps an unscrupulous man to plunder or cheat his neighbours. One case in court teaches a peasant how to meet lying with lying and forgery with forgery. How to procure a false receipt and to assume an air of stolid ignorance, and deny everything, are arts easily acquired.
+Since 1868 the registration of bonds has been optional, hence few bonds are now registered. Their registration used to be a protection to the debtor, but was, in fact, no complete security, as the consideration, though stated in the deed to have been received, was frequently paid—if at all—afterwards. Since the registration of bonds for more than Rs. 50 ceased to be compulsory, the manufacture of false bonds has gradually become a profession. In every district Cis-Indus the trade flourishes. It is a matter of daily occurrence for a frightened peasant to give in petitions to the effect that such and such an one has forged a bond against him. It must not be supposed that Bunniahs enjoy a monopoly of the various means by which [p. 136] our legal system helps an unscrupulous man to plunder or cheat his neighbours. One case in court teaches a peasant how to meet lying with lying and forgery with forgery. How to procure a false receipt and to assume an air of stolid ignorance, and deny everything, are arts easily acquired.
 
 > _[Margin: Instance of the way in which a false bond is prepared.]_
 
@@ -1670,10 +1640,30 @@ Between the law-practising lawyers, Chief Court, and Divisional and District Jud
 [^sec-13-fn-010]: (*) Judicial Circular No. XXIV of 1879.
 [^sec-13-fn-011]: (†) See Appendix F, in which part of a judgment by the Allahabad High Court is quoted, together with comments thereon by the *Pioneer*, in its issue of July 30th, 1886. Some remarks of mine are added, drawing attention to the moral conveyed by the judgment.
 [^sec-13-fn-012]: (‡) Para. 104 of *Civil Administration Report*, 1883, is as follows :—
+
+    "The award of interest after decree has been discussed in the section which deals with disposal of suits. A more difficult matter to deal with is the award of interest in decrees, that is, in the sum substantively decreed. Instructions have been issued for the guidance of Judicial Officers in this matter in Judicial Circular No. XXIV, and in the case noted in the margin it was ruled that the absence of free consent on the part of the borrower might be presumed, under Section 114 of the Indian Evidence Act, from the bare facts of the borrower being a zemindar and the lender a village money-lender. It is to be feared, however, that civil courts are sometimes not as careful as they should be in dealing with claims which are largely, or sometimes even mostly, made up of interest. In cases in which a settlement is come to by the parties under Section 375 of the Civil Procedure Code, the courts are helpless, for they must pass a decree in accordance with the lawful agreement of the parties ; but in other cases the court can exercise its discretion ; and in such cases, even if the claim to interest is not specifically objected to, the court should act in the spirit of the instructions which have been above referred to, and the superior courts should make the most of such opportunities as are afforded them by appeals and inspection of records to see that they do so."
+
+    > _[Margin: Award of interest in decrees.]_
+
+    > _[Margin: Punjab Record, Civil Judgment No. 110 of 1879.]_
 [^sec-13-fn-013]: (*) Judicial Circular No. XXIV.
 [^sec-13-fn-014]: (*) Statutory costs include the judicial stamp on plaint, process-fees, pleaders' fees at a recognised scale, and diet-money for witnesses, but exclude travelling expenses of parties between home and court, board and lodging at place where court sits, cost of drawing up and writing plaint and numerous petitions and applications, the difference between percentage on value of suit allowed to pleader and sum actually paid, and a great many miscellaneous incidental expenses besides.
 [^sec-13-fn-015]: (*) In a criminal case tried by the District Judge of Rawalpindi in June, 1886, the prosecution and defence cost complainant and accused over Rs. 8,000. The examination and cross-examination of a native expert cost Rs. 1,200. All this money went into the pockets of several Barrister-pleaders in a trial which lasted about six days. As a rule, pleaders fight shy of criminal trials.
-[^sec-13-fn-016]: (*) The deductions are usually— Thus, 365—128 = 237 ÷ 12 = 20 working days in the month.
+[^sec-13-fn-016]: (*) The deductions are usually—
+
+    > _[Margin: Working days in a year.]_
+
+    | Col 1 | Col 2 | Col 3 |
+    | --- | --- | --- |
+    | 52 | Sundays. |  |
+    | 17 | Mahomedan holidays. |  |
+    | 21 | Hindu | „ |
+    | 11 | Christian | „ |
+    | 17 | Local and conditional holidays. |  |
+    | 10 | Days for indisposition, casual leave, &c. |  |
+    | 128 |  |  |
+
+    Thus, 365—128 = 237 ÷ 12 = 20 working days in the month.
 
 
 ## CHAPTER XIII: REFORMS IN CIVIL LAW AND PROCEDURE.
@@ -1805,7 +1795,7 @@ To attempt anything more than I have here proposed would be a mistake. It would 
 
 The law is contained in Act III of 1877. Briefly put, it makes the registration of instruments affecting immoveable property, worth Rs. 100 and upwards, compulsory, and leaves that of most [p. 151] others optional. Further, it provides that in the former case, when the law has not been complied with, unregistered documents shall not be received as evidence, and that registered documents shall take effect against unregistered and, *à fortiori*, against oral agreements. Notwithstanding the superiority of registered over unregistered documents, the number of the former, in cases in which option is permitted, has been steadily decreasing of late years, so much so that in 1884-85, the last year for which returns have been published, 11,305 optional documents relating to immoveable property, and only 3,611 concerning money obligations, were registered. Thus, it may be said that bonds for small amounts are practically not registered at all in the Punjab. We have seen at page 136 how easily bonds are forged, and the transactions described in them supported by false entries in account-books and other corroborative evidence. I think, and I believe, that most officers of district experience will agree with me that compulsory registration should be extended to all bonds over Rs. 49, and that registering officers should be compelled to record particulars as to the state of the account between the parties, and of the nature and mode of payment of the consideration. Were the law so amended, both the people of the Punjab and our civil courts would experience great relief. Such a change would only be a reversion to the rule[^sec-14-fn-013] which obtained in the Punjab from 1859 until the beginning of 1868, when the Registration Act XX of 1866 was extended to it. From that time the registration of all bonds has been, as now, optional.
 
-Most registrars content themselves by having the instrument read over before the executants and their witnesses, and by receiving an affirmative answer to the stock-question [p. 152] whether or not the consideration has been received. A short oral examination would frequently disclose that the bond either does not contain a true recital of the transaction therein described, or omits the mention of important particulars,—*e. g.*, the fact that the consideration or part of it has not yet been paid, or that a separate account is still running on. The necessity of better protecting agriculturists by the extension of compulsory registration is recognised in the Deccan Ryots Act, Chapter VIII of which provides for the appointment of village registrars— analogous to our Punjab non-official registrars—declares that instruments executed by agriculturists shall not be deemed valid unless executed before such an officer, and requires that the amount and nature of the consideration shall be fully stated and attested.
+Most registrars content themselves by having the instrument read over before the executants and their witnesses, and by receiving an affirmative answer to the stockquestion [p. 152] whether or not the consideration has been received. A short oral examination would frequently disclose that the bond either does not contain a true recital of the transaction therein described, or omits the mention of important particulars,—*e. g.*, the fact that the consideration or part of it has not yet been paid, or that a separate account is still running on. The necessity of better protecting agriculturists by the extension of compulsory registration is recognised in the Deccan Ryots Act, Chapter VIII of which provides for the appointment of village registrars— analogous to our Punjab non-official registrars—declares that instruments executed by agriculturists shall not be deemed valid unless executed before such an officer, and requires that the amount and nature of the consideration shall be fully stated and attested.
 
 
 ##### (6).—*Exclusion of legal practitioners from the courts of munsifs and tahsildars.*
@@ -1928,9 +1918,7 @@ The Settlement Officer, Mr. Roe, after expressing his concurrence in the opinion
 
 > _[Margin: Mr. Roe's opinion.]_
 
-We find the people just what, from the historical summary already given, we should expect them to be. The great mass of them are Mahomedan Jats, the descendants of Hindu tribes, some of whom may have come from Rajputana and Sindh, whilst others may have been in the country from long before the days of Alexander. Besides these, we have groups of Afghans, generally of superior position, who gained their lands with the Nawabs of Mooltan, and a considerable number of Hindu *Kiràrs*, who, for the most part, pushed their way, or were introduced by Sawan Mull, into nearly all the villages during the Sikh rule. Amongst the Jats, many of the better classes are men of energy and intelligence, taking a keen interest in the improvement of their estates, and managing them most successfully. But the bulk of the smaller zemindars are ignorant and careless farmers, destitute of energy, drifting along without a thought for the morrow, and not attempting to look into their accounts as long as the money-lender will give them an advance. When the day of settlement comes at last, and they find themselves hopelessly involved, they attribute their ruin, not to their own laziness and extravagance, but to the avarice of the *Kiràr*, and look to the District Officer to cancel their debts and reduce their assessments. Some excuse may be made for them in the fact that they were quite unprepared for our system of cash assessments. * * The
-
-Hindu *Kiràrs*, as a rule, are thrifty and hardworking, and most of those who own land have little to do with money-lending. Most of the leading Afghans are, like many of the leading Jats, energetic and intelligent, but they suffer from the same vice of extravagance. Men who should be walking, think they must keep their horse ; those who could properly afford one or two horses, think they must keep five or six : men who would be men of substance and position, if they would only look after their property themselves, think it adds to their dignity to transact all their business through a *mukhtar* or agent. The consequence is, that there is a very serious amount of indebtedness. Only the amount due on regular mortgages has been recorded in the settlement papers, and this can hardly be accepted [p. 162] as absolutely correct. But it is hardly likely to be over the mark, for against exaggerations intended to defeat pre-emption, may be set off accidental omissions. Taking the amount of the liabilities shown in the statements as approximately correct, they cover 2·4 per cent. of the total area. At the regular settlement the area mortgaged was 1·7 per cent. of the whole. It is, however, probable that the increase has not really been so great as this, for at the regular settlement the importance of obtaining a record of the mortgage was hardly so well understood, and there were probably more omissions then than now. No attempt has been made to record the amount due on *lekha-mukhi* mortgages, but the area affected by them (counting only those which are proved or admitted) is 7·2 per cent. of the whole. Adding this to the regular mortgages, the total area pledged is 9·7 per cent. of the whole : this is a very serious amount of debt.
+We find the people just what, from the historical summary already given, we should expect them to be. The great mass of them are Mahomedan Jats, the descendants of Hindu tribes, some of whom may have come from Rajputana and Sindh, whilst others may have been in the country from long before the days of Alexander. Besides these, we have groups of Afghans, generally of superior position, who gained their lands with the Nawabs of Mooltan, and a considerable number of Hindu *Kiràrs*, who, for the most part, pushed their way, or were introduced by Sawan Mull, into nearly all the villages during the Sikh rule. Amongst the Jats, many of the better classes are men of energy and intelligence, taking a keen interest in the improvement of their estates, and managing them most successfully. But the bulk of the smaller zemindars are ignorant and careless farmers, destitute of energy, drifting along without a thought for the morrow, and not attempting to look into their accounts as long as the money-lender will give them an advance. When the day of settlement comes at last, and they find themselves hopelessly involved, they attribute their ruin, not to their own laziness and extravagance, but to the avarice of the *Kiràr*, and look to the District Officer to cancel their debts and reduce their assessments. Some excuse may be made for them in the fact that they were quite unprepared for our system of cash assessments. * * The Hindu *Kiràrs*, as a rule, are thrifty and hardworking, and most of those who own land have little to do with money-lending. Most of the leading Afghans are, like many of the leading Jats, energetic and intelligent, but they suffer from the same vice of extravagance. Men who should be walking, think they must keep their horse ; those who could properly afford one or two horses, think they must keep five or six : men who would be men of substance and position, if they would only look after their property themselves, think it adds to their dignity to transact all their business through a *mukhtar* or agent. The consequence is, that there is a very serious amount of indebtedness. Only the amount due on regular mortgages has been recorded in the settlement papers, and this can hardly be accepted [p. 162] as absolutely correct. But it is hardly likely to be over the mark, for against exaggerations intended to defeat pre-emption, may be set off accidental omissions. Taking the amount of the liabilities shown in the statements as approximately correct, they cover 2·4 per cent. of the total area. At the regular settlement the area mortgaged was 1·7 per cent. of the whole. It is, however, probable that the increase has not really been so great as this, for at the regular settlement the importance of obtaining a record of the mortgage was hardly so well understood, and there were probably more omissions then than now. No attempt has been made to record the amount due on *lekha-mukhi* mortgages, but the area affected by them (counting only those which are proved or admitted) is 7·2 per cent. of the whole. Adding this to the regular mortgages, the total area pledged is 9·7 per cent. of the whole : this is a very serious amount of debt.
 
 > _[Margin: Colonel Wace's remarks on changes in the economic condition of the people under British rule.]_
 

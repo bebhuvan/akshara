@@ -1,29 +1,33 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
 imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,1,data,,MALAYO-POLYNESIAN FAMILY,2,Group and Sub-group.,Malay Group.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,1,data,,MALAYO-POLYNESIAN FAMILY,3,Language.,Selung or Selon. Nicobarese.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,1,data,,MALAYO-POLYNESIAN FAMILY,4,Total Number of speakers.,"1,318 6,513",,count,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,1,data,,MALAYO-POLYNESIAN FAMILY,5,Where chiefly spoken in British India.,Burma. Nicobars.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,SEMITIC FAMILY,2,Group and Sub-group.,.   .   .,,,True,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,SEMITIC FAMILY,3,Language.,Arabic.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,SEMITIC FAMILY,4,Total Number of speakers.,"42,881",42881.0,count,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,SEMITIC FAMILY,5,Where chiefly spoken in British India.,Hyderābād and Aden.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,HAMITIC FAMILY,2,Group and Sub-group.,.   .   .,,,True,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,HAMITIC FAMILY,3,Language.,Somali.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,HAMITIC FAMILY,4,Total Number of speakers.,"5,530",5530.0,count,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,HAMITIC FAMILY,5,Where chiefly spoken in British India.,Aden.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,UNCLASSIFIED LANGUAGES,2,Group and Sub-group.,.   .   .,,,True,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,UNCLASSIFIED LANGUAGES,3,Language.,Andamese.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,UNCLASSIFIED LANGUAGES,4,Total Number of speakers.,"1,882",1882.0,count,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,UNCLASSIFIED LANGUAGES,5,Where chiefly spoken in British India.,Andamans.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,Row 5,2,Group and Sub-group.,,,,True,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,Row 5,3,Language.,Gipsy languages.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,Row 5,4,Total Number of speakers.,"344,143",344143.0,count,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,Row 5,5,Where chiefly spoken in British India.,"Hyderābād, Berār, Bombay, Central Provinces, and Mysore.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,1,data,,MALAYO-POLYNESIAN FAMILY,3,Language.,Selung or Selon.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,1,data,,MALAYO-POLYNESIAN FAMILY,4,Total Number of speakers.,"1,318",1318.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,1,data,,MALAYO-POLYNESIAN FAMILY,5,Where chiefly spoken in British India.,Burma.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,Row 2,2,Group and Sub-group.,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,Row 2,3,Language.,Nicobarese.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,Row 2,4,Total Number of speakers.,"6,513",6513.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,2,data,,Row 2,5,Where chiefly spoken in British India.,Nicobars.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,SEMITIC FAMILY,2,Group and Sub-group.,.   .   .,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,SEMITIC FAMILY,3,Language.,Arabic.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,SEMITIC FAMILY,4,Total Number of speakers.,"42,881",42881.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,3,data,,SEMITIC FAMILY,5,Where chiefly spoken in British India.,Hyderābād and Aden.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,HAMITIC FAMILY,2,Group and Sub-group.,.   .   .,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,HAMITIC FAMILY,3,Language.,Somali.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,HAMITIC FAMILY,4,Total Number of speakers.,"5,530",5530.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,4,data,,HAMITIC FAMILY,5,Where chiefly spoken in British India.,Aden.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,UNCLASSIFIED LANGUAGES,2,Group and Sub-group.,.   .   .,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,UNCLASSIFIED LANGUAGES,3,Language.,Andamanese.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,UNCLASSIFIED LANGUAGES,4,Total Number of speakers.,"1,882",1882.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,5,data,,UNCLASSIFIED LANGUAGES,5,Where chiefly spoken in British India.,Andamans.,,,False,False
 imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,6,data,,Row 6,2,Group and Sub-group.,,,,True,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,6,data,,Row 6,3,Language.,Burushaski.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,6,data,,Row 6,4,Total Number of speakers.,.   .   .,,count,True,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,6,data,,Row 6,5,Where chiefly spoken in British India.,Hunza-Nagar (no Census was taken of this tract).,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,6,data,,Row 6,3,Language.,Gipsy languages.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,6,data,,Row 6,4,Total Number of speakers.,"344,143",344143.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,6,data,,Row 6,5,Where chiefly spoken in British India.,"Hyderābād, Berār, Bombay, Central Provinces, and Mysore.",,,False,False
 imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,7,data,,Row 7,2,Group and Sub-group.,,,,True,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,7,data,,Row 7,3,Language.,Others.,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,7,data,,Row 7,4,Total Number of speakers.,125,125.0,count,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,7,data,,Row 7,5,Where chiefly spoken in British India.,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,7,data,,Row 7,3,Language.,Burushaski.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,7,data,,Row 7,4,Total Number of speakers.,.   .   .,,count,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,7,data,,Row 7,5,Where chiefly spoken in British India.,Hunza-Nagar (no Census was taken of this tract).,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,8,data,,Row 8,2,Group and Sub-group.,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,8,data,,Row 8,3,Language.,Others.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,8,data,,Row 8,4,Total Number of speakers.,125,125.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-040,II. List of Minor Languages spoken in British India,432,394,8,data,,Row 8,5,Where chiefly spoken in British India.,,,,True,False

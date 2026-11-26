@@ -1,8 +1,10 @@
 # Security and cache headers for every response. Cloudflare reads this file (see DECISIONS.md, D3).
 # Scripts run only from this site; 'wasm-unsafe-eval' lets the search index (Pagefind) run its
 # WebAssembly. Inline style attributes carry each plate's address, a cover's crop and the reader's text size;
-# <style> elements and stylesheets may come only from this site (style-src-elem; browsers without it fall
-# back to style-src). Scans load from archive.org, and a book's page may frame the Internet Archive's book reader once the
+# <style> elements and stylesheets on the main site may come only from this site (style-src-elem; browsers
+# without it fall back to style-src). Self-contained one-page editions under /downloads/* embed a per-book
+# subsetted font inside <style>, so /downloads/* detaches the global CSP to serve zero-script inline styles.
+# Scans load from archive.org, and a book's page may frame the Internet Archive's book reader once the
 # reader asks for it (frame-src, DECISIONS.md, D38). Cloudflare Web Analytics adds its beacon to every page; the
 # beacon loads from static.cloudflareinsights.com and reports to cloudflareinsights.com (DECISIONS.md, D32).
 /*
@@ -13,7 +15,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Cross-Origin-Opener-Policy: same-origin
   Content-Signal: search=yes, ai-input=yes, ai-train=yes
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'wasm-unsafe-eval' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; style-src-elem 'self' 'sha256-gPb+ADz8qe+VtwoqvN2ocYKZ/fbOHo0PeBjCwa/Qd1w='; style-src-attr 'unsafe-inline'; img-src 'self' data: https://archive.org https://*.archive.org; frame-src https://archive.org; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'wasm-unsafe-eval' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; style-src-elem 'self'; style-src-attr 'unsafe-inline'; img-src 'self' data: https://archive.org https://*.archive.org; frame-src https://archive.org; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
 
 # Stylesheets and scripts are fingerprinted (the file name changes with the content), so they can be kept a year.
 /css/*
@@ -88,6 +90,8 @@
 # but X-Robots-Tag keeps raw single-page HTML/Markdown/XML/CSV dumps from cannibalising
 # the canonical /books/ and chapter pages in search results.
 /downloads/*
+  ! Content-Security-Policy
+  Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; font-src data:; img-src 'self' https://akshara.ink data: https://archive.org https://*.archive.org; object-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests
   Cache-Control: public, max-age=86400
   X-Robots-Tag: noindex, follow
   Access-Control-Allow-Origin: *

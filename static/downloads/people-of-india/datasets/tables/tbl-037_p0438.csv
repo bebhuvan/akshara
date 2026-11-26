@@ -1,29 +1,30 @@
-Number of subjects.,Name of Tribe or Caste.,Language or Dialect.,Locality.,DIMENSIONS OF HEAD.,,,,,,PR TI H
-,,,,Length (Glabel-lo-occipital).,,,Breadth (Extreme).,,,C I
-,,,,Average.,Maximum.,Minimum.,Average.,Maximum.,Minimum.,Average.
-,,,,,,,,,,WESTERN PUN
-7,Nāgar,Burusharki,Nāgar,190·7,198,180,143·8,151,142,75·4
-80,Pathān,Western Pun-jābi,North - Western Punjab,185·2,203,165,141·7,152,133,76·5
-6,Kāfir,Ashkun,Kāfirstān,194·6,199,191,149·6,160,143,76·9
-9,Hunza,Burusharki,HuNza,192·8,200,181,152·0,165,144,78·8
-60,Baloch (mixed),Western Pun-jābi,Western Punjab,179·2,197,155,143·5,152,133,80·0
-200,Hazāra,Persian,Afghanistan,179·6,202,160,152·8,168,140,85·0
-58,Lori,Brāhūi and Gypsy (Mo-kāki),Quetta and Saruṇa,177·6,192,158,139·5,152,130,78·5
-100,Makhiāni (Pathān),Pashto,"Harnai, Thal Cho-tiali",181·0,200,163,142·1,159,130,78·5
-59,Wanechi (Pathān),Do.,"Babihan, Thal Chotiali",178·1,195,161,141·2,155,126,79·2
-76,Dehwār,Dehwāri,Mastung,179·4,200,165,142·2,155,130,79·2
-100,Jāt,Jadgali,Sibi,177·8,196,160,141·9,155,130,79·8
-100,Pani (Pathān),Pashto,Do.,183·9,198,168,147·4,158,139,80·1
-271,Baloch,Balochi,Mārri and Bugti Hills and Kacchi,181·8,205,161,146·2,159,131,80·4
-24,Dehwār,Dehwāri,Kālāt.,178·5,183,168,144·4,160,133,80·8
-100,Achakzāi (Pathān),Pashto,"Chaman, Quettā Pishin",187·7,210,175,152·4,171,140,81·1
-48,Mir Jāts,Jatki,Sibi,180·1,200,162,146·4,158,135,81·2
-198,Brāhūi,Brāhūi.,Sarawan Country,182·0,197,166,148·4,165,135,81·5
-200,Dehwār,Dehwāri,Mastung,179·4,198,165,146·6,159,131,81·7
-112,Kākar (Pathān),Pashto,Quetta and Zhob,184·7,202,170,151·4,169,140,81·9
-79,Med,Makrāni Ba-lochi,"Pasni, Gwadur, Chabar and Ormara",181·4,200,170,148·9,160,136,82·0
-77,Mengal (Brahūi),Brāhūi,Saruna,179·5,190,161,148·7,162,130,82·8
-100,Tārin (Pathān),Pashto,Pishin,182·1,199,165,150·9,170,138,82·8
-13,Ghulām (Slaves),Balochi,Baluchistan.,179·0,188,170,150·2,159,141,83·9
-33,Chhutta,Jadgāli,Hinidan Levy Tracts,176·1,190,162,150·2,162,140,85·2
-35,Bandija,Do.,Kila do.,174·6,190,162,152·0,162,144,87·0
+Number of subjects.,Name of Tribe or Caste.,Language or Dialect.,Locality.,DIMENSIONS OF HEAD.,,,,,,PROPOR-TI[…]NS OF HEAD.,,,DIMENSIONS OF NOSE.,,,,,,PROPORTIONS OF NOSE.,,,STATURE.,,,RELATIVE PROMINENCE OF ROOT OF NOSE.,,,,
+,,,,Length (Glabel-lo-occipital).,,,Breadth (Extreme).,,,C[…]PHALIC I […]DEX.,,,HEIGHT.,,,BREADTH.,,,NASAL INDEX.,,,,,,AVERAGE DIMENSIONS.,,ORBITO-NASAL INDEX.,,
+,,,,Average.,Maximum.,Minimum.,Average.,Maximum.,Minimum.,Average.,Maximum.,Minimum.,Average.,Maximum.,Minimum.,Average.,Maximum.,Minimum.,Average.,Maximum.,Minimum.,Average.,Maximum.,Minimum.,External orbital breadth (average).,Bi-orbito nasal arc (average).,Average.,Maximum.,Minimum.
+WESTERN PUNJAB & N.-W. F. PROVINCE.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Nāgar,Burusharki,Nāgar,190·7,198,180,143·8,151,142,75·4,79,72,58·4,64,52,37·0,40,35,63·3,69,55,1648,1690,1606,103·0,116·8,113·3,124,108
+80,Pathān,Western Pun-jābi,North - Western Punjab,185·2,203,165,141·7,152,133,76·5,87,69,50·0,59,45,34·2,40,30,68·4,80,56,1687,1866,1562,115·9,135·9,117·1,131,108
+6,Kāfir,Ashkun,Kāfirstān,194·6,199,191,149·6,160,143,76·9,82,73,54·1,58,52,37·3,39,36,68·9,72,64,1671,1738,1560,107·0,124·3,116·1,118,113
+9,Hunza,Burusharki,HuNza,192·8,200,181,152·0,165,144,78·8,84,76,53·2,62,50,38·5,40,37,72·3,78,65,1708,1800,1648,109·0,123·7,113·4,119,109
+60,Baloch (mixed),Western Pun-jābi,Western Punjab,179·2,197,155,143·5,152,133,80·0,95,72,49·4,58,45,34·3,40,30,69·4,87,57,1662,1803,1524,113·8,134·2,117·9,129,110
+200,Hazāra,Persian,Afghanistan,179·6,202,160,152·8,168,140,85·0,99,74,46·3,56,37,37·3,45,31,80·5,111,63,1684,1806,1525,114·0,126·8,111·2,120,103
+[…]ALUCHISTAN.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,Lori,Brāhūi and Gypsy (Mo-kāki),Quetta and Saruṇa,177·6,192,158,139·5,152,130,78·5,90,71,56·4,66,44,35·1,44,26,62·2,85,48,..,..,..,98·7,119·5,121·0,133,105
+100,Makhiāni (Pathān),Pashto,"Harnai, Thal Cho-tiali",181·0,200,163,142·1,159,130,78·5,87,65,57·4,64,46,34·0,43,29,59·2,78,48,..,..,..,99·3,124·0,124·8,134,113
+59,Wanechi (Pathān),Do.,"Babihan, Thal Chotiali",178·1,195,161,141·2,155,126,79·2,89,70,56·9,66,48,33·7,45,28,59·2,87,47,..,..,..,99·2,121·8,122·7,133,114
+76,Dehwār,Dehwāri,Mastung,179·4,200,165,142·2,155,130,79·2,88,68,54·9,68,45,34·1,40,28,62·1,80,47,..,..,..,98·3,119·2,121·2,133,107
+100,Jāt,Jadgali,Sibi,177·8,196,160,141·9,155,130,79·8,92,70,56·1,64,44,35·4,46,25,63·1,84,42,..,..,..,98·0,122·5,125·0,143,104
+100,Pani (Pathān),Pashto,Do.,183·9,198,168,147·4,158,139,80·1,90,75,50·9,58,43,37·2,43,32,73·0,90,55,1677,1852,1560,112·0,132·0,117·8,126,111
+271,Baloch,Balochi,Mārri and Bugti Hills and Kacchi,181·8,205,161,146·2,159,131,80·4,90,70,52·4,61,45,38·0,46,32,72·5,94,57,1678,1850,1506,112·8,133·6,118·4,128,111
+24,Dehwār,Dehwāri,Kālāt.,178·5,183,168,144·4,160,133,80·8,88,73,59·5,70,53,34·7,40,30,58·3,67,48,..,..,..,100·0,122·2,122·2,133,113
+100,Achakzāi (Pathān),Pashto,"Chaman, Quettā Pishin",187·7,210,175,152·4,171,140,81·1,91,74,55·3,63,48,37·8,47,31,68·3,90,55,1722,1862,1602,116·4,136·4,117·1,125,111
+48,Mir Jāts,Jatki,Sibi,180·1,200,162,146·4,158,135,81·2,96,73,57·3,86,48,35·4,45,30,61·7,75,40,..,..,..,99·6,124·2,124·6,137,111
+198,Brāhūi,Brāhūi.,Sarawan Country,182·0,197,166,148·4,165,135,81·5,92,72,51·3,65,41,36·4,45,30,70·9,98,55,1659,1794,1526,110·9,130·9,118·0,128,110
+200,Dehwār,Dehwāri,Mastung,179·4,198,165,146·6,159,131,81·7,91,72,48·4,59,42,36·0,45,30,74·3,98,60,1642,1808,1488,107·6,127·0,118·0,130,109
+112,Kākar (Pathān),Pashto,Quetta and Zhob,184·7,202,170,151·4,169,140,81·9,90,74,53·4,61,46,37·2,44,32,69·6,88,60,1683,1882,1570,114·9,134·0,116·6,124,107
+79,Med,Makrāni Ba-lochi,"Pasni, Gwadur, Chabar and Ormara",181·4,200,170,148·9,160,136,82·0,92,72,55·9,68,44,38·1,46,30,68·1,92,53,.,..,..,117·3,149·4,127·3,140,113
+77,Mengal (Brahūi),Brāhūi,Saruna,179·5,190,161,148·7,162,130,82·8,93,70,57·8,68,41,34·4,43,30,59·5,83,50,..,..,..,108·0,130·3,120·6,135,103
+100,Tārin (Pathān),Pashto,Pishin,182·1,199,165,150·9,170,138,82·8,93,74,54·1,62,45,36·7,49,30,67·8,86,54,1683,1928,1533,114·7,133·6,116·4,127,111
+13,Ghulām (Slaves),Balochi,Baluchistan.,179·0,188,170,150·2,159,141,83·9,88,75,51·2,56,46,39·3,46,35,76·7,92,66,1642,1706,1526,109·3,126·6,115·8,123,110
+33,Chhutta,Jadgāli,Hinidan Levy Tracts,176·1,190,162,150·2,162,140,85·2,95,80,60·0,70,50,35·2,40,30,58·6,71,50,..,..,..,111·2,138·3,124·3,134,111
+35,Bandija,Do.,Kila do.,174·6,190,162,152·0,162,144,87·0,94,81,59·4,70,54,35·0,42,28,58·9,71,47,..,..,..,115·1,141·2,122·6,139,110

@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-064,Table 64,99,79,1,data,,1844,2,lbs. per Rupee.,45,45.0,Rs,False,False
+poverty-and-un-british-rule,tbl-064,Table 64,99,79,2,data,,1845,2,lbs. per Rupee.,46,46.0,Rs,False,False
+poverty-and-un-british-rule,tbl-064,Table 64,99,79,3,data,,1846,2,lbs. per Rupee.,39½,39.5,Rs,False,False
+poverty-and-un-british-rule,tbl-064,Table 64,99,79,4,data,,1847,2,lbs. per Rupee.,46,46.0,Rs,False,False
+poverty-and-un-british-rule,tbl-064,Table 64,99,79,5,data,,1848,2,lbs. per Rupee.,54,54.0,Rs,False,False
+poverty-and-un-british-rule,tbl-064,Table 64,99,79,6,data,,1849,2,lbs. per Rupee.,38,38.0,Rs,False,False
+poverty-and-un-british-rule,tbl-064,Table 64,99,79,7,data,,1850,2,lbs. per Rupee.,43½,43.5,Rs,False,False

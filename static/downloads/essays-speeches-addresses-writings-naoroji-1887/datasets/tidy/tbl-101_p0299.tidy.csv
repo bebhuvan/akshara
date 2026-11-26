@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,299,282,1,subtotal,,Total Imports,2,Column 2,"$2,745,141,403",2745141403.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,299,282,2,data,,Add 16 per cent,2,Column 2,"439,222,624",439222624.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,299,282,3,subtotal,,Row 3,2,Column 2,"$3,184,364,027",3184364027.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,299,282,4,data,,Deduct Exports,2,Column 2,"2,466,589,293",2466589293.0,,False,False

@@ -1,37 +1,36 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,2,Price in Seers for One Rupee. :: 1st June 1866.,21½,21.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,3,Price in Seers for One Rupee. :: 1st Jan. 1867.,20,20.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,4,Price in Seers for One Rupee. :: 1st June 1867.,19½,19.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,5,Price in Seers for One Rupee. :: 1st Jan. 1868.,25,25.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,6,Price in Seers for One Rupee. :: Average,21½,21.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,7,Column 7,The Seer is 2 lbs.,,lbs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,2,Price in Seers for One Rupee. :: 1st June 1866.,25,25.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,3,Price in Seers for One Rupee. :: 1st Jan. 1867.,20,20.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,4,Price in Seers for One Rupee. :: 1st June 1867.,20¼,20.25,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,5,Price in Seers for One Rupee. :: 1st Jan. 1868.,20½,20.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,6,Price in Seers for One Rupee. :: Average,21½,21.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,7,Column 7,,,,True,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,2,Price in Seers for One Rupee. :: 1st June 1866.,23,23.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,3,Price in Seers for One Rupee. :: 1st Jan. 1867.,20,20.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,4,Price in Seers for One Rupee. :: 1st June 1867.,22,22.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,5,Price in Seers for One Rupee. :: 1st Jan. 1868.,17,17.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,6,Price in Seers for One Rupee. :: Average,20½,20.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,7,Column 7,,,,True,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,2,Price in Seers for One Rupee. :: 1st June 1866.,24,24.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,3,Price in Seers for One Rupee. :: 1st Jan. 1867.,20,20.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,4,Price in Seers for One Rupee. :: 1st June 1867.,22,22.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,5,Price in Seers for One Rupee. :: 1st Jan. 1868.,16,16.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,6,Price in Seers for One Rupee. :: Average,20½,20.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,7,Column 7,,,,True,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,2,Price in Seers for One Rupee. :: 1st June 1866.,16,16.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,3,Price in Seers for One Rupee. :: 1st Jan. 1867.,17½,17.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,4,Price in Seers for One Rupee. :: 1st June 1867.,16,16.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,5,Price in Seers for One Rupee. :: 1st Jan. 1868.,13½,13.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,6,Price in Seers for One Rupee. :: Average,15¾,15.75,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,7,Column 7,,,,True,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,2,Price in Seers for One Rupee. :: 1st June 1866.,24¾,24.75,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,3,Price in Seers for One Rupee. :: 1st Jan. 1867.,22,22.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,4,Price in Seers for One Rupee. :: 1st June 1867.,20¾,20.75,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,5,Price in Seers for One Rupee. :: 1st Jan. 1868.,15,15.0,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,6,Price in Seers for One Rupee. :: Average,20½,20.5,Rs,False,False
-poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,7,Column 7,,,,True,False
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,2,Irrigated Land. :: Acres.,"200,955",200955.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,3,Produce per Acre. :: lbs.,"1,100",1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,4,Total Produce. :: lbs.,"221,050,500",221050500.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,5,For Re. 1. :: lbs.,43,43.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,1,data,,Delhi,6,Total Value. :: Rs.,"51,40,709",5140709.0,Rs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,2,Irrigated Land. :: Acres.,"96,328",96328.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,3,Produce per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,4,Total Produce. :: lbs.,"105,960,800",105960800.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,5,For Re. 1. :: lbs.,43,43.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,2,data,,Umballa,6,Total Value. :: Rs.,"24,64,204",2464204.0,Rs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,2,Irrigated Land. :: Acres.,"447,295",447295.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,3,Produce per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,4,Total Produce. :: lbs.,"492,024,500",492024500.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,5,For Re. 1. :: lbs.,41,41.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,3,data,,Lahore,6,Total Value. :: Rs.,"1,20,00,597",12000597.0,Rs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,2,Irrigated Land. :: Acres.,"394,227",394227.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,3,Produce per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,4,Total Produce. :: lbs.,"433,649,700",433649700.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,5,For Re. 1. :: lbs.,41,41.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,4,data,,Sealkote,6,Total Value. :: Rs.,"1,05,76,821",10576821.0,Rs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,2,Irrigated Land. :: Acres.,"505,750",505750.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,3,Produce per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,4,Total Produce. :: lbs.,"556,325,000",556325000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,5,For Re. 1. :: lbs.,31½,31.5,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,5,data,,Mooltan,6,Total Value. :: Rs.,"1,76,61,111",17661111.0,Rs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,2,Irrigated Land. :: Acres.,"249,144",249144.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,3,Produce per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,4,Total Produce. :: lbs.,"274,058,400",274058400.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,5,For Re. 1. :: lbs.,41,41.0,lbs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,6,data,,Peshawur,6,Total Value. :: Rs.,"66,84,351",6684351.0,Rs,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,7,total,,Total,2,Irrigated Land. :: Acres.,"1,893,699",1893699.0,acres,False,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,7,total,,Total,3,Produce per Acre. :: lbs.,—,,acres,True,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,7,total,,Total,4,Total Produce. :: lbs.,—,,lbs,True,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,7,total,,Total,5,For Re. 1. :: lbs.,—,,lbs,True,True
+poverty-and-un-british-rule,tbl-002,Table 2,27,7,7,total,,Total,6,Total Value. :: Rs.,"5,45,27,793",54527793.0,Rs,False,True

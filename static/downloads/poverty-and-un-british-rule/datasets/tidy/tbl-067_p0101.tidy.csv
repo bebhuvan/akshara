@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,1,data,,Umballa,2,Column 2,9¼ seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,1,data,,Umballa,3,Column 3,Multan,,,False,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,1,data,,Umballa,4,Column 4,11¼ seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,2,data,,Lahore,2,Column 2,9¾ „,9.75,seers,False,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,2,data,,Lahore,3,Column 3,Peshawur,,,False,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,2,data,,Lahore,4,Column 4,14 5/16 „,14.3125,seers,False,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,3,data,,Sealkote,2,Column 2,10¾ „,10.75,seers,False,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,3,data,,Sealkote,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-067,Table 67,101,81,3,data,,Sealkote,4,Column 4,,,,True,False

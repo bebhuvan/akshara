@@ -4,8 +4,9 @@
   "title": "The People of India — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -2971,14 +2972,14 @@
     },
     {
       "name": "tbl-037-diplomatic",
-      "title": "WESTERN PUNJAB, NORTH-WESTERN FRONTIER PR (Diplomatic Matrix)",
+      "title": "WESTERN PUNJAB, NORTH-WESTERN FRONTIER PROVINCE AND BALUCHISTAN. (In order of Cephalic Index.) (Diplomatic Matrix)",
       "path": "tables/tbl-037_p0438.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-037-tidy",
-      "title": "WESTERN PUNJAB, NORTH-WESTERN FRONTIER PR (Tidy Observations)",
+      "title": "WESTERN PUNJAB, NORTH-WESTERN FRONTIER PROVINCE AND BALUCHISTAN. (In order of Cephalic Index.) (Tidy Observations)",
       "path": "tidy/tbl-037_p0438.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -3053,15 +3054,15 @@
     },
     {
       "name": "tbl-038-diplomatic",
-      "title": "OVINCE AND BALUCHISTAN. (In order of Cephalic Index.) (Diplomatic Matrix)",
-      "path": "tables/tbl-038_p0439.csv",
+      "title": "PUNJAB AND RAJPUTANA. (In order of Cephalic Index.) (Diplomatic Matrix)",
+      "path": "tables/tbl-038_p0442.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-038-tidy",
-      "title": "OVINCE AND BALUCHISTAN. (In order of Cephalic Index.) (Tidy Observations)",
-      "path": "tidy/tbl-038_p0439.tidy.csv",
+      "title": "PUNJAB AND RAJPUTANA. (In order of Cephalic Index.) (Tidy Observations)",
+      "path": "tidy/tbl-038_p0442.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3135,15 +3136,15 @@
     },
     {
       "name": "tbl-039-diplomatic",
-      "title": "PUNJAB AND RAJPUTANA. (Diplomatic Matrix)",
-      "path": "tables/tbl-039_p0442.csv",
+      "title": "BOMBAY AND COORG (In order of Cephalic Index.) (Diplomatic Matrix)",
+      "path": "tables/tbl-039_p0446.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-039-tidy",
-      "title": "PUNJAB AND RAJPUTANA. (Tidy Observations)",
-      "path": "tidy/tbl-039_p0442.tidy.csv",
+      "title": "BOMBAY AND COORG (In order of Cephalic Index.) (Tidy Observations)",
+      "path": "tidy/tbl-039_p0446.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3217,15 +3218,15 @@
     },
     {
       "name": "tbl-040-diplomatic",
-      "title": "(In order of Cephalic Index.) (Diplomatic Matrix)",
-      "path": "tables/tbl-040_p0443.csv",
+      "title": "[E. Thu[…]N, Esquire.] (Diplomatic Matrix)",
+      "path": "tables/tbl-040_p0450.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-040-tidy",
-      "title": "(In order of Cephalic Index.) (Tidy Observations)",
-      "path": "tidy/tbl-040_p0443.tidy.csv",
+      "title": "[E. Thu[…]N, Esquire.] (Tidy Observations)",
+      "path": "tidy/tbl-040_p0450.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3299,15 +3300,15 @@
     },
     {
       "name": "tbl-041-diplomatic",
-      "title": "BOMBAY AND COORG (Diplomatic Matrix)",
-      "path": "tables/tbl-041_p0446.csv",
+      "title": "SUMMARY OF MEASUREMENTS. — DRAVIDIAN TYPE. — MADRAS, CHOTA NAGPUR, MEWAR AND CEYLON. (In order of Nasal Index.) (Diplomatic Matrix)",
+      "path": "tables/tbl-041_p0453.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-041-tidy",
-      "title": "BOMBAY AND COORG (Tidy Observations)",
-      "path": "tidy/tbl-041_p0446.tidy.csv",
+      "title": "SUMMARY OF MEASUREMENTS. — DRAVIDIAN TYPE. — MADRAS, CHOTA NAGPUR, MEWAR AND CEYLON. (In order of Nasal Index.) (Tidy Observations)",
+      "path": "tidy/tbl-041_p0453.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3381,15 +3382,15 @@
     },
     {
       "name": "tbl-042-diplomatic",
-      "title": "(In order of Cephalic Index.) (Diplomatic Matrix)",
-      "path": "tables/tbl-042_p0447.csv",
+      "title": "UNITED PROVINCES, BEHAR AN[…] CEYLON. (In order of Nasal Index.) (Diplomatic Matrix)",
+      "path": "tables/tbl-042_p0456.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-042-tidy",
-      "title": "(In order of Cephalic Index.) (Tidy Observations)",
-      "path": "tidy/tbl-042_p0447.tidy.csv",
+      "title": "UNITED PROVINCES, BEHAR AN[…] CEYLON. (In order of Nasal Index.) (Tidy Observations)",
+      "path": "tidy/tbl-042_p0456.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3463,15 +3464,15 @@
     },
     {
       "name": "tbl-043-diplomatic",
-      "title": "[E. Thu (Diplomatic Matrix)",
-      "path": "tables/tbl-043_p0450.csv",
+      "title": "BENGAL AND ORISSA (In order of Cephalic Index.) (Diplomatic Matrix)",
+      "path": "tables/tbl-043_p0460.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-043-tidy",
-      "title": "[E. Thu (Tidy Observations)",
-      "path": "tidy/tbl-043_p0450.tidy.csv",
+      "title": "BENGAL AND ORISSA (In order of Cephalic Index.) (Tidy Observations)",
+      "path": "tidy/tbl-043_p0460.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3545,589 +3546,15 @@
     },
     {
       "name": "tbl-044-diplomatic",
-      "title": "N, Esquire.] (Diplomatic Matrix)",
-      "path": "tables/tbl-044_p0451.csv",
+      "title": "EASTERN HIMALAYA, CHITTAGONG HILL TRACT, AND ASSAM. (In order of Orbito-Nasal Index—Risley.) (Diplomatic Matrix)",
+      "path": "tables/tbl-044_p0464.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-044-tidy",
-      "title": "N, Esquire.] (Tidy Observations)",
-      "path": "tidy/tbl-044_p0451.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-045-diplomatic",
-      "title": "MADRAS, CHOTA NAGPUR, MEWAR AND CEYLON. (In order of Nasal Index.) (Diplomatic Matrix)",
-      "path": "tables/tbl-045_p0453.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-045-tidy",
-      "title": "MADRAS, CHOTA NAGPUR, MEWAR AND CEYLON. (In order of Nasal Index.) (Tidy Observations)",
-      "path": "tidy/tbl-045_p0453.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-046-diplomatic",
-      "title": "UNITED PROVINCES, BEHAR AN (Diplomatic Matrix)",
-      "path": "tables/tbl-046_p0456.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-046-tidy",
-      "title": "UNITED PROVINCES, BEHAR AN (Tidy Observations)",
-      "path": "tidy/tbl-046_p0456.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-047-diplomatic",
-      "title": "CEYLON. (In order of Nasal Index.) (Diplomatic Matrix)",
-      "path": "tables/tbl-047_p0457.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-047-tidy",
-      "title": "CEYLON. (In order of Nasal Index.) (Tidy Observations)",
-      "path": "tidy/tbl-047_p0457.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-048-diplomatic",
-      "title": "BENGAL AND ORISSA (Diplomatic Matrix)",
-      "path": "tables/tbl-048_p0460.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-048-tidy",
-      "title": "BENGAL AND ORISSA (Tidy Observations)",
-      "path": "tidy/tbl-048_p0460.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-049-diplomatic",
-      "title": "(In order of Cephalic Index.) (Diplomatic Matrix)",
-      "path": "tables/tbl-049_p0461.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-049-tidy",
-      "title": "(In order of Cephalic Index.) (Tidy Observations)",
-      "path": "tidy/tbl-049_p0461.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-050-diplomatic",
-      "title": "EASTERN HIMALAYA, CHITTAGONG HILL TRACT (Diplomatic Matrix)",
-      "path": "tables/tbl-050_p0464.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-050-tidy",
-      "title": "EASTERN HIMALAYA, CHITTAGONG HILL TRACT (Tidy Observations)",
-      "path": "tidy/tbl-050_p0464.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-051-diplomatic",
-      "title": ", AND ASSAM. (In order of Orbito-Nasal Index—Risley.) (Diplomatic Matrix)",
-      "path": "tables/tbl-051_p0465.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-051-tidy",
-      "title": ", AND ASSAM. (In order of Orbito-Nasal Index—Risley.) (Tidy Observations)",
-      "path": "tidy/tbl-051_p0465.tidy.csv",
+      "title": "EASTERN HIMALAYA, CHITTAGONG HILL TRACT, AND ASSAM. (In order of Orbito-Nasal Index—Risley.) (Tidy Observations)",
+      "path": "tidy/tbl-044_p0464.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {

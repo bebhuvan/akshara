@@ -1,8 +1,8 @@
 ---
 title: "I.2. Indra, the Supreme Deity"
-chapter_number: "07"
+chapter_number: "06"
 section_kind: "chapter"
-weight: 7
+weight: 6
 start_page: 46
 end_page: 50
 printed_start_folio: "8"
@@ -20,77 +20,94 @@ prev: "/books/lays-of-ancient-india/chapters/06-i-1-indra-the-rain-giver/"
 next: "/books/lays-of-ancient-india/chapters/08-i-3-varuna-the-god-of-sky/"
 ---
 
-<div class="page-rail-marker" id="page-46"><button type="button" class="folio-trigger" data-page="46" data-folio="8" data-scan="https://archive.org/download/laysofancientind00dutt/page/n45_w1400.jpg" aria-label="Inspect scan for page 8">[p. 8]</button></div><h2 class="sec-h1"><em>INDRA, THE SUPREME DEITY.</em></h2><h4 class="sec-h3">1.</h4><div class="prose-unit"><div class="verse-stanza"><span class="sc">Mortals</span>! Did you question me,<br>
-Who is Indra, where is he?<br>
-He who is Celestial Light!<br>
-Leadeth gods and men in might!<br>
-He whose power pervades the earth and sky,<br>
-Mortals! He is Indra, rules on high!</div></div><h4 class="sec-h3">2.</h4><div class="prose-unit"><div class="verse-stanza">He who fixed the solid earth,<br>
-Shaped the mountains at their birth!<br>
-He whose mighty hand hath bent<br>
-The far extending firmament!<br>
-He who shaped the ever glorious sky,<br>
-Mortals! He is Indra, rules on high!</div></div><h4 class="sec-h3">3.</h4><div class="prose-unit"><div class="verse-stanza">He who pierced the clouds in might,<br>
-Rolled the seven great rivers bright!<br>
-He who quelled the demon gloom,<br>
-Conquered light from its dark womb!</div></div><div class="page-rail-marker" id="page-47"><button type="button" class="folio-trigger" data-page="47" data-folio="9" data-scan="https://archive.org/download/laysofancientind00dutt/page/n46_w1400.jpg" aria-label="Inspect scan for page 9">[p. 9]</button></div><div class="prose-unit"><div class="verse-stanza">He, in clouds who hurls the lightning bright,<br>
-Mortals ! He is Indra, victor in the fight !</div></div><h4 class="sec-h3">4.</h4><div class="prose-unit"><div class="verse-stanza">Listen, mortals ! to my verse,<br>
-His handiwork—this universe !<br>
-He has quelled the stubborn foe,<br>
-Banished him to live in woe !<br>
-He wrests the Dâsa's treasures from his hold,<sup class="fn-ref"><a id="ref-sec-07-fn-001" href="#sec-07-fn-001" data-fn-target="sec-07-fn-001" role="doc-noteref">*</a></sup><br>
-For he is Indra ! hunter strong and bold !</div></div><h4 class="sec-h3">5.</h4><div class="prose-unit"><div class="verse-stanza">Have you, doubting, questioned me,<br>
-Where is Indra, who is he ?<br>
-Mortals ! In your impious thought<br>
-Have you whispered, He is not !<br>
-Dread the great punisher and his vengeance dire !<br>
-For Indra smites the impious in his ire !</div></div><h4 class="sec-h3">6.</h4><div class="prose-unit"><div class="verse-stanza">But his ceaseless mercies seek<br>
-The pious man, the poor and meek !<br>
-Gracious King ! a crown he wears,<br>
-And listens to our hymns and prayers !<br>
-With grateful hearts libations pour to him,<br>
-For he is Indra, Lord of ancient fame !</div></div><div class="page-rail-marker" id="page-48"><button type="button" class="folio-trigger" data-page="48" data-folio="10" data-scan="https://archive.org/download/laysofancientind00dutt/page/n47_w1400.jpg" aria-label="Inspect scan for page 10">[p. 10]</button></div><h4 class="sec-h3">7.</h4><div class="prose-unit"><div class="verse-stanza">His the kine and steeds of war,<br>
-The village home, the battle car!<br>
-His arm lifts up the radiant sun,<br>
-And opes the ruddy gates of dawn!<br>
-His lightning shaft the darksome rain-cloud rends,<br>
-For he is Indra, copious rain who sends!</div></div><h4 class="sec-h3">8.</h4><div class="prose-unit"><div class="verse-stanza">Contending hosts repeat his name,<br>
-And chiefs invoke the Lord of fame!<br>
-Car-borne warriors shout his praise,<br>
-And trembling nations sing his praise!<br>
-Mortals! Unto him is worship due,<br>
-For he is Indra, whom our fathers knew!</div></div><h4 class="sec-h3">9.</h4><div class="prose-unit"><div class="verse-stanza">Man triumphs not but by his blade,<br>
-And warring nations ask his aid!<br>
-The universe he measures right,<br>
-And rolling worlds confess his might!<br>
-He sees th' eternal mountains wear away,<br>
-For Indra knows no death, no slow decay!</div></div><h4 class="sec-h3">10.</h4><div class="prose-unit"><div class="verse-stanza">He who killed with lightning dire<br>
-Impious nations in his ire;</div></div><div class="page-rail-marker" id="page-49"><button type="button" class="folio-trigger" data-page="49" data-folio="11" data-scan="https://archive.org/download/laysofancientind00dutt/page/n48_w1400.jpg" aria-label="Inspect scan for page 11">[p. 11]</button></div><div class="prose-unit"><div class="verse-stanza">He whose blessings never rain<br>
-Upon the boastful and the vain;<br>
-He who crushed the Dâsas in his might,<br>
-He is Indra! victor in the fight!</div></div><h4 class="sec-h3">11.</h4><div class="prose-unit"><div class="verse-stanza">He who mighty warriors quelled,<br>
-In forty years Samvara felled;<br>
-He who struck the demon cloud,<br>
-Rent his vast and gloomy shroud;<br>
-He who strikes the impious in his might,<br>
-He is Indra! glorious in the fight!</div></div><h4 class="sec-h3">12.</h4><div class="prose-unit"><div class="verse-stanza">His seven bright tints bedeck the bow,<br>
-His seven great rivers joyous flow!<br>
-His lightning laid Rauhina low,<br>
-The heaven-aspiring, impious foe!<br>
-He who strikes the impious in his might,<br>
-He is Indra! conqueror in the fight!</div></div><h4 class="sec-h3">13.</h4><div class="prose-unit"><div class="verse-stanza">The earth and sky to Indra pray,<br>
-And trembling hills obeisance pay!<br>
-To Indra, wielder of the dart,<br>
-Libations pour and lift your heart!<br>
-The God of mighty strength and lightning hand,<br>
-He is Indra! wielder of the brand!</div></div><div class="page-rail-marker" id="page-50"><button type="button" class="folio-trigger" data-page="50" data-folio="12" data-scan="https://archive.org/download/laysofancientind00dutt/page/n49_w1400.jpg" aria-label="Inspect scan for page 12">[p. 12]</button></div><h4 class="sec-h3">14.</h4><div class="prose-unit"><div class="verse-stanza">Lift your heart and lift your praise,<br>
-Pour libations, chant his lays !<br>
-For hymns and gifts to him are dear,<br>
-And Indra guards us from all fear !<br>
-And he accepts our gifts and listens to our lays,<br>
-Mortals !  He is Indra !  Shout his praise !</div></div><h4 class="sec-h3">15.</h4><div class="prose-unit"><div class="verse-stanza">Great Indra ! mortals raise thy song,<br>
-For thee their pious rites prolong,<br>
-From thee all gifts and blessings flow,<br>
-And thou art Truth !  To thee we bow !<br>
-Grant us, great King ! for bountiful thou art,<br>
-Sons, brave in war, and pious in their heart !</div></div><div class="prose-unit"><p class="prose-p"><em>Rig Veda</em>, II. 12.</p></div><section class="apparatus-zone" aria-label="Footnotes"><h2 class="apparatus-heading">Critical Apparatus &amp; Notes</h2><ol class="apparatus-list"><li id="sec-07-fn-001" class="apparatus-item" role="doc-endnote"><a class="fn-backlink" href="#ref-sec-07-fn-001" aria-label="Return to text">*.</a> <span class="fn-body">Indra is supposed to help the Aryan Hindu conquerors in their wars with the <em>Dâsas</em> or the aborigines of India.</span></li></ol></section>
+<div class="page-rail-marker" id="page-46"><button type="button" class="folio-trigger" data-page="46" data-folio="8" data-scan="https://archive.org/download/laysofancientind00dutt/page/n45_w1400.jpg" aria-label="Inspect scan for page 8">[p. 8]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">1.</span><br>
+<span class="line"><span class="sc">Mortals</span>! Did you question me,</span><br>
+<span class="line">Who is Indra, where is he?</span><br>
+<span class="line">He who is Celestial Light!</span><br>
+<span class="line">Leadeth gods and men in might!</span><br>
+<span class="line">He whose power pervades the earth and sky,</span><br>
+<span class="line">Mortals! He is Indra, rules on high!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">2.</span><br>
+<span class="line">He who fixed the solid earth,</span><br>
+<span class="line">Shaped the mountains at their birth!</span><br>
+<span class="line">He whose mighty hand hath bent</span><br>
+<span class="line">The far extending firmament!</span><br>
+<span class="line">He who shaped the ever glorious sky,</span><br>
+<span class="line">Mortals! He is Indra, rules on high!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">3.</span><br>
+<span class="line">He who pierced the clouds in might,</span><br>
+<span class="line">Rolled the seven great rivers bright!</span><br>
+<span class="line">He who quelled the demon gloom,</span><br>
+<span class="line">Conquered light from its dark womb!</span><br>
+<span class="line"><button type="button" class="folio-trigger folio-turn" id="page-47" data-page="47" data-folio="9" data-scan="https://archive.org/download/laysofancientind00dutt/page/n46_w1400.jpg" aria-label="Inspect original scan for page 9">[p. 9]</button>He, in clouds who hurls the lightning bright,</span><br>
+<span class="line">Mortals! He is Indra, victor in the fight!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">4.</span><br>
+<span class="line">Listen, mortals! to my verse,</span><br>
+<span class="line">His handiwork—this universe!</span><br>
+<span class="line">He has quelled the stubborn foe,</span><br>
+<span class="line">Banished him to live in woe!</span><br>
+<span class="line">He wrests the Dâsa’s treasures from his hold,<sup class="fn-ref"><a id="ref-sec-07-fn-001" href="#sec-07-fn-001" data-fn-target="sec-07-fn-001" role="doc-noteref">*</a></sup></span><br>
+<span class="line">For he is Indra! hunter strong and bold!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">5.</span><br>
+<span class="line">Have you, doubting, questioned me,</span><br>
+<span class="line">Where is Indra, who is he?</span><br>
+<span class="line">Mortals! In your impious thought</span><br>
+<span class="line">Have you whispered, He is not!</span><br>
+<span class="line">Dread the great punisher and his vengeance dire!</span><br>
+<span class="line">For Indra smites the impious in his ire!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">6.</span><br>
+<span class="line">But his ceaseless mercies seek</span><br>
+<span class="line">The pious man, the poor and meek!</span><br>
+<span class="line">Gracious King! a crown he wears,</span><br>
+<span class="line">And listens to our hymns and prayers!</span><br>
+<span class="line">With grateful hearts libations pour to him,</span><br>
+<span class="line">For he is Indra, Lord of ancient fame!</span></div></div><div class="page-rail-marker" id="page-48"><button type="button" class="folio-trigger" data-page="48" data-folio="10" data-scan="https://archive.org/download/laysofancientind00dutt/page/n47_w1400.jpg" aria-label="Inspect scan for page 10">[p. 10]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">7.</span><br>
+<span class="line">His the kine and steeds of war,</span><br>
+<span class="line">The village home, the battle car!</span><br>
+<span class="line">His arm lifts up the radiant sun,</span><br>
+<span class="line">And opes the ruddy gates of dawn!</span><br>
+<span class="line">His lightning shaft the darksome rain-cloud rends,</span><br>
+<span class="line">For he is Indra, copious rain who sends!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">8.</span><br>
+<span class="line">Contending hosts repeat his name,</span><br>
+<span class="line">And chiefs invoke the Lord of fame!</span><br>
+<span class="line">Car-borne warriors shout his praise,</span><br>
+<span class="line">And trembling nations sing his praise!</span><br>
+<span class="line">Mortals! Unto him is worship due,</span><br>
+<span class="line">For he is Indra, whom our fathers knew!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">9.</span><br>
+<span class="line">Man triumphs not but by his blade,</span><br>
+<span class="line">And warring nations ask his aid!</span><br>
+<span class="line">The universe he measures right,</span><br>
+<span class="line">And rolling worlds confess his might!</span><br>
+<span class="line">He sees th’ eternal mountains wear away,</span><br>
+<span class="line">For Indra knows no death, no slow decay!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">10.</span><br>
+<span class="line">He who killed with lightning dire</span><br>
+<span class="line">Impious nations in his ire;</span><br>
+<span class="line"><button type="button" class="folio-trigger folio-turn" id="page-49" data-page="49" data-folio="11" data-scan="https://archive.org/download/laysofancientind00dutt/page/n48_w1400.jpg" aria-label="Inspect original scan for page 11">[p. 11]</button>He whose blessings never rain</span><br>
+<span class="line">Upon the boastful and the vain;</span><br>
+<span class="line">He who crushed the Dâsas in his might,</span><br>
+<span class="line">He is Indra! victor in the fight!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">11.</span><br>
+<span class="line">He who mighty warriors quelled,</span><br>
+<span class="line">In forty years Samvara felled;</span><br>
+<span class="line">He who struck the demon cloud,</span><br>
+<span class="line">Rent his vast and gloomy shroud;</span><br>
+<span class="line">He who strikes the impious in his might,</span><br>
+<span class="line">He is Indra! glorious in the fight!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">12.</span><br>
+<span class="line">His seven bright tints bedeck the bow,</span><br>
+<span class="line">His seven great rivers joyous flow!</span><br>
+<span class="line">His lightning laid Rauhina low,</span><br>
+<span class="line">The heaven-aspiring, impious foe!</span><br>
+<span class="line">He who strikes the impious in his might,</span><br>
+<span class="line">He is Indra! conqueror in the fight!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">13.</span><br>
+<span class="line">The earth and sky to Indra pray,</span><br>
+<span class="line">And trembling hills obeisance pay!</span><br>
+<span class="line">To Indra, wielder of the dart,</span><br>
+<span class="line">Libations pour and lift your heart!</span><br>
+<span class="line">The God of mighty strength and lightning hand,</span><br>
+<span class="line">He is Indra! wielder of the brand!</span></div></div><div class="page-rail-marker" id="page-50"><button type="button" class="folio-trigger" data-page="50" data-folio="12" data-scan="https://archive.org/download/laysofancientind00dutt/page/n49_w1400.jpg" aria-label="Inspect scan for page 12">[p. 12]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">14.</span><br>
+<span class="line">Lift your heart and lift your praise,</span><br>
+<span class="line">Pour libations, chant his lays!</span><br>
+<span class="line">For hymns and gifts to him are dear,</span><br>
+<span class="line">And Indra guards us from all fear!</span><br>
+<span class="line">And he accepts our gifts and listens to our lays,</span><br>
+<span class="line">Mortals!  He is Indra!  Shout his praise!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">15.</span><br>
+<span class="line">Great Indra! mortals raise thy song,</span><br>
+<span class="line">For thee their pious rites prolong,</span><br>
+<span class="line">From thee all gifts and blessings flow,</span><br>
+<span class="line">And thou art Truth!  To thee we bow!</span><br>
+<span class="line">Grant us, great King! for bountiful thou art,</span><br>
+<span class="line">Sons, brave in war, and pious in their heart!</span></div></div><div class="prose-unit"><p class="prose-p"><em>Rig Veda</em>, II. 12.</p></div><section class="apparatus-zone" aria-label="Footnotes"><h2 class="apparatus-heading">Critical Apparatus &amp; Notes</h2><ol class="apparatus-list"><li id="sec-07-fn-001" class="apparatus-item" role="doc-endnote"><a class="fn-backlink" href="#ref-sec-07-fn-001" aria-label="Return to text">*.</a> <span class="fn-body">Indra is supposed to help the Aryan Hindu conquerors in their wars with the <em>Dâsas</em> or the aborigines of India.</span></li></ol></section>

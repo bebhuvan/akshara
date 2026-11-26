@@ -15,7 +15,7 @@
     "value_numeric": 6298386.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -33,7 +33,7 @@
     "value_numeric": 2251282.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -51,7 +51,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -69,7 +69,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -87,7 +87,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -105,7 +105,7 @@
     "value_numeric": 3166961.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -123,7 +123,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -141,7 +141,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -159,7 +159,7 @@
     "value_numeric": 8310697.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -177,7 +177,7 @@
     "value_numeric": 3203518.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -195,7 +195,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -213,7 +213,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -231,7 +231,7 @@
     "value_numeric": 7687278.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -249,7 +249,7 @@
     "value_numeric": 3679973.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -267,7 +267,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -285,7 +285,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -303,7 +303,7 @@
     "value_numeric": 7337689.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -321,7 +321,7 @@
     "value_numeric": 3852308.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -339,7 +339,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -357,7 +357,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -375,7 +375,7 @@
     "value_numeric": 7537563.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -393,7 +393,7 @@
     "value_numeric": 2780516.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -411,7 +411,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -429,7 +429,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -447,7 +447,7 @@
     "value_numeric": 7562647.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -465,7 +465,7 @@
     "value_numeric": 3632062.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -483,7 +483,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -501,7 +501,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -519,7 +519,7 @@
     "value_numeric": 6233571.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -537,7 +537,7 @@
     "value_numeric": 4596652.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -555,7 +555,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -573,7 +573,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -591,7 +591,7 @@
     "value_numeric": 5108041.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -609,7 +609,7 @@
     "value_numeric": 3889294.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -627,7 +627,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -645,7 +645,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -663,7 +663,7 @@
     "value_numeric": 6918540.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -681,7 +681,7 @@
     "value_numeric": 3822161.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -699,7 +699,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -717,7 +717,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -735,7 +735,7 @@
     "value_numeric": 7312355.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -753,7 +753,7 @@
     "value_numeric": 3738987.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -771,7 +771,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -789,7 +789,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -807,7 +807,7 @@
     "value_numeric": 6282659.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -825,7 +825,7 @@
     "value_numeric": 3549207.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -843,7 +843,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -861,7 +861,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -879,7 +879,7 @@
     "value_numeric": 7410536.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -897,7 +897,7 @@
     "value_numeric": 4400786.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -915,7 +915,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -933,7 +933,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -951,7 +951,7 @@
     "value_numeric": 7751355.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -969,7 +969,7 @@
     "value_numeric": 4896311.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -987,7 +987,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1005,7 +1005,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1023,7 +1023,7 @@
     "value_numeric": 8247171.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1041,7 +1041,7 @@
     "value_numeric": 4809261.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1059,7 +1059,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1077,7 +1077,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1095,7 +1095,7 @@
     "value_numeric": 7744286.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1113,7 +1113,7 @@
     "value_numeric": 4213981.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1131,7 +1131,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1149,7 +1149,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1167,7 +1167,7 @@
     "value_numeric": 7555633.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1185,7 +1185,7 @@
     "value_numeric": 4344704.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1203,7 +1203,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1221,7 +1221,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1239,7 +1239,7 @@
     "value_numeric": 7814114.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1257,7 +1257,7 @@
     "value_numeric": 3798240.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1275,7 +1275,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1293,7 +1293,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1311,7 +1311,7 @@
     "value_numeric": 8154338.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1329,7 +1329,7 @@
     "value_numeric": 3882771.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1347,7 +1347,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1365,7 +1365,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1383,7 +1383,7 @@
     "value_numeric": 7812604.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1401,7 +1401,7 @@
     "value_numeric": 3867211.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1419,7 +1419,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1437,7 +1437,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1455,7 +1455,7 @@
     "value_numeric": 8590293.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1473,7 +1473,7 @@
     "value_numeric": 3838114.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1491,7 +1491,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1509,7 +1509,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1527,7 +1527,7 @@
     "value_numeric": 9559662.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1545,7 +1545,7 @@
     "value_numeric": 4841233.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1563,7 +1563,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1581,7 +1581,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1599,7 +1599,7 @@
     "value_numeric": 12449165.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1617,7 +1617,7 @@
     "value_numeric": 6297695.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1635,7 +1635,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1653,7 +1653,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1671,7 +1671,7 @@
     "value_numeric": 11617994.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1689,7 +1689,7 @@
     "value_numeric": 4748943.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1707,7 +1707,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1725,7 +1725,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1743,7 +1743,7 @@
     "value_numeric": 10454812.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1761,7 +1761,7 @@
     "value_numeric": 5495152.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1779,7 +1779,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1797,7 +1797,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1815,7 +1815,7 @@
     "value_numeric": 10919795.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1833,7 +1833,7 @@
     "value_numeric": 6209571.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1851,7 +1851,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1869,7 +1869,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1887,7 +1887,7 @@
     "value_numeric": 10472522.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1905,7 +1905,7 @@
     "value_numeric": 7656313.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1923,7 +1923,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1941,7 +1941,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1959,7 +1959,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1977,7 +1977,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -1995,7 +1995,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2013,7 +2013,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2031,7 +2031,7 @@
     "value_numeric": 13447832.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2049,7 +2049,7 @@
     "value_numeric": 7347032.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2067,7 +2067,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2085,7 +2085,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2103,7 +2103,7 @@
     "value_numeric": 13543625.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2121,7 +2121,7 @@
     "value_numeric": 6710890.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2139,7 +2139,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2157,7 +2157,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2175,7 +2175,7 @@
     "value_numeric": 13707026.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2193,7 +2193,7 @@
     "value_numeric": 8910354.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2211,7 +2211,7 @@
     "value_numeric": 319252.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2229,7 +2229,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2247,7 +2247,7 @@
     "value_numeric": 16348284.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2265,7 +2265,7 @@
     "value_numeric": 11005868.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2283,7 +2283,7 @@
     "value_numeric": 88841.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2301,7 +2301,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2319,7 +2319,7 @@
     "value_numeric": 16938403.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2337,7 +2337,7 @@
     "value_numeric": 9831388.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2355,7 +2355,7 @@
     "value_numeric": 47346.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2373,7 +2373,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2391,7 +2391,7 @@
     "value_numeric": 16271702.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2409,7 +2409,7 @@
     "value_numeric": 9095707.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2427,7 +2427,7 @@
     "value_numeric": 16495.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2445,7 +2445,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2463,7 +2463,7 @@
     "value_numeric": 18314579.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2481,7 +2481,7 @@
     "value_numeric": 7824383.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2499,7 +2499,7 @@
     "value_numeric": 7844.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2517,7 +2517,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2535,7 +2535,7 @@
     "value_numeric": 17011194.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2553,7 +2553,7 @@
     "value_numeric": 7393731.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2571,7 +2571,7 @@
     "value_numeric": 8185.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2589,7 +2589,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2607,7 +2607,7 @@
     "value_numeric": 18594973.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2625,7 +2625,7 @@
     "value_numeric": 9460171.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2643,7 +2643,7 @@
     "value_numeric": 16006.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2661,7 +2661,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2679,7 +2679,7 @@
     "value_numeric": 20007928.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2697,7 +2697,7 @@
     "value_numeric": 10423621.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2715,7 +2715,7 @@
     "value_numeric": 240125.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2733,7 +2733,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2751,7 +2751,7 @@
     "value_numeric": 22941166.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2769,7 +2769,7 @@
     "value_numeric": 10703121.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2787,7 +2787,7 @@
     "value_numeric": 1606265.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2805,7 +2805,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2823,7 +2823,7 @@
     "value_numeric": 21360626.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2841,7 +2841,7 @@
     "value_numeric": 10445270.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2859,7 +2859,7 @@
     "value_numeric": 3227734.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2877,7 +2877,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2895,7 +2895,7 @@
     "value_numeric": 25088096.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2913,7 +2913,7 @@
     "value_numeric": 10524103.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2931,7 +2931,7 @@
     "value_numeric": 5107949.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2949,7 +2949,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2967,7 +2967,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -2985,7 +2985,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3003,7 +3003,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3021,7 +3021,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3039,7 +3039,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3057,7 +3057,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3075,7 +3075,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3093,7 +3093,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3111,7 +3111,7 @@
     "value_numeric": 22098653.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3129,7 +3129,7 @@
     "value_numeric": 11601748.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3147,7 +3147,7 @@
     "value_numeric": 3272920.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3165,7 +3165,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3183,7 +3183,7 @@
     "value_numeric": 23505311.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3201,7 +3201,7 @@
     "value_numeric": 12624667.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3219,7 +3219,7 @@
     "value_numeric": 5650557.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3237,7 +3237,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3255,7 +3255,7 @@
     "value_numeric": 28795172.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3273,7 +3273,7 @@
     "value_numeric": 14613929.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3291,7 +3291,7 @@
     "value_numeric": 10984141.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3309,7 +3309,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3327,7 +3327,7 @@
     "value_numeric": 32542940.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3345,7 +3345,7 @@
     "value_numeric": 16167916.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3363,7 +3363,7 @@
     "value_numeric": 18296600.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3381,7 +3381,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3399,7 +3399,7 @@
     "value_numeric": 24450274.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3417,7 +3417,7 @@
     "value_numeric": 21910244.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3435,7 +3435,7 @@
     "value_numeric": 5088850.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3453,7 +3453,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3471,7 +3471,7 @@
     "value_numeric": 27021805.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3489,7 +3489,7 @@
     "value_numeric": 27523610.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3507,7 +3507,7 @@
     "value_numeric": 16003267.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3525,7 +3525,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3543,7 +3543,7 @@
     "value_numeric": 27759150.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3561,7 +3561,7 @@
     "value_numeric": 25566407.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3579,7 +3579,7 @@
     "value_numeric": 8124236.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3597,7 +3597,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3615,7 +3615,7 @@
     "value_numeric": 35203641.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3633,7 +3633,7 @@
     "value_numeric": 23558608.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3651,7 +3651,7 @@
     "value_numeric": 7279839.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3669,7 +3669,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3687,7 +3687,7 @@
     "value_numeric": 51150767.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3705,7 +3705,7 @@
     "value_numeric": 20284141.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3723,7 +3723,7 @@
     "value_numeric": 10710209.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3741,7 +3741,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3759,7 +3759,7 @@
     "value_numeric": 68150997.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3777,7 +3777,7 @@
     "value_numeric": 27572803.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3795,7 +3795,7 @@
     "value_numeric": 8817656.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3813,7 +3813,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3831,7 +3831,7 @@
     "value_numeric": 73213187.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3849,7 +3849,7 @@
     "value_numeric": 27857799.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3867,7 +3867,7 @@
     "value_numeric": 7555442.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3885,7 +3885,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3903,7 +3903,7 @@
     "value_numeric": 54719071.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3921,7 +3921,7 @@
     "value_numeric": 27000000.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3939,7 +3939,7 @@
     "value_numeric": 3808260.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3957,7 +3957,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3975,7 +3975,7 @@
     "value_numeric": 923368844.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -3993,7 +3993,7 @@
     "value_numeric": 491420718.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4011,7 +4011,7 @@
     "value_numeric": 116338019.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4029,7 +4029,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4047,7 +4047,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4065,7 +4065,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4083,7 +4083,7 @@
     "value_numeric": 7842381.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4101,7 +4101,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4119,7 +4119,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4137,7 +4137,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4155,7 +4155,7 @@
     "value_numeric": 108495638.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4173,7 +4173,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4191,7 +4191,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4209,7 +4209,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4227,7 +4227,7 @@
     "value_numeric": 7594624.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4245,7 +4245,7 @@
     "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4263,7 +4263,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4281,7 +4281,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4299,7 +4299,7 @@
     "value_numeric": 116090262.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4317,7 +4317,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4335,7 +4335,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4353,7 +4353,7 @@
     "value_numeric": 19075312.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4371,7 +4371,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4389,7 +4389,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4407,7 +4407,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4425,7 +4425,7 @@
     "value_numeric": 472345406.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4443,7 +4443,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4461,7 +4461,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4479,7 +4479,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4497,7 +4497,7 @@
     "value_numeric": 17622172.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4515,7 +4515,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4533,7 +4533,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4551,7 +4551,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4569,7 +4569,7 @@
     "value_numeric": 454723234.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4587,7 +4587,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4601,11 +4601,11 @@
     "row_label": "Row 65",
     "column_index": 5,
     "column_header": "The exports to and imports from India (including Ceylon), Singapore, and China, are taken together in these Tables, because the remittances to this country are not only made from India direct, but through other places also. The actual commercial balance between China and the United Kingdom should be considered as squared except so far as the amounts disbursed for Government purposes in China, which are not charged to India; but these amounts will be too small to affect the general conclusion that the balance, as shown in this Appendix, represents the amount retained by England as her territorial benefit from India.",
-    "raw_text": "+ Balance of commercial exports.",
+    "raw_text": "Balance of commercial exports.",
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4623,7 +4623,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4641,7 +4641,7 @@
     "value_numeric": 113680808.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4659,7 +4659,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4677,7 +4677,7 @@
     "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4695,7 +4695,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4713,7 +4713,7 @@
     "value_numeric": 116090262.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4731,7 +4731,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4749,7 +4749,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4767,7 +4767,7 @@
     "value_numeric": 684494304.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4785,7 +4785,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4803,7 +4803,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4821,7 +4821,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4839,7 +4839,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4857,7 +4857,7 @@
     "value_numeric": null,
     "unit": "GBP",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4875,7 +4875,7 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": true,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   },
   {
     "book_id": "essays-speeches-addresses-writings-naoroji-1887",
@@ -4893,6 +4893,6 @@
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": true
+    "arithmetic_verified": false
   }
 ]

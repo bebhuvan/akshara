@@ -1,15 +1,46 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,1,data,,“ Jowaree,2,Column 2,21,21.0,,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,1,data,,“ Jowaree,3,Column 3,Seers.,,seers,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,2,data,,“ Bajree,2,Column 2,19½,19.5,,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,2,data,,“ Bajree,3,Column 3,do.,,seers,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,3,data,,"“ Rice, 1st sort",2,Column 2,10,10.0,,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,3,data,,"“ Rice, 1st sort",3,Column 3,do.,,seers,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,4,data,,"“ Do., 2nd do",2,Column 2,11¼,11.25,,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,4,data,,"“ Do., 2nd do",3,Column 3,do.,,seers,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,5,data,,“ Dall,2,Column 2,10½,10.5,,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,5,data,,“ Dall,3,Column 3,do.,,seers,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,6,data,,“ Koolthi,2,Column 2,21,21.0,,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,6,data,,“ Koolthi,3,Column 3,do.,,seers,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,7,data,,“ Horse grain,2,Column 2,5½,5.5,,False,False
-report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,7,data,,“ Horse grain,3,Column 3,do.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,1,data,,Dharwar,2,"Average number of persons fed daily, or amount expended.",600 to 700 persons,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,1,data,,Dharwar,3,Period for which fed.,Three months.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,1,data,,Dharwar,4,Remarks.,"The work of providing for the infirm and young was managed very satisfactorily by a committee composed principally of non-official Natives. The subscribers were of all classes, and gave their aid very willingly.",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,2,data,,Hooblee,2,"Average number of persons fed daily, or amount expended.","1,251 Rupees",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,2,data,,Hooblee,3,Period for which fed.,Do.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,126,114,2,data,,Hooblee,4,Remarks.,"Besides the amount mentioned in column 2, Chunveerupa bin Chunbusupa Neelee, a Native trader, spent 1,500 Rupees in feeding the poor of Hooblee for four months. Gungapa bin Amhuna Bendigherry spent 540 Rs. in feeding the poor for three months. Four others, by name Siduppa Warkar, Sidhugapa Menchinkai, Chenupa Uddurgoonchi, and Udrepa Oogurgole, spent jointly Rs. 860 in feeding the poor for five months. Govindupa bin Soobupa Koomptee expended 150 Rs. in feeding the poor for two months.",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,3,data,,Nuwulgoond,2,"Average number of persons fed daily, or amount expended.",525 Rupees.............,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,3,data,,Nuwulgoond,3,Period for which fed.,One month ...,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,3,data,,Nuwulgoond,4,Remarks.,Of the amount mentioned in column 2 Rs. 100 were contributed by the Collector from a Local Fund raised among the European and Native residents of the station of Dharwar. The principal donors of the balance were Sidramupa Sheftee; Mullupa Dharwar; Kasim Saheb Patel; Eurungowda; Bhimupa Bednal alone contributed Rs. 100.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,4,data,,Annigherry,2,"Average number of persons fed daily, or amount expended.",300 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,4,data,,Annigherry,3,Period for which fed.,Fifteen days ...,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,4,data,,Annigherry,4,Remarks.,"Fukeerupa Ugree, who gave all but Rs. 50; Ballaji Anunt Mamludar Rs. 50.",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,5,data,,Bussapoor,2,"Average number of persons fed daily, or amount expended.",200 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,5,data,,Bussapoor,3,Period for which fed.,One month......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,5,data,,Bussapoor,4,Remarks.,Gopal Krishna Mootalic Dessaee.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,6,data,,Budrapoor,2,"Average number of persons fed daily, or amount expended.",200 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,6,data,,Budrapoor,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,6,data,,Budrapoor,4,Remarks.,Fukeerupa Ugree (the same Fukeerupa whose name appears againt Annigherry).,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,7,data,,Nurgoond,2,"Average number of persons fed daily, or amount expended.","1,000 „ ............",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,7,data,,Nurgoond,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,7,data,,Nurgoond,4,Remarks.,"The sum was given by Bussupa bin Gurryappa Junthlee of Nurgoond for repairs to a tank on the high road to Sholapoor, and thus provided labour for the unemployed poor.",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,8,data,,Nurgoond,2,"Average number of persons fed daily, or amount expended.",475 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,8,data,,Nurgoond,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,8,data,,Nurgoond,4,Remarks.,"Contributed by Gopallupa bin Timmupa Auingoondee, a Sowkar of Nurgoond, for repairing a tank in the suburbs of Nurgoond, and thus provided labour for the poor.",,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,9,data,,Nurgoond,2,"Average number of persons fed daily, or amount expended.",500 persons.............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,9,data,,Nurgoond,3,Period for which fed.,Two months ...,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,9,data,,Nurgoond,4,Remarks.,"Rupees 1,000 were spent in feeding the infirm and aged. Principal donors Benkupa bin Kullianappa and Dod-Bussupa bin Basetapa Dawungheery.",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,10,data,,Gadug,2,"Average number of persons fed daily, or amount expended.",916 Rupees.............,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,10,data,,Gadug,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,10,data,,Gadug,4,Remarks.,"In addition to the sum mentioned in column 2, much private charity was displayed. The principal donors were Mudiwalupa Boola (who for two months fed about 1000 people daily); Bugwuntupa Chitturgar; and Manvee Fukeerupa. Of the 916 Rs. mentioned in column 2 Rs. 230 were contributed from the Dharwar Station Famine Fund.",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,11,data,,Dumbul,2,"Average number of persons fed daily, or amount expended.",465 - „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,11,data,,Dumbul,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,11,data,,Dumbul,4,Remarks.,Of this sum Rs. 220 were contributed by the Dharwar Station Famine Fund.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,12,data,,Kurujghec,2,"Average number of persons fed daily, or amount expended.",100 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,12,data,,Kurujghec,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,12,data,,Kurujghec,4,Remarks.,Spent in feeding the poor.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,13,data,,Havaree,2,"Average number of persons fed daily, or amount expended.",500 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,13,data,,Havaree,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,13,data,,Havaree,4,Remarks.,The number of persons mentioned in column 2 were reported to be fed daily at Havaree for two months by Sooli-hully Errupa Sowkar.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,14,data,,•Deveehosoor,2,"Average number of persons fed daily, or amount expended.",200 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,14,data,,•Deveehosoor,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,14,data,,•Deveehosoor,4,Remarks.,Two hundred people were fed daily for two months at Deveehosoor by Buschetappa Khoorubgoondur Sowkar.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,15,data,,Roan,2,"Average number of persons fed daily, or amount expended.",578 „ ............,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,15,data,,Roan,3,Period for which fed.,Do. ......,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-026,Table 26,127,114,15,data,,Roan,4,Remarks.,Rs. 200 of this sum were contributed by the Dharwar Station Relief Fund. The amount was spent in feeding the infirm and aged.,,Rs,False,False

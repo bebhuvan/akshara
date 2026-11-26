@@ -354,97 +354,97 @@ Along with these answers to my queries, Mr. Ravenshaw most obligingly sent me so
 <!-- page: 13 | folio: 7 -->
 
 **ACCOUNT of SEA CUSTOMS collected in the Year *Nalasamaswar* or *Fusly* 1205, in the *Tallook of Mangalore.***
-| No. | ARTICLES. | IMPORTED. :: Weighing Articles. :: Candies. | IMPORTED. :: Weighing Articles. :: Maunds. | IMPORTED. :: Weighing Articles. :: Seers. | IMPORTED. :: Measuring Articles. :: Corges of 42 Morays. | IMPORTED. :: Measuring Articles. :: Morays. | IMPORTED. :: Measuring Articles. :: Hanies. | IMPORTED. :: Extra Articles. | IMPORTED. :: Pieces. | IMPORTED. :: Parcels. | IMPORTED. :: Corge, or Score by Number. | IMPORTED. :: Price. :: Pagodas. | EXPORTED. :: Price. :: Fanams. | EXPORTED. :: Customs. :: Anas. | EXPORTED. :: Customs. :: Pagodas. | EXPORTED. :: Customs. :: Fanams. | EXPORTED. :: Weighing Articles. :: Anas. | EXPORTED. :: Weighing Articles. :: Candies. | EXPORTED. :: Weighing Articles. :: Maunds. | EXPORTED. :: Measuring Articles. :: Seers. | EXPORTED. :: Measuring Articles. :: Corges of 42 Morays. | EXPORTED. :: Measuring Articles. :: Morays. | EXPORTED. :: Extra Articles. | Total Customs. :: Hanies. | Total Customs. :: Pagodas. | Total Customs. :: Fanams. | Score. | Pieces. | Parcels. | Price. :: Anas. | Price. :: Pagodas. | Price. :: Fanams. | Customs. :: Anas. | Customs. :: Pagodas. | Customs. :: Fanams. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Biam, or Rice |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3749 | 17 | 21 |  |  |  |  | 67489 | 5 |  | 10200 | 7 | 7 | 10200 | 7 | 7 |  |  |
-| 2 | Suparee, or Beetle-nut | 99 |  |  |  |  |  |  |  |  | 909 |  |  | 22 | 4 |  | 34 | 8 | 20 |  |  |  |  |  |  | 344 | 2 | 8 | 99 | 7 | 10 | 122 | 1 | 10 |  |
-| 3 | Reshmany Daga, Silk Thread |  | 1 | 29 |  |  |  |  |  |  | 31 | 9 |  | 3 | 4 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 4 | 2 |  |
-| 4 | Chinni Saccar, or Sugar | 21 | 4 | 10 |  |  |  |  |  |  | 350 |  | 1 | 38 | 8 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 38 | 8 | 12 |  |
-| 5 | Chathila, or Tutenague |  | 9 | 20 |  |  |  |  |  |  | 30 | 8 | 12 | 1 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 5 |  |  |
-| 6 | Sisa, or Lead |  | 9 | 20 |  |  |  |  |  |  | 10 | 9 | 4 |  | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 9 | 9 |  |
-| 7 | Aridalla |  | 6 | 30 |  |  |  |  |  |  | 13 | 5 | 2 |  | 8 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 | 12 |  |
-| 8 | Karpura, or Camphor |  | 17 |  |  |  |  |  |  |  | 120 | 5 |  | 4 | 1 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 1 | 10 |  |
-| 9 | Lobauni, or Incense |  | 17 | 20 |  |  |  |  |  |  | 43 | 7 | 4 | 2 | 2 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 2 | 15 |  |
-| 10 | Shora Nummuck, or Salt Petre |  | 3 | 12 |  |  |  |  |  |  | 44 | 3 | 5 | 6 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 | 4 |  |  |
-| 11 | Thigdeh |  | 2 | 20 |  |  |  |  |  |  | 2 | 1 | 14 |  | 2 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 8 |  |
-| 12 | Jeera, or Cummin Seed |  | 4 | 11 |  |  |  |  |  |  | 81 | 9 |  | 8 | 8 | 1 |  | 9 | 20 |  |  |  |  |  |  | 8 | 5 | 8 | 2 | 10 |  | 9 |  | 11 |  |
-| 13 | Kala Mirchy, or Black Pepper |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 | 13 |  |  |  |  |  |  | 232 | 7 | 8 | 14 | 3 |  | 14 | 3 |  |  |  |
-| 14 | Kotha |  | 2 | 6 |  |  |  |  |  |  | 37 | 9 | 8 | 4 | 4 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 4 | 10 |  |  |
-| 15 | Mour, or Wax |  | 1 | 12 |  |  |  |  |  |  | 32 |  |  | 1 | 6 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 6 | 14 |  |  |
-| 16 | Cajure, or Dates | 13 | 15 | 20 |  |  |  |  |  |  | 86 |  | 15 | 12 | 7 | 2 | 4 | 15 | 20 |  |  |  |  |  |  | 29 | 8 | 11 | 1 | 9 | 10 | 14 | 6 | 12 |  |
-| 17 | Karick |  | 6 | 2 |  |  |  |  |  |  | 56 | 1 | 12 | 5 | 3 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 3 | 4 |  |  |
-| 18 | Pathang Lakdy, or Red Wood |  | 15 | 20 |  |  |  |  |  |  | 5 | 1 | 12 |  | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 7 | 4 |  |  |
-| 19 | Aludy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 27 | 18 | 20 |  |  |  |  |  |  | 307 | 1 | 12 | 15 | 2 | 7 | 15 | 2 | 7 |  |
-| 20 | Sanap, or Twine |  | 1 | 19 | 20 |  |  |  |  |  |  | 16 | 2 | 15 | 1 | 9 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 9 | 4 |  |
-| 21 | Haiputty, or Canvas |  | 17 | 10 |  |  |  |  |  |  | 1137 | 5 |  | 44 | 9 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 44 | 9 | 6 |  |  |
-| 22 | Tamback, or Tobacco |  | 11 | 6 | 20 |  |  |  |  |  |  | 155 | 7 | 2 | 13 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 | 7 |  |  |
-| 23 | Kaday Sacar, or Sugar Candy |  |  | 2 |  |  |  |  |  |  | 5 |  |  |  | 2 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 15 |  |  |
-| 24 | Golaloo Battah |  |  | 2 | 20 |  |  |  |  |  | 3 | 1 | 4 |  | 1 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 12 |  |  |
-| 25 | Papada Kahray |  |  | 2 |  |  |  |  |  |  | 10 |  |  | 1 | 7 | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 7 | 13 |  |  |
-| 26 | Isabgola |  |  | 3 |  |  |  |  |  |  | 1 | 6 | 14 |  | 1 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 9 |  |  |
-| 27 | Ruhi, or Cotton |  | 42 | 6 | 10 |  |  |  |  |  | 846 | 8 | 8 | 47 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 47 | 6 |  |  |  |
-| 28 | Humbly, or Tamarinds |  |  | 16 |  |  |  |  |  |  | 2 | 7 |  |  | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 1 |  |  |
-| 29 | Lal Mirch, or Capsicum |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 | 10 |  |  |  |  |  |  | 53 | 1 | 4 | 1 | 8 | 14 | 1 | 8 | 14 |  |
-| 30 | Goola, or Jagory |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 16 | 11 | 20 |  |  |  |  |  |  | 99 | 4 | 8 | 3 | 9 |  | 3 | 9 |  |
-| 31 | Kattu, or Cordage |  | 7 | 19 |  |  |  |  |  |  | 39 | 7 | 4 | 4 | 4 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 4 | 11 |  |  |
-| 32 | Peajee, or Onions |  | 6 | 6 | 20 |  |  |  |  |  | 22 | 1 | 4 | 3 | 1 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 1 | 3 |  |  |
-| 33 | Lassoow, or Garlick |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  | 6 |  |  |  | 2 | 6 |  | 2 | 6 |  |
-| 34 | Gopy Chundun |  | 11 | 8 |  |  |  |  |  |  | 62 | 7 |  | 6 | 1 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 | 1 | 3 |  |  |
-| 35 | Coppree, or Coco-nut Kernels |  | 85 |  |  |  |  |  |  |  | 595 |  |  | 71 | 1 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 71 | 1 | 14 |  |  |
-| 36 | Tell, or Oil |  | 21 | 5 | 20 |  |  |  |  |  | 170 | 3 | 8 | 15 | 7 | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 15 | 7 | 13 |  |  |
-| 37 | Kadapilla |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10 |  |  |  |  |  |  | 2 | 5 |  | 1 | 15 |  | 1 | 15 |  |  |
-| 38 | Shawl |  |  |  |  |  |  |  | 2 | 3 | 344 |  |  | 12 | 9 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 12 | 9 | 14 |  |  |
-| 39 | Safith Baptah, or Cloth |  |  |  |  |  |  |  | 3 1/2 | 1 1/2 | 178 | 7 | 8 | 13 | 5 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 | 5 | 2 |  |  |
-| 40 | Mushroo, ditto |  |  |  |  |  |  |  | 22 3/4 |  | 910 |  |  | 52 | 8 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 52 | 8 | 7 |  |  |
-| 41 | Mogah Shaddy ditto |  |  |  |  |  |  |  | 2 1/4 | 1 | 75 | 9 |  | 5 | 2 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 2 | 5 |  |  |
-| 42 | Reshmany Soocy, ditto |  |  |  |  |  |  |  |  | 2 | 3 | 5 |  |  | 2 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 4 |  |  |
-| 43 | Nawabby, ditto |  |  |  |  |  |  |  | 2 |  | 45 |  |  | 4 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 8 |  |  |  |  |
-| 44 | Charkence Sucy, ditto |  |  |  |  |  |  |  | 1/4 |  | 5 | 6 | 4 |  | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 1 |  |  |
-| 45 | Illchy Sucy, ditto |  |  |  |  |  |  |  | 14 |  | 196 |  |  | 12 | 1 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 12 | 1 | 9 |  |  |
-| 46 | Soorty, Chintz |  |  |  |  |  |  |  | 18 1/2 | 3 | 144 | 5 | 10 | 14 | 1 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 | 1 | 15 |  |  |
-| 47 | Palangposs, or Counterpanes |  |  |  |  |  |  |  | 2 1/4 | 1 | 23 |  |  | 1 | 8 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 8 | 6 |  |  |
-| 48 | Cathey, Cloth |  |  |  |  |  |  |  | 4 1/2 | 1 | 446 | 1 | 15 | 30 | 9 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 30 | 9 | 10 |  |  |
-| 49 | Jamkana, or Carpet |  |  |  |  |  |  |  | 7 1/4 | 3 | 57 | 3 | 12 | 4 | 7 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 7 | 12 |  |  |
-| 50 | Chitty Pagdy, Turbans |  |  |  |  |  |  |  | 1 1/4 | 1 | 11 | 3 | 12 |  | 8 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 | 11 |  |  |
-| 51 | Shaddy, or Womens' Cloth |  |  |  |  |  |  |  | 1 1/2 | 3 1/2 | 62 | 5 | 10 | 2 | 4 | 10 |  |  |  |  |  |  | 3 1/4 |  |  | 162 | 5 |  | 4 | 13 | 6 | 5 | 4 |  |  |
-| 52 | Lungy Passoddy, Cloth |  |  |  |  |  |  |  |  |  | 25 |  |  |  | 9 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 9 | 6 |  |  |
-| 53 | Porkatty, ditto |  |  |  |  |  |  |  | 11 1/4 |  | 221 | 6 | 14 | 10 | 7 | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10 | 7 | 13 |  |  |
-| 54 | Shilla, ditto |  |  |  |  |  |  |  | 11 | 2 | 152 | 6 | 4 | 8 | 7 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 | 7 | 3 |  |  |
-| 55 | Manapadd Kutcha, ditto |  |  |  |  |  |  |  | 29 | 3 1/2 | 1041 | 2 | 8 | 36 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 36 | 11 |  |  |  |
-| 56 | Colihy Panchaddy, ditto |  |  |  |  |  |  |  | 11 |  | 247 | 5 |  | 10 | 8 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10 | 8 | 14 |  |  |
-| 57 | Pandy Munddah, ditto |  |  |  |  |  |  |  | 4 3/4 | 4 | 99 |  |  | 4 | 3 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 3 | 6 |  |  |
-| 58 | Punjy, ditto |  |  |  |  |  |  |  | 1 |  | 26 | 2 | 8 | 1 | 2 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 2 | 10 |  |  |
-| 59 | Doothary Chariany, ditto |  |  |  |  |  |  |  | 1/2 | 1 1/2 | 21 | 8 | 8 |  | 7 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 7 | 15 |  |  |
-| 60 | Thiwassy, ditto |  |  |  |  |  |  |  | 1/2 |  | 10 | 7 | 8 |  | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 1 |  |  |
-| 61 | Kassy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 |  |  | 1 | 2 | 8 | 1 |  |  |  |  |  |  |  |  |
-| 62 | Kagha, or Blue Cloth |  |  |  |  |  |  |  | 120 |  | 2400 |  |  | 115 | 3 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 115 | 3 | 5 |  |  |
-| 63 | Sunny Narmuddy, Cloth |  |  |  |  |  |  |  | 9 3/4 | 1 3/4 | 88 | 4 | 4 | 5 | 7 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 7 | 9 |  |  |
-| 64 | Dahbully, ditto |  |  |  |  |  |  |  | 10 3/4 |  | 76 | 4 | 12 | 6 |  | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 |  | 8 |  |  |
-| 65 | Karwah, ditto |  |  |  |  |  |  |  | 1 1/2 |  | 11 | 2 | 8 |  | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 |  |  |  |
-| 66 | Safeth Rumall, ditto |  |  |  |  |  |  |  |  | 4 | 5 |  | 10 |  | 1 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 11 |  |  |
-| 67 | Chiley Lungy, ditto |  |  |  |  |  |  |  | 5 1/4 | 4 | 122 | 6 | 4 | 5 | 2 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 2 | 11 |  |  |
-| 68 | Bengally Roomall, ditto |  |  |  |  |  |  |  | 1 |  | 10 | 8 | 12 |  | 6 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 | 7 |  |  |
-| 69 | Withalla |  | 13 | 28 | 21 |  |  |  |  |  | 320 | 8 | 9 | 19 | 4 | 1 |  |  |  |  |  |  | 3 | 15 |  | 103 | 6 |  | 3 | 9 | 15 | 23 | 4 |  |  |
-| 70 | Kagath Resmy |  |  |  |  |  |  |  | 16 |  | 44 |  |  | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |
-| 71 | Comblemoss, Fish |  |  |  |  |  |  |  | 3 |  | 18 |  |  |  | 7 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 7 | 8 |  |  |
-| 72 | Narrell, or Coco-nut |  |  |  |  |  |  |  | 17000 |  | 85 |  |  | 7 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 7 | 1 |  |  |  |
-| 73 | Sherka Petty |  |  |  |  |  |  |  | 7 1/2 |  | 11 | 2 | 8 |  | 5 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 10 |  |  |
-| 74 | Mashy or Bumbly, Fish Bundles |  |  |  |  |  |  |  | 12606 |  | 393 | 2 | 4 | 32 | 1 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 32 | 1 | 14 |  |  |
-| 75 | Choodweh Kattoo |  |  |  |  |  |  |  | Cunba |  |  |  |  |  |  |  |  |  |  |  |  |  | Bundles. 50 |  |  | 62 | 5 |  | 3 | 1 | 4 | 3 | 1 | 4 |  |
-| 76 | Ncemmuck, or Salt Bundles |  |  |  |  |  |  |  | 8 1/4 9 1/2 1/4 |  | 668 | 1 | 6 | 31 | 1 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 31 | 1 | 2 |  |  |
-| 77 | Maundy Jenuss Babath |  |  |  |  |  |  |  | 40 |  | 40 | 6 | 4 | 2 | 6 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 6 | 14 |  |  |
-| 78 | Anchorage Duties for Dow Dunghie, Boats |  |  |  |  |  |  |  | 16 |  |  |  |  | 110 | 1 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 110 | 1 | 4 |  |  |
-| 79 | Ditto, for Navaday ditto |  |  |  |  |  |  |  | 6 |  |  |  |  | 22 | 1 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 22 | 1 | 4 |  |  |
-| 80 | Ditto, for Sibuday ditto |  |  |  |  |  |  |  | 2 |  |  |  |  | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 |  |  |  |  |
-| 81 | Ditto, for Wallah ditto |  |  |  |  |  |  |  | 1 |  |  |  |  | 1 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 5 |  |  |  |
-| 82 | Ditto, for Munchill ditto |  |  |  |  |  |  |  | 4 |  |  |  |  | 4 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 5 |  |  |  |
-| 83 | Ditto, for Pattamars ditto |  |  |  |  |  |  |  | 37 |  |  |  |  | 47 |  | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 47 |  | 10 |  |
-| 84 | Ditto, for Munjee ditto |  |  |  |  |  |  |  | 22 |  |  |  |  | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 16 |  |  |  |  |
-| 85 | Ditto, for Hoolky ditto |  |  |  |  |  |  |  | 9 |  |  |  |  | 14 |  | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 |  | 10 |  |
-| 86 | Ditto, for Chunbuck ditto |  |  |  |  |  |  |  | 15 |  |  |  |  | 8 | 4 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 | 4 | 6 |  |
-| 87 | Ditto, for Koondery ditto |  |  |  |  |  |  |  | 1 |  |  |  |  |  | 5 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 10 |  |
-| 88 | Ditto, for Tancy ditto |  |  |  |  |  |  |  | 26 |  |  |  |  | 8 | 2 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 | 2 | 8 |  |
-| Total ........ |  |  |  |  |  |  |  |  |  | 13641 | 6 | 2 | 1025 | 1 | 2 | ..................................... |  |  |  |  |  |  |  |  | 68903 | — | 3 | 10347 | 7 | 15 | 11372 | 9 | 1 |  |  |
+| No. | ARTICLES. | IMPORTED. :: Weighing Articles. :: Candies. | IMPORTED. :: Weighing Articles. :: Maunds. | IMPORTED. :: Weighing Articles. :: Seers. | IMPORTED. :: Measuring Articles. :: Corges of 42 Morays. | IMPORTED. :: Measuring Articles. :: Morays. | IMPORTED. :: Measuring Articles. :: Hanies. | IMPORTED. :: Extra Articles. | IMPORTED. :: Pieces. | IMPORTED. :: Parcels. | IMPORTED. :: *Corge*, or Score by Number. | IMPORTED. :: *Corge*, or Score by Number. | IMPORTED. :: Price. :: Pagodas. | IMPORTED. :: Price. :: Fanams. | IMPORTED. :: Price. :: Anas. | IMPORTED. :: Customs. :: Pagodas. | IMPORTED. :: Customs. :: Fanams. | IMPORTED. :: Customs. :: Anas. | EXPORTED. :: Weighing Articles. :: Candies. | EXPORTED. :: Weighing Articles. :: Maunds. | EXPORTED. :: Weighing Articles. :: Seers. | EXPORTED. :: Measuring Articles. :: Corges of 42 Morays. | EXPORTED. :: Measuring Articles. :: Morays. | EXPORTED. :: Measuring Articles. :: Hanies. | EXPORTED. :: Extra Articles. | EXPORTED. :: Score. | EXPORTED. :: Pieces. | EXPORTED. :: Parcels. | EXPORTED. :: Price. :: Pagodas. | EXPORTED. :: Price. :: Fanams. | EXPORTED. :: Price. :: Anas. | EXPORTED. :: Customs. :: Pagodas. | EXPORTED. :: Customs. :: Fanams. | EXPORTED. :: Customs. :: Anas. | Total Customs. :: Pagodas. | Total Customs. :: Fanams. | Total Customs. :: Anas. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | *Biam*, or Rice | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 3749 | 17 | 21 | — | — | — | — | 67489 | 5 | — | 10200 | 7 | 7 | 10200 | 7 | 7 |
+| 2 | *Suparee*, or Beetle-nut | 99 | — | — | — | — | — | — | — | — | — | — | 909 | — | — | 22 | 4 | — | 34 | 8 | 20 | — | — | — | — | — | — | — | 344 | 2 | 8 | 99 | 7 | 10 | 122 | 1 | 10 |
+| 3 | *Reshmany Daga*, Silk Thread | — | 1 | 29 | — | — | — | — | — | — | — | — | 31 | 9 | — | 3 | 4 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 3 | 4 | 2 |
+| 4 | *Chinni Saccar*, or Sugar | 21 | 4 | 10 | — | — | — | — | — | — | — | — | 350 | — | 1 | 38 | 8 | 12 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 38 | 8 | 12 |
+| 5 | *Chathila*, or Tutenague | — | 9 | 20 | — | — | — | — | — | — | — | — | 30 | 8 | 12 | 1 | 5 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 5 | — |
+| 6 | *Sisa*, or Lead | — | 9 | 20 | — | — | — | — | — | — | — | — | 10 | 9 | 4 | — | 9 | 9 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 9 | 9 |
+| 7 | *Aridalla* | — | 6 | 30 | — | — | — | — | — | — | — | — | 13 | 5 | 2 | — | 8 | 12 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 8 | 12 |
+| 8 | *Karpura*, or Camphor | — | 17 | — | — | — | — | — | — | — | — | — | 120 | 5 | — | 4 | 1 | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | 1 | 10 |
+| 9 | *Lobauni*, or Incense | — | 17 | 20 | — | — | — | — | — | — | — | — | 43 | 7 | 4 | 2 | 2 | 15 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 2 | 2 | 15 |
+| 10 | *Shora Nummuck*, or Salt Petre | 3 | 12 | — | — | — | — | — | — | — | — | — | 44 | 3 | 5 | 6 | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 6 | 4 | — |
+| 11 | *Thigdeh* | — | 2 | 20 | — | — | — | — | — | — | — | — | 2 | 1 | 14 | — | 2 | 8 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 2 | 8 |
+| 12 | *Jeera*, or Cummin Seed | 4 | 11 | — | — | — | — | — | — | — | — | — | 81 | 9 | — | 8 | 8 | 1 | — | 9 | 20 | — | — | — | — | — | — | — | 8 | 5 | 8 | — | 2 | 10 | 9 | — | 11 |
+| 13 | *Kala Mirchy*, or Black Pepper | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 6 | 13 | — | — | — | — | — | — | — | — | 232 | 7 | 8 | 14 | 3 | — | 14 | 3 | — |
+| 14 | *Kotha* | 2 | 6 | — | — | — | — | — | — | — | — | — | 37 | 9 | 8 | 4 | 4 | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | 4 | 10 |
+| 15 | *Mour*, or Wax | 1 | 12 | — | — | — | — | — | — | — | — | — | 32 | — | — | 1 | 6 | 14 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 6 | 14 |
+| 16 | *Cajure*, or Dates | 13 | 15 | 20 | — | — | — | — | — | — | — | — | 86 | — | 15 | 12 | 7 | 2 | 4 | 15 | 20 | — | — | — | — | — | — | — | 29 | 8 | 11 | 1 | 9 | 10 | 14 | 6 | 12 |
+| 17 | *Karick* | 6 | 2 | — | — | — | — | — | — | — | — | — | 56 | 1 | 12 | 5 | 3 | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 3 | 4 |
+| 18 | *Pathang Lakdy*, or Red Wood | — | 15 | 20 | — | — | — | — | — | — | — | — | 5 | 1 | 12 | — | 7 | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 7 | 4 |
+| 19 | *Alady* | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 27 | 18 | 20 | — | — | — | — | — | — | — | 307 | 1 | 12 | 15 | 2 | 7 | 15 | 2 | 7 |
+| 20 | *Sanap*, or Twine | 1 | 19 | 20 | — | — | — | — | — | — | — | — | 16 | 2 | 15 | 1 | 9 | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 9 | 4 |
+| 21 | *Haiputty*, or Canvas | 17 | 10 | — | — | — | — | — | — | — | — | — | 1137 | 5 | — | 44 | 9 | 6 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 44 | 9 | 6 |
+| 22 | *Tamback*, or Tobacco | 11 | 6 | 20 | — | — | — | — | — | — | — | — | 155 | 7 | 2 | 13 | 7 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 13 | 7 | — |
+| 23 | *Kaday Sacar*, or Sugar Candy | — | 2 | — | — | — | — | — | — | — | — | — | 5 | — | — | — | 2 | 15 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 2 | 15 |
+| 24 | *Golaloo Battah* | — | 2 | 20 | — | — | — | — | — | — | — | — | 3 | 1 | 4 | — | 1 | 12 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 12 |
+| 25 | *Papada Kahray* | 2 | — | — | — | — | — | — | — | — | — | — | 10 | — | — | 1 | 7 | 13 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 7 | 13 |
+| 26 | *Isabgola* | — | 3 | — | — | — | — | — | — | — | — | — | 1 | 6 | 14 | — | 1 | 9 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 9 |
+| 27 | *Ruhi*, or Cotton | 42 | 6 | 10 | — | — | — | — | — | — | — | — | 846 | 8 | 8 | 47 | 6 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 47 | 6 | — |
+| 28 | *Humbly*, or Tamarinds | — | 16 | — | — | — | — | — | — | — | — | — | 2 | 7 | — | — | 3 | 1 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 3 | 1 |
+| 29 | *Lal Mirch*, or Capsicum | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 8 | 10 | — | — | — | — | — | — | — | — | 53 | 1 | 4 | 1 | 8 | 14 | 1 | 8 | 14 |
+| 30 | *Goola*, or *Jagory* | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 16 | 11 | 20 | — | — | — | — | — | — | — | 99 | 4 | 8 | 3 | 9 | — | 3 | 9 | — |
+| 31 | *Katha*, or Cordage | 7 | 19 | — | — | — | — | — | — | — | — | — | 39 | 7 | 4 | 4 | 4 | 11 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | 4 | 11 |
+| 32 | *Peajee*, or Onions | 6 | 6 | 20 | — | — | — | — | — | — | — | — | 22 | 1 | 4 | 3 | 1 | 3 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 3 | 1 | 3 |
+| 33 | *Lassoow*, or Garlick | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | — | — | — | — | — | — | — | — | — | 6 | — | — | — | 2 | 6 | — | 2 | 6 |
+| 34 | *Gopy Chundun* | 11 | 8 | — | — | — | — | — | — | — | — | — | 62 | 7 | — | 6 | 1 | 3 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 6 | 1 | 3 |
+| 35 | *Coppree*, or Coco-nut Kernels | 85 | — | — | — | — | — | — | — | — | — | — | 595 | — | — | 71 | 1 | 14 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 71 | 1 | 14 |
+| 36 | *Tell*, or Oil | 21 | 5 | 20 | — | — | — | — | — | — | — | — | 170 | 3 | 8 | 15 | 7 | 13 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 15 | 7 | 13 |
+| 37 | *Kadapilla* | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 10 | — | — | — | — | — | — | — | — | 2 | 5 | — | — | 1 | 15 | — | 1 | 15 |
+| 38 | *Shawl* | — | — | — | — | — | — | — | — | — | 2 | 3 | 344 | — | — | 12 | 9 | 14 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 12 | 9 | 14 |
+| 39 | *Safith Baptah*, or Cloth | — | — | — | — | — | — | — | — | — | 3½ | 1½ | 178 | 7 | 8 | 13 | 5 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 13 | 5 | 2 |
+| 40 | *Mushroo*, ditto | — | — | — | — | — | — | — | — | — | 22¾ | — | 910 | — | — | 52 | 8 | 7 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 52 | 8 | 7 |
+| 41 | *Mogah Shaddy* ditto | — | — | — | — | — | — | — | — | — | 2¼ | 1 | 75 | 9 | — | 5 | 2 | 5 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 2 | 5 |
+| 42 | *Reshmany Soocy*, ditto | — | — | — | — | — | — | — | — | — | — | 2 | 3 | 5 | — | — | 2 | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 2 | 4 |
+| 43 | *Nawabby*, ditto | — | — | — | — | — | — | — | — | — | 2 | — | 45 | — | — | 4 | 8 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | 8 | — |
+| 44 | *Charkence Sucy*, ditto | — | — | — | — | — | — | — | — | — | ¼ | — | 5 | 6 | 4 | — | 5 | 1 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 1 |
+| 45 | *Illchy Sucy*, ditto | — | — | — | — | — | — | — | — | — | 14 | — | 196 | — | — | 12 | 1 | 9 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 12 | 1 | 9 |
+| 46 | *Soorty*, Chintz | — | — | — | — | — | — | — | — | — | 18½ | 3 | 144 | 5 | 10 | 14 | 1 | 15 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 14 | 1 | 15 |
+| 47 | *Palangposs*, or Counterpanes | — | — | — | — | — | — | — | — | — | 2¼ | 1 | 23 | — | — | 1 | 8 | 6 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 8 | 6 |
+| 48 | *Cathey*, Cloth | — | — | — | — | — | — | — | — | — | 41½ | ½ | 446 | 1 | 15 | 30 | 9 | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 30 | 9 | 10 |
+| 49 | *Jamkana*, or Carpet | — | — | — | — | — | — | — | — | — | 7½ | 3 | 57 | 3 | 12 | 4 | 7 | 12 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | 7 | 12 |
+| 50 | *Chitty Pagdy*, Turbans | — | — | — | — | — | — | — | — | — | 1¼ | 1 | 11 | 3 | 12 | — | 8 | 11 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 8 | 11 |
+| 51 | *Shaddy*, or Womens' Cloth | — | — | — | — | — | — | — | — | — | 1¾ | 3½ | 62 | 5 | 10 | 2 | 4 | 10 | — | — | — | — | — | — | — | 3¼ | — | — | 162 | 5 | — | 4 | — | 13 | 6 | 5 | 4 |
+| 52 | *Lungy Passoddy*, Cloth | — | — | — | — | — | — | — | — | — | ¾ | 1 | 25 | — | — | — | 9 | 6 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 9 | 6 |
+| 53 | *Porkatty*, ditto | — | — | — | — | — | — | — | — | — | 11¼ | — | 221 | 6 | 14 | 10 | 7 | 13 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 10 | 7 | 13 |
+| 54 | *Shilla*, ditto | — | — | — | — | — | — | — | — | — | 11 | 2 | 152 | 6 | 4 | 8 | 7 | 3 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 8 | 7 | 3 |
+| 55 | *Manapadd Kutcha*, ditto | — | — | — | — | — | — | — | — | — | 29 | ¾ | 1041 | 2 | 8 | 36 | — | 11 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 36 | — | 11 |
+| 56 | *Colihy Panchaddy*, ditto | — | — | — | — | — | — | — | — | — | 11 | ½ | 247 | 5 | — | 10 | 8 | 14 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 10 | 8 | 14 |
+| 57 | *Pandy Munddah*, ditto | — | — | — | — | — | — | — | — | — | 4¾ | 4 | 99 | — | — | 4 | 3 | 6 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | 3 | 6 |
+| 58 | *Punjy*, ditto | — | — | — | — | — | — | — | — | — | 1 | — | 26 | 2 | 8 | 1 | 2 | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 2 | 10 |
+| 59 | *Doothary Chariany*, ditto | — | — | — | — | — | — | — | — | — | ½ | 1½ | 21 | 8 | 8 | — | 7 | 15 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 7 | 15 |
+| 60 | *Thiwassy*, ditto | — | — | — | — | — | — | — | — | — | ½ | — | 10 | 7 | 8 | — | 5 | 1 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 1 |
+| 61 | *Kassy* | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 2 | — | — | — | 1 | 2 | 8 | — | 1 | — | — | 1 | — |
+| 62 | *Kagha*, or Blue Cloth | — | — | — | — | — | — | — | — | — | 120 | — | 2400 | — | — | 115 | 3 | 5 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 115 | 3 | 5 |
+| 63 | *Sunny Narmuddy*, Cloth | — | — | — | — | — | — | — | — | — | 9¾ | 1½ | 88 | 4 | 4 | 5 | 7 | 9 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 7 | 9 |
+| 64 | *Dahbully*, ditto | — | — | — | — | — | — | — | — | — | 10¾ | ¾ | 76 | 4 | 12 | 6 | — | 8 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 6 | — | 8 |
+| 65 | *Karwah*, ditto | — | — | — | — | — | — | — | — | — | 1½ | — | 11 | 2 | 8 | — | 8 | 8 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 8 | 8 |
+| 66 | *Safeth Rumall*, ditto | — | — | — | — | — | — | — | — | — | ¼ | 4 | 5 | — | 10 | — | 1 | 11 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 11 |
+| 67 | *Chiley Lungy*, ditto | — | — | — | — | — | — | — | — | — | 5¼ | 4 | 122 | 6 | 4 | 5 | 2 | 11 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 2 | 11 |
+| 68 | *Bengally Roomall*, ditto | — | — | — | — | — | — | — | — | — | ¼ | 1 | 10 | 8 | 12 | — | 6 | 7 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 6 | 7 |
+| 69 | *Withalla* | — | — | — | 13 | 28 | 21 | — | — | — | — | — | 320 | 8 | 9 | 19 | 4 | 1 | — | — | — | 3 | 15 | — | — | — | — | — | 103 | 6 | — | 3 | 9 | 15 | 23 | 4 | — |
+| 70 | *Kagath Resmy* | — | — | — | — | — | — | 16 | — | — | — | — | 44 | — | — | 3 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 3 | — | — |
+| 71 | *Comblemoss*, Fish | — | — | — | — | — | — | 3 | — | — | — | — | 18 | — | — | — | 7 | 8 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 7 | 8 |
+| 72 | *Narrell*, or Coco-nut | — | — | — | — | — | — | 17000 | — | — | — | — | 85 | — | — | 7 | 1 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 7 | 1 | — |
+| 73 | *Sherka Petty* | — | — | — | — | — | — | 7½ | — | — | — | — | 11 | 2 | 8 | — | 5 | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 10 |
+| 74 | *Mashy* or *Bumbly*, Fish Bundles | — | — | — | — | — | — | 12606 | — | — | — | — | 393 | 2 | 4 | 32 | 1 | 14 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 32 | 1 | 14 |
+| 75 | *Choodweh Kattoo* | — | — | — | — | — | — | Cunba | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | Bundles. 50 | — | — | — | 62 | 5 | — | 3 | 1 | 4 | 3 | 1 | 4 |
+| 76 | *Neemmuck*, or Salt Bundles | — | — | — | — | — | — | 8¼ 9½ ¼ | — | — | — | — | 668 | 1 | 6 | 31 | 1 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 31 | 1 | 2 |
+| 77 | *Maundy Jenuss Babath* | — | — | — | — | — | — | — | — | — | — | — | 40 | 6 | 4 | 2 | 6 | 14 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 2 | 6 | 14 |
+| 78 | Anchorage Duties for *Dow Dunghie*, Boats | — | — | — | — | — | — | 16 | — | — | — | — | — | — | — | 110 | 1 | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 110 | 1 | 4 |
+| 79 | Ditto, for *Navaday* ditto | — | — | — | — | — | — | 6 | — | — | — | — | — | — | — | 22 | 1 | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 22 | 1 | 4 |
+| 80 | Ditto, for *Sibuday* ditto | — | — | — | — | — | — | 2 | — | — | — | — | — | — | — | 4 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | — | — |
+| 81 | Ditto, for *Wallah* ditto | — | — | — | — | — | — | 1 | — | — | — | — | — | — | — | 1 | 5 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 1 | 5 | — |
+| 82 | Ditto, for *Munchill* ditto | — | — | — | — | — | — | 4 | — | — | — | — | — | — | — | 4 | 5 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 4 | 5 | — |
+| 83 | Ditto, for *Pattamars* ditto | — | — | — | — | — | — | 37 | — | — | — | — | — | — | — | 47 | — | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 47 | — | 10 |
+| 84 | Ditto, for *Munjee* ditto | — | — | — | — | — | — | 22 | — | — | — | — | — | — | — | 16 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 16 | — | — |
+| 85 | Ditto, for *Hoolky* ditto | — | — | — | — | — | — | 9 | — | — | — | — | — | — | — | 14 | — | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 14 | — | 10 |
+| 86 | Ditto, for *Chunbuck* ditto | — | — | — | — | — | — | 15 | — | — | — | — | — | — | — | 8 | 4 | 6 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 8 | 4 | 6 |
+| 87 | Ditto, for *Koondery* ditto | — | — | — | — | — | — | 1 | — | — | — | — | — | — | — | — | 5 | 10 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 5 | 10 |
+| 88 | Ditto, for *Taney* ditto | — | — | — | — | — | — | 26 | — | — | — | — | — | — | — | 8 | 2 | 8 | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 8 | 2 | 8 |
+| Total ........ |  |  |  |  |  |  |  |  |  |  |  |  | 13641 | 6 | 2 | 1025 | 1 | 2 |  |  |  |  |  |  |  |  |  |  | 68903 | — | 3 | 10347 | 7 | 15 | 11372 | 9 | 1 |
 
 
 <!-- page: 15 | folio: 1 -->
@@ -710,13 +710,13 @@ Along with these answers to my queries, Mr. Ravenshaw most obligingly sent me so
 | 247 | *Malcaly Bellah* ditto |  |  |  |  |  |  |  | 8 |  |  |  | 9 | 8 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 9 | 8 | 14 |  |  |
 | Total | 84461 | 7 | 13 | 7328 | 8 | 15 | 172427 | 2 | 10 | 14431 | 6 | 15 | 23760 | 5 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-JOHN G. RAVENSHAW.
-
-
-<!-- page: 19 | folio: 5 -->
 > _[Margin: CHAPTER XIV. Jan. 15. Population.]_
 
-of which I shall hereafter avail myself. He also favoured me with a statement of the population made up about this time; and reliance may be placed on its accuracy with respect to numbers. I have taken the liberty of altering the orthography, to make it conformable to the other parts of my account. The different casts are detailed in the usual confused manner, with which they are spoken of by the native officers of revenue.
+JOHN G. RAVENSHAW. [p. 5] of which I shall hereafter avail myself. He also favoured me with a statement of the population made up about this time; and reliance may be placed on its accuracy with respect to numbers. I have taken the liberty of altering the orthography, to make it conformable to the other parts of my account. The different casts are detailed in the usual confused manner, with which they are spoken of by the native officers of revenue.
+
+> _[Margin: Jan. 15.]_
+> _[Margin: CHAPTER XIV. Jan. 15.]_
+> _[Margin: CHAPTER XIV. *Jan. 15.*]_
 
 
 ***Kaneh Shumareh*, or statement of Casts, Men, Boys, Women, and Girls in the ten *Talucs* or districts of the Southern division of the province of *Canara*.**
@@ -1063,6 +1063,11 @@ Grain, salt, and sometimes pepper, are sold by measure. Of this last a *Pucka Se
 > _[Margin: Calendar.]_
 
 In *Tulava* the era of *Sáliváhanam* is in use, and at *Mangalore* this is reckoned the year 1722; but in the north it is reckoned the year 1723, and the people there are certainly the most learned. The year of *Tulava* is solar. I here give an almanack for the current year, according to the *Bráhmans* of *Carculla*, who agree with those above the *Ghats* concerning the time of the era.
+
+> _[Margin: CHAPTER XIV. *Jan. 22.*]_
+> _[Margin: CHAPTER XIV. Jan. 22.]_
+> _[Margin: CHAPTER XIV. *Jan.* 22.]_
+> _[Margin: CHAPTER XIV. Jan. 22.]_
 
 
 | *Tulava Months.* :: Era of *Sál.* 1723 | *Tulava Months.* | *European Months.* | *European Months.* :: *A. D.* 1800. | *Tulava Months.* :: Era of *Sal.* 1723 | *Tulava Months.* | *European Months.* | *European Months.* :: *A. D.* 1800. |
@@ -1725,10 +1730,10 @@ Among the *Jain* there are two kinds of temples; one covered with a roof, and ca
 
 <!-- page: 100 | folio: 82 -->
 
-![Vol. III. p. 83. — PLATE XXIII. — Fig 65. — Fig 66.](../figures/fig-002_p0100.webp)
+![Fig 65. — Image at Carculla in Canara.](../figures/fig-002_p0100.webp)
 
 
-![Image at Carculla in Canara.](../figures/fig-003_p0100.webp)
+![Fig 66.](../figures/fig-003_p0100.webp)
 
 
 <!-- page: 101 | folio: 83 -->
@@ -1882,49 +1887,49 @@ I have received much information relative to the produce of the rice grounds in 
 <!-- page: 121 | folio: 103 -->
 
 **A Statement, showing the quantity of Seed required, and the Produce, both in respect to quantity and value, of two Rice Estates in *Seroor Village* of *Tombretta Maugany*; the grain having been cut down, beaten, and measured, in presence of the Valuators. The materials furnished by Mr. Ravenshaw.**
-| Estates. :: Guntas. Anas | Measurement. :: Guntas. Anas :: Acres dec. | Measurement. :: Acres dec. :: Mud. Han. | Seed. :: Quantity according to the report of the Cultivators. :: Reduced to the Mudy of 40 Hanies. :: Bush. dec. | Seed. :: Quantity according to the report of the Cultivators. :: Reduced to English measures. :: Guntas. Anas | Seed. :: Proportion. :: One Mudy sows, :: Bush. dec. | Seed. :: Proportion. :: One Acre requires, :: Mud. Han. | Gross Produce. :: Of rough Rice. :: Bush. dec. | Gross Produce. :: Of rough Rice. :: Mud. Han. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Quantity. :: Bush. dec. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Quantity. :: Pag. Rup. Fan. | Gross Produce. :: Value at 12½ Pagodas for 40 Mudies. :: £. | Gross Produce. :: Value at 12½ Pagodas for 40 Mudies. :: s. | Gross Produce. :: Value at 12½ Pagodas for 40 Mudies. :: d. | Average produce of one Acre. :: Average increase of rough rice. :: Folds. | Average produce of one Acre. :: Quantity. :: Rough rice. :: Bush. dec. | Average produce of one Acre. :: Quantity. :: Clean rice, deducting expense of cleaning. :: Bush. dec. | Average produce of one Acre. :: Quantity. :: Clean rice, deducting expense of cleaning. :: £. | Value of the preceding Column. :: s. | d. | Column 21 | Column 22 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| *Beem Pundary* Landlord. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 sort *Bylu* land - - | 182 14 | 4,572 | 4 20 | 5,9145 | 40 0 | 1,2936 | 109 0 | 141,945 | 46 0 | 59,928 | 14 1 | 2 | 5 | 15 | 11½ | 22 5/10 | 31,06 | 13,102 | 1 | 13 | 0 |
-| 2 ditto *Magelu* land - - | 52 15½ | 1,324 | 2 10 | 2,95725 | 23 4 | 2,233 | 26 4 | 32,99 | 11 25½ | 15,154 | 3 2 | 2½ | 1 | 7 | 7½ | 11 3/10 | 25,665 | 11,446 | 1 | 8 | 10 |
-| 3 ditto *Bettu* or *Mackey* land | 209 6 | 5,234 | 6 0 | 7,8134 | 37 10 | 1,4928 | 23 28 | 30,086 | 9 19 | 12,339 | 2 3 | 3½ | 1 | 3 | 10½ | 3 8/10 | 5,896 | 2,357 | 0 | 5 | 11 |
-| Total - | 445 3½ | 11,130 | 12 30 | 16,68515 | 35 0 | 1,6731 | 158 32 | 206,021 | 67 4½ | 87,421 | 20 3 | 8 | 10 | 7 | 5½ | 12 18/10 | 18,51 | 7,854 | 1 | 0 | 3 |
-| *Ante Tolar* Landlord. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 sort *Bylu* land - - | 197 4 | 4,931 | 4 5 | 5,371625 | 47 12 | 1,089 | 264 0 | 343,785 | 108 36 | 141,813 | 34 0 | 0¼ | 13 14 | 3 | 64 | 69,713 | 22,843 | 2 | 17 | 6½ |  |
-| 2 ditto *Mackey* land - | 400 10 | 10,015 | 7 35 | 10,2551 | 50 12 | 1,024 | 128 32 | 167,746 | 51 21 | 67,1 | 16 0 | 1 | 6 9 | 9 | 164/5 | 16,748 | 6,699 | 0 | 16 | 10½ |  |
-| Total - | 597 14 | 14,946 | 12 0 | 15,626725 | 49 12 | 1,0465 | 392 32¼ | 511,531 | 160 17 | 208,913 | 50 0 | 2 | 20 4 | 0 | 32 29/40 | 34,225 | 13,89 | 1 | 14 | 11½ |  |
-| General Total | 1043 1½ | 26,076 | 24 30 | 32,311875 | 42 0 | 1,24 | 551 24½ | 717,552 | 227 21½ | 296,334 | 71 | 0 1⅗ | 30 | 11 | 5¼ | 22 ½/40 | 27,5 | 11,36 | 1 | 8 | 7½ |
+| Estates. | Measurement. :: Guntas. Anas | Measurement. :: Acres dec. | Seed. :: Quantity according to the report of the Cultivators. :: Reduced to the Mudy of 40 Hanies. :: Mud. Han. | Seed. :: Quantity according to the report of the Cultivators. :: Reduced to English measures. :: Bush. dec. | Seed. :: Proportion. :: One Mudy sows, :: Guntas. Anas | Seed. :: Proportion. :: One Acre requires, :: Bush. dec. | Gross Produce. :: Of rough Rice. :: Mud. Han. | Gross Produce. :: Of rough Rice. :: Bush. dec. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Quantity. :: Mud. Han. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Quantity. :: Bush. dec. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Value at 12½ Pagodas for 40 Mudies. :: Pag. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Value at 12½ Pagodas for 40 Mudies. :: Rup. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Value at 12½ Pagodas for 40 Mudies. :: Fan. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Value at 12½ Pagodas for 40 Mudies. :: £. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Value at 12½ Pagodas for 40 Mudies. :: s. | Gross Produce. :: Clean Rice, deducting the expense of beating and cleaning. :: Value at 12½ Pagodas for 40 Mudies. :: d. | Average increase of rough rice. :: Folds. | Average produce of one Acre. :: Quantity. :: Rough rice. :: Bush. dec. | Average produce of one Acre. :: Quantity. :: Clean rice, deducting expense of cleaning. :: Bush. dec. | Average produce of one Acre. :: Value of the preceding Column. :: £. | Average produce of one Acre. :: Value of the preceding Column. :: s. | Average produce of one Acre. :: Value of the preceding Column. :: d. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Beem Pundary Landlord. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 sort *Bylu* land - - | 182 14 | 4,572 | 4 20 | 5,9145 | 40 0 | 1,2936 | 109 0 | 141,945 | 46 0 | 59,928 | 14 | 1 | 2 | 5 | 15 | 11¾ | 22 9/40 | 31,06 | 13,102 | 1 | 13 | 0 |
+| 2 ditto *Magelu* land - - | 52 15½ | 1,324 | 2 10 | 2,95725 | 23 4 | 2,233 | 26 4 | 32,99 | 11 25½ | 15,154 | 3 | 2 | 2 1/5 | 1 | 7 | 7¼ | 11 24/40 | 25,665 | 11,446 | 1 | 8 | 10 |
+| 3 ditto *Bettu* or *Mackey* land | 209 6 | 5,234 | 6 0 | 7,8134 | 37 10 | 1,4928 | 23 28 | 30,086 | 9 19 | 12,339 | 2 | 3 | 3 2/5 | 1 | 3 | 10¼ | 3 33/40 | 5,896 | 2,357 | 0 | 5 | 11 |
+| Total - | 445 3½ | 11,130 | 12 30 | 16,68515 | 35 0 | 1,6731 | 158 32 | 206,021 | 67 4½ | 87,421 | 20 | 3 | 3 3/5 | 10 | 7 | 5¾ | 12 18/40 | 18,51 | 7,854 | 1 | 0 | 3 |
+| *Ante Tolar* Landlord. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 sort *Bylu* land - - | 197 4 | 4,931 | 4 5 | 5,371625 | 47 12 | 1,089 | 264 0 | 343,785 | 108 36 | 141,813 | 34 | 0 | 0½ | 13 | 14 | 3 | 64 | 69,713 | 22,843 | 2 | 17 | 6¼ |
+| 2 ditto *Mackey* land - - | 400 10 | 10,015 | 7 35 | 10,2551 | 50 12 | 1,024 | 128 32½ | 167,746 | 51 21 | 67,1 | 16 | 0 | 1½ | 6 | 9 | 9 | 16 17/40 | 16,748 | 6,699 | 0 | 16 | 10½ |
+| Total - | 597 14 | 14,946 | 12 0 | 15,626725 | 49 12 | 1,0465 | 392 32½ | 511,531 | 160 17 | 208,913 | 50 | 0 | 2 | 20 | 4 | 0 | 32 29½/40 | 34,225 | 13,89 | 1 | 14 | 11½ |
+| General Total | 1043 1½ | 26,076 | 24 30 | 32,311875 | 42 0 | 1,24 | 551 24½ | 717,552 | 227 21½ | 296,334 | 71 | 0 | 1 3/5 | 30 | 11 | 5¼ | 22 ½/40 | 27,5 | 11,36 | 1 | 8 | 7½ |
 
 
 **A Statement, showing the Seed required for Rice-ground, and its Produce, in seven Estates of five different Villages in *Tombretty Mangauny* of *Barcuru Taluc*. The materials furnished by Mr. Ravenshaw.**
-| Villages. :: Guntas. Anas | Landlords. :: Acres. dec. | Measurement. :: Mud. Han. | Seed rough rice. :: Total. :: Bush. dec. | Seed rough rice. :: For One Acre. :: Bush. dec. | Produce in Rice, deducting the expense of beating. :: Gross. :: Quantity. :: Mud. Han. | Produce in Rice, deducting the expense of beating. :: Gross. :: Quantity. :: Bush. dec. | Produce in Rice, deducting the expense of beating. :: Average. :: Quantity. :: Mud. Han. | Produce in Rice, deducting the expense of beating. :: Average. :: Quantity. :: Bush. dec. | Produce in Rice, deducting the expense of beating. :: Average. :: Value. :: £. | Of One Mudy sown. :: s. | Of One Acre. :: Value. :: d. | Of One Acre. :: Value. | Value. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Heggualu - | Muddoo Row - | 5242 12 | 131,0727 | 136 27½ | 178, | 1,3580 | 967 20 | 1259,911 | 7 5 | 9,612 | 0 | 18 | 7 |
-| Ooloor - - | Sankara Narayana | 19928 10 | 498,2333 | 357 22½ | 465,63 | 0,9345 | 3830 20 | 4988,125 | 10 30 | 10,011 | 0 | 19 | 4 1/3 |
-| Huticky - - | Munjee Shitty - | 1062 4 | 26,5564 | 26 17½ | 34,4276 | 1,2964 | 199 30 | 260,123 | 7 22 | 9,795 | 0 | 18 | 11 1/3 |
-| Hemmunu - | Pooteyar - - | 1507 14 | 37,6727 | 33 15 | 43,462 | 1,153 | 289 — | 376,35 | 9 — | 9,983 | 0 | 19 | 4 |
-| Retardy - | Aniss Shitty - | 2440 14 | 61,0243 | 62 17½ | 81,308 | 1,332 | 456 30 | 591,8 | 7 5 | 9,747 | 0 | 18 | 10 |
-|  | Shambercy - | 479 13 | 11,9955 | 18 22½ | 24,1728 | 2,015 | 109 — | 141,945 | 5 35 | 11,833 | 1 | 2 | 10⅗ |
-|  | Timmy Hebba - | 272 13 | 6,8204 | 5 32½ | 7,5691 | 1,11 | 56 20 | 73,576 | 9 29 | 10,787 | 1 | 0 | 10⅗ |
-| Total - | 30932 — | 773,4 | 640 25 | 834,4 | 1,078 | 5909 — | 7694,838 | 9 8 | 9,955 | 0 | 19 | 2 |  |
+| Villages. | Landlords. | Measurement. :: Guntas. Anas | Measurement. :: Acres. dec. | Seed rough rice. :: Total. :: Mud. | Seed rough rice. :: Total. :: Han | Seed rough rice. :: Total. :: Bush dec. | Seed rough rice. :: For One Acre. :: Bush. dec. | Produce in Rice, deducting the expense of beating. :: Gross. :: Mud. | Produce in Rice, deducting the expense of beating. :: Gross. :: Han. | Produce in Rice, deducting the expense of beating. :: Gross. :: Bush. dec. | Produce in Rice, deducting the expense of beating. :: Average. :: Of One Mudy sown. :: Mud. | Produce in Rice, deducting the expense of beating. :: Average. :: Of One Mudy sown. :: Han | Produce in Rice, deducting the expense of beating. :: Average. :: Of One Acre. :: Quantity. :: Bush. dec. | Produce in Rice, deducting the expense of beating. :: Average. :: Of One Acre. :: Value. :: £. | Produce in Rice, deducting the expense of beating. :: Average. :: Of One Acre. :: Value. :: s. | Produce in Rice, deducting the expense of beating. :: Average. :: Of One Acre. :: Value. :: d. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| *Heggualu* - | *Muddoo Row* - | 5242 12 | 131,0727 | 136 | 27½ | 178, | 1,3580 | 967 | 20 | 1259,911 | 7 | 5 | 9,612 | 0 | 18 | 7 |
+| Ooloor - - | *Sankara Narayana* | 19928 10 | 498,2333 | 357 | 22½ | 465,63 | 0,9345 | 3830 | 20 | 4988,125 | 10 | 30 | 10,011 | 0 | 19 | 4½ |
+| *Huticky* - | *Munjee Shitty* - | 1062 4 | 26,5564 | 26 | 17½ | 34,4276 | 1,2964 | 199 | 30 | 260,123 | 7 | 22 | 9,795 | 0 | 18 | 11¼ |
+| *Hemmunu* - | *Pooteyar* - - | 1507 14 | 37,6727 | 33 | 15 | 43,462 | 1,153 | 289 | — | 376,35 | 9 | — | 9,983 | 0 | 19 | 4 |
+| *Retardy* - | *Aniss Shitty* - | 2440 14 | 61,0243 | 62 | 17½ | 81,308 | 1,332 | 456 | 30 | 591,8 | 7 | 5 | 9,747 | 0 | 18 | 10 |
+|  | *Shambercy* - | 479 13 | 11,9955 | 18 | 22½ | 24,1728 | 2,015 | 109 | — | 141,945 | 5 | 35 | 11,833 | 1 | 2 | 10½ |
+|  | *Timmy Hebba* - | 272 13 | 6,8204 | 5 | 32½ | 7,5691 | 1,11 | 56 | 20 | 73,576 | 9 | 29 | 10,787 | 1 | 0 | 10¼ |
+| Total - |  | 30932 — | 773,4 | 640 | 25 | 834,4 | 1,078 | 5909 | — | 7694,838 | 9 | 8 | 9,955 | 0 | 19 | 2 |
 
 
 **Measurement and Valuation of two Villages in *Barcuru Taluc*, furnished by *Yessawunt Row*, the Appraiser employed by Government.**
-| *Bylu* lands. :: Situation. :: Guntas. Anas | *Bylu* lands. :: Measurement. :: Acres. dec. | *Bylu* lands. :: Seed rough rice. :: Gross. :: Mud. Han. | *Bylu* lands. :: Seed rough rice. :: Per Acre. :: Bush. dec. | *Bylu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Village. :: Gross. | *Bylu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Landlord. :: £. | *Majelu* lands. :: Measurement. :: s. | *Majelu* lands. :: Seed rough rice. :: Gross. :: d. | *Majelu* lands. :: Seed rough rice. :: Per Acre. :: Guntas. Anas | *Majelu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Quantity. :: Acres. dec. | *Majelu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: Mud. Han. | *Majelu* lands. :: Measurement. :: Bush. dec. | *Bettu*, *Vara-Bettu*, and *Mackey* lands. :: Seed rough rice. :: Gross. :: £. | *Bettu*, *Vara-Bettu*, and *Mackey* lands. :: Seed rough rice. :: Per Acre. :: s. | *Bettu*, *Vara-Bettu*, and *Mackey* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Quantity. :: d. | *Bettu*, *Vara-Bettu*, and *Mackey* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: Guntas. Anas | *Bettu*, *Vara-Bettu*, and *Mackey* lands. :: Measurement. :: Acres. dec. | *Bettu*, *Vara-Bettu*, and *Mackey* lands. :: Seed rough rice. :: Gross. :: Mud. Han. | Total of Rice lands. :: Seed rough rice. :: Per Acre. :: Bush. dec. | Total of Rice lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Quantity. :: £. | Total of Rice lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: s. | Total of Rice lands. :: Quantity. :: d. | Total of Rice lands. :: Value. :: Guntas. Anas | Total of Rice lands. :: Acres. dec. | Mud. Han. | Bush. dec. | Mud. Han. | Bush. dec. | £. | s. | d. | Column 32 | Column 33 | Column 34 | Column 35 | Column 36 | Column 37 | Column 38 |
+| Situation. :: Village. | Situation. :: Landlord. | *Bylu* lands. :: Measurement. :: Guntas. Anas | *Bylu* lands. :: Measurement. :: Acres. dec. | *Bylu* lands. :: Seed rough rice. :: Gross. :: Mud. Han. | *Bylu* lands. :: Seed rough rice. :: Per Acre. :: Bush. dec. | *Bylu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Gross. :: Mud. Han. | *Bylu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Quantity. :: Bush. dec. | *Bylu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: £. | *Bylu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: s. | *Bylu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: d. | *Majelu* lands. :: Measurement. :: Guntas. Anas | *Majelu* lands. :: Measurement. :: Acres. dec. | *Majelu* lands. :: Seed rough rice. :: Gross. :: Mud. Han. | *Majelu* lands. :: Seed rough rice. :: Per Acre. :: Bush. dec. | *Majelu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Gross. :: Mud. Han. | *Majelu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Quantity. :: Bush. dec. | *Majelu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: £. | *Majelu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: s. | *Majelu* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: d. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Measurement. :: Guntas. Anas | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Measurement. :: Acres. dec. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Seed rough rice. :: Gross. :: Mud. Han. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Seed rough rice. :: Per Acre. :: Bush. dec. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Gross. :: Mud. Han. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Quantity. :: Bush. dec. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: £. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: s. | *Betta*, *Vara-Betta*, and *Mackey* lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: d. | Total of Rice lands. :: Measurement. :: Guntas. Anas | Total of Rice lands. :: Measurement. :: Acres. dec. | Total of Rice lands. :: Seed rough rice. :: Gross. :: Mud. Han. | Total of Rice lands. :: Seed rough rice. :: Per Acre. :: Bush. dec. | Total of Rice lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Gross. :: Mud. Han. | Total of Rice lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Quantity. :: Bush. dec. | Total of Rice lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: £. | Total of Rice lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: s. | Total of Rice lands. :: Produce in clean Rice after deducting the expense of cleaning. :: Per Acre. :: Value. :: d. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coligay - | Ram Chandra Nayaka | 513 13 | 12,846 | 7 0 | 0,70963 | 126 20 | 12,825 | 1 | 4 | 9½ | 411 2 | 10,27 | 4 5 | 0,526 | 69 20 | 8,805 | 0 | 17 | 0½ | 228 12 | 5,71 | 4 17½ | 1,01 | 15 10 | 3,472 | 0 | 6 | 8½ | 1153 11 | 28,78 | 15 22½ | 0,704 | 211 10 | 9,557 | 0 | 19 | 3¾ |
-|  | Linga Baylala - | 668 11 | 16,679 | 8 0 | 0,625 | 120 20 | 12,687 | 1 | 4 | 6½ | 587 9 | 9,68 | 8 20 | 1,142 | 67 0 | 9,004 | 0 | 17 | 5 | 250 1 | 6,40 | 3 10 | 0,832 | 18 20 | 3,769 | 0 | 7 | 3½ | 1312 5 | 32,739 | 19 13 | 0,729 | 208 0 | 9.866 | 0 | 19 | 11 |
-|  | Siteram Uluru - | 338 15 | 8,474 | 4 23 | 0,701 | 76 20 | 11,709 | 0 | 18 | 1½ | 232 2 | 5,80 | 2 10 | 0,505 | 41 0 | 9,158 | 0 | 17 | 8¼ | 124 4 | 3,1 | 1 30 | 0,733 | 18 10 | 3,539 | 0 | 6 | 10 | 695 5 | 17,383 | 8 25 | 0,646 | 125 30 | 9,42 | 0 | 18 | 2½ |
-|  | Umpei Chitty - | 773 15 | 19,349 | 11 5 | 0,749 | 186 20 | 12,552 | 1 | 4 | 3¾ | 244 6 | 6,09 | 3 5 | 0,839 | 44 10 | 9,427 | 0 | 18 | 2¾ | 338 0 | 8,45 | 4 5 | 0,635 | 24 10 | 3,737 | 0 | 7 | 2½ | 1356 7 | 33,912 | 18 15 | 0,706 | 255 0 | 9 792 | 0 | 18 | 11½ |
-|  | Krishna Ediala - | 86 1 | 2,151 | 1 20 | 0,929 | 21 20 | 13,012 | 1 | 5 | 2 | 34 6 | 0,85 | 0 20 | 0,757 | 6 0 | 9,092 | 0 | 17 | 7 | 62 9 | 1,56 | 1 0 | 0,895 | 2 0 | 4,162 | 0 | 8 | 0½ | 183 0 | 4,575 | 3 0 | 0,854 | 32 20 | 9,25 | 0 | 17 | 10½ |
-|  | Dugupa Bagawata - | 15 12 | 0,393 | 0 10 | 0,827 | 4 0 | 13,229 | 1 | 5 | 7 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | 15 12 | 0,393 | 0 10 | 0,826 | 4 0 | 13,229 | 1 | 5 | 7 |
-| Total - | 2397 3 | 59,93 | 32 20 | 0,811 | 577 20 | 12,548 | 1 | 4 | 3 | 1509 9 | 37,66 | 18 20 | 0,657 | 227 30 | 9,086 | 0 | 17 | 6¾ | 1009 10 | 25,2 | 14 22½ | 0,753 | 71 10 | 3,684 | 0 | 7 | 1¾ | 4716 8 | 117,91 | 65 22½ | 0,724 | 876 20 | 9,68 | 0 | 18 | 8¾ |  |
-| Himana - | Rangaia - - | 1027 7 | 25,687 | 21 10 | 1,077 | 256 0 | 12,979 | 1 | 5 | 1¾ | 342 5 | 8,56 | 7 0 | 1,065 | 58 0 | 8,825 | 0 | 17 | 0½ | 643 14 | 16,1 | 10 30 | 0,809 | 44 30 | 3.62 | 0 | 7 | 0 | 2013 10 | 50,342 | 39 0 | 1,007 | 358 30 | 9,28 | 0 | 17 | 11½ |
-|  | Rama Sastri - | - - | - | - - | - | - - | - | - | - | - | - - | - | - - | - | - - | - | - | - | - | 384 4 | 9,599 | 5 0 | 0,677 | 28 0 | 3,795 | 0 | 7 | 4 | 384 4 | 9,599 | 5 0 | 0,677 | 28 0 | 3,795 | 0 | 7 | 4 |
-|  | Ariaudopa - | 123 1 | 3,077 | 2 20 | 1,058 | 30 20 | 12,802 | 1 | 4 | 9 | - - | - | - - | - | - - | - | - | - | - | 8 13 | 0,22 | 0 15 | 2,214 | 0 20 | 3,955 | 0 | 5 | 8½ | 131 14 | 3,289 | 2 35 | 1,138 | 31 0 | 12,272 | 1 | 3 | 8¼ |
-|  | Madua Row - | 121 5 | 3,022 | 2 5 | 0,912 | 30 0 | 12,881 | 1 | 4 | 11 | - - | - | - - | - | - - | - | - | - | - | 21 13 | 0,55 | 0 15 | 0,895 | 2 0 | 4,776 | 0 | 9 | 2 | 143 2 | 3,578 | 2 20 | 0,910 | 32 0 | 11,647 | 1 | 2 | 6¼ |
-| Total - | 1271 13 | 31,79 | 25 95 | 1,06 | 316 20 | 12,962 | 1 | 5 | 0½ | 342 5 | 8,56 | 7 0 | 1,065 | 58 0 | 8,825 | 0 | 17 | 0½ | 1058 12 | 26,47 | 16 20 | 0,811 | 75 10 | 3,689 | 0 | 7 | 2 | 2672 14 | 66,82 | 49 15 | 0,962 | 449 30 | 8,766 | 0 | 16 | 11½ |  |
-| General total | 3669 - | 91,728 | 58 15 | 0,829 | 894 0 | 12,692 | 1 | 4 | 6½ | 1651 14 | 41,22 | 25 20 | 0,804 | 285 30 | 9,009 | 0 | 17 | 5 | 2068 6 | 51,7 | 31 2½ | 0,782 | 146 20 | 3,795 | 0 | 7 | 1½ | 7389 6 | 184,74 | 114 37½ | 0,81 | 1326 10 | 9,48 | 0 | 18 | 1 |  |
+| *Coligay* - | *Ram Chandra Nayaka* | 513 13 | 12,846 | 7 0 | 0,70963 | 126 20 | 12,825 | 1 | 4 | 9¼ | 411 2 | 10,27 | 4 5 | 0,526 | 69 20 | 8,805 | 0 | 17 | 0½ | 228 12 | 5,71 | 4 17½ | 1,01 | 15 10 | 3,472 | 0 | 6 | 8½ | 1153 11 | 28,78 | 15 22½ | 0,704 | 211 10 | 9,557 | 0 | 19 | 3½ |
+|  | *Linga Baylala* - - | 668 11 | 16,679 | 8 0 | 0,625 | 126 20 | 12,687 | 1 | 4 | 6½ | 587 9 | 9,68 | 8 20 | 1,142 | 67 0 | 9,004 | 0 | 17 | 5 | 256 1 | 6,40 | 3 10 | 0,832 | 18 20 | 3,765 | 0 | 3½ | 3¼ | 1312 5 | 32,739 | 19 13 | 0,762 | 248 0 | 9,866 | 0 | 19 | 11 |
+|  | *Siteram Uluru* - - | 338 15 | 8,474 | 4 25 | 0,701 | 76 20 | 11,709 | 0 | 18 | 1¾ | 232 2 | 5,80 | 2 10 | 0,505 | 41 0 | 9,158 | 0 | 17 | 8½ | 124 4 | 3,1 | 1 30 | 0,733 | 18 10 | 3,539 | 0 | 6 | 10 | 695 5 | 17,383 | 8 25 | 0,646 | 125 30 | 9,42 | 0 | 18 | 2½ |
+|  | *Umpei Chitty* - - | 773 15 | 19,349 | 11 5 | 0,749 | 186 20 | 12,552 | 1 | 4 | 3¾ | 244 6 | 6,09 | 3 5 | 0,839 | 44 10 | 9,427 | 0 | 18 | 2¾ | 338 0 | 8,45 | 4 5 | 0,635 | 24 10 | 3,737 | 0 | 7 | 2¾ | 1356 7 | 33,912 | 18 15 | 0,706 | 255 0 | 9,792 | 0 | 18 | 11¾ |
+|  | *Krishna Ediala* - - | 86 1 | 2,151 | 1 20 | 0,929 | 21 20 | 13,012 | 1 | 5 | 2 | 34 6 | 0,85 | 0 20 | 0,757 | 6 0 | 9,092 | 0 | 17 | 7 | 62 9 | 1,56 | 1 0 | 0,832 | 5 0 | 4,162 | 0 | 8 | 0½ | 183 0 | 4,575 | 3 0 | 0,854 | 32 20 | 9,25 | 0 | 17 | 10½ |
+|  | *Dugupa Bagawata* - | 15 12 | 0,393 | 0 10 | 0,827 | 4 0 | 13,229 | 1 | 5 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 15 12 | 0,393 | 0 10 | 0,826 | 4 0 | 13,229 | 1 | 5 | 7 |
+| Total - |  | 2397 3 | 59,98 | 32 20 | 0,811 | 577 20 | 12,548 | 1 | 4 | 3¾ | 1309 9 | 32,66 | 18 20 | 0,657 | 227 30 | 9,086 | 0 | 17 | 6¼ | 1009 10 | 25,2 | 14 22½ | 0,753 | 71 10 | 3,684 | 0 | 7 | 1½ | 4716 8 | 117,91 | 65 22½ | 0,724 | 876 20 | 9,68 | 0 | 18 | 8½ |
+| *Himana* - | *Rangaia* - - - | 1027 7 | 25,687 | 21 10 | 1,077 | 256 0 | 12,979 | 1 | 5 | 1¼ | 342 5 | 8,56 | 7 0 | 1,065 | 58 0 | 8,825 | 0 | 17 | 0½ | 643 14 | 16,1 | 10 30 | 0,809 | 44 30 | 3,62 | 0 | 7 | 0 | 2013 10 | 50,342 | 39 0 | 1,007 | 358 30 | 9,28 | 0 | 17 | 11¼ |
+|  | *Rama Sastri* - - - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 384 4 | 9,599 | 5 0 | 0,677 | 28 0 | 3,795 | 0 | 7 | 4 | 384 4 | 9,599 | 5 0 | 0,677 | 28 0 | 3,795 | 0 | 7 | 4 |
+|  | *Ariaudopa* - - - | 123 1 | 3,077 | 2 20 | 1,058 | 30 20 | 12,802 | 1 | 4 | 9 |  |  |  |  |  |  |  |  |  | 8 13 | 0,22 | 0 15 | 2,214 | 0 20 | 3,955 | 0 | 5 | 8½ | 131 14 | 3,289 | 2 35 | 1,138 | 31 0 | 12,272 | 1 | 3 | 8½ |
+|  | *Madua Row* - - - | 121 5 | 3,022 | 2 5 | 0,912 | 30 0 | 12,881 | 1 | 4 | 11 |  |  |  |  |  |  |  |  |  | 21 13 | 0,55 | 0 15 | 0,895 | 2 0 | 4,776 | 0 | 2¼ | 2½ | 143 2 | 3,578 | 2 20 | 0,910 | 32 0 | 11,647 | 1 | 2 | 6¼ |
+| Total - |  | 1271 13 | 31,79 | 25 95 | 1,06 | 316 20 | 12,962 | 1 | 5 | 0¼ | 342 5 | 8,56 | 7 0 | 1,065 | 58 0 | 8,825 | 0 | 17 | 0½ | 1058 12 | 26,47 | 16 20 | 0,811 | 75 10 | 3,689 | 0 | 7 | 2 | 2672 14 | 66,82 | 49 15 | 0,962 | 449 30 | 8,766 | 0 | 16 | 11½ |
+| General total |  | 3669 — | 91,728 | 58 15 | 0,829 | 894 0 | 12,692 | 1 | 4 | 6½ | 1651 14 | 41,22 | 25 20 | 0,804 | 285 30 | 9,009 | 0 | 17 | 5 | 2068 6 | 51,7 | 31 2½ | 0,782 | 146 20 | 3,795 | 0 | 7 | 1½ | 7389 6 | 184,74 | 114 37½ | 0,81 | 1326 10 | 9,48 | 0 | 18 | 1 |
 
 
 <!-- page: 123 | folio: 103 -->
@@ -2988,6 +2993,8 @@ In the annexed Statement will be seen the exports and imports, by sea, from thes
 > _[Margin: CHAPTER XVI. March 7.]_
 > _[Margin: CHAPTER XVI. March 7.]_
 > _[Margin: CHAPTER XVI. March 7.]_
+> _[Margin: CHAPTER XVI. March 7.]_
+> _[Margin: CHAPTER XVI. March 7.]_
 
 
 **Statement shewing the Average annual Quantity of Goods imported and exported by Sea in the northern Division of Canara, 1800-1.**
@@ -3684,6 +3691,9 @@ The exports and imports by land are very considerable, as may be seen by the acc
 
 
 <!-- page: 273 | folio: 247 -->
+> _[Margin: CHAPTER XVII. March 16.]_
+> _[Margin: CHAPTER XVII. March 16.]_
+
 
 **Statement shewing the Average annual Quantity of Goods imported and exported in the northern Division of Canara and Soonda by Land, 1800-1.**
 | No. :: Nidge of 12 Maunds. | Names of the Articles. :: Bullock-loads of 6 Maunds. | Average annual Quantity Imported. :: Maunds of 44 Seers Cutcha. | Total Value in Rupees. :: Seers Cutcha of 24 Rups weight. | Average annual Quantity Exported. :: Per man's load (large) | Total Value in Rupees. :: Per man's load (small) | Potts. | Kodi, or Scores. | Adud, or Pieces. | Nidge of 12 Maunds | Bullock-load of 6 Maunds. | Maunds of 44 Seers. | Seers of 24 Rupees weight. | Per man's load (large) | Per man's load (small) | Guddah, or Potts. | Kodi, or Scores. | Baskets. | Pieces. | Column 20 | Column 21 | Column 22 | Column 23 |
@@ -4562,10 +4572,10 @@ The merchants here give the following as the average rate at which the produce o
 
 <!-- page: 344 | folio: 316 -->
 
-![Small mill for cleaning cotton at Hari-hara. — Fig. 74. — Fig. 83.](../figures/fig-008_p0344.webp)
+![Small mill for cleaning cotton at Hari-hara. — Fig. 74.](../figures/fig-008_p0344.webp)
 
 
-![Warner sc.](../figures/fig-009_p0344.webp)
+![Fig. 83.](../figures/fig-009_p0344.webp)
 
 
 <!-- page: 345 | folio: 317 -->
@@ -5153,13 +5163,13 @@ The furnaces are constructed in a high terrace, which is built against the insid
 
 <!-- page: 409 | folio: 371 -->
 
-![PLATE XXXIII. — Fig 81. — Vertical section of a glaſs furnace at Muteodu. — Fig 82.](../figures/fig-015_p0409.webp)
+![Fig 81. — Vertical section of a glaſs furnace at Muteodu. — Fig 82. — Fig 85.](../figures/fig-015_p0409.webp)
 
 
-![Disposition of the layers of ore within the matrix at Doda Rashy Mine. — Fig 85.](../figures/fig-016_p0409.webp)
+![Disposition of the layers of ore within the matrix at Doda Rashy Mine.](../figures/fig-016_p0409.webp)
 
 
-![Plan of the channels in a sugar field. at Kellamungulum. — Warner sc.](../figures/fig-017_p0409.webp)
+![Plan of the channels in a sugar field. at Kellamungulum.](../figures/fig-017_p0409.webp)
 
 > _[Margin: *Frit*, or *Bilizu.*]_
 
@@ -5640,6 +5650,11 @@ During my stay there, I procured the *Caneh Sumareh* of the *Mysore Rájá’s* 
 
 
 <!-- page: 456 | folio: 414 -->
+> _[Margin: CHAPTER XIX. June 3.]_
+> _[Margin: CHAPTER XIX. June 3.]_
+> _[Margin: CHAPTER XIX. June 3.]_
+> _[Margin: CHAPTER XIX. June 3.]_
+
 
 ***Abstract of the Caneh Sumareh of the Territories belonging to the Rájá of Mysore.***
 | *Talucs* in the *Chatrakal Ráyada*. | Families. | Houses. | Ploughs. |
@@ -6531,8 +6546,9 @@ In order to give the reader a correct idea of the countenance of the Indian *Mus
 29th *June*.—I went about fourteen miles to *Wallaja-petta*, or *Wallaj"-abad*, on the north side of the river, about two miles from *Arcot*. The valley leading from *Vanambady* to *Vellore*, or *Velluru*, opens here into a level country containing both dry-field and rice-ground. The weather in the day, although there are strong winds from the west, is very hot. There are occasional showers of rain, that have brought forward the crop of *Bajera* (*Holcus spicatus*), which is that commonly raised on the dry-field.
 
 > _[Margin: June 30.]_
+> _[Margin: CHAPTER XX. June 30.]_
 
-30th *June*.—I remained at *Wallaja-petta*, in order to give my people rest. This town was built by the orders of the late *Nabob*, *Mahummed Aly Wallaja*, and called after his own name. The
+30th *June*.—I remained at *Wallaja-petta*, in order to give my people rest. This town was built by the orders of the late *Nabob*, *Mahummed Aly Wallaja*, and called after his own name. The [p. 465] people were removed from *Laal-petta* and other places, which with the *Mussulman* princes of India is a common practice. Soon after it had the misfortune to fall into the hands of *Hyder*; but on the restoration of peace, the *Nabob* heaped benefits on his favourite, and it has risen to a great size, and is regularly built, rich, and populous. Its fortifications are mouldering to decay; but, as the place is now far from an enemy, it is not soon likely to regret the loss. Almost the whole of the trade, between the country above the *Ghats* and the sea-coast, centres here; and a larger assortment of goods can, it is said, be procured at *Wallaja-petta* than in any town of the peninsula, *Madras* itself not excepted. Provisions are plenty and cheap.
 
 
 <!-- page: 507 | folio: 465 -->
@@ -6548,12 +6564,6 @@ In order to give the reader a correct idea of the countenance of the Indian *Mus
 <!-- page: 511 | folio: 463 -->
 
 ![MOIZ UD DEEN, Second legitimate Son of Tippoo Sultan. — C. Picart Sc.](../figures/fig-021_p0511.webp)
-
-
-<!-- page: 513 | folio: 465 -->
-> _[Margin: CHAPTER XX. June 30.]_
-
-people were removed from *Laal-petta* and other places, which with the *Mussulman* princes of India is a common practice. Soon after it had the misfortune to fall into the hands of *Hyder*; but on the restoration of peace, the *Nabob* heaped benefits on his favourite, and it has risen to a great size, and is regularly built, rich, and populous. Its fortifications are mouldering to decay; but, as the place is now far from an enemy, it is not soon likely to regret the loss. Almost the whole of the trade, between the country above the *Ghats* and the sea-coast, centres here; and a larger assortment of goods can, it is said, be procured at *Wallaja-petta* than in any town of the peninsula, *Madras* itself not excepted. Provisions are plenty and cheap.
 
 > _[Margin: July 1. Appearance of the country.]_
 
@@ -6698,6 +6708,8 @@ Here we have a dynasty that no doubt existed, and of which many traces remain in
 
 This brings the chronology down to the year 537 of the Christian era, to which we must add 500, the probable error. It was, perhaps, this dynasty that erected the palace of *Madura*, which in greatness and elegance is said to exceed all other remaining *Hindu* buildings, and would indeed seem to be an admirable work. The last dynasty of *Madura Rájás*, named *Trimula Nayakas*, were *Polygars*, who on the fall of *Vijaya-nagara* assumed independence.
 
+> _[Margin: *Belalla Ráyarus* who governed *Karnata*.]_
+
 
 **“ *Belalla Ráyar* dynasty.**
 | Col 1 | Col 2 | Col 3 | Col 4 |
@@ -6718,6 +6730,8 @@ This brings the chronology down to the year 537 of the Christian era, to which w
 > _[Margin: CHAPTER XX. July 4.]_
 
 The residence of this, and most of the following dynasties, being far removed from *Madras*, little accuracy relative to them is to be expected in this *Rájá Paditti*. Our author’s chronology brings the end of the *Belalla Ráyar* government to the year of the Christian era 712. But *Vishnu Verti* is no doubt the same with *Vishnu Verdana*, [p. 475] who, although younger, was contemporary with *Ráma Anuja*, born in the year of *Sal.* 939, or 1016 of the Christian era. This confirms the tradition at *Jamagullu*, and *Malayala*, concerning the time of the *Sholun Rájás*, and brings all the other dynasties much lower down than the *Rájá Paditti* places them.
+
+> _[Margin: *Adeva Rájás.*]_
 
 
 **“ *Adeva Rájás* government.**
@@ -6751,6 +6765,7 @@ There can be little doubt, but that this dynasty is the same with the 18 ancesto
 
 It is probable, that *Anna Pemma* may have been a prince descended from *Pritapa Rudra*, who established himself here after the overthrow of that king by the *Mussulmans*, and was not brought under subjection to the first prince of *Vijaya-nagara* ; for *Hari-hara* the first is not mentioned in this succession of princes.
 
+> _[Margin: *Tuluva Ráyar dynasty.*]_
 > _[Margin: CHAPTER XX. July 4.]_
 
 
@@ -8118,7 +8133,7 @@ The *Poon* spars are got in nearly the same manner, but the *Jack* tree can be c
 | *Catcheria* | 7 *candies* |  |  |
 | Cointer Seed | 3 bags |  |  |
 | Ditto | 162 *edangallies* |  |  |
-| *China* Summerheads, Um-\nbrellas | 12 |  |  |
+| *China* Summerheads, Umbrellas | 12 |  |  |
 | *ChapaRamal*, Handkerchiefs | 120 pieces |  |  |
 | Cassia Laurus | 17 ditto |  |  |
 | *Chana Gram*, a kind of Pulse | 20 *candies* |  |  |
@@ -8136,7 +8151,7 @@ The *Poon* spars are got in nearly the same manner, but the *Jack* tree can be c
 | Cotton | 18 bundles |  |  |
 | Country Combs | 26 *corge*, or score |  |  |
 | Ditto Challums | 900 |  |  |
-| *Copra*, or Dried Coco-Nut\nKernels | 10 *maunds* |  |  |
+| *Copra*, or Dried Coco-Nut Kernels | 10 *maunds* |  |  |
 | *China* Wax | 5 chests |  |  |
 | Coriander Seed | 230 *edangallies* |  |  |
 | *China* Flowered Sattin | 1 bundle |  |  |
@@ -8163,7 +8178,7 @@ The *Poon* spars are got in nearly the same manner, but the *Jack* tree can be c
 | Cheese | 8 ditto |  |  |
 | Corks | 1 bag |  |  |
 | Copper Sheets | 5 *maunds* |  |  |
-| *Cootnys*, a kind of Cloth,\nSilk and Cotton | 52 pieces |  |  |
+| *Cootnys*, a kind of Cloth, Silk and Cotton | 52 pieces |  |  |
 | D |  |  |  |
 | Dry Dates | 38 *cappats* |  |  |
 | Ditto | 15 bags |  |  |
@@ -8173,17 +8188,17 @@ The *Poon* spars are got in nearly the same manner, but the *Jack* tree can be c
 | *Dooties*, Cloth | 82 pieces |  |  |
 | Dry Ginger | 11¾ *maunds* |  |  |
 | Ditto | 10 bundles |  |  |
-| *Doll*, Split Pease of the\n*Cytisus Cajan* | 32 *pharas* |  |  |
+| *Doll*, Split Pease of the *Cytisus Cajan* | 32 *pharas* |  |  |
 | Ditto | 20 *maunds* |  |  |
 | Ditto | 100 measures |  |  |
 | G |  |  |  |
 | Glass Ware | 1 box |  |  |
 | Ditto | 6 chests |  |  |
 | Ditto | 1 case |  |  |
-| *Gram Moong*, a kind of\nPulse | 22 *cappats* |  |  |
+| *Gram Moong*, a kind of Pulse | 22 *cappats* |  |  |
 | Ditto | 18 *robins* |  |  |
 | Ditto | 11 bundles |  |  |
-| *Ganjah*, Dry Flowers and\nLeaves of Hemp | 44 ditto |  |  |
+| *Ganjah*, Dry Flowers and Leaves of Hemp | 44 ditto |  |  |
 | Ditto | 1½ *maund* |  |  |
 | Googal, a kind of Incense | 9 *maunds* |  |  |
 | Ginger | 2 *candies* |  |  |
@@ -8813,7 +8828,7 @@ Errors excepted,
 - *Angediva*, iii. 78.
 - *Ani Duelu*, a copper coin with the impression of an elephant. See *Dub*.
 - *Ani-malaya*, town of *Coimbetore*, ii. 331.
-- ——, a passage in the mountains between *Coimbetore* and *Malabar*, ii. 332.
+  - ——, a passage in the mountains between *Coimbetore* and *Malabar*, ii. 332.
 - *Apogodal*, a town, ii. 226.
 - Appearance of the country, and general state of cultivation and population between *Madras*, and the *Ghats*, or passages up the mountains, i. 1, 5, 8, 10, 15, 16, 18, 19, 23.
 - *Idem* in the *Mysore* or *Patana Ráyada*, i. 37, 41, 44, 48, 49, 50, 53, 54, 56, 58, 82, 137, 170, 190, 191, 265, 271, 272, 276, 310, 316, 342, 344, 357, 360, 398. ii. 2, 4, 15, 16, 23, 24, 33, 34, 44, 58, 60, 63, 65, 68, 69, 80, 85, 87, 88, 89, 91, 92, 97, 118, 129, 137, 142, 146, 149, 150, 155, 156. iii. 359, 363, 367, 375, 380, 382, 384, 389, 392, 403, 405, 407, 409, 419, 422, 424, 425, 431, 435, 457, 460, 461, 462, 465.
@@ -8832,7 +8847,7 @@ Errors excepted,
 - Architecture. See Bridge, House, Inn, Palace, Temple.
 - *Arcola*, a village of *Canara*, iii. 61.
 - *Arcot*, or *Arrucate*, a town, capital of a country, i. 17.
-- —— Rupee, a silver coin, ii. 210.
+  - —— Rupee, a silver coin, ii. 210.
 - *Areca Catechu* Lin. or *Betel-nut* palm. See Gardens, Plantations, i. 153, 384. ii. 52, 110, 259, 365, 454, 458, 487, 504, 524, 552, 561. iii. 2, 45, 54, 59, 84, 86, 151, 154, 220, 270, 277, 403, 452.
 - *Arhitta*, a sect considered now as heretical. See *Jainas*, also their Gods, iii. 77.
 - *Aritta parumba*, a place in *Malabar*, ii. 559.
@@ -8869,12 +8884,12 @@ Errors excepted,
 - *Baikshaváni Mata*, iii. 286, 288.
 - *Bailuru*, iii. 392, 400, &c.
 - *Balapura Chica*, a town of *Mysore*, i. 329.
-- ———, *Doda*, a town of *Mysore*, i. 330, 346, 354.
+  - ———, *Doda*, a town of *Mysore*, i. 330, 346, 354.
 - *Balhica*, an Indian dynasty, iii. 96.
 - *Balija*, a cast of traders and farmers. See *Banijigaru Telinga*.
 - *Baliky*, a proprietor of land in *Tulava*, iii. 31.
 - *Ballagai*, a division of *Hindus*. See *Hindu*.
-- ———, a cast of very impure origin. See *Whalliaru*.
+  - ———, a cast of very impure origin. See *Whalliaru*.
 - *Ballapum*, a kind of stone. See Pot-stone.
 - *Bamboo*, a kind of cane, i. 5, 169, 189. ii. 341.
 - *Bana-samudra*, iii. 424.
@@ -8883,10 +8898,10 @@ Errors excepted,
 - *Bangalore*, or *Bangaluru*, a chief town of *Mysore*, i. 44, 193.
 - *Banhica*, an Indian dynasty, iii. 112.
 - *Banijigaru*, a cast of *Hindus* who are traders, artists, and farmers.
-- ——— *Pancham*, i. 236.
-- ——— *Curivina*. See *Bily Mugga*.
-- ——— *Jaina*, i. 236, 240. ii. 68.
-- ——— *Telinga* or *Teliga*, i. 236, 240, 322.
+  - ——— *Pancham*, i. 236.
+  - ——— *Curivina*. See *Bily Mugga*.
+  - ——— *Jaina*, i. 236, 240. ii. 68.
+  - ——— *Telinga* or *Teliga*, i. 236, 240, 322.
 - Banks for keeping out water, ii. 519, 560. iii. 2, 42, 45.
 - *Banuru*, iii. 420.
 - *Bára-mahál*, districts annexed to the, after the fall of *Seringapatam*, iii. 432, 459.
@@ -8897,13 +8912,13 @@ Errors excepted,
 - *Baswa*, a *Hindu* deity. See *Sarvaka*. Also i. 165. iii. 253, 391.
 - *Baswa Rásá Durga*, iii. 138.
 - *Baswana*, a celebrated personage, i. 240.
-- ——— *Betta*, iii. 425.
-- ——— *purana*, the sacred book of a sect of *Hindus*, i. 240.
+  - ——— *Betta*, iii. 425.
+  - ——— *purana*, the sacred book of a sect of *Hindus*, i. 240.
 - *Baswa-pattana*, iii. 310.
 - *Batadaru*, a cast of *Canara*, mostly slaves, iii. 106.
 - *Batigaru*, a kind of servants employed in agriculture. See Servants.
 - *Batta*, or exchange. See Money.
-- ——— *Achárya*, a celebrated doctor among the *Brahmans*, iii. 91, 98.
+  - ——— *Achárya*, a celebrated doctor among the *Brahmans*, iii. 91, 98.
 - *Battay*, a deity of the *Hindus*, i. 399.
 - *Batuculla*, a town of *Canara*, and its princes, iii. 109, 130.
 - *Baydamungulum*, a town of *Mysore*, i. 33.
@@ -8922,12 +8937,12 @@ Errors excepted,
 - *Belluru*, a town of *Mysore*, ii. 64.
 - *Beni-chavadi*, chief of the Butter-office in *Mysore*, an officer of revenue, ii. 5.
 - *Besta Teliga*, a cast, carriers of palanquins. See *Bui*.
-- ——— *Canara*, or *Karnata*, a cast. See *Cubbaru*, *Torearu*.
+  - ——— *Canara*, or *Karnata*, a cast. See *Cubbaru*, *Torearu*.
 - Betel leaf. See Gardens.
-- ——— nut cultivation. See *Areca*.
-- ———, commerce with. See i. 201. ii. 32. iii. 228.
+  - ——— nut cultivation. See *Areca*.
+  - ———, commerce with. See i. 201. ii. 32. iii. 228.
 - *Betta*, a kind of temple of the *Jainas*, iii. 82.
-- ———, a kind of land in *Canara*. See Low land, and iii. 42, 84, 88.
+  - ———, a kind of land in *Canara*. See Low land, and iii. 42, 84, 88.
 - *Betta Curubaru*, a rude tribe or cast of *Karnata*. See *Curubaru*.
 - *Bettuta-nada*, a district of *Malabar*, ii. 434, 470.
 - *Bhadra Kálí*, one of the *Hindu* deities called *Saktis*, ii. 216, 330, 528.
@@ -8938,16 +8953,16 @@ Errors excepted,
 - *Bhaminee* Sultans, iii. 115.
 - *Bharata khanda*, a region of the world in *Hindu* geography, ii. 306. iii. 78.
 - *Bháwaní*, a *Hindu* deity, i. 423.
-- ———, a river of *Coimbetore*, ii. 228, 248, 278.
-- ——— *Kudal*, a town of *Coimbetore*, ii. 199, 200, 201.
+  - ———, a river of *Coimbetore*, ii. 228, 248, 278.
+  - ——— *Kudal*, a town of *Coimbetore*, ii. 199, 200, 201.
 - *Bheri*, a cast containing traders, i. 259, 321, 351.
 - *Bhúma*, a deity of the *Hindus*, i. 338.
 - *Bideruru*, vulgo *Bidenore*, a capital city of *Karnata*, iii. 105, 128, 261, palace, 262.
 - *Bidháti* river, iii. 203, 211.
 - *Biluara*, a cast who extract wine from palm-trees, analogous to the *Biguru*, *Shanar*, and *Tiar*, iii. 52.
 - *Bily Hessaru*, a kind of pulse. See *Dolichos catsjang*.
-- ——— *Hana*, a silver coin. See *Malabar Fanam*.
-- ——— *Mugga*, a cast of weavers, i. 116, 418.
+  - ——— *Hana*, a silver coin. See *Malabar Fanam*.
+  - ——— *Mugga*, a cast of weavers, i. 116, 418.
 - *Birnala*, one of the *Hindu* deities called *Saktis*, iii. 17.
 - *Bir'uppa*, a male deity of the *Hindus*; compare *Kála Bhairava*, i. 397.
 - Blankets. See Wool.
@@ -8961,30 +8976,30 @@ Errors excepted,
 - *Bradypus ursinus*, a wild beast. See Bear.
 - *Brahma*, a *Hindu* deity, i. 144, 304, 334, 335. iii. 77, 83, 92.
 - *Bráhmans*, the highest cast of *Hindus*; disposition, policy, and superstition. See *Agrarum*, i. 241, 242, 320. ii. 23, 30, 59, 72, 75, 79, 81, 84, 97, 144, 147, 174, 200, 229, 243, 267, 285, 286, 287, 292, 293, 300, 348, 352, 360, 366, 381, 424, 425, 426, 433. iii. 18, 64, 73, 75, 76, 93, 435, 470.
-- ———, numerous, i. 276, 331. ii. 2, 47, 285, 291, 361. iii. 2, 75.
-- ———, their occupations, i. 18, 20, 47. ii. 291, 292, 300. iii. 86, 179.
-- ———, divisions, national; into ten nations, whereof the five northern are called *Panch*
+  - ———, numerous, i. 276, 331. ii. 2, 47, 285, 291, 361. iii. 2, 75.
+  - ———, their occupations, i. 18, 20, 47. ii. 291, 292, 300. iii. 86, 179.
+  - ———, divisions, national; into ten nations, whereof the five northern are called *Panch*
 - *Gauda*, the five southern *Panch Drávada* or *Drávida*, i. 20, 307, 308. iii. 90, 176, 179.
 - *Bráhmans*, farther national divisions.
-- ———, *Cummay* or *Cummavar*, ii. 64.
-- ———, *Haiga* or *Haiva*, iii. 131, 206, 212.
-- ———, *Hubbu*, iii. 179.
-- ———, *Kankana*, iii. 20, 176, 185.
-- ———, *Namburi*, ii. 348, 352, 360, 366, 367, 393, 410, 423.
-- ———, *Puttar*, ii. 352, 485.
-- ———, *Tulava*, iii. 16, 18, 31, 82, 90, &c. 97, 98, 99, 103, 104, 108, 109, 111.
-- ———, divided into families, or *Gotrams*, i. 309, 354.
-- ———, divided into sects, i. 13, 304, 335.
-- ———, *Sankety*, iii. 403.
-- ———, *Smartal*, or sect of *Siva*, i. 13, 304, 335.
-- ——— *Sri Vaishnavam*, or *Aayngar*, i. 14, 142, 332, 334. ii. 73, 75. iii. 468, 470.
-- ———, *Madual*, i. 14. iii. 90, &c. 99.
-- ———, *Bhágavata*, ii. 64.
-- ———, divided according to their occupations, i. 308.
-- ———, *Vaidika*, or men of piety and learning, i. 21. ii. 65, 303. iii. 403.
-- ———, *Lokika* or *Lovadika*, or men of business, i. 21. ii. 65.
-- ———, officiating priests, *Numbis*, and *Siva Brahmanas*, i. 21, 333.
-- ———, *Sannyasis*, or men who have forsaken the world. See *Sannyasi*.
+  - ———, *Cummay* or *Cummavar*, ii. 64.
+  - ———, *Haiga* or *Haiva*, iii. 131, 206, 212.
+  - ———, *Hubbu*, iii. 179.
+  - ———, *Kankana*, iii. 20, 176, 185.
+  - ———, *Namburi*, ii. 348, 352, 360, 366, 367, 393, 410, 423.
+  - ———, *Puttar*, ii. 352, 485.
+  - ———, *Tulava*, iii. 16, 18, 31, 82, 90, &c. 97, 98, 99, 103, 104, 108, 109, 111.
+  - ———, divided into families, or *Gotrams*, i. 309, 354.
+  - ———, divided into sects, i. 13, 304, 335.
+  - ———, *Sankety*, iii. 403.
+  - ———, *Smartal*, or sect of *Siva*, i. 13, 304, 335.
+  - ——— *Sri Vaishnavam*, or *Aayngar*, i. 14, 142, 332, 334. ii. 73, 75. iii. 468, 470.
+  - ———, *Madual*, i. 14. iii. 90, &c. 99.
+  - ———, *Bhágavata*, ii. 64.
+  - ———, divided according to their occupations, i. 308.
+  - ———, *Vaidika*, or men of piety and learning, i. 21. ii. 65, 303. iii. 403.
+  - ———, *Lokika* or *Lovadika*, or men of business, i. 21. ii. 65.
+  - ———, officiating priests, *Numbis*, and *Siva Brahmanas*, i. 21, 333.
+  - ———, *Sannyasis*, or men who have forsaken the world. See *Sannyasi*.
 - *Brahma-wara*, a place in *Canara*, iii. 101.
 - Brickstone, an indurated clay, used instead of brick. See *Laterite*.
 - Bridges, i. 61. ii. 147. iii. 19.
@@ -9063,17 +9078,12 @@ Errors excepted,
 - 288, 291, 292, 300, iii. 68.
 - *Cananore* or *Canura*, a town of *Malabar*, and a
 - principality, ii. 553, 555, 559.
-- *Canara*, a province, Chap. XIV. XV. XVI.
-- and appearance of the country, iii. 103, 105.
-- ——— and *Canarese*, a corrupt name for
-- *Karnata*. See *Karnata*, iii. 103.
+- *Canara*, a province, Chap. XIV. XV. XVI. and appearance of the country, iii. 103, 105.
+  - ——— and *Canarese*, a corrupt name for *Karnata*. See *Karnata*, iii. 103.
 - *Canay*, a land measure, i. 6.
 - *Cancan-hully*, iii. 425, 426, &c.
-- *Candaca*, a dry measure of *Mysore*, called *Mau*
-- or *Morau* by the *Tamuls*, *Salaga* or *Siliga*
-- by the *Telingas*, and *Candy* by the *Mussulmans*, i. 130, 131, 194, 301, 363, 413, ii. 33,
-- 116, 209, 252, 279, 311, 321.
-- ——— a land measure. See *Mau*.
+- *Candaca*, a dry measure of *Mysore*, called *Mau* or *Morau* by the *Tamuls*, *Salaga* or *Siliga* by the *Telingas*, and *Candy* by the *Mussulmans*, i. 130, 131, 194, 301, 363, 413, ii. 33, 116, 209, 252, 279, 311, 321.
+  - ——— a land measure. See *Mau*.
 - *Candashara*, militia or armed men for the
 - defence of a district, ii. 215, 307, 327.
 - *Candum* land of *Malabar*. See *Low-land*, ii. 565.
@@ -9088,15 +9098,13 @@ Errors excepted,
 - *Canicarna-hully*. See *Cancan-hully*.
 - *Cantery*, properly *Canterua* or *Canter'-Ráya*, a
 - *Rájá* of *Mysore*. See *Rájás* of *Mysore*.
-- *Canter'-ráya Pagoda*, *Hun*, or *Varaha*, an imaginary money, i. 129, 191, 301, 363. ii.
-- 116, 279.
-- ———, *Hana*, *Palam*, or *Fanam*, a gold
-- coin, i. 128, 301, 363. ii. 116. iii. 25, 258.
+- *Canter'-ráya Pagoda*, *Hun*, or *Varaha*, an imaginary money, i. 129, 191, 301, 363. ii. 116, 279.
+  - ———, *Hana*, *Palam*, or *Fanam*, a gold coin, i. 128, 301, 363. ii. 116. iii. 25, 258.
 - *Canum*, a species of mortgage by which lands
 - and slaves are held in *Malabar*. See Mortgage.
 
 <!-- page: 566 | folio: 518 -->
-- *Capala durga*, a town and fort of *Mysore*, i. 53, iii. 4[?2?]5.
+- *Capala durga*, a town and fort of *Mysore*, i. 53, iii. 425.
 - *Capili-podi*, the powder on the fruit of the *Rotleria tinctoria*, a dye, i. 168, 211. ii. 343.
 - *Capily*, *Yatam*, or *Pacota*, a machine for raising water, i. 191, 356, 373, 387, 403. ii. 281, 299, 314.
 - *Capily tota*, gardens watered by the above machine. See Gardens, *Tarkari*.
@@ -9137,7 +9145,7 @@ Errors excepted,
 - *Chakrantikam*, a religious ceremony among the *Hindus*, i. 146.
 - *Chama*, a kind of corn. See *Panicum miliare*.
 - *Chandra-giri*, a town of *Mysore*, ii. 1.
-- ———, a town and river of *Canara*, iii. 14, 15.
+  - ———, a town and river of *Canara*, iii. 14, 15.
 - *Chandra-gupti*, or *Chandra-guti*, iii. 250.
 - *Chandramanam*, the lunar year of the *Hindus*. See Calendar of *Mysore*.
 - *Chandya*, iii. 177.
@@ -9145,7 +9153,7 @@ Errors excepted,
 - Charity, i. 325.
 - *Charvaka*, a sect of *Hindus*. See *Sarvaka*.
 - *Chatrakal*, (or *Chitteldroog*) a principal city of *Mysore*, iii. 339.
-- ———, *rayada* or *Subayana*, a division of the *Mysore* kingdom, formerly a principality. See Appearance of the country. *Rájás* of *Chatrakal*. i. 81.
+  - ———, *rayada* or *Subayana*, a division of the *Mysore* kingdom, formerly a principality. See Appearance of the country. *Rájás* of *Chatrakal*. i. 81.
 - *Chaturam*, a kind of inn. See Accommodation for travellers.
 - *Chaudéswarí*, one of the deities called *Saktis*, i. 259.
 - *Chei*, a land-measure, ii. 108.
@@ -9153,7 +9161,7 @@ Errors excepted,
 - *Chensu-carir*, a rude tribe or cast of *Tamuls*, i. 7. 167.
 - *Chéra*, a country in *Hindu* Geography, ii. 183, 185, 200, 237.
 - *Cherical*, a principality of *Malabar*. See *Coluta-nada*.
-- ———, a district of *Malabar*, ii. 559.
+  - ———, a district of *Malabar*, ii. 559.
 - *Chericul* lands granted for the support of the *Rájás* of *Malabar*, ii. 360, 368, 461.
 - *Cheruman Permal*, first monarch of *Malayala*, ii. 348, 392, 424.
 - *Cherupalchery*, a village of *Malabar*, ii. 432.
@@ -9181,7 +9189,7 @@ Errors excepted,
 - *Chucri* or *Chucrum*, an imaginary money. See *Cantery Pagoda*.
 - *Chuncoa Muttia*, iii. 202.
 - *Churmar*, a general name for slaves in *Malabar*. See Slaves.
-- ———, also a cast of slaves. See *Poliar*.
+  - ———, also a cast of slaves. See *Poliar*.
 - *Cicer arietinum L.* a kind of pulse, i. 366, 374, 407. ii. 104, 105, 159, 253, 254, 323. iii. 295, 323, 448.
 - Cinnamon, ii. 546.
 - Climate, effect of on the health, i. 50, 318. ii. 115, 116, 207, 237, 248, 274, 338, 428, 435, 556. iii. 108, 271, 344, 380, 405.
@@ -9200,11 +9208,11 @@ Errors excepted,
 - Coffee, ii. 545.
 - *Coicular*, a cast of weavers, ii. 239, 261, 265.
 - *Coimbetore*, a province. See Appearance of the country, and Chap. IX. X.
-- ———, a town, ii. 249.
+  - ———, a town, ii. 249.
 - Coins, i. 128. ii. 209, 298, 310, 353, 539. iii. 25, 257. See *Bacri*, *Cash*, *Casmi*, *Dub*, *Fanam*, *Jasri*, *Kizri*, *Mohur*, *Pagoda*, *Paissa*, *Rupee*, *Tarrum*.
 - Coir, a kind of cordage. See *Cocos*.
 - *Colaga*, a measure of grain, i. 130, 363, 413.
-- ——— *land*, a land measure, i. 372, 413.
+  - ——— *land*, a land measure, i. 372, 413.
 - *Colangodu*, a town of *Malabar*, ii. 346.
 - *Colar*, a town of *Mysore*, i. 277.
 - Cold. See Weather.
@@ -9222,7 +9230,7 @@ Errors excepted,
 - *Calicut*, ii. 476.
 - *Cananore*, ii. 555, 562.
 - *Canara*, southern district, iii. 3, 58, 62, 86.
-- ——— northern district, iii. 150, 179, 196.
+  - ——— northern district, iii. 150, 179, 196.
 - *Caudhully*, ii. 180.
 - *Coimbetore*, ii. 261.
 
@@ -9310,7 +9318,7 @@ Errors excepted,
 - Cultie, a kind of pulse. See *Dolichos biflorus*.
 - Cultivation. See Appearance of the Country, Cordage, Corn, Garden, Hills, Oil, Plantations, and iii. 342. Pulse, Sugar.
 - Culy, a land measure, i. 6. ii. 208, 311.
-- ——, or pole, a measure of length, i. 6. ii. 252.
+  - ——, or pole, a measure of length, i. 6. ii. 252.
 - *Cumbharu*, a cast containing, potters and dyers, i. 273. ii. 26.
 - *Cumlies*, or Indian blankets. See Wool, and iii. 330.
 - *Cumly*, a town and principality of *Canara*, iii. 15, 17, 18.
@@ -9325,9 +9333,9 @@ Errors excepted,
 - *Curry*, an Indian dish, i. 95.
 - *Curtur*, title of the sovereign of *Mysore*. See *Rájá* of *Mysore*.
 - *Curubaru*, a cast containing shepherds, i. 395. ii. 25, 141, 278, 331. iii. 333.
-- ——, *Cad'*, a rude tribe of *Mysore*, ii. 128.
-- ——, *Handy* (or *Cumly*) *Curubaru*, iii. 335.
-- ——, *Maláya*, or *Betta*, another rude tribe, ii. 128.
+  - ——, *Cad'*, a rude tribe of *Mysore*, ii. 128.
+  - ——, *Handy* (or *Cumly*) *Curubaru*, iii. 335.
+  - ——, *Maláya*, or *Betta*, another rude tribe, ii. 128.
 - *Curumbalun*, a tribe of *Malabar*. See *Catalun*.
 - *Curumbar*, a kind of sheep. See Sheep.
 - *Curumbara*, a district of *Malabar*, ii. 484, 494, 499.
@@ -9344,7 +9352,7 @@ Errors excepted,
 - *Cutwal*, an officer who has charge of the police in a large town, i. 415.
 - *Cycas circinalis L.* a kind of palm, ii. 469.
 - *Cycle* of sixty years, iii. 408.
-- ——, of a thousand years, ii. 355.
+  - ——, of a thousand years, ii. 355.
 - *Cynosurus corocanus L.* a kind of corn. See Hills, cultivation on, i. 100, 101, 102, 285, 297, 369, 375, 402, 403, 408. ii. 103, 144, 161, 254, 255, 281, 290, 313. iii. 72, 239, 296, 429, 438, 440.
 - *Cyprinus*, three species of, described, iii. 344.
 - *Cytisus cajan L.* a kind of pulse, i. 103, 376, 377, 382, 409. ii. 177, 223, 224, 290, 314, 323, 520. iii. 72.
@@ -9369,7 +9377,7 @@ Errors excepted,
 - *Désa*, in *Malabar*, means a collection of scattered houses composing a small district or manor, ii. 352.
 - *Deva*, or *Dévata*, a dæmon or spirit, good or bad, ii. 128. iii. 77.
 - *Devangas*, *Canara* or *Karnata*, a cast of weavers, i. 213, 244, 420. ii. 242, 261.
-- ——— *Teliga*, a cast of weavers. See *Jadar*. i. 213, 245, 353. ii. 241.
+  - ——— *Teliga*, a cast of weavers. See *Jadar*. i. 213, 245, 353. ii. 241.
 - *Déva-kara*, iii. 190.
 - *Deva Ráyas*, dynasty of, iii. 471.
 - *Devastanam*, lands granted for the support of temples. See Religious Establishments.
@@ -9381,7 +9389,7 @@ Errors excepted,
 - *Dharma*, gifts bestowed on religious men, ii. 121.
 - ———*Rájá*, a benevolent male deity of the *Hindus*, i. 242, 261.
 - *Dioscorea*, or yams, a root cultivated, i. 386. ii. 54, 524. iii. 47.
-- ——— wild, ii. 127, 178, 247, 384.
+  - ——— wild, ii. 127, 178, 247, 384.
 - Distemper among horned cattle. See Cattle.
 - District. See *Taluc*.
 - Diviners. See *Cani*.
@@ -9395,7 +9403,7 @@ Errors excepted,
 - *Donigar*, Mussulman term for a shepherd. See *Curubaru*.
 - *Doray-guda*, an iron mine in *Mysore*, ii. 35, 38.
 - *Drávada* or *Drávida*, a nation of *Hindus*, iii. 90.
-- ——— a country in the south of India, iii. 90, 459.
+  - ——— a country in the south of India, iii. 90, 459.
 - Dress of the *Hindus*, i. 207, 306. ii. 353. See Rings.
 - Drill, an implement of agriculture, i. 285, 376.
 - Drink, See Water, and each cast, respecting its customs concerning drink.
@@ -9455,9 +9463,9 @@ Errors excepted,
 - Farm belonging to the *Rájás*, iii. 260.
 - Farmers or cultivators, their condition. See *Cudian*, *Tacavy*, i. 265, 298, 300. ii. 108, 113, 187, 216, 309, 320, 370, 372, 477. iii. 33, 34, 102.
 - Farms, extent, i. 123, 124, 390, 415. ii. 108, 216, 320, 372, 495. iii. 35, 139, 243, 281, 320, 349, 428, 454.
-- ——— rent. See Rent.
-- ——— stock. See Stock.
-- ——— tenures. See Tenures.
+  - ——— rent. See Rent.
+  - ——— stock. See Stock.
+  - ——— tenures. See Tenures.
 - Fasts of the *Hindus* in commemoration of their deceased parents. See *Amavasya*, *Malapaksha*, Parents, *Tithi*, i. 232. ii. 64.
 - *Fatah-petta*, iii. 260.
 - Fences, i. 57. ii. 89, 137.
@@ -9473,10 +9481,10 @@ Errors excepted,
 - *Feringy-petta Pagoda*, *Hun*, or *Varaha*, a gold coin. See *Porto Novo Pagoda*.
 - Ferries, ii. 121, 141, 151, 163, 419, 434, 472.
 - Fertility not to be estimated by the increase on the seed, i. 412.
-- ——— of various places. See the various articles cultivated for their produce in different soils.
+  - ——— of various places. See the various articles cultivated for their produce in different soils.
 - Fever, iii. 333, 340, 357, 436.
 - Fish, iii. 105, 344.
-- ———, their eggs very tenacious of life, iii. 342.
+  - ———, their eggs very tenacious of life, iii. 342.
 - Flute-player to the king, hereditary, iii. 285.
 - Fodder, ii. 149, 282, 459. iii. 56, 72.
 - Hay, ii. 459. iii. 56.
@@ -9486,18 +9494,9 @@ Errors excepted,
 - Food. See each cast for its customs respecting this.
 - Forage. See Fodder.
 - Forests of *Animalaya*, ii. 338, 340, 345.
-- ———, *Canara*.
-- ———, *Coimbetore*, ii. 225, 238, 246. See *Animalaya*.
-- ———*Ghats*, eastern, i. 25. ii. 166, 176. Western, iii. 204, 208.
-- ———*Haiga*, iii. 160.
-- ———*Kankana*, iii. 186.
-- ———*Karnata*, iii. 202.
-- ———*Malabar* ii. 383, 385, 435, 502, 541, 560. See *Animalaya*.
-- ———*Mysore*, central, i. 49, 50, 52, 178, 181, 182.
-- ——— western, ii. 117, 122.
-- ———*Nagara Ráyada*, iii. 287, 288.
-- ———*Soonda*, iii. 227.
-- ———renter or keeper, an officer of revenue in *Mysore*, i. 391. ii. 117, 174, 334.
+  - ———, *Canara*.
+  - ———, *Coimbetore*, ii. 225, 238, 246. See *Animalaya*. ———*Ghats*, eastern, i. 25. ii. 166, 176. Western, iii. 204, 208. ———*Haiga*, iii. 160. ———*Kankana*, iii. 186. ———*Karnata*, iii. 202. ———*Malabar* ii. 383, 385, 435, 502, 541, 560. See *Animalaya*. ———*Mysore*, central, i. 49, 50, 52, 178, 181, 182.
+  - ——— western, ii. 117, 122. ———*Nagara Ráyada*, iii. 287, 288. ———*Soonda*, iii. 227. ———renter or keeper, an officer of revenue in *Mysore*, i. 391. ii. 117, 174, 334.
 - Forests cleared away, iii. 74.
 - Fortified island, iii. 138.
 - Forts, various kinds, i. 14, 32.
@@ -9514,11 +9513,11 @@ Errors excepted,
 - *Gangawali* river, iii. 174, 218.
 - *Ganges* river, ii. 306.
 - Gardens in general, in opposition to fields, and termed in native accompts, *Bagait*, *Tota*, and *Parum*, i. 83, 111, 401. ii. 255, 365. iii. 218.
-- ———, Betel leaf. See *Piper Betel*.
-- ———, Flower, i. 56, 115.
-- ———, Kitchen, or *Tarkari*, i. 41. iii. 293, 327, 339, 355, 383. ii. 56, 110, 255, 281, 299, 314, 402, 450, 524. iii. 44, 85, 441.
-- ———, palm, or orchards and plantations. See *Areca*, *Cocos*, *Borassus*, Plantations, *Musa*, *Artocarpus*, *Piper nigrum*. i. 113, 153, 384. ii. 64, 67, 90, 109, 151, 165. iii. 153.
-- ———, public, i. 24, 46, 73.
+  - ———, Betel leaf. See *Piper Betel*.
+  - ———, Flower, i. 56, 115.
+  - ———, Kitchen, or *Tarkari*, i. 41. iii. 293, 327, 339, 355, 383. ii. 56, 110, 255, 281, 299, 314, 402, 450, 524. iii. 44, 85, 441.
+  - ———, palm, or orchards and plantations. See *Areca*, *Cocos*, *Borassus*, Plantations, *Musa*, *Artocarpus*, *Piper nigrum*. i. 113, 153, 384. ii. 64, 67, 90, 109, 151, 165. iii. 153.
+  - ———, public, i. 24, 46, 73.
 - Garlic, iii. 443.
 - *Garse*, a weight. See Weights, i. 6.
 - *Garsopa*, iii. 137.
@@ -9554,9 +9553,9 @@ Errors excepted,
 - *Govay*. See *Cassuvium*.
 - Graham, Capt. the collector at *Krishna-giri*, iii. 460.
 - Grain, manner of preserving it. See each kind of corn and pulse, also i. 90. ii. 374. iii. 145, 276, 316.
-- ———, price of, iii. 347.
+  - ———, price of, iii. 347.
 - *Grama*, a village or manor, the lowest territorial division in *Mysore*, i. 299. iii. 407.
-- ———, or *Gramam*, is also peculiarly applied to manors, bestowed in charity on *Bráhmans*, i. 82. ii. 352. iii. 99.
+  - ———, or *Gramam*, is also peculiarly applied to manors, bestowed in charity on *Bráhmans*, i. 82. ii. 352. iii. 99.
 - Granite, a kind of rock, i. 17, 27, 53, 132, 164, 182. ii. 60, 85, 386, 440, 460, iii. 66, 87, 89.
 - *Gubi*, a town of *Mysore*, ii. 29.
 - *Gudada*, a female deity of the *Hindus*, ii. 37, 42.
@@ -9591,7 +9590,7 @@ Errors excepted,
 - *Hanumanta*, a *Hindu* deity, ii. 129. iii. 83, 174, 364.
 - *Hany*, a dry measure of *Canara*, iii. 27, 102.
 - *Hardary Sultany*, commonly called *Sultany coss*, an itinerary measure, i. 131. ii. 173, 181.
-- ———, *Canter' Ráya*, commonly called *Cantery coss*, i. 131.
+  - ———, *Canter' Ráya*, commonly called *Cantery coss*, i. 131.
 - *Harica*, a kind of corn. See *Paspalum frumentaceum*.
 - *Hari-hara*, iii. 313.
 - *Hari-hara* family, iii. 118, 174.
@@ -9616,18 +9615,18 @@ Errors excepted,
 - *Hessaru*, a kind of pulse. See *Phaseolus mungo*.
 - *High-land*, on the western coast, land cultivated without being inundated, ii. 364, 365, 378, 398, 429, 450, 463, 491, 520, 543. iii. 9, 72.
 - Hills, or mountains, i. 17. ii. 115, 162, 173, 190, 192, 197, 198, 236, 247. iii. 158, 250.
-- ———, cultivation on them called *Cotu-cadu*, *Cumri*, and *Ponna*, i. 277. ii. 177, 246, 247, 273, 384, 519, 543, 561. iii. 71, 147, 193.
+  - ———, cultivation on them called *Cotu-cadu*, *Cumri*, and *Ponna*, i. 277. ii. 177, 246, 247, 273, 384, 519, 543, 561. iii. 71, 147, 193.
 - Hilly region between *Coimbetore* and *Malabar*, ii. 247, 273, 434.
-- ————————, *Madura*, and *Travancore*, ii. 334, 346.
+  - ————————, *Madura*, and *Travancore*, ii. 334, 346.
 - *Hindus*, or aboriginal natives of India, their condition, disposition, and general manners. See Arts, Cosmography, Credulity, Dress, Exaggeration, Farmers, Fasts, Guides, Houses, *Marattahs*, Marvellous, Mourning, Murder, Obscenity, Ordeal, Parents, Prophecy, Prostitutes, Servants, Slaves, Succession, Wages, Weavers, i. 12, 29, 34, 47, 48, 53, 55, 64, 80, 135, 139, 254, 255, 260, 270, 272, 342, 360. ii. 2, 4, 29, 61, 62, 72, 98, 108, 136, 142, 181, 187, 190, 195, 201, 208, 216, 278, 282, 297, 353, 388, 409, 427, 452, 454, 467, 468, 496, 507, 514, 548. iii. 18, 69, 92.
-- ——— customs, particular, such as marriages, burials, food, and worship. See each cast for those respectively belonging to it.
-- ———, division into pure and impure tribes, called *Panchum Bundum*, i. 19, 20, 146.
-- ———, division into sects of the now prevailing doctrine, and those who follow doctrines now esteemed heretical. See *Buddhists*, *Ganapatyam*, *Jainas*, *Pashandi*, *Pundarum*, *Sarvakas*, *Savaram*, *Saivam*, *Sivabhaktaru*.
+  - ——— customs, particular, such as marriages, burials, food, and worship. See each cast for those respectively belonging to it.
+  - ———, division into pure and impure tribes, called *Panchum Bundum*, i. 19, 20, 146.
+  - ———, division into sects of the now prevailing doctrine, and those who follow doctrines now esteemed heretical. See *Buddhists*, *Ganapatyam*, *Jainas*, *Pashandi*, *Pundarum*, *Sarvakas*, *Savaram*, *Saivam*, *Sivabhaktaru*.
 
 <!-- page: 574 | folio: 526 -->
 - *Vaishnavam, Vamana*, i. 142, 143. ii. 59, 73. iii. 91.
 - *Hindus*, division into the left and right-hand sides, or *Eddagai Ballagui*, i. 77, 250. ii. 268, 294.
-- ——, division into casts or tribes. See Cast, and also, *Asagaru, Baiadaru, Banijigaru, Batadaru, Baydaru, Bheri, Biluara, Bilymugga, Bráhman, Bui, Canicapillay, Chensu, Chitrakaru, Comatigas, Coramas, Coragoru, Cubbaru, Cumbharu, Cunian, Cunsa, Cuttery, Devanga, Eriligaru, Ganagaru, Goalaru, Gollaru, Gungricara, Halepecas, Idigaru, Jogy, Joty-phanada, Kshatriya, Ladaru, Laligundaru, Madigaru, Malasir, Malayar, Morasu, Muchaveru, Mucuás, Moylar, Naiadis, Nairs, Nambuddies, Nona, Padma-shalay, Palli, Panian, Panchalas, Parriar, Poliar, Pundarum, Rajputs, Ruddi, Rungaru, Sadru, Samay-shalay, Shaynagaru, Siv’acharyas, Soligaru, Súdras, Togotaru, Torearu, Totear, Uparu, Vairágis, Vaishnavam, Vaylalar, Vaytuvans, Whalliaru, Woddaru, Wullay-Tigulas.*
+  - ——, division into casts or tribes. See Cast, and also, *Asagaru, Baiadaru, Banijigaru, Batadaru, Baydaru, Bheri, Biluara, Bilymugga, Bráhman, Bui, Canicapillay, Chensu, Chitrakaru, Comatigas, Coramas, Coragoru, Cubbaru, Cumbharu, Cunian, Cunsa, Cuttery, Devanga, Eriligaru, Ganagaru, Goalaru, Gollaru, Gungricara, Halepecas, Idigaru, Jogy, Joty-phanada, Kshatriya, Ladaru, Laligundaru, Madigaru, Malasir, Malayar, Morasu, Muchaveru, Mucuás, Moylar, Naiadis, Nairs, Nambuddies, Nona, Padma-shalay, Palli, Panian, Panchalas, Parriar, Poliar, Pundarum, Rajputs, Ruddi, Rungaru, Sadru, Samay-shalay, Shaynagaru, Siv’acharyas, Soligaru, Súdras, Togotaru, Torearu, Totear, Uparu, Vairágis, Vaishnavam, Vaylalar, Vaytuvans, Whalliaru, Woddaru, Wullay-Tigulas.*
 - *Hircara*, a messenger, an inspector, i. 271. ii. 91.
 - *Hirigutty*, iii. 166.
 - *Hirtitty*, a place in *Canara*, iii. 103.
@@ -9635,15 +9634,15 @@ Errors excepted,
 - *Hodalla*, iii. 285.
 - Hodgson, Mr. a collector in *Malabar*, ii. 553, 559.
 - Hoes, hand, various kinds, i. 96, 285, 369, 372. ii. 375. iii. 43.
-- ——, drawn by oxen, i. 101.
+  - ——, drawn by oxen, i. 101.
 - Hog island, iii. 135.
 - *Holcus sorghum L.* a kind of corn, i. 104, 283, 366, 369, 373, 382, 402, 403, 407. ii. 157, 224, 228, 253, 254, 257, 280, 281, 290, 302, 314, 323. iii. 322, 448.
-- ——, *spicatus L.* a kind of corn, i. 105, 289, 382, 409. ii. 198, 218, 228, 253, 254, 280, 281, 290, 302, 314, 323. iii. 325, 350.
+  - ——, *spicatus L.* a kind of corn, i. 105, 289, 382, 409. ii. 198, 218, 228, 253, 254, 280, 281, 290, 302, 314, 323. iii. 325, 350.
 - Holy water, i. 325.
 - *Homam*, a burnt offering, i. 423.
 - *Hombalu*, a male deity of the *Hindus*, ii. 37.
 - *Honawera*, or *Onore*, iii. 137.
-- ——————, lake, iii. 137.
+  - ——————, lake, iii. 137.
 - Honey. See Bees.
 - *Hornblend*, a stone, ii. 60, 61.
 - Horses, i. 121. ii. 327, 383. iii. 57.
@@ -9687,8 +9686,7 @@ Errors excepted,
 - temples. See *Linga*, ii. 44, 237, 266. iii.
 - 434.
 - Indigo, used as a dye, i. 212, 216, 224. ii. 263.
-- ——— prepared from the *Pala* or *Nerium tinctorium Roxb. MSS.* i. 188. ii. 263, 338.
-- iii. 463.
+  - ——— prepared from the *Pala* or *Nerium tinctorium Roxb. MSS.* i. 188. ii. 263, 338. iii. 463.
 - *Indra*, a deity of the *Hindus*, iii. 77.
 - *Indu*, a kind of palm. See *Cycas*.
 - Inhabitants. See Natives, Population.
@@ -9704,13 +9702,10 @@ Errors excepted,
 - 445. iii. 32, 50.
 - Interpreters. See *Dubashies*.
 - Iron mines and forges, iii. 58, 63.
-- ——— of the *Mysore Pattana ráyada*, i.
-- 29, 30, 32, 170, 175, 179. ii. 16, 35, 138.
-- iii. 360, 361, 364, &c. 378, 424, 425, 433.
-- ——— of *Coimbetore*, ii. 238, 260, 283,
-- 307, 343.
-- ——— of *Malabar*, ii. 386, 436, 494, 502.
-- ——— of the *Nagara Ráyada*, iii. 251.
+  - ——— of the *Mysore Pattana ráyada*, i. 29, 30, 32, 170, 175, 179. ii. 16, 35, 138. iii. 360, 361, 364, &c. 378, 424, 425, 433.
+  - ——— of *Coimbetore*, ii. 238, 260, 283, 307, 343.
+  - ——— of *Malabar*, ii. 386, 436, 494, 502.
+  - ——— of the *Nagara Ráyada*, iii. 251.
 - *Irrigation* of lands. See *Cai-dumbay*, Canal,
 - *Capily*, *Chakram*, Low-land, *Nir' Arumba*,
 - *Nir'gunty*, *Nungi*, Reservoir, *Tay-pallay*, Watered Lands, Wells, *Yatam*, i. 2, 84, 191,
@@ -9777,17 +9772,14 @@ Errors excepted,
 - *Kapini*, a river of *Mysore*, ii. 141, 151.
 - *Kari-ghat*, iii. 419.
 - *Karmaguda*, iii. 178.
-- *Karnáta*, the people and language of one of
-- the divisions in *Hindu* geography, which occupies the centre of the Peninsula, ii. 183,
-- 190. iii. 90, 103, 201.
-- ——— *Désam*, iii. 201.
+- *Karnáta*, the people and language of one of the divisions in *Hindu* geography, which occupies the centre of the Peninsula, ii. 183, 190. iii. 90, 103, 201.
+  - ——— *Désam*, iii. 201.
 
 <!-- page: 576 | folio: 528 -->
 - *Kasba*, chief town of a district, i. 274.
 - *Káveri*, a river. See *Cavery*.
-- ——— *pura*, a town of *Coimbetore*, ii. 190.
-- ——— ——— *ghat*, a pass between *Coimbetore*,
-- and *Mysore*. See *Ghats*.
+  - ——— *pura*, a town of *Coimbetore*, ii. 190.
+    - ——— ——— *ghat*, a pass between *Coimbetore*, and *Mysore*. See *Ghats*.
 - *Kaundini*, a river of *Mysore*, ii. 148.
 - *Kellamangalam*, iii. 436.
 - *Kemodu*, an ore so called, iii. 377.
@@ -9802,15 +9794,11 @@ Errors excepted,
 - *Kira Manéswara*, a temple in *Canara*, iii. 108.
 - *Kirigavil*, iii. 422.
 - *Kizri*, a silver coin, i. 128.
-- *Krishna*, a deity of the *Hindus*, i. 348. ii. 70,
-- 237.
-- ———— *Ráyaru*, iii. 477.
-- ———— *bumi*, a kind of rich soil, i. 83. ii. 255.
-- ———— a river bounding the Peninsula on the
-- north.
-- ———— *Rájá Pagoda, Hun*, or *Varaha*, a
-- gold coin, iii. 25.
-- ————*giri*, iii. 460.
+- *Krishna*, a deity of the *Hindus*, i. 348. ii. 70, 237.
+  - ———— *Ráyaru*, iii. 477.
+  - ———— *bumi*, a kind of rich soil, i. 83. ii. 255.
+  - ———— a river bounding the Peninsula on the north.
+  - ———— *Rájá Pagoda, Hun*, or *Varaha*, a gold coin, iii. 25. ————*giri*, iii. 460.
 - *Kshatriya*, the second in rank of the pure
 - tribes of *Hindus*. See *Rajput, Ladaru, Chitrakaru*, i. 253, 256, 258, 303, 333. ii.
 - 348. iii. 80.
@@ -9823,10 +9811,9 @@ Errors excepted,
 - *Kunji*, a town near *Madras*, i. 12. iii. 466.
 - *Kutiporam*, a place in *Malabar*, ii. 509.
 - Labour, price of. See Wages.
-- ——— hours of, iii. 350.
-- Lac, and manner of procuring it, i. 170, 187,
-- 343, 391. ii. 560. iii. 383.
-- —— use of it as a dye, i. 210.
+  - ——— hours of, iii. 350.
+- Lac, and manner of procuring it, i. 170, 187, 343, 391. ii. 560. iii. 383.
+  - —— use of it as a dye, i. 210.
 - *Lacadive*, islands near the coast of *Malabar*, ii.
 - 554.
 - *Lacor*, a town of *Mysore*, i. 272.
@@ -9894,11 +9881,11 @@ Errors excepted,
 - *Madigaru*, a cast, i. 251.
 - *Madigheshy*, a town of *Mysore*, ii. 2.
 - *Madras*, a capital city of India, properly called *Chinapatana*, i. 1.
-- ——— *Rupee*, a silver coin, i. 128, 364. ii. 116, 210, 353. iii. 25.
-- ——— *Fanam*, a silver coin. Double, or *Myla*, ii. 210.
-- ————————, Single, or *Shina*, ii. 210.
+  - ——— *Rupee*, a silver coin, i. 128, 364. ii. 116, 210, 353. iii. 25.
+  - ——— *Fanam*, a silver coin. Double, or *Myla*, ii. 210.
+  - ————————, Single, or *Shina*, ii. 210.
 - *Madual*, or *Madua*, a great *Hindu* doctor, iii. 91.
-- ———, a sect established by him. See *Bráhmans*.
+  - ———, a sect established by him. See *Bráhmans*.
 - *Madugéswara*, a temple of *Soonda*, iii. 230.
 - *Madu Linga Butta*, a *Hindu* antiquary, iii. 230.
 - *Madura*, a town and principality in the south of the Peninsula. See *Trimula Nayaka*, ii. 200, 237, 245, 250, 302, 327.
@@ -9907,13 +9894,13 @@ Errors excepted,
 - *Maha Rájás* of *Madura*, *Tanjore*, and *Coimbetore*, iii. 473.
 - *Mahárashtra*, a nation of India. See *Marattahs*.
 - *Mahasura*, a capital city of *Karnata*, called by Europeans, *Mysore*. See *Mysore*.
-- ————, *Ashta gram*, a district of *Mysore*, i. 82.
+  - ————, *Ashta gram*, a district of *Mysore*, i. 82.
 - *Mahé*, a French settlement on the coast of *Malabar*, ii. 516.
 - *Mailcotay*, a town of *Mysore*, ii. 69.
 - *Maize*, a kind of corn. See *Zea*.
 - *Majelu*, a description of land in *Canara*. See Low-land, iii. 42, 84.
 - *Malabar*, the vulgar name among the English of *Madras*, for the *Tamul* language. See *Tamul*.
-- ————, a province. See Appearance of the Country, Chap. XI. XII. and XIII. ii. 347, 350, 432.
+  - ————, a province. See Appearance of the Country, Chap. XI. XII. and XIII. ii. 347, 350, 432.
 - *Malabar Fanam*, a silver coin, ii. 539. iii. 25.
 - *Malaiswara betta*, a hill and temple of *Mysore*, ii. 43.
 - *Malalawady*, iii. 431.
@@ -9924,11 +9911,11 @@ Errors excepted,
 - *Malawully*, iii. 422, 423, 424.
 - *Malaya Banuru*, 311, 312.
 - *Malaya Curubaru*, a rude tribe. See *Curubaru*.
-- ———, *Devaru*, or *Maladeiva*, a female deity of the *Hindus*, ii. 414, 498.
+  - ———, *Devaru*, or *Maladeiva*, a female deity of the *Hindus*, ii. 414, 498.
 - *Malayala*, a people inhabiting the hills of *Coimbetore*, ii. 197.
-- ————, or *Malayálam*, a country extending along the west coast of the Peninsula, from Cape *Comorin*, to the *Chandra-giri* river, also its people and language, called *Kerala* in *Sanskrit*, ii. 197, 346, 347, 392, 475, 499, 530, 548, 556. iii. 14.
+  - ————, or *Malayálam*, a country extending along the west coast of the Peninsula, from Cape *Comorin*, to the *Chandra-giri* river, also its people and language, called *Kerala* in *Sanskrit*, ii. 197, 346, 347, 392, 475, 499, 530, 548, 556. iii. 14.
 - *Malayar*, a rude tribe inhabiting the hills of *Canara*, iii. 71.
-- ———, a country so called, iii. 393.
+  - ———, a country so called, iii. 393.
 - *Malingy*, a town of *Mysore*, ii. 162.
 - *Maliwanlu*, a low cast of *Telingana*. See *Whalliaru*, i. 29.
 - *Mallung*, a male deity of the *Hindus*, ii. 385.
@@ -9978,11 +9965,11 @@ Errors excepted,
 - Mathews, General, iii. 61, 105, 130, 188, 262.
 - *Matmul*, a place in *Malabar*, ii. 555.
 - *Mau*, a dry measure, of *Coimbetore*. See *Candaca*.
-- ———, a land measure, ii. 252, 279, 311, 332.
+  - ———, a land measure, ii. 252, 279, 311, 332.
 - *Maund*, a weight, i. 130, 194, 301, 363, 415. ii. 116, 209, 252, 279, 354. iii. 26, 149.
 - *Maursushy*, and his sons, kings in India, iii. 96.
 - *Mausoleum* of *Hyder's* father, i. 277.
-- ———— of *Hyder* and *Tippoo*, i. 73.
+  - ———— of *Hyder* and *Tippoo*, i. 73.
 - *Máyá*, a deity of the *Hindus*.
 - *Maykay*, the long-legged goat of *Mysore*. See Goat.
 - Meadow, General, his invasion of *Coimbetore*, ii. 226, 235, 279, 287.
@@ -10009,7 +9996,7 @@ Errors excepted,
 - *Tripura*, ii. 279.
 - Measures, liquid, i. 119, 130. ii. 252. iii. 316.
 - Measures of length, and itinerary. See *Ady, Chain, Culy*, Day's journey, *Gujah, Hardary, Mar, Urnalivully*, i. 6, 131. ii. 173, 181, 208, 211.
-- ————, of surface, or for land. See *Bulla, Canay, Chei, Colaga, Culy, Gunta, Mau, Moray, Poray*. i. 6, 194, 413. ii. 208, 252, 279, 311, 321, 332, 355, 363, 395, 478, iii. 2.
+  - ————, of surface, or for land. See *Bulla, Canay, Chei, Colaga, Culy, Gunta, Mau, Moray, Poray*. i. 6, 194, 413. ii. 208, 252, 279, 311, 321, 332, 355, 363, 395, 478, iii. 2.
 - Medicine, i. 336.
 - Meer Saduc, the favourite of *Tippoo* Sultan, i. 65, 347. ii. 88, 231, 236.
 - *Mentea*, a kind of pulse. See *Trigonella*.
@@ -10019,10 +10006,10 @@ Errors excepted,
 - Mile, *Malabar*, an itinerary measure with the English of *Madras*. See *Urnalivully*.
 - Milk, i. 6, 116. ii. 14, 277.
 - Mill, oil, i. 228.
-- ———, sugar, i. 159, 341. ii. 103. iii. 451.
+  - ———, sugar, i. 159, 341. ii. 103. iii. 451.
 - *Mimosa saponaria*, a tree, i. 38. ii. 335.
-- ———, *Catechu*, iii. 177.
-- ———, *Indica*, iii. 419.
+  - ———, *Catechu*, iii. 177.
+  - ———, *Indica*, iii. 419.
 - *Minamolu*, a kind of pulse. See *Phaseolus minimoo*.
 - Mines. See Gold, Iron.
 - *Mirzee*, iii. 152, 161.
@@ -10068,16 +10055,16 @@ Errors excepted,
 - *Mundium*, a town of *Mysore*, i. 57, 137.
 - *Mung*, a kind of pulse. See *Phaseolus Mungo*.
 - *Muni*, a kind of demons or spirits, i. 250. ii. 168, 266, 273.
-- ———, a saint, ii. 168.
+  - ———, a saint, ii. 168.
 - *Munigar* in *Mysore*, an inferior officer of revenue and police, i. 270.
-- ———, *Coimbetore*, chief officer of a village, or manor. See *Gaunda*, ii. 213.
+  - ———, *Coimbetore*, chief officer of a village, or manor. See *Gaunda*, ii. 213.
 - *Munnagu*, a weight commonly called a *Maund*. See Weights. *Maund*.
 - Murder, ii. 215, 468, 496.
 - *Murodéswara*, iii. 135.
 - *Musa*, the plantain tree, i. 154, 384. ii. 52, 111, 177, 247, 259, 507. iii. 47, 220.
 - Musicians and music. See *Cuncheny*.
 - Mussulmans. See *Moplays*, *Mosque*, *Tangul*, i. 47, 64, 73, 347, 399. ii. 2, 90, 168, 267, 276, 287, 307, 420, 441, 474, 550. iii. 2, 9, 103, 110.
-- ———, their conquests in the Peninsula of India, i. 277. iii. 96, 478.
+  - ———, their conquests in the Peninsula of India, i. 277. iii. 96, 478.
 - Mustard cultivation, i. 291, 376. ii. 177.
 - *Mutasiddy*, a clerk, ii. 212, 216.
 - *Muteodu*, iii. 367, 368.
@@ -10087,9 +10074,9 @@ Errors excepted,
 - *Myrobalans*, a fruit used in tanning and dyeing, i. 183. ii. 337.
 - *Mutti*. See *Chuncoa muttia*.
 - *Mysore* city, properly *Mahasura*, i. 68, ii. 149.
-- ——— dominions and government, i. 81. iii. 414, &c.
-- ——— *Rájá*. See *Rájás* of *Mysore*, i. 128.
-- ——— Rupee, a silver coin.
+  - ——— dominions and government, i. 81. iii. 414, &c.
+  - ——— *Rájá*. See *Rájás* of *Mysore*, i. 128.
+  - ——— Rupee, a silver coin.
 - *Myuru Varmá*, a *Hindu* prince, iii. 31, 82, 96, 98, 111.
 - *Nadavanuru*, a place in *Malabar*, ii. 496.
 - *Nagamangala*, a town of *Mysore*, ii. 65.
@@ -10103,7 +10090,7 @@ Errors excepted,
 - *Nagaratra*, a cast of traders. See *Bheri*.
 - Nail-makers, iii. 363.
 - *Nairs* or *Naimar*, the true *Súdras* of *Malayala*, a cast, their customs and manners, ii. 353, 388, 389, 395, 408, 513, 564. iii. 9, 12.
-- ————— their inroads into *Mysore* and *Coimbetore*, ii. 96, 131, 245, 331, 332.
+  - ————— their inroads into *Mysore* and *Coimbetore*, ii. 96, 131, 245, 331, 332.
 - *Nalli*, a dry measure, ii. 491.
 - *Nama*, a kind of earth or talc, ii. 78.
 - *Nambir*, *Nairs* of high rank, chiefs of manors or *Désas* in *Malayala*, ii. 409
@@ -10141,7 +10128,7 @@ Errors excepted,
 - *Nuga*, a river of *Mysore*, ii. 141.
 - *Nundy*, and his family, an Indian dynasty, iii. 110.
 - *Nunji*, land which can be inundated for cultivation, analogous to the *low land* of the west coast, and the *Nir' Arumba* of *Mysore*, ii. 218.
-- ———— a servant in each village who distributes the water to the fields, ii. 214.
+  - ———— a servant in each village who distributes the water to the fields, ii. 214.
 - *Nunjinagodu*, a town of *Mysore*, ii. 147.
 - Nutmeg, iii. 161.
 - *Nux vomica*, a drug, iii. 86.
@@ -10167,7 +10154,7 @@ Errors excepted,
 - *Padda, Paddum*, or *Paddy-field*, a name for low land in *Malabar*. See *Low-land*.
 - *Padma shalay*, a cast of weavers, i. 216, 225.
 - *Pagoda*, English name for a *Hindu* temple. See Temple.
-- ———, English name for a gold coin called *Varaha* by the *Hindus*, and *Hun* by the Mussulmans. See *Bahadury P.*, *Canter' ráya P.*, *Gytty P.*, *Ikeri P.*, *Krishna Rájá P.*, *Porto novo P.*, *Star P.*, *Sultany, P.*
+  - ———, English name for a gold coin called *Varaha* by the *Hindus*, and *Hun* by the Mussulmans. See *Bahadury P.*, *Canter' ráya P.*, *Gytty P.*, *Ikeri P.*, *Krishna Rájá P.*, *Porto novo P.*, *Star P.*, *Sultany, P.*
 - Painting, i. 74.
 - *Paisáchi*, a kind of evil spirits, ii. 45. iii. 17, 23, 53, 107.
 - *Paissa*, a copper coin. See *Coin, Dub*, and ii. 540. iii. 25.
@@ -10175,7 +10162,7 @@ Errors excepted,
 - *Palachy*, a town of *Coimbetore*, ii. 318.
 - *Palam*, a gold coin commonly called *Fanam*. See *Fanam*, gold.
 - *Palar*, great, a river of *Arcot*, i. 23, 34.
-- ——— little, a river of *Karnata*, ii. 182, 183.
+  - ——— little, a river of *Karnata*, ii. 182, 183.
 - *Palhully*, a village of *Mysore*, ii. 87.
 - *Pali-ghat*, a town and fortress of *Malabar*, ii. 347, 352.
 - *Paligonda*, a town of *Arcot*, i. 19.
@@ -10186,15 +10173,15 @@ Errors excepted,
 - *Panch-akshara-pura*, iii. 435.
 - *Panchala*, a cast containing the artists who work in gold, silver, brass, iron, stone and wood, i. 250. ii. 268.
 - *Panchama Banijigaru*, a cast. See *Banijigaru*.
-- ————— *Cumbharu*. See *Cumbharu*.
+  - ————— *Cumbharu*. See *Cumbharu*.
 - *Panchanga*, in *Mysore* and *Coimbetore*, a *Bráhman* who has the hereditary office of astrologer and almanack-keeper, and *Puróhita* for the low casts in each village or manor. See each cast for the duties which he performs to its members, i. 234, 235. ii. 109, 110, 243, 303. iii. 180.
 - *Panch Dravada Bráhmans*, those of the south of India. See *Bráhman*.
-- ——— *Gauda Bráhmans*, those of the north of India. See *Bráhman*.
+  - ——— *Gauda Bráhmans*, those of the north of India. See *Bráhman*.
 - *Pancham Bundum*, the impure tribes of *Hindus*. See *Hindu, Madigaru, Coramas, Whalliaru*.
 - *Panicar*, in *Malabar*, a hired servant who labours in the field. See Servants.
 - *Panicum italicum L.* a kind of corn or millet, i. 107, 290, 366, 370, 378, 381, 387, 402, 404, 410. ii. 159, 198, 225, 228, 253, 254, 281. iii. 324, 351.
-- ——— *miliaceum L.* a kind of corn, i. 290, 366, 371, 381, 411.
-- ——— *miliare E. M.* a kind of corn, i. 106, 287, 376, 408. ii. 104, 105, 223, 228, 290, 302, 314, 323, 379, 429, 450, 452, 562. iii. 72, 429, 439, 440.
+  - ——— *miliaceum L.* a kind of corn, i. 290, 366, 371, 381, 411.
+  - ——— *miliare E. M.* a kind of corn, i. 106, 287, 376, 408. ii. 104, 105, 223, 228, 290, 302, 314, 323, 379, 429, 450, 452, 562. iii. 72, 429, 439, 440.
 - *Pándava*, or *Pandia*, a country of India on the east side of cape *Comorin*, ii. 200, 237.
 - *Pándu* and his family, Kings of India, commencing with *Yudishtara*, iii. 95, 96, 97, 110.
 - *Panian*, a low tribe or cast of *Malabar*, ii. 491.
@@ -10220,42 +10207,42 @@ Errors excepted,
 - *Pashar*, a village of *Coimbetore*, ii. 291.
 - *Pashu*, a sect of *Hindus*. See *Ganapalyam*.
 - *Paspalum frumentaceum Roxb. MSS.* a kind of corn, i. 106, 287, 379. ii. 223, 228. iii. 352.
-- ——— *pilosum Roxb. MSS.* a kind of corn, ii. 223.
+  - ——— *pilosum Roxb. MSS.* a kind of corn, ii. 223.
 - Pasture, i. 271, 298. ii. 9, 12, 91, 114, 225, 276, 280, 281, 327, 451. iii. 1.
 - *Patana* or *Pattana Puttun*, the common name for *Seringapatam*. See *Seringapatam*.
-- ——— *Ráyada* or *Subayana*, one of the three great divisions of the *Mysore* kingdom. See Appearance of the country, i. 81.
-- ——— *ashta gram*, a district of *Mysore*, i. 82.
+  - ——— *Ráyada* or *Subayana*, one of the three great divisions of the *Mysore* kingdom. See Appearance of the country, i. 81.
+  - ——— *ashta gram*, a district of *Mysore*, i. 82.
 - *Patemar*, a kind of trading vessel. See Boat.
 - *Patom*, the rent or produce of lands in *Malabar*, ii. 366, 368, 396, 430.
 - *Patunga*, a dye, i. 224.
 - *Paycotu*, a female deity of the *Hindus*, ii. 339.
 - *Pedda Náyaka*, a *Polygar* or *Hindu* chief, i. 28, 29.
 - *Pedda Náyakana durga*, a town of *Mysore* annexed to the *Bára-mahál*, i. 28.
-- ———, *ghat*, a pass in the mountains leading up from *Arcot* to *Karnata*, i. 25.
+  - ———, *ghat*, a pass in the mountains leading up from *Arcot* to *Karnata*, i. 25.
 - Pepper, black, cultivation. See *Piper nigrum*, Plantations.
-- ———, trade in. See Plantations, i. 202. ii. 455, 530. iii. 59, 150, 228, 269.
-- ———, white, ii. 465, 533. iii. 224.
+  - ———, trade in. See Plantations, i. 202. ii. 455, 530. iii. 59, 150, 228, 269.
+  - ———, white, ii. 465, 533. iii. 224.
 - *Perinduru*, a town of *Coimbetore*, ii. 287.
 - *Peruru*, a town of *Coimbetore*, ii. 251.
 - *Petta*, the suburbs or slightly fortified parts of an Indian town. See Town, ii. 23.
 - *Peymashi*, a land surveyor, ii. 211.
 - *Phaseolus minimoo Roxb. MSS.* a kind of pulse, i. 93, 284, 290, 383. ii. 106, 225, 290, 323, 378, 398. iii. 41, 183, 448.
-- ——— *Mungo, L.* a kind of pulse, i. 94, 289, 383, 410. ii. 225, 290, 323, 379. iii. 41, 183, 295, 447, 448.
+  - ——— *Mungo, L.* a kind of pulse, i. 94, 289, 383, 410. ii. 225, 290, 323, 379. iii. 41, 183, 295, 447, 448.
 - *Phulagana Ellu*, a plant cultivated for its oil. See *Sesamu*.
 - Pigeon Island, iii. 135.
 - Pigeons, wild, ii. 47.
 - Pilgrims and Pilgrimages. See *Tírthas* and *Kshetras*.
 - *Piper Betle L.* Betel-leaf vine, its cultivation, i. 114, 291, 384. ii. 111, 257, 258, 454. iii. 54, 85, 156, 224, 403, 453.
-- ——— *nigrum L.* or pepper vine, its cultivation. See Plantations, ii. 365, 455, 458, 463, 487, 504, 520, 524, 542, 544, 552, 561. iii. 2, 27, 48, 54, 158, 223.
-- ——— -wild, ii. 337. iii. 193, 202, 208, 245, 259.
+  - ——— *nigrum L.* or pepper vine, its cultivation. See Plantations, ii. 365, 455, 458, 463, 487, 504, 520, 524, 542, 544, 552, 561. iii. 2, 27, 48, 54, 158, 223.
+  - ——— -wild, ii. 337. iii. 193, 202, 208, 245, 259.
 - Pirates, iii. 138, 151.
 - Planks, used as an implement of agriculture for smoothing the soil, ii. 374, 376, 449. iii. 38, 40, 142.
 - Plantain tree. See *Musa*.
 - Plantations of *Malabar* and *Canara*. See *Areca*, *Artocarpus*, *Borassus*, *Cocos*, *Piper*. Also, ii. 365, 406, 431, 452, 458, 459, 487, 503, 520, 526, 542, 547, 561. iii. 1, 2, 33, 45, 54, 64, 85, 86, 104, 194, 276, 285, 403, 452.
-- ——— manner of dealing for the produce between the merchant and cultivator, ii. 401, 405, 455, 467, 516, 528, 532, 543. iii. 50.
+  - ——— manner of dealing for the produce between the merchant and cultivator, ii. 401, 405, 455, 467, 516, 528, 532, 543. iii. 50.
 - Plough, i. 126. ii. 218, 374. iii. 39, 148, 243.
-- ——— drawn by from eight to sixteen oxen, iii. 342.
-- ——— of land, iii. 348.
+  - ——— drawn by from eight to sixteen oxen, iii. 342.
+  - ——— of land, iii. 348.
 - Ploughing, i. 126, 282.
 - *Podi*, a dry measure, ii. 279, 311.
 - *Pogolur*, a village of *Coimbetore*, ii. 293.
@@ -10275,7 +10262,7 @@ Errors excepted,
 <!-- page: 583 | folio: 535 -->
 - Population of certain places and districts, i. 76. ii. 361, 441, 485, 500, 508, 527, 543, 562. iii. 2, 5, 195, 246, 414,& c.
 - *Poray*, a dry measure, ii. 354, 395, 477.
-- —— *candum*, a land measure, ii. 355, 363, 395, 478.
+  - —— *candum*, a land measure, ii. 355, 363, 395, 478.
 - Porters, i. 2.
 - *Porto-novo Pagoda*, a gold coin, ii. 210, 353, iii. 25.
 - Portuguese of *Malabar*, ii. 517. iii. 105.
@@ -10323,10 +10310,10 @@ Errors excepted,
 - *Rachewar*, or *Rájúwar*, iii. 435.
 - *Ragy*, a kind of corn. See *Cynosurus*.
 - *Rájás* of *Chatrakal*. See iii. 345.
-- ——, *Ikeri*, iii. 125.
-- ——, *Malayala*, numerous petty chiefs. See *Cadutanada*, *Chericul* lands, *Cochi*, *Colatanada*, *Nileswara*, *Parapanada*, *Shekhury*, *Tamuri*, *Travancore*, *Vellater*, ii. 349, 368, 395, 413, 424, 432, 435, 468, 470, 483, 499, 510, 548, 556.
+  - ——, *Ikeri*, iii. 125.
+  - ——, *Malayala*, numerous petty chiefs. See *Cadutanada*, *Chericul* lands, *Cochi*, *Colatanada*, *Nileswara*, *Parapanada*, *Shekhury*, *Tamuri*, *Travancore*, *Vellater*, ii. 349, 368, 395, 413, 424, 432, 435, 468, 470, 483, 499, 510, 548, 556.
 - *Rájás* of *Mysore*, or princes of that country, i. 67, 147, 361, 362. ii. 3, 65, 73, 94, 130, 137, 143, 165, 172, 193, 235, 237, 245, 250, 302. iii. 408, 417, 426, 434.
-- ——, of *Sudha-pura*, iii. 213.
+  - ——, of *Sudha-pura*, iii. 213.
 - *Rájás* of *Tulava*, iii. 15, 18, 19, 63, 68, 74, 75, 81, 98, 109, 125, 127, 476.
 - *Raiasa*, a letter writer, ii. 215.
 - *Rajput*, the pure *Súdras* of a country in the north of India, i. 303.
@@ -10347,30 +10334,30 @@ Errors excepted,
 - *Rath*, an immense chariot in which the images of the *Hindu* gods are carried in procession, i. 13. ii. 237. iii. 434.
 - *Ratna-giri*, iii. 458.
 - *Ravana*, a king celebrated in *Hindu* fable, ii. 200, 237.
-- ——, king of *Ceylon*, iii. 138.
+  - ——, king of *Ceylon*, iii. 138.
 - Ravenshaw, Mr. a collector in *Canara*, iii. i. 33, 75, 102.
 - *Raya-cotay*, iii. 459.
 - *Ráyalu*, corrupted into *Ryl*, a title of the Kings of *Vijayanagara*, or *Anagundi*. See *Vijayanagara*, ii. 130.
 - *Ráya paditti*, or table of princes, iii. 110, 307, 471.
 - Read, Colonel, collector of the *Bára-mahál*, &c. ii. 179, 182, 192, 208, 296. iii. 1, 11, 458, 459.
-- ——, Mr. a collector in *Canara*, iii. 104, 146, 193, 194, 244.
+  - ——, Mr. a collector in *Canara*, iii. 104, 146, 193, 194, 244.
 - Reaping-hook, i. 99. iii. 39.
 - Reddle, or red clay, ii. 46, 84.
 - Register of districts and manors. See *Parputty*, *Shanaboga*, *Canicapillay*, Survey.
 - Religious establishments, ii. 6, 72, 110, 147, 169, 216, 251, 287, 292, 293, 297, 360, 368, 426. iii. 11, 33, 75, 108.
 - Rent, manner of securing, i. 2, 387, 404. ii. 67, 151, 198, 213, 231, 296, 319.
-- ——, amount on various kinds of land, i. 123, 271, 298, 328, 344, 387. ii. 51, 54, 109, 114, 195, 198, 212, 227, 229, 255, 258, 260, 280, 282, 288, 289, 301, 309, 311, 313, 314, 319, 324, 334, 366, 368, 396, 401, 417, 429, 431, 444, 451, 452, 463, 510, 519, 553. iii. 33, 88, 102, 140, 306, 319, 379, 394, 420, 453, 470.
+  - ——, amount on various kinds of land, i. 123, 271, 298, 328, 344, 387. ii. 51, 54, 109, 114, 195, 198, 212, 227, 229, 255, 258, 260, 280, 282, 288, 289, 301, 309, 311, 313, 314, 319, 324, 334, 366, 368, 396, 401, 417, 429, 431, 444, 451, 452, 463, 510, 519, 553. iii. 33, 88, 102, 140, 306, 319, 379, 394, 420, 453, 470.
 - Rent, in what species paid, in kind, or money, i. 123, 124, 265, 267, 268, 299, 387, 388, 414. ii. 109, 113, 114, 187, 212, 229, 230, 296, 461, 542, 543. iii. 54, 56, 88, 140, 353, 385, 448.
 - Reservoir, or tank, for supplying water for cultivation. See *Eray*, *Caray*, i. 3, 6, 49, 55, 139, 279, 407. ii. 23, 45, 82, 164, 190, 192, 199, 226, 229. iii. 73, 85, 130, 168, 353, 379, 380, 420, 435, 453, 465.
 - *Restuli Mahastumma*, a female deity of the *Hindus*, iii. 23.
 - Revenue. See Duties, Land-tax, Mines, Rent, Salt, iii. 191, 192, 348.
 - Rice, different kinds, i. 85, 133, 140, 280, 366, 402. ii. 99, 231, 313, 333, 373, 376, 377, 378, 447, 448, 450, 497, 519, 562, 564. iii. 38, 72, 141, 182, 236, 272, 293, 393, 445.
-- ——, different crops in one year, i. 83, 93, 133, 139, 280, 367, 368, 402. ii. 99, 376, 377, 382, 398, 446, 447, 477, 490, 497, 518, 546. iii. 37, 84, 142, 429.
-- ——, quantity sown in different places, and different methods of sowing, i. 84, 86, 87, 138, 140, 231, 232, 253, 280, 281, 282, 289, 368. ii. 99, 101, 231, 234, 276, 288, 289, 313, 333, 372, 374, 375, 376, 397, 398, 447, 448, 449, 451, 497, 541, 546, 564. iii. 2, 38, 40, 84, 102, 142, 236, 272, 273, 445.
-- ——, manner of preserving and preparing it for use. See Grain, i. 90. ii. 374. iii. 39, 143.
+  - ——, different crops in one year, i. 83, 93, 133, 139, 280, 367, 368, 402. ii. 99, 376, 377, 382, 398, 446, 447, 477, 490, 497, 518, 546. iii. 37, 84, 142, 429.
+  - ——, quantity sown in different places, and different methods of sowing, i. 84, 86, 87, 138, 140, 231, 232, 253, 280, 281, 282, 289, 368. ii. 99, 101, 231, 234, 276, 288, 289, 313, 333, 372, 374, 375, 376, 397, 398, 447, 448, 449, 451, 497, 541, 546, 564. iii. 2, 38, 40, 84, 102, 142, 236, 272, 273, 445.
+  - ——, manner of preserving and preparing it for use. See Grain, i. 90. ii. 374. iii. 39, 143.
 - Rice, produce of an acre at different places, i. 282, 366, 402. ii. 99, 232, 289, 313, 333, 373, 430, 477, 486, 490, 497, 519, 546. iii. 13, 38, 235, 273, 274, 293, 294, 381, 386, 445.
-- —— harvest, i. 90.
-- —— cultivation at various places ;
+  - —— harvest, i. 90.
+  - —— cultivation at various places ;
 - *Angada-puram*, ii. 446.
 - *Bára-mahál*, iii. 445, &c.
 - *Cavai*, ii. 563.
@@ -10415,23 +10402,23 @@ Errors excepted,
 - *Sahasiva-hully*, iii. 303, &c.
 - *Saivam*, a sect of *Hindus*, i. 144.
 - *Saktis*, a class of destructive or malevolent female deities worshipped by the *Hindus*, See *Bhadra Kálí*, *Birnala*, *Caragadumma*, *Chaudéswarí*, *Culimantia*, *Dumawutty*, *Durgamá*, *Gungoma*, *Iberabuta Kálí*, *Márima*, *Mutialima*, *Putalima*, *Virapakshimá*, *Yellama*, i. 242, 304, 334, 335. ii. 59. iii. 53, 78, 92.
-- ———— *Pracriti*, a *Hindu* deity, i. 335.
+  - ———— *Pracriti*, a *Hindu* deity, i. 335.
 - *Salaga*, a dry measure. See *Candaca*.
 - *Saligrama*, a town of *Mysore*, ii. 101.
 - Saline earth, i. 31, 35, 142, 150. ii. 252, 316, 317. iii. 312, 319.
-- ———— wells, i. 262. ii. 255, 317. iii. 312.
+  - ———— wells, i. 262. ii. 255, 317. iii. 312.
 - *Sálivahanam*, a great king from whom an era is derived, i. 230, 274. ii. 202.
 - Salt, culinary, commerce and manufacture, i. 31, 35, 204. ii. 252, 316, 317, 460, 479, 487, 507, 518, 543. iii. 57, 59, 109, 175.
-- ———— petre, ii. 252, 316.
+  - ———— petre, ii. 252, 316.
 - Salubrity of the country. See Climate.
 - *Sáma*, a kind of corn. See *Panicum miliare*.
 - *Samay Shalay*, a kind of weavers, i. 216, 255.
 - *Sancada-gonda*, iii. 130, 211.
-- ————, *holay*, a river of *Canara*, iii. 130.
+  - ————, *holay*, a river of *Canara*, iii. 130.
 - Sandal wood, i. 38, 186, 202, 391. ii. 117, 132, 165, 188, 225, 338, 436, 536. iii. 59, 151, 192, 227, 251, 288, 383, 404, 425, 433.
 - Sandal and *Teak* trees not found in the same forests, iii. 288.
 - *Sankara Achárya*, a personage celebrated as founder of a sect of *Bráhmans*, i. 143, 305, 335. ii. 74, 424, 433, 475. iii. 91, 301.
-- ———— *Narayana*, image of, iii. 169.
+  - ———— *Narayana*, image of, iii. 169.
 - *Sannyasis*, men who have forsaken all for God, i. 22, 144, 238, 305, 333. iii. 79, 92, 99.
 - *Sanskrit* language, ii. 303.
 - Sapan wood, a dye, ii. 487.
@@ -10503,14 +10490,14 @@ Errors excepted,
 - Silk, and manufacture of silk, i. 208, 222. ii. 263.
 - *Singanaluru*, a town of *Karnata* annexed to *Coimbetore*, ii. 174.
 - *Sira*, a considerable town of *Mysore*, i. 399.
-- —— *subah*, a Mussulman government, i. 277.
+  - —— *subah*, a Mussulman government, i. 277.
 - *Sirdar*, a Mussulman officer, ii. 3.
 - *Sirjapura*, a town of *Mysore*, i. 271.
 - *Siru-mugá*, a village of *Coimbetore*, ii. 248.
 - *Sitala-durga*. See *Chitteldroog*.
 - *Siva*, or *Iswára*, or *Mahadéva*, or *Mahéswara*, a deity of the *Hindus*. See *Linga*, i. 13, 144, 240, 304, 334, 335. iii. 77, 92.
-- —— *Acharyas*, a cast of *Karnata*, ii. 144.
-- —— *bhaktaru*, a religious sect. See *Pashandi*, *Jangama*, i. 236. ii. 144. iii. 127, 253, 264, 288.
+  - —— *Acharyas*, a cast of *Karnata*, ii. 144.
+  - —— *bhaktaru*, a religious sect. See *Pashandi*, *Jangama*, i. 236. ii. 144. iii. 127, 253, 264, 288.
 - *Sivana Samudra*, an island in the *Kaveri* river, ii. 166, 170.
 - Skins. See Leather.
 - Slate, iii. 360.
@@ -10552,19 +10539,19 @@ Errors excepted,
 - Straw. See Fodder.
 - Strings for musical instruments, i. 151.
 - Succession of crops. See Crops.
-- ——— among *Hindus*, i. 145. ii. 351, 412. iii. 16, 22, 52, 66, 76.
+  - ——— among *Hindus*, i. 145. ii. 351, 412. iii. 16, 22, 52, 66, 76.
 - *Sudiky*, an implement for sowing, i. 283.
 - *Súdras*, the fourth pure cast of *Hindus*. See *Asagaru*, *Baydaru*, *Biluara*, *Bui*, *Buntaru*, *Cunsa*, *Gollaru*, *Gungricara*, *Ladaru*, *Mogayer*, *Morasu*, *Nair*, *Nona*, *Rajput*, *Ruddi*, *Sadru*, *Telinga Banijigaru*, *Toreas*, *Vaishnavam*, *Vaylalar*, &c. i. 236, 242, 252, 257, 258, 313, 314. ii. 243, 268. iii. 184.
 - Sugar-cane cultivation, i. 96, 140, 284, 341, 371, 405. ii. 101, 300, 545, 562. iii. 42. 85, 145, 194, 238, 245, 275, 311, 327, 328, 449.
-- ———, different kinds, i. 95, 158, 192, 284, 406. ii. 101. iii. 44.
-- ——— and *Jagory*, or its inspissated juice, manufacture. See Mill, Sugar, i. 97, 157, 158, 340, 355. ii. 101, 373. iii. 44, 145, 311, 429.
+  - ———, different kinds, i. 95, 158, 192, 284, 406. ii. 101. iii. 44.
+  - ——— and *Jagory*, or its inspissated juice, manufacture. See Mill, Sugar, i. 97, 157, 158, 340, 355. ii. 101, 373. iii. 44, 145, 311, 429.
 - Sugar-mill. See Mill.
 - *Suja cara*, a kind of *soda*. See *Soda*.
 - *Suja* or *Sujagurry*, a kind of corn. See *Holcus spicatus*.
 - *Sujéswara*, a celebrated temple, iii. 180.
 - *Sultany Rupee*, a silver coin, i. 128, ii. 109, 116, 210, 280, 310.
-- ——— *Pagoda*, *Hun*, or *Varaha*, a gold coin, i. 128, 364. ii. 210, 310. iii. 25.
-- ——— *Fanam*, *Hana*, or *Palam*, a gold coin, i. 128. ii. 210. iii. 25.
+  - ——— *Pagoda*, *Hun*, or *Varaha*, a gold coin, i. 128, 364. ii. 210, 310. iii. 25.
+  - ——— *Fanam*, *Hana*, or *Palam*, a gold coin, i. 128. ii. 210. iii. 25.
 - *Sunca*, or custom-house. See Customs.
 - Sunticopa, iii. 252.
 - *Supari*, or Betel-nut. See *Areca*.
@@ -10575,7 +10562,7 @@ Errors excepted,
 - *Suvarna*, a river of *Canara*, iii. 101.
 - *Swami*, bountiful charity of one, 290.
 - Swine, i. 121. ii. 87, 383. iii. 57.
-- ———, wild. See Boar.
+  - ———, wild. See Boar.
 - *Swarna-reka* river, iii. 431.
 - *Tacavy*, money advanced to poor farmers, in order to enable them to procure stock, ii. 188, 213.
 - *Tadaguny*, a kind of pulse. See *Dolichos Catsjang*.
@@ -10623,7 +10610,7 @@ Errors excepted,
 - *Tigul*, the *Karnata* name for the people called *Tamuls*. See *Tamul*.
 - Timber. See Forests, Teak, i. 246.
 - *Tippoo Sultán*, late sovereign of *Mysore*, &c. i. 56, 64, 67, 69, 301, 330, 355, 362, 398, 399. ii. 3, 83, 91, 94, 117, 146, 175, 187, 192, 196, 214, 216, 230, 235, 236, 245, 251, 287, 317, 328, 350, 367, 422, 426, 443, 446, 474, 494, 515, 536, 549, 558, 559. iii. 11, 19, 24, 33, 58, 61, 63, 68, 69, 75, 86, 89, 101, 129, 137, 178, 180, 259, 348, 402, 464.
-- ——, his sons, iii. 464.
+  - ——, his sons, iii. 464.
 - *Tirtha*, a pilgrimage where the ceremonies are performed in water, ii. 307.
 - *Tiruvana ungady*, a village of *Malabar*, ii. 462.
 - *Tithi*, an annual fast in commemoration of their [p. 541] deceased parents, performed by *Bráhmans*. See Fast, i. 246.
@@ -10655,7 +10642,7 @@ Errors excepted,
 - *Tritalay*, a place in *Malabar*, ii. 427.
 - *Tritchenopoly*, a town of *Arcot*, ii. 200.
 - *Triticum monococcum L.* } Two kinds of corn.
-- ——— *spelta L.* } See Wheat.
+  - ——— *spelta L.* } See Wheat.
 - *Tucu*, a weight. See Weights, ii. 157, 209.
 - *Tuduru*, iii. 286.
 - *Tufa calcaria*, or concretion of lime. See Lime.
@@ -10671,8 +10658,8 @@ Errors excepted,
 - Turin, Mr. commercial resident in *Malabar*, ii. 529.
 - *Turiva-caray*, a town of *Mysore*, ii. 58.
 - Turmeric, cultivated, i. 328. ii. 450, 469. iii. 59, 85.
-- ———, wild, ii. 117, 335, 336.
-- ———, used as a dye, i. 211.
+  - ———, wild, ii. 117, 335, 336.
+  - ———, used as a dye, i. 211.
 - *Tyre*, milk curdled by having become sour. See Milk.
 - *Udied*. See *Phaseolus Minimoo*.
 - *Udipu*, a town of *Canara*, iii. 99.
@@ -10691,7 +10678,7 @@ Errors excepted,
 - *Vaidika Bráhman*, one who dedicates his time to devotion and study, and subsists upon charity. See *Bráhman*.
 - *Vairágis*, a cast of northern India, dedicated to the service of *Rama*, i. 303. ii. 76.
 - *Vaishnavam*, a religious sect, i. 163.
-- ———, a cast of the *Súdras* of southern India, dedicated to the service of *Vishnu*, called also *Satananas*, i. 314, 323, 395. ii. 129.
+  - ———, a cast of the *Súdras* of southern India, dedicated to the service of *Vishnu*, called also *Satananas*, i. 314, 323, 395. ii. 129.
 - *Vaisyas*, the third pure cast of *Hindus*. See *Bheri, Comatiga, Naguratra*, i. 252, 256, 259.
 - *Vakia*, and his descendants, kings in India, iii. 96.
 - *Valiencodu*, a village of *Malabar*, ii. 413.
@@ -10724,8 +10711,8 @@ Errors excepted,
 - *Vijaya-nagara*, corrupted *Beejanagur*, a city and kingdom of *Karnata*. See *Anagundi*, *Ráyalu*, i. 194, 332, 346. ii. 59, 130, 170, 172, 173, 201. iii. 74, 82, 97, 101, 109, 114, 122, 362, 364.
 - Villages, i. 32, 34, 50, 400. ii. 317, 352. iii. 427.
 - Village gods, i. 388. ii. 64, 214, 216, 297.
-- ——— establishment of officers, i. 268. ii. 110, 213, 297, 310.
-- ——— servants, i. 269. ii. 110, 214.
+  - ——— establishment of officers, i. 268. ii. 110, 213, 297, 310.
+  - ——— servants, i. 269. ii. 110, 214.
 - *Viranchi-pura*, iii. 463.
 - *Virapakshima*, one of the deities called *Saktis*, ii. 312.
 - *Vira Belalla Raya*, iii. 310.
@@ -10733,14 +10720,14 @@ Errors excepted,
 - *Vir' Ráyas*, or *Vir' Rájás*, the princes of *Coorg*. See *Coorg*.
 - *Vir' Ráyas*, *Fanam*, *Hana*, or *Palam*, a gold coin, ii. 210, 353, 280. iii. 25.
 - *Virika*, a kind of spirits that are worshipped in some parts of *Karnata*, i. 359. ii. 120.
-- ———, a kind of evil spirits, ii. 152.
+  - ———, a kind of evil spirits, ii. 152.
 - *Visay*, a weight. See Weights, and *Vees*.
 - *Vishnu*, a deity of the *Hindus*, i. 13, 144, 304, 334, 335, 353. iii. 22, 77, 92, 95. See *Budha*, *Krishna*, *Narayana*, *Parasu Rama*, *Rama*.
-- ———, *Verdana Ráya*, a celebrated prince of the *Belalla* dynasty, i. 139. ii. 75, 81. iii. 117.
+  - ———, *Verdana Ráya*, a celebrated prince of the *Belalla* dynasty, i. 139. ii. 75, 81. iii. 117.
 - *Vishwa Karma*, chief artist in heaven, ii. 268.
 - *Vitly Rájás*, petty chiefs of *Canara*, iii. 20.
 - *Vullam*, a land measure. See *Bulla*.
-- ———, a dry measure. See *Bulla*.
+  - ———, a dry measure. See *Bulla*.
 - *Vyása*. See *Vayása*.
 - *Wacul-eray*, a town of *Mysore*, i. 276.
 - Waddel, Mr. an active magistrate in *Malabar*, ii. 387, 388, 443.
@@ -10758,7 +10745,7 @@ Errors excepted,
 - Weather, fair or rainy, hot or cold, and the prevailing winds, i. 24, 33, 317. ii. 98, 114, 177, 183, 206, 237, 249, 280, 283, 286, 308, 317, 427, 433. iii. 63, 87, 229, 271, 286, 289, 333, 360, 373, 390, 456, 460, 466.
 - Weavers. See *Bily-muggas*, *Coicular*, *Cuttery*, *Devangas*, *Nairs*, *Padmashalay*, *Parriar*, *Puttuegar*, *Samay Shalay*, *Shaynagaru*, *Togo-taru*, *Torearu*, *Whalliaru*, i. 221, 222, 271, [p. 543] 272. ii. 239, 261, 264, 265, 276, 285, 287, 288, 409, 442, 475.
 - Weeding. See the different articles cutivated, Cordage, Corn, Gardens, Oil-plants, Pulse, Sugar-cane.
-- ——— iron, an implement of husbandry, i. 101, 286, 296.
+  - ——— iron, an implement of husbandry, i. 101, 286, 296.
 - Weights. See *Barua, Candy, Cuttu, Garse, Maund, Polam, Full, Seer, Tolum, Tucu, Vees.*
 - *Bangalore*, i. 194.
 - *Bára-máhal*, iii. 437.
@@ -10781,12 +10768,12 @@ Errors excepted,
 - Wet grains, the produce of watered or low-lands. See these articles.
 - *Whalliaru*, an impure cast of *Karnata*, analogous with the *Maliwanlu* of *Telingana*, and the *Parriar* of the *Tamuls*, i. 218, 213, 352.
 - Wheat, of the kind called *Triticum monococcum L.* i. 296, 366, 373, 402, 405. ii. 107.
-- ——— *Triticum spelta L.* i. 366, 374, 402, 405. ii. 160, 281.
+  - ——— *Triticum spelta L.* i. 366, 374, 402, 405. ii. 160, 281.
 - White washing, i. 75. ii. 57.
 - Widows among the *Hindus*. See each cast for its customs respecting widows, i. 255, 260. ii. 3.
 - Wilson, Mr. a collector in *Malabar*, ii. 540.
 - Winds. See Weather.
-- ———, land, in *Malabar*, effect on the health. See *Vatum*.
+  - ———, land, in *Malabar*, effect on the health. See *Vatum*.
 - Wire-drawing, i. 151.
 - *Wiridy*, a place, i. 49.
 - *Wocula*, a measure of capacity and of surface. See *Colaga*.
@@ -10808,7 +10795,7 @@ Errors excepted,
 - *Yatam*, called *Pacota* by the English of *Madras*, an instrument for raising water, i. 15, 263, 294, 329. ii. 299, 314, 461. iii. 41.
 - *Yavana*, the *Hindu* appellation for Europeans or Greeks. iii. 96, 97, 112.
 - Year, lunar. See Calendar of *Mysore*.
-- ———, solar. See Calendar of *Coimbetore* and of *Canara*.
+  - ———, solar. See Calendar of *Coimbetore* and of *Canara*.
 - *Yellama*, one of the deities called *Saktis*, i. 312. ii. 25.
 - *Yella-pura*, iii. 207.
 - Yoke, an implement of husbandry, ii. 374.

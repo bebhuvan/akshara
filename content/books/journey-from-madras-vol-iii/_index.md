@@ -1,6 +1,6 @@
 ---
 title: "A Journey from Madras through the Countries of Mysore, Canara, and Malabar"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "Volume III — Canara, Sunda, Coorg, North Mysore, and Statistical Appendix"
 author: "Francis Buchanan"
 author_slug: "francis-buchanan"
@@ -35,17 +35,17 @@ rubric_pillars:
   - name: "Tabular & Numeric Accuracy"
     score: 8.0
     max: 25.0
-    notes: "-12.0: 81 column total arithmetic mismatch(es); -5.0: 12 ragged table geometry warning(s)"
+    notes: "-12.0: 82 column total arithmetic mismatch(es); -5.0: 8 ragged table geometry warning(s)"
   - name: "Orthography & Diacritics"
     score: 20.0
     max: 25.0
-    notes: "-5.0: 84 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-5.0: 83 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 4 Hydrogen"
-provenance_statement: "Automated reading (177 open review items); 37 of 570 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (173 open review items); 37 of 570 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 4 Hydrogen"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 11 fixes · 37 pp. checked"
+  - "Scan-Triaged: 151 fixes · 37 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 8/26 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -113,7 +113,7 @@ tables_list:
     caption: "ACCOUNT of SEA CUSTOMS collected in the Year Nalasamaswar or Fusly 1205, in the Tallook of Mangalore."
     printed_folio: "7"
     rows: 89
-    cols: 36
+    cols: 38
     diplomatic_csv: "/downloads/journey-from-madras-vol-iii/datasets/tables/tbl-003_p0013.csv"
     tidy_csv: "/downloads/journey-from-madras-vol-iii/datasets/tidy/tbl-003_p0013.tidy.csv"
     section_url: "/books/journey-from-madras-vol-iii/chapters/03-chapter-xiv-journey-through-the-southern-parts-of-canara/#tbl-003"
@@ -169,7 +169,7 @@ tables_list:
     caption: "A Statement, showing the quantity of Seed required, and the Produce, both in respect to quantity and value, of two Rice Estates in Seroor Village of Tombretta Maugany; the grain having been cut down, beaten, and measured, in presence of the Valuators. The materials furnished by Mr. Ravenshaw."
     printed_folio: "103"
     rows: 10
-    cols: 22
+    cols: 23
     diplomatic_csv: "/downloads/journey-from-madras-vol-iii/datasets/tables/tbl-010_p0121.csv"
     tidy_csv: "/downloads/journey-from-madras-vol-iii/datasets/tidy/tbl-010_p0121.tidy.csv"
     section_url: "/books/journey-from-madras-vol-iii/chapters/04-chapter-xv-journey-from-mangalore-to-beiduru/#tbl-010"
@@ -177,7 +177,7 @@ tables_list:
     caption: "A Statement, showing the Seed required for Rice-ground, and its Produce, in seven Estates of five different Villages in Tombretty Mangauny of Barcuru Taluc. The materials furnished by Mr. Ravenshaw."
     printed_folio: "103"
     rows: 8
-    cols: 14
+    cols: 17
     diplomatic_csv: "/downloads/journey-from-madras-vol-iii/datasets/tables/tbl-011_p0121.csv"
     tidy_csv: "/downloads/journey-from-madras-vol-iii/datasets/tidy/tbl-011_p0121.tidy.csv"
     section_url: "/books/journey-from-madras-vol-iii/chapters/04-chapter-xv-journey-from-mangalore-to-beiduru/#tbl-011"
@@ -353,22 +353,23 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (136 flyleaf/stamp block(s)) are excluded from reading prose; **343** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **20** multi-page tables were stitched; and **1542** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (136 flyleaf/stamp block(s)) are excluded from reading prose; **345** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **20** multi-page tables were stitched; and **1542** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (35 distinct non-ASCII characters across 391 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**239** places); **212** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.6-flash` (2 pp.), `gemini-4-hydrogen` (568 pp.).
   - **Reader**: Read by gemini-4-hydrogen on 568 of 570 pages, gemini-3.6-flash on 2 of 570 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen).
-  - **Human Proofing**: 11 replayed correction(s). Automated reading (177 open review items); 37 of 570 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 151 replayed correction(s). Automated reading (173 open review items); 37 of 570 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **84 finding(s) across 11 leaf(s)** (pp. 79, 274, 318, 420, 509, 537, 538, 539, 540, 551 (+1 more)): faded or blotted `<unclear>` passages awaiting human scan inspection.
-  - **81 finding(s) across 15 leaf(s)** (pp. 11, 13, 17, 22, 121, 216, 218, 219, 269, 271 (+5 more)): statistical table columns whose printed total disagrees with the sum of extracted cells above.
+  - **83 finding(s) across 10 leaf(s)** (pp. 79, 274, 318, 420, 509, 537, 538, 539, 540, 551): faded or blotted `<unclear>` passages awaiting human scan inspection.
+  - **82 finding(s) across 15 leaf(s)** (pp. 11, 13, 17, 22, 121, 216, 218, 219, 269, 271 (+5 more)): statistical table columns whose printed total disagrees with the sum of extracted cells above.
   - **42 finding(s) across 34 leaf(s)** (pp. 30, 106, 117, 119, 138, 186, 187, 198, 208, 255 (+24 more)): attested compositor spelling variants preserved diplomatically from the scan.
-  - **12 finding(s) across 10 leaf(s)** (pp. 13, 15, 17, 121, 342, 525, 529, 550, 553, 557): tables where one or more rows have inconsistent column width relative to the header.
   - **10 finding(s) across 4 leaf(s)** (pp. 71, 127, 176, 237): rare character.
+  - **8 finding(s) across 8 leaf(s)** (pp. 15, 17, 342, 525, 529, 550, 553, 557): tables where one or more rows have inconsistent column width relative to the header.
   - **5 finding(s) across 3 leaf(s)** (pp. 224, 275, 493): table compositor arithmetic variant.
   - **2 finding(s) across 2 leaf(s)** (pp. 224, 275): table blind total confirmed.
 

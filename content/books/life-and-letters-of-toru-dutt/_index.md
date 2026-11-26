@@ -1,6 +1,6 @@
 ---
 title: "Life and Letters of Toru Dutt"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "With a Foreword by the Right Hon. H. A. L. Fisher, M.P."
 author: "Harihar Das"
 author_slug: "harihar-das"
@@ -15,7 +15,7 @@ chapters: 19
 footnotes_count: 72
 tables_count: 0
 figures_count: 16
-reading_time: "~11 hrs"
+reading_time: "~10 hrs"
 type: "books"
 layout: "book"
 collection_slug: "general-heritage"
@@ -107,6 +107,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (58 flyleaf/stamp block(s)) are excluded from reading prose; **239** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **1** cross-page split footnotes and **0** multi-page tables were stitched; and **390** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (17 distinct non-ASCII characters across 164 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**3343** places); **205** straight quotation marks and apostrophes are set as curly ones; **3** stanzas cut by a page turn are joined, keeping the page mark. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

@@ -23,7 +23,7 @@
         <idno type="book_id">india-at-the-death-of-akbar</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -81,6 +81,9 @@ Dallas</hi> · <hi rend="smallcaps">San Francisco</hi>
 THE MACMILLAN CO. OF CANADA, <hi rend="smallcaps">Ltd.
 Toronto</hi></p>
           <pb xml:id="page-7" n="iii" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n6_w1400.jpg"/>
+        </div>
+        <div type="subsection" n="h1">
+          <head>INDIA AT THE DEATH OF AKBAR</head>
           <div type="subsection" n="h2">
             <head>AN ECONOMIC STUDY</head>
             <p>BY W. H. MORELAND C.S.I., C.I.E. LATE OF THE INDIAN CIVIL SERVICE AUTHOR OF “ THE AGRICULTURE OF THE UNITED PROVINCES,” “ THE REVENUE ADMINISTRATION OF THE UNITED PROVINCES,” AND “ AN INTRODUCTION TO ECONOMICS FOR INDIAN STUDENTS ”</p>
@@ -111,88 +114,88 @@ ST. MARTIN'S STREET, LONDON
         <pb xml:id="page-13" n="ix" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n12_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="smallcaps">CONTENTS</hi></head>
-          <div type="subsection" n="h2">
-            <head>CHAPTER I</head>
-            <p rend="toc-entry"><hi rend="smallcaps">PAGE</hi></p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Country and People</hi> . . . . . 1</p>
-            <p rend="toc-entry">1. The Country . . . . . . 1</p>
-            <p rend="toc-entry">2. The Numbers of the People . . . . 9</p>
-            <p rend="toc-entry">3. The Classes of the Population . . . . 23</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER II</head>
-            <p rend="toc-entry"><hi rend="smallcaps">The Administration</hi> . . . . . 31</p>
-            <p rend="toc-entry">1. The Form of Administration . . . . 31</p>
-            <p rend="toc-entry">2. The Course of Justice . . . . . 35</p>
-            <p rend="toc-entry">3. Security in the Cities . . . . . 37</p>
-            <p rend="toc-entry">4. Security in the Country . . . . . 41</p>
-            <p rend="toc-entry">5. Customs and Transit-Dues . . . . 46</p>
-            <p rend="toc-entry">6. Effect on Trade and Industry . . . . 50</p>
-            <p rend="toc-entry">7. Weights, Measures, and Currency . . . 52</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER III</head>
-            <p rend="toc-entry"><hi rend="smallcaps">The Consuming Classes</hi> . . . . . 63</p>
-            <p rend="toc-entry">1. The Court and the Imperial Service . . . 63</p>
-            <p rend="toc-entry">2. Other Forms of State Employment . . . 73</p>
-            <p rend="toc-entry">3. The Professional and Religious Classes . . 83</p>
-            <p rend="toc-entry">4. Servants and Slaves . . . . . 87</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER IV</head>
-            <p rend="toc-entry"><hi rend="smallcaps">Agricultural Production</hi> . . . . . 96</p>
-            <p rend="toc-entry">1. Land Tenures . . . . . . 96</p>
-            <p rend="toc-entry">2. The System of Agriculture . . . . 100</p>
-            <p rend="toc-entry">3. Peasants and Labourers . . . . 109</p>
-            <p rend="toc-entry">4. Agriculture in its Local Aspects . . . 118</p>
-            <p rend="toc-entry">5. The Environment as affecting Agriculture . . 124</p>
-            <p rend="toc-entry">6. The Conditions of Life in the Villages . . 136</p>
-            <pb xml:id="page-14" n="x" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n13_w1400.jpg"/>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER V</head>
-            <p rend="toc-entry"><hi rend="smallcaps">Non-Agricultural Production</hi> . . . . 141</p>
-            <p rend="toc-entry">1. The General Position . . . . 141</p>
-            <p rend="toc-entry">2. Forests and Fisheries . . . . 143</p>
-            <p rend="toc-entry">3. Mines and Minerals . . . . 146</p>
-            <p rend="toc-entry">4. Agricultural Manufactures . . . 155</p>
-            <p rend="toc-entry">5. Handicrafts in General . . . 160</p>
-            <p rend="toc-entry">6. Production of Means of Transport . 166</p>
-            <p rend="toc-entry">7. Textile Manufactures—Silk, Wool, and Hair . 171</p>
-            <p rend="toc-entry">8. Textile Manufactures—Hemp, Jute, and Cotton . 178</p>
-            <p rend="toc-entry">9. Industrial Organisation . . 184</p>
-            <p rend="toc-entry">10. Urban Wages . . . 189</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER VI</head>
-            <p rend="toc-entry"><hi rend="smallcaps">Commerce</hi> . . . . . 196</p>
-            <p rend="toc-entry">1. General Features . . . 196</p>
-            <p rend="toc-entry">2. The Principal Indian Seaports . 203</p>
-            <p rend="toc-entry">3. The Principal Foreign Ports in the Indian Seas 212</p>
-            <p rend="toc-entry">4. Trade Routes on the Land Frontier 218</p>
-            <p rend="toc-entry">5. The Direct Trade with Europe 221</p>
-            <p rend="toc-entry">6. The Volume of Foreign Commerce 227</p>
-            <p rend="toc-entry">7. Coasting and Internal Trade . 240</p>
-            <p rend="toc-entry">8. The Organisation of Indian Commerce 245</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER VII</head>
-            <p rend="toc-entry"><hi rend="smallcaps">The Standard of Life</hi> . . . . 253</p>
-            <p rend="toc-entry">1. Introductory . . 253</p>
-            <p rend="toc-entry">2. The Upper Classes 256</p>
-            <p rend="toc-entry">3. The Middle Classes 263</p>
-            <p rend="toc-entry">4. The Economic Position of the Lower Classes . 265</p>
-            <p rend="toc-entry">5. Food, Clothing, and other Details . . 270</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER VIII</head>
-            <p rend="toc-entry"><hi rend="smallcaps">The Wealth of India</hi> . . . . 282</p>
-            <p rend="toc-entry">1. Contemporary Ideas . . . 282</p>
-            <p rend="toc-entry">2. Modern Ideas . . 286</p>
-            <p rend="toc-entry">3. Distribution . . . 294</p>
-            <p rend="toc-entry">4. Conclusion . . 299</p>
-            <pb xml:id="page-15" n="xi" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n14_w1400.jpg"/>
-          </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER I</head>
+          <p rend="toc-entry"><hi rend="smallcaps">PAGE</hi></p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Country and People</hi> . . . . . 1</p>
+          <p rend="toc-entry">1. The Country . . . . . . 1</p>
+          <p rend="toc-entry">2. The Numbers of the People . . . . 9</p>
+          <p rend="toc-entry">3. The Classes of the Population . . . . 23</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER II</head>
+          <p rend="toc-entry"><hi rend="smallcaps">The Administration</hi> . . . . . 31</p>
+          <p rend="toc-entry">1. The Form of Administration . . . . 31</p>
+          <p rend="toc-entry">2. The Course of Justice . . . . . 35</p>
+          <p rend="toc-entry">3. Security in the Cities . . . . . 37</p>
+          <p rend="toc-entry">4. Security in the Country . . . . . 41</p>
+          <p rend="toc-entry">5. Customs and Transit-Dues . . . . 46</p>
+          <p rend="toc-entry">6. Effect on Trade and Industry . . . . 50</p>
+          <p rend="toc-entry">7. Weights, Measures, and Currency . . . 52</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER III</head>
+          <p rend="toc-entry"><hi rend="smallcaps">The Consuming Classes</hi> . . . . . 63</p>
+          <p rend="toc-entry">1. The Court and the Imperial Service . . . 63</p>
+          <p rend="toc-entry">2. Other Forms of State Employment . . . 73</p>
+          <p rend="toc-entry">3. The Professional and Religious Classes . . 83</p>
+          <p rend="toc-entry">4. Servants and Slaves . . . . . 87</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER IV</head>
+          <p rend="toc-entry"><hi rend="smallcaps">Agricultural Production</hi> . . . . . 96</p>
+          <p rend="toc-entry">1. Land Tenures . . . . . . 96</p>
+          <p rend="toc-entry">2. The System of Agriculture . . . . 100</p>
+          <p rend="toc-entry">3. Peasants and Labourers . . . . 109</p>
+          <p rend="toc-entry">4. Agriculture in its Local Aspects . . . 118</p>
+          <p rend="toc-entry">5. The Environment as affecting Agriculture . . 124</p>
+          <p rend="toc-entry">6. The Conditions of Life in the Villages . . 136</p>
+          <pb xml:id="page-14" n="x" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n13_w1400.jpg"/>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER V</head>
+          <p rend="toc-entry"><hi rend="smallcaps">Non-Agricultural Production</hi> . . . . 141</p>
+          <p rend="toc-entry">1. The General Position . . . . 141</p>
+          <p rend="toc-entry">2. Forests and Fisheries . . . . 143</p>
+          <p rend="toc-entry">3. Mines and Minerals . . . . 146</p>
+          <p rend="toc-entry">4. Agricultural Manufactures . . . 155</p>
+          <p rend="toc-entry">5. Handicrafts in General . . . 160</p>
+          <p rend="toc-entry">6. Production of Means of Transport . 166</p>
+          <p rend="toc-entry">7. Textile Manufactures—Silk, Wool, and Hair . 171</p>
+          <p rend="toc-entry">8. Textile Manufactures—Hemp, Jute, and Cotton . 178</p>
+          <p rend="toc-entry">9. Industrial Organisation . . 184</p>
+          <p rend="toc-entry">10. Urban Wages . . . 189</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER VI</head>
+          <p rend="toc-entry"><hi rend="smallcaps">Commerce</hi> . . . . . 196</p>
+          <p rend="toc-entry">1. General Features . . . 196</p>
+          <p rend="toc-entry">2. The Principal Indian Seaports . 203</p>
+          <p rend="toc-entry">3. The Principal Foreign Ports in the Indian Seas 212</p>
+          <p rend="toc-entry">4. Trade Routes on the Land Frontier 218</p>
+          <p rend="toc-entry">5. The Direct Trade with Europe 221</p>
+          <p rend="toc-entry">6. The Volume of Foreign Commerce 227</p>
+          <p rend="toc-entry">7. Coasting and Internal Trade . 240</p>
+          <p rend="toc-entry">8. The Organisation of Indian Commerce 245</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER VII</head>
+          <p rend="toc-entry"><hi rend="smallcaps">The Standard of Life</hi> . . . . 253</p>
+          <p rend="toc-entry">1. Introductory . . 253</p>
+          <p rend="toc-entry">2. The Upper Classes 256</p>
+          <p rend="toc-entry">3. The Middle Classes 263</p>
+          <p rend="toc-entry">4. The Economic Position of the Lower Classes . 265</p>
+          <p rend="toc-entry">5. Food, Clothing, and other Details . . 270</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER VIII</head>
+          <p rend="toc-entry"><hi rend="smallcaps">The Wealth of India</hi> . . . . 282</p>
+          <p rend="toc-entry">1. Contemporary Ideas . . . 282</p>
+          <p rend="toc-entry">2. Modern Ideas . . 286</p>
+          <p rend="toc-entry">3. Distribution . . . 294</p>
+          <p rend="toc-entry">4. Conclusion . . 299</p>
+          <pb xml:id="page-15" n="xi" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n14_w1400.jpg"/>
           <div type="subsection" n="h2">
             <head>APPENDICES</head>
             <p rend="toc-entry">A. <hi rend="smallcaps">The Crops grown in India in the Sixteenth Century</hi> 303</p>
@@ -550,7 +553,7 @@ ST. MARTIN'S STREET, LONDON
         <row role="data"><cell>Mandua</cell><cell rend="num">44</cell><cell>Indigo</cell><cell rend="num">254</cell></row>
         <row role="data"><cell>Sāwan</cell><cell rend="num">22</cell><cell></cell><cell></cell></row>
       </table>
-            <p>So far as the food-grains are concerned, comparative values have changed very little ; an acre of barley, or jowār, or gram is now worth, roughly speaking, 60 to 70 per cent of an acre of wheat, as was the case in Akbar's time, and the small millets, acre for acre, are worth substantially less.<ref xml:id="ref-sec-07-fn-005" type="noteref" target="#sec-07-fn-005">1</ref> Oilseeds <pb xml:id="page-120" n="104" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n119_w1400.jpg"/> were proportionately less valuable than they are now, when a great and profitable export trade has grown up: sugar-cane, on the other hand, shows little change in the relative position, being still worth rather more than double the value of wheat. It is noteworthy that in Akbar's time poppy was as valuable as sugar-cane: its present value in a free market is unknown because the price paid to the grower has long been fixed by the State on considerations of a different order, but if we take into account the revenue realised until recently from the sale of the drug, the position occupied by the crop will occasion no surprise. The high level of the comparative value of cotton is a point to be considered in connection with the industrial development of the country; it is clear that the raw material of ordinary clothing was expensive when judged by the prices obtainable for food-grains. Indigo also was highly valued, but in this case the cause is to be sought in commerce rather than in industry, for even in the sixteenth century this crop was grown mainly for the export market. It is tempting to pass from relative to actual values, and deduce from these data figures for the average yield of crops in Akbar's time. Such a calculation is indeed possible on paper, but the uncertain factors are relatively large, and the result depends mainly on the values assigned to them by the individual calculator: in the present state of our knowledge, therefore, it is better to resist the temptation offered by the figures, and to be content with the conclusion that on the whole the relative values of the various crops show little alteration, and that in cases where the change is marked an explanation can usually be found in the known history of the intervening period.</p>
+            <p>So far as the food-grains are concerned, comparative values have changed very little ; an acre of barley, or jowār, or gram is now worth, roughly speaking, 60 to 70 per cent of an acre of wheat, as was the case in Akbar's time, and the small millets, acre for acre, are worth substantially less.<ref xml:id="ref-sec-07-fn-005" type="noteref" target="#sec-07-fn-005">1</ref> Oil-seeds <pb xml:id="page-120" n="104" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n119_w1400.jpg"/> were proportionately less valuable than they are now, when a great and profitable export trade has grown up: sugar-cane, on the other hand, shows little change in the relative position, being still worth rather more than double the value of wheat. It is noteworthy that in Akbar's time poppy was as valuable as sugar-cane: its present value in a free market is unknown because the price paid to the grower has long been fixed by the State on considerations of a different order, but if we take into account the revenue realised until recently from the sale of the drug, the position occupied by the crop will occasion no surprise. The high level of the comparative value of cotton is a point to be considered in connection with the industrial development of the country; it is clear that the raw material of ordinary clothing was expensive when judged by the prices obtainable for food-grains. Indigo also was highly valued, but in this case the cause is to be sought in commerce rather than in industry, for even in the sixteenth century this crop was grown mainly for the export market. It is tempting to pass from relative to actual values, and deduce from these data figures for the average yield of crops in Akbar's time. Such a calculation is indeed possible on paper, but the uncertain factors are relatively large, and the result depends mainly on the values assigned to them by the individual calculator: in the present state of our knowledge, therefore, it is better to resist the temptation offered by the figures, and to be content with the conclusion that on the whole the relative values of the various crops show little alteration, and that in cases where the change is marked an explanation can usually be found in the known history of the intervening period.</p>
             <p>We know then that, apart from the exceptions already indicated, India taken as a whole yielded the same agricultural produce as she yields now. We know also that the distribution of the various crops followed the main lines determined by the conditions of soil and climate: Bengal depended mainly on rice, Northern India on cereals, millets, and pulses, the Deccan on jowār and cotton, the south on <pb xml:id="page-121" n="105" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n120_w1400.jpg"/> rice and millets; and indications drawn from various sources justify the inference that there was less specialisation of cropping than is found at the present time. Specialisation was not indeed entirely unknown, for Bengal supplied sugar to many parts of India, while the production of indigo was to a large extent concentrated in two localities, Biāna near Agra, and Sarkhej in Gujarat, and both these instances throw light on the conditions affecting the process. Sugar was carried mainly by water, whether it went westwards to Agra or southwards to the ports of Malabar, that is to say, the trade was to a great extent independent of the high cost of land transit; indigo, on the other hand, was carried by land from Agra to the Cambay ports or across the frontier to Persia, the export value of the commodity being exceptionally high in proportion to its bulk; and thus we have in these instances early manifestations of the process of specialisation which has made such progress since the development of means of communication in the course of the past century. On the other hand, we look in vain for anything corresponding to the modern wheat tracts or cotton tracts, which are essentially the results of railway enterprise: cotton, at least, was more widely grown than is now the case, though the aggregate of production was probably less, and it is reasonable to infer that most parts of the country were nearly self-sufficing in the matter of clothes as well as of food and other requisites. We can therefore arrive at a general idea of the system of cropping practised in a particular part of India if we eliminate those staples which are known to have been subsequently introduced, and make due allowance for the progress of specialisation, and for the changes in regard to irrigation which we are about to discuss.</p>
             <p>When we pass to a consideration of the implements used by the peasants of Akbar's time, we can see at once that few changes can have taken place, for even at the present day the peasant's equipment is so nearly the bare minimum required for his work that it is impossible to believe he was ever much worse off, while there are no grounds whatever for thinking that any useful implements have disappeared in <pb xml:id="page-122" n="106" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n121_w1400.jpg"/> the interval. Ploughs and hoes, water-lifts and minor implements generally, all bear their age upon their face : their minute adaptation to the circumstances of each locality must be the result of slow growth, and their most striking characteristic, the economy of iron, finds its explanation in the high cost of that metal during the period when India depended for it on her own resources. As it happens, we have a striking confirmation of this inference in regard to water-lifts. Babur's description of the ordinary plane-and-bucket lift has already been quoted, and his account of the Persian wheel used in the Punjab is equally convincing, so that there is no doubt that the existing implements were in use at any rate before Akbar was born; and though similar direct evidence in regard to ploughs has not come to my notice,<ref xml:id="ref-sec-07-fn-006" type="noteref" target="#sec-07-fn-006">1</ref> their antiquity is not likely to be seriously disputed. Whether implements in general cost the peasant more or less is a question which cannot be answered in terms of figures, but the difference either way was probably small : on the one hand, wood was easier to get than now, but iron was certainly much more expensive in terms of grain, while the cost of manufacture measured in the same currency has probably changed very little, and, on the whole, the quantity of produce required to maintain the supply of the necessary implements cannot have altered materially during the last three centuries.</p>
             <p>As regards the supply of power, the peasant is probably somewhat worse off now than under Akbar. In most parts of the country, though not everywhere, there was more waste land available for grazing, and it is reasonable to infer that cattle could be obtained more cheaply and easily than is now possible. As to the quality of the stock, no precise information has come to my notice. Various travellers describe one or other of the famous breeds of what may be termed carriage oxen, but these were luxuries for the rich, and, so far as I know, there is no description of the animals which drew the ploughs.</p>
@@ -1245,15 +1248,10 @@ ST. MARTIN'S STREET, LONDON
           <div type="subsection" n="h2">
             <head>THE SHIPPING TON</head>
             <p><hi rend="smallcaps">The</hi> origin of the shipping ton is the tun of wine. In European ports the practice grew up of describing a ship's capacity for cargo in terms of the number of tuns of wine which could be carried. A tun of wine consisted of two butts, and was equivalent to 40·3 cubic feet; adding the size of the casks, and the loss of space due to their irregular shape, the space occupied by a tun comes to about 60 cubic feet.<ref xml:id="ref-sec-15-fn-001" type="noteref" target="#sec-15-fn-001">1</ref> Originally the number of tuns was not reached by any process of measurement: the capacity of a ship which had carried wine would be known by experience, and practical men would acquire sufficient knowledge to judge the capacity of other ships by their appearance and build. It is such estimates as these that are available in regard to the period we are considering: they are all given in round numbers, and obviously are not intended to be accurate to a tun; on the average, they are probably fairly close to the truth, though there are doubtless errors in particular observations.</p>
-            <p>Towards the end of the sixteenth century the number of tuns for particular ships became an important question in England, because it determined the amount of the subsidy paid for shipbuilding, and estimates such as had hitherto sufficed became subject to bias; a system of measurement was therefore worked out to supersede such estimates. At the first attempt the number of tuns which could be carried in a particular ship was determined by experiment; the length, breadth, and depth of the ship were then measured, and the volume in cubic feet calculated; the rest was a sum in simple proportion. It was found that each actual tun required about 97 cubic feet of volume measured on</p>
-            <pb xml:id="page-329" n="311" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n328_w1400.jpg"/>
-            <div type="subsection" n="h3">
-              <head><hi rend="smallcaps">app. d</hi></head>
-              <p>the lines adopted, and this relation was made the basis of a general rule; find the volume of a ship by a particular set of measurements and divide by 97.</p>
-              <p>The effect of this rule was to alter the definition, but not at first the size, of the tun. The unit was still the space required by a tun of wine, and this space was found to be 97 cubic feet <hi rend="italic">measured in a particular way</hi>. This system has survived up to the present day, but both the method of measurement and the divisor adopted have been varied from time to time. A "registered ton" is now defined as 100 cubic feet of space measured according to the precise specifications made under the Merchant Shipping Acts; it is a conventional unit, which has lost its original relation to the tun of wine, and its present relation could be determined with precision only by filling a series of modern cargo boats with tuns, a measure which nobody is likely to undertake. For our purposes, the important point is that the changes in the method of measurement have been in the direction of a closer approximation to the actual cargo space. The original method of measuring the length, breadth, and depth of the ship as a whole could give the actual cargo space only if the ship was rectangular and there were no internal structures below the topmost deck; the fact that 97 cubic feet (measured in this way) were required to accommodate 60 cubic feet (actual) shows that the cargo space was greatly overstated. This overstatement has now disappeared, because each deck is measured separately, and allowance is made for the curve of the sides; hence substantially less than 100 cubic feet (a measured ton) would now be required to accommodate a tun of wine, and in fact the volume of ordinary goods carried in recently-built vessels is, generally speaking, in excess of the volume given by the measurement. It follows that we shall not understate the cargo-capacity of Indian ships of the sixteenth century if we say that a tun of wine would require from <hi rend="sup">4</hi>/<hi rend="sub">10</hi> to <hi rend="sup">6</hi>/<hi rend="sub">10</hi> of a modern registered ton, instead of requiring a whole measured ton as was the case when measurement was first introduced. At this rate 1000 tuns of wine would require from 400 to 600 modern tons of shipping; and we should reduce the "tunnage" calculated for Indian trade in the sixteenth century by from <hi rend="sup">2</hi>/<hi rend="sub">5</hi> to <hi rend="sup">3</hi>/<hi rend="sub">5</hi> in order to compare it with the returns of shipping published at the present day. In the text I have arrived at 60,000 tuns as the probable maximum volume of Indian commerce: this would require from 24,000 to 36,000 tons present measurement, and since this figure has to be compared with about 6¾ million tons (the volume of Indian trade before the War), it really matters very little which fraction we take.</p>
-              <pb xml:id="page-330" n="312" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n329_w1400.jpg"/>
-              <p>A word must be added regarding the modern distinction between gross and net tons. The shipping statistics which have just been quoted are given in <hi rend="italic">net</hi> registered tons, but landsmen's ideas of ships are usually based on <hi rend="italic">gross</hi> tons,<ref xml:id="ref-sec-15-fn-002" type="noteref" target="#sec-15-fn-002">1</ref> and the difference between the two is important. The gross tonnage of a ship includes space occupied by machinery, etc., and not available for cargo; the net tonnage excludes the space so occupied. The relation between gross and net tonnage varies greatly among different classes of ships, but for modern cargo boats we shall not be very far from the truth in taking the net tonnage as on the average 60 per cent of the gross. If, then, we conclude that the Indian sea-borne commerce at the end of the sixteenth century could be carried in from 24,000 to 36,000 tons <hi rend="italic">net</hi>, we may say that it would require from 40,000 to 60,000 tons <hi rend="italic">gross</hi>, or at most one modern cargo-boat of moderate size sailing in each month of the year.</p>
-            </div>
+            <p>Towards the end of the sixteenth century the number of tuns for particular ships became an important question in England, because it determined the amount of the subsidy paid for shipbuilding, and estimates such as had hitherto sufficed became subject to bias; a system of measurement was therefore worked out to supersede such estimates. At the first attempt the number of tuns which could be carried in a particular ship was determined by experiment; the length, breadth, and depth of the ship were then measured, and the volume in cubic feet calculated; the rest was a sum in simple proportion. It was found that each actual tun required about 97 cubic feet of volume measured on <pb xml:id="page-329" n="311" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n328_w1400.jpg"/> the lines adopted, and this relation was made the basis of a general rule; find the volume of a ship by a particular set of measurements and divide by 97.</p>
+            <p>The effect of this rule was to alter the definition, but not at first the size, of the tun. The unit was still the space required by a tun of wine, and this space was found to be 97 cubic feet <hi rend="italic">measured in a particular way</hi>. This system has survived up to the present day, but both the method of measurement and the divisor adopted have been varied from time to time. A "registered ton" is now defined as 100 cubic feet of space measured according to the precise specifications made under the Merchant Shipping Acts; it is a conventional unit, which has lost its original relation to the tun of wine, and its present relation could be determined with precision only by filling a series of modern cargo boats with tuns, a measure which nobody is likely to undertake. For our purposes, the important point is that the changes in the method of measurement have been in the direction of a closer approximation to the actual cargo space. The original method of measuring the length, breadth, and depth of the ship as a whole could give the actual cargo space only if the ship was rectangular and there were no internal structures below the topmost deck; the fact that 97 cubic feet (measured in this way) were required to accommodate 60 cubic feet (actual) shows that the cargo space was greatly overstated. This overstatement has now disappeared, because each deck is measured separately, and allowance is made for the curve of the sides; hence substantially less than 100 cubic feet (a measured ton) would now be required to accommodate a tun of wine, and in fact the volume of ordinary goods carried in recently-built vessels is, generally speaking, in excess of the volume given by the measurement. It follows that we shall not understate the cargo-capacity of Indian ships of the sixteenth century if we say that a tun of wine would require from <hi rend="sup">4</hi>/<hi rend="sub">10</hi> to <hi rend="sup">6</hi>/<hi rend="sub">10</hi> of a modern registered ton, instead of requiring a whole measured ton as was the case when measurement was first introduced. At this rate 1000 tuns of wine would require from 400 to 600 modern tons of shipping; and we should reduce the "tunnage" calculated for Indian trade in the sixteenth century by from <hi rend="sup">2</hi>/<hi rend="sub">5</hi> to <hi rend="sup">3</hi>/<hi rend="sub">5</hi> in order to compare it with the returns of shipping published at the present day. In the text I have arrived at 60,000 tuns as the probable maximum volume of Indian commerce: this would require from 24,000 to 36,000 tons present measurement, and since this figure has to be compared with about 6¾ million tons (the volume of Indian trade before the War), it really matters very little which fraction we take.</p>
+            <pb xml:id="page-330" n="312" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n329_w1400.jpg"/>
+            <p>A word must be added regarding the modern distinction between gross and net tons. The shipping statistics which have just been quoted are given in <hi rend="italic">net</hi> registered tons, but landsmen's ideas of ships are usually based on <hi rend="italic">gross</hi> tons,<ref xml:id="ref-sec-15-fn-002" type="noteref" target="#sec-15-fn-002">1</ref> and the difference between the two is important. The gross tonnage of a ship includes space occupied by machinery, etc., and not available for cargo; the net tonnage excludes the space so occupied. The relation between gross and net tonnage varies greatly among different classes of ships, but for modern cargo boats we shall not be very far from the truth in taking the net tonnage as on the average 60 per cent of the gross. If, then, we conclude that the Indian sea-borne commerce at the end of the sixteenth century could be carried in from 24,000 to 36,000 tons <hi rend="italic">net</hi>, we may say that it would require from 40,000 to 60,000 tons <hi rend="italic">gross</hi>, or at most one modern cargo-boat of moderate size sailing in each month of the year.</p>
           </div>
         </div>
         <div type="notes">
@@ -1361,7 +1359,7 @@ ST. MARTIN'S STREET, LONDON
           </div>
         </div>
       </div>
-      <div xml:id="sec-17" type="backmatter" n="17-index">
+      <div xml:id="sec-17" type="index" n="17-index">
         <head>Index</head>
         <pb xml:id="page-337" n="319" facs="https://archive.org/download/indiaatdeathofak00moreuoft/page/n336_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -1490,7 +1488,9 @@ ST. MARTIN'S STREET, LONDON
       <item>Coinage, 55-8, 284; a form of merchandise, 59-60</item>
       <item>Colebrook, Sir Edward, 113</item>
       <item>Colombo, 210</item>
-      <item>Commerce: coasting trade, 240-41;<lb/>exports, 180-84, 197-8, 204,<lb/>209, 212, 213, 215, 216, 218,<lb/>291-2; imports, 142-3, 179,<lb/>180, 196-7, 204, 208, 209, 212,<lb/>213, 215, 216, 218, 283, 291-2;<lb/>organisation, 245-50; textiles,<lb/>179-84; transport, 166-71, 197,<lb/>243-4 foreign: cash basis of, 57; European, 221-7; income from, 289;<lb/>regulated by seasons, 230-33;<lb/>sea-borne, 198-212; shipping<lb/>employed, 233-9; volume of,<lb/>233-9, 288-9, Appendix D.,<lb/>310-12 internal, 241-5; agriculture and, 126-7; charges on, 46-52;<lb/>security of, 37-46</item>
+      <item>Commerce: coasting trade, 240-41;<lb/>exports, 180-84, 197-8, 204,<lb/>209, 212, 213, 215, 216, 218,<lb/>291-2; imports, 142-3, 179,<lb/>180, 196-7, 204, 208, 209, 212,<lb/>213, 215, 216, 218, 283, 291-2;<lb/>organisation, 245-50; textiles,<lb/>179-84; transport, 166-71, 197,<lb/>243-4</item>
+      <item>foreign: cash basis of, 57; European, 221-7; income from, 289;<lb/>regulated by seasons, 230-33;<lb/>sea-borne, 198-212; shipping<lb/>employed, 233-9; volume of,<lb/>233-9, 288-9, Appendix D.,<lb/>310-12</item>
+      <item>internal, 241-5; agriculture and, 126-7; charges on, 46-52;<lb/>security of, 37-46</item>
       <item>Commercial law and morality, 247,<lb/>249-50</item>
       <item>Conti, 11, 91, 171, 255, 266, 267</item>
       <item>Coorg, serfdom in, 114</item>
@@ -1946,7 +1946,7 @@ ST. MARTIN'S STREET, LONDON
         </div>
         <div type="subsection" n="h1">
           <head>A NEW WORK ON ECONOMICS</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">8vo. 18s. net.</hi></head>
           </div>
         </div>
@@ -1970,7 +1970,7 @@ ST. MARTIN'S STREET, LONDON
         </div>
         <div type="subsection" n="h1">
           <head><hi rend="smallcaps">other new works on economics</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">8vo.    18s. net.</hi></head>
           </div>
           <div type="subsection" n="h2">

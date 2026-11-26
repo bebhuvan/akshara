@@ -1,25 +1,9 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,1,data,,3 Dhotees a year,2,Column 2,Rs.,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,1,data,,3 Dhotees a year,3,Column 3,3,3.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,1,data,,3 Dhotees a year,4,Column 4,0,0.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,2,data,,1 pair champal (shoes),2,Column 2,„,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,2,data,,1 pair champal (shoes),3,Column 3,0,0.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,2,data,,1 pair champal (shoes),4,Column 4,12,12.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,3,data,,½ a turban,2,Column 2,„,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,3,data,,½ a turban,3,Column 3,1,1.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,3,data,,½ a turban,4,Column 4,8,8.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,4,data,,1 Bundee (jacket),2,Column 2,„,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,4,data,,1 Bundee (jacket),3,Column 3,1,1.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,4,data,,1 Bundee (jacket),4,Column 4,0,0.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,5,data,,2 Kamlees (blankets),2,Column 2,„,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,5,data,,2 Kamlees (blankets),3,Column 3,1,1.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,5,data,,2 Kamlees (blankets),4,Column 4,8,8.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,6,data,,1 Rumal (handkerchief),2,Column 2,„,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,6,data,,1 Rumal (handkerchief),3,Column 3,0,0.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,6,data,,1 Rumal (handkerchief),4,Column 4,2,2.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,7,data,,1 Rain-protector,2,Column 2,„,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,7,data,,1 Rain-protector,3,Column 3,0,0.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,7,data,,1 Rain-protector,4,Column 4,4,4.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,8,total,,Total,2,Column 2,Rs.,,Rs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,8,total,,Total,3,Column 3,8,8.0,,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-038,Clothing—,206,187,8,total,,Total,4,Column 4,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,1,data,,Food,2,Column 2,Rs. 36,36.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,1,data,,Food,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,2,data,,Clothing,2,Column 2,„ 6,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,2,data,,Clothing,3,Column 3,"Without any provision for social and religious wants, letting alone luxuries, and anything to spare for bad seasons.",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,3,data,,Lodging,2,Column 2,„ 3,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,3,data,,Lodging,3,Column 3,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,4,total,,Row 4,2,Column 2,Rs. 45,45.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-038,Table 38,206,187,4,total,,Row 4,3,Column 3,,,,True,False

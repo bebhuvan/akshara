@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-138,Table 138,494,475,1,data,,"644,405",2,Poona.,"118,886",118886.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-138,Table 138,494,475,1,data,,"644,405",3,Ahmedabad.,"116,873",116873.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-138,Table 138,494,475,1,data,,"644,405",4,Surat.,"107,149",107149.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-138,Table 138,494,475,1,data,,"644,405",5,Karachi.,"53,526",53526.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-138,Table 138,494,475,1,data,,"644,405",6,Sholapore.,"53,403.",53403.0,,False,False

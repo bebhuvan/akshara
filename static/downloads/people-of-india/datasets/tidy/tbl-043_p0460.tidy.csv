@@ -1,0 +1,842 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,2,NAME OF TRIBE OR CASTE.,Kochh (Rājbansi),,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,3,Language or Dialect.,Rājbansi,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,4,Locality.,N.-E. Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,186·2,186.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,202,202.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,140·2,140.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,153,153.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,127,127.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,75·2,75.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,84,84.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·9,48.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,44,44.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·5,37.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,76·6,76.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,92,92.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,61,61.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,23,STATURE. :: Average.,"1,607",1607.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,24,STATURE. :: Maximum.,"1,746",1746.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,25,STATURE. :: Minimum.,"1,440",1440.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,103·7,103.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,115·0,115.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,110·8,110.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,2,data,Bengal,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,104,104.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,2,NAME OF TRIBE OR CASTE.,Kochh (Rājbansi),,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,4,Locality.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,181·0,181.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,202,202.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,165,165.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,139·0,139.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,152,152.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,76·7,76.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,87,87.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,45·0,45.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,52,52.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,37,37.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·0,36.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,49,49.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,80·0,80.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,109,109.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,23,STATURE. :: Average.,"1,591",1591.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,24,STATURE. :: Maximum.,"1,695",1695.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,25,STATURE. :: Minimum.,"1,502",1502.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,100·0,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,110·0,110.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,110·0,110.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,3,data,Bengal,88,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,93,93.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,2,NAME OF TRIBE OR CASTE.,Bāgdi,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,3,Language or Dialect.,Bengali,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,4,Locality.,Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·7,182.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,201,201.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,172,172.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,139·5,139.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,153,153.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,76·3,76.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,83,83.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,46·7,46.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,39,39.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·6,37.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,80·5,80.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,62,62.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,23,STATURE. :: Average.,"1,603",1603.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,24,STATURE. :: Maximum.,"1,722",1722.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,25,STATURE. :: Minimum.,"1,434",1434.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,106·0,106.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,119·0,119.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,112·2,112.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,118,118.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,4,data,Bengal,99,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,106,106.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,2,NAME OF TRIBE OR CASTE.,Māl,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,4,Locality.,Western Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·0,183.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,191,191.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,141·3,141.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,146,146.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,135,135.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·2,77.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·2,47.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,50,50.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,40·0,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,46,46.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,84·7,84.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,23,STATURE. :: Average.,"1,622",1622.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,24,STATURE. :: Maximum.,"1,730",1730.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,25,STATURE. :: Minimum.,"1,520",1520.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,5,data,Bengal,12,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,2,NAME OF TRIBE OR CASTE.,Goāla,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,4,Locality.,Eastern Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·8,183.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·1,142.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,153,153.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·3,77.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,86,86.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·0,49.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,58,58.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,43,43.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·4,36.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,74·2,74.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,87,87.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,62,62.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,23,STATURE. :: Average.,"1,646",1646.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,24,STATURE. :: Maximum.,"1,746",1746.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,25,STATURE. :: Minimum.,"1,500",1500.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,6,data,Bengal,41,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,2,NAME OF TRIBE OR CASTE.,Kaibarta,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,4,Locality.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·3,182.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,141·1,141.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,152,152.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,129,129.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·3,77.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,87,87.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·0,48.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,37,37.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·6,36.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,43,43.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,76·2,76.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,103,103.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,63,63.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,23,STATURE. :: Average.,"1,629",1629.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,24,STATURE. :: Maximum.,"1,770",1770.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,25,STATURE. :: Minimum.,"1,490",1490.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,7,data,Bengal,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,2,NAME OF TRIBE OR CASTE.,Sadgop,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,4,Locality.,"Bengal, 24-Parganas",,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·6,182.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,190,190.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,168,168.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·1,142.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,150,150.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,132,132.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·6,77.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,87,87.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,72,72.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·6,49.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·7,36.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,49,49.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,73·9,73.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,98,98.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,23,STATURE. :: Average.,"1,633",1633.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,24,STATURE. :: Maximum.,"1,780",1780.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,25,STATURE. :: Minimum.,"1,510",1510.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,8,data,Bengal,48,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,2,NAME OF TRIBE OR CASTE.,Muchi,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,4,Locality.,Eastern Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·9,182.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·0,142.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,133,133.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·6,77.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,86,86.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,72,72.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·1,49.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,54,54.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·8,36.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,43,43.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,74·9,74.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,63,63.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,23,STATURE. :: Average.,"1,641",1641.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,24,STATURE. :: Maximum.,"1,742",1742.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,25,STATURE. :: Minimum.,"1,536",1536.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,9,data,Bengal,27,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,2,NAME OF TRIBE OR CASTE.,Pod,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,4,Locality.,"Bengal, 24-Parganas",,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·2,183.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,172,172.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·4,142.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,155,155.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·7,77.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,85,85.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·1,49.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,56,56.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·4,37.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,43,43.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,76·1,76.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,91,91.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,63,63.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,23,STATURE. :: Average.,"1,625",1625.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,24,STATURE. :: Maximum.,"1,850",1850.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,25,STATURE. :: Minimum.,"1,490",1490.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,99·6,99.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,111·1,111.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,111·5,111.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,118,118.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,10,data,Bengal,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,104,104.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,2,NAME OF TRIBE OR CASTE.,Muhammadan,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,4,Locality.,Eastern Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·8,182.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,199,199.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,168,168.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·7,142.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,156,156.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,78·0,78.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,89,89.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·4,49.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,58,58.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·3,38.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,77·5,77.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,96,96.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,64,64.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,23,STATURE. :: Average.,"1,634",1634.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,24,STATURE. :: Maximum.,"1,760",1760.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,25,STATURE. :: Minimum.,"1,500",1500.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,113·2,113.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,128·6,128.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,113·6,113.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,11,data,Bengal,185,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,106,106.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,2,NAME OF TRIBE OR CASTE.,Chandāl,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,4,Locality.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·2,183.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,201,201.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,143·1,143.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,78·1,78.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,89,89.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·6,49.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,56,56.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,43,43.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·7,36.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,30,30.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,73·9,73.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,89,89.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,62,62.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,23,STATURE. :: Average.,"1,619",1619.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,24,STATURE. :: Maximum.,"1,734",1734.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,25,STATURE. :: Minimum.,"1,472",1472.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,112·3,112.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,128·1,128.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,114·0,114.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,12,data,Bengal,67,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,106,106.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,2,NAME OF TRIBE OR CASTE.,Kāyastha,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,4,Locality.,Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·4,182.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,169,169.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·8,142.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,155,155.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,129,129.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,78·2,78.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·2,50.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,58,58.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,35·3,35.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,41,41.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,29,29.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,70·3,70.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,89,89.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,56,56.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,23,STATURE. :: Average.,"1,636",1636.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,24,STATURE. :: Maximum.,"1,810",1810.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,25,STATURE. :: Minimum.,"1,544",1544.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,13,data,Bengal,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,2,NAME OF TRIBE OR CASTE.,Brāhman,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,4,Locality.,Western Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·2,182.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,171,171.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·6,142.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,135,135.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,78·2,78.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,87,87.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,72,72.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·5,48.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,54,54.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,34·9,34.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,29,29.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,71·9,71.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,58,58.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,23,STATURE. :: Average.,"1,670",1670.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,24,STATURE. :: Maximum.,"1,734",1734.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,25,STATURE. :: Minimum.,"1,550",1550.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,14,data,Bengal,32,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,2,NAME OF TRIBE OR CASTE.,Brāhman,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,4,Locality.,Eastern Bengal,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,181·5,181.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,143·4,143.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,134,134.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,79·0,79.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·9,49.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,59,59.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,36,36.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,35·1,35.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,28,28.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,70·3,70.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,85,85.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,56,56.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,23,STATURE. :: Average.,"1,653",1653.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,24,STATURE. :: Maximum.,"1,792",1792.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,25,STATURE. :: Minimum.,"1,474",1474.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,15,data,Bengal,68,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,...,,,True,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,2,NAME OF TRIBE OR CASTE.,Rājbansi Magh,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,3,Language or Dialect.,Magh,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,4,Locality.,Chittagong,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,178·6,178.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,192,192.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,148·4,148.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,157,157.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,140,140.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,83·0,83.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,84,84.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,74,74.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,51·0,51.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,43,43.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·2,38.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,46,46.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,74·9,74.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,63,63.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,23,STATURE. :: Average.,"1,645",1645.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,24,STATURE. :: Maximum.,"1,750",1750.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,25,STATURE. :: Minimum.,"1,542",1542.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,106·6,106.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,118·3,118.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,110·9,110.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,115,115.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,16,data,Bengal,20,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,105,105.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,2,NAME OF TRIBE OR CASTE.,Karan,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,3,Language or Dialect.,Oriya,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,4,Locality.,Puri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,186·1,186.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,197,197.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,174,174.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·0,142.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,152,152.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,76·2,76.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,84,84.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·7,47.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,39,39.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·8,38.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,81·3,81.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,66,66.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,23,STATURE. :: Average.,"1,638",1638.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,24,STATURE. :: Maximum.,"1,792",1792.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,25,STATURE. :: Minimum.,"1,486",1486.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,109·8,109.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,127·7,127.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·3,116.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,126,126.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,18,data,Orissa,43,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,102,102.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,2,NAME OF TRIBE OR CASTE.,Niāri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,4,Locality.,Cuttack,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,185·0,185.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,193,193.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,141·5,141.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,76·4,76.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,87,87.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,46·8,46.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,53,53.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,39,39.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·7,37.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,80·5,80.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,23,STATURE. :: Average.,"1,611",1611.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,24,STATURE. :: Maximum.,"1,756",1756.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,25,STATURE. :: Minimum.,"1,469",1469.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,107·9,107.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,122·8,122.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,113·8,113.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,120,120.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,19,data,Orissa,26,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,2,NAME OF TRIBE OR CASTE.,Teli,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,4,Locality.,Puri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,184·0,184.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,196,196.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,140·8,140.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,150,150.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,129,129.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,75·6,75.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,83,83.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·1,47.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,56,56.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,39,39.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,36·5,36.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,77·4,77.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,95,95.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,65,65.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,23,STATURE. :: Average.,"1,619",1619.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,24,STATURE. :: Maximum.,"1,794",1794.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,25,STATURE. :: Minimum.,"1,500",1500.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,107·8,107.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,124·8,124.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·7,115.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,123,123.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,20,data,Orissa,45,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,2,NAME OF TRIBE OR CASTE.,Chāsa,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,4,Locality.,Cuttack,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·9,183.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,196,196.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,169,169.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,141·9,141.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,129,129.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·1,77.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,84,84.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·5,47.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,53,53.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·7,37.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,79·3,79.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,95,95.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,23,STATURE. :: Average.,"1,615",1615.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,24,STATURE. :: Maximum.,"1,752",1752.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,25,STATURE. :: Minimum.,"1,450",1450.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,108·2,108.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,123·5,123.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,111·4,111.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,21,data,Orissa,59,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,109,109.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,2,NAME OF TRIBE OR CASTE.,Shashan Brāhman,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,4,Locality.,Puri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·9,182.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,171,171.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,141·2,141.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,155,155.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,128,128.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·1,77.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,80,80.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·4,48.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·2,37.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,47,47.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,76·8,76.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,93,93.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,59,59.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,23,STATURE. :: Average.,"1,635",1635.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,24,STATURE. :: Maximum.,"1,748",1748.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,25,STATURE. :: Minimum.,"1,498",1498.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,109·2,109.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,127·4,127.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·6,116.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,123,123.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,22,data,Orissa,52,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,110,110.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,2,NAME OF TRIBE OR CASTE.,Kewat,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,4,Locality.,Cuttack,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·4,183.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,173,173.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,141·9,141.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,157,157.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·3,77.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,86,86.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·0,47.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,59,59.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·7,38.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,34,34.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,82·3,82.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,98,98.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,66,66.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,23,STATURE. :: Average.,"1,611",1611.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,24,STATURE. :: Maximum.,"1,716",1716.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,25,STATURE. :: Minimum.,"1,500",1500.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,108·3,108.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,123·7,123.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,114·2,114.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,23,data,Orissa,38,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,109,109.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,2,NAME OF TRIBE OR CASTE.,Khandait,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,4,Locality.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·6,183.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,197,197.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,171,171.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·0,142.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,153,153.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,133,133.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·3,77.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,84,84.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·0,48.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·8,37.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,78·7,78.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,98,98.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,23,STATURE. :: Average.,"1,645",1645.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,24,STATURE. :: Maximum.,"1,728",1728.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,25,STATURE. :: Minimum.,"1,529",1529.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,109·5,109.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,126·9,126.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·8,115.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,123,123.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,24,data,Orissa,40,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,2,NAME OF TRIBE OR CASTE.,Bauri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,4,Locality.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,180·4,180.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,193,193.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,165,165.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,139·6,139.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,149,149.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·3,77.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,86,86.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,45·5,45.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,56,56.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,38,38.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·3,38.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,85·1,85.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,113,113.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,23,STATURE. :: Average.,"1,585",1585.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,24,STATURE. :: Maximum.,"1,686",1686.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,25,STATURE. :: Minimum.,"1,476",1476.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,110·3,110.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,124·2,124.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,112·6,112.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,117,117.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,25,data,Orissa,40,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,104,104.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,2,NAME OF TRIBE OR CASTE.,Mastān Brāhman,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,4,Locality.,Puri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·8,183.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,197,197.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,169,169.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·7,142.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,154,154.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,132,132.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·6,77.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,86,86.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,67·9,67.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·0,38.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,48,48.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,79·3,79.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,63,63.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,23,STATURE. :: Average.,"1,642",1642.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,24,STATURE. :: Maximum.,"1,755",1755.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,25,STATURE. :: Minimum.,"1,468",1468.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,110·6,110.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,129·5,129.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,171·0,171.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,120,120.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,26,data,Orissa,40,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,112,112.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,2,NAME OF TRIBE OR CASTE.,Pān,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,4,Locality.,Cuttack,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·2,182.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,193,193.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,161,161.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,141·5,141.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,154,154.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·6,77.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,80,80.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,46·6,46.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,54,54.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,39,39.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·3,38.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,82·1,82.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,66,66.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,23,STATURE. :: Average.,"1,607",1607.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,24,STATURE. :: Maximum.,"1,748",1748.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,25,STATURE. :: Minimum.,"1,462",1462.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,110·0,110.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,124·1,124.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,112·8,112.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,119,119.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,27,data,Orissa,40,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,2,NAME OF TRIBE OR CASTE.,Gaura,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,4,Locality.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·8,182.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·1,142.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,151,151.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·7,77.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,80,80.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·4,48.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·2,37.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,43,43.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,27,27.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,76·8,76.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,96,96.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,60,60.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,23,STATURE. :: Average.,"1,627",1627.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,24,STATURE. :: Maximum.,"1,748",1748.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,25,STATURE. :: Minimum.,"1,510",1510.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,110·3,110.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,126·0,126.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,114·2,114.2,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,122,122.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,28,data,Orissa,41,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,2,NAME OF TRIBE OR CASTE.,Panda Brāhman,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,4,Locality.,Puri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,183·3,183.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,171,171.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·7,142.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,152,152.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,132,132.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,77·8,77.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·9,47.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·1,37.1,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,77·4,77.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,66,66.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,23,STATURE. :: Average.,"1,642",1642.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,24,STATURE. :: Maximum.,"1,750",1750.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,25,STATURE. :: Minimum.,"1,558",1558.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,109·5,109.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,126·9,126.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·8,115.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,124,124.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,29,data,Orissa,41,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,2,NAME OF TRIBE OR CASTE.,Kandra,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,4,Locality.,Cuttack,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·6,182.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,168,168.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,143·3,143.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,157,157.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,133,133.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,78·4,78.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·6,47.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,54,54.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,40,40.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·9,37.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,79·6,79.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,100,100.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,23,STATURE. :: Average.,"1,625",1625.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,24,STATURE. :: Maximum.,"1,722",1722.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,25,STATURE. :: Minimum.,"1,506",1506.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,111·7,111.7,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,127·8,127.8,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,114·4,114.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,30,data,Orissa,41,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,110,110.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,2,NAME OF TRIBE OR CASTE.,Guria,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,3,Language or Dialect.,Do.,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,4,Locality.,Puri,,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,5,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average.,182·9,182.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,6,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum.,204,204.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,7,DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum.,163,163.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,143·5,143.5,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,167,167.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,135,135.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,11,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average.,78·4,78.4,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,12,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum.,83,83.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,13,PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·0,47.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,55,55.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·3,37.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,79·3,79.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,93,93.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,63,63.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,23,STATURE. :: Average.,"1,606",1606.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,24,STATURE. :: Maximum.,"1,724",1724.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,25,STATURE. :: Minimum.,"1,476",1476.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average).,108·9,108.9,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,125·6,125.6,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·3,115.3,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,122,122.0,,False,False
+people-of-india,tbl-043,BENGAL AND ORISSA (In order of Cephalic Index.),460,396,31,data,Orissa,40,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False

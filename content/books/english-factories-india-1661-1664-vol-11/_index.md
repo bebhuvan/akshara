@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1661–1664"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "A Calendar of Documents in the India Office, Etc."
 author: "William Foster"
 author_slug: "william-foster"
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 94.0
+rubric_score: 97.0
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -37,15 +37,15 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Orthography & Diacritics"
-    score: 19.0
+    score: 22.0
     max: 25.0
-    notes: "-6.0: 2 script/codepoint anomaly(ies)"
+    notes: "-3.0: 1 script/codepoint anomaly(ies)"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (2 open review items); 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (1 open review item); 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 18 fixes · 10 pp. checked"
+  - "Scan-Triaged: 130 fixes · 10 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
@@ -104,28 +104,29 @@ editorial_note_markdown: |-
   - **Source File**: `english-factories-india-1661-1664-vol-11.originals.pdf`
   - **Source SHA-256**: `12a73f10fcbe3ad591f93fa6b3be3c0614ec777c2b8da49d5c90a682cfd8935e`
   - **Leaf Accounting**: 446 PDF leaves — **438** content leaves transcribed, **8** blank/tissue leaves (`2, 3, 4, 5, 6, 14, 443, 444`), **0** failed leaves.
-  - **Edition Status**: `community` (**94.0 / 100** Rubric Score)
+  - **Edition Status**: `community` (**97.0 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (90 flyleaf/stamp block(s)) are excluded from reading prose; **327** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **7** cross-page split footnotes and **0** multi-page tables were stitched; and **758** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (90 flyleaf/stamp block(s)) are excluded from reading prose; **329** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **8** cross-page split footnotes and **0** multi-page tables were stitched; and **758** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (27 distinct non-ASCII characters across 306 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**365** places); **903** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (438 pp.).
   - **Reader**: Read by gemini-3.8-flash on 438 of 438 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 18 replayed correction(s). Automated reading (2 open review items); 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 130 replayed correction(s). Automated reading (1 open review item); 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **15 finding(s) across 10 leaf(s)** (pp. 13, 23, 69, 79, 101, 244, 354, 411, 424, 442): attested compositor spelling variants preserved diplomatically from the scan.
-  - **8 finding(s) across 8 leaf(s)** (pp. 84, 150, 161, 203, 241, 276, 426, 441): rare character.
-  - **2 finding(s) across 2 leaf(s)** (pp. 84, 311): script anomaly.
+  - **7 finding(s) across 7 leaf(s)** (pp. 150, 161, 203, 241, 276, 426, 441): rare character.
+  - **1 finding(s) across 1 leaf(s)** (pp. 311): script anomaly.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
 A Calendar of Documents in the India Office, Etc. Archival scope: spanning 1661-1664; covering Surat, Bombay, Malabar, Madras, Hugli, Patna; focusing on factory records, cession of bombay, shivaji sack of surat, bengal trade, pepper and cloth. Original imprint: Oxford: Clarendon Press (1923).
 
-Digitized from Internet Archive copy [`englishfactories11fost`](https://archive.org/details/englishfactories11fost) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **94.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (398), and statistical tables (0) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`englishfactories11fost`](https://archive.org/details/englishfactories11fost) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **97.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (398), and statistical tables (0) are preserved faithfully from the source camera scans.

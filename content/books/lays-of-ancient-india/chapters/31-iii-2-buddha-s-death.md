@@ -1,8 +1,8 @@
 ---
 title: "III.2. Buddha’s Death"
-chapter_number: "31"
+chapter_number: "30"
 section_kind: "chapter"
-weight: 31
+weight: 30
 start_page: 125
 end_page: 126
 printed_start_folio: "87"
@@ -20,36 +20,40 @@ prev: "/books/lays-of-ancient-india/chapters/30-iii-1-buddha-s-birth/"
 next: "/books/lays-of-ancient-india/chapters/32-iii-3-ten-precepts-from-dhammapada/"
 ---
 
-<div class="page-rail-marker" id="page-125"><button type="button" class="folio-trigger" data-page="125" data-folio="87" data-scan="https://archive.org/download/laysofancientind00dutt/page/n124_w1400.jpg" aria-label="Inspect scan for page 87">[p. 87]</button></div><h2 class="sec-h1"><em>BUDDHA’S DEATH.</em></h2><h3 class="sec-h2">1.</h3><div class="prose-unit"><div class="verse-stanza"><span class="sc">Thus</span> in many lands they wandered,<br>
-Buddha and his faithful friend,<br>
-Teaching truth to many nations,<br>
-Till his life approached its end.<br>
-And they say, along the pathway,<br>
-As the saintly Master went,<br>
-Fruit trees blossomed out of season<br>
-And a lovely fragrance lent !<br>
-And that flowers and sandal-powder<br>
-Gently fell on him from high,<br>
-And came strains of heavenly music<br>
-Gently wafted from the sky !</div></div><h3 class="sec-h2">2.</h3><div class="prose-unit"><div class="verse-stanza">But the saintly Master whispered<br>
-To his friend beloved and blest,<br>
-“‘Tis not thus, O friend Ânanda !<br>
-That the Buddha’s honoured best.<br>
-Not by flowers or sandal-powder,<br>
-Not by music’s heavenly strain,<br>
-Is the soul’s true worship rendered,<br>
-Useless are these things and vain !</div></div><div class="page-rail-marker" id="page-126"><button type="button" class="folio-trigger" data-page="126" data-folio="88" data-scan="https://archive.org/download/laysofancientind00dutt/page/n125_w1400.jpg" aria-label="Inspect scan for page 88">[p. 88]</button></div><div class="prose-unit"><div class="verse-stanza"><em>But the brother and the sister,</em><br>
-<em>Man devout and woman holy,—</em><br>
-<em>Pure in life, in duty faithful,—</em><br>
-<em>They perform the worship truly !”</em></div></div><h4 class="sec-h3">3.</h4><div class="prose-unit"><div class="verse-stanza">Night came on, and saintly Buddha<br>
-Slept in suffering, sick and wan,<br>
-When a Brâhman, seeking wisdom,<br>
-Came to see the holy man.<br>
-Anxiously Ânanda stopped him,<br>
-But spoke Buddha, though in pain,<br>
-“He who comes to seek for wisdom<br>
-Shall not come to me in vain !”<br>
-And he to the pious stranger<br>
-Told the truth in language plain,<br>
-Taught the law with dying accents,<br>
-Stopped, and never spoke again !</div></div><div class="prose-unit"><p class="prose-p"><em>From the Mahâparinirvana Sutta.</em></p></div>
+<div class="page-rail-marker" id="page-125"><button type="button" class="folio-trigger" data-page="125" data-folio="87" data-scan="https://archive.org/download/laysofancientind00dutt/page/n124_w1400.jpg" aria-label="Inspect scan for page 87">[p. 87]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">1.</span><br>
+<span class="line"><span class="sc">Thus</span> in many lands they wandered,</span><br>
+<span class="line">Buddha and his faithful friend,</span><br>
+<span class="line">Teaching truth to many nations,</span><br>
+<span class="line">Till his life approached its end.</span><br>
+<span class="line">And they say, along the pathway,</span><br>
+<span class="line">As the saintly Master went,</span><br>
+<span class="line">Fruit trees blossomed out of season</span><br>
+<span class="line">And a lovely fragrance lent!</span><br>
+<span class="line">And that flowers and sandal-powder</span><br>
+<span class="line">Gently fell on him from high,</span><br>
+<span class="line">And came strains of heavenly music</span><br>
+<span class="line">Gently wafted from the sky!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">2.</span><br>
+<span class="line">But the saintly Master whispered</span><br>
+<span class="line">To his friend beloved and blest,</span><br>
+<span class="line">“‘Tis not thus, O friend Ânanda!</span><br>
+<span class="line">That the Buddha’s honoured best.</span><br>
+<span class="line">Not by flowers or sandal-powder,</span><br>
+<span class="line">Not by music’s heavenly strain,</span><br>
+<span class="line">Is the soul’s true worship rendered,</span><br>
+<span class="line">Useless are these things and vain!</span><br>
+<span class="line"><button type="button" class="folio-trigger folio-turn" id="page-126" data-page="126" data-folio="88" data-scan="https://archive.org/download/laysofancientind00dutt/page/n125_w1400.jpg" aria-label="Inspect original scan for page 88">[p. 88]</button><em>But the brother and the sister,</em></span><br>
+<span class="line"><em>Man devout and woman holy,—</em></span><br>
+<span class="line"><em>Pure in life, in duty faithful,—</em></span><br>
+<span class="line"><em>They perform the worship truly!”</em></span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">3.</span><br>
+<span class="line">Night came on, and saintly Buddha</span><br>
+<span class="line">Slept in suffering, sick and wan,</span><br>
+<span class="line">When a Brâhman, seeking wisdom,</span><br>
+<span class="line">Came to see the holy man.</span><br>
+<span class="line">Anxiously Ânanda stopped him,</span><br>
+<span class="line">But spoke Buddha, though in pain,</span><br>
+<span class="line">“He who comes to seek for wisdom</span><br>
+<span class="line">Shall not come to me in vain!”</span><br>
+<span class="line">And he to the pious stranger</span><br>
+<span class="line">Told the truth in language plain,</span><br>
+<span class="line">Taught the law with dying accents,</span><br>
+<span class="line">Stopped, and never spoke again!</span></div></div><div class="prose-unit"><p class="prose-p"><em>From the Mahâparinirvana Sutta.</em></p></div>

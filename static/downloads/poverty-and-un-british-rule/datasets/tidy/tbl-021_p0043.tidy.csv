@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,1,data,,Central Provinces,2,Value of the Produce of Cultivated Land. :: £,"16,000,000",16000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,1,data,,Central Provinces,3,Population.,"9,000,000",9000000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,1,data,,Central Provinces,4,Produce per head. :: Rs.,18,18.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,2,data,,Punjab,2,Value of the Produce of Cultivated Land. :: £,"36,000,000",36000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,2,data,,Punjab,3,Population.,"17,500,000",17500000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,2,data,,Punjab,4,Produce per head. :: Rs.,21,21.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,3,data,,North-West Provinces,2,Value of the Produce of Cultivated Land. :: £,"40,000,000",40000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,3,data,,North-West Provinces,3,Population.,"30,000,000",30000000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,3,data,,North-West Provinces,4,Produce per head. :: Rs.,14,14.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,4,data,,Bengal,2,Value of the Produce of Cultivated Land. :: £,"96,000,000",96000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,4,data,,Bengal,3,Population.,"67,000,000",67000000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,4,data,,Bengal,4,Produce per head. :: Rs.,15,15.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,5,data,,Madras,2,Value of the Produce of Cultivated Land. :: £,"36,000,000",36000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,5,data,,Madras,3,Population.,"26,500,000",26500000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,5,data,,Madras,4,Produce per head. :: Rs.,14,14.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,6,data,,Bombay,2,Value of the Produce of Cultivated Land. :: £,"40,000,000",40000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,6,data,,Bombay,3,Population.,"11,000,000",11000000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,6,data,,Bombay,4,Produce per head. :: Rs.,36,36.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,7,data,,Oudh,2,Value of the Produce of Cultivated Land. :: £,"13,000,000",13000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,7,data,,Oudh,3,Population.,"9,500,000",9500000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,7,data,,Oudh,4,Produce per head. :: Rs.,14,14.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,8,total,,Total,2,Value of the Produce of Cultivated Land. :: £,"277,000,000",277000000.0,GBP,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,8,total,,Total,3,Population.,"170,500,000",170500000.0,,False,True
+poverty-and-un-british-rule,tbl-021,Summary.,43,23,8,total,,Total,4,Produce per head. :: Rs.,,,Rs,True,True

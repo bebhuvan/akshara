@@ -23,6 +23,9 @@ HUMPHREY MILFORD
 
 <!-- page: 7 | folio: 3 -->
 
+### THE ECONOMIC LIFE OF A BENGAL DISTRICT
+
+
 #### *A STUDY*
 
 
@@ -158,9 +161,7 @@ C = courtyard; 1 parlour; 2 dwelling house; 3 bedroom; 4 kitchen; 5 cowshed;
 
 <!-- page: 29 | folio: 25 -->
 
-![Diagrams and plans showing types of dwellings and garden enclosures for non-cultivators and cultivators living in comfort or below comfort across various geographic areas (north of district, south-eastern alluvium, south-western marshes), with insets and sections.](../figures/fig-002_p0029.webp)
-
-*H. S. Hattin*
+![H. S. Hattin](../figures/fig-002_p0029.webp)
 
 
 <!-- page: 30 | folio: 26 -->
@@ -582,9 +583,9 @@ It would perhaps be unfair to select for more detailed comparison any of the ric
 
 It so happens that a very competent enquirer published lately an analysis of income and taxation in a typical Italian village in an agricultural part of the country. He did not estimate the sum of the annual incomes of all the villagers, but he estimated the value of the total agricultural produce and he calculated the amount of taxation imposed by the central and local governments and by the village council. As regards the taxation of the central government he confined [p. 125] himself to the land-tax, which appears to represent only 10 per cent. of the revenue raised by the central government in Italy. In writing an official report upon the preparation of a Record of Rights in the district of Bakarganj, adjacent to Faridpur, I had occasion to use this analysis for the purpose of comparison. Bakarganj came very well out of the comparison, the net income of the cultivator being equal to that of the Italian cultivator who pays six times as much in taxes. The writer of the article remarked of life in the Italian village : ‘the people are vegetarians, not from choice but from necessity. They cannot afford to eat meat nor even eggs ; they cannot afford to eat wheat bread but eat maize porridge and maize bread, vegetables and fruit, and what the cow produces.’ This is for all practical purposes a description of the food of the people of Faridpur without the comfortable addition of fish in abundance to the daily diet. The houses of the Italian peasants are, no doubt, stronger, but that is due to the greater severity of the climate ; they do not contain as much floor space, although they are much better furnished. The clothes of the peasant are made of better cloth and are far less scanty, but this again is due to the difference of climate ; they must be warmer or the peasant will perish, but in return he has to content himself with one or two suits. The writer remarks that the Italian population has scarcely any money at all for such indulgences as jewellery and spends very much less upon marriages and similar domestic ceremonies. On a close comparison of taxation in the Italian village with taxation in the Bakarganj village, it appeared that while the Italian land-tax was three [p. 126] times as large, the local authority took twice as much, and the village council took seventeen times as much from the Italian peasant as from the Bakarganj peasant. In other words, what the Bengal peasant spends on marriages and jewellery, the Italian peasant is compelled by his government to spend on roads and lighting, on sanitation, on a good water supply, on medical attendance and on education. The economic enquiry in Faridpur has enabled even closer comparison to be made of the burden of taxation in both countries; but the results are very much the same. The Italian peasant surrenders one-third of the produce of the soil in land-tax or in local and village taxation; the Faridpur peasant less than one-twentieth. It is true that he has to pay in addition rent to his private landlord; but this amounts to less than a tenth of the produce of the soil and in any case does not reach the public exchequer.
 
-Not all of this disproportion in the burden of taxation is due to the acquisition of those material benefits which are the principal feature of western civilization. It is clear that the system of administration in Italy is far more expensive than in India and, if a foreigner may judge, it is considerably less efficient. Railways in Italy are no more numerous and are much worse managed than they are in India, while light lines to serve village needs, such as are common in the best-governed European countries, are conspicuous by their absence in Italy. Civil justice is dilatory, criminal administration admittedly inefficient, and the police bear no very high reputation. But in the provision of local conveniences Italy is immeasurably more advanced. It is true that Faridpur is backward even [p. 127] for Bengal. Trunk roads are few and bad, there are no village roads of any sort although they are urgently wanted; doctors are fewer and less well qualified than in neighbouring districts, although fever and other diseases have taken such a heavy toll in some parts of the district as to reduce the population materially; finally, in the matter of education and its extension into the villages and amongst the cultivators, Farīdpur appears to be the most backward district in Eastern Bengal. It is only necessary, however, to compare the conveniences supplied to every agricultural village in Italy with the conveniences supplied to even the best-managed villages in Farīdpur to see that in the matter of local administration there is much room for improvement; in truth, in local administration every village in Italy is better managed than even the head-quarters town in Farīdpur. The Italian village has good roads and good lighting, good water and efficient sanitation. All children, both boys and girls, receive elementary education. A doctor and a midwife are provided free for the benefit of the villagers.
+Not all of this disproportion in the burden of taxation is due to the acquisition of those material benefits which are the principal feature of western civilization. It is clear that the system of administration in Italy is far more expensive than in India and, if a foreigner may judge, it is considerably less efficient. Railways in Italy are no more numerous and are much worse managed than they are in India, while light lines to serve village needs, such as are common in the best-governed European countries, are conspicuous by their absence in Italy. Civil justice is dilatory, criminal administration admittedly inefficient, and the police bear no very high reputation. But in the provision of local conveniences Italy is immeasurably more advanced. It is true that Faridpur is backward even [p. 127] for Bengal. Trunk roads are few and bad, there are no village roads of any sort although they are urgently wanted; doctors are fewer and less well qualified than in neighbouring districts, although fever and other diseases have taken such a heavy toll in some parts of the district as to reduce the population materially; finally, in the matter of education and its extension into the villages and amongst the cultivators, Faridpur appears to be the most backward district in Eastern Bengal. It is only necessary, however, to compare the conveniences supplied to every agricultural village in Italy with the conveniences supplied to even the best-managed villages in Faridpur to see that in the matter of local administration there is much room for improvement; in truth, in local administration every village in Italy is better managed than even the head-quarters town in Faridpur. The Italian village has good roads and good lighting, good water and efficient sanitation. All children, both boys and girls, receive elementary education. A doctor and a midwife are provided free for the benefit of the villagers.
 
-There is an opinion, which is generally held in England and by the educated class in India and has been emphasized in some recent books on India by people insufficiently informed of the facts, that India as a whole and in every part is overtaxed. This view will not bear a minute's scrutiny in Farīdpur in the light of the information which has been so laboriously gathered. The truth is that Bengal at least is more lightly taxed than any other civilized country in the world; and not only more lightly taxed, but far more lightly taxed. This comparison with one of the civilized countries in Europe serves to bring out the conditions [p. 128] by which taxation has been kept so low. It is due certainly in part to extreme economy and extreme efficiency in the central government, but it is also due to great neglect in local administration. Such neglect is in great measure the result of the circumstances of British rule in India. It is impossible for alien rulers to force material benefits upon a people which has not learnt to desire them, unless they can be introduced without any heavy increase in taxation. There would undoubtedly be grave discontent in every Faridpur village if village taxation were increased at one bound to the Italian level, even though the villager obtained in return all and more than all the material benefits which the Italian villager has secured. There is no doubt, however, that he would be prepared to pay without grumbling some increase in taxation if he could obtain in return some of the more obvious advantages, such as roads, good water, or medical attendance. The chief obstacle to an increase in village taxation has hitherto been the opposition of the central government owing to its ignorance of the incidence of existing taxation upon the income of the people. Although all governments in India have known for some time that India, and more especially Bengal, bears a very light burden of taxation, yet they have never had in their possession any accurate or detailed statistics with which to measure and to demonstrate its incidence. On the other hand, a considerable body of Indian opinion and a considerable number of uninstructed Englishmen have urged the view in and out of season that taxation in India is excessive and a disproportionate drain upon the resources of the people. Unless proof were available [p. 129] of the real incidence of taxation it was difficult in the face of such views held by influential parties to attempt any increase in local burdens. It was easier to leave the villager in the nakedness, which he hardly discerned, than to clothe him with modern conveniences at the risk of an agitation. Moreover in the absence of clear proof there was always the uncomfortable possibility that the pessimists might be right and the resources of the villagers so small as to make even the existing taxation excessive. The truth is that in Bengal not only is all taxation exceptionally light, but local taxation in particular is an insignificant burden upon the resources of the people, that the provision of local conveniences and material benefits is in consequence very inadequate, but that it cannot be improved unless larger sums are placed at the disposal of the local authorities.
+There is an opinion, which is generally held in England and by the educated class in India and has been emphasized in some recent books on India by people insufficiently informed of the facts, that India as a whole and in every part is overtaxed. This view will not bear a minute's scrutiny in Faridpur in the light of the information which has been so laboriously gathered. The truth is that Bengal at least is more lightly taxed than any other civilized country in the world; and not only more lightly taxed, but far more lightly taxed. This comparison with one of the civilized countries in Europe serves to bring out the conditions [p. 128] by which taxation has been kept so low. It is due certainly in part to extreme economy and extreme efficiency in the central government, but it is also due to great neglect in local administration. Such neglect is in great measure the result of the circumstances of British rule in India. It is impossible for alien rulers to force material benefits upon a people which has not learnt to desire them, unless they can be introduced without any heavy increase in taxation. There would undoubtedly be grave discontent in every Faridpur village if village taxation were increased at one bound to the Italian level, even though the villager obtained in return all and more than all the material benefits which the Italian villager has secured. There is no doubt, however, that he would be prepared to pay without grumbling some increase in taxation if he could obtain in return some of the more obvious advantages, such as roads, good water, or medical attendance. The chief obstacle to an increase in village taxation has hitherto been the opposition of the central government owing to its ignorance of the incidence of existing taxation upon the income of the people. Although all governments in India have known for some time that India, and more especially Bengal, bears a very light burden of taxation, yet they have never had in their possession any accurate or detailed statistics with which to measure and to demonstrate its incidence. On the other hand, a considerable body of Indian opinion and a considerable number of uninstructed Englishmen have urged the view in and out of season that taxation in India is excessive and a disproportionate drain upon the resources of the people. Unless proof were available [p. 129] of the real incidence of taxation it was difficult in the face of such views held by influential parties to attempt any increase in local burdens. It was easier to leave the villager in the nakedness, which he hardly discerned, than to clothe him with modern conveniences at the risk of an agitation. Moreover in the absence of clear proof there was always the uncomfortable possibility that the pessimists might be right and the resources of the villagers so small as to make even the existing taxation excessive. The truth is that in Bengal not only is all taxation exceptionally light, but local taxation in particular is an insignificant burden upon the resources of the people, that the provision of local conveniences and material benefits is in consequence very inadequate, but that it cannot be improved unless larger sums are placed at the disposal of the local authorities.
 
 The existing local taxation amounts in its yield to the local authorities to a rate of rather over a penny in the pound or about ½ per cent. on the total income of the population of the district. The amount actually paid by the taxpayers is probably double this rate owing to the extortion, corruption and waste which accompany the existing methods of assessment. One-sixth of the population is omitted from assessment, and the assessment upon the remainder is uneven and capricious. In truth, the present resources of the local authorities could be doubled by a reform in assessment and collection without increasing the rate at which the present taxes are collected.
 
@@ -812,7 +813,7 @@ The Circle Officer will fill this column after consultation with his Kanungos by
 ## II. Instructions to Officers
 
 
-#### <span class="sc">II. Instructions Issued to Officers</span>
+### <span class="sc">II. Instructions Issued to Officers</span>
 
 No Kanungo or Circle Officer is of the slightest value in economic enquiries unless he strips his mind entirely of preconceived notions and fills it solely with zeal for scientific truth. The object of the Economic Cadastre is not to prove theories, but to chronicle facts; but conditions are so diverse that only a trained mind can collect the facts and give them their proper perspective.
 
@@ -845,7 +846,7 @@ This is the only scientific method for translating fact into figures in the colu
 ## III. Tabulation
 
 
-##### III. TABULATION
+### III. TABULATION
 
 The only matters in tabulation which need explanation are the method by which a cash income was calculated for each cultivating family and the rates at which produce was valued.
 
@@ -865,7 +866,7 @@ The rate of valuation was adopted after very extensive enquiries. It was the one
 
 <!-- page: 154 | folio: 150 -->
 
-#### TABLE I
+### TABLE I
 
 
 **POPULATION WHICH CAME UNDER REVIEW**
@@ -905,7 +906,7 @@ Proportion of children to adults in total population 64 per cent.: amongst Hindu
 
 <!-- page: 155 | folio: 151 -->
 
-#### TABLE II
+### TABLE II
 
 
 **(*a*) CLASSIFICATION OF POPULATION BY INCOME AND ECONOMIC CONDITION**
@@ -959,7 +960,7 @@ Proportion of children to adults in total population 64 per cent.: amongst Hindu
 ## (b) Percentages of Classification
 
 
-##### (*b*) PERCENTAGES OF CLASSIFICATION
+### (*b*) PERCENTAGES OF CLASSIFICATION
 
 
 **Of every hundred families the following proportions were classified**
@@ -993,10 +994,10 @@ Taking the average income of a family as 100, the income of the average family i
 
 <!-- page: 159 | folio: 155 -->
 
-#### TABLE III
+### TABLE III
 
 
-##### DEBT
+#### DEBT
 
 
 **(*a*) <span class="sc">General Summary</span>**
@@ -1044,13 +1045,15 @@ The total debt amongst non-cultivators was Rs. 5,991,286 (Muhammadans Rs. 848,11
 | Hindu | 74 | 79 | 67 | 70 | 72 | 26 | 21 | 33 | 30 | 28 |
 | Muhammadan | 70 | 76 | 67 | 65 | 68 | 30 | 24 | 33 | 35 | 32 |
 
+Of others (chiefly Christians) 70 per cent. of families were free from debt and only 30 per cent. indebted.
+
 
 ## (c) Pitch of Indebtedness
 
 
 <!-- page: 161 | folio: 157 -->
 
-##### (*c*) PITCH OF INDEBTEDNESS
+### (*c*) PITCH OF INDEBTEDNESS
 
 
 **Amongst every hundred indebted families, whose debt amounted to**

@@ -1,6 +1,6 @@
 ---
 title: "Speeches and Writings of Sarojini Naidu"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "Third Edition"
 author: "Sarojini Naidu"
 author_slug: "sarojini-naidu"
@@ -45,7 +45,7 @@ provenance_statement: "Machine-checked; 1 of 486 pages had flagged passages re-r
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 15 fixes · 1 pp. checked"
+  - "Scan-Triaged: 17 fixes · 1 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
@@ -107,12 +107,13 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (141 flyleaf/stamp block(s)) are excluded from reading prose; **262** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **874** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (4 distinct non-ASCII characters across 8 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**681** places); **741** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (486 pp.).
   - **Reader**: Read by gemini-3.8-flash on 486 of 486 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 15 replayed correction(s). Machine-checked; 1 of 486 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 17 replayed correction(s). Machine-checked; 1 of 486 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

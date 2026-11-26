@@ -1,73 +1,27 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,1,data,,I,2,Name.,"Taila II (Tailapa, Āhavamalla, &c.)",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,1,data,,I,3,Approximate date of Acc. a. d.,973,973.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,1,data,,I,4,Known epigraphic dates.,993–7,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,2,data,,II,2,Name.,"Satyāśraya (Sattiga, &c.)",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,2,data,,II,3,Approximate date of Acc. a. d.,997,997.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,2,data,,II,4,Known epigraphic dates.,"1002, 1008",10021008.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,3,data,,III,2,Name.,Vikramāditya V (Tribhuvanamalla),,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,3,data,,III,3,Approximate date of Acc. a. d.,1009,1009.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,3,data,,III,4,Known epigraphic dates.,1009,1009.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,4,data,,IV,2,Name.,Jayaśiṁha II (Jagadekamalla I),,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,4,data,,IV,3,Approximate date of Acc. a. d.,1016,1016.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,4,data,,IV,4,Known epigraphic dates.,1017 (?)–1040,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,5,data,,V,2,Name.,"Someśvara I (Āhavamalla, &c.)",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,5,data,,V,3,Approximate date of Acc. a. d.,1042,1042.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,5,data,,V,4,Known epigraphic dates.,1044–68,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,6,data,,VI,2,Name.,Someśvara II (Bhuvanaikamalla),,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,6,data,,VI,3,Approximate date of Acc. a. d.,1075,1075.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,6,data,,VI,4,Known epigraphic dates.,1071–5,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,7,data,,VII,2,Name.,"Vikramāditya VI (Vikramārka, &c.)",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,7,data,,VII,3,Approximate date of Acc. a. d.,1075–6,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,7,data,,VII,4,Known epigraphic dates.,1077–1125,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,8,data,,VIII,2,Name.,Someśvara III (Bhūlokamalla),,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,8,data,,VIII,3,Approximate date of Acc. a. d.,1125–6,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,8,data,,VIII,4,Known epigraphic dates.,"1128, 1130",11281130.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,9,data,,IX,2,Name.,Perma-Jagadekamalla II,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,9,data,,IX,3,Approximate date of Acc. a. d.,1138,1138.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,9,data,,IX,4,Known epigraphic dates.,"1139, 1149",11391149.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,10,data,,X,2,Name.,"Taila III (Tailapa, Trailokyamalla, &c.)",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,10,data,,X,3,Approximate date of Acc. a. d.,1149,1149.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,10,data,,X,4,Known epigraphic dates.,"1154, 1155",11541155.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,11,data,,XI,2,Name.,"Someśvara IV (Tribhuvanamalla, &c.)",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,11,data,,XI,3,Approximate date of Acc. a. d.,1162,1162.0,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,11,data,,XI,4,Known epigraphic dates.,"1184, 1189. (Usurpation of Bijjala Kalachurya in 1156–62; he abdicated in 1167, his descendants continuing until 1183 as rivals of Someśvara IV)",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,12,data,,1. Taila II,2,Name.,a. d. 973–97,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,12,data,,1. Taila II,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,12,data,,1. Taila II,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,13,data,,2. Satyāśraya,2,Name.,„ 997–1008,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,13,data,,2. Satyāśraya,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,13,data,,2. Satyāśraya,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,14,data,,3. Vikramāditya V,2,Name.,„ 1009–14,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,14,data,,3. Vikramāditya V,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,14,data,,3. Vikramāditya V,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,15,data,,4. Ayyana II,2,Name.,„ 1014,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,15,data,,4. Ayyana II,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,15,data,,4. Ayyana II,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,16,data,,5. Jayaśiṁha II,2,Name.,„ 1015–42,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,16,data,,5. Jayaśiṁha II,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,16,data,,5. Jayaśiṁha II,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,17,data,,6. Someśvara I,2,Name.,„ 1042–68,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,17,data,,6. Someśvara I,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,17,data,,6. Someśvara I,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,18,data,,7. Someśvara II,2,Name.,„ 1068–76,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,18,data,,7. Someśvara II,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,18,data,,7. Someśvara II,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,19,data,,8. Vikramāditya VI,2,Name.,„ 1076–1127 (?),,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,19,data,,8. Vikramāditya VI,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,19,data,,8. Vikramāditya VI,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,20,data,,9. Someśvara III,2,Name.,„ 1127 (?)–36 (?),,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,20,data,,9. Someśvara III,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,20,data,,9. Someśvara III,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,21,data,,10. Perma-Jagadekamalla II,2,Name.,„ 1136 (?)–51,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,21,data,,10. Perma-Jagadekamalla II,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,21,data,,10. Perma-Jagadekamalla II,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,22,data,,11. Taila III,2,Name.,„ 1151–63,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,22,data,,11. Taila III,3,Approximate date of Acc. a. d.,(Kalachurya usurpation lasted 1156–1183. Taila continued ruling over such part of his kingdom as remained until 1163).,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,22,data,,11. Taila III,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,23,data,,12. Jagadekamalla III,2,Name.,„ 1163–84,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,23,data,,12. Jagadekamalla III,3,Approximate date of Acc. a. d.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,23,data,,12. Jagadekamalla III,4,Known epigraphic dates.,,,,True,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,24,data,,13. Someśvara IV,2,Name.,„ 1184–c.1200,,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,24,data,,13. Someśvara IV,3,Approximate date of Acc. a. d.,"(he ruled at different times at Annigere, Kalyāṇi and Banavāsi).",,,False,False
-early-history-of-india-1924,tbl-015,"III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901",505,455,24,data,,13. Someśvara IV,4,Known epigraphic dates.,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,1,data,,1. Taila II,2,Column 2,a. d. 973–97,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,1,data,,1. Taila II,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,2,data,,2. Satyāśraya,2,Column 2,„ 997–1008,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,2,data,,2. Satyāśraya,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,3,data,,3. Vikramāditya V,2,Column 2,„ 1009–14,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,3,data,,3. Vikramāditya V,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,4,data,,4. Ayyana II,2,Column 2,„ 1014,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,4,data,,4. Ayyana II,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,5,data,,5. Jayaśiṁha II,2,Column 2,„ 1015–42,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,5,data,,5. Jayaśiṁha II,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,6,data,,6. Someśvara I,2,Column 2,„ 1042–68,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,6,data,,6. Someśvara I,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,7,data,,7. Someśvara II,2,Column 2,„ 1068–76,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,7,data,,7. Someśvara II,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,8,data,,8. Vikramāditya VI,2,Column 2,„ 1076–1127 (?),,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,8,data,,8. Vikramāditya VI,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,9,data,,9. Someśvara III,2,Column 2,„ 1127 (?)–36 (?),,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,9,data,,9. Someśvara III,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,10,data,,10. Perma-Jagadekamalla II,2,Column 2,„ 1136 (?)–51,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,10,data,,10. Perma-Jagadekamalla II,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,11,data,,11. Taila III,2,Column 2,„ 1151–63,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,11,data,,11. Taila III,3,Column 3,(Kalachurya usurpation lasted 1156–1183. Taila continued ruling over such part of his kingdom as remained until 1163).,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,12,data,,12. Jagadekamalla III,2,Column 2,„ 1163–84,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,12,data,,12. Jagadekamalla III,3,Column 3,,,,True,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,13,data,,13. Someśvara IV,2,Column 2,„ 1184–c.1200,,,False,False
+early-history-of-india-1924,tbl-015,Table 15,505,455,13,data,,13. Someśvara IV,3,Column 3,"(he ruled at different times at Annigere, Kalyāṇi and Banavāsi).",,,False,False

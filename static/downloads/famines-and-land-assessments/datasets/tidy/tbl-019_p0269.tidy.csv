@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-019,Table 19,269,245,1,data,,Bengal,2,Column 2,"Rs. 39,052,210",39052210.0,Rs,False,True
+famines-and-land-assessments,tbl-019,Table 19,269,245,2,data,,N. W. Provinces & Oudh,2,Column 2,"60,169,440",60169440.0,,False,True
+famines-and-land-assessments,tbl-019,Table 19,269,245,3,data,,Punjab,2,Column 2,"23,966,990",23966990.0,,False,True
+famines-and-land-assessments,tbl-019,Table 19,269,245,4,total,,"Total,",2,Column 2,"Rs. 123,188,640",123188640.0,Rs,False,True

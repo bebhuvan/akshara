@@ -23,6 +23,9 @@ BY FREDERICK HALL
 
 
 <!-- page: 9 | folio: iii -->
+
+### LIFE AND LETTERS OF TORU DUTT
+
 BY
 
 
@@ -3297,7 +3300,7 @@ and the refrain is :
 
 The song is very musical, and beautiful. We lately bought from an itinerant book-seller a *Life of Napoleon the Great*, by M. de Narvins. It is finely illustrated with coloured plates besides the wood engravings. It will be interesting reading to me, for I am a great admirer of the ‘ bronze artillery officer ’, as Carlyle styles him.
 
-October 4th. Gentille is quite well to-day, but I mean to give her a rest to-day, and commence working her from tomorrow. [p. 218] Papa and I went out in a hired carriage to the city, shopping. The hackney cabs are so miserable in Calcutta, that I am always afraid of their breaking down in the way.
+October 4th. Gentille is quite well to-day, but I mean to give her a rest to-day, and commence working her from to-morrow. [p. 218] Papa and I went out in a hired carriage to the city, shopping. The hackney cabs are so miserable in Calcutta, that I am always afraid of their breaking down in the way.
 
 We bought *Ginx’s Baby*, for I had heard of its marvellous popularity. Papa read it and declared it was nothing better than *Dame Europa’s School*, and that it was a catch-penny.
 
@@ -5256,9 +5259,8 @@ The following is a list of Journals in which Toru Dutt’s *A Sheaf gleaned in F
 - Châtelain, Chevalier de, 22, 40, 181,
 - 199, 211, 220, 292.
 - Cheem, Aliph, 238.
-- Clifford, Bishop, 74, 101, 110, 179,
-- 234, 244–5, 257, 356–8.
-- — Edward, 234, 244–5, 257, 272.
+- Clifford, Bishop, 74, 101, 110, 179, 234, 244–5, 257, 356–8.
+  - — Edward, 234, 244–5, 257, 272.
 - Clough, Miss, 264, 280.
 - Coleridge, 66, 144, 249, 251.
 - Collins, Wilkie, 268.
@@ -5280,27 +5282,27 @@ The following is a list of Journals in which Toru Dutt’s *A Sheaf gleaned in F
 - Duckworth, Canon, 132.
 - Duff, Alexander, 3, 4, 9, 13.
 - <span class="sc">Dutt</span>, the family, 1–16 ; conversions to Christianity, 8–10 ; family-tree, 16.
-- — Arun Chunder, 19, 33, 51.
-- — Charoo Chunder, 64, 92.
-- — Girish Chunder (Toru’s uncle), *passim*.
-- — Govin Chunder (Toru’s father), *passim*.
-- — Mrs. Govin Chunder (Toru’s mother), 9, 69, 84–90, 125–134, 147–50, 209–25, 241, 259, 290, 357–8.
-- — Hur Chunder (Toru’s uncle), 5, 14, 241.
-- — J. C., 39.
-- — Kishen Chunder, 5, 8.
-- — Koilash Chunder, 5.
-- — Michael, M. S., 6, 178, 346.
-- — Nilmoni, 2, 4, 5.
-- — Omesh Chunder, 15, 20, 34–7, 39,
-- — Rai Shoshee Chunder Bahadur, 7, 9, 15, 225.
-- — Rasamoy, 4, 5, 8, 9, 26.
-- — Romesh Chunder, 15–16, 22–3. 251.
-- — <span class="sc">Toru</span>, birth, 17 ; visit to Bombay, 18 ; voyage to France and England, 19 ; in France, 19–22 (*see* France, French Literature) ; in London, 22–38 ; in Cambridge, 39–42 ; in St. Leonards, 39 ; return to India, 39, 43 ; death of her sister, 43 ; commences Sanskrit (q.v.), 44 ; correspondence with Mlle Clarisse Bader, 44–51, 350–5 ; letters to Miss Martin, 52–283 ; her translations from the French, 74 *et sqq.* ; reading, *see* English Literature, French Literature, and individual authors ; her horses and other pets, *see* Horses, Jeunette and Gentille, Pets, &c. ; *A Sheaf gleaned in French Fields*, 119–20, 126, 132 *et sqq.* ; on the
+  - — Arun Chunder, 19, 33, 51.
+  - — Charoo Chunder, 64, 92.
+  - — Girish Chunder (Toru’s uncle), *passim*.
+  - — Govin Chunder (Toru’s father), *passim*.
+  - — Mrs. Govin Chunder (Toru’s mother), 9, 69, 84–90, 125–134, 147–50, 209–25, 241, 259, 290, 357–8.
+  - — Hur Chunder (Toru’s uncle), 5, 14, 241.
+  - — J. C., 39.
+  - — Kishen Chunder, 5, 8.
+  - — Koilash Chunder, 5.
+  - — Michael, M. S., 6, 178, 346.
+  - — Nilmoni, 2, 4, 5.
+  - — Omesh Chunder, 15, 20, 34–7, 39,
+  - — Rai Shoshee Chunder Bahadur, 7, 9, 15, 225.
+  - — Rasamoy, 4, 5, 8, 9, 26.
+  - — Romesh Chunder, 15–16, 22–3. 251.
+  - — <span class="sc">Toru</span>, birth, 17 ; visit to Bombay, 18 ; voyage to France and England, 19 ; in France, 19–22 (*see* France, French Literature) ; in London, 22–38 ; in Cambridge, 39–42 ; in St. Leonards, 39 ; return to India, 39, 43 ; death of her sister, 43 ; commences Sanskrit (q.v.), 44 ; correspondence with Mlle Clarisse Bader, 44–51, 350–5 ; letters to Miss Martin, 52–283 ; her translations from the French, 74 *et sqq.* ; reading, *see* English Literature, French Literature, and individual authors ; her horses and other pets, *see* Horses, Jeunette and Gentille, Pets, &c. ; *A Sheaf gleaned in French Fields*, 119–20, 126, 132 *et sqq.* ; on the
 - English in India, 132, 139, 168, 184, 190, 204, 287 ; her illnesses, 47–9, 57–9, 73–81, 89, 125, 136, 183, 190–7, 237–43, 253–61, 269, 273, 279–83, 308–9 ; her character, 284–8 ; her writings (see separate titles), 289–349 ; last days, 308–15.
 - *Dutt Family Album, The*, 1, 7, 11–15, 22–3, 37, 39, 64, 66, 74, 175, 178, 181, 236, 241, 256.
 - Dyson, Mrs., 261.
 - Eden, Sir Ashley, 249.
-- — Hon. Emily, 265.
+  - — Hon. Emily, 265.
 - Education of Indian Girls, 21, 39, 51, 71–2, 141, 176, 194, 239, 255, 264, 275, 347–9
 - Education of Indians, Higher, 3–7, 10, 16, 22, 28, 59, 64, 75, 90, 132, 160, 172, 177, 189, 225.
 - Eliot, George, 105, 117, 234, 268–9, 327.
@@ -5395,29 +5397,24 @@ The following is a list of Journals in which Toru Dutt’s *A Sheaf gleaned in F
 - Lethbridge, Sir Roper, 195, 273,
 - 292.
 - Luard, Major, 248.
-- Lytton, Lord (‘Owen Meredith’),
-- 122, 143, 146, 160, 171, 187,
-- 190–2, 195, 200, 213, 227, 251,
-- 256–9, 272, 277, 292, 320.
-- — Bulwer, 71, 149.
+- Lytton, Lord (‘Owen Meredith’), 122, 143, 146, 160, 171, 187, 190–2, 195, 200, 213, 227, 251, 256–9, 272, 277, 292, 320.
+  - — Bulwer, 71, 149.
 - Macaulay, Lord, 3, 6, 25–6.
 - Macfarren, Sir G., and Lady, 22,
 - 34–6, 83–4.
 - *Mahabharata, The*, 16, 111, 159,
 - 330–1, 337.
 - Martin, Sir Ronald, 76.
-- — Miss M. E. R., 13, 39–41, 52–283,
-- 308, 311, 339.
+  - — Miss M. E. R., 13, 39–41, 52–283, 308, 311, 339.
 - Merimée, Prosper, 193.
 - Milman, Bishop, 141, 174, 252.
 - Milton, 18, 25, 251, 255.
 - Missionaries, 2–10, 39, 166, 227, 233,
 - 272.
 - Mitter, Genoo, and family, 114, 143.
-- — Kshetramoni, *see* Mrs. Govin
-- Chunder Dutt.
-- — Rajendra, Lal, 4, 274, 350.
-- — Babu Degember, 171.
+  - — Kshetramoni, *see* Mrs. Govin Chunder Dutt.
+  - — Rajendra, Lal, 4, 274, 350.
+  - — Babu Degember, 171.
 - Mohammedans, 229, 233, 257–8,
 - 329.
 
@@ -5455,10 +5452,8 @@ The following is a list of Journals in which Toru Dutt’s *A Sheaf gleaned in F
 - *Revue des Deux Mondes*, 68, 71, 74,
 - 93, 95, 129, 135, 170, 179, 224,
 - 246, 248, 264, 266, 269, 279.
-- Richardson, Captain David Lester
-- (afterwards Professor), 5–6, 16.
-- — Frederika, 142, 145, 167, 182,
-- 242.
+- Richardson, Captain David Lester (afterwards Professor), 5–6, 16.
+  - — Frederika, 142, 145, 167, 182, 242.
 - ‘R. K. M.’s’ verses, 314.
 - Roy, Raja Ram Mohun, 4.
 - Rustomjee, Mr. and Mrs., 152.
@@ -5478,8 +5473,7 @@ The following is a list of Journals in which Toru Dutt’s *A Sheaf gleaned in F
 - ‘Scenes from Contemporary History’, 304–7.
 - Scott, Sir W., 26–7, 36, 149, 242.
 - Sen, Ram Komul, 4.
-- — Babu Keshub Chunder, 235, 264,
-- 272, 275.
+  - — Babu Keshub Chunder, 235, 264, 272, 275.
 - Shakespeare, 27, 36, 40, 62, 150,
 - 198, 245.
 - *Sheaf gleaned in French Fields, A*,
@@ -5494,11 +5488,9 @@ The following is a list of Journals in which Toru Dutt’s *A Sheaf gleaned in F
 - Sinaes, Mrs., 33.
 - Skating rinks, 131, 146, 155, 162,
 - 179, 187, 213.
-- Smith, Dr., of Medical College, 243,
-- 272.
-- — Miss Ada, 113, 117, 185, 193,
-- 261.
-- — Rev. A. H., 113.
+- Smith, Dr., of Medical College, 243, 272.
+  - — Miss Ada, 113, 117, 185, 193, 261.
+  - — Rev. A. H., 113.
 - Snakes, 56, 60, 64, 72, 94, 104, 114,
 - 127, 153, 173, 180–2, 202, 205,
 - 228.
@@ -5510,9 +5502,8 @@ The following is a list of Journals in which Toru Dutt’s *A Sheaf gleaned in F
 - Temple, Sir Richard, 106, 249.
 - Tennyson, 111, 143, 149, 196, 267,
 - 334.
-- Thackeray, W. M., 27–8, 105, 141,
-- 147, 193, 203, 208–9, 217.
-- — Miss, 209.
+- Thackeray, W. M., 27–8, 105, 141, 147, 193, 203, 208–9, 217.
+  - — Miss, 209.
 - Theatres, 27, 36, 213, 245.
 - Theuriet, André, 135, 186, 251, 257,
 - 267, 291, 297.

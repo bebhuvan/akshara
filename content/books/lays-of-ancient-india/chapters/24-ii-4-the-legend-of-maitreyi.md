@@ -1,8 +1,8 @@
 ---
 title: "II.4. The Legend of Maitreyî"
-chapter_number: "24"
+chapter_number: "23"
 section_kind: "chapter"
-weight: 24
+weight: 23
 start_page: 104
 end_page: 107
 printed_start_folio: "66"
@@ -20,67 +20,76 @@ prev: "/books/lays-of-ancient-india/chapters/23-ii-3-the-legend-of-gargi/"
 next: "/books/lays-of-ancient-india/chapters/25-ii-5-the-legend-of-uma/"
 ---
 
-<div class="page-rail-marker" id="page-104"><button type="button" class="folio-trigger" data-page="104" data-folio="66" data-scan="https://archive.org/download/laysofancientind00dutt/page/n103_w1400.jpg" aria-label="Inspect scan for page 66">[p. 66]</button></div><h2 class="sec-h1"><em>THE LEGEND OF MAITREYÎ.</em></h2><h4 class="sec-h3">I.</h4><div class="prose-unit"><div class="verse-stanza"><span class="sc">Unto</span> her,—his spouse beloved,—<br>
-Maitreyî the pious-hearted,—<br>
-Thus spoke learned Yâjnavalkya,<br>
-When to woods the saint departed.<br>
-“Maitreyî, my spouse beloved,<br>
-All my wealth and goods I leave,<br>
-Take thy own, thy proper portion,<br>
-Hers to Kâtyâyanî give !”</div></div><h4 class="sec-h3">2</h4><div class="prose-unit"><div class="verse-stanza">“Will thy wealth and worldly objects,”—<br>
-Spake the pious-hearted wife,—<br>
-“Lead me to salvation holy,<br>
-Lead me to immortal life ?”<br>
-“Nay,” said learned Yâjnavalkya,<br>
-“Not unto immortal life,<br>
-But to life the rich man liveth<br>
-Wealth will lead thee, gentle wife.”</div></div><div class="page-rail-marker" id="page-105"><button type="button" class="folio-trigger" data-page="105" data-folio="67" data-scan="https://archive.org/download/laysofancientind00dutt/page/n104_w1400.jpg" aria-label="Inspect scan for page 67">[p. 67]</button></div><h4 class="sec-h3">3.</h4><div class="prose-unit"><div class="verse-stanza">“Vain to me the things that perish,<br>
-Lead not to immortal life,—<br>
-That which leads to true salvation,<br>
-Grant that wealth unto your wife !”<br>
-“Ever dear,” said Yâjnavalkya,<br>
-“Dearer now thou art to me,<br>
-And the wealth which brings salvation,<br>
-I will grant that wealth to thee !</div></div><h4 class="sec-h3">4.</h4><div class="prose-unit"><div class="verse-stanza">“Saintly love of man and woman,<br>
-Love unto our brother men,<br>
-Love of parents, love of children,<br>
-Love unto our flocks and kine,<br>
-Love of every earthly object<br>
-Is but love of our own Soul,<br>
-Know thy Self, and love thy Self,<br>
-Thou knowest all, thou lovest all !</div></div><h4 class="sec-h3">5.</h4><div class="prose-unit"><div class="verse-stanza">“Sound the drum, a music issues,—<br>
-Canst thou grasp that music bold ?<br>
-Blow the conch at festive season,<br>
-Its wild music canst thou hold ?<br>
-Strike the deep and sounding lyre,<br>
-Canst thou grasp its voice profound ?<br>
-But hold the drum, the conch, the lyre,<br>
-And you stop the uttered sound !</div></div><div class="page-rail-marker" id="page-106"><button type="button" class="folio-trigger" data-page="106" data-folio="68" data-scan="https://archive.org/download/laysofancientind00dutt/page/n105_w1400.jpg" aria-label="Inspect scan for page 68">[p. 68]</button></div><h4 class="sec-h3">6.</h4><div class="prose-unit"><div class="verse-stanza">“Love thy great and inner Self,<br>
-Know the one, the mighty Soul,<br>
-And thou lov’st the universe,<br>
-And in sooth thou knowest all !<br>
-From the fire a deep cloud issues,<br>
-Various-formed it floats on high,—<br>
-From the mighty Soul thus issues<br>
-Forms that people earth and sky !</div></div><h4 class="sec-h3">7.</h4><div class="prose-unit"><div class="verse-stanza">“He breathed forth the universe !<br>
-Vedas, Sâstras, all are His !<br>
-Senses and the inner souls,<br>
-Worlds, the mountains, and the seas !<br>
-Seest thou this transparent crystal ?<br>
-Like this, without form is He !<br>
-He breathed forth this universe !<br>
-And the worlds will in Him be !”</div></div><h4 class="sec-h3">8.</h4><div class="prose-unit"><div class="verse-stanza">“My love ! my lord !” Maitreyî said,<br>
-“Pardon, if I somewhat fail,—<br>
-Weak is woman’s sense and reason,—<br>
-And obscure the truth you tell.”<br>
-“Not so,” Yâjnavalkya answered,<br>
-“Not obscure, but clear to all,—<br>
-Clear as is the sun of midday<br>
-Is that great immortal Soul !</div></div><div class="page-rail-marker" id="page-107"><button type="button" class="folio-trigger" data-page="107" data-folio="69" data-scan="https://archive.org/download/laysofancientind00dutt/page/n106_w1400.jpg" aria-label="Inspect scan for page 69">[p. 69]</button></div><h4 class="sec-h3">9.</h4><div class="prose-unit"><div class="verse-stanza">“ Not from outer world distinct,—<br>
-Pervading all, embracing all,—<br>
-Is that one directing force,<br>
-Is that universal Soul !<br>
-Unseen, but ever manifest<br>
-In the worlds and oceans broad,<br>
-Ever present, knowing all,<br>
-He is Brahman ! He is God !”</div></div><div class="prose-unit"><p class="prose-p"><em>Abridged from Brihadâranyaka Upanishad</em>, IV. 5.</p></div>
+<div class="page-rail-marker" id="page-104"><button type="button" class="folio-trigger" data-page="104" data-folio="66" data-scan="https://archive.org/download/laysofancientind00dutt/page/n103_w1400.jpg" aria-label="Inspect scan for page 66">[p. 66]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">I.</span><br>
+<span class="line"><span class="sc">Unto</span> her,—his spouse beloved,—</span><br>
+<span class="line">Maitreyî the pious-hearted,—</span><br>
+<span class="line">Thus spoke learned Yâjnavalkya,</span><br>
+<span class="line">When to woods the saint departed.</span><br>
+<span class="line">“Maitreyî, my spouse beloved,</span><br>
+<span class="line">All my wealth and goods I leave,</span><br>
+<span class="line">Take thy own, thy proper portion,</span><br>
+<span class="line">Hers to Kâtyâyanî give!”</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">2</span><br>
+<span class="line">“Will thy wealth and worldly objects,”—</span><br>
+<span class="line">Spake the pious-hearted wife,—</span><br>
+<span class="line">“Lead me to salvation holy,</span><br>
+<span class="line">Lead me to immortal life?”</span><br>
+<span class="line">“Nay,” said learned Yâjnavalkya,</span><br>
+<span class="line">“Not unto immortal life,</span><br>
+<span class="line">But to life the rich man liveth</span><br>
+<span class="line">Wealth will lead thee, gentle wife.”</span></div></div><div class="page-rail-marker" id="page-105"><button type="button" class="folio-trigger" data-page="105" data-folio="67" data-scan="https://archive.org/download/laysofancientind00dutt/page/n104_w1400.jpg" aria-label="Inspect scan for page 67">[p. 67]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">3.</span><br>
+<span class="line">“Vain to me the things that perish,</span><br>
+<span class="line">Lead not to immortal life,—</span><br>
+<span class="line">That which leads to true salvation,</span><br>
+<span class="line">Grant that wealth unto your wife!”</span><br>
+<span class="line">“Ever dear,” said Yâjnavalkya,</span><br>
+<span class="line">“Dearer now thou art to me,</span><br>
+<span class="line">And the wealth which brings salvation,</span><br>
+<span class="line">I will grant that wealth to thee!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">4.</span><br>
+<span class="line">“Saintly love of man and woman,</span><br>
+<span class="line">Love unto our brother men,</span><br>
+<span class="line">Love of parents, love of children,</span><br>
+<span class="line">Love unto our flocks and kine,</span><br>
+<span class="line">Love of every earthly object</span><br>
+<span class="line">Is but love of our own Soul,</span><br>
+<span class="line">Know thy Self, and love thy Self,</span><br>
+<span class="line">Thou knowest all, thou lovest all!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">5.</span><br>
+<span class="line">“Sound the drum, a music issues,—</span><br>
+<span class="line">Canst thou grasp that music bold?</span><br>
+<span class="line">Blow the conch at festive season,</span><br>
+<span class="line">Its wild music canst thou hold?</span><br>
+<span class="line">Strike the deep and sounding lyre,</span><br>
+<span class="line">Canst thou grasp its voice profound?</span><br>
+<span class="line">But hold the drum, the conch, the lyre,</span><br>
+<span class="line">And you stop the uttered sound!</span></div></div><div class="page-rail-marker" id="page-106"><button type="button" class="folio-trigger" data-page="106" data-folio="68" data-scan="https://archive.org/download/laysofancientind00dutt/page/n105_w1400.jpg" aria-label="Inspect scan for page 68">[p. 68]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">6.</span><br>
+<span class="line">“Love thy great and inner Self,</span><br>
+<span class="line">Know the one, the mighty Soul,</span><br>
+<span class="line">And thou lov’st the universe,</span><br>
+<span class="line">And in sooth thou knowest all!</span><br>
+<span class="line">From the fire a deep cloud issues,</span><br>
+<span class="line">Various-formed it floats on high,—</span><br>
+<span class="line">From the mighty Soul thus issues</span><br>
+<span class="line">Forms that people earth and sky!</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">7.</span><br>
+<span class="line">“He breathed forth the universe!</span><br>
+<span class="line">Vedas, Sâstras, all are His!</span><br>
+<span class="line">Senses and the inner souls,</span><br>
+<span class="line">Worlds, the mountains, and the seas!</span><br>
+<span class="line">Seest thou this transparent crystal?</span><br>
+<span class="line">Like this, without form is He!</span><br>
+<span class="line">He breathed forth this universe!</span><br>
+<span class="line">And the worlds will in Him be!”</span></div></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">8.</span><br>
+<span class="line">“My love! my lord!” Maitreyî said,</span><br>
+<span class="line">“Pardon, if I somewhat fail,—</span><br>
+<span class="line">Weak is woman’s sense and reason,—</span><br>
+<span class="line">And obscure the truth you tell.”</span><br>
+<span class="line">“Not so,” Yâjnavalkya answered,</span><br>
+<span class="line">“Not obscure, but clear to all,—</span><br>
+<span class="line">Clear as is the sun of midday</span><br>
+<span class="line">Is that great immortal Soul!</span></div></div><div class="page-rail-marker" id="page-107"><button type="button" class="folio-trigger" data-page="107" data-folio="69" data-scan="https://archive.org/download/laysofancientind00dutt/page/n106_w1400.jpg" aria-label="Inspect scan for page 69">[p. 69]</button></div><div class="prose-unit"><div class="verse-stanza"><span class="stanza-no">9.</span><br>
+<span class="line">“Not from outer world distinct,—</span><br>
+<span class="line">Pervading all, embracing all,—</span><br>
+<span class="line">Is that one directing force,</span><br>
+<span class="line">Is that universal Soul!</span><br>
+<span class="line">Unseen, but ever manifest</span><br>
+<span class="line">In the worlds and oceans broad,</span><br>
+<span class="line">Ever present, knowing all,</span><br>
+<span class="line">He is Brahman! He is God!”</span></div></div><div class="prose-unit"><p class="prose-p"><em>Abridged from Brihadâranyaka Upanishad</em>, IV. 5.</p></div>

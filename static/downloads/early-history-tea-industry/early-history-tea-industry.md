@@ -8,13 +8,13 @@
 
 <!-- page: 3 | folio: 1 -->
 
-##### *For Private Circulation.*
+### *For Private Circulation.*
 
 
 ### *The* EARLY HISTORY of the TEA INDUSTRY in NORTH-EAST INDIA
 
 
-##### By HAROLD H. MANN, D.Sc.
+#### By HAROLD H. MANN, D.Sc.
 
 *Reprinted from the*
 BENGAL ECONOMIC JOURNAL
@@ -154,7 +154,7 @@ Thus six years after the Tea Committee was originally formed and experiments com
 
 <!-- page: 21 | folio: 19 -->
 
-#### II.
+### II.
 
 <span class="sc">In</span> my last article I traced the history of the tea industry in north-east India to the time when tea from the plantations in Assam was really on the market. This point was reached by the end of 1838 or the beginning of 1839, though the public were hardly satisfied of the soundness of the undertaking till a year or so later. At that time it must be remembered the whole of the so-called plantations in the Assam Valley, chiefly consisting of groups of indigenous tea plants in the jungle which had been cleared of other growth and weeds and had been cut down so as to form leaf-bearing bushes, were in the hands of Government under a Superintendent of tea culture. This Superintendent, Mr. C. A. Bruce, the real founder of tea cultivation in Assam, had opened out such areas in many places. Many of his gardens were near Dibrugarh, more near the Tingri and other smaller rivers in Upper Assam, others were at the foot of the Naga hills as far to the south-east as the well-known garden of Gabro Purbut.
 

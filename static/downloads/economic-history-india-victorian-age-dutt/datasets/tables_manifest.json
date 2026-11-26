@@ -1122,8 +1122,8 @@
       "end_page": 579,
       "printed_folio": "551",
       "column_count": 3,
-      "row_count": 5,
-      "tidy_observation_count": 10,
+      "row_count": 16,
+      "tidy_observation_count": 32,
       "arithmetic_verified": false,
       "arithmetic_status": "no_total_row"
     },

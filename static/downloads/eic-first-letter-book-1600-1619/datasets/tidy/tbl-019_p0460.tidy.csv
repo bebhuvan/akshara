@@ -1,5 +1,0 @@
-book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-eic-first-letter-book-1600-1619,tbl-019,Example.,460,368,1,data,,12000 make 33000 is 2½ proffitt the pm̄tion 5 p̄ Cent is,2,Column 2,1650,1650.0,,False,False
-eic-first-letter-book-1600-1619,tbl-019,Example.,460,368,2,data,,"14000 make 33000 is 2 proffitt, the prom̄tio 4 p̄ Centū is — y",2,Column 2,1320,1320.0,,False,False
-eic-first-letter-book-1600-1619,tbl-019,Example.,460,368,3,data,,The difference is,2,Column 2,y 330,,,False,False
-eic-first-letter-book-1600-1619,tbl-019,Example.,460,368,4,data,,thone halfe is,2,Column 2,y 165,,,False,False

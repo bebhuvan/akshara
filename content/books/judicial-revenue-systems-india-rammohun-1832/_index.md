@@ -1,6 +1,6 @@
 ---
 title: "Exposition of the Practical Operation of the Judicial and Revenue Systems of India"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "And of the General Character and Condition of Its Native Inhabitants, as Submitted in Evidence to the Authorities in England"
 author: "Rammohun Roy"
 author_slug: "raja-rammohun-roy"
@@ -87,7 +87,7 @@ tables_list:
   - table_id: "tbl-001"
     caption: "BENGAL CIVIL OFFICES."
     printed_folio: "120"
-    rows: 17
+    rows: 19
     cols: 3
     diplomatic_csv: "/downloads/judicial-revenue-systems-india-rammohun-1832/datasets/tables/tbl-001_p0144.csv"
     tidy_csv: "/downloads/judicial-revenue-systems-india-rammohun-1832/datasets/tidy/tbl-001_p0144.tidy.csv"
@@ -130,6 +130,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (50 flyleaf/stamp block(s)) are excluded from reading prose; **91** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **2** multi-page tables were stitched; and **693** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (8 distinct non-ASCII characters across 21 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**109** places); **58** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

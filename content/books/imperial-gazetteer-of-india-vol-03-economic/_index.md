@@ -1,6 +1,6 @@
 ---
 title: "The Imperial Gazetteer of India: The Indian Empire, Vol. III — Economic"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "New Edition, Published under the Authority of His Majesty's Secretary of State for India in Council"
 author: "Great Britain. India Office"
 author_slug: "great-britain-india-office"
@@ -45,7 +45,7 @@ provenance_statement: "Automated reading (9 open review items); 24 of 561 pages 
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 74 fixes · 24 pp. checked"
+  - "Scan-Triaged: 82 fixes · 24 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 33/38 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -168,7 +168,7 @@ tables_list:
   - table_id: "tbl-011"
     caption: "Table 11"
     printed_folio: "129"
-    rows: 18
+    rows: 17
     cols: 5
     diplomatic_csv: "/downloads/imperial-gazetteer-of-india-vol-03-economic/datasets/tables/tbl-011_p0171.csv"
     tidy_csv: "/downloads/imperial-gazetteer-of-india-vol-03-economic/datasets/tidy/tbl-011_p0171.tidy.csv"
@@ -345,14 +345,15 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (193 flyleaf/stamp block(s)) are excluded from reading prose; **386** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **1** cross-page split footnotes and **4** multi-page tables were stitched; and **1896** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (193 flyleaf/stamp block(s)) are excluded from reading prose; **384** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **3** cross-page split footnotes and **4** multi-page tables were stitched; and **1896** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (25 distinct non-ASCII characters across 434 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**367** places); **293** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (561 pp.).
   - **Reader**: Read by gemini-3.8-flash on 561 of 561 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 74 replayed correction(s). Automated reading (9 open review items); 24 of 561 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 82 replayed correction(s). Automated reading (9 open review items); 24 of 561 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

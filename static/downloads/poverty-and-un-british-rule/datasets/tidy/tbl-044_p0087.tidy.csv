@@ -1,0 +1,57 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,2,Price per lb. :: d.,12,12.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,3,Years. :: s.,9,9.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,4,Price per lb. :: d.,1860,1860.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,5,Years. :: s.,20,20.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,6,Price per lb. :: d.,2,2.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,7,Column 7,1865,1865.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,8,Column 8,23,23.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,1,data,,1855,9,Column 9,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,2,Price per lb. :: d.,18,18.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,3,Years. :: s.,10,10.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,4,Price per lb. :: d.,1861,1861.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,5,Years. :: s.,16,16.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,6,Price per lb. :: d.,10,10.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,7,Column 7,1866,1866.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,8,Column 8,22,22.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,2,data,,1856,9,Column 9,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,2,Price per lb. :: d.,19,19.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,3,Years. :: s.,8,8.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,4,Price per lb. :: d.,1862,1862.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,5,Years. :: s.,18,18.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,6,Price per lb. :: d.,8,8.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,7,Column 7,1867,1867.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,8,Column 8,21,21.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,3,data,,1857,9,Column 9,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,2,Price per lb. :: d.,17,17.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,3,Years. :: s.,8,8.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,4,Price per lb. :: d.,1863,1863.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,5,Years. :: s.,18,18.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,6,Price per lb. :: d.,8,8.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,7,Column 7,1868,1868.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,8,Column 8,23,23.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,4,data,,1858,9,Column 9,8,8.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,2,Price per lb. :: d.,19,19.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,3,Years. :: s.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,4,Price per lb. :: d.,1864,1864.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,5,Years. :: s.,18,18.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,6,Price per lb. :: d.,5,5.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,7,Column 7,1869,1869.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,8,Column 8,23,23.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,5,data,,1859,9,Column 9,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,2,Price per lb. :: d.,,,lbs,True,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,3,Years. :: s.,,,,True,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,4,Price per lb. :: d.,,,lbs,True,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,5,Years. :: s.,,,,True,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,6,Price per lb. :: d.,,,lbs,True,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,7,Column 7,1870,1870.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,8,Column 8,22,22.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,6,data,,Row 6,9,Column 9,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,2,Price per lb. :: d.,17,17.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,3,Years. :: s.,7,7.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,4,Price per lb. :: d.,Average.,,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,5,Years. :: s.,18,18.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,6,Price per lb. :: d.,7,7.0,lbs,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,7,Column 7,Average.,,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,8,Column 8,22,22.0,,False,True
+poverty-and-un-british-rule,tbl-044,Table 44,87,67,7,summary,,Average,9,Column 9,7⅓,7.333333,,False,True

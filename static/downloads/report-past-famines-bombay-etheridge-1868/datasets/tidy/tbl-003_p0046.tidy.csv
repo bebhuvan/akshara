@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-003,Table 3,46,34,1,data,,“ The extent of country affected by the general famines was,2,Square Miles.,5414,5414.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-003,Table 3,46,34,2,data,,“ The extent of country affected by the famine of 1861 to 1865,2,Square Miles.,5414.,5414.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-003,Table 3,46,34,3,data,,“ The extent of country affected by the partial famines about,2,Square Miles.,2707,2707.0,,False,False

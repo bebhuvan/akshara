@@ -4,8 +4,9 @@
   "title": "Report on Past Famines in the Bombay Presidency — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -101,14 +102,14 @@
     },
     {
       "name": "tbl-002-diplomatic",
-      "title": "Statement shewing the prices of grain, &c., in the Town of Bhooj for as many taken from the Family Account Books of private individuals, viz., (Diplomatic Matrix)",
+      "title": "Statement shewing the prices of grain, &c., in the Town of Bhooj for as many taken from the Family Account Books of private individuals, viz., -years from Sumvut 1802 (A. D. 1745) as for which accounts are forthcoming, Meta Khanjee Gowree-shunker and Metta Dulputram Vittuljee. (Diplomatic Matrix)",
       "path": "tables/tbl-002_p0040.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-002-tidy",
-      "title": "Statement shewing the prices of grain, &c., in the Town of Bhooj for as many taken from the Family Account Books of private individuals, viz., (Tidy Observations)",
+      "title": "Statement shewing the prices of grain, &c., in the Town of Bhooj for as many taken from the Family Account Books of private individuals, viz., -years from Sumvut 1802 (A. D. 1745) as for which accounts are forthcoming, Meta Khanjee Gowree-shunker and Metta Dulputram Vittuljee. (Tidy Observations)",
       "path": "tidy/tbl-002_p0040.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -183,15 +184,15 @@
     },
     {
       "name": "tbl-003-diplomatic",
-      "title": "a Rupee in Sumvut (Diplomatic Matrix)",
-      "path": "tables/tbl-003_p0043.csv",
+      "title": "Table 3 (Diplomatic Matrix)",
+      "path": "tables/tbl-003_p0046.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-003-tidy",
-      "title": "a Rupee in Sumvut (Tidy Observations)",
-      "path": "tidy/tbl-003_p0043.tidy.csv",
+      "title": "Table 3 (Tidy Observations)",
+      "path": "tidy/tbl-003_p0046.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -266,14 +267,14 @@
     {
       "name": "tbl-004-diplomatic",
       "title": "Table 4 (Diplomatic Matrix)",
-      "path": "tables/tbl-004_p0046.csv",
+      "path": "tables/tbl-004_p0050.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-004-tidy",
       "title": "Table 4 (Tidy Observations)",
-      "path": "tidy/tbl-004_p0046.tidy.csv",
+      "path": "tidy/tbl-004_p0050.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -347,15 +348,15 @@
     },
     {
       "name": "tbl-005-diplomatic",
-      "title": "Table 5 (Diplomatic Matrix)",
-      "path": "tables/tbl-005_p0050.csv",
+      "title": "Talooka Daskrohie. Kutcha Seers per Rupee. (Diplomatic Matrix)",
+      "path": "tables/tbl-005_p0058.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-005-tidy",
-      "title": "Table 5 (Tidy Observations)",
-      "path": "tidy/tbl-005_p0050.tidy.csv",
+      "title": "Talooka Daskrohie. Kutcha Seers per Rupee. (Tidy Observations)",
+      "path": "tidy/tbl-005_p0058.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -429,14 +430,14 @@
     },
     {
       "name": "tbl-006-diplomatic",
-      "title": "Talooka Daskrohie. Kutcha Seers per Rupee. (Diplomatic Matrix)",
+      "title": "Talooka Sanund. Price per Kutcha Maund. (Diplomatic Matrix)",
       "path": "tables/tbl-006_p0058.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-006-tidy",
-      "title": "Talooka Daskrohie. Kutcha Seers per Rupee. (Tidy Observations)",
+      "title": "Talooka Sanund. Price per Kutcha Maund. (Tidy Observations)",
       "path": "tidy/tbl-006_p0058.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -511,15 +512,15 @@
     },
     {
       "name": "tbl-007-diplomatic",
-      "title": "Talooka Sanund. Price per Kutcha Maund. (Diplomatic Matrix)",
-      "path": "tables/tbl-007_p0058.csv",
+      "title": "Talooka Dholka. Price per Kutcha Maund. (Diplomatic Matrix)",
+      "path": "tables/tbl-007_p0059.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-007-tidy",
-      "title": "Talooka Sanund. Price per Kutcha Maund. (Tidy Observations)",
-      "path": "tidy/tbl-007_p0058.tidy.csv",
+      "title": "Talooka Dholka. Price per Kutcha Maund. (Tidy Observations)",
+      "path": "tidy/tbl-007_p0059.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -593,14 +594,14 @@
     },
     {
       "name": "tbl-008-diplomatic",
-      "title": "Talooka Dholka. Price per Kutcha Maund. (Diplomatic Matrix)",
+      "title": "Talooka Veerumgaum. Price per Kutcha Maund. (Diplomatic Matrix)",
       "path": "tables/tbl-008_p0059.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-008-tidy",
-      "title": "Talooka Dholka. Price per Kutcha Maund. (Tidy Observations)",
+      "title": "Talooka Veerumgaum. Price per Kutcha Maund. (Tidy Observations)",
       "path": "tidy/tbl-008_p0059.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -675,15 +676,15 @@
     },
     {
       "name": "tbl-009-diplomatic",
-      "title": "Talooka Veerumgaum. Price per Kutcha Maund. (Diplomatic Matrix)",
-      "path": "tables/tbl-009_p0059.csv",
+      "title": "Talooka Dhundooka. Price per Kutcha Maund. (Diplomatic Matrix)",
+      "path": "tables/tbl-009_p0060.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-009-tidy",
-      "title": "Talooka Veerumgaum. Price per Kutcha Maund. (Tidy Observations)",
-      "path": "tidy/tbl-009_p0059.tidy.csv",
+      "title": "Talooka Dhundooka. Price per Kutcha Maund. (Tidy Observations)",
+      "path": "tidy/tbl-009_p0060.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -757,14 +758,14 @@
     },
     {
       "name": "tbl-010-diplomatic",
-      "title": "Talooka Dhundooka. Price per Kutcha Maund. (Diplomatic Matrix)",
+      "title": "Talooka Purantej. Price per Kutcha Maund. (Diplomatic Matrix)",
       "path": "tables/tbl-010_p0060.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-010-tidy",
-      "title": "Talooka Dhundooka. Price per Kutcha Maund. (Tidy Observations)",
+      "title": "Talooka Purantej. Price per Kutcha Maund. (Tidy Observations)",
       "path": "tidy/tbl-010_p0060.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -839,15 +840,15 @@
     },
     {
       "name": "tbl-011-diplomatic",
-      "title": "Talooka Purantej. Price per Kutcha Maund. (Diplomatic Matrix)",
-      "path": "tables/tbl-011_p0060.csv",
+      "title": "Prices per Kutcha Maund. (Diplomatic Matrix)",
+      "path": "tables/tbl-011_p0061.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-011-tidy",
-      "title": "Talooka Purantej. Price per Kutcha Maund. (Tidy Observations)",
-      "path": "tidy/tbl-011_p0060.tidy.csv",
+      "title": "Prices per Kutcha Maund. (Tidy Observations)",
+      "path": "tidy/tbl-011_p0061.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -921,14 +922,14 @@
     },
     {
       "name": "tbl-012-diplomatic",
-      "title": "Prices per Kutcha Maund. (Diplomatic Matrix)",
+      "title": "Number of Seers per Rupee. (Diplomatic Matrix)",
       "path": "tables/tbl-012_p0061.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-012-tidy",
-      "title": "Prices per Kutcha Maund. (Tidy Observations)",
+      "title": "Number of Seers per Rupee. (Tidy Observations)",
       "path": "tidy/tbl-012_p0061.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -1003,15 +1004,15 @@
     },
     {
       "name": "tbl-013-diplomatic",
-      "title": "Number of Seers per Rupee. (Diplomatic Matrix)",
-      "path": "tables/tbl-013_p0061.csv",
+      "title": "List shewing the prices at which pro- visions were sold during the year 1791-92 for one Rupee. | List of prices at which grain, &c., were sold during the year 1813-14 for one Rupee. (Diplomatic Matrix)",
+      "path": "tables/tbl-013_p0063.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-013-tidy",
-      "title": "Number of Seers per Rupee. (Tidy Observations)",
-      "path": "tidy/tbl-013_p0061.tidy.csv",
+      "title": "List shewing the prices at which pro- visions were sold during the year 1791-92 for one Rupee. | List of prices at which grain, &c., were sold during the year 1813-14 for one Rupee. (Tidy Observations)",
+      "path": "tidy/tbl-013_p0063.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1085,15 +1086,15 @@
     },
     {
       "name": "tbl-014-diplomatic",
-      "title": "List shewing the prices at which pro- visions were sold during the year 1791-92 for one Rupee. | List of prices at which grain, &c., were sold during the year 1813-14 for one Rupee. (Diplomatic Matrix)",
-      "path": "tables/tbl-014_p0063.csv",
+      "title": "Table 14 (Diplomatic Matrix)",
+      "path": "tables/tbl-014_p0066.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-014-tidy",
-      "title": "List shewing the prices at which pro- visions were sold during the year 1791-92 for one Rupee. | List of prices at which grain, &c., were sold during the year 1813-14 for one Rupee. (Tidy Observations)",
-      "path": "tidy/tbl-014_p0063.tidy.csv",
+      "title": "Table 14 (Tidy Observations)",
+      "path": "tidy/tbl-014_p0066.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1168,14 +1169,14 @@
     {
       "name": "tbl-015-diplomatic",
       "title": "Table 15 (Diplomatic Matrix)",
-      "path": "tables/tbl-015_p0066.csv",
+      "path": "tables/tbl-015_p0067.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-015-tidy",
       "title": "Table 15 (Tidy Observations)",
-      "path": "tidy/tbl-015_p0066.tidy.csv",
+      "path": "tidy/tbl-015_p0067.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1331,15 +1332,15 @@
     },
     {
       "name": "tbl-017-diplomatic",
-      "title": "Table 17 (Diplomatic Matrix)",
-      "path": "tables/tbl-017_p0067.csv",
+      "title": "Reported Highest Prices of Grain in Broach from A. D. 1810 to 1820. Per Kulsee of 16 Maunds, or 640 Seers. (Diplomatic Matrix)",
+      "path": "tables/tbl-017_p0069.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-017-tidy",
-      "title": "Table 17 (Tidy Observations)",
-      "path": "tidy/tbl-017_p0067.tidy.csv",
+      "title": "Reported Highest Prices of Grain in Broach from A. D. 1810 to 1820. Per Kulsee of 16 Maunds, or 640 Seers. (Tidy Observations)",
+      "path": "tidy/tbl-017_p0069.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1413,15 +1414,15 @@
     },
     {
       "name": "tbl-018-diplomatic",
-      "title": "Reported Highest Prices of Grain in Broach from A. D. 1810 to 1820. Per Kulsee of 16 Maunds, or 640 Seers. (Diplomatic Matrix)",
-      "path": "tables/tbl-018_p0069.csv",
+      "title": "“Famine Report of the Pergunnahs of Olpar and Unclesir, including Hansote. (Diplomatic Matrix)",
+      "path": "tables/tbl-018_p0072.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-018-tidy",
-      "title": "Reported Highest Prices of Grain in Broach from A. D. 1810 to 1820. Per Kulsee of 16 Maunds, or 640 Seers. (Tidy Observations)",
-      "path": "tidy/tbl-018_p0069.tidy.csv",
+      "title": "“Famine Report of the Pergunnahs of Olpar and Unclesir, including Hansote. (Tidy Observations)",
+      "path": "tidy/tbl-018_p0072.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1495,15 +1496,15 @@
     },
     {
       "name": "tbl-019-diplomatic",
-      "title": "“Famine Report of the Pergunnahs of Olpar and Unclesir, including Hansote. (Diplomatic Matrix)",
-      "path": "tables/tbl-019_p0072.csv",
+      "title": "Table 19 (Diplomatic Matrix)",
+      "path": "tables/tbl-019_p0087.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-019-tidy",
-      "title": "“Famine Report of the Pergunnahs of Olpar and Unclesir, including Hansote. (Tidy Observations)",
-      "path": "tidy/tbl-019_p0072.tidy.csv",
+      "title": "Table 19 (Tidy Observations)",
+      "path": "tidy/tbl-019_p0087.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1577,15 +1578,15 @@
     },
     {
       "name": "tbl-020-diplomatic",
-      "title": "Table 20 (Diplomatic Matrix)",
-      "path": "tables/tbl-020_p0087.csv",
+      "title": "Statement showing the rates at which grain was sold at Khurda, a well-known trading town in the Jamkheir Talooka of the Ahmednuggur Collectorate, during the famine which is said to have taken place during the years 1803 and 1804, found in the account books of Babajee Siwalal Marwaree and Vittul Bapoojce Takbhatay. (Diplomatic Matrix)",
+      "path": "tables/tbl-020_p0095.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-020-tidy",
-      "title": "Table 20 (Tidy Observations)",
-      "path": "tidy/tbl-020_p0087.tidy.csv",
+      "title": "Statement showing the rates at which grain was sold at Khurda, a well-known trading town in the Jamkheir Talooka of the Ahmednuggur Collectorate, during the famine which is said to have taken place during the years 1803 and 1804, found in the account books of Babajee Siwalal Marwaree and Vittul Bapoojce Takbhatay. (Tidy Observations)",
+      "path": "tidy/tbl-020_p0095.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1659,15 +1660,15 @@
     },
     {
       "name": "tbl-021-diplomatic",
-      "title": "Statement showing the rates at which grain was sold at Khurda, a well-known trading town in the Jamkheir Talooka of the Ahmednuggur Collectorate, during the famine which is said to have taken place during the years 1803 and 1804, found in the account books of Babajee Siwalal Marwaree and Vittul Bapoojce Takbhatay. (Diplomatic Matrix)",
-      "path": "tables/tbl-021_p0095.csv",
+      "title": "Table 21 (Diplomatic Matrix)",
+      "path": "tables/tbl-021_p0096.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-021-tidy",
-      "title": "Statement showing the rates at which grain was sold at Khurda, a well-known trading town in the Jamkheir Talooka of the Ahmednuggur Collectorate, during the famine which is said to have taken place during the years 1803 and 1804, found in the account books of Babajee Siwalal Marwaree and Vittul Bapoojce Takbhatay. (Tidy Observations)",
-      "path": "tidy/tbl-021_p0095.tidy.csv",
+      "title": "Table 21 (Tidy Observations)",
+      "path": "tidy/tbl-021_p0096.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1742,14 +1743,14 @@
     {
       "name": "tbl-022-diplomatic",
       "title": "Table 22 (Diplomatic Matrix)",
-      "path": "tables/tbl-022_p0096.csv",
+      "path": "tables/tbl-022_p0097.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-022-tidy",
       "title": "Table 22 (Tidy Observations)",
-      "path": "tidy/tbl-022_p0096.tidy.csv",
+      "path": "tidy/tbl-022_p0097.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1824,14 +1825,14 @@
     {
       "name": "tbl-023-diplomatic",
       "title": "Table 23 (Diplomatic Matrix)",
-      "path": "tables/tbl-023_p0097.csv",
+      "path": "tables/tbl-023_p0122.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-023-tidy",
       "title": "Table 23 (Tidy Observations)",
-      "path": "tidy/tbl-023_p0097.tidy.csv",
+      "path": "tidy/tbl-023_p0122.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1906,14 +1907,14 @@
     {
       "name": "tbl-024-diplomatic",
       "title": "Table 24 (Diplomatic Matrix)",
-      "path": "tables/tbl-024_p0122.csv",
+      "path": "tables/tbl-024_p0125.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-024-tidy",
       "title": "Table 24 (Tidy Observations)",
-      "path": "tidy/tbl-024_p0122.tidy.csv",
+      "path": "tidy/tbl-024_p0125.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1988,14 +1989,14 @@
     {
       "name": "tbl-025-diplomatic",
       "title": "Table 25 (Diplomatic Matrix)",
-      "path": "tables/tbl-025_p0125.csv",
+      "path": "tables/tbl-025_p0126.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-025-tidy",
       "title": "Table 25 (Tidy Observations)",
-      "path": "tidy/tbl-025_p0125.tidy.csv",
+      "path": "tidy/tbl-025_p0126.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2151,15 +2152,15 @@
     },
     {
       "name": "tbl-027-diplomatic",
-      "title": "Table 27 (Diplomatic Matrix)",
-      "path": "tables/tbl-027_p0126.csv",
+      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late were under the direct management of the Peishwa, and which may, for present purposes, be and SURAT, as now constituted. (Diplomatic Matrix)",
+      "path": "tables/tbl-027_p0170.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-027-tidy",
-      "title": "Table 27 (Tidy Observations)",
-      "path": "tidy/tbl-027_p0126.tidy.csv",
+      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late were under the direct management of the Peishwa, and which may, for present purposes, be and SURAT, as now constituted. (Tidy Observations)",
+      "path": "tidy/tbl-027_p0170.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2233,15 +2234,15 @@
     },
     {
       "name": "tbl-028-diplomatic",
-      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late were under the direct management of the Peishwa, and which may, for present purposes, be and SURAT, as now constituted. (Diplomatic Matrix)",
-      "path": "tables/tbl-028_p0170.csv",
+      "title": "the extent that the records furnish evidence. (Diplomatic Matrix)",
+      "path": "tables/tbl-028_p0171.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-028-tidy",
-      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late were under the direct management of the Peishwa, and which may, for present purposes, be and SURAT, as now constituted. (Tidy Observations)",
-      "path": "tidy/tbl-028_p0170.tidy.csv",
+      "title": "the extent that the records furnish evidence. (Tidy Observations)",
+      "path": "tidy/tbl-028_p0171.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2315,15 +2316,15 @@
     },
     {
       "name": "tbl-029-diplomatic",
-      "title": "the extent that the records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-029_p0171.csv",
+      "title": "Prices of Grain, &c., per rupee to (Diplomatic Matrix)",
+      "path": "tables/tbl-029_p0172.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-029-tidy",
-      "title": "the extent that the records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-029_p0171.tidy.csv",
+      "title": "Prices of Grain, &c., per rupee to (Tidy Observations)",
+      "path": "tidy/tbl-029_p0172.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2397,15 +2398,15 @@
     },
     {
       "name": "tbl-030-diplomatic",
-      "title": "Prices of Grain, &c., per rupee to (Diplomatic Matrix)",
-      "path": "tables/tbl-030_p0172.csv",
+      "title": "the extent that the records furnish evidence. (Diplomatic Matrix)",
+      "path": "tables/tbl-030_p0173.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-030-tidy",
-      "title": "Prices of Grain, &c., per rupee to (Tidy Observations)",
-      "path": "tidy/tbl-030_p0172.tidy.csv",
+      "title": "the extent that the records furnish evidence. (Tidy Observations)",
+      "path": "tidy/tbl-030_p0173.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2479,15 +2480,15 @@
     },
     {
       "name": "tbl-031-diplomatic",
-      "title": "the extent that the records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-031_p0173.csv",
+      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the late Govern- with the limits of the present Khandeish Collectorate. (Diplomatic Matrix)",
+      "path": "tables/tbl-031_p0174.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-031-tidy",
-      "title": "the extent that the records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-031_p0173.tidy.csv",
+      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the late Govern- with the limits of the present Khandeish Collectorate. (Tidy Observations)",
+      "path": "tidy/tbl-031_p0174.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2561,15 +2562,15 @@
     },
     {
       "name": "tbl-032-diplomatic",
-      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the late Govern- with the limits of the present Khandeish Collectorate. (Diplomatic Matrix)",
-      "path": "tables/tbl-032_p0174.csv",
+      "title": "extent that the Records furnish evidence. (Diplomatic Matrix)",
+      "path": "tables/tbl-032_p0177.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-032-tidy",
-      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the late Govern- with the limits of the present Khandeish Collectorate. (Tidy Observations)",
-      "path": "tidy/tbl-032_p0174.tidy.csv",
+      "title": "extent that the Records furnish evidence. (Tidy Observations)",
+      "path": "tidy/tbl-032_p0177.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2643,15 +2644,15 @@
     },
     {
       "name": "tbl-033-diplomatic",
-      "title": "extent that the Records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-033_p0177.csv",
+      "title": "extent that the records furnish evidence. (Diplomatic Matrix)",
+      "path": "tables/tbl-033_p0179.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-033-tidy",
-      "title": "extent that the Records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-033_p0177.tidy.csv",
+      "title": "extent that the records furnish evidence. (Tidy Observations)",
+      "path": "tidy/tbl-033_p0179.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2725,15 +2726,15 @@
     },
     {
       "name": "tbl-034-diplomatic",
-      "title": "extent that the records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-034_p0179.csv",
+      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late Govern- with the limits of the present (Diplomatic Matrix)",
+      "path": "tables/tbl-034_p0180.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-034-tidy",
-      "title": "extent that the records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-034_p0179.tidy.csv",
+      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late Govern- with the limits of the present (Tidy Observations)",
+      "path": "tidy/tbl-034_p0180.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2807,15 +2808,15 @@
     },
     {
       "name": "tbl-035-diplomatic",
-      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late Govern- with the limits of the present (Diplomatic Matrix)",
-      "path": "tables/tbl-035_p0180.csv",
+      "title": "Table 35 (Diplomatic Matrix)",
+      "path": "tables/tbl-035_p0181.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-035-tidy",
-      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late Govern- with the limits of the present (Tidy Observations)",
-      "path": "tidy/tbl-035_p0180.tidy.csv",
+      "title": "Table 35 (Tidy Observations)",
+      "path": "tidy/tbl-035_p0181.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2889,15 +2890,15 @@
     },
     {
       "name": "tbl-036-diplomatic",
-      "title": "Table 36 (Diplomatic Matrix)",
-      "path": "tables/tbl-036_p0181.csv",
+      "title": "Prices of Grain, &c., per rupee (Diplomatic Matrix)",
+      "path": "tables/tbl-036_p0182.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-036-tidy",
-      "title": "Table 36 (Tidy Observations)",
-      "path": "tidy/tbl-036_p0181.tidy.csv",
+      "title": "Prices of Grain, &c., per rupee (Tidy Observations)",
+      "path": "tidy/tbl-036_p0182.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2971,15 +2972,15 @@
     },
     {
       "name": "tbl-037-diplomatic",
-      "title": "Prices of Grain, &c., per rupee (Diplomatic Matrix)",
-      "path": "tables/tbl-037_p0182.csv",
+      "title": "to the extent that the records furnish evidence. (Diplomatic Matrix)",
+      "path": "tables/tbl-037_p0183.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-037-tidy",
-      "title": "Prices of Grain, &c., per rupee (Tidy Observations)",
-      "path": "tidy/tbl-037_p0182.tidy.csv",
+      "title": "to the extent that the records furnish evidence. (Tidy Observations)",
+      "path": "tidy/tbl-037_p0183.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3053,15 +3054,15 @@
     },
     {
       "name": "tbl-038-diplomatic",
-      "title": "to the extent that the records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-038_p0183.csv",
+      "title": "SHOWING the PRICES of GRAIN, &c., and REMISSIONS of REVENUE, during JOONEER, Districts nearly corresponding with the (Diplomatic Matrix)",
+      "path": "tables/tbl-038_p0184.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-038-tidy",
-      "title": "to the extent that the records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-038_p0183.tidy.csv",
+      "title": "SHOWING the PRICES of GRAIN, &c., and REMISSIONS of REVENUE, during JOONEER, Districts nearly corresponding with the (Tidy Observations)",
+      "path": "tidy/tbl-038_p0184.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3135,15 +3136,15 @@
     },
     {
       "name": "tbl-039-diplomatic",
-      "title": "SHOWING the PRICES of GRAIN, &c., and REMISSIONS of REVENUE, during JOONEER, Districts nearly corresponding with the (Diplomatic Matrix)",
-      "path": "tables/tbl-039_p0184.csv",
+      "title": "Prices of Grain, &c., per rupee to the (Diplomatic Matrix)",
+      "path": "tables/tbl-039_p0186.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-039-tidy",
-      "title": "SHOWING the PRICES of GRAIN, &c., and REMISSIONS of REVENUE, during JOONEER, Districts nearly corresponding with the (Tidy Observations)",
-      "path": "tidy/tbl-039_p0184.tidy.csv",
+      "title": "Prices of Grain, &c., per rupee to the (Tidy Observations)",
+      "path": "tidy/tbl-039_p0186.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3217,15 +3218,15 @@
     },
     {
       "name": "tbl-040-diplomatic",
-      "title": "Prices of Grain, &c., per rupee to the (Diplomatic Matrix)",
-      "path": "tables/tbl-040_p0186.csv",
+      "title": "Table 40 (Diplomatic Matrix)",
+      "path": "tables/tbl-040_p0187.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-040-tidy",
-      "title": "Prices of Grain, &c., per rupee to the (Tidy Observations)",
-      "path": "tidy/tbl-040_p0186.tidy.csv",
+      "title": "Table 40 (Tidy Observations)",
+      "path": "tidy/tbl-040_p0187.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3299,15 +3300,15 @@
     },
     {
       "name": "tbl-041-diplomatic",
-      "title": "Table 41 (Diplomatic Matrix)",
-      "path": "tables/tbl-041_p0187.csv",
+      "title": "extent that the Records furnish evidence. (Diplomatic Matrix)",
+      "path": "tables/tbl-041_p0189.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-041-tidy",
-      "title": "Table 41 (Tidy Observations)",
-      "path": "tidy/tbl-041_p0187.tidy.csv",
+      "title": "extent that the Records furnish evidence. (Tidy Observations)",
+      "path": "tidy/tbl-041_p0189.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3381,15 +3382,15 @@
     },
     {
       "name": "tbl-042-diplomatic",
-      "title": "extent that the Records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-042_p0189.csv",
+      "title": "Table 42 (Diplomatic Matrix)",
+      "path": "tables/tbl-042_p0190.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-042-tidy",
-      "title": "extent that the Records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-042_p0189.tidy.csv",
+      "title": "Table 42 (Tidy Observations)",
+      "path": "tidy/tbl-042_p0190.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3463,15 +3464,15 @@
     },
     {
       "name": "tbl-043-diplomatic",
-      "title": "Table 43 (Diplomatic Matrix)",
-      "path": "tables/tbl-043_p0190.csv",
+      "title": "Prices of Grain, &c., per rupee to (Diplomatic Matrix)",
+      "path": "tables/tbl-043_p0191.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-043-tidy",
-      "title": "Table 43 (Tidy Observations)",
-      "path": "tidy/tbl-043_p0190.tidy.csv",
+      "title": "Prices of Grain, &c., per rupee to (Tidy Observations)",
+      "path": "tidy/tbl-043_p0191.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3545,15 +3546,15 @@
     },
     {
       "name": "tbl-044-diplomatic",
-      "title": "Prices of Grain, &c., per rupee to (Diplomatic Matrix)",
-      "path": "tables/tbl-044_p0191.csv",
+      "title": "Table 44 (Diplomatic Matrix)",
+      "path": "tables/tbl-044_p0193.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-044-tidy",
-      "title": "Prices of Grain, &c., per rupee to (Tidy Observations)",
-      "path": "tidy/tbl-044_p0191.tidy.csv",
+      "title": "Table 44 (Tidy Observations)",
+      "path": "tidy/tbl-044_p0193.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3627,15 +3628,15 @@
     },
     {
       "name": "tbl-045-diplomatic",
-      "title": "the late Government in the years of scarcity specified, in the Prants Poona and limits of the present Poona Collectorate. of the Peishwa; there is no information respecting Jagheer and Surinjam Mahals. (Diplomatic Matrix)",
-      "path": "tables/tbl-045_p0193.csv",
+      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the. late nearly corresponding with the limits of the (Diplomatic Matrix)",
+      "path": "tables/tbl-045_p0194.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-045-tidy",
-      "title": "the late Government in the years of scarcity specified, in the Prants Poona and limits of the present Poona Collectorate. of the Peishwa; there is no information respecting Jagheer and Surinjam Mahals. (Tidy Observations)",
-      "path": "tidy/tbl-045_p0193.tidy.csv",
+      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the. late nearly corresponding with the limits of the (Tidy Observations)",
+      "path": "tidy/tbl-045_p0194.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3709,15 +3710,15 @@
     },
     {
       "name": "tbl-046-diplomatic",
-      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the. late nearly corresponding with the limits of the (Diplomatic Matrix)",
-      "path": "tables/tbl-046_p0194.csv",
+      "title": "the extent that the records furnish evidence. (Diplomatic Matrix)",
+      "path": "tables/tbl-046_p0195.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-046-tidy",
-      "title": "Showing the Prices of Grain, &c., and Remissions of Revenue, during the. late nearly corresponding with the limits of the (Tidy Observations)",
-      "path": "tidy/tbl-046_p0194.tidy.csv",
+      "title": "the extent that the records furnish evidence. (Tidy Observations)",
+      "path": "tidy/tbl-046_p0195.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3791,15 +3792,15 @@
     },
     {
       "name": "tbl-047-diplomatic",
-      "title": "the extent that the records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-047_p0195.csv",
+      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late Government, under the direct management of the Peishwa, and which may, for present purposes, be termed BELGAUM, and DHARWAR, as now constituted. (Diplomatic Matrix)",
+      "path": "tables/tbl-047_p0196.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-047-tidy",
-      "title": "the extent that the records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-047_p0195.tidy.csv",
+      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late Government, under the direct management of the Peishwa, and which may, for present purposes, be termed BELGAUM, and DHARWAR, as now constituted. (Tidy Observations)",
+      "path": "tidy/tbl-047_p0196.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3873,15 +3874,15 @@
     },
     {
       "name": "tbl-048-diplomatic",
-      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late Government, under the direct management of the Peishwa, and which may, for present purposes, be termed BELGAUM, and DHARWAR, as now constituted. (Diplomatic Matrix)",
-      "path": "tables/tbl-048_p0196.csv",
+      "title": "Table 48 (Diplomatic Matrix)",
+      "path": "tables/tbl-048_p0197.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-048-tidy",
-      "title": "SHOWING the PRICES OF GRAIN, &c., and REMISSIONS OF REVENUE, during the late Government, under the direct management of the Peishwa, and which may, for present purposes, be termed BELGAUM, and DHARWAR, as now constituted. (Tidy Observations)",
-      "path": "tidy/tbl-048_p0196.tidy.csv",
+      "title": "Table 48 (Tidy Observations)",
+      "path": "tidy/tbl-048_p0197.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -3956,14 +3957,14 @@
     {
       "name": "tbl-049-diplomatic",
       "title": "Table 49 (Diplomatic Matrix)",
-      "path": "tables/tbl-049_p0197.csv",
+      "path": "tables/tbl-049_p0199.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-049-tidy",
       "title": "Table 49 (Tidy Observations)",
-      "path": "tidy/tbl-049_p0197.tidy.csv",
+      "path": "tidy/tbl-049_p0199.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4038,14 +4039,14 @@
     {
       "name": "tbl-050-diplomatic",
       "title": "Table 50 (Diplomatic Matrix)",
-      "path": "tables/tbl-050_p0199.csv",
+      "path": "tables/tbl-050_p0201.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-050-tidy",
       "title": "Table 50 (Tidy Observations)",
-      "path": "tidy/tbl-050_p0199.tidy.csv",
+      "path": "tidy/tbl-050_p0201.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4119,15 +4120,15 @@
     },
     {
       "name": "tbl-051-diplomatic",
-      "title": "the extent that the records furnish evidence. (Diplomatic Matrix)",
-      "path": "tables/tbl-051_p0201.csv",
+      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late were under the direct management of the Peishwa, and which may, for present purposes, be as now constituted. (Diplomatic Matrix)",
+      "path": "tables/tbl-051_p0202.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-051-tidy",
-      "title": "the extent that the records furnish evidence. (Tidy Observations)",
-      "path": "tidy/tbl-051_p0201.tidy.csv",
+      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late were under the direct management of the Peishwa, and which may, for present purposes, be as now constituted. (Tidy Observations)",
+      "path": "tidy/tbl-051_p0202.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4201,15 +4202,15 @@
     },
     {
       "name": "tbl-052-diplomatic",
-      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late were under the direct management of the Peishwa, and which may, for present purposes, be as now constituted. (Diplomatic Matrix)",
-      "path": "tables/tbl-052_p0202.csv",
+      "title": "Table 52 (Diplomatic Matrix)",
+      "path": "tables/tbl-052_p0203.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-052-tidy",
-      "title": "Showing the Prices of Grain &c., and Remissions of Revenue, during the late were under the direct management of the Peishwa, and which may, for present purposes, be as now constituted. (Tidy Observations)",
-      "path": "tidy/tbl-052_p0202.tidy.csv",
+      "title": "Table 52 (Tidy Observations)",
+      "path": "tidy/tbl-052_p0203.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4283,15 +4284,15 @@
     },
     {
       "name": "tbl-053-diplomatic",
-      "title": "Table 53 (Diplomatic Matrix)",
-      "path": "tables/tbl-053_p0203.csv",
+      "title": "Prices of grain &c. per rupee to (Diplomatic Matrix)",
+      "path": "tables/tbl-053_p0204.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-053-tidy",
-      "title": "Table 53 (Tidy Observations)",
-      "path": "tidy/tbl-053_p0203.tidy.csv",
+      "title": "Prices of grain &c. per rupee to (Tidy Observations)",
+      "path": "tidy/tbl-053_p0204.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4365,15 +4366,15 @@
     },
     {
       "name": "tbl-054-diplomatic",
-      "title": "Prices of grain &c. per rupee to (Diplomatic Matrix)",
-      "path": "tables/tbl-054_p0204.csv",
+      "title": "Table 54 (Diplomatic Matrix)",
+      "path": "tables/tbl-054_p0205.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-054-tidy",
-      "title": "Prices of grain &c. per rupee to (Tidy Observations)",
-      "path": "tidy/tbl-054_p0204.tidy.csv",
+      "title": "Table 54 (Tidy Observations)",
+      "path": "tidy/tbl-054_p0205.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4448,14 +4449,14 @@
     {
       "name": "tbl-055-diplomatic",
       "title": "Table 55 (Diplomatic Matrix)",
-      "path": "tables/tbl-055_p0205.csv",
+      "path": "tables/tbl-055_p0225.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-055-tidy",
       "title": "Table 55 (Tidy Observations)",
-      "path": "tidy/tbl-055_p0205.tidy.csv",
+      "path": "tidy/tbl-055_p0225.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4529,15 +4530,15 @@
     },
     {
       "name": "tbl-056-diplomatic",
-      "title": "Table 56 (Diplomatic Matrix)",
-      "path": "tables/tbl-056_p0225.csv",
+      "title": "Conjectural Estimate of the value of Canara rice received and to be received from J. G. Ravenshaw. (Diplomatic Matrix)",
+      "path": "tables/tbl-056_p0251.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-056-tidy",
-      "title": "Table 56 (Tidy Observations)",
-      "path": "tidy/tbl-056_p0225.tidy.csv",
+      "title": "Conjectural Estimate of the value of Canara rice received and to be received from J. G. Ravenshaw. (Tidy Observations)",
+      "path": "tidy/tbl-056_p0251.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4611,15 +4612,15 @@
     },
     {
       "name": "tbl-057-diplomatic",
-      "title": "Conjectural Estimate of the value of Canara rice received and to be received from J. G. Ravenshaw. (Diplomatic Matrix)",
-      "path": "tables/tbl-057_p0251.csv",
+      "title": "Table 57 (Diplomatic Matrix)",
+      "path": "tables/tbl-057_p0252.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-057-tidy",
-      "title": "Conjectural Estimate of the value of Canara rice received and to be received from J. G. Ravenshaw. (Tidy Observations)",
-      "path": "tidy/tbl-057_p0251.tidy.csv",
+      "title": "Table 57 (Tidy Observations)",
+      "path": "tidy/tbl-057_p0252.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4694,14 +4695,14 @@
     {
       "name": "tbl-058-diplomatic",
       "title": "Table 58 (Diplomatic Matrix)",
-      "path": "tables/tbl-058_p0252.csv",
+      "path": "tables/tbl-058_p0254.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-058-tidy",
       "title": "Table 58 (Tidy Observations)",
-      "path": "tidy/tbl-058_p0252.tidy.csv",
+      "path": "tidy/tbl-058_p0254.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4775,15 +4776,15 @@
     },
     {
       "name": "tbl-059-diplomatic",
-      "title": "Table 59 (Diplomatic Matrix)",
-      "path": "tables/tbl-059_p0254.csv",
+      "title": "Statement of Engagements for Horse Grain, viz:— (Diplomatic Matrix)",
+      "path": "tables/tbl-059_p0259.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-059-tidy",
-      "title": "Table 59 (Tidy Observations)",
-      "path": "tidy/tbl-059_p0254.tidy.csv",
+      "title": "Statement of Engagements for Horse Grain, viz:— (Tidy Observations)",
+      "path": "tidy/tbl-059_p0259.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4857,15 +4858,15 @@
     },
     {
       "name": "tbl-060-diplomatic",
-      "title": "Statement of Engagements for Horse Grain, viz:— (Diplomatic Matrix)",
-      "path": "tables/tbl-060_p0259.csv",
+      "title": "Expected supplies of coolthee from the Southern Canara, viz. (Diplomatic Matrix)",
+      "path": "tables/tbl-060_p0260.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-060-tidy",
-      "title": "Statement of Engagements for Horse Grain, viz:— (Tidy Observations)",
-      "path": "tidy/tbl-060_p0259.tidy.csv",
+      "title": "Expected supplies of coolthee from the Southern Canara, viz. (Tidy Observations)",
+      "path": "tidy/tbl-060_p0260.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -4939,15 +4940,15 @@
     },
     {
       "name": "tbl-061-diplomatic",
-      "title": "Expected supplies of coolthee from the Southern Canara, viz. (Diplomatic Matrix)",
-      "path": "tables/tbl-061_p0260.csv",
+      "title": "Table 61 (Diplomatic Matrix)",
+      "path": "tables/tbl-061_p0267.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-061-tidy",
-      "title": "Expected supplies of coolthee from the Southern Canara, viz. (Tidy Observations)",
-      "path": "tidy/tbl-061_p0260.tidy.csv",
+      "title": "Table 61 (Tidy Observations)",
+      "path": "tidy/tbl-061_p0267.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -5022,96 +5023,14 @@
     {
       "name": "tbl-062-diplomatic",
       "title": "Table 62 (Diplomatic Matrix)",
-      "path": "tables/tbl-062_p0267.csv",
+      "path": "tables/tbl-062_p0269.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-062-tidy",
       "title": "Table 62 (Tidy Observations)",
-      "path": "tidy/tbl-062_p0267.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-063-diplomatic",
-      "title": "Table 63 (Diplomatic Matrix)",
-      "path": "tables/tbl-063_p0269.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-063-tidy",
-      "title": "Table 63 (Tidy Observations)",
-      "path": "tidy/tbl-063_p0269.tidy.csv",
+      "path": "tidy/tbl-062_p0269.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {

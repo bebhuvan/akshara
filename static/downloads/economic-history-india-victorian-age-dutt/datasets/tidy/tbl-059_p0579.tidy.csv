@@ -1,11 +1,33 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,1,data,,Bengal,2,Canals.,Orissa Canals . Midnapur Canal . Sone Canal .,,,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,1,data,,Bengal,3,Acres irrigated.,"201,498 82,134 557,494",,acres,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,2,data,,Agra and Oudh,2,Canals.,East Jumna and two Ganges Canals and other Works .,,,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,2,data,,Agra and Oudh,3,Acres irrigated.,"2,741,400",2741400.0,acres,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,3,data,,Punjab,2,Canals.,"West Jumna Canal . Bari Doab Canal . Sirhind British Canal . Sirhind Native State Canal . Chinab Canal . Jhelum Canal . Sohag, Para and Sidhnai Canals .",,,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,3,data,,Punjab,3,Acres irrigated.,"589,955 856,041 728,908 341,553 1,748,129 65,367 161,885",,acres,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,4,data,,Bombay,2,Canals.,"Nira, Mutha, and other Canals . .",,,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,4,data,,Bombay,3,Acres irrigated.,"139,040",139040.0,acres,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,5,data,,Madras,2,Canals.,"Kaveri, Krishna, and Godavari Canal systems, about . . . Periyar system . . . . Rushikulya system . . . . Pennar and other Canals . . .",,,False,False
-economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,5,data,,Madras,3,Acres irrigated.,"2,500,000 154,000 84,3000 not given",,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,1,data,,Bengal,2,Canals.,Orissa Canals,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,1,data,,Bengal,3,Acres irrigated.,"201,498",201498.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,2,data,,Row 2,2,Canals.,Midnapur Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,2,data,,Row 2,3,Acres irrigated.,"82,134",82134.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,3,data,,Row 3,2,Canals.,Sone Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,3,data,,Row 3,3,Acres irrigated.,"557,494",557494.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,4,data,,Agra and Oudh,2,Canals.,East Jumna and two Ganges Canals and other Works .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,4,data,,Agra and Oudh,3,Acres irrigated.,"2,741,400",2741400.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,5,data,,Punjab,2,Canals.,West Jumna Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,5,data,,Punjab,3,Acres irrigated.,"589,955",589955.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,6,data,,Row 6,2,Canals.,Bari Doab Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,6,data,,Row 6,3,Acres irrigated.,"856,041",856041.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,7,data,,Row 7,2,Canals.,Sirhind British Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,7,data,,Row 7,3,Acres irrigated.,"728,908",728908.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,8,data,,Row 8,2,Canals.,Sirhind Native State Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,8,data,,Row 8,3,Acres irrigated.,"341,553",341553.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,9,data,,Row 9,2,Canals.,Chinab Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,9,data,,Row 9,3,Acres irrigated.,"1,748,129",1748129.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,10,data,,Row 10,2,Canals.,Jhelum Canal,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,10,data,,Row 10,3,Acres irrigated.,"65,367",65367.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,11,data,,Row 11,2,Canals.,"Sohag, Para and Sidhnai Canals",,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,11,data,,Row 11,3,Acres irrigated.,"161,885",161885.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,12,data,,Bombay,2,Canals.,"Nira, Mutha, and other Canals . .",,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,12,data,,Bombay,3,Acres irrigated.,"139,040",139040.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,13,data,,Madras,2,Canals.,"Kaveri, Krishna, and Godavari Canal systems, about",,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,13,data,,Madras,3,Acres irrigated.,"2,500,000",2500000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,14,data,,Row 14,2,Canals.,Periyar system,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,14,data,,Row 14,3,Acres irrigated.,"154,000",154000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,15,data,,Row 15,2,Canals.,Rushikulya system,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,15,data,,Row 15,3,Acres irrigated.,"84,3000",843000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,16,data,,Row 16,2,Canals.,Pennar and other Canals,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,16,data,,Row 16,3,Acres irrigated.,not given,,acres,False,False

@@ -11,6 +11,11 @@
 ### While Sewing Sandals  Or Tales of a Telugu Pariah Tribe
 
 
+<!-- page: 5 | folio: 5 -->
+
+### WHILE SEWING SANDALS . .
+
+
 <!-- page: 8 | folio: ii -->
 
 ![madigas sewing sandals. — [Frontispiece.](../figures/fig-001_p0008.webp)
@@ -296,7 +301,7 @@ King Durgapisacha, rendered somewhat stilted and unnatural by Brahminical interp
 
 <!-- page: 49 | folio: 31 -->
 
-#### SCATTERED AND IN SERVITUDE
+### SCATTERED AND IN SERVITUDE
 
 Various causes may have worked together to scatter the tribe of the Matangas and to give to their descendants a home on the outskirts of the villages throughout the Telugu country. There were probably inter-tribal wars in ancient times. Subjugated by some stronger tribe, the Madigas may have been forced into servitude by the rights of warfare. On the other hand, the search for occupation may have been the motive that led to emigration, until the old tribal home was forgotten.
 
@@ -701,7 +706,7 @@ Of the tribe of the Matangas the poet Banabhatta wrote about the year 606 <span 
 
 <!-- page: 127 | folio: 103 -->
 
-#### SECRET MEETINGS AND MIDNIGHT ORGIES
+### SECRET MEETINGS AND MIDNIGHT ORGIES
 
 Saktism does not assume its most revolting form in the Matangi cult, nor in the worship of matris and fiends and demons. The frenzy of possession, the mad excitement of the dance, the slaughter of beasts, and the shouts of the bystanders, may be sufficiently hideous; but they are not an outrage upon human nature.
 
@@ -839,7 +844,7 @@ There was a look of reverence on many a face as the Missionary proceeded with hi
 
 <!-- page: 154 | folio: 130 -->
 
-#### SIX GURUS IN SUCCESSION
+### SIX GURUS IN SUCCESSION
 
 In the language of Western civilization Pullikuri Lukshmiah would have been called "a fast young man." He decked himself with earrings, fingerrings, bangles, belts, and various jewels, all of them conspicuous for glitter—not for their value. Red turbans and bright-coloured jackets lay in the box ready for use. He frequented places where there was dancing, singing, and festivity of every kind. Sin and lust grew apace, until a sense of disgust with the whole situation began to creep into his soul. He was weary of it all, and one day, he did not know from whence, the thought came : What if I should die ?
 
@@ -1011,7 +1016,7 @@ When the movement toward Christianity began among the Madigas, the men and women
 
 <!-- page: 195 | folio: 167 -->
 
-#### LONGING TO SEE GOD
+### LONGING TO SEE GOD
 
 The fame of the Ulluri family was spread abroad in the land, not for their wealth, nor for leadership in great and noble deeds, but because they were devout. They had given to their Guru, Poliah, a cow worth sixteen rupees. This was considered a very noble gift to offer to a Guru, and established the reputation of the family for religious devotion.
 
@@ -1197,7 +1202,7 @@ There was pain in Ramiah's heart whenever he thought of his mother. Tears came t
 
 <!-- page: 229 | folio: 201 -->
 
-#### THROUGH MUCH TRIBULATION
+### THROUGH MUCH TRIBULATION
 
 The wife of Yendluri Rutnam noticed that her husband frequently stopped his work for a few minutes, bent his head over his folded hands, and said as to himself: “ O God, I am a sinner. Give me wisdom that I may find the way.” She bowed with him. He had told her all he had seen of the Christians in a distant village, where he had gone on trade, and she said, “It must be a good religion.”
 
@@ -1517,7 +1522,7 @@ The idol of Poleramah no longer stands on the bank of the tank at Kutchipudy. It
 
 <!-- page: 303 | folio: 271 -->
 
-#### A GREAT CALAMITY
+### A GREAT CALAMITY
 
 There were many who anxiously watched the clouds in the year 1876, for if another monsoon season passed by with cloudless sky a famine was inevitable.
 
@@ -1590,7 +1595,7 @@ A crop of millet, maturing quickly, tided the people over several months, and th
 
 <!-- page: 319 | folio: 285 -->
 
-#### A MODERN PENTECOST
+### A MODERN PENTECOST
 
 As the preachers went about on their fields toward the close of the famine, they saw that hundreds were ready for baptism. In villages where heretofore they had been received in a half-hearted kind of way they now found an open door. People to whom they had talked many a time about Jesus Christ in the years before the famine now told them that they believed in Him.
 
@@ -1763,7 +1768,7 @@ From Darkness to Light.  The Story of a Telugu.  Rev J. E. Clough, D.D.  Boston.
 The History of the Telugu Mission of the American Baptist Missionary Union.  Rev. D. Downie, D.D.  Philadelphia.  1893.  This book gives the history of the Mission in general, of which Ongole is a part.  During a period of thirty years the pioneers of the Telugu Mission believed that, "God has a great people among the Telugus," while but few cared for their message.  Rev. Lyman Jewett, D.D., visited Ongole repeatedly, when the Mission had but its one station, at Nellore.  In 1865, after pleading with the Society at home not to abandon the field, though barren and hard, he returned to India with Rev. J. E. Clough, D.D., and his wife, the missionaries for Ongole.  During the first ten years at Ongole, a town situated 180 miles north of Madras, near the coast, the foundations were laid, there was a steady increase, and when the famine of 1876-8 began, the Ongole Church counted 3,269 members.  In July, 1878, within three days, 3,536 were baptized, and during that year 9,606 were added to the Church at Ongole.  In 1883, the Church membership had increased to 21,000, and the nominal adherents counted from four to five times that number.  The first division of the large field was therefore imperative.  The four Taluks—small counties—lying farthest away from Ongole were made separate stations.  Ten years later the work at Ongole had again assumed unwieldy proportions, when a second similar division took place.  The movement spread, and to-day the Mission counts twenty-six stations, with a [p. 314] membership of 53,748. Nearly all of these have come from the Madigas living in the Nellore, Kurnool, and Kistnah districts of the Telugu country. The Census of 1891 gives the total number of Christians in the American Baptist Telugu Mission as 84,158, by counting many of the adherents.
 
 
-##### <span class="sc">The Numerical Status of the Madigas.</span>
+#### <span class="sc">The Numerical Status of the Madigas.</span>
 
 The entire population of India, 287,223,431.
 
@@ -1791,15 +1796,13 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 
 ### I N D E X
 
-- Aborigines and Aryans, 16,
--   25.
-- — chieftainship of, 29.
-- — cults of, 16, 89, 105.
-- — and Siva, 84, 117.
-- — and Vishnu, 116.
-- — and human sacrifice, 75,
--   101.
-- — and English law, 217, 305.
+- Aborigines and Aryans, 16, 25.
+  - — chieftainship of, 29.
+  - — cults of, 16, 89, 105.
+  - — and Siva, 84, 117.
+  - — and Vishnu, 116.
+  - — and human sacrifice, 75, 101.
+  - — and English law, 217, 305.
 - Adimata, 63.
 - Adijambuvu, 13-20, 30, 41.
 - Adisakti, 14, 16.
@@ -1813,10 +1816,10 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Arundhati, 55.
 - Arunzodi, 54-57, 310.
 - Aryan race, 9.
-- — cults, 82, 117.
-- — conquests, 9, 13.
-- — hermits, 10, 16, 21, 82.
-- — customs, 11, 31, 174, 190.
+  - — cults, 82, 117.
+  - — conquests, 9, 13.
+  - — hermits, 10, 16, 21, 82.
+  - — customs, 11, 31, 174, 190.
 - Asceticism, 58, 81.
 - Atri, 55.
 - Baal, groves of, 74.
@@ -1828,20 +1831,16 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Bhagvatam, 223, 227.
 - Blumenbach, 8.
 - Brahma and Adijambuvu, 14.
-- — and Yogi doctrine, 162.
-- Brahminical exaggerations,
--   12, 29, 59.
-- — hierarchy, 11, 80, 88.
-- — settlers, 12, 34.
-- Brahmins, the, intrigue of,
--   34.
-- — feast for, 29.
-- — legend about, 49, 52-55,
--   85.
-- — and Madigas, 39, 216,
--   253.
-- — and Chandalas, 80.
-- — and Matangi cult, 64, 76.
+  - — and Yogi doctrine, 162.
+- Brahminical exaggerations, 12, 29, 59.
+  - — hierarchy, 11, 80, 88.
+  - — settlers, 12, 34.
+- Brahmins, the, intrigue of, 34.
+  - — feast for, 29.
+  - — legend about, 49, 52-55, 85.
+  - — and Madigas, 39, 216, 253.
+  - — and Chandalas, 80.
+  - — and Matangi cult, 64, 76.
 
 <!-- page: 350 | folio: 316 -->
 - Brahmins and aboriginal
@@ -1853,22 +1852,20 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Caldwell, 9.
 - Calvinistic doctrine, 107.
 - Canarese country, 17.
-- — inscription, 23.
-- — language, 10.
+  - — inscription, 23.
+  - — language, 10.
 - Carrion-eating, 41, 151, 185,
 -   247, 291.
-- Caste, development of, 11,
--   32.
-- — loss of, 251.
-- — in Nasriah sect, 164.
-- — and reformers, 163, 222.
-- — and Madigas, 35, 197, 222,
--   253.
+- Caste, development of, 11, 32.
+  - — loss of, 251.
+  - — in Nasriah sect, 164.
+  - — and reformers, 163, 222.
+  - — and Madigas, 35, 197, 222, 253.
 - Caucasian race, 9.
 - Chalukya dynasty, 23.
 - Chandala element, 78.
-- — maiden, 28.
-- — origin, 78, 88.
+  - — maiden, 28.
+  - — origin, 78, 88.
 - Chermanishta sect, 103–109,
 -   220, 227.
 - Coorg, 59–61.
@@ -1882,24 +1879,21 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 -   148, 187, 211, 236, 252.
 - Dorasani—lady, 114, 148,
 -   189, 282.
-- Dravidian racial affinity, 8,
--   61.
-- — customs, 11.
-- — literature, 10, 21.
-- — dynasties, 18, 23, 33.
-- — tribes, 8, 32, 44, 59, 94.
-- — village community, 31
--   302.
+- Dravidian racial affinity, 8, 61.
+  - — customs, 11.
+  - — literature, 10, 21.
+  - — dynasties, 18, 23, 33.
+  - — tribes, 8, 32, 44, 59, 94.
+  - — village community, 31 302.
 - Drums, Madiga, 209, 215
 - Dubois, Abbé, 101.
 - Durga, 102.
 - Durgapisacha, King, 27.
 - Dyaus, 73.
 - Ellama, possessed by, 63.
-- — and the great Saktis,
--   78.
-- — legend of, 84–86.
-- — worshippers of, 181, 297.
+  - — and the great Saktis, 78.
+  - — legend of, 84–86.
+  - — worshippers of, 181, 297.
 - Family cohesion, 6.
 - Famine, 271–284.
 - Fleet, J. F., 24.
@@ -1909,34 +1903,25 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Goomsur, 91.
 
 <!-- page: 351 | folio: 317 -->
-- Government, English, and
--   human sacrifice, 75, 101.
-- — and famine relief, 274,
--   283.
-- — and taxes, 303.
-- — and Rajah of Goomsur,
--   91.
-- — and Madigas, 35, 126,
--   217, 254, 306.
+- Government, English, and human sacrifice, 75, 101.
+  - — and famine relief, 274, 283.
+  - — and taxes, 303.
+  - — and Rajah of Goomsur, 91.
+  - — and Madigas, 35, 126, 217, 254, 306.
 - Gundlacumma river, 66.
-- Gurus—religious teachers,
--   customs of, 131, 144,
--   168.
-- — incident of, 133, 169.
-- — reverence for, 144, 167,
--   308.
-- — teaching of, 104, 115, 119,
--   157.
-- — worthlessness of, 131, 135.
+- Gurus—religious teachers, customs of, 131, 144, 168.
+  - — incident of, 133, 169.
+  - — reverence for, 144, 167, 308.
+  - — teaching of, 104, 115, 119, 157.
+  - — worthlessness of, 131, 135.
 - Haeckel, 8.
 - Hanuman, 20.
 - Headman, Sudra, 33.
-- — Madiga, 44, 64, 143, 172.
+  - — Madiga, 44, 64, 143, 172.
 - Holdings of land, 32, 304.
-- Hymns of the Nasriah sect,
--   170, 175, 184.
-- — Christian, 184, 289.
-- — bridal, in Rig Veda, 55.
+- Hymns of the Nasriah sect, 170, 175, 184.
+  - — Christian, 184, 289.
+  - — bridal, in Rig Veda, 55.
 - Idols, 164, 168, 176, 226, 238,
 -   241.
 - Immortality, 202–206.
@@ -1947,27 +1932,24 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Jambavan, 17–20.
 - Jambavanta, 17.
 - Jambu, 17.
-- Juttu—lock of hair—significance of, 145, 151, 292,
--   299.
-- — incident of cutting, 145,
--   196, 215.
+- Juttu—lock of hair—significance of, 145, 151, 292, 299.
+  - — incident of cutting, 145, 196, 215.
 - Kali, 102.
 - Kamadhenu, 12–15.
 - Kanigiri Taluk, 120.
 - Karnam, the office of, 33.
-- — persecution by, 210.
-- — and Yetti, 37, 205, 303.
-- — and Madigas, 252, 304.
+  - — persecution by, 210.
+  - — and Yetti, 37, 205, 303.
+  - — and Madigas, 252, 304.
 - Katachchuris, the, 23.
 - Kausika, 55.
 - Kaveri river, 84.
 - Khonds, the, 94.
 - Kolarian race, 8.
-- Komati Chetty, dishonesty
--   of, 277.
-- — marriage customs of, 47.
-- — wealth of, 46.
-- — as money-lenders, 46, 133.
+- Komati Chetty, dishonesty of, 277.
+  - — marriage customs of, 47.
+  - — wealth of, 46.
+  - — as money-lenders, 46, 133.
 - Krishna, the god, 218, 225.
 - Krishna river, 18, 68.
 - Kshatriyas, 34.
@@ -1976,34 +1958,30 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 <!-- page: 352 | folio: 318 -->
 - Kurral, the, 57, 59.
 - Lanka, the island, 19.
-- Legends, trustworthiness of,
--     24.
-- — of Adijambuvu, 13–20.
-- — of Arunzodi, 54–57.
-- — of Ellama, 84–86.
-- — of the Komatis, 49.
-- — of the Matangi, 71.
-- — of Vasugi, 57.
-- — of woman in Coorg, 60.
-- — of Veerabramham, 118.
+- Legends, trustworthiness of, 24.
+  - — of Adijambuvu, 13–20.
+  - — of Arunzodi, 54–57.
+  - — of Ellama, 84–86.
+  - — of the Komatis, 49.
+  - — of the Matangi, 71.
+  - — of Vasugi, 57.
+  - — of woman in Coorg, 60.
+  - — of Veerabramham, 118.
 - Lemuria, 9.
 - Logan, 9.
 - Mackenzie, Major, 48.
-- Madiga, derivation of name,
--     23.
-- — clannish spirit of, 145,
--     179.
-- — headman, 44, 143, 172.
-- — idea of immortality, 202.
-- — poverty of, 42.
+- Madiga, derivation of name, 23.
+  - — clannish spirit of, 145, 179.
+  - — headman, 44, 143, 172.
+  - — idea of immortality, 202.
+  - — poverty of, 42.
 - Madras, 91, 274.
 - Madras Presidency, 50, 94.
 - Madura, 57.
 - Mahabharata, 79.
 - Mahalakshmi, 91–94, 194.
-- Malas, relation to Madigas,
--     185, 222.
-- — priests among, 219, 246.
+- Malas, relation to Madigas, 185, 222.
+  - — priests among, 219, 246.
 - Malabar, 59–61, 78, 86.
 - Malayalim language, 10.
 - Mangalisa, 22.
@@ -2014,26 +1992,25 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Marriage customs, 40, 47, 56
 -     189.
 - Matanga, *masc.*, interpretation of, 23, 79, 88.
-- — the king, 27.
-- — the sage, 79.
-- — the ascetic, 80.
-- — the leader, 25.
-- Matangi, *fem.*, interpretation
--     of, 23, 63, 79, 88.
-- — -Makkalu, 24.
-- — and Komatis, 48.
-- — displeasure of, 182.
-- — description of cult, 62–76.
-- — in legends, 79–89.
-- — the female warrior, 87.
+  - — the king, 27.
+  - — the sage, 79.
+  - — the ascetic, 80.
+  - — the leader, 25.
+- Matangi, *fem.*, interpretation of, 23, 63, 79, 88.
+  - — -Makkalu, 24.
+  - — and Komatis, 48.
+  - — displeasure of, 182.
+  - — description of cult, 62–76.
+  - — in legends, 79–89.
+  - — the female warrior, 87.
 - Matriarchate, 73.
 - Matris—mothers, 99, 178,
 -     209.
 - Migrankadatta, 27.
 - Miraculous power of Nasriah, 163.
-- — of Arunzodi, 54.
-- — of Vasugi, 58.
-- — of woman in Coorg, 60.
+  - — of Arunzodi, 54.
+  - — of Vasugi, 58.
+  - — of woman in Coorg, 60.
 - Mohammed the Third, 87.
 - Mohammedan, 87, 159, 211.
 - Mongolian race, 9.
@@ -2041,17 +2018,17 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 
 <!-- page: 353 | folio: 319 -->
 - Munsiff, persecution by, 248–263.
-- — mother of a, 177.
+  - — mother of a, 177.
 - Mysore district, 48.
 - Naga, 180.
 - Nagarpamah, 180.
 - Narsaravapetta, 160.
 - Nasriah the reformer, 158–161.
-- — sect, 162–165.
-- — and Christianity, 204.
-- — discussion on, 194.
+  - — sect, 162–165.
+  - — and Christianity, 204.
+  - — discussion on, 194.
 - Ornaments of women, 189, 191.
-- — of men, 130.
+  - — of men, 130.
 - Oudh, the house of, 18.
 - Pallavas, the, 18.
 - Pampa, the lake, 81.
@@ -2063,7 +2040,7 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Parvati, 71, 73, 83, 89, 106, 214.
 - Penoocondah, 50.
 - Perantalu, description of, 99, 100.
-- — incident of, 179.
+  - — incident of, 179.
 - Podili Taluk, 38.
 - Poleramah, 122, 194, 250, 267.
 - Polygamy, 149.
@@ -2075,20 +2052,20 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Puranas, the, 83, 102, 233.
 - Rakshasas, the, 19.
 - Rajah and King Matanga 28.
-- — visits of, 36.
-- — grants from, 36, 205.
-- — taxes levied by, 29, 39.
-- — of Goomsur, 91–93.
-- — of Venkatagiri, 205.
+  - — visits of, 36.
+  - — grants from, 36, 205.
+  - — taxes levied by, 29, 39.
+  - — of Goomsur, 91–93.
+  - — of Venkatagiri, 205.
 - Rajayogi [sect, teaching of, 115, 127.
-- — disciples of, 117, 135, 146, 220.
+  - — disciples of, 117, 135, 146, 220.
 - Rama, prayer to, 118.
-- — and Jambavan, 18.
-- — and Savari, 80–82.
+  - — and Jambavan, 18.
+  - — and Savari, 80–82.
 - Ramanujacarya, 107, 219.
 - Ramanuja sect, explanation of, 106–109.
-- — and Madigas, 116.
-- — priests of, 116, 219.
+  - — and Madigas, 116.
+  - — priests of, 116, 219.
 - Ramaswami, 141, 153.
 
 <!-- page: 354 | folio: 320 -->
@@ -2105,47 +2082,41 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Saktis, the ten great, 77, 78,
 - 102, 214.
 - Saktism in Nasriah sect, 164.
-- — and Matangi cult, 73.
-- — and Perantalu, 100.
-- — and Chermanishta sect,
-- 105.
+  - — and Matangi cult, 73.
+  - — and Perantalu, 100.
+  - — and Chermanishta sect, 105.
 - Sanscrit authors, 25, 26.
-- — academy, 57.
-- — dictionaries, 56.
-- — epics, 22, 79, 80.
-- — dialects, 11.
-- — learning, 16, 21, 224.
+  - — academy, 57.
+  - — dictionaries, 56.
+  - — epics, 22, 79, 80.
+  - — dialects, 11.
+  - — learning, 16, 21, 224.
 - Sanyasi, 162, 168.
 - Sarai—arrack, 134, 144, 163,
 - 185, 291.
 - Scythian, 9, 73, 95.
 - Sect, Nasriah, 158–166, 194.
-- — Chermanishta, 103–109,
-- 220, 227.
-- — Ramanuja, 106, 116, 219.
-- — Rajayogi, 117, 146, 220.
+  - — Chermanishta, 103–109, 220, 227.
+  - — Ramanuja, 106, 116, 219.
+  - — Rajayogi, 117, 146, 220.
 - Serfdom, 39.
-- Serpent worship, antiquity
-- of, 73, 180.
-- — — and Matangi cult, 73.
-- — — and human sacrifice
-- 75.
+- Serpent worship, antiquity of, 73, 180.
+  - — — and Matangi cult, 73.
+  - — — and human sacrifice 75.
 - Shastra, 26, 127.
 - Sita, 18–20.
 - Siva, curse of, 29.
-- — worshipper of, 64, 118,
-- 214, 220.
-- — consort of, 71, 73, 83, 106.
-- — and Dravidians, 14, 83, 89.
+  - — worshipper of, 64, 118, 214, 220.
+  - — consort of, 71, 73, 83, 106.
+  - — and Dravidians, 14, 83, 89.
 - Slavery, 35.
 - Somadeva Bhatta, 26.
 - Sudra servant, 34, 37.
-- — landholder, 39, 208.
-- — opinion, 7, 122, 153.
-- — caste, 34, 65.
-- — and Ellama, 64.
-- — and Madigas, 40, 207, 248,
-- 303.
+  - — landholder, 39, 208.
+  - — opinion, 7, 122, 153.
+  - — caste, 34, 65.
+  - — and Ellama, 64.
+  - — and Madigas, 40, 207, 248, 303.
 - Sugriva, 19.
 - Swami—god, 97, 171, 215,
 - 239.
@@ -2167,10 +2138,10 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Trade, 133, 136, 184.
 - Triamballa, King, 83.
 - Tribe, institutions of, 32, 307.
-- — distinctness of, 6, 44.
-- — records of, 22.
-- — wars of, 31.
-- — head of, 17, 21, 30.
+  - — distinctness of, 6, 44.
+  - — records of, 22.
+  - — wars of, 31.
+  - — head of, 17, 21, 30.
 - Ursa Major, 56.
 - Valavisu Purana, 83.
 - Valluvas, the, 16.
@@ -2185,31 +2156,31 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 - Vijayanagar, 50.
 - Village community, 31, 210, 302.
 - Vishnu, consort of, 108.
-- — worshipper of, 64, 220.
-- —— incarnations of, 116.
+  - — worshipper of, 64, 220.
+  - —— incarnations of, 116.
 - Vishnu, idols of, 116, 164.
-- — and positive evil, 95.
+  - — and positive evil, 95.
 - Widowhood enforced, 174.
-- — and ornaments, 190.
-- — of caste women, 99.
+  - — and ornaments, 190.
+  - — of caste women, 99.
 - Woman and gods, 99.
-- — and forces of nature, 61, 100.
-- — the Aryan, 18, 59.
+  - — and forces of nature, 61, 100.
+  - — the Aryan, 18, 59.
 - Worship of nature, 73, 105.
-- — of the serpent, 67, 73.
-- — of trees, 74.
-- — of demons, 95, 203.
-- — of matris, 99.
-- — of Perantalu, 99, 179.
-- — of Nagarpamah, 181.
-- — of Sakti, 73, 180.
+  - — of the serpent, 67, 73.
+  - — of trees, 74.
+  - — of demons, 95, 203.
+  - — of matris, 99.
+  - — of Perantalu, 99, 179.
+  - — of Nagarpamah, 181.
+  - — of Sakti, 73, 180.
 - Yetti, the, and the Rajah, 36.
-- — — and the Karnam, 37, 208, 249, 303.
-- — — as news-bearers, 147, 171, 173, 263.
-- — — as bearers of letters, 37, 205.
+  - — — and the Karnam, 37, 208, 249, 303.
+  - — — as news-bearers, 147, 171, 173, 263.
+  - — — as bearers of letters, 37, 205.
 - Yogi, the, doctrine, 162, 164.
-- — teachers, 5, 117.
-- — practice, 120.
+  - — teachers, 5, 117.
+  - — practice, 120.
 - Ziegenbalg, B., 78, 86.
 
 ## Publisher's Advertisements
@@ -2217,16 +2188,16 @@ The Madigas are the leather workers of the Telugu country, and as a large propor
 
 <!-- page: 357 | folio: 323 -->
 
-#### BY THE SAME AUTHOR.
+### BY THE SAME AUTHOR.
 
 
-##### <span class="sc">a study of</span>
+#### <span class="sc">a study of</span>
 
 
 ### Mary Wollstonecraft
 
 
-##### <span class="sc">and the</span>
+#### <span class="sc">and the</span>
 
 
 #### Rights of Woman.

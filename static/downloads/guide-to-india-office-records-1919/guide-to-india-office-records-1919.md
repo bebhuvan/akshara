@@ -19,9 +19,7 @@
 
 #### 1600–1858.
 
-<span class="sc">by</span>
-
-WILLIAM FOSTER, C.I.E.,
+<span class="sc">by</span> WILLIAM FOSTER, C.I.E.,
 
 *Registrar and Superintendent of Records*.
 
@@ -1639,54 +1637,54 @@ The last meeting of the Board was held on 24 June 1816. After that, papers were 
 ## Minutes, 34 ; Correspondence
 
 
-#### CORRESPONDENCE.[^sec-06-fn-001]
+### CORRESPONDENCE.[^sec-06-fn-001]
 
 
-##### LETTERS FROM THE BOARD TO THE EAST INDIA COMPANY.[^sec-06-fn-002]
+#### LETTERS FROM THE BOARD TO THE EAST INDIA COMPANY.[^sec-06-fn-002]
 
 1784–1858 (22 vols., copies, mostly indexed). 1818-37 (copies of enclosures, 4 vols.).
 
 
 <!-- page: 55 | folio: 35 -->
 
-#### BOARD’S CORRESPONDENCE WITH THE SECRET COMMITTEE.[^sec-06-fn-003]
+### BOARD’S CORRESPONDENCE WITH THE SECRET COMMITTEE.[^sec-06-fn-003]
 
 Regarding drafts to all Presidencies. 1816–58 (12 vols., copies). There is a register of the correspondence from 1802 to 1834.
 
 
-#### LETTERS FROM THE COMPANY TO THE BOARD.
+### LETTERS FROM THE COMPANY TO THE BOARD.
 
 1784–1858 (27 vols., copies, mostly indexed). 1817–27 (copies of enclosures, 1 vol.).
 
 
-#### CORRESPONDENCE BETWEEN THE COMPANY AND THE BOARD.
+### CORRESPONDENCE BETWEEN THE COMPANY AND THE BOARD.
 
 1784–95; 1801–23 (3 vols.). This collection was compiled at the East India House, and contains copies only. It relates to drafts in all departments. 1823–36 (1 vol.).[^sec-06-fn-004] Compiled at the Board of Control, and relating solely to Secret and Political drafts. After 1836 the collection was merged in the next series.
 
 
-#### SECRET AND POLITICAL CORRESPONDENCE.[^sec-06-fn-004]
+### SECRET AND POLITICAL CORRESPONDENCE.[^sec-06-fn-004]
 
 1831–58 (20 vols., indexed). These are copies of letters received and sent. 1839–58 (52 vols., indexed). Original letters received, with drafts of the replies.
 
 
-#### THE BOARD’S LETTER BOOKS.
+### THE BOARD’S LETTER BOOKS.
 
 1784–1858 (20 vols., indexed). These contain copies of letters despatched by the Board; also, from 1840, copies of letters received.
 
 
-#### “BOARD OF CONTROL LETTERS, &c.”
+### “BOARD OF CONTROL LETTERS, &c.”
 
 1854--58 (12 vols.). Original letters received, with draft replies. For a list of subjects, *see* p. 18 of the *General Press List*.
 
 
-#### REPORTS ON POLITICAL “PREVIOUS COMMUNICATIONS” (*see* p. 23).[^sec-06-fn-004]
+### REPORTS ON POLITICAL “PREVIOUS COMMUNICATIONS” (*see* p. 23).[^sec-06-fn-004]
 
 Bengal, 1808–27 (10 vols.). Madras, 1814–27 (3 vols.). Bombay, 1814--27 (4 vols.).
 
 
 <!-- page: 56 | folio: 36 -->
 
-##### “BOARD’S COLLECTIONS.” 1796–97 <span class="sc">to</span> 1857–58 (2,730 vols.).
+#### “BOARD’S COLLECTIONS.” 1796–97 <span class="sc">to</span> 1857–58 (2,730 vols.).
 
 These contain the papers on which the various drafts to all Presidencies were founded, including the enclosures to the letters to which the drafts replied. They were forwarded to the Board with the “Previous Communications,” returned and sent again with the “Drafts,” and were then retained by the Board. Collections of earlier date than 1796 were destroyed many years ago, and there are many gaps in the existing series, caused by the destruction of unimportant collections. There is a series of Registers of Board’s Collections in 18 vols., extending from 1794–95 to 1858.
 
@@ -2225,7 +2223,7 @@ The extant records at the India Office consist of the proceedings of the Court f
 ### <span class="sc">government of india</span>.
 
 
-##### <span class="sc">consultations</span>.[^sec-08-fn-001]
+#### <span class="sc">consultations</span>.[^sec-08-fn-001]
 
 As already noted under Bengal (p. 57), the India Act of 1833 (3 & 4 Wm. IV. c. 85) vested the supreme control of the administration in a Governor-General of India and his Council, who were to be for the present also the Governor and Council of Bengal. The change was made on 16 June 1834, at which date Lord William Bentinck was staying at Utakamand, in the Nilgiris, while Sir Charles Metcalfe was carrying on the administration at Calcutta as Deputy-Governor. Separate "India" Proceedings were at once started in ten departments, viz., General,[^sec-08-fn-002] Judicial, Revenue, Separate Revenue, Secret, Political, Foreign, Ecclesiastical, Financial, and Military.[^sec-08-fn-003] The joint secretariat arrangements, as regards most of the departments, have been described already at p. 58, to which may be added that [p. 65] the Government of India had its own Secretary for the Military Department.
 
@@ -2287,7 +2285,7 @@ For particulars, *see the Press List of Bengal Records*, p. 105.
 ## The Agra Presidency
 
 
-#### AGRA PRESIDENCY.
+### AGRA PRESIDENCY.
 
 We have already seen that by the India Act of 1833 directions were given for the formation of a separate Presidency of Agra. In a despatch dated 27 Dec. 1833, the Court of Directors appointed Sir Charles Metcalfe to the new Governorship; but as he was in temporary charge of the administration at Calcutta at the time when the Act came into force (June 1834), it was not until the return of the Governor-General in November that the new Presidency was inaugurated. It was then notified that Sir Charles Metcalfe had assumed charge of the Government of Agra on 14 November. The Presidency was defined as comprising all territories hitherto under the control of the Courts of Sadr Diwani Adalat and Nizamat Adalat for the Western Provinces, and of the Sadr Board for the same provinces, in their judicial and revenue capacity; and Allahabad was to be provisionally the seat of the administration. [p. 67] Sir Charles Metcalfe left Calcutta in December, but had scarcely reached Allahabad when he was recalled to Calcutta to take charge of the administration on the departure of Lord William Bentinck for England in March 1835. His place at Allahabad was taken in turn by Mr. William Blunt and Mr. Alexander Ross. Meanwhile doubts had arisen as to the expediency of establishing a new Presidency, and an Act of Parliament (5 & 6 Will. IV. c. 52) was passed in 1835, suspending the provisions under this head of the previous Act, and authorising the appointment of a Lieutenant-Governor instead. The Agra Presidency came to an end accordingly early in 1836.
 
@@ -2297,7 +2295,7 @@ The India Office records relating to the Presidency of Agra are detailed in the 
 ## Consultations, 67 ; Accounts
 
 
-##### <span class="sc">CONSULTATIONS.</span>
+### <span class="sc">CONSULTATIONS.</span>
 
 
 **<span class="sc">CONSULTATIONS.</span>**
@@ -2314,7 +2312,7 @@ The India Office records relating to the Presidency of Agra are detailed in the 
 | Ditto (Customs). | Ditto. |
 
 
-##### <span class="sc">ACCOUNTS.</span>
+### <span class="sc">ACCOUNTS.</span>
 
 
 **<span class="sc">ACCOUNTS.</span>**
@@ -2326,14 +2324,14 @@ The India Office records relating to the Presidency of Agra are detailed in the 
 The correspondence with England will be found under the section devoted to that subject (pp. 11–28).
 
 
-#### **THE NORTH-WESTERN PROVINCES.**
+### **THE NORTH-WESTERN PROVINCES.**
 
 The earlier history of these territories, first as part of Bengal and then as a separate administration termed the Presidency of Agra, has already been narrated. The despatch from the Court of Directors, enclosing copies of the Act of 1835, and intimating their decision to suspend accordingly the provisions of section 38 of the earlier enactment, reached Calcutta at the end of Feb. 1836, and a proclamation was at once issued giving effect to the suspension, and, as a temporary measure, appointing Mr. Ross “Lieutenant-Governor of the Western Provinces,” with the same powers as he had exercised as Governor of Agra. The permanent post was offered to and accepted by Sir Charles Metcalfe, who was thereupon (28 March) gazetted as [p. 68] " Lieutenant-Governor of the North-Western Provinces,"[^sec-10-fn-001] with Agra as his headquarters. He assumed charge on 13 April 1836. The area of the new administrative unit was much the same as that of the present province of Agra, except that it did not yet comprise Jhansi and most part of Jalaun, while on the other hand it included the Delhi territories, which were afterwards made over to the Punjab. In addition, the Lieutenant-Governor was entrusted with the superintendence of the Political Agencies in Rajputana (including Ajmer) and " The Saugor and Nerbudda Territories." The latter agency was taken away in 1843, but restored in 1853, and remained part of the province until the creation of the "Central Provinces" in 1861.[^sec-10-fn-002] Between 1840 and 1853 Jhansi and parts of Jalaun and Hamirpur were added to the North-Western Provinces. On the other hand the Delhi territories were in 1858 transferred to the Punjab.
 
 Oudh was annexed in 1856, and was made a Chief Commissionership under the Government of India. The India Office possesses no separate proceedings for that province during the period of the Company's administration.
 
 
-#### CONSULTATIONS.
+### CONSULTATIONS.
 
 The various series started for "Agra" ran on after the change in the designation of the province; but after June 1837 the Miscellaneous Revenue Proceedings were absorbed into the General Revenue files. A separate Financial series began in April 1843, while Public Works Proceedings were started in May 1854. From Jan. 1842 to May 1843 (when those agencies were taken over by the Government of India), there are distinct Civil Judicial, Criminal Judicial, and Revenue Proceedings for Bundelkhand and "The Saugor and Nerbudda Territories." In most departments there is a gap for 1857, due to the Mutiny. The *List of Proceedings, &c.: N.W. Provinces and other Minor Administrations* should be consulted for details; but the following is a summary:—
 
@@ -2367,7 +2365,7 @@ Revenue. 1836-58 (except Feb.-Dec. 1857 and July-Sept. 1858). Ditto. 1842-43. (B
 ## Consultations, 68 ; Accounts
 
 
-##### <span class="sc">accounts</span>.
+### <span class="sc">accounts</span>.
 
 Cash Accounts. 1837-58. Durbar Accounts. 1837-42. Treasury Accounts. 1836-57. Jalaun Treasury Accounts. 1838-43. Jhansi Treasury Accounts. 1839-46. Bullion Accounts. 1841-44. General Journals. 1836-58. General Ledgers. 1836-58.
 
@@ -2376,68 +2374,68 @@ For correspondence recourse must be had to the Proceedings.
 An account of the records preserved in India will be found in *Notes on the English Pre-Mutiny Records in the United Provinces*, by D. Dewar, I.C.S. (1911).
 
 
-#### **THE PUNJAB.**
+### **THE PUNJAB.**
 
 This province was not made a Lieutenant-Governorship until the beginning of 1859, having previously (from 1849) been governed, first by a Board of Administration (presided over by Sir Henry Lawrence), and then by a Chief Commissioner (John Lawrence). The India Office has no separate records for this period, except General Journals and Ledgers, 1849-51, Treasury Accounts, 1849-51, and the correspondence mentioned on p. 30. For other information it is necessary to go to the Proceedings and Correspondence of the Government of India.
 
 The records at Lahore begin in 1804. They include many relating to the Delhi territories while they formed part, first of Bengal, and then of the North-Western Provinces. Eleven press lists, extending from that date to 1857, and eight volumes of extracts (1807-58), have been printed.
 
 
-#### **MADRAS.**[^sec-11-fn-001]
+### **MADRAS.**[^sec-11-fn-001]
 
 As in the case of Bengal and Bombay, the early history of the Madras Presidency is concerned merely with a few trading [p. 70] stations along the coast or a short distance inland. The earliest British factories were those established in 1611 at Masulipatam and Petapoli (now Nizampatam), both of them ports of the then kingdom of Golconda. Ten years later, the East India Company's servants were admitted to the Dutch settlement of Pulicat under an agreement that the trade should be shared between the two nations in equal portions ; but this arrangement broke down and the English factors withdrew in 1623. Early in 1626 a settlement was made at Armagon (now Durgarayapatnam), situated in Hindu territory, about 40 miles north of Pulicat; and from this station the factors removed in 1640 to the village of Madraspatam, about 20 miles south of Pulicat. Here, on a strip of ground rented from a representative of the old Vijayanagar dynasty, they erected Fort St. George, which thereupon became the headquarters of the Agency instead of Masulipatam. During the remaining part of the 17th century other factories were established, including Fort St. David, which was built near Cuddalore in 1690. The definitive establishment of Madras as a Presidency took place in 1684.
 
 The actual British possessions in this part of India were long restricted to Fort St. David and the district round Madras. The first portion of the present Presidency to be acquired was the district known as the Northern Circars. This was ceded as the result of Col. Forde's capture of Masulipatam in 1759, and the grant was confirmed by the Mughal Emperor six years later. One of the Circars, however, viz., Guntur, did not come under British administration until 1788. Negapatam was taken from the Dutch in 1781 and confirmed to Great Britain three years later. By the treaty of Seringapatam in 1792 Tipu Sultan of Mysore ceded most of the present districts of Malabar and Salem, with portions of the Madura and North Arcot districts ; while the partition that followed his death in 1799 gave the Presidency further portions of North Arcot and Salem, besides Kanara, Coimbatore, and the Nilgiris. In the same year the Raja of Tanjore resigned to the British the administration of his territory, and in 1800 the Nizam made over the territory he had acquired from Mysore, including the present districts of Bellary, Anantapur, Cuddapah, and part of Kurnool. The dominions of the Nawab of the Carnatic were taken over in 1801, the Madras Presidency thus reaching nearly its fullest dimensions. Further increases of territory were obtained by the cession of Sadras and other Dutch stations in 1825, the annexation of the rest of Kurnool in 1839, and the purchase of Tranquebar from the Danes in 1845.
 
 
-#### <span class="sc">the early factories.</span>
+### <span class="sc">the early factories.</span>
 
 The documents relating to this stage are to be found principally in the *Original Correspondence* series, in the *Letter* [p. 71] *Books*, and in the separate sections of the *Factory Records*, of which the following is a summary :—
 
 
-##### <span class="sc">Masulipatam.</span>
+#### <span class="sc">Masulipatam.</span>
 
 Consultations, 1670–71, 1675–82,[^sec-11-fn-002] 1684–85 (4 vols.). Copies of letters sent, 1638, 1640, 1666, 1670–73, 1675–77, 1682–86 (4 vols.). Copies of letters received, 1622–23, 1666, 1670–73, 1675– 78 (with gaps), 1682, 1685 (3 vols.). Diary of William Puckle, 1675–76 (1 vol.). Proceedings of the New Company's representatives, 1699– 1700 (1 vol.).
 
 
-##### <span class="sc">Fort St. George.</span>
+#### <span class="sc">Fort St. George.</span>
 
 Diaries and consultations, 1655, 1662, 1672–73, 1675–76, 1677–78, 1680–81, 1683–85, 1686–90, 1693–99 (with gaps), 1701–4 (13 vols.).[^sec-11-fn-003] Copies of letters sent, 1661–65 (with gaps), 1668–71 (with gaps), 1673–77, 1679, 1681, 1687–88, 1692–94, 1696–1700, 1704 (12 vols.). Copies of letters received, 1669-77, 1680-81, 1687–88, 1692–94, 1696–97, 1700, 1703–4 (10 vols.). Papers of Richard Mohun, 1676–79 (1 vol.). Letterbook of Thomas Lucas, 1683 (1 vol.). Proceedings in the Court of Judicature, 1678 and 1693-94 (1 vol.). Correspondence with the country powers, 1703–5 (1 vol.).
 
 
-##### <span class="sc">Madapollam.</span>
+#### <span class="sc">Madapollam.</span>
 
 Consultations, 1684–86 (1 vol.). Copies of letters sent, 1676–77, 1681–84 (1 vol.). Copies of letters received, 1676–77, 1681–82, 1683–85 (1 vol.). Some records relating to this factory are included in the Masulipatam series.
 
 
-##### <span class="sc">Cuddalore and Porto Novo.</span>
+#### <span class="sc">Cuddalore and Porto Novo.</span>
 
 Diary and consultations, 1683, 1685–87. Also a commission of 1681 (2 vols.). Copies of letters sent or received, 1684–86 (1 vol.). The Fort St. David records should be consulted for later references.
 
 
-##### <span class="sc">Petapoli.</span>
+#### <span class="sc">Petapoli.</span>
 
 Consultations, 1683–87 (with gaps) (1 vol.). Copies of letters sent, 1682–87 (1 vol.). Copies of letters received, 1685–87 (1 vol.).
 
 
 <!-- page: 92 | folio: 72 -->
 
-##### <span class="sc">Conimere</span>.
+#### <span class="sc">Conimere</span>.
 
 Consultations, 1682–85 (1 vol.). Copies of letters sent, 1684–85 (1 vol.). Copies of letters received, 1684 (1 vol.).
 
 
-##### <span class="sc">Vizagapatam</span>.
+#### <span class="sc">Vizagapatam</span>.
 
 Diary and consultations, 1684, 1692–95 (1 vol.).
 
 
-##### <span class="sc">Fort St. David</span>.
+#### <span class="sc">Fort St. David</span>.
 
 Consultations, 1690, 1696–1712, 1723–51,[^sec-11-fn-004] 1752–56 (8 vols.). Correspondence, 1692–1759 (3 vols.). It will be noticed that these papers cover the period (1746– 52) during which Fort St. David was the seat of government, owing to the capture of Madras by the French (*infra*, p. 73).
 
 
-##### <span class="sc">Miscellaneous</span>.
+#### <span class="sc">Miscellaneous</span>.
 
 
 **<span class="sc">Miscellaneous</span>.**
@@ -2465,7 +2463,7 @@ Consultations, 1672–81, 1686–94. Despatches from England, 1670–77, 1680–
 The *Colin Mackenzie MSS.* in the India Office Library include copies of some of the Fort St. George consultations between 1673 and 1694 missing from the India Office Record Department files.
 
 
-#### <span class="sc">LATER CONSULTATIONS.</span>
+### <span class="sc">LATER CONSULTATIONS.</span>
 
 The Fort St. George Diaries and Consultations already mentioned are continued from Jan. 1705 in the *List of Proceedings, &c.: Madras*, under the head of “Public Proceedings” (p. 125). This, however, is a misnomer as regards the earlier volumes, since the distinction between “Public” and other consultations did not arise until a secret series was instituted at the end of 1750.
 
@@ -2524,7 +2522,7 @@ The Madras Public Works Department was started in 1855. Before that date public 
 The only other department established under the Company's rule was that of Railway Finance, the Proceedings in which commence in April 1853.
 
 
-#### CORRESPONDENCE.
+### CORRESPONDENCE.
 
 The correspondence with the authorities in England has been dealt with in a former section. The Public Despatches to the Company, 1741–42, were printed at Madras in 1916.
 
@@ -2535,110 +2533,110 @@ Letters from and to officials and others in India itself will be found to a larg
 The following special series may be mentioned :—
 
 
-##### <span class="sc">Country Correspondence</span>.
+#### <span class="sc">Country Correspondence</span>.
 
 
-##### 1808–20 (13 vols.).
+#### 1808–20 (13 vols.).
 
 This contains letters to and from Indian Princes and Chiefs. For traces of an earlier series, *see* p. 71. The corresponding series at Madras extends from 1740 to 1829, with sundry gaps. The Madras Government have published the volumes for 1740, 1748, 1749, 1751 (Public Department); 1753–58 (Military Department); and 1800–4 (Political Department).
 
 
-##### <span class="sc">Correspondence between Lord Macartney and Sir Eyre Coote</span>.
+#### <span class="sc">Correspondence between Lord Macartney and Sir Eyre Coote</span>.
 
 
-##### 1781–82 (*Home Miscellaneous*, vol. 245).
+#### 1781–82 (*Home Miscellaneous*, vol. 245).
 
 
-##### <span class="sc">Lord Macartney's Correspondence with the Chairmen of the Company</span>.
+#### <span class="sc">Lord Macartney's Correspondence with the Chairmen of the Company</span>.
 
 
-##### 1781–86 (*Home Miscellaneous*, vols. 246, 247).
+#### 1781–86 (*Home Miscellaneous*, vols. 246, 247).
 
 
-##### <span class="sc">Miscellaneous Correspondence</span>.
+#### <span class="sc">Miscellaneous Correspondence</span>.
 
 
-##### 1692–1816 (*Home Miscellaneous*, vols. 257, 258).
+#### 1692–1816 (*Home Miscellaneous*, vols. 257, 258).
 
 
-##### <span class="sc">Letters from Lord Clive to Lord Wellesley</span>.
+#### <span class="sc">Letters from Lord Clive to Lord Wellesley</span>.
 
 
-##### 1799–1803 (*Home Miscellaneous*, vols. 457–469).
+#### 1799–1803 (*Home Miscellaneous*, vols. 457–469).
 
 
-##### <span class="sc">Letters from Lord W. Bentinck to Lord Wellesley</span>.
+#### <span class="sc">Letters from Lord W. Bentinck to Lord Wellesley</span>.
 
 
-##### 1805 (*Home Miscellaneous*, vol. 479).
+#### 1805 (*Home Miscellaneous*, vol. 479).
 
 
-##### <span class="sc">Letters to other Settlements in India</span>.
+#### <span class="sc">Letters to other Settlements in India</span>.
 
 
-##### 1740 (*Home Miscellaneous*, vol. 787).
+#### 1740 (*Home Miscellaneous*, vol. 787).
 
 
-##### <span class="sc">Letters sent and received</span>.
+#### <span class="sc">Letters sent and received</span>.
 
 
-##### 1744 (*Home Miscellaneous*, vol. 788).
+#### 1744 (*Home Miscellaneous*, vol. 788).
 
 
-##### <span class="sc">Correspondence relative to the Equipment of Troops for the first Burmese War</span>.
+#### <span class="sc">Correspondence relative to the Equipment of Troops for the first Burmese War</span>.
 
 
-##### 1824–26 (29 vols., including indexes).
+#### 1824–26 (29 vols., including indexes).
 
 Supplementary General Books, 1829–30 (1 vol.).
 
 
-##### <span class="sc">Miscellaneous Correspondence and Proceedings relative to Tanjore and the Company's Jagir</span>.
+#### <span class="sc">Miscellaneous Correspondence and Proceedings relative to Tanjore and the Company's Jagir</span>.
 
 
-##### 1771–1803 (17 vols.).
+#### 1771–1803 (17 vols.).
 
 For details, *see* the press list (p. 244).
 
 
 <!-- page: 100 | folio: 80 -->
 
-#### <span class="sc">accounts</span>.
+### <span class="sc">accounts</span>.
 
 
-##### <span class="sc">madras general journals and ledgers</span>.
+#### <span class="sc">madras general journals and ledgers</span>.
 
 1702–1859 (308 vols.).
 
 
-##### <span class="sc">treasury journals and ledgers</span>.
+#### <span class="sc">treasury journals and ledgers</span>.
 
 1755–1814, 1833–58 (116 vols.).
 
 
-##### <span class="sc">mint coinage account current</span>.
+#### <span class="sc">mint coinage account current</span>.
 
 1784–1801 (3 vols.).
 
 
-##### <span class="sc">new mint journals and ledgers</span>.
+#### <span class="sc">new mint journals and ledgers</span>.
 
 1807–33 (49 vols.).
 
 
-##### <span class="sc">journal of the chief engineer</span>, <span class="sc">p.w. department</span>.
+#### <span class="sc">journal of the chief engineer</span>, <span class="sc">p.w. department</span>.
 
 1857–58 (1 vol.).
 
 
-##### <span class="sc">military journals and ledgers</span>.
+#### <span class="sc">military journals and ledgers</span>.
 
 1849–57 (15 vols.).
 
 Certain other journals and ledgers are mentioned on pp. 77 and 81.
 
 
-#### <span class="sc">courts of justice</span>.
+### <span class="sc">courts of justice</span>.
 
 In the settlement of Fort St. George, justice was administered by the Agent and his Council, or by Justices appointed by them. A Court of Admiralty was erected in 1686, and a Mayor’s Court in 1688. The latter was absorbed into a Recorder’s Court, established in 1798 ; and this in turn was superseded by a Supreme Court of Judicature three years later. For suits between Indians, there were, besides District Courts for civil suits and Courts of Circuit for criminal cases, a Sadr Adalat for civil, and a Faujdari Adalat for criminal appeals, whose functions were in 1862 merged in those of a new High Court.
 
@@ -2647,48 +2645,48 @@ Apart from certain volumes in the *Home Miscellaneous* series, vols. 427–431, 
 
 <!-- page: 101 | folio: 81 -->
 
-##### PROCEEDINGS.
+#### PROCEEDINGS.
 
 
-##### 1727–28, 1731–38, 1740–45, 1753–78 (63 vols.).
+#### 1727–28, 1731–38, 1740–45, 1753–78 (63 vols.).
 
 From 1760 these include the Proceedings of the Court as King’s Ordinary for granting Probates, &c.
 
 
-##### MINUTES ONLY.
+#### MINUTES ONLY.
 
 
-##### 1753–57, 1759–78 (25 vols.).
+#### 1753–57, 1759–78 (25 vols.).
 
 
-##### PETTY CAUSES AND MINUTES.
+#### PETTY CAUSES AND MINUTES.
 
 
-##### 1771–78 (16 vols.).
+#### 1771–78 (16 vols.).
 
 
-##### PROCEEDINGS AND MINUTES.
+#### PROCEEDINGS AND MINUTES.
 
 
-##### 1782–91 (39 vols.).
+#### 1782–91 (39 vols.).
 
 
-##### CORRESPONDENCE, BONDS, &c.
+#### CORRESPONDENCE, BONDS, &c.
 
 
-##### 1753, 1759–60, 1764–65, 1767–73, 1775–78, 1783–91 (25 vols.).
+#### 1753, 1759–60, 1764–65, 1767–73, 1775–78, 1783–91 (25 vols.).
 
 
-##### JOURNALS AND LEDGERS.
+#### JOURNALS AND LEDGERS.
 
 
-##### 1744–45, 1753–57 (4 vols.).
+#### 1744–45, 1753–57 (4 vols.).
 
 
-##### WILLS.
+#### WILLS.
 
 
-##### 1753–79 (5 vols.).
+#### 1753–79 (5 vols.).
 
 For later wills, *see under* “Personal” (*infra*).
 
@@ -2717,7 +2715,7 @@ An account of the Mayor’s Court records still preserved at Madras will be foun
 ## Bombay
 
 
-#### BOMBAY.
+### BOMBAY.
 
 The Western Presidency has a longer history than either of her sister administrations. The first English vessel to reach an Indian port anchored off Surat in August 1608, and from 1613 onwards the list of English chiefs at that place, termed at first Agents and then Presidents, is continuous until the transfer of the headquarters to Bombay. From the parent establishment at Surat, factories were quickly planted at Agra, Ajmer, Ahmadabad, and Broach ; while later on others were originated at various ports down the western coast of India, as well as in Sind and Persia, and the Arabian ports of the Red Sea. The island of Bombay, as is well known, was ceded to the English crown by the Portuguese in 1661, and made over to the East India Company seven years later. In 1687 it became the headquarters of the Presidency in lieu of Surat.
 
@@ -2728,12 +2726,12 @@ m IO 1438
 Throughout the eighteenth century the possessions of the English on the western side of India were confined to a few settlements on the coast. In 1800 Surat District was definitely recognised as British, and in 1802 and again in 1817 its area was enlarged. The extinction of the Peshwa's kingdom in 1817-18 added a considerable extent of territory to the English dominions. Subsequent lapses of native states, the acquisition of Aden (1839) and Sind[^sec-12-fn-001] (1847), and the lease of the Panch Mahals from Sindhia (1853) brought the Presidency almost to its present dimensions, though the district of North Kanara was not transferred from Madras until 1861.
 
 
-#### <span class="sc">The Early Factories</span>.
+### <span class="sc">The Early Factories</span>.
 
 For information regarding the early settlements it is necessary to go to the *Original Correspondence*, the *Letter Books*, and the appropriate series in the *Factory Records*. The contents of the lastnamed may be summarised as follows :—
 
 
-##### <span class="sc">Surat</span>.
+#### <span class="sc">Surat</span>.
 
 Consultations, 1620-36 (with several gaps); 1660-66 (ditto); 1669-79 (ditto); 1682-83; 1696-97; 1700-4; 1706-8; 1718-19; 1724-1800 (with several gaps). Commercial Diary and Consultations, 1800-4. Judicial Diary, 1796-99. (In all, 85 vols.)
 
@@ -2742,17 +2740,17 @@ Copies of Letters sent, 1616-17; 1630-31 (with gaps); 1633-34; 1636; 1658-62 (wi
 Copies of Letters Received, 1621-23 (with gaps); 1628; 1636; 1646-47; 1655-57; 1662-66; 1668-75 (with gaps); 1677-85 (ditto); 1691-93; 1695-1708; 1724-26 (19 vols.). Miscellaneous, 1759, 1775, 1800 (1 vol.).
 
 
-##### <span class="sc">Rajapur</span>.
+#### <span class="sc">Rajapur</span>.
 
 Copies of Letters Sent, 1659-60 (1 vol.).
 
 
-##### <span class="sc">Karwar</span>.
+#### <span class="sc">Karwar</span>.
 
 Miscellaneous, 1666 and 1717 (1 vol.).
 
 
-##### <span class="sc">Bombay</span>.
+#### <span class="sc">Bombay</span>.
 
 Consultations, etc., 1669-70; 1672-81; 1684-86; 1689-90; 1694-1700 (with gaps); 1702-04 (5 vols.). Copies of Letters Sent, 1670; 1672-82; 1694-1704 (with gaps); 1708-10 (14 vols.).
 
@@ -2761,7 +2759,7 @@ Consultations, etc., 1669-70; 1672-81; 1684-86; 1689-90; 1694-1700 (with gaps); 
 Copies of Letters Received, 1670; 1678–82; 1694–1700; 1702–04 (12 vols.).
 
 
-##### <span class="sc">Tellicherri.</span>
+#### <span class="sc">Tellicherri.</span>
 
 Copies of Letters received by the Company from, 1716–56 (1 vol.).
 
@@ -2772,7 +2770,7 @@ Correspondence with Bombay, 1781–84 (1 vol.).
 A number of records relating to Tellicherri and the subordinate factory at Calicut, 1703–28, will be found among the *Orme MSS.* in the I.O. Library (*see* the catalogue, pp. 165– 167); others (from 1726) are in the Madras Record Office; some letters from Tellicherri are included in the *Bombay Abstracts* (*see* p. 13); and a few private letters to that place (1721–24) are in *Factory Records, Miscellaneous*, vol. 26; also some letters from Calicut, 1704–6.
 
 
-##### <span class="sc">Anjengo.</span>
+#### <span class="sc">Anjengo.</span>
 
 Diary and Consulations, 1775–93 (8 vols.).
 
@@ -2785,7 +2783,7 @@ Letters, etc., 1704–49 and 1769 (1 vol.).
 Letters from Anjengo occur among the *Bombay Abstracts* (*see* p. 13); and earlier diaries exist at Madras and in Malabar. See also *Factory Records, Miscellaneous*, vol. 21, for correspondence in 1717–25, and vol. 22 for an account of the settlement in 1727.
 
 
-##### <span class="sc">Broach.</span>
+#### <span class="sc">Broach.</span>
 
 Diary and Consultations, 1775–81 (3 vols.).
 
@@ -2794,17 +2792,17 @@ Revenue Consultations, 1779–80 (1 vol.).
 Proceedings of Special Committee, 1777 (1 vol.).
 
 
-##### <span class="sc">Thana.</span>
+#### <span class="sc">Thana.</span>
 
 Diary and Consultations, 1775–99 (10 vols.).
 
 
-##### <span class="sc">Cambay.</span>
+#### <span class="sc">Cambay.</span>
 
 Proceedings of Resident, 1804–7 (1 vol.).
 
 
-##### <span class="sc">Miscellaneous.</span>
+#### <span class="sc">Miscellaneous.</span>
 
 Vol. 1. Abstracts of letters from Persia, Surat, &c., 1617–32.
 
@@ -2823,7 +2821,7 @@ For details of the various sections the *List of Factory Records* (corrected) sh
 The records preserved at Bombay date from 1630. The Bombay Record Office has printed press lists of them down to the year 1740. In 1885-87 Mr. (now Sir George) Forrest published two useful series of selections, a Maratha and a Home series repectively.
 
 
-##### CONSULTATIONS.
+#### CONSULTATIONS.
 
 As shown above, the consultations of the Governor and Council of Bombay down to 1704 are included among the *Factory Records*. From that year onwards they appear as Public Consultations (*see* the separate *List of Proceedings, &c.: Bombay*, 1702-1900, p. 122). There are gaps for 1710, 1714, most of 1716, 1719, and most of 1720; but otherwise the series is complete to the year 1822, when the title was changed to "General." Most of the volumes are indexed.
 
@@ -2870,12 +2868,12 @@ Public Works Proceedings were commenced in March 1855, and were still current at
 As somewhat akin to the Proceedings, though really distinct, may be mentioned the Reports on the Internal and External Commerce of the Presidency. These run from 1801–2 to 1857–58, filling 66 vols.
 
 
-#### CORRESPONDENCE.
+### CORRESPONDENCE.
 
 For the despatches exchanged between the Court of Directors and the Bombay Government reference should be made to the section denominated "East India Company," while local correspondence will be found recorded in the volumes of Proceedings. The *Home Miscellaneous* series contains several volumes relating to Bombay, notably Governor Duncan's letters to Lord Wellesley, 1800–5 (vols. 470–479) and to Sir David Scott, 1800–3 (vol. 731<span class="sc">a</span>), and Sir John Malcolm's demi-official correspondence, 1827–29 (vol. 734). In addition, the India Office possesses the following special series (*see* the press list, p. 69) :—
 
 
-##### <span class="sc">BOMBAY LETTERS SENT.</span>
+#### <span class="sc">BOMBAY LETTERS SENT.</span>
 
 1747–50; 1754–55; 1757–58; 1762; 1764; 1769–74; 1775–86 (16 vols.).
 
@@ -2884,125 +2882,125 @@ For the despatches exchanged between the Court of Directors and the Bombay Gover
 Letters to subordinate officials and the other Presidencies. Correspondence with England is not included.
 
 
-##### BOMBAY LETTERS RECEIVED.
+#### BOMBAY LETTERS RECEIVED.
 
 1775–86 (12 vols.). A similar series.
 
 
-##### TRANSLATIONS OF MARATHI, GUJARATI, AND KANARESE LETTERS RECEIVED OR SENT.
+#### TRANSLATIONS OF MARATHI, GUJARATI, AND KANARESE LETTERS RECEIVED OR SENT.
 
 1846–53 (22 vols.).
 
 
-##### REGISTERS OF TRANSLATIONS OF MARATHI, GUJARATI, AND KANARESE LETTERS RECEIVED OR SENT.
+#### REGISTERS OF TRANSLATIONS OF MARATHI, GUJARATI, AND KANARESE LETTERS RECEIVED OR SENT.
 
 1854–55 (4 vols.).
 
 
-##### TRANSLATIONS OF PERSIAN, ARABIC, AND HINDUSTANI LETTERS RECEIVED OR SENT.
+#### TRANSLATIONS OF PERSIAN, ARABIC, AND HINDUSTANI LETTERS RECEIVED OR SENT.
 
 1846–53 (16 vols.).
 
 
-##### REGISTER OF PERSIAN, ARABIC, AND HINDUSTANI LETTERS RECEIVED OR SENT.
+#### REGISTER OF PERSIAN, ARABIC, AND HINDUSTANI LETTERS RECEIVED OR SENT.
 
 1854–55 (4 vols.).
 
 The above correspondence in Indian languages was, of course, conducted mainly with Indian Chiefs, &c. After August, 1853, registers only were sent home.
 
 
-#### ACCOUNTS.
+### ACCOUNTS.
 
 
-##### BOMBAY GENERAL JOURNALS AND LEDGERS.
+#### BOMBAY GENERAL JOURNALS AND LEDGERS.
 
 1702–1858 (313 vols.). The Journal for 1702–3, the Journal and Ledger for 1703–4, and the Ledger for 1721–22 are missing.
 
 
-##### JOURNALS AND LEDGERS OF THE MAYOR'S COURT.
+#### JOURNALS AND LEDGERS OF THE MAYOR'S COURT.
 
 1749–66 (1 vol.).
 
 
-##### CASH ACCOUNTS OF THE AGENT AT MOKHA.
+#### CASH ACCOUNTS OF THE AGENT AT MOKHA.
 
 1833–38 (3 vols.).
 
 
-##### JOURNALS AND LEDGERS OF THE COLLECTOR AT POONA.
+#### JOURNALS AND LEDGERS OF THE COLLECTOR AT POONA.
 
 1821–33 (12 vols.).
 
 
 <!-- page: 110 | folio: 90 -->
 
-##### JOURNAL AND LEDGER OF THE COMMERCIAL AGENT IN MALABAR.
+#### JOURNAL AND LEDGER OF THE COMMERCIAL AGENT IN MALABAR.
 
 1822–23 (1 vol.).
 
 
-##### JOURNAL AND LEDGER OF THE CONSERVATOR OF FORESTS IN MALABAR.
+#### JOURNAL AND LEDGER OF THE CONSERVATOR OF FORESTS IN MALABAR.
 
 1822–24 (1 vol.).
 
 
-##### JOURNAL AND LEDGER OF THE AGENT FOR THE PURCHASE OF TIMBER IN MALABAR.
+#### JOURNAL AND LEDGER OF THE AGENT FOR THE PURCHASE OF TIMBER IN MALABAR.
 
 1826–31 (1 vol.).
 
 
-##### JOURNALS AND LEDGERS OF THE POLITICAL AGENT IN KATHIAWAR.
+#### JOURNALS AND LEDGERS OF THE POLITICAL AGENT IN KATHIAWAR.
 
 1824–57 (25 vols.).
 
 
-##### JOURNALS AND LEDGERS OF THE COLLECTOR AT KARACHI.
+#### JOURNALS AND LEDGERS OF THE COLLECTOR AT KARACHI.
 
 1850–54 ; 1855-57 (6 vols.).
 
 
-##### BOMBAY TREASURY CASH ACCOUNTS.
+#### BOMBAY TREASURY CASH ACCOUNTS.
 
 1833–58 (25 vols.).
 
 
-##### MINT MASTER'S JOURNALS AND LEDGERS.
+#### MINT MASTER'S JOURNALS AND LEDGERS.
 
 1829–58 (25 vols.).
 
 
-##### STEAM JOURNALS AND LEDGERS.
+#### STEAM JOURNALS AND LEDGERS.
 
 1837–55 (18 vols.).
 
 
-##### MILITARY JOURNALS AND LEDGERS.
+#### MILITARY JOURNALS AND LEDGERS.
 
 1849–58 (18 vols.).
 
 
-##### BOMBAY NAVAL ESTABLISHMENTS.
+#### BOMBAY NAVAL ESTABLISHMENTS.
 
 *See under* Shipping.
 
 
-#### COURTS OF JUSTICE.
+### COURTS OF JUSTICE.
 
 In the early days justice was administered by the Governor and Council, or by certain factors appointed by them, one of whom bore (from about 1719) the title of Chief Justice. Apart from the Admiralty Court (founded in 1684 under a royal charter), the first regular court at Bombay was the Mayor's Court, established in 1728 by virtue of the charter of 24 September [p. 91] 1726. This was superseded in 1798 by a Recorder's Court, which in turn was replaced by a Supreme Court of Judicature, established under an Act of Parliament of 1823. As in the other presidencies there were also, for suits between Indians, District Courts, a Provisional Court of Appeals (1805–20), a Sadr Adalat for civil and a Faujdari Adalat for criminal appeals. These two latter were in 1862 merged, with the Supreme Court, into a new High Court. The following series are now preserved at the India Office :—
 
 
-##### PROCEEDINGS OF THE COURT OF JUSTICE. Nov. 1723–Nov. 1724 ; 1726 (2 vols.).
+#### PROCEEDINGS OF THE COURT OF JUSTICE. Nov. 1723–Nov. 1724 ; 1726 (2 vols.).
 
 
-##### PROCEEDINGS OF THE MAYOR'S COURT. 1729–97 (122 vols.).
+#### PROCEEDINGS OF THE MAYOR'S COURT. 1729–97 (122 vols.).
 
 
-##### PROCEEDINGS OF THE COURT OF APPEALS. March–Nov. 1730 (1 vol.).
+#### PROCEEDINGS OF THE COURT OF APPEALS. March–Nov. 1730 (1 vol.).
 
 A record of proceedings by the Governor and Council on Appeals from the Mayor's Court.
 
 
-##### COPIES OF WILLS, PROBATES AND LETTERS OF ADMINISTRATIONS REGISTERED IN THE MAYOR'S COURT. 1728–83 (22 vols.).
+#### COPIES OF WILLS, PROBATES AND LETTERS OF ADMINISTRATIONS REGISTERED IN THE MAYOR'S COURT. 1728–83 (22 vols.).
 
 For wills, &c., registered after this date, *see under* “ Personal.” The accounts of the Mayor's Court have been noted already on p. 89. A volume in the *Home Miscellaneous* series (No. 432) contains papers relating to the various judicial courts of Bombay, 1728–1810, and some correspondence between the Recorder and the President of the India Board, 1799–1810.
 
@@ -3277,7 +3275,7 @@ For the early history, the *Original Correspondence*, the *Letter Books*, and th
 The records at the India Office relating to the Portuguese connexion with India consist chiefly of transcripts obtained by Mr. Danvers in 1891–92 from the official archives at Lisbon, &c., and of translations of the same. They are classed under the titles of the series from which they were extracted, viz. :—
 
 
-##### BOOKS OF THE MONSOONS (LIVROS DAS MONÇOES).
+##### BOOKS OF THE MONSOONS (LIVROS DAS MONÇÕES).
 
 Transcripts, 1616–51 (5 vols.). Translations (21 vols.).
 

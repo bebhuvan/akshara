@@ -1,0 +1,349 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,2,Name of Tribe or Caste.,Deshasth Brāhman,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,3,Language or Dialect.,Marathi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,4,Locality.,"Poona, Satara, Ahmednagar",,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,185·4,185.4,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·7,142.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,157,157.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,48·9,48.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,56,56.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·8,38.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,34,34.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,79·3,79.3,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,98,98.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,23,STATURE. :: Average.,1642,1642.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,24,STATURE. :: Maximum.,1750,1750.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,25,STATURE. :: Minimum.,1486,1486.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,116·6,116.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,135·6,135.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·2,116.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,127,127.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,1,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,105,105.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,2,Name of Tribe or Caste.,Mahār,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,3,Language or Dialect.,Marathi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,4,Locality.,Poona,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,181·6,181.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,165,165.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,140·0,140.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,152,152.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,129,129.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·2,47.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,53,53.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·7,38.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,46,46.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,81·9,81.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,96,96.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,23,STATURE. :: Average.,1634,1634.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,24,STATURE. :: Maximum.,1792,1792.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,25,STATURE. :: Minimum.,1490,1490.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,113·9,113.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,130·6,130.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,114·6,114.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,125,125.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,2,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,2,Name of Tribe or Caste.,Kokanasth Brāhman (Chitpāvan),,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,3,Language or Dialect.,Marathi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,4,Locality.,Bombay and Poona,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,186·4,186.4,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,202,202.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,144·2,144.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,155,155.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,122,122.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,85,85.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·3,49.3,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,41,41.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·8,37.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,43,43.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,76·6,76.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,93,93.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,60,60.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,23,STATURE. :: Average.,1655,1655.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,24,STATURE. :: Maximum.,1813,1813.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,25,STATURE. :: Minimum.,1512,1512.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,116·0,116.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,134·2,134.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·6,115.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,124,124.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,3,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,103,103.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,2,Name of Tribe or Caste.,Kunbi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,3,Language or Dialect.,Marathi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,4,Locality.,Poona,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,180·1,180.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,197,197.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,165,165.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,139·4,139.4,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,156,156.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,130,130.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,92,92.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·9,47.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,54,54.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,40,40.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·9,37.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,42,42.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,79·2,79.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,93,93.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,67,67.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,23,STATURE. :: Average.,1600,1600.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,24,STATURE. :: Maximum.,1776,1776.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,25,STATURE. :: Minimum.,1420,1420.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,113·2,113.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,129·5,129.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,114·5,114.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,124,124.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,4,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,104,104.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,2,Name of Tribe or Caste.,Koli (Sōn),,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,3,Language or Dialect.,Koli Dialect,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,4,Locality.,Thana,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,185·0,185.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,201,201.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,171,171.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,143·5,143.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,159,159.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,134,134.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,85,85.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·6,49.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·9,37.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,47,47.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,76·4,76.4,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,93,93.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,62,62.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,23,STATURE. :: Average.,1601,1601.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,24,STATURE. :: Maximum.,1760,1760.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,25,STATURE. :: Minimum.,1482,1482.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,114·5,114.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,129·5,129.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,113·1,113.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,122,122.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,5,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,104,104.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,2,Name of Tribe or Caste.,Marātha,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,3,Language or Dialect.,Marathi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,4,Locality.,Poona,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,181·3,181.3,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,166,166.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,142·1,142.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,158,158.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,127,127.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,89,89.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,69,69.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,47·8,47.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,38,38.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·3,38.3,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,48,48.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,80·1,80.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,108,108.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,66,66.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,23,STATURE. :: Average.,1632,1632.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,24,STATURE. :: Maximum.,1770,1770.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,25,STATURE. :: Minimum.,1476,1476.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,114·9,114.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,133·1,133.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,115·8,115.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,132,132.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,6,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,107,107.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,2,Name of Tribe or Caste.,Shenvi Brāhman,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,3,Language or Dialect.,Marathi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,4,Locality.,Bombay city,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,186·2,186.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,201,201.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,147·1,147.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,160,160.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,132,132.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,92,92.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·3,50.3,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,59,59.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,42,42.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·6,37.6,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,43,43.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,33,33.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,74·7,74.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,95,95.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,63,63.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,23,STATURE. :: Average.,1648,1648.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,24,STATURE. :: Maximum.,1774,1774.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,25,STATURE. :: Minimum.,1481,1481.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,112·9,112.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,129·5,129.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,114·7,114.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,124,124.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,7,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,104,104.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,2,Name of Tribe or Caste.,Vania,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,3,Language or Dialect.,Gujerati,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,4,Locality.,Ahmedabad,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,183·0,183.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,202,202.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,145·2,145.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,156,156.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,135,135.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,88,88.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,49·9,49.9,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,59,59.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,35,35.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·8,37.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,49,49.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,75·7,75.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,10,10.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,61,61.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,23,STATURE. :: Average.,1612,1612.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,24,STATURE. :: Maximum.,1732,1732.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,25,STATURE. :: Minimum.,1489,1489.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,113·1,113.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,131·5,131.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·2,116.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,128,128.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,8,data,,127,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,2,Name of Tribe or Caste.,Nāgar Brāhman,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,3,Language or Dialect.,Gujerati,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,4,Locality.,Ahmedabad,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,184·4,184.4,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,202,202.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,151,151.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,147·1,147.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,166,166.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,132,132.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,90,90.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,71,71.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·7,50.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,61,61.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,44,44.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·1,37.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,44,44.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,73·1,73.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,90,90.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,57,57.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,23,STATURE. :: Average.,1643,1643.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,24,STATURE. :: Maximum.,1788,1788.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,25,STATURE. :: Minimum.,1513,1513.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,114·1,114.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,133·2,133.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,116·7,116.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,124,124.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,9,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,2,Name of Tribe or Caste.,Prabhu,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,3,Language or Dialect.,Marathi,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,4,Locality.,"Satara, Poona, Bombay (city), Thana",,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,184·2,184.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,198,198.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,170,170.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,147·2,147.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,158,158.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,131,131.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,89,89.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,50·1,50.1,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,58,58.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,44,44.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·0,38.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,75·8,75.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,93,93.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,60,60.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,23,STATURE. :: Average.,1627,1627.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,24,STATURE. :: Maximum.,1814,1814.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,25,STATURE. :: Minimum.,1504,1504.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,113·0,113.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,128·2,128.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,113·4,113.4,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,10,data,,100,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,106,106.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,2,Name of Tribe or Caste.,Coorg,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,3,Language or Dialect.,Kodagu,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,4,Locality.,Coorg,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,184·0,184.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,195,195.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,168,168.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,147·0,147.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,154,154.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,138,138.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,89,89.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,74,74.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,51·5,51.5,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,57,57.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,46,46.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,37·0,37.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,40,40.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,32,32.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,72·0,72.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,86,86.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,61,61.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,23,STATURE. :: Average.,1687,1687.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,24,STATURE. :: Maximum.,1820,1820.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,25,STATURE. :: Minimum.,1580,1580.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,110·0,110.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,132·0,132.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,120·0,120.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,130,130.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,11,data,,32,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,108,108.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,2,Name of Tribe or Caste.,Kātkari,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,3,Language or Dialect.,Kātkari,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,4,Locality.,Thana,,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,5,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average.,178·8,178.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,6,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum.,199,199.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,7,DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum.,160,160.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,8,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average.,133·0,133.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,9,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum.,143,143.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,10,DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum.,126,126.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,11,Column 11,7,7.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,12,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum.,82,82.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,13,[…]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum.,68,68.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,14,DIMENSIONS OF NOSE. :: HEIGHT. :: Average.,44·0,44.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,15,DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum.,52,52.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,16,DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum.,37,37.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,17,DIMENSIONS OF NOSE. :: BREADTH. :: Average.,38·7,38.7,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,18,DIMENSIONS OF NOSE. :: BREADTH. :: Maximum.,45,45.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,19,DIMENSIONS OF NOSE. :: BREADTH. :: Minimum.,31,31.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,20,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average.,88·0,88.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,21,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum.,111,111.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,22,PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum.,70,70.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,23,STATURE. :: Average.,1584,1584.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,24,STATURE. :: Maximum.,1690,1690.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,25,STATURE. :: Minimum.,1438,1438.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,26,RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average).,107·8,107.8,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,27,RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average).,121·2,121.2,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,28,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average.,112·4,112.4,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,29,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum.,121,121.0,,False,False
+people-of-india,tbl-039,BOMBAY AND COORG (In order of Cephalic Index.),446,404,13,data,Dravidian For Nomads in Scytho-Dravidian Tract,Row 13,30,RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum.,104,104.0,,False,False

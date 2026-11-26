@@ -23,7 +23,7 @@
         <idno type="book_id">indian-shipping</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -146,7 +146,7 @@ DUKE STREET, STAMFORD STREET, S.E., AND GREAT WINDMILL STREET, W.</p>
         <pb xml:id="page-23" n="xvii" facs="https://archive.org/download/indianshippinghi00mookrich/page/n22_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>CONTENTS.</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Introduction.</hi></head>
             <p rend="toc-entry">I. Isolation and Intercourse . . . . . . 1</p>
             <p rend="toc-entry">II. Evidences . . . . . . . 6</p>
@@ -202,7 +202,7 @@ with Farther India . . . . 142</p>
           <head>ILLUSTRATIONS.</head>
           <p rend="toc-entry">Indian Adventurers Sailing out to Colonize Java. (From the
 Sculptures of Borobudur.) . . . . . <hi rend="italic">Frontispiece</hi></p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">Facing page</hi></head>
             <p rend="toc-entry">Sculptures from the Sanchi Stupas . . . . . . 32</p>
             <p rend="toc-entry">The Royal Barge on the Jagannath Temple, Puri . . . . 36</p>
@@ -458,21 +458,16 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <div type="subsection" n="h3">
               <head><hi rend="smallcaps">I.—Isolation and Intercourse.</hi></head>
               <p><hi rend="smallcaps">Even</hi> a superficial view of the physical features of India cannot fail to show that there is hardly any part of the world better marked out by nature as a region by itself than India. It is a region, indeed, full of contrasts in physical features and climate, but the features that divide and isolate it as a whole from surrounding regions are too clear to be overlooked. In truth, the whole of India, in spite of assertions to the contrary made by some geographers, is easily perceived to be a single country endowed with a sharply defined individuality, and beneath her truly manifold and bewildering variety there is a fundamental geographical unity, a complete territorial synthesis.</p>
-              <p>Mountain-guarded and sea-girt as she is on the north and the south, India looks as if she had been meant by nature to remain aloof from the rest of the world and to develop her civilization in isolation, untouched by the currents that stir humanity abroad. And yet there is hardly any country in the world <pb xml:id="page-36" n="2" facs="https://archive.org/download/indianshippinghi00mookrich/page/n35_w1400.jpg"/> that presents such an eventful record of intercourse with foreign countries. The geography of India points to her natural isolation ; but the history of India reveals other facts. And if we study that history carefully from the earliest times we shall easily recognize that contact or intercourse with other countries has been a no less potent factor in its making than isolation. It has been well said that none of the greatest movements in the world which have influenced the history of mankind have failed to touch India and contribute to the development and richness of her extraordinarily varied culture and civilization. Above all comprehension and beyond all human insight is that mysterious impulse which gave birth to the momentous movement of Aryan migration and expansion, so big with consequences, and by far the most important event in the world's history. And it is a commonplace of history that one of the main streams of this great migration of the pioneers of the world's civilization entered India through her north-western mountain passes to build up her spiritual character, even as the Indus and the Ganges have broken through the Himalayas to create her physical character. For centuries these Indo-Aryans pushed on their work of colonizing India amid struggles and conflicts with the original inhabitants of the country, and developed a civilization that is reflected in the literature they have created. Then rose Buddhism, the first of worldreligions, <pb xml:id="page-37" n="3" facs="https://archive.org/download/indianshippinghi00mookrich/page/n36_w1400.jpg"/> a product of the Indian soil which extended its influence beyond its limits over all countries lying east and north of India—from the steppes of the Mongols and the mountainous wildernesses of Tibet, through Japan, and on the south and east far into the Indian Archipelago. For centuries India stood out as the heart of the Old World, moulding and dominating its thought and life. Meanwhile there continued to beat upon Indian shores successive waves of foreign influence, such as the Iranian influence flowing from the first veritable empire of the ancient Orient, the empire of the Achaemenides, which under Darius included within itself the whole of Sindh and a considerable portion of the Punjab east of the Indus, forming his twentieth satrapy and yielding the enormous tribute of fully a million sterling, an influence that left some marks upon Indian art and architecture and methods of government and administration ; the Hellenic influence beginning from Alexander’s invasion and exercised by a succession of Greek rulers of the Punjab and neighbouring regions, but “ which touched only the fringe of Indian civilization ”; and the Graeco-Roman influence during the time of the Kushan or Indo-Scythian kings. Then, also, the two great civilizing forces of the world that next arose did not fail to touch India and contribute to her making, viz. the Islamic culture and civilization, and the European, <pb xml:id="page-38" n="4" facs="https://archive.org/download/indianshippinghi00mookrich/page/n37_w1400.jpg"/> which, following in the wake of foreign invasions and commerce, has continued to influence Indian thought and life to this day.  India, therefore, is a favoured country where all the diversities of human culture have met to build up an extraordinarily rich and synthetic culture.  Thus intercourse is as much a characteristic of the history of India as isolation.</p>
+              <p>Mountain-guarded and sea-girt as she is on the north and the south, India looks as if she had been meant by nature to remain aloof from the rest of the world and to develop her civilization in isolation, untouched by the currents that stir humanity abroad. And yet there is hardly any country in the world <pb xml:id="page-36" n="2" facs="https://archive.org/download/indianshippinghi00mookrich/page/n35_w1400.jpg"/> that presents such an eventful record of intercourse with foreign countries. The geography of India points to her natural isolation ; but the history of India reveals other facts. And if we study that history carefully from the earliest times we shall easily recognize that contact or intercourse with other countries has been a no less potent factor in its making than isolation. It has been well said that none of the greatest movements in the world which have influenced the history of mankind have failed to touch India and contribute to the development and richness of her extraordinarily varied culture and civilization. Above all comprehension and beyond all human insight is that mysterious impulse which gave birth to the momentous movement of Aryan migration and expansion, so big with consequences, and by far the most important event in the world's history. And it is a commonplace of history that one of the main streams of this great migration of the pioneers of the world's civilization entered India through her north-western mountain passes to build up her spiritual character, even as the Indus and the Ganges have broken through the Himalayas to create her physical character. For centuries these Indo-Aryans pushed on their work of colonizing India amid struggles and conflicts with the original inhabitants of the country, and developed a civilization that is reflected in the literature they have created. Then rose Buddhism, the first of world-religions, <pb xml:id="page-37" n="3" facs="https://archive.org/download/indianshippinghi00mookrich/page/n36_w1400.jpg"/> a product of the Indian soil which extended its influence beyond its limits over all countries lying east and north of India—from the steppes of the Mongols and the mountainous wildernesses of Tibet, through Japan, and on the south and east far into the Indian Archipelago. For centuries India stood out as the heart of the Old World, moulding and dominating its thought and life. Meanwhile there continued to beat upon Indian shores successive waves of foreign influence, such as the Iranian influence flowing from the first veritable empire of the ancient Orient, the empire of the Achaemenides, which under Darius included within itself the whole of Sindh and a considerable portion of the Punjab east of the Indus, forming his twentieth satrapy and yielding the enormous tribute of fully a million sterling, an influence that left some marks upon Indian art and architecture and methods of government and administration ; the Hellenic influence beginning from Alexander’s invasion and exercised by a succession of Greek rulers of the Punjab and neighbouring regions, but “ which touched only the fringe of Indian civilization ”; and the Graeco-Roman influence during the time of the Kushan or Indo-Scythian kings. Then, also, the two great civilizing forces of the world that next arose did not fail to touch India and contribute to her making, viz. the Islamic culture and civilization, and the European, <pb xml:id="page-38" n="4" facs="https://archive.org/download/indianshippinghi00mookrich/page/n37_w1400.jpg"/> which, following in the wake of foreign invasions and commerce, has continued to influence Indian thought and life to this day.  India, therefore, is a favoured country where all the diversities of human culture have met to build up an extraordinarily rich and synthetic culture.  Thus intercourse is as much a characteristic of the history of India as isolation.</p>
               <p>Hardly less convincing than these facts of the political intercourse of India are the facts of her commercial intercourse with foreign countries with which we are more directly concerned.  We shall have ample evidence to show that for full thirty centuries India stood out as the very heart of the Old World, and maintained her position as one of the foremost maritime countries.  She had colonies in Pegu, in Cambodia, in Java, in Sumatra, in Borneo, and even in the countries of the Farther East as far as Japan.  She had trading settlements in Southern China, in the Malayan peninsula, in Arabia, and in all the chief cities of Persia and all over the east coast of Africa.  She cultivated trade relations not only with the countries of Asia, but also with the whole of the then known world, including the countries under the dominion of the Roman Empire, and both the East and the West became the theatre of Indian commercial activity and gave scope to her naval energy and throbbing international life.</p>
               <p>It will thus be seen that instead of the rigid isolation apparently decreed to her by nature, we <pb xml:id="page-39" n="5" facs="https://archive.org/download/indianshippinghi00mookrich/page/n38_w1400.jpg"/> find a remarkably active intercourse with foreign countries established by the efforts of man, and a conquest achieved over the natural environment. The great and almost impregnable barriers on the north are pierced by mountain-passes which have been throughout used as the pathways of commerce and communication with the external world. Towards the south the ocean from its very nature proved a far more effective and fatal barrier to the cultivation of foreign relations, till the rapid development of national shipping triumphed over that obstacle and converted the ocean itself into a great highway of international intercourse and commerce. The early growth of her shipping and shipbuilding, coupled with the genius and energy of her merchants, the skill and daring of her seamen, the enterprise of her colonists, and the zeal of her missionaries, secured to India the command of the sea for ages, and helped her to attain and long maintain her proud position as the mistress of the Eastern seas. There was no lack of energy on the part of Indians of old in utilizing to the full the opportunities presented by nature for the development of Indian maritime activity—the fine geographical position of India in the heart of the Orient, with Africa on the west and the Eastern Archipelago and Australia on the east, her connection with the vast mainland of Asia on the north, her possession of a sea-board that extends over more than four thousand miles, and <pb xml:id="page-40" n="6" facs="https://archive.org/download/indianshippinghi00mookrich/page/n39_w1400.jpg"/> finally the network of rivers which opens up the interior. In fact, in India there is to be found the conjunction or assemblage of most of those specific geographical conditions on which depends the commercial development of a country.</p>
-            </div>
-            <div type="subsection" n="h3">
-              <head>II.—<hi rend="smallcaps">Evidences.</hi></head>
-              <p>The sources and materials available for the construction of a history of Indian shipping and maritime activity naturally divide themselves into two classes, Indian and foreign. The Indian evidences are those derived from Indian literature and art, including sculpture and painting, besides the evidence of archaeology in its threefold branches, epigraphic, monumental, and numismatic. The evidences of Indian literature are based chiefly on Sanskrit, Pali, and Persian works, and in some cases on works in the Indian vernaculars, Tamil, Marathi, and Bengali. The foreign evidences consist of those writings of foreign travellers and historians which contain observations on Indian subjects, and also of archaeological remains such as those in Java. The former are embedded mostly in classical literature, in Chinese, Arabic, and Persian, to which we have access only through translations.</p>
-              <p>The way these various evidences, literary and monumental, Indian and foreign, will be arranged, and the order in which they will be presented,</p>
             </div>
           </div>
         </div>
       </div>
       <div xml:id="sec-07" type="chapter" n="07-ii-evidences">
         <head>II. Evidences</head>
-        <div type="subsection" n="h3">
+        <div type="subsection" n="h1">
           <head>II.—<hi rend="smallcaps">Evidences.</hi></head>
           <p>The sources and materials available for the construction of a history of Indian shipping and maritime activity naturally divide themselves into two classes, Indian and foreign. The Indian evidences are those derived from Indian literature and art, including sculpture and painting, besides the evidence of archaeology in its threefold branches, epigraphic, monumental, and numismatic. The evidences of Indian literature are based chiefly on Sanskrit, Pali, and Persian works, and in some cases on works in the Indian vernaculars, Tamil, Marathi, and Bengali. The foreign evidences consist of those writings of foreign travellers and historians which contain observations on Indian subjects, and also of archaeological remains such as those in Java. The former are embedded mostly in classical literature, in Chinese, Arabic, and Persian, to which we have access only through translations.</p>
           <p>The way these various evidences, literary and monumental, Indian and foreign, will be arranged, and the order in which they will be presented, <pb xml:id="page-41" n="7" facs="https://archive.org/download/indianshippinghi00mookrich/page/n40_w1400.jpg"/> require to be explained at the outset. Bearing in mind the well-known dictum that “ the literature as well as the art of a people tells its life,” I have thought that the case for India’s maritime activity cannot be held to be sufficiently made out until in the first instance it is supported by the evidence supplied by her own native literature and art, great as they are. The first proofs of Indian maritime activity, and of the existence and growth of an Indian shipping by which that activity realized itself, must accordingly be sought in the domain of Indian literature and art, and the want or paucity of these can hardly be compensated for by the abundance of evidences culled from foreign works. The evidences that will therefore be first presented will be all Indian, being those supplied by Indian literature and art, and after them will follow the evidences derived from foreign sources. Again, as the dates of most of the Indian literary works to which reference will be made are unhappily not yet a matter of certainty, I could not make the evidences drawn from them the basis of any historical treatment of the subject or regard them as any help to a chronological arrangement of the facts regarding the shipping, sea-borne trade, and maritime activity of India. Accordingly, the evidence from Indian literature that will be first adduced will serve only as an introduction to the whole subject, preparing the ground and making out the case for it, so to <pb xml:id="page-42" n="8" facs="https://archive.org/download/indianshippinghi00mookrich/page/n41_w1400.jpg"/> speak. The real historical narrative of the naval activity of India will be built up of materials supplied by such foreign and also Indian works as labour under no chronological difficulties.</p>
@@ -482,7 +477,7 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
       <div xml:id="sec-08" type="chapter" n="08-iii-epochs">
         <head>III. Epochs</head>
         <pb xml:id="page-43" n="9" facs="https://archive.org/download/indianshippinghi00mookrich/page/n42_w1400.jpg"/>
-        <div type="subsection" n="h3">
+        <div type="subsection" n="h1">
           <head>III.—<hi rend="smallcaps">Epochs</hi>.</head>
           <p>The epochs of Indian history round which these various evidences regarding the shipping and maritime activity of India will be grouped, may be roughly indicated as follows :—</p>
           <p>1. The <hi rend="italic">Pre-Mauryan Epoch</hi>, extending from the earliest times to about the year <hi rend="smallcaps">b.c.</hi> 321.—For this period we shall discuss the evidences that can be gleaned from some of the oldest literary records of humanity like the <hi rend="italic">Ṛig-Veda</hi>, the Bible, and some of the old Pali and Tamil works, as also from the finds of Egyptian and Assyrian archaeologists, regarding the early maritime intercourse of India with the West. Evidences for this period are also to be derived from the writings of the Greek authors Herodotus and Ctesias, in the 5th century <hi rend="smallcaps">b.c.</hi>, containing references to India.</p>
@@ -499,9 +494,9 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <pb xml:id="page-51" n="17" facs="https://archive.org/download/indianshippinghi00mookrich/page/n50_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>BOOK I. HINDU PERIOD.</head>
-        </div>
-        <div type="subsection" n="h1">
-          <head>PART I.</head>
+          <div type="subsection" n="h2">
+            <head>PART I.</head>
+          </div>
           <div type="subsection" n="h2">
             <head><hi rend="bold">Indications of Maritime Activity in Indian Literature and Art.</hi></head>
             <pb xml:id="page-53" n="19" facs="https://archive.org/download/indianshippinghi00mookrich/page/n52_w1400.jpg"/>
@@ -591,7 +586,7 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
       <item><note xml:id="sec-09-fn-010" place="foot" n="2" target="#ref-sec-09-fn-010">दीर्घा चैवोन्नता चेति विशेषे द्विविधा भिदा ।</note></item>
       <item><note xml:id="sec-09-fn-011" place="foot" n="3" target="#ref-sec-09-fn-011">राजहस्तद्वयायामा अष्टांशपरिणाहिनी । नौकेयं दीर्घिका नाम दशाङ्गेनोन्नतापि च ॥ दीर्घिका तरणिर्लोला गत्वरा गामिनी तरिः । जङ्घाला प्लाविनी चैव धारिणी वेगिनी तथा ॥ राजहस्तैकैकवृद्धा—नौकानामानि वै दश । उन्नतिः परिणाहश्च दशाष्टांशमितौ क्रमात् ॥</note></item>
       <item><note xml:id="sec-09-fn-012" place="foot" n="1" target="#ref-sec-09-fn-012">अत्र लोला गामिनी च प्लाविनी दुःखदा भवेत् । लोलाया मानमारभ्य यावद्भवति गम्बरा । लोलायाः फलमाधत्ते एवं सर्वासु निर्णयः ॥</note></item>
-      <item><note xml:id="sec-09-fn-013" place="foot" n="2" target="#ref-sec-09-fn-013">राजहस्तद्वयमिता तावत्प्रसरणोन्नता । द्वयमूच्छाभिधा नौका क्षेमाय पृथिवीभुजाम् ॥ ऊर्द्धानूर्द्धाखर्णमुखी गर्भिणी मन्थरा तथा । राजहस्तैकैकवृद्ध्या नाम पञ्चत्रयं भवेत् ॥ अनूर्द्धा गर्भिणी च निन्दितं नामयुग्मकम् । मन्थरायाः परा यास्तु ताः शुभाय यथोद्भवम् ॥ Opinions of Sanskrit scholars whom I have consulted differ as to the exact meaning of the passages above quoted from the MS. <hi rend="italic">Yuktikalpataru</hi>. According to some the word राजा means चन्द्र = 1, and हस्त = 2, so that राजहस्त stands for the number 21. But according to others, with whom I agree, राजा = 16, for in the works on Astronomy or ज्योतिष्, ‘महीभृत्’ or ‘राजा’ is often used to indicate that number. I have made the calculations given above on the basis of the second interpretation.</note></item>
+      <item><note xml:id="sec-09-fn-013" place="foot" n="2" target="#ref-sec-09-fn-013">राजहस्तद्वयमिता तावत्प्रसरणोन्नता । द्वयमूच्छाभिधा नौका क्षेमाय पृथिवीभुजाम् ॥ ऊर्द्धानूर्द्धाखर्णमुखी गर्भिणी मन्थरा तथा । राजहस्तैकैकवृद्ध्या नाम पञ्चत्रयं भवेत् ॥ अनूर्द्धा गर्भिणी च निन्दितं नामयुग्मकम् । मन्थरायाः परा यास्तु ताः शुभाय यथोद्भवम् ॥<lb type="paragraph"/>Opinions of Sanskrit scholars whom I have consulted differ as to the exact meaning of the passages above quoted from the MS. <hi rend="italic">Yuktikalpataru</hi>. According to some the word राजा means चन्द्र = 1, and हस्त = 2, so that राजहस्त stands for the number 21. But according to others, with whom I agree, राजा = 16, for in the works on Astronomy or ज्योतिष्, ‘महीभृत्’ or ‘राजा’ is often used to indicate that number. I have made the calculations given above on the basis of the second interpretation.</note></item>
       <item><note xml:id="sec-09-fn-014" place="foot" n="1" target="#ref-sec-09-fn-014">धात्वादीनामतो वक्ष्ये निर्णयं तरिसंश्रयम् । कनकं रजतं ताम्रं त्रितयं वा यथाक्रमम् ॥ ब्रह्मादिभिः परिन्यस्य नौका चित्रणकर्म्मणि । चतुःशृङ्गा त्रिशृङ्गाभा द्विशृङ्गा चैकशृङ्गिणी ॥ सितरक्तापीतनीलवर्णान् दद्याद् यथाक्रमम् ॥ केशरी महिषो नागो द्विरदो व्याघ्र एव च । पक्षी भेको मनुष्यश्च एतेषां वदनाष्टकम् ॥ नावां मुखे परिन्यस्य आदित्यादिदशाभुवाम् ॥ . . . . . . नौकासु मणिविन्यासो विज्ञेयो नवदन्द्ववत् । मुक्तास्रवकैर्युक्ता नौका स्यात् सर्व्वतो भद्रा ॥</note></item>
       <item><note xml:id="sec-09-fn-015" place="foot" n="1" target="#ref-sec-09-fn-015">सग्गृहा त्रिविधा प्रोक्ता सर्व्वमध्याग्रमन्दिरा ।</note></item>
       <item><note xml:id="sec-09-fn-016" place="foot" n="2" target="#ref-sec-09-fn-016">सर्व्वतो मन्दिरं यत्र सा ज्ञेया सव्वमन्दिरा ।</note></item>
@@ -627,7 +622,7 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <p>There are several representations of ships and boats in old Indian art. The earliest of them are those to be found among the Sanchi sculptures belonging to an age so far back as the 2nd century <hi rend="smallcaps">b.c.</hi> One of the sculptures on the Eastern Gateway of No. 1 Stupa at Sanchi represents a canoe made up of rough planks rudely sewn together by hemp <pb xml:id="page-69" n="33" facs="https://archive.org/download/indianshippinghi00mookrich/page/n68_w1400.jpg"/> or string. “ It represents a river or a sheet of fresh water with a canoe crossing it, and carrying three men in the ascetic priestly costume, two propelling and steering the boat, and the central figure, with hands resting on the gunwale, facing towards four ascetics, who are standing in reverential attitude at the water’s edge below.”<ref xml:id="ref-sec-10-fn-001" type="noteref" target="#sec-10-fn-001">1</ref> According to Sir A. Cunningham,<ref xml:id="ref-sec-10-fn-002" type="noteref" target="#sec-10-fn-002">2</ref> the figures in the boat represent Sakya Buddha and his two principal followers ; and Buddha himself has been compared in many Buddhist writings to “ a boat and oar in the vast ocean of life and death.”<ref xml:id="ref-sec-10-fn-003" type="noteref" target="#sec-10-fn-003">3</ref> But General F. C. Maisley is inclined to view this sculpture “ as representing merely the departure on some expedition or mission of an ascetic, or priest, of rank amid the reverential farewells of his followers.”<ref xml:id="ref-sec-10-fn-004" type="noteref" target="#sec-10-fn-004">4</ref> His main reasons for supporting this view are, firstly, that no representations of Buddha in human shape were resorted to until several centuries later than the date of these sculptures ; and, secondly, because the representation is that of a common thong-bound canoe and not of a sacred barge suiting the great Buddha. There is another sculpture to be found on the Western Gateway of No. 1 Stupa at Sanchi which “ represents a piece of water, with a barge <pb xml:id="page-70" n="34" facs="https://archive.org/download/indianshippinghi00mookrich/page/n69_w1400.jpg"/> floating on it whose prow is formed by a winged gryphon and stern by a fish’s tail. The barge contains a pavilion overshadowing a vacant throne, over which a male attendant holds a <hi rend="italic">chatta</hi>, while another man has a <hi rend="italic">chaori</hi> ; a third man is steering or propelling the vessel with a large paddle. In the water are fresh-water flowers and buds and a large shell ; and there are five men floating about, holding on by spars and inflated skins, while a sixth appears to be asking the occupant of the stern of the vessel for help out of the water.”<ref xml:id="ref-sec-10-fn-005" type="noteref" target="#sec-10-fn-005">1</ref> This sculpture appears simply to represent the royal state barge, which quite anticipates its modern successors used by Indian nobles at the present day, and the scene is that of the king and some of his courtiers disporting themselves in an artificial piece of water ; but it is also capable of a symbolical meaning, especially when we consider that the shape of the barge here shown is that of the sacred <hi rend="italic">Makara</hi>, the fish avatara or Jataka of the Buddhist, just as the Hindu scriptures make the <hi rend="italic">Matsya</hi>, or fish, the first of the avatars of Vishnu, whose latest incarnation was Buddha. According to Lieutenant Massey, however, this sculpture represents the conveyance of relics from India to Ceylon which is intercepted by Nagas.<ref xml:id="ref-sec-10-fn-006" type="noteref" target="#sec-10-fn-006">2</ref></p>
             <pb xml:id="page-67" n="33" facs="https://archive.org/download/indianshippinghi00mookrich/page/n66_w1400.jpg"/>
             <figure xml:id="fig-003"><graphic url="../figures/fig-003_p0067.webp"/><figDesc>Engraving of a stone relief sculpture from the Sanchi Stupas depicting a boat on water with figures, a pavilion, and lotus flowers.</figDesc></figure>
-            <figure xml:id="fig-004"><graphic url="../figures/fig-004_p0067.webp"/><head>SCULPTURES FROM THE SANCHI STUPAS. — [<hi rend="italic">To face p.</hi> 32.</head><figDesc>SCULPTURES FROM THE SANCHI STUPAS. — [To face p. 32.</figDesc></figure>
+            <figure xml:id="fig-004"><graphic url="../figures/fig-004_p0067.webp"/><head>SCULPTURES FROM THE SANCHI STUPAS.</head><figDesc>SCULPTURES FROM THE SANCHI STUPAS.</figDesc></figure>
             <p>In passing it may be noted that the grotesque <pb xml:id="page-71" n="35" facs="https://archive.org/download/indianshippinghi00mookrich/page/n70_w1400.jpg"/> and fanciful shapes given to the prow herein represented are not the invention or innovation of an ingenious sculptor trying his wit in original design ; they are strictly traditional, and conform to established standards,<ref xml:id="ref-sec-10-fn-007" type="noteref" target="#sec-10-fn-007">1</ref> and are therefore identical with one or other of those possible forms of the prow of a ship which have been preserved for us in the slokas of the Sanskrit work <hi rend="italic">Yuktikalpataru</hi> quoted and referred to above.</p>
             <p>Next to Sanchi sculptures in point of time we may mention the sculptures in the caves of Kanhery in the small island of Salsette near Bombay, belonging, according to the unerring testimony of their inscriptions, to the 2nd century <hi rend="smallcaps">A.D.</hi>, the time of the Andhrabhritya or S'atakarni king Vashishthiputra (<hi rend="smallcaps">A.D.</hi> 133–162) and of Gotamiputra II. (<hi rend="smallcaps">A.D.</hi> 177–196). Among these sculptures there is a representation of a scene of shipwreck on the sea and two persons helplessly praying for rescue to god Padmapani who sends two messengers for the purpose. This is perhaps the oldest representation of a sea voyage in Indian sculpture.<ref xml:id="ref-sec-10-fn-008" type="noteref" target="#sec-10-fn-008">2</ref></p>
             <p>I have come across other representations of ships and boats in Indian sculpture and painting.</p>
@@ -635,7 +630,7 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <p>In the course of a journey I made through Orissa and South India I noticed among the sculptures of the Temple of Jagannath at Puri a fine, well-preserved representation of a royal barge shown in relief on stone, of which I got a sketch made. The representation appears on that portion of the great Temple of Jagannath which is said to have been once a part of the Black Pagoda of Kanaraka belonging to the 12th century <hi rend="smallcaps">A.D.</hi> The sculpture shows in splendid relief a stately barge propelled by lusty oarsmen with all their might, and one almost hears the very splash of their oars ; the water through which it cuts its way is thrown into ripples and waves indicated by a few simple and yet masterly touches ; and the entire scene is one of dash and hurry indicative of the desperate speed of a flight or escape from danger. The beauty of the cabin and the simplicity of its design are particularly noticeable ; the rocking-seat within is quite an innovation, probably meant to be effective against sea-sickness, while an equally ingenious idea is that of the rope or chain which hangs from the top and is grasped by the hand by the master of the vessel to steady himself on the rolling waters. It is difficult to ascertain what particular scene from our Shastras is here represented. It is very probably not a mere secular picture meant as an ornament. The interpretation put upon it by one of the many priests of whom I inquired, and which seems most <pb xml:id="page-75" n="37" facs="https://archive.org/download/indianshippinghi00mookrich/page/n74_w1400.jpg"/> likely, being suggested by the surrounding sculptures, was that the scene represented S'rī Krishña being secretly and hurriedly carried away beyond the destructive reach of King Kańsa. It will also be remembered that the vessel herein represented is that of the Madhyamandirā type as defined in the <hi rend="italic">Yuktikalpataru</hi>.</p>
             <pb xml:id="page-73" n="37" facs="https://archive.org/download/indianshippinghi00mookrich/page/n72_w1400.jpg"/>
             <figure xml:id="fig-005"><graphic url="../figures/fig-005_p0073.webp"/><head>THE ROYAL BARGE ON THE JAGANNATH TEMPLE, PURI.</head><figDesc>THE ROYAL BARGE ON THE JAGANNATH TEMPLE, PURI.</figDesc></figure>
-            <figure xml:id="fig-006"><graphic url="../figures/fig-006_p0073.webp"/><head>VAITAL DEUL. — [<hi rend="italic">To face p.</hi> 36.</head><figDesc>VAITAL DEUL. — [To face p. 36.</figDesc></figure>
+            <figure xml:id="fig-006"><graphic url="../figures/fig-006_p0073.webp"/><head>VAITAL DEUL.</head><figDesc>VAITAL DEUL.</figDesc></figure>
             <p>In Bhubaneshwara there is an old temple on the west side of the tank of Vindusārovara which requires to be noticed in this connection. The temple is called <hi rend="italic">Vaitāl Deul</hi> after the peculiar form of its roof resembling a ship or boat capsized, the word <hi rend="italic">vaitāra</hi> denoting a ship. The roof is more in the style of some of the Dravidian temples of Southern India, notably the <hi rend="italic">raths</hi> of Mahavellipore, than of Orissan architecture.</p>
             <p>There are a few very fine representations of old Indian ships and boats among the far-famed paintings of the Buddhist cave-temples at Ajantā, whither the devotees of Buddhism, nineteen centuries or more ago, retreated from the distracting cares of the world to give themselves up to contemplation. There for centuries the wild ravine and the basaltic rocks were the scene of an application of labour, skill, perseverance, and endurance that went to the excavation of these painted palaces, standing to this day as monuments of a boldness of conception and a defiance of difficulty as possible, we believe, to the modern as to the ancient Indian <pb xml:id="page-76" n="38" facs="https://archive.org/download/indianshippinghi00mookrich/page/n75_w1400.jpg"/> character. The worth of the achievement will be further evident from the fact that “much of the work has been carried on with the help of artificial light, and no great stretch of imagination is necessary to picture all that this involves in the Indian climate and in situations where thorough ventilation is impossible.”<ref xml:id="ref-sec-10-fn-009" type="noteref" target="#sec-10-fn-009">1</ref> About the truth and precision of the work, which are no less admirable than its boldness and extent, Mr. Griffiths has the following glowing testimony :—</p>
             <quote><p>During my long and careful study of the caves I have not been able to detect a single instance where a mistake has been made by cutting away too much stone ; for if once a slip of this kind occurred, it could only have been repaired by the insertion of a piece which would have been a blemish.<ref xml:id="ref-sec-10-fn-010" type="noteref" target="#sec-10-fn-010">2</ref></p></quote>
@@ -662,7 +657,7 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <p>These ships will be found to present two types of vessels. To the first type belong Nos. 1, 3, 5, 6. They are generally longer and broader than the <pb xml:id="page-93" n="47" facs="https://archive.org/download/indianshippinghi00mookrich/page/n92_w1400.jpg"/> vessels of the second type, have more than one mast, are many-ribbed, the ribs being curved, not straight. These vessels are built so narrow and top-heavy that it is necessary to fit outriggers for safety. An outrigger is a series of planks or logs joined to the boat with long poles or spars as shown in Fig. 1. It is customary when a large amount of sail is being carried for the crew to go out and stand on the outrigger as shown in Fig. 5.</p>
             <pb xml:id="page-91" n="47" facs="https://archive.org/download/indianshippinghi00mookrich/page/n90_w1400.jpg"/>
             <figure xml:id="fig-010"><graphic url="../figures/fig-010_p0091.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 1. (Reproduced from the Sculptures of Borobudur.)</head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 1. (Reproduced from the Sculptures of Borobudur.)</figDesc></figure>
-            <figure xml:id="fig-011"><graphic url="../figures/fig-011_p0091.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 2. (Reproduced from the Sculptures of Borobudur.) — <hi rend="italic">[To face p. 46.</hi></head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 2. (Reproduced from the Sculptures of Borobudur.) — [To face p. 46.</figDesc></figure>
+            <figure xml:id="fig-011"><graphic url="../figures/fig-011_p0091.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 2. (Reproduced from the Sculptures of Borobudur.)</head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 2. (Reproduced from the Sculptures of Borobudur.)</figDesc></figure>
             <p>No. 1 has got two masts and one long sail. No. 3 has got square sails and one stay-sail in front. In No. 5 the crew appear to be setting sail or taking sail down. No. 6 has been interpreted by Mr. Havell as representing sailors “hastening to furl the sails and bring the ship to anchor,” but this suggestion seems to be contradicted by the sea-gulls or albatrosses of the sculpture flying around the vessel, which without doubt indicate that the ship is in mid-ocean, far away from land.</p>
             <p>No. 1 shows probably a wooden figure-head and not a man ; so also do Nos. 3, 5, 6. There is also a sort of cabin in each of the vessels of the first type. Again, in No. 1 the figure aft appears to be a compass.<ref xml:id="ref-sec-10-fn-020" type="noteref" target="#sec-10-fn-020">1</ref></p>
             <pb xml:id="page-94" n="48" facs="https://archive.org/download/indianshippinghi00mookrich/page/n93_w1400.jpg"/>
@@ -671,10 +666,10 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <p>Some of the favourite devices of Indian sculpture to indicate water may be here noticed. Fresh and sea waters are invariably and unmistakably indicated by fishes, lotuses, aquatic leaves, and the like. The <hi rend="italic">makara</hi>, or alligator, showing its fearful row of teeth in Fig. 2, is used to indicate the ocean ; so also are the albatrosses or sea-gulls of Fig. 6. The curved lines are used to indicate waves.</p>
             <pb xml:id="page-95" n="49" facs="https://archive.org/download/indianshippinghi00mookrich/page/n94_w1400.jpg"/>
             <figure xml:id="fig-012"><graphic url="../figures/fig-012_p0095.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 3. (Reproduced from the Sculptures of Borobudur.)</head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 3. (Reproduced from the Sculptures of Borobudur.)</figDesc></figure>
-            <figure xml:id="fig-013"><graphic url="../figures/fig-013_p0095.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 4. (Reproduced from the Sculptures of Borobudur.) — <hi rend="italic">[To face p. 48.</hi></head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 4. (Reproduced from the Sculptures of Borobudur.) — [To face p. 48.</figDesc></figure>
+            <figure xml:id="fig-013"><graphic url="../figures/fig-013_p0095.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 4. (Reproduced from the Sculptures of Borobudur.)</head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 4. (Reproduced from the Sculptures of Borobudur.)</figDesc></figure>
             <pb xml:id="page-97" n="47" facs="https://archive.org/download/indianshippinghi00mookrich/page/n96_w1400.jpg"/>
             <figure xml:id="fig-014"><graphic url="../figures/fig-014_p0097.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 5. (Reproduced from the Sculptures of Borobudur.)</head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 5. (Reproduced from the Sculptures of Borobudur.)</figDesc></figure>
-            <figure xml:id="fig-015"><graphic url="../figures/fig-015_p0097.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 6. (Reproduced from the Sculptures of Borobudur.) — [<hi rend="italic">To face p.</hi> 48.</head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 6. (Reproduced from the Sculptures of Borobudur.) — [To face p. 48.</figDesc></figure>
+            <figure xml:id="fig-015"><graphic url="../figures/fig-015_p0097.webp"/><head>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 6. (Reproduced from the Sculptures of Borobudur.)</head><figDesc>INDIAN ADVENTURERS SAILING OUT TO COLONIZE JAVA. No. 6. (Reproduced from the Sculptures of Borobudur.)</figDesc></figure>
             <pb xml:id="page-99" n="49" facs="https://archive.org/download/indianshippinghi00mookrich/page/n98_w1400.jpg"/>
             <p>The trees and pillars appear probably to demarcate one scene from another in the sculpture.</p>
             <p>Finally, in the Philadelphia Museum there is a most interesting exhibit of the model of one of these Hindu-Javanese ships, an “outrigger ship,” with the following notes :—</p>
@@ -686,7 +681,7 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <figure xml:id="fig-016"><graphic url="../figures/fig-016_p0102.webp"/><head>No. 1.</head><figDesc>No. 1.</figDesc></figure>
             <figure xml:id="fig-017"><graphic url="../figures/fig-017_p0102.webp"/><head>No. 2.</head><figDesc>No. 2.</figDesc></figure>
             <figure xml:id="fig-018"><graphic url="../figures/fig-018_p0102.webp"/><head>No. 3.</head><figDesc>No. 3.</figDesc></figure>
-            <figure xml:id="fig-019"><graphic url="../figures/fig-019_p0102.webp"/><head>No. 4. — ANDHRA SHIP-COINS OF THE SECOND CENTURY A.D. — <hi rend="italic">[To face p. 51.</hi></head><figDesc>No. 4. — ANDHRA SHIP-COINS OF THE SECOND CENTURY A.D. — [To face p. 51.</figDesc></figure>
+            <figure xml:id="fig-019"><graphic url="../figures/fig-019_p0102.webp"/><head>No. 4. — ANDHRA SHIP-COINS OF THE SECOND CENTURY A.D.</head><figDesc>No. 4. — ANDHRA SHIP-COINS OF THE SECOND CENTURY A.D.</figDesc></figure>
             <p>Besides these Andhra coins there have been discovered some Kurumbar or Pallava coins on the Coromandel coast, on the reverse of which there is a figure of a “two-masted ship like the modern coasting vessel or <hi rend="italic">d’honi</hi>, steered by means of oars from the stern.” The Kurumbars were a pastoral tribe living in associated communities and inhabiting for some hundred years before the 7th century “the <pb xml:id="page-104" n="52" facs="https://archive.org/download/indianshippinghi00mookrich/page/n103_w1400.jpg"/> country from the base of the tableland to the Palar and Pennar Rivers. . . . They are stated to have been engaged in trade, and to have owned ships and carried on a considerable commerce by sea.”<ref xml:id="ref-sec-10-fn-026" type="noteref" target="#sec-10-fn-026">1</ref></p>
           </div>
         </div>
@@ -1476,14 +1471,14 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <pb xml:id="page-288" n="234" facs="https://archive.org/download/indianshippinghi00mookrich/page/n287_w1400.jpg"/>
             <figure xml:id="fig-020"><graphic url="../figures/fig-020_p0288.webp"/><head>A PATELLA.</head><figDesc>A PATELLA.</figDesc></figure>
             <figure xml:id="fig-021"><graphic url="../figures/fig-021_p0288.webp"/><head>AN OLOAKO.</head><figDesc>AN OLOAKO.</figDesc></figure>
-            <figure xml:id="fig-022"><graphic url="../figures/fig-022_p0288.webp"/><head>A BUDGAROO. — <hi rend="italic">[To face p. 235.</hi></head><figDesc>A BUDGAROO. — [To face p. 235.</figDesc></figure>
+            <figure xml:id="fig-022"><graphic url="../figures/fig-022_p0288.webp"/><head>A BUDGAROO.</head><figDesc>A BUDGAROO.</figDesc></figure>
             <pb xml:id="page-290" n="236" facs="https://archive.org/download/indianshippinghi00mookrich/page/n289_w1400.jpg"/>
             <p>Dr. Fryer, who visited India about the year 1674, has also left some interesting details about Indian ships and boats. He describes the <hi rend="italic">Mussoola</hi> as “ a boat wherein ten men paddle, the two aftermost of whom are the steersmen, using their paddles instead of rudder: the boat is not strengthened with kneetimber, as ours are; the bended planks are sewed together with rope-yarn of the cocoe and caulked with dammar (a sort of rosin taken out of the sea) so artificially that it yields to every ambitious surf.”<ref xml:id="ref-sec-24-fn-014" type="noteref" target="#sec-24-fn-014">1</ref> He describes catamarans as formed of “logs lashed to that advantage that they waft all their goods, only having a sail in their midst, and paddles to guide them.” Dr. Fryer was landed at Masulipatam by one of the country boats, which he describes as being “as large as one of our ware-barges and almost of that mould, sailing with one sail like them, but paddling with paddles instead of spreads, and carry a great burden with little trouble; outliving either ship or English skiff over the bar.”</p>
             <p>On the west coast also there were important <pb xml:id="page-293" n="237" facs="https://archive.org/download/indianshippinghi00mookrich/page/n292_w1400.jpg"/> shipping centres in Aurangzeb’s time. According to Dr. Fryer (1672) Aurangzeb had at Surat four great ships always in pay to carry pilgrims to Mecca free of cost. These vessels were “huge, unshapen things.” He also noticed at Surat some Indian ships or merchantmen carrying thirty or forty pieces of cannon, and “three or four men-of-war as big as third-rate ships, “as also frigates fit to row or sail, made with prows instead of beaks, more useful in rivers and creeks than in the main.” The captain of a ship was called <hi rend="italic">Nacquedah</hi> (Pers. <hi rend="italic">nakhuda</hi>, ship-master) and the boatswain <hi rend="italic">Tindal</hi>. Some of the larger Indian ships at Surat, of which the names are also known, fell a prey to the pirates that infested the whole of the western coast, and became a terrible scourge to the Indian trade in the time of the Emperor Aurangzeb, just as their brethren on the west coast, the Magg and Feringhi pirates, were carrying deltaic Bengal. Thus in August, 1691, a ship belonging to Abdul Guffoor, who was the wealthiest and most influential merchant in Surat, was captured by pirates at the mouth of the Surat river with nine lacs in hard cash on board. Soon afterwards another ship, named <hi rend="italic">Futteh Mahmood</hi>, with a valuable cargo, also belonging to Abdul Guffoor, was similarly seized by an Englishman called Every, who was the most notorious pirate of the time. A few days after the capture of the <hi rend="italic">Futteh Mahmood</hi>, Every took off Sanjan, north of <pb xml:id="page-294" n="238" facs="https://archive.org/download/indianshippinghi00mookrich/page/n293_w1400.jpg"/> Bombay, a ship belonging to the Emperor Aurangzeb himself, called the <hi rend="italic">Gunj Suwaie</hi> (“exceeding treasure”). According to Khafi Khan, the historian, the <hi rend="italic">Gunj Suwaie</hi> was the largest ship belonging to the port of Surat. She carried eight guns and four hundred matchlocks, and was deemed so strong that she disdained the help of a convoy. She was annually sent to Mecca, carrying Indian goods to Mocha and Jedda. She was returning to Surat with the result of the season’s trading, amounting to fifty-two lacs of rupees in silver and gold, with Ibrahim Khan as her captain, and when she had come within eight or nine days from Surat she was attacked and seized by the English pirate “sailing in a ship of much smaller size, and nothing a third or fourth of the armament.” Another capture of Every was the <hi rend="italic">Rampura</hi>, a Cambay ship with a cargo valued at Rs. 1,70,000. Shivaji also, as we shall presently see, used to intercept these Mogul ships plying between Surat and Mecca by means of the fleet which he fitted out at his ports built on the coasts.<ref xml:id="ref-sec-24-fn-015" type="noteref" target="#sec-24-fn-015">1</ref></p>
             <pb xml:id="page-291" n="237" facs="https://archive.org/download/indianshippinghi00mookrich/page/n290_w1400.jpg"/>
             <figure xml:id="fig-023"><graphic url="../figures/fig-023_p0291.webp"/><head>A PURGOO.</head><figDesc>A PURGOO.</figDesc></figure>
             <figure xml:id="fig-024"><graphic url="../figures/fig-024_p0291.webp"/><head>A BOORA.</head><figDesc>A BOORA.</figDesc></figure>
-            <figure xml:id="fig-025"><graphic url="../figures/fig-025_p0291.webp"/><head>MAN-OF-WAR PROW. — <hi rend="italic">[To face p. 236.</hi></head><figDesc>MAN-OF-WAR PROW. — [To face p. 236.</figDesc></figure>
+            <figure xml:id="fig-025"><graphic url="../figures/fig-025_p0291.webp"/><head>MAN-OF-WAR PROW.</head><figDesc>MAN-OF-WAR PROW.</figDesc></figure>
             <p>During the same period a great impetus to Indian shipping and maritime enterprise was given by the great Mahratta leader, S'ivaji,<ref xml:id="ref-sec-24-fn-016" type="noteref" target="#sec-24-fn-016">2</ref> who liberally <pb xml:id="page-295" n="239" facs="https://archive.org/download/indianshippinghi00mookrich/page/n294_w1400.jpg"/> patronized the shipbuilding industry. The growth of the Mahratta power was accompanied by the formation of a formidable fleet. Several docks were built, such as those in the harbours of Vijayadoorga, Kolaba, Sindhuvarga, Ratnagiri, Anjanvela, and the like, where men-of-war were constructed.<ref xml:id="ref-sec-24-fn-017" type="noteref" target="#sec-24-fn-017">1</ref> In 1698, Conajee Angria succeeded to the command of the Mahratta navy with the title of Darya-Saranga. The career of Angria was one long series of naval exploits and achievements rare in the annals of Indian maritime activity, but unfortunately “dismissed in a few words by our Indian historians.”<ref xml:id="ref-sec-24-fn-018" type="noteref" target="#sec-24-fn-018">2</ref> Under him the Mahratta naval power reached its high-water mark. Bombay had to wage a long half-century of amateur warfare to subdue the Angrian power. It would be tedious to relate all the details of their long-continued conflict, but we may mention some of the more important events. In the name of the Satara chief, Angria was master of the whole <pb xml:id="page-296" n="240" facs="https://archive.org/download/indianshippinghi00mookrich/page/n295_w1400.jpg"/> coast from Bombay to Vingorla, and, with a fleet of armed vessels carrying thirty and forty guns apiece, he soon became a menace to the European trade of the west coast. In 1707 his ship attacked the <hi rend="italic">Bombay</hi> frigate, which was blown up after a brief engagement. In 1710 he seized and fortified Kanhery, and his ships fought the <hi rend="italic">Godolphin</hi> for two days. In 1712 he captured the Governor of Bombay’s armed yacht, and fought two East Indiamen bound for Bombay. In 1716 he made prize of four private ships from Mahim, an East Indiaman named <hi rend="italic">Success</hi>, and a Bengal ship named <hi rend="italic">Otter</hi>. Then followed, successively, expeditions against Gheriah, Kanhery, and Colaba, which all proved abortive and ineffectual against the power of the Angrian fleet. In 1729 Conajee Angria died, and was succeeded at Severndoorg by Sambhuji Angria, who carried on his predatory policy for nearly thirty years. In 1730 the Angrian squadron of four grabs and fifteen gallivats destroyed the galleys <hi rend="italic">Bombay</hi> and <hi rend="italic">Bengal</hi> off Colaba. In 1732, five grabs and three gallivats attacked the East Indiaman <hi rend="italic">Ockham</hi>. In 1735 a valuable East Indiaman named the <hi rend="italic">Derby</hi>, with a great cargo of naval stores, fell into Sambhuji’s hands. In 1738 a Dutch squadron of seven ships-of-war and seven sloops was repulsed from Gherriah. In 1740 some fifteen sail of Angria’s fleet gave battle to four ships returning from China. The same year Sambhuji <pb xml:id="page-297" n="241" facs="https://archive.org/download/indianshippinghi00mookrich/page/n296_w1400.jpg"/> attacked Colaba with his army and forty or fifty gallivats, but was opposed by the English. In 1743 Sambhuji died, leaving his predatory policy to be continued by his successor, Toolaji. His greatest success was achieved in 1749, when Toolaji’s fleet of five grabs and a swarm of gallivats surrounded and cannonaded the <hi rend="italic">Restoration</hi>, the most efficient ship of the Bombay Marine. “Toolajee had now become very powerful. From Cutch to Cochin his vessels swept the coast in greater numbers than Conajee had ever shown. The superior sailing powers of the Mahratta vessels enabled them to keep out of range of the big guns, while they snatched prizes within sight of the men-of-war.” In 1754 the Dutch suffered a severe loss at Toolaji’s hands, losing a vessel loaded with ammunition, and two large ships. The next year the English and Peshwa formed an alliance against him, and jointly attacked Severndoorg, which was reduced after forty-eight hours’ fighting. Then followed the well-planned expedition led by Admiral Watson and Clive against Gherriah, resulting in the burning of the Angrian fleet, consisting of “three three-masted ships carrying twenty guns each, nine two-masted carrying from twelve to sixteen guns, thirteen gallivats carrying from six to ten guns, thirty others unclassed, two on the stocks, one of them pierced for forty guns.” The following is a very interesting description <pb xml:id="page-298" n="242" facs="https://archive.org/download/indianshippinghi00mookrich/page/n297_w1400.jpg"/> by an <hi rend="italic">eye-witness</hi> of Angria’s fleet : “ His fleet consisted of grabs and gallivats. . . . The grabs have rarely more than two masts. . . . They are very broad in proportion to their length. . . . On the main deck under the forecastle are mounted two pieces of cannon of nine or twelve pounders, which point forwards through the portholes cut in the bulkhead and fire over the prow ; the cannon of the broadside are from six to nine pounders. The gallivats are large row-boats rarely exceeding seventy tons. The gallivats are covered with a spar deck, made for lightness of split bamboos, and these only carry pettera roes, which are fixed on swivels in the gunnel of the vessel : but those of the largest size have a fixed deck on which they mount six or eight pieces of cannon, from two to four pounders. They have forty or fifty stout oars, and may be rowed four miles an hour. Eight or ten grabs and forty or fifty gallivats, crowded with men, generally composed Angria’s principal fleet, destined to attack ships of force or burthen.”<ref xml:id="ref-sec-24-fn-019" type="noteref" target="#sec-24-fn-019">1</ref> The fall of Gherriah meant the extinction of Mahratta naval power, which had been the terror of the coast for a whole half-century.</p>
             <pb xml:id="page-299" n="243" facs="https://archive.org/download/indianshippinghi00mookrich/page/n298_w1400.jpg"/>
             <figure xml:id="fig-026"><graphic url="../figures/fig-026_p0299.webp"/><head>“MAHRATTA GRABS AND GALLIVATS ATTACKING AN ENGLISH SHIP.” (From the picture in the possession of Sir Ernest Robinson.) — <hi rend="italic">[To face p. 242.</hi></head><figDesc>“MAHRATTA GRABS AND GALLIVATS ATTACKING AN ENGLISH SHIP.” (From the picture in the possession of Sir Ernest Robinson.) — [To face p. 242.</figDesc></figure>
@@ -1583,7 +1578,7 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
       </div>
     </body>
     <back>
-      <div xml:id="sec-27" type="backmatter" n="27-index-i-subjects">
+      <div xml:id="sec-27" type="index" n="27-index-i-subjects">
         <head>Index I.—Subjects</head>
         <pb xml:id="page-329" n="257" facs="https://archive.org/download/indianshippinghi00mookrich/page/n328_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -1591,23 +1586,35 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
           <div type="subsection" n="h2">
             <head>A</head>
             <list type="index">
-        <item>Activity, maritime, evidences of, wherefrom to be derived, 6</item>
-        <item>„ „ foreign evidences of, 6, 7</item>
-        <item>„ „ Indian evidences of, 6, 7</item>
-        <item>„ „ real historical narrative of, how to be built up, 8</item>
+        <item>Activity, maritime, evidences of, wherefrom to be derived, 6
+          <list type="index">
+            <item>„ „ foreign evidences of, 6, 7</item>
+            <item>„ „ Indian evidences of, 6, 7</item>
+            <item>„ „ real historical narrative of, how to be built up, 8</item>
+          </list>
+        </item>
         <item>Adaptations from Tamil words, 89</item>
-        <item>Admiralty Board of Akbar, 205, 206, 208, 210</item>
-        <item>„ „ „ Chandra Gupta, 104–112, 206</item>
+        <item>Admiralty Board of Akbar, 205, 206, 208, 210
+          <list type="index">
+            <item>„ „ „ Chandra Gupta, 104–112, 206</item>
+          </list>
+        </item>
         <item>Age, Golden, of maritime activity, 40</item>
         <item>Alexandrian fleet, 100</item>
         <item>Anchors, marble, 203</item>
         <item>Antonine period, 117</item>
-        <item>Applied chemistry, achievements in, in ancient India, 180</item>
-        <item>„ „ discoveries in, 180, 181</item>
+        <item>Applied chemistry, achievements in, in ancient India, 180
+          <list type="index">
+            <item>„ „ discoveries in, 180, 181</item>
+          </list>
+        </item>
         <item>Arabians, monopoly of commerce by, 94, 95</item>
         <item>Art of shipbuilding in India, treatise on, 19</item>
-        <item>Articles of merchandise stamped with royal stamp, 136</item>
-        <item>„ „ Roman trade, 123–125</item>
+        <item>Articles of merchandise stamped with royal stamp, 136
+          <list type="index">
+            <item>„ „ Roman trade, 123–125</item>
+          </list>
+        </item>
         <item>Aryans, migrations of, 11</item>
         <item>Augustan period, 117</item>
       </list>
@@ -1619,11 +1626,14 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Banias of Western India trading on Persian coast, 87</item>
         <item>Bengal, home of shipbuilding, 205</item>
         <item>Bengal Marine, 247</item>
-        <item>Bengali art, influence of, on Nepalese art, 157</item>
-        <item>„ artists, 157</item>
-        <item>„ characters on Japanese sculptures, 155, 156</item>
-        <item>„ literature, oldest record of maritime activity in, 159, 160</item>
-        <item>„ reformers, 155</item>
+        <item>Bengali art, influence of, on Nepalese art, 157
+          <list type="index">
+            <item>„ artists, 157</item>
+            <item>„ characters on Japanese sculptures, 155, 156</item>
+            <item>„ literature, oldest record of maritime activity in, 159, 160</item>
+            <item>„ reformers, 155</item>
+          </list>
+        </item>
       </list>
             <pb xml:id="page-330" n="258" facs="https://archive.org/download/indianshippinghi00mookrich/page/n329_w1400.jpg"/>
             <list type="index">
@@ -1631,16 +1641,25 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Birds in vessels used to show which way the wind lay, 73</item>
         <item>Board of Admiralty, 104</item>
         <item>Boat-hire, custom of, 61</item>
-        <item>Boats, registry of, 211</item>
-        <item>„ trailer, 192, 193</item>
+        <item>Boats, registry of, 211
+          <list type="index">
+            <item>„ trailer, 192, 193</item>
+          </list>
+        </item>
         <item>Bodyguard of Tamil kings, 128</item>
-        <item>Bombay-built ships, cheapness of, 246</item>
-        <item>„ „ durability of, 246</item>
+        <item>Bombay-built ships, cheapness of, 246
+          <list type="index">
+            <item>„ „ durability of, 246</item>
+          </list>
+        </item>
         <item>Bombay Marine, 244</item>
         <item>Bottomry, custom of lending money on, 61</item>
         <item>Broach, distributing centre of India, 131</item>
-        <item>Buddhism, extension of, 3</item>
-        <item>„ the first of the world-religions, 2, 3</item>
+        <item>Buddhism, extension of, 3
+          <list type="index">
+            <item>„ the first of the world-religions, 2, 3</item>
+          </list>
+        </item>
         <item>Byzantine emperors, 127</item>
       </list>
           </div>
@@ -1652,24 +1671,39 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Calcutta, shipping centre in, 198</item>
         <item>Cane used for masts and oars, 204</item>
         <item>Canoe, 32</item>
-        <item>Centre of naval strength, Bakla, 216</item>
-        <item>„ „ shipbuilding in Aurangzeb's time, 229</item>
+        <item>Centre of naval strength, Bakla, 216
+          <list type="index">
+            <item>„ „ shipbuilding in Aurangzeb's time, 229</item>
+          </list>
+        </item>
         <item>Cities which flourished on Indian trade in Solomon's period, 94</item>
         <item>Civilization, spread of, in Java, 49</item>
         <item>Classes of wood, 20</item>
-        <item>Classification of ships, 21, 22</item>
-        <item>„ „ wood, 20</item>
-        <item>Coins, Andhra, 51</item>
-        <item>„ Kurumbar, 51</item>
-        <item>„ Roman, 119, 120, 127</item>
-        <item>Colonies, Indian, in Java, Sumatra, etc., 4, 171, 163</item>
-        <item>„ of Romans in India, 129</item>
+        <item>Classification of ships, 21, 22
+          <list type="index">
+            <item>„ „ wood, 20</item>
+          </list>
+        </item>
+        <item>Coins, Andhra, 51
+          <list type="index">
+            <item>„ Kurumbar, 51</item>
+            <item>„ Roman, 119, 120, 127</item>
+          </list>
+        </item>
+        <item>Colonies, Indian, in Java, Sumatra, etc., 4, 171, 163
+          <list type="index">
+            <item>„ of Romans in India, 129</item>
+          </list>
+        </item>
         <item>Colonization of Ceylon, 42, 43, 70, 157</item>
         <item>Colony, Bengali, in Cochin China, 157</item>
         <item>Colours recommended for painting vessels, 25</item>
         <item>Commerce, relation of, to shipping, 8</item>
-        <item>Commercial activity of India, 22, 23</item>
-        <item>„ centre at Gaur, 221</item>
+        <item>Commercial activity of India, 22, 23
+          <list type="index">
+            <item>„ centre at Gaur, 221</item>
+          </list>
+        </item>
         <item>Connection of India with foreign countries, 59</item>
         <item>Cotton, in Japan, introduction of, through Indians, 174</item>
       </list>
@@ -1679,20 +1713,29 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <head>D</head>
             <list type="index">
         <item>Damascus swords, 181</item>
-        <item>Deal in birds between Babylon and Benares, 77</item>
-        <item>„ „ horses, 77</item>
+        <item>Deal in birds between Babylon and Benares, 77
+          <list type="index">
+            <item>„ „ horses, 77</item>
+          </list>
+        </item>
         <item>Decline of Occidental trade, 126</item>
         <item>Decorations of ships, 25</item>
         <item>Dependence on foreign shipping, 253</item>
         <item>Depository of metallic wealth, India, 84</item>
         <item>Devices of Indian sculpture to indicate water, 48</item>
-        <item>Docks in Calcutta, 248</item>
-        <item>„ of Mahrattas, 239</item>
-        <item>Dockyard in Agashi, 202</item>
-        <item>„ at Bombay, 243</item>
-        <item>„ of Kedar Roy, 216</item>
-        <item>„ at Narsapore, 232</item>
-        <item>„ of Protapāditya, 218</item>
+        <item>Docks in Calcutta, 248
+          <list type="index">
+            <item>„ of Mahrattas, 239</item>
+          </list>
+        </item>
+        <item>Dockyard in Agashi, 202
+          <list type="index">
+            <item>„ at Bombay, 243</item>
+            <item>„ of Kedar Roy, 216</item>
+            <item>„ at Narsapore, 232</item>
+            <item>„ of Protapāditya, 218</item>
+          </list>
+        </item>
         <item>Drain of gold into India, 83, 84, 122</item>
         <item>Dravidian words in Hebrew text, 92</item>
         <item>Duties payable by shipowners to the king, 61, 198, 200, 208, 233</item>
@@ -1704,13 +1747,22 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Economic system of ancient India, 179</item>
         <item>Edict, marine, of Asoka, 114</item>
         <item>Egyptians with Arabians hold monopoly of commerce for 900 years, 95</item>
-        <item>Embassy from and to Persia, 40</item>
-        <item>„ to China, 177, 195, 197</item>
-        <item>European alliance first entered into, 138</item>
-        <item>„ influence on India, 3</item>
+        <item>Embassy from and to Persia, 40
+          <list type="index">
+            <item>„ to China, 177, 195, 197</item>
+          </list>
+        </item>
+        <item>European alliance first entered into, 138
+          <list type="index">
+            <item>„ influence on India, 3</item>
+          </list>
+        </item>
         <item>Evidences of Indian maritime activity, literary and monumental, Indian<lb/>and foreign, how arranged, 6</item>
-        <item>Expansion of India, 11</item>
-        <item>„ „ closing years of, 39</item>
+        <item>Expansion of India, 11
+          <list type="index">
+            <item>„ „ closing years of, 39</item>
+          </list>
+        </item>
       </list>
           </div>
           <div type="subsection" n="h2">
@@ -1719,25 +1771,34 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Ferry fees, 106</item>
         <item>Fish, iron, 48</item>
         <item>Fishing license, 106</item>
-        <item>Fleet of Ahmed Shah, 200</item>
-        <item>„ „ Alexander, 100–102</item>
-        <item>„ „ Angria, 239</item>
-        <item>„ „ the Cheras destroyed, 175</item>
+        <item>Fleet of Ahmed Shah, 200
+          <list type="index">
+            <item>„ „ Alexander, 100–102</item>
+            <item>„ „ Angria, 239</item>
+            <item>„ „ the Cheras destroyed, 175</item>
+          </list>
+        </item>
       </list>
             <pb xml:id="page-332" n="260" facs="https://archive.org/download/indianshippinghi00mookrich/page/n331_w1400.jpg"/>
             <list type="index">
-        <item>Fleet of the Cholas, 175</item>
-        <item>„   „  Dhanapati, 158</item>
-        <item>„   „  Gujarat, 201</item>
-        <item>„   Imperial, organization of, 40</item>
-        <item>„   of Mahmud, 201</item>
-        <item>„   „  Portuguese, 201</item>
-        <item>„   „  Raja of Vishalgad, 200</item>
-        <item>„   „  Shaista Khan, 228, 229</item>
-        <item>„   „  Sivaji, 238, 239</item>
+        <item>Fleet of the Cholas, 175
+          <list type="index">
+            <item>„   „  Dhanapati, 158</item>
+            <item>„   „  Gujarat, 201</item>
+            <item>„   Imperial, organization of, 40</item>
+            <item>„   of Mahmud, 201</item>
+            <item>„   „  Portuguese, 201</item>
+            <item>„   „  Raja of Vishalgad, 200</item>
+            <item>„   „  Shaista Khan, 228, 229</item>
+            <item>„   „  Sivaji, 238, 239</item>
+          </list>
+        </item>
         <item>Flower-scents, artificial imitation of, 181</item>
-        <item>Foreign influence on India, 3</item>
-        <item>„   travellers, provision for, in Maurya Empire, 112</item>
+        <item>Foreign influence on India, 3
+          <list type="index">
+            <item>„   travellers, provision for, in Maurya Empire, 112</item>
+          </list>
+        </item>
         <item>Fringuan or Portuguese sailors, 209</item>
       </list>
           </div>
@@ -1757,8 +1818,11 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Harbour regulations under the Mauryas, 106–111</item>
         <item>Hebrew text, Dravidian words in, 92</item>
         <item>Hellenic influence on India, 3</item>
-        <item>Hides, dressing of, 191</item>
-        <item>„   trade in, 191</item>
+        <item>Hides, dressing of, 191
+          <list type="index">
+            <item>„   trade in, 191</item>
+          </list>
+        </item>
         <item>Hindu compass, 47</item>
         <item>Hindu element in Java and Sumatra, 201</item>
         <item>Hindu-Javanese ship, 45–48</item>
@@ -1768,16 +1832,19 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
           <div type="subsection" n="h2">
             <head>I</head>
             <list type="index">
-        <item>India, art of shipbuilding in, treatise on, 19</item>
-        <item>„   a single country, 1</item>
-        <item>„   colonies of, in Madagascar, etc., 4</item>
-        <item>„   commercial activity of, 4, 5</item>
-        <item>„   connection of, with foreign countries, 59</item>
-        <item>„   depository of metallic wealth, 83</item>
-        <item>„   European influence on, 3</item>
-        <item>„   expansion of, 11</item>
-        <item>„      „      „   closing years of, 39</item>
-        <item>„   foreign influences on, 3</item>
+        <item>India, art of shipbuilding in, treatise on, 19
+          <list type="index">
+            <item>„   a single country, 1</item>
+            <item>„   colonies of, in Madagascar, etc., 4</item>
+            <item>„   commercial activity of, 4, 5</item>
+            <item>„   connection of, with foreign countries, 59</item>
+            <item>„   depository of metallic wealth, 83</item>
+            <item>„   European influence on, 3</item>
+            <item>„   expansion of, 11</item>
+            <item>„      „      „   closing years of, 39</item>
+            <item>„   foreign influences on, 3</item>
+          </list>
+        </item>
       </list>
             <pb xml:id="page-333" n="261" facs="https://archive.org/download/indianshippinghi00mookrich/page/n332_w1400.jpg"/>
           </div>
@@ -1785,34 +1852,43 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <div type="subsection" n="h1">
           <head>INDEX I.—SUBJECTS</head>
           <list type="index">
-      <item>India, geographical unity of, 1</item>
-      <item>„ Graeco-Roman influence on, 3</item>
-      <item>„ heart of the Old World, 4</item>
-      <item>„ intercourse the making of, 2</item>
-      <item>„ Iranian influence on, 3</item>
-      <item>„ mistress of the Eastern seas, 5</item>
-      <item>„ normal trade route from Persian Gulf to, 89</item>
-      <item>„ region by itself, 1</item>
-      <item>„ trading establishments of, 4</item>
-      <item>Indian civilization, transplantation of, 39</item>
-      <item>„ commerce with Arabia, 90</item>
-      <item>„ „ „ Babylon, 74, 86–92</item>
-      <item>„ „ „ Egypt, 91</item>
-      <item>„ contingent in Xerxes’ army, 95</item>
-      <item>„ exports and imports, 82, 179</item>
-      <item>„ Marine, abolition of, 250</item>
-      <item>„ „ decline of, 250</item>
-      <item>„ missionary activity in China, 166, 167</item>
-      <item>„ Ocean, navigation of, 131</item>
-      <item>„ precious stones highly valued in Mosaic period, 91</item>
-      <item>„ rice, peacocks, sandal-wood, exported to Greece, 88</item>
-      <item>„ ships, description of, in the 15th century, 46</item>
-      <item>„ ships superior to the Portuguese, 202</item>
-      <item>„ teak in Ur, 85, 87</item>
-      <item>„ tribute to Darius paid in gold, 96</item>
-      <item>India’s intercourse with foreign countries, 40</item>
-      <item>„ monopoly of spices, 83</item>
-      <item>„ supply of gold through commerce, 83</item>
+      <item>India, geographical unity of, 1
+        <list type="index">
+          <item>„ Graeco-Roman influence on, 3</item>
+          <item>„ heart of the Old World, 4</item>
+          <item>„ intercourse the making of, 2</item>
+          <item>„ Iranian influence on, 3</item>
+          <item>„ mistress of the Eastern seas, 5</item>
+          <item>„ normal trade route from Persian Gulf to, 89</item>
+          <item>„ region by itself, 1</item>
+          <item>„ trading establishments of, 4</item>
+        </list>
+      </item>
+      <item>Indian civilization, transplantation of, 39
+        <list type="index">
+          <item>„ commerce with Arabia, 90</item>
+          <item>„ „ „ Babylon, 74, 86–92</item>
+          <item>„ „ „ Egypt, 91</item>
+          <item>„ contingent in Xerxes’ army, 95</item>
+          <item>„ exports and imports, 82, 179</item>
+          <item>„ Marine, abolition of, 250</item>
+          <item>„ „ decline of, 250</item>
+          <item>„ missionary activity in China, 166, 167</item>
+          <item>„ Ocean, navigation of, 131</item>
+          <item>„ precious stones highly valued in Mosaic period, 91</item>
+          <item>„ rice, peacocks, sandal-wood, exported to Greece, 88</item>
+          <item>„ ships, description of, in the 15th century, 46</item>
+          <item>„ ships superior to the Portuguese, 202</item>
+          <item>„ teak in Ur, 85, 87</item>
+          <item>„ tribute to Darius paid in gold, 96</item>
+        </list>
+      </item>
+      <item>India’s intercourse with foreign countries, 40
+        <list type="index">
+          <item>„ monopoly of spices, 83</item>
+          <item>„ supply of gold through commerce, 83</item>
+        </list>
+      </item>
       <item>Indigotin, extraction of, 181</item>
       <item>Insurance, marine, 61</item>
       <item>Intercourse as much a potent factor in the making of India as isolation, 3, 4</item>
@@ -1825,8 +1901,11 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <head>J</head>
             <list type="index">
         <item>Jaigeer, Nowwara, 210</item>
-        <item>Java, Indian colony in, 163</item>
-        <item>„ Era, foundation of, 149</item>
+        <item>Java, Indian colony in, 163
+          <list type="index">
+            <item>„ Era, foundation of, 149</item>
+          </list>
+        </item>
       </list>
           </div>
           <div type="subsection" n="h2">
@@ -1857,28 +1936,37 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Marble anchors, 203</item>
         <item>Marine edict of Asoka, 114</item>
         <item>Marine insurance, 61</item>
-        <item>Maritime activity, evidences of, whence derived, 9–12</item>
-        <item>„ „ foreign evidences of, 6</item>
-        <item>„ „ Golden Age of, 40</item>
-        <item>„ „ Indian evidences of, 6</item>
-        <item>„ „ in the days of Nero and Augustine, 119–122</item>
-        <item>„ „ main evidences of, 11</item>
-        <item>„ „ oldest evidence in the <hi rend="italic">Ṛig-Veda</hi>, 53</item>
-        <item>„ „ proofs of, 8</item>
-        <item>„ „ the real historical narrative of, how to be built up, 8</item>
-        <item>„ „ oldest record of, in Bengali literature, 157–160</item>
-        <item>„ cities to pay special taxes, 106</item>
-        <item>„ trade alluded to in astronomical works, 62</item>
-        <item>„ „ in wool and animals, 60</item>
+        <item>Maritime activity, evidences of, whence derived, 9–12
+          <list type="index">
+            <item>„ „ foreign evidences of, 6</item>
+            <item>„ „ Golden Age of, 40</item>
+            <item>„ „ Indian evidences of, 6</item>
+            <item>„ „ in the days of Nero and Augustine, 119–122</item>
+            <item>„ „ main evidences of, 11</item>
+            <item>„ „ oldest evidence in the <hi rend="italic">Ṛig-Veda</hi>, 53</item>
+            <item>„ „ proofs of, 8</item>
+            <item>„ „ the real historical narrative of, how to be built up, 8</item>
+            <item>„ „ oldest record of, in Bengali literature, 157–160</item>
+            <item>„ cities to pay special taxes, 106</item>
+            <item>„ trade alluded to in astronomical works, 62</item>
+            <item>„ „ in wool and animals, 60</item>
+          </list>
+        </item>
         <item>Marts of Bengal, 116, 117</item>
         <item>Maurya royal monopoly in shipbuilding, 102</item>
-        <item>Meer Baree, 211</item>
-        <item>„ Behry, functions of, 206–208</item>
-        <item>„ „ office of, 205</item>
+        <item>Meer Baree, 211
+          <list type="index">
+            <item>„ Behry, functions of, 206–208</item>
+            <item>„ „ office of, 205</item>
+          </list>
+        </item>
         <item>Metals for decorative purposes, 25</item>
         <item>Monastic system in China, foundation of, 166</item>
-        <item>Monopoly, India’s, in spices, 83</item>
-        <item>„ in shipbuilding, Maurya royal, 102</item>
+        <item>Monopoly, India’s, in spices, 83
+          <list type="index">
+            <item>„ in shipbuilding, Maurya royal, 102</item>
+          </list>
+        </item>
         <item>Monsoon, discovery of regularity of, by Hippalus, 123</item>
         <item>Mosaic period, 91</item>
         <item>Mummies wrapped in Indian muslin, 91</item>
@@ -1989,27 +2077,33 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Names of Indian voyagers to China, 165–167</item>
         <item>Narsapore, dockyard, etc., at, 232</item>
         <item>Nautical instruments of the Hindus, 201</item>
-        <item>Naval activity of the Cholas, 175</item>
-        <item>„ „ in Eastern Bengal, 216–218</item>
-        <item>„ architecture, Hindu, imitated by English, 251</item>
-        <item>„ battle in <hi rend="italic">Rig-Veda</hi>, <hi rend="italic">Rāmāyaṇa</hi>, and <hi rend="italic">Raghuvaṁsa</hi>, 53–60</item>
-        <item>„ „ of Ahmed Shah of Gujarat, 200</item>
-        <item>„ „ „ Balban, 190</item>
-        <item>„ „ „ Babar, 205</item>
-        <item>„ „ „ Firoz Shah Tuglak, 196</item>
-        <item>„ „ „ Shaista Khan, 228</item>
-        <item>„ „ „ Sultan Mahmud, 187</item>
-        <item>„ „ „ Timur, 196</item>
-        <item>„ Department, organization of, 105</item>
-        <item>„ engagements in Akbar’s reign, 214–219</item>
-        <item>„ establishment at Dacca, 210</item>
-        <item>„ expedition against Kuch Behar, 225</item>
-        <item>„ „ to Assam, 226</item>
-        <item>„ headquarters at Dacca, 210</item>
-        <item>„ invasion of Puri, 40</item>
-        <item>„ power of the Angrias, 239</item>
-        <item>Navigation, art of, forming part of education of Kalinga princes, 144</item>
-        <item>„ in Indian Ocean, proof of, 8</item>
+        <item>Naval activity of the Cholas, 175
+          <list type="index">
+            <item>„ „ in Eastern Bengal, 216–218</item>
+            <item>„ architecture, Hindu, imitated by English, 251</item>
+            <item>„ battle in <hi rend="italic">Rig-Veda</hi>, <hi rend="italic">Rāmāyaṇa</hi>, and <hi rend="italic">Raghuvaṁsa</hi>, 53–60</item>
+            <item>„ „ of Ahmed Shah of Gujarat, 200</item>
+            <item>„ „ „ Balban, 190</item>
+            <item>„ „ „ Babar, 205</item>
+            <item>„ „ „ Firoz Shah Tuglak, 196</item>
+            <item>„ „ „ Shaista Khan, 228</item>
+            <item>„ „ „ Sultan Mahmud, 187</item>
+            <item>„ „ „ Timur, 196</item>
+            <item>„ Department, organization of, 105</item>
+            <item>„ engagements in Akbar’s reign, 214–219</item>
+            <item>„ establishment at Dacca, 210</item>
+            <item>„ expedition against Kuch Behar, 225</item>
+            <item>„ „ to Assam, 226</item>
+            <item>„ headquarters at Dacca, 210</item>
+            <item>„ invasion of Puri, 40</item>
+            <item>„ power of the Angrias, 239</item>
+          </list>
+        </item>
+        <item>Navigation, art of, forming part of education of Kalinga princes, 144
+          <list type="index">
+            <item>„ in Indian Ocean, proof of, 8</item>
+          </list>
+        </item>
         <item>Number of passengers in old Indian ships, 28, 29, 42, 69, 70, 71</item>
       </list>
             <div type="subsection" n="h3">
@@ -2024,24 +2118,36 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <div type="subsection" n="h3">
               <head>P</head>
               <list type="index">
-          <item>Palace of Chola king, 137</item>
-          <item>„ „ Nebuchadnezzar, 87</item>
+          <item>Palace of Chola king, 137
+            <list type="index">
+              <item>„ „ Nebuchadnezzar, 87</item>
+            </list>
+          </item>
           <item>Parsis as master shipbuilders at Surat, 244</item>
           <item>Peacocks exported by Hindu merchants to Baveru, 74, 93</item>
         </list>
               <pb xml:id="page-338" n="266" facs="https://archive.org/download/indianshippinghi00mookrich/page/n337_w1400.jpg"/>
               <list type="index">
-          <item>Pearl, artificial manufacture of, 68</item>
-          <item>„ fishery, 64, 68, 123, 190, 194</item>
-          <item>„ „ chief centres of, 68</item>
+          <item>Pearl, artificial manufacture of, 68
+            <list type="index">
+              <item>„ fishery, 64, 68, 123, 190, 194</item>
+              <item>„ „ chief centres of, 68</item>
+            </list>
+          </item>
           <item>Persian influence on India, 3</item>
-          <item>Piracy, 169, 185, 186, 187</item>
-          <item>„ action taken against, by Shaista Khan, 228</item>
-          <item>„ in Asoka’s time, 113</item>
+          <item>Piracy, 169, 185, 186, 187
+            <list type="index">
+              <item>„ action taken against, by Shaista Khan, 228</item>
+              <item>„ in Asoka’s time, 113</item>
+            </list>
+          </item>
           <item>Porcelain, Indian, 197</item>
-          <item>Ports of Bengal, 218</item>
-          <item>„ old Indian, 131, 132, 134</item>
-          <item>„ South Indian, 135, 136</item>
+          <item>Ports of Bengal, 218
+            <list type="index">
+              <item>„ old Indian, 131, 132, 134</item>
+              <item>„ South Indian, 135, 136</item>
+            </list>
+          </item>
           <item>Port-taxes, 106</item>
           <item>Prehistoric trade relations of India, 85–95</item>
           <item>Prows of vessels, 25</item>
@@ -2067,17 +2173,23 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
         <item>Rocking-seats as prevention against sea-sickness, 36</item>
         <item>Roman coins, 119, 120, 127</item>
         <item>Roman soldiers as guards, 128</item>
-        <item>Rome, political connection with, 137</item>
-        <item>„ references to, in Sanskrit and Pali literature, 130</item>
-        <item>„ intercourse with, how explained, 139</item>
+        <item>Rome, political connection with, 137
+          <list type="index">
+            <item>„ references to, in Sanskrit and Pali literature, 130</item>
+            <item>„ intercourse with, how explained, 139</item>
+          </list>
+        </item>
       </list>
           </div>
           <div type="subsection" n="h2">
             <head>S</head>
             <list type="index">
         <item>Sanchi, earliest evidence in sculpture of shipbuilding in, 32</item>
-        <item>Sanskrit Manuscripts, Catalogue of, 19</item>
-        <item>„ origin of words in Malaya language, 146</item>
+        <item>Sanskrit Manuscripts, Catalogue of, 19
+          <list type="index">
+            <item>„ origin of words in Malaya language, 146</item>
+          </list>
+        </item>
         <item>Scents, flower, artificial imitation of, 181</item>
         <item>Sea-gulls, 47</item>
         <item>Sea-route between Indian and Persian coasts, 72</item>
@@ -2088,47 +2200,59 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
             <list type="index">
         <item>Settlement, Hindu, 133</item>
         <item>Shipbuilders, salaried servants of Maurya Government, 102</item>
-        <item>Shipbuilding, capital invested in, 255</item>
-        <item>„ centres of, 206</item>
-        <item>„ in Bengal, 246</item>
-        <item>„ materials for, at Bassein, 202</item>
-        <item>„ „ „ „ Sylhet, 212</item>
-        <item>„ monopoly of, by the Maurya kings, 102</item>
-        <item>„ treatise on the art of, 19</item>
+        <item>Shipbuilding, capital invested in, 255
+          <list type="index">
+            <item>„ centres of, 206</item>
+            <item>„ in Bengal, 246</item>
+            <item>„ materials for, at Bassein, 202</item>
+            <item>„ „ „ „ Sylhet, 212</item>
+            <item>„ monopoly of, by the Maurya kings, 102</item>
+            <item>„ treatise on the art of, 19</item>
+          </list>
+        </item>
         <item>Ship-coins, description of, 49–51</item>
         <item>Ship-commerce, art of, forming part of the education of Kalinga princes, 144</item>
         <item>Ship-tax, 200</item>
         <item>Ship-money imposed by Shaista Khan, 233</item>
-        <item>Shipping centre at Agashi, 202</item>
-        <item>„ „ at Bakla, 216, 217</item>
-        <item>„ „ in Bengal, Kashmir, and Tatta, 246</item>
-        <item>„ „ at Calicut, 198</item>
-        <item>„ „ „ Masulipatam, 237</item>
-        <item>„ „ „ Narsapore, 232</item>
-        <item>„ „ „ Saugar Island, 218</item>
-        <item>„ „ „ Sindh, 213</item>
-        <item>„ „ „ Sripur, 216</item>
-        <item>„ „ „ Mahratta, 239</item>
-        <item>„ Indian, proofs of, 8</item>
-        <item>„ in the Andhra-Kushan period, 132</item>
-        <item>„ „ „ Maurya period, 100</item>
-        <item>Ships, construction of, 192</item>
-        <item>„ guidance of, 201</item>
-        <item>„ Indian, classification of, 21, 22</item>
-        <item>„ „ sailing as far as Zanguebar, 191</item>
-        <item>„ „ used in naval warfare, 26</item>
-        <item>„ names of, 203</item>
-        <item>„ ordinary, 23</item>
-        <item>„ protection of, 198</item>
-        <item>„ repair of, 193</item>
-        <item>„ size of, 192, 193</item>
-        <item>„ „ „ in Pali works, 28</item>
-        <item>„ „ „ in Sanskrit works, 19, 20, 21</item>
-        <item>„ special, 23</item>
-        <item>„ varieties of, described by Bowrey, 231</item>
+        <item>Shipping centre at Agashi, 202
+          <list type="index">
+            <item>„ „ at Bakla, 216, 217</item>
+            <item>„ „ in Bengal, Kashmir, and Tatta, 246</item>
+            <item>„ „ at Calicut, 198</item>
+            <item>„ „ „ Masulipatam, 237</item>
+            <item>„ „ „ Narsapore, 232</item>
+            <item>„ „ „ Saugar Island, 218</item>
+            <item>„ „ „ Sindh, 213</item>
+            <item>„ „ „ Sripur, 216</item>
+            <item>„ „ „ Mahratta, 239</item>
+            <item>„ Indian, proofs of, 8</item>
+            <item>„ in the Andhra-Kushan period, 132</item>
+            <item>„ „ „ Maurya period, 100</item>
+          </list>
+        </item>
+        <item>Ships, construction of, 192
+          <list type="index">
+            <item>„ guidance of, 201</item>
+            <item>„ Indian, classification of, 21, 22</item>
+            <item>„ „ sailing as far as Zanguebar, 191</item>
+            <item>„ „ used in naval warfare, 26</item>
+            <item>„ names of, 203</item>
+            <item>„ ordinary, 23</item>
+            <item>„ protection of, 198</item>
+            <item>„ repair of, 193</item>
+            <item>„ size of, 192, 193</item>
+            <item>„ „ „ in Pali works, 28</item>
+            <item>„ „ „ in Sanskrit works, 19, 20, 21</item>
+            <item>„ special, 23</item>
+            <item>„ varieties of, described by Bowrey, 231</item>
+          </list>
+        </item>
         <item>Ship-yards of Maggs, 211</item>
-        <item>Silk, supply of, from China, 56</item>
-        <item>„ weighed with gold, 83</item>
+        <item>Silk, supply of, from China, 56
+          <list type="index">
+            <item>„ weighed with gold, 83</item>
+          </list>
+        </item>
       </list>
             <pb xml:id="page-340" n="268" facs="https://archive.org/download/indianshippinghi00mookrich/page/n339_w1400.jpg"/>
             <list type="index">
@@ -2139,20 +2263,32 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
           <div type="subsection" n="h2">
             <head>T</head>
             <list type="index">
-        <item>Tamil kings, bodyguards of, 128</item>
-        <item>„ words, adaptations from, 89</item>
+        <item>Tamil kings, bodyguards of, 128
+          <list type="index">
+            <item>„ words, adaptations from, 89</item>
+          </list>
+        </item>
         <item>Tantrism, Buddhistic, 173</item>
-        <item>Taxes, port, 106</item>
-        <item>„ for building of boats, 211</item>
-        <item>Teak for shipbuilding, excellence of, 249</item>
-        <item>„ Indian, in Ur, 85, 87</item>
+        <item>Taxes, port, 106
+          <list type="index">
+            <item>„ for building of boats, 211</item>
+          </list>
+        </item>
+        <item>Teak for shipbuilding, excellence of, 249
+          <list type="index">
+            <item>„ Indian, in Ur, 85, 87</item>
+          </list>
+        </item>
         <item>Temple dedicated to Augustus, 129</item>
         <item>Tolls, 208</item>
         <item>Tonnage of ancient Indian vessels, 103</item>
-        <item>Trade in jewels with West-Asiatic and European countries, 82</item>
-        <item>„ Occidental, decline of, 126</item>
-        <item>„ „ revival of, 127</item>
-        <item>„ route from Persian Gulf to India, 89</item>
+        <item>Trade in jewels with West-Asiatic and European countries, 82
+          <list type="index">
+            <item>„ Occidental, decline of, 126</item>
+            <item>„ „ revival of, 127</item>
+            <item>„ route from Persian Gulf to India, 89</item>
+          </list>
+        </item>
         <item>Trading centres of Bengal, 161, 218–222</item>
         <item>Treatise on the art of shipbuilding in India, 19</item>
         <item>Tribute to Darius, in gold, by India, 96</item>
@@ -2170,8 +2306,11 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
           <div type="subsection" n="h2">
             <head>V</head>
             <list type="index">
-        <item>Vessels built at Dacca, 212, 213</item>
-        <item>„ used in naval warfare, kind of, 26</item>
+        <item>Vessels built at Dacca, 212, 213
+          <list type="index">
+            <item>„ used in naval warfare, kind of, 26</item>
+          </list>
+        </item>
         <item>Voyage, trading, undertaken by Hindu merchants, 8</item>
         <item>Voyages made by Indian merchants to Babylon, 88, 89</item>
       </list>
@@ -2186,14 +2325,17 @@ Sculptures of Borobudur.) No. 1 . . . . . . 46</p>
           <div type="subsection" n="h2">
             <head>Y</head>
             <list type="index">
-        <item>Yavana colony, 128</item>
-        <item>„ original significance of, 121</item>
-        <item>„ soldiers as bodyguards to Tamil kings, 128</item>
+        <item>Yavana colony, 128
+          <list type="index">
+            <item>„ original significance of, 121</item>
+            <item>„ soldiers as bodyguards to Tamil kings, 128</item>
+          </list>
+        </item>
       </list>
           </div>
         </div>
       </div>
-      <div xml:id="sec-28" type="backmatter" n="28-index-ii-proper-names">
+      <div xml:id="sec-28" type="index" n="28-index-ii-proper-names">
         <head>Index II.—Proper Names</head>
         <pb xml:id="page-341" n="269" facs="https://archive.org/download/indianshippinghi00mookrich/page/n340_w1400.jpg"/>
         <div type="subsection" n="h1">

@@ -20,9 +20,7 @@
 
 ### THE ENGLISH FACTORIES IN INDIA 1661–64
 
-BY
-
-WILLIAM FOSTER, C.I.E.
+BY WILLIAM FOSTER, C.I.E.
 
 PUBLISHED UNDER THE PATRONAGE OF HIS MAJESTY’S SECRETARY OF STATE FOR INDIA IN COUNCIL
 
@@ -128,9 +126,7 @@ A postscript added that Richard Napier, 'who came out of England a mellencholly 
 
 
 <!-- page: 18 | folio: 4 -->
-In the absence of any account of the disaster from the English records, the story must be pieced together from other sources. After the escape of Sivāji from Panāla, as related in the last volume, the King of Bījāpur, annoyed at the ill-success of his general, Sidi Johār, assumed the command of the army himself, with the result that several of Sivāji's forts, including Panāla, were captured. The rains enforced a pause in the operations; and the Marātha chief took the opportunity to fill his treasury by plundering Rājāpur. According to Grant Duff (*History of the Mahrattas*, ed. Edwardes, vol. i. p. 143), ‘in the beginning of the year [1661] he again appeared before Rajapoor, which he took and plundered. On this occasion the English sustained some loss, and several of their factors were seized and confined in a hill fort for two years, on an accusation, never substantiated, of having assisted Seedee Johur with mortars and shells, at the siege of Panalla.’ In a note the author adds that ‘the unfortunate Englishmen were not finally released without paying a ransom. There appears to have been some reason for
-
-Sivajee's suspicion, though the fact was never fully ascertained'. The papers printed in the last volume prove that the charge was true, and explain Sivāji's harsh treatment of Revington and his companions. Some details are supplied by letters from the Dutch Chief at Vengurla, as summarized in the *Batavia Dagh-Register*, 1661 (p. 215):
+In the absence of any account of the disaster from the English records, the story must be pieced together from other sources. After the escape of Sivāji from Panāla, as related in the last volume, the King of Bījāpur, annoyed at the ill-success of his general, Sidi Johār, assumed the command of the army himself, with the result that several of Sivāji's forts, including Panāla, were captured. The rains enforced a pause in the operations; and the Marātha chief took the opportunity to fill his treasury by plundering Rājāpur. According to Grant Duff (*History of the Mahrattas*, ed. Edwardes, vol. i. p. 143), ‘in the beginning of the year [1661] he again appeared before Rajapoor, which he took and plundered. On this occasion the English sustained some loss, and several of their factors were seized and confined in a hill fort for two years, on an accusation, never substantiated, of having assisted Seedee Johur with mortars and shells, at the siege of Panalla.’ In a note the author adds that ‘the unfortunate Englishmen were not finally released without paying a ransom. There appears to have been some reason for Sivajee's suspicion, though the fact was never fully ascertained'. The papers printed in the last volume prove that the charge was true, and explain Sivāji's harsh treatment of Revington and his companions. Some details are supplied by letters from the Dutch Chief at Vengurla, as summarized in the *Batavia Dagh-Register*, 1661 (p. 215):
 
 > Concerning the English, the Resident [at Vengurla] writes that . . . they have received no compensation for the munitions of war which they lent to the King of Bījāpur for use against Sivāji; but they have suffered great damage from that rebel on this account. For he, so soon as the old Queen had departed for Mokha, raised his head once more, and, reflecting on the injury he had received at the hands of the English, about the middle of March [N.S.] sent 1000 horse and about 3000 foot-soldiers to take possession of Rājāpur. This force, on reaching the town, invited the principal inhabitants to come out and escort it in, according to custom, promising to do no harm. These simple men, suspecting no evil, went to the place of meeting, accompanied by the English Resident, Revington, with two or three other Englishmen, who thought it well to pay this mark of respect. They were all immediately seized and their property confiscated, after tortures had been inflicted. Revington and those who accompanied him were placed in one of Sivāji's fortresses ; while the Englishmen who had remained behind in Rājāpur were [p. 5] likewise imprisoned, and one died under torture. Their factory was entirely stripped, even the floor being dug up in search of hidden treasure. The robbers also plundered many foreign merchants, who yearly bring goods to Rājāpur from Persia and Muskat. Several Rājas and others gathered troops together; but Sivāji's men, satisfied with their plunder, made off without awaiting the attack. A later letter, written at Vengurla on 29 July (*ibid. p.* 448), says : The English resident, Revington, is still imprisoned with his colleagues by Sivāji in a certain inland fort, named Soangur.[^sec-04-fn-003] Salābat Khān[^sec-04-fn-004] has sent an envoy to obtain their release, and is himself at present in the field with a great army against Bahlol Khān.
 
@@ -230,7 +226,7 @@ With a view to promote the sale of their imported goods, the factors were author
 
 The factors were accordingly desired to be ‘very active and sedulous’ in getting cargoes ready, so as to avoid the detention of ships beyond the dates named in their charter-parties for the commencement of the homeward voyage.
 
-There remained a number of miscellaneous topics to be mentioned. The Committees desired that their thanks be conveyed to Vīrji Vora for some calicoes, &c., sent by him as a present to the Company. Any deficiency in Malabar pepper should be supplied in that from ‘Quiloane’ (Quilon), ‘of which wee desire a larg quantitie yearely’. Directions were given that Malabar pepper should be discriminated in the invoices from that of ‘Quiloane’: that, if two sorts of pepper were sent home in one ship, one kind should be put up in bales, the other being laden loose: and that ‘none bee shott in the bread roome’. A postscript complained of a great deficiency in the pepper sent home in the *Coast Frigate*, and gave an important ruling on the point whether the subordinate factories were at liberty to address the Company direct, or whether this was a privilege reserved for the President and Council. The Committees ordered that notice should be given to all such factories that they would be expected to ‘advise us of all necessary transactions with them . . . and what elce may beeAuto-generated from context: and what elce may bee producible to the conducive to the promoting of our affaires’.
+There remained a number of miscellaneous topics to be mentioned. The Committees desired that their thanks be conveyed to Vīrji Vora for some calicoes, &c., sent by him as a present to the Company. Any deficiency in Malabar pepper should be supplied in that from ‘Quiloane’ (Quilon), ‘of which wee desire a larg quantitie yearely’. Directions were given that Malabar pepper should be discriminated in the invoices from that of ‘Quiloane’: that, if two sorts of pepper were sent home in one ship, one kind should be put up in bales, the other being laden loose: and that ‘none bee shott in the bread roome’. A postscript complained of a great deficiency in the pepper sent home in the *Coast Frigate*, and gave an important ruling on the point whether the subordinate factories were at liberty to address the Company direct, or whether this was a privilege reserved for the President and Council. The Committees ordered that notice should be given to all such factories that they would be expected to ‘advise us of all necessary transactions with them . . . and what elce may bee conducible to the promoting of our affaires’.
 
 The contents of this letter could not have been very palatable to President Andrews and his colleague Lambton; and when the former came to draft the reply, he could not entirely suppress his [p. 22] ill-humour. After noticing the small supply sent out, the letter says that it is useless to dwell upon the point, since the Company ignore ‘reasonable advices’ as to the need of more money.
 
@@ -340,7 +336,7 @@ Concerning the voyage of the *American* to Basra (see p. 1) we have some details
 ## The Madras Agency
 
 
-#### THE MADRAS AGENCY, 1661
+### THE MADRAS AGENCY, 1661
 
 <span class="sc">The</span> letter which Agent Chamber and his colleagues (William à Court and William Gifford) sent to the Company by the *Katherine* on 11 January, 1661, has been analysed in the last volume. At the end of the month the *Madras Merchant* and the *East India Merchant*, which had both arrived from Balasore a few days previously, were also dispatched to England, the former carrying another letter to the Company, dated 28 January. In this references were made to several matters touched upon in the preceding volume of this series.
 
@@ -420,9 +416,7 @@ After a short interval the *Royal James and Henry* was dispatched (23 July) from
 
 On 9 August, 1661, the *Coast Frigate* (Captain John Elliott) and the *Discovery* (Captain John Gosnoll) arrived at Madras from England, with cargoes aggregating 53,800*l.* They brought letters from the Company, dated 28 January (*Letter Books*, vol. 2, p. 364) and 6 February, 1661. The first of these directed that the *Discovery* should proceed to Jambi, Macassar, and Bantam. It then announced an important change in the administration on the eastern side of India, to which reference has already been made on p. 19: [p. 44] Wee having seriously considered and debated how our affaires in your parts may for the future bee manadged to the encoragement of the Company in the advancement of our stock, have concluded, and doe hereby order, that the Agency in the Bay shall from henceforth bee reduced to a factory and bee under the power and subordination of the Agency at Fort St. George, and that all the factories, both on the Coast of Coromandell and in the Bay of Bengala, that shall bee found necessarie to bee continued, shall from time to time receive order and directions for the manadgment of our businesse from our Agent and his Counsell that wee now doe, or shall hereafter, settle and establish at Fort St. George; which place, wee conceive, is most propper for the residency of the Agency. Howsoever, wee require you that by the next oportunity you seriously consider, and retorne us your opinions, touching the conveniency or inconveniency of the place, or of any other place which may bee more proper and comodious for the setling the cheife residency upon, for the advance of trade. . . . In the meane time wee desire you to make it your worke to improve the manufacture of cloath at and about the Fort what possibly you can, both for varietie of sorts, quantities, well makeing, and cheapnes of prices, and to reduce our charge into as narrow a compasse as may be, not exceeding those allowances which wee have formerly allotted unto you.
 
-The loss of the *Love* and the non-arrival of the *Mayflower* had seriously discouraged the Company’s shareholders, ‘whoe cannot now (after three yeares) dispose of their subscriptions but at 6 or 8 per cent. losse’[^sec-05-fn-011]; and the blame for this state of things was placed largely upon the Madras factors. Nevertheless, the Company did not make any immediate change in the administration, but ordered that
-
-Mr. Thomas Chamber, if upon the place at the arriveall hereof and that then his resolution bee not to retorne for England but to remaine there (which wee leave to his owne choice), shall bee our Agent, and that Mr. William Acourt shall be Second; whoe, with the rest of Counsell joyntly, wee doe apoint to carry on our busines, both on the Coast and Bay, for this next yeare, or untill wee from hence shall give further directions. If Mr. Thomas Chamber bee purposed to come for England, wee doe then ordayne [p. 45] Mr. William Atdourt to bee our Cheife till our further order. Wee doe also apoint that the Counsell shall consist of four persons upon the place, with the Cheifes of the other factories when present; whoe shall joyntly act and manadge all our affaires and businesse, and that all matters bee debated and concluded of by consultacion, and not, as formerly, singly by our Agent and such as hee hath deputed; which wee utterly dislike and will by noe meanes allow off in the future.
+The loss of the *Love* and the non-arrival of the *Mayflower* had seriously discouraged the Company’s shareholders, ‘whoe cannot now (after three yeares) dispose of their subscriptions but at 6 or 8 per cent. losse’[^sec-05-fn-011]; and the blame for this state of things was placed largely upon the Madras factors. Nevertheless, the Company did not make any immediate change in the administration, but ordered that Mr. Thomas Chamber, if upon the place at the arriveall hereof and that then his resolution bee not to retorne for England but to remaine there (which wee leave to his owne choice), shall bee our Agent, and that Mr. William Acourt shall be Second; whoe, with the rest of Counsell joyntly, wee doe apoint to carry on our busines, both on the Coast and Bay, for this next yeare, or untill wee from hence shall give further directions. If Mr. Thomas Chamber bee purposed to come for England, wee doe then ordayne [p. 45] Mr. William Atdourt to bee our Cheife till our further order. Wee doe also apoint that the Counsell shall consist of four persons upon the place, with the Cheifes of the other factories when present; whoe shall joyntly act and manadge all our affaires and businesse, and that all matters bee debated and concluded of by consultacion, and not, as formerly, singly by our Agent and such as hee hath deputed; which wee utterly dislike and will by noe meanes allow off in the future.
 
 The Committees then alluded to their great desire for cinnamon 'of any sort', and to this end ordered the Agent to send a fit person to Ceylon to treat with the king for the establishment of a factory there. A belief was expressed that the Dutch would not dare to hinder this project, in view of the restoration of King Charles, whose protection was confidently expected. If, however, the Dutch should give any trouble, a protest should be recorded against them, and particulars, duly attested, should be sent home. The letter then explained that the amalgamation of the two Agencies had been decided upon because of 'the discontents and animosities' that had arisen between them; and expressed a hope that the Agent and Council at Madras, having now 'noe co-equall, either to contend with or to opose you', would justify the confidence reposed in them. The two junior members of the Council were to be selected by Chamber and À Court, with the consent of the Chiefs of the other factories. The Council were to have unrestricted access to all books and papers, and all decisions were to be taken by the majority. In case of the death of a member, his successor was to be chosen by the survivors; but every appointment to the Council was to be subject to the approval of the Company. Two 'able and discreete persons' were to be dispatched in the *Coast Frigate* to Masulipatam, one of whom was to proceed to Bengal; these were to be provided with suitable instructions 'for the setling of all our affaires in the severall factories'. Power was given to the Agent and Council 'to dispose of our factors, in all our factories, as may most conduce to our advantage', and to replace any who should prove refractory, sending the offenders home. No Bengal sugar was to be provided in future, either for England or Persia.
 
@@ -555,7 +549,7 @@ There can be no doubt that Isaacson’s unfavourable report of the state of affa
 
 <!-- page: 74 | folio: 60 -->
 
-#### THE BENGAL AGENCY, 1661
+### THE BENGAL AGENCY, 1661
 
 <span class="sc">We</span> have now to follow more particularly the fortunes of the factories in ‘the Bay’, viz. Hūgli, Patna, Kāsimbāzār, and Balasore, which were all under the superintendence of Agent Trevisa. Something has already been said upon this subject in the previous chapter, and, owing to the paucity of documents surviving (only four in all [^sec-06-fn-001]) that originated in the Agency, there is not much to add. Most of our information is derived from letters addressed to Bengal from Surat or Madras.
 
@@ -646,7 +640,7 @@ These letters contain also much information about Dutch trade in Bengal, which w
 [^sec-06-fn-010]: (2) Dr. Thomas thinks that this represents ‘Krishna Vansa’. Probably he was the representative of the ancient ruling family.
 [^sec-06-fn-011]: (1) Doubtless Captain John Durson, for whom see p. 193 of the preceding volume.
 [^sec-06-fn-012]: (2) This statement proved to be premature.
-[^sec-06-fn-013]: (3) Probably for ‘Hajo’, i. e. Cooch Behār. Mġr Jumla started at the beginning of November, 1661, and reached the capital on 19 December. For an account of the campaign see an article by H. Blochmann in the *Journal of the Asiatic Society of Bengal*, vol. xli. part i (p. 64). In the naval flotilla accompanying the Nawāb were several Portuguese, English (probably including Durson and his companions), and Dutch sailors. Among the last-named were some survivors from the *Ter Schelling*, which had been wrecked just before on the coast near Sandwġp. The narrative of one of these was published in Dutch in 1675, and in French six years later, as a supplement to the travels of Jan Struys. It describes briefly the operations in Cooch Behār and at more length the subsequent invasion of Assam.
+[^sec-06-fn-013]: (3) Probably for ‘Hajo’, i. e. Cooch Behār. Mīr Jumla started at the beginning of November, 1661, and reached the capital on 19 December. For an account of the campaign see an article by H. Blochmann in the *Journal of the Asiatic Society of Bengal*, vol. xli. part i (p. 64). In the naval flotilla accompanying the Nawāb were several Portuguese, English (probably including Durson and his companions), and Dutch sailors. Among the last-named were some survivors from the *Ter Schelling*, which had been wrecked just before on the coast near Sandwīp. The narrative of one of these was published in Dutch in 1675, and in French six years later, as a supplement to the travels of Jan Struys. It describes briefly the operations in Cooch Behār and at more length the subsequent invasion of Assam.
 [^sec-06-fn-014]: (1) Evidently this was William Pitt, who has been often mentioned in the two preceding volumes.
 
 
@@ -915,9 +909,7 @@ Meanwhile Sivāji's prisoners at Rairi had heard of the arrival of a new Preside
 
 > Yesterday there came aboard us one Mr. Matthew Noell from [p. 107] Chaull, who tells us that hee was sent thither by Mr. Andrewes in order to the releife of Mr. Randolph Taylor etc., the Companies servantts at Rojapore. Hee brought us letters from the said Mr. Taylor, giving a relation of their imprisonment, and likewise a way proposed for their release, by intercepting the Queen of Vizapore, remaining now incognita at Chaull.[^sec-08-fn-013] My Lord, being unacquainted with the nature of this affaire and unwilling to doe anything without Your Worships advice, hath sent you their papers under Capt. Browns covert, expecting Your Worships answer; having his hands full of his owne business, and little inclination to embroyle himselfe in such a concernment. I have taken care to send them those necessaries they write for, and should bee very glad to serve them in any thing I could, both as my countrymen and fellow servants.
 
-The prisoners' letter to Surat arrived on 7 November, and a week later a reply was sent, assuring them that efforts were being made to obtain their freedom. The President and Council had already arranged that
-
-Bennidas should use his contrivance, by a Braman to be sent to Sovagee to deale with his Bramans, if by this way he may be prevailed with; which wee are assured carries good probability with it. And Vealgee[^sec-08-fn-014] hath commission and order to doe what ever may be sutable to your release. Hee is voyadged downe the coast in ship *Richard and Martha*. And last of all, wee are our selves in action for your redemption by this Govenor, who is become highly civill unto our nation since the President arived, granting all whatever is desired from him with the greatest freedome imaginable, that wee live now in good reputation, being encouraged to make new requests. Wherefore, it being accustomary that all Presidents that are new commers doe present the Govenor etc. the Kings ministers of this towne, which wee are in hands to doe; at which time wee are invited to make our request in your behalves that this Govenor, with some other of the principall officers, would wright to this Kings gennerall, Shasta [Ckaune], who is reported to presse hard upon Sovagee; which being effectually importuned hence in a letter, may worke for your libertyes.
+The prisoners' letter to Surat arrived on 7 November, and a week later a reply was sent, assuring them that efforts were being made to obtain their freedom. The President and Council had already arranged that Bennidas should use his contrivance, by a Braman to be sent to Sovagee to deale with his Bramans, if by this way he may be prevailed with; which wee are assured carries good probability with it. And Vealgee[^sec-08-fn-014] hath commission and order to doe what ever may be sutable to your release. Hee is voyadged downe the coast in ship *Richard and Martha*. And last of all, wee are our selves in action for your redemption by this Govenor, who is become highly civill unto our nation since the President arived, granting all whatever is desired from him with the greatest freedome imaginable, that wee live now in good reputation, being encouraged to make new requests. Wherefore, it being accustomary that all Presidents that are new commers doe present the Govenor etc. the Kings ministers of this towne, which wee are in hands to doe; at which time wee are invited to make our request in your behalves that this Govenor, with some other of the principall officers, would wright to this Kings gennerall, Shasta [Ckaune], who is reported to presse hard upon Sovagee; which being effectually importuned hence in a letter, may worke for your libertyes.
 
 At the same time Oxenden deemed it only right to inform the imprisoned merchants that the Company at home regarded them as [p. 108] having brought their afflictions on themselves, and were disposed to claim from them compensation for the losses suffered through their ‘rash undertakeings’. They must be prepared, therefore, to justify themselves when released. As regards their letter to Lord Marlborough, the President and Council had entreated him to do anything in his power to effect the release of the prisoners;
 
@@ -1366,15 +1358,7 @@ Winter’s late arrival left him little time to comply with his employers’ per
 
 Winter’s next step was to dispatch the *Good Hope* to Bantam, which was done on 13 October. A week later he held another consultation, attended by Blake (who had returned to Masulipatam, as already noted), Jearsey, Gifford, and Allen. At this meeting Blake was absolved from making any attempt to reach Hūglī overland, as, apart from the risk of robbery on the way, he could not hope to arrive in time to be of any use that season. Gifford was declared to have cleared himself of the charges brought against him and was readmitted to the Council, as ‘Accomptant Generall of Fort St. George’. Steps were taken to examine Johnson’s accounts; but inquiry into the delinquencies of Chamber was deferred until the departure of the homeward-bound ships. It was decided to send the *Discovery* to England as soon as possible. The next resolution was :
 
-> That havinge received severall abuses from the Governer or by his order, as beseidginge the factorie, not sufferinge for many daies any thinge of provitions to be brought, raisinge battaries and plantinge great gunns against the house, and at another time, comminge home from the garden, without any occation given assalted us in hostile manner, kild one of our company (an Englishman), and daingerously wounded our Agent in severall places,[^sec-10-fn-016] that we write therefore to [p. 172] the Kinge of Gulconda, and acquaint him with these affronts and require justice. The goods available would probably not lade more than three ships; and so it was proposed to employ the *Madras Merchant* on a voyage to Siam, while the dispatch of the *Coronation* to Gombroon (if she too could not procure a cargo for England) was also contemplated. Finally, the list of factors, both old and new, was examined and their stations and precedence settled. Chamber had repaired to Masulipatam with Winter; and on 1 November we find an undertaking signed by him. In this he engaged to answer within a month the charges made against him; should his explana-
-
-> Thrice twenty mounted Moors he overthrew  
-> Singly on foot; some wounded, some he slew;  
-> Dispersd the rest. What more cou’d Sampson do ?
-
-
-<!-- page: 187 | folio: 173 -->
-tions be deemed inconclusive, he desired that they should be transmitted to the Company, and he expressed his willingness (if he were not permitted to go home) to remain within the precincts of the Agency until a reply arrived from England; in the event of his death in the interim, he undertook that his executors should pay any money that might appear to be legally due to the Company.
+> That havinge received severall abuses from the Governer or by his order, as beseidginge the factorie, not sufferinge for many daies any thinge of provitions to be brought, raisinge battaries and plantinge great gunns against the house, and at another time, comminge home from the garden, without any occation given assalted us in hostile manner, kild one of our company (an Englishman), and daingerously wounded our Agent in severall places,[^sec-10-fn-016] that we write therefore to [p. 172] the Kinge of Gulconda, and acquaint him with these affronts and require justice. The goods available would probably not lade more than three ships; and so it was proposed to employ the *Madras Merchant* on a voyage to Siam, while the dispatch of the *Coronation* to Gombroon (if she too could not procure a cargo for England) was also contemplated. Finally, the list of factors, both old and new, was examined and their stations and precedence settled. Chamber had repaired to Masulipatam with Winter; and on 1 November we find an undertaking signed by him. In this he engaged to answer within a month the charges made against him; should his explanations [p. 173] be deemed inconclusive, he desired that they should be transmitted to the Company, and he expressed his willingness (if he were not permitted to go home) to remain within the precincts of the Agency until a reply arrived from England; in the event of his death in the interim, he undertook that his executors should pay any money that might appear to be legally due to the Company.
 
 The differences with the Governor of Masulipatam had now reached a crisis. At a consultation held aboard the *Coronation* in Masulipatam Road on 4 November it was recorded that two attempts had been made to murder Winter and Blake; that letters complaining to the King of Golconda had been intercepted by ‘Seer Mejafa,[^sec-10-fn-017] the next man to the Kinge’; that ‘certaine intelligence’ had been received that there was a plot to seize Winter and imprison him ‘in some fort of the countrey, hopinge thereby to force him to theire owne termes’, and that the Golconda troops intended to lay siege to Fort St. George. It was therefore decided that Winter should proceed at once to the latter place in the *Madras Merchant*, leaving Blake and others at Masulipatam to negotiate further and to endeavour to save the Company’s estate. Should these negotiations fail, or should an attempt be made upon Fort St. George, the English ships were to seize any junks they could get hold of, in order to enforce satisfaction.
 
@@ -1414,7 +1398,7 @@ In reply to the Company’s instructions concerning the Ceylon captives, the let
 
 Gifford’s reinstatement in Council and other minor matters were mentioned ; and then the Agent and his colleagues gave a list of the goods expected from Bengal that season. Sheldon had written [p. 179] that it was too late to provide many taffetas; however, Ken had sent up to Kāsimbāzār 10,000 rupees for the next investment. Ken had also advised that Trevisa had made out the remains in Hūgli to be over 51,000 rupees, and had handed over to him the goods included in this total. The Guinea factors had sent to Madras the names of calicoes suitable for that country, but no one there could understand these. Recovery should be made of the value of some piece-goods (the property of Indian merchants) which had been carried to Persia in the *Concord* and sold there; otherwise there would be trouble with 'the Governor of the countrey'. To increase the trade at Madras, less broadcloth should be sent and more vermilion, quicksilver, lead and coral, especially the last-named; 'for severall corrall merchants from Goa are cominge to live here', who would take from 30,000 to 40,000 pagodas' worth annually, part of which should be twice as good as that usually sent. Efforts would be made to suppress private trade; but more should be done at home to prevent its shipment. Winter and his Council complained that the Company had 'to much tyed us up and left nothinge to our libertie to act' in unforeseen circumstances, particularly as to the employment of ships which had to be kept back for want of lading. In this connexion the recent troubles at Masulipatam were described, and a hope was expressed that the Company would authorize immediate action to be taken in such contingencies without waiting for their permission.
 
-Wee had begun to take such a course as was honourable; and had proceed[ed], had not we hard the commanders of the freighted shipps avouch that they would serve them selves in the first place, and that they would not or could not hinder theire men from plundSubject: [Akshara Archival Transcription System Constitution]eringe, if we should have taken a rich prize; which if we should have done, the Moores would have granted us any thinge we could aske. The truth is, if we will be abused, we may; but otherwise we may as easily right our selves. Our trade of India is much decayed within this fewe yeares, and the Moores doe trade more than ever they did. Therefore we desire Your Worships to give us an order that noe shipp of the Moores shall goe to any place without our spetiall licence.
+Wee had begun to take such a course as was honourable; and had proceed[ed], had not we hard the commanders of the freighted shipps avouch that they would serve them selves in the first place, and that they would not or could not hinder theire men from plunderinge, if we should have taken a rich prize; which if we should have done, the Moores would have granted us any thinge we could aske. The truth is, if we will be abused, we may; but otherwise we may as easily right our selves. Our trade of India is much decayed within this fewe yeares, and the Moores doe trade more than ever they did. Therefore we desire Your Worships to give us an order that noe shipp of the Moores shall goe to any place without our spetiall licence.
 
 Robert Dearing, who was being sent to Siam in the *Madras Merchant*, was recommended for an allowance for work done at Porto Novo and Pondicherri before he was granted a salary. The [p. 180] death of Johnson, and the arrangements made to secure his estate, were next announced. Shingler died indebted to the Company to the extent of 1,900 new pagodas. While writing, further advices had come from the Bengal factors.
 
@@ -1432,13 +1416,7 @@ Chamber, it was stated, seemed determined to avoid paying anything at Madras, �
 
 Passing over some further details, we find the following list of factors: *Fort St. George*: Winter, Gifford, Bridges, Budley, Stiles, Dearing, Dawes, Herries, Haselwood, Charlton, John Grover and Richard Clay (both engaged by Chamber), John Field, Jones, and Hopkins. *Masulipatam*: Jearsey, Proby, Fleetwood, William Acworth, William Bradford, and John Westrow (surgeon). *Petapoli*: Salisbury, and Sledd. *Vīravāsaram*: Niclaes, William Smyth, and Spencer. *Bay of Bengal*: Blake, Allen, Ken, Sheldon, Charnock, Elloes (or Elwes), Aldworth, Calthrop, March, Townsend, Vincent, and Minshull. Reverting to the business of Chamber, the letter pointed out the difficulty of reaching a conclusion at Madras, none of his accusers being there. His answers to the charges were enclosed. But for the Company's express orders, the Agent and Council would gladly have allowed him to go home and dispute the matter. ‘He hath protested against us allreadie, and laide his death to our charge in case of mortallitie’. Apparently he had sent most of his estate to England in the *Coast Frigate* ‘and conveyed the rest away before we came’. A hundred fire-lock muskets were needed for the garrison, those in use being for the most part so decayed that they were dangerous to discharge. A supply of drumheads was also required. It would be useful if some of the ships were to bring out flint, stone, and chalk as ballast. For the Second at Madras to devote himself to embaling goods, as ordered, would mean neglecting more important duties; it was intended, therefore, to appoint a Warehouse Keeper to undertake this duty. After several minor matters had been discussed, the letter proceeded to say:
 
-> The Daines at Trigamber [Tranquebar] have a great difference with the Moores, and tak theire shipps wheresoever they can light upon them; and, that they may be the better provided, they entertaine any of our English that run away from the shipps; which may prove prejudiciall to us, if the Moores com to understand it. Mr.
-
-he could not make up his own mind. Gifford added that Chamber had done good service and had been ill requited.
-
-
-<!-- page: 197 | folio: 183 -->
-Hopkins in the Bay was once in troble about such a bussiness. Therefore we conceive it might be prevented, if the Kinge of Denmark weare made acquainted with it. In the mean time, if our shipps meete with them, they shall have order to take them out.
+> The Daines at Trigamber [Tranquebar] have a great difference with the Moores, and tak theire shipps wheresoever they can light upon them; and, that they may be the better provided, they entertaine any of our English that run away from the shipps; which may prove prejudiciall to us, if the Moores com to understand it. Mr. [p. 183] Hopkins in the Bay was once in troble about such a bussiness. Therefore we conceive it might be prevented, if the Kinge of Denmark weare made acquainted with it. In the mean time, if our shipps meete with them, they shall have order to take them out.
 
 The letter concluded with an explanation about the freight of goods from Macassar. A postscript announced the arrival of the *Matthew and Thomas*. She had brought Trevisa from Bengal to Masulipatam, whence he intended to come to Madras in the *Coronation*.
 
@@ -1473,7 +1451,9 @@ The communication to Patna contained nothing of importance. A note from Charnock
 
 ### Notes
 
-[^sec-10-fn-001]: (1) This refers to the rumour (see p. 29) that Goa and many other Portuguese settlements had been included in the Infanta's dowry. The attack on San Thomé originated in a scheme laid by the Dutch for capturing that city, partly in order to complete the expulsion of the Portuguese from Southern India and partly with an idea that it might prove a more suitable spot than Pulicat for their own head-quarters. As, however, such action might draw upon them the anger of the King of Golconda, they wrote first to Batavia for express sanction to the project. Before the answer arrived, the Portuguese discovered the design and appealed to Golconda for protection; whereupon an order was sent by the king to Pulicat, forbidding the Dutch to meddle with San Thomé, which was claimed as being His Majesty's property. At the same time the king sent troops to the city for its protection under Neknām Khān, though the Portuguese, suspicious of their intentions, refused to admit them within the walls. The Dutch then dispatched an envoy to Golconda, asking the king to drive out the Portuguese and to accept them in place, offering to pay an equal revenue (August, 1661). To this the king seemed to assent, and wrote to Neknām Khān to expel the Portuguese and to allow the Dutch to settle a factory there. However, the situation to the southwards called away the Dutch fleet; and, as the Portuguese still stood on the defensive against the Moors, matters remained for some time in abeyance. According to the Dutch, it was the report that San Thomé was to be ceded to the English which roused the Golconda monarch to fresh action. He had no desire to see either the English or the Dutch increase the number of their fortified stations in his dominions; and so he ordered his troops to make themselves masters of the city. The Dutch chief at Pulicat of his own accord blockaded it by sea; and the result was its surrender to the Moors, who at once strengthened its fortifications and posted a strong force there. Most of the Portuguese took refuge in Madras, to the annoyance of the Golconda authorities, who threatened reprisals, but were told in reply that shelter could not be refused to Christians. The Dutch felt much aggrieved at their failure to secure a footing in the city. (*Hague Transcripts*, ser. i. vol. xxiv. nos. 667-9; vol. xxv. no. 685; vol. xxvi. nos. 689 a, b; *Batavia Dagh-Register*, 1661, pp. 400, 402.)
+[^sec-10-fn-001]: (1) This refers to the rumour (see p. 29) that Goa and many other Portuguese settlements had been included in the Infanta's dowry.
+
+    The attack on San Thomé originated in a scheme laid by the Dutch for capturing that city, partly in order to complete the expulsion of the Portuguese from Southern India and partly with an idea that it might prove a more suitable spot than Pulicat for their own head-quarters. As, however, such action might draw upon them the anger of the King of Golconda, they wrote first to Batavia for express sanction to the project. Before the answer arrived, the Portuguese discovered the design and appealed to Golconda for protection; whereupon an order was sent by the king to Pulicat, forbidding the Dutch to meddle with San Thomé, which was claimed as being His Majesty's property. At the same time the king sent troops to the city for its protection under Neknām Khān, though the Portuguese, suspicious of their intentions, refused to admit them within the walls. The Dutch then dispatched an envoy to Golconda, asking the king to drive out the Portuguese and to accept them in place, offering to pay an equal revenue (August, 1661). To this the king seemed to assent, and wrote to Neknām Khān to expel the Portuguese and to allow the Dutch to settle a factory there. However, the situation to the southwards called away the Dutch fleet; and, as the Portuguese still stood on the defensive against the Moors, matters remained for some time in abeyance. According to the Dutch, it was the report that San Thomé was to be ceded to the English which roused the Golconda monarch to fresh action. He had no desire to see either the English or the Dutch increase the number of their fortified stations in his dominions; and so he ordered his troops to make themselves masters of the city. The Dutch chief at Pulicat of his own accord blockaded it by sea; and the result was its surrender to the Moors, who at once strengthened its fortifications and posted a strong force there. Most of the Portuguese took refuge in Madras, to the annoyance of the Golconda authorities, who threatened reprisals, but were told in reply that shelter could not be refused to Christians. The Dutch felt much aggrieved at their failure to secure a footing in the city. (*Hague Transcripts*, ser. i. vol. xxiv. nos. 667-9; vol. xxv. no. 685; vol. xxvi. nos. 689 a, b; *Batavia Dagh-Register*, 1661, pp. 400, 402.)
 [^sec-10-fn-002]: (1) Chief commander (Port. *capitão mór*).
 [^sec-10-fn-003]: (1) According to the Dutch, the date was 1 May N.S., i.e. 21 April O.S.
 [^sec-10-fn-004]: (1) Palmyras Point is about 50 miles south of Balasore in a straight line.
@@ -1488,7 +1468,15 @@ The communication to Patna contained nothing of importance. A note from Charnock
 [^sec-10-fn-013]: (1) This was a change of attitude, due apparently to a recognition of the fact that it was impossible to force home all the Englishmen who were not in the Company's service. To enable him to deal with recalcitrants Winter was furnished with a royal warrant similar to that given to Sir George Oxenden (see p. 99).
 [^sec-10-fn-014]: (1) Walsh failed to embark in the *Madras Merchant*, and on 12 March, 1662, the Committees ordered him to be arrested, as he had received an advance of 35*l.* Nothing more is heard of him.
 [^sec-10-fn-015]: (1) According to the *Batavia Dagh-Register*, 1663 (p. 143) she was named the *George*, and at the end of 1662 was preparing to sail from Balasore to Gombroon with freight and other goods.
-[^sec-10-fn-016]: (2) From the account given to the Company (10 January, 1663) we learn that Winter’s wounds included ‘one remarkable one ... in his face, which will allwaies prompt him to a revendge’. In *Fac. Rec., Miscell.*, vol. 3 (p. 85), will be found the following narrative by an eye-witness: ‘Sir Edward sending his servants to the market to buy grass for his horses, they fell out ... with the Governours servants of that place about a question which of them should be first served, and in the quarrell they bringing away one of the Governours [p. 172] servants, Sir Edward caused him to be soundly drubd and sent away. That on the Sunday following Sir Edward Winter and some of the factors being at a garden house two miles off, whither they went for recreation . . . Sir Edward, having his guard of souldiers attending on him, would needes in a bravado, in his returne, ride through the Governours towne. And so soone as they were passed through the towne, a partie of the Governours horse marching after them and coming up inquired which was the Captaine (meaneing Sir Edward Winter), and thereupon fell upon him and wounded him in severall places; and also his trumpiter, who came up to his assistance, receaved a mortall wound . . . None of the company besides had any hurt done them.’ The *Batavia Dagh-Register*, 1663 (p. 116), gives a somewhat different account. The dispute originated in a quarrel between Jearsey and the Governor of Masulipatam over some trifles; and the arrival of the arrogant Winter did not help to smooth matters. A party of the Governor’s peons, who had attempted to take away some fodder from Jearsey’s servants, were carried into the English factory and soundly drubbed, while Jearsey used abusive language about their master. The Governor watched for an opportunity to revenge himself; and on 12 October 50 or 60 of his horsemen were sent to attack the English on their return from an excursion to the Company’s garden. Jearsey, who was unarmed, sought safety in flight, and Winter became the special object of attack. The cushions of his palankin staved off many blows; and his trumpeter and a native servant defended him valiantly until he could struggle out of the palankin and make use of his sword. Winter himself escaped with a few injuries and a great scar on his face; but the trumpeter died of his wounds three days after. The Governor, feigning ignorance, put all the blame on his servants. This, however, did not deceive the Agent, who wrote to Golconda, demanding redress. The King, to pacify him, sent a *farmān*, with a dress of honour and a Persian horse for a present. Winter accepted the *farmān*, but refused the gifts, vowing that he would have better satisfaction. To secure this, he took the English colony aboard the vessels, and proceeded to blockade the port. After a while the Governor and the principal merchants entreated him to come ashore again, promising the punishment of those who had assaulted the Agent, the continuance of the English privileges, and the satisfaction of other grievances; and on these terms harmony was restored. The incident is depicted on Winter’s monument at Battersea, with the following lines :
+[^sec-10-fn-016]: (2) From the account given to the Company (10 January, 1663) we learn that Winter’s wounds included ‘one remarkable one ... in his face, which will allwaies prompt him to a revendge’. In *Fac. Rec., Miscell.*, vol. 3 (p. 85), will be found the following narrative by an eye-witness: ‘Sir Edward sending his servants to the market to buy grass for his horses, they fell out ... with the Governours servants of that place about a question which of them should be first served, and in the quarrell they bringing away one of the Governours [p. 172] servants, Sir Edward caused him to be soundly drubd and sent away. That on the Sunday following Sir Edward Winter and some of the factors being at a garden house two miles off, whither they went for recreation . . . Sir Edward, having his guard of souldiers attending on him, would needes in a bravado, in his returne, ride through the Governours towne. And so soone as they were passed through the towne, a partie of the Governours horse marching after them and coming up inquired which was the Captaine (meaneing Sir Edward Winter), and thereupon fell upon him and wounded him in severall places; and also his trumpiter, who came up to his assistance, receaved a mortall wound . . . None of the company besides had any hurt done them.’
+
+    The *Batavia Dagh-Register*, 1663 (p. 116), gives a somewhat different account. The dispute originated in a quarrel between Jearsey and the Governor of Masulipatam over some trifles; and the arrival of the arrogant Winter did not help to smooth matters. A party of the Governor’s peons, who had attempted to take away some fodder from Jearsey’s servants, were carried into the English factory and soundly drubbed, while Jearsey used abusive language about their master. The Governor watched for an opportunity to revenge himself; and on 12 October 50 or 60 of his horsemen were sent to attack the English on their return from an excursion to the Company’s garden. Jearsey, who was unarmed, sought safety in flight, and Winter became the special object of attack. The cushions of his palankin staved off many blows; and his trumpeter and a native servant defended him valiantly until he could struggle out of the palankin and make use of his sword. Winter himself escaped with a few injuries and a great scar on his face; but the trumpeter died of his wounds three days after. The Governor, feigning ignorance, put all the blame on his servants. This, however, did not deceive the Agent, who wrote to Golconda, demanding redress. The King, to pacify him, sent a *farmān*, with a dress of honour and a Persian horse for a present. Winter accepted the *farmān*, but refused the gifts, vowing that he would have better satisfaction. To secure this, he took the English colony aboard the vessels, and proceeded to blockade the port. After a while the Governor and the principal merchants entreated him to come ashore again, promising the punishment of those who had assaulted the Agent, the continuance of the English privileges, and the satisfaction of other grievances; and on these terms harmony was restored.
+
+    The incident is depicted on Winter’s monument at Battersea, with the following lines :
+
+    Thrice twenty mounted Moors he overthrew\
+    Singly on foot; some wounded, some he slew;\
+    Dispersd the rest. What more cou’d Sampson do ?
 [^sec-10-fn-017]: (1) A later entry suggests that this name was Sayyid Mīr Jāfar, though the spelling given by the Dutch ‘Seydmoesaffar’ looks more like Sayyid Muzaffar. He was the *Sar-i-Khail* or Treasurer of the Golconda kingdom. (*Batavia Dagh-Register*, 1663, p. 376, and 1665, pp. 347, 376.)
 [^sec-10-fn-018]: (1) She was to carry freight goods only, but a considerable profit was expected from the rates to be charged. From later correspondence it appears that the goods she carried belonged mainly to Winter and other factors. Some particulars of the situation in Siam are given in *Hague Transcripts*, series i. vol. xxv. no. 685, which is a letter from Batavia to Holland dated <sup>16</sup>/<sub>26</sub> December, 1662. This states that no English ship had reached Siam since the departure of the *Hopewell*, and that the factor left there (Coates) was in great straits for money. At Tenasserim there had been an enormous import of goods from the Coromandel Coast and Bengal, and so the markets were clogged. The people had been reduced to great poverty, owing to the wars, and rice had risen to a high price.
 [^sec-10-fn-019]: (2) Riza Kuli, afterwards Neknām Khān. For his history see a note in Col. Love’s *Vestiges of Old Madras* (vol. i. p. 212).
@@ -1497,7 +1485,7 @@ The communication to Patna contained nothing of importance. A note from Charnock
 [^sec-10-fn-022]: (1) Mīr Jumla left Dacca at the beginning of November, 1661, conquered and annexed Cooch Behār, and then, early in January, 1662, commenced the invasion of Assam. Gargaon, the capital, was captured in March, and the Moguls took up their quarters for the rainy season, during which they were continually harassed by the Assamese, and were decimated by sickness. The cold weather brought relief, and the advance was resumed. By December the Assamese had given up all hopes of success, and a treaty was then concluded, [p. 178] by which a portion of the country was ceded to the Moguls and a war indemnity paid. Mīr Jumla, who had already fallen ill, now gave the signal to retire ; but his sickness increased, and on 31 March, 1663, he died while on his way to Dacca (see Professor Jadunath Sarkar’s *History of Aurangzib*, vol. iii. ch. xxxi). The English (*infra*, p. 289) and the Dutch (*Batavia Dagh-Register*, 1663, p. 424) records give the date as 1 April.
 [^sec-10-fn-023]: (1) This was incorrect. Capt. Knox died on 9 February 1661.
 [^sec-10-fn-024]: (1) ‘The differences at Madraspatam between the English and the Moors concerning the levying of the customs have not yet been settled. The latter wish to keep their own agent there with full authority to collect them; to this the English wil not agree, but insist that they should collect the dues themselves as hitherto, promising to give the Moors their proper proportion. The latter have several times threatened to enforce their rights, but have taken no action; and so matters continue as before’ (Batavia to Holland, <sup>16</sup>⁄<sub>26</sub> Dec. 1662; *Hague Transcripts*, series i. vol. xxv. no. 685). It will be remembered that, by an agreement made in 1658, the Golconda officials were to receive an annual payment of 380 pagodas in satisfaction of their claim to a half share in the customs. It appears that, in view of the rapid growth of the town and its trade, they wished to revert to the old arrangement and to receive half the actual yield, and they demanded that an agent of theirs should be installed in Madras to check the amount payable. From 1661 to 1672 (when the dispute was settled) they steadily refused to take the 380 pagodas per annum, maintaining their claims to a larger share. In the end it was agreed to pay them 1000 pagodas for each of the eleven years, and 1200 pagodas per annum in future. (*Love's Vestiges of Old Madras*, vol. i. p. 343.)
-[^sec-10-fn-025]: (2) A private letter from Gifford to Gary, 18 December, 1662 (P.R.O.: *C.O.* 77, vol. ix. no. 27) says that Winter and the Council did not intend to hinder Chamber's return, but
+[^sec-10-fn-025]: (2) A private letter from Gifford to Gary, 18 December, 1662 (P.R.O.: *C.O.* 77, vol. ix. no. 27) says that Winter and the Council did not intend to hinder Chamber's return, but [p. 182] he could not make up his own mind. Gifford added that Chamber had done good service and had been ill requited.
 [^sec-10-fn-026]: (1) An account of the cargo she had brought from Bengal will be found at p. 143 of the *Batavia Dagh-Register*, 1663.
 [^sec-10-fn-027]: (2) From another letter it appears that he was accompanied by Jearsey.
 
@@ -1505,7 +1493,7 @@ The communication to Patna contained nothing of importance. A note from Charnock
 ## 1663. Affairs at Surat
 
 
-#### AFFAIRS AT SURAT, 1663.
+### AFFAIRS AT SURAT, 1663.
 
 <span class="sc">During</span> the early part of the year Sir George Oxenden’s Council consisted of Goodier and Aungier, the latter having been promoted to that position in consequence of the death of Lambton. The remaining member of the Council, Henry Gary, who ranked above Aungier, was absent at this time, but in June we find him again in his place.
 
@@ -1684,7 +1672,9 @@ Replying on 28 January, 1664, the President and Council censured severely the pr
 
 [^sec-11-fn-001]: (1) See Dr. John Anderson’s *English Intercourse with Siam*, p. 93, for quotations.
 [^sec-11-fn-002]: (1) For these negotiations see the companion series of *Court Minutes, etc.*, 1660–63.
-[^sec-11-fn-003]: (1) The *Batavia Dagh-Register*, 1663, contains many references to this pirate. He had been in the Dutch Company’s service as Chief at Ahmadābād, and had gone home in November, 1654. He sailed from Amsterdam about August, 1661, in a new vessel named the *Black Eagle*, of 36 guns and 100 men, bound ostensibly for Guinea and the West Indies. A call was made at Havre, where a number of Frenchmen joined the crew, bringing a commission from the Duc de Vendôme (*Batavia Dagh-Register*, 1665, p. 268). The ship went first to St. Augustine’s Bay, in Madagascar, and then made for the Persian Gulf, but, the winds being contrary, was forced to put into the Red Sea (April, 1662), where several Indian and other vessels were captured. The Governor of Mokha equipped a squadron and sent it against the freebooter, but without success; and in June, 1662, Hugo sailed away with a booty estimated at from four to five tons of gold. He called at Mauritius, and again at St. Helena, intending, it was said, to proceed to the West Indies. While the vessel was at St. Helena, the Governor, John Dutton, obtained from one of those on board an account of their proceedings from July, 1661 to December, 1662; a translation of this he sent home and it is now in the Public Record Office (*see* [p. 190] *Cal. S.P., Dom.*, 1663–64, p. 148). The story is continued in a letter of 1664, given later. It is probable that the pirates referred to by Manucci (*Storia*, vol. ii. p. 45) were Hugo and his companions. See also references in the Hist. MSS. Commission’s report on the Finch MSS. (1913), vol. i. pp. 286, 440, and in the *Voyages* of Jean de Thevenot (ed. 1723, vol. v. p. 62), where is related the plundering by Hugo of a junk carrying the baggage, etc. of the dowager Queen of Bījāpur.
+[^sec-11-fn-003]: (1) The *Batavia Dagh-Register*, 1663, contains many references to this pirate. He had been in the Dutch Company’s service as Chief at Ahmadābād, and had gone home in November, 1654. He sailed from Amsterdam about August, 1661, in a new vessel named the *Black Eagle*, of 36 guns and 100 men, bound ostensibly for Guinea and the West Indies. A call was made at Havre, where a number of Frenchmen joined the crew, bringing a commission from the Duc de Vendôme (*Batavia Dagh-Register*, 1665, p. 268). The ship went first to St. Augustine’s Bay, in Madagascar, and then made for the Persian Gulf, but, the winds being contrary, was forced to put into the Red Sea (April, 1662), where several Indian and other vessels were captured. The Governor of Mokha equipped a squadron and sent it against the freebooter, but without success; and in June, 1662, Hugo sailed away with a booty estimated at from four to five tons of gold. He called at Mauritius, and again at St. Helena, intending, it was said, to proceed to the West Indies. While the vessel was at St. Helena, the Governor, John Dutton, obtained from one of those on board an account of their proceedings from July, 1661 to December, 1662; a translation of this he sent home and it is now in the Public Record Office (*see* [p. 190] *Cal. S.P., Dom.*, 1663–64, p. 148). The story is continued in a letter of 1664, given later.
+
+    It is probable that the pirates referred to by Manucci (*Storia*, vol. ii. p. 45) were Hugo and his companions. See also references in the Hist. MSS. Commission’s report on the Finch MSS. (1913), vol. i. pp. 286, 440, and in the *Voyages* of Jean de Thevenot (ed. 1723, vol. v. p. 62), where is related the plundering by Hugo of a junk carrying the baggage, etc. of the dowager Queen of Bījāpur.
 [^sec-11-fn-004]: (1) The Straits of Bab-ul-Mandab, at the entrance of the Red Sea.
 [^sec-11-fn-005]: (2) Saiyid Ziyād (?), Governor of Mokha.
 [^sec-11-fn-006]: (3) The Imām of San‘a, who was now in control of Mokha.
@@ -1710,7 +1700,7 @@ Replying on 28 January, 1664, the President and Council censured severely the pr
 ## Shipman at Anjidiv
 
 
-#### SHIPMAN AT ANJIDIV, 1663
+### SHIPMAN AT ANJIDIV, 1663
 
 <span class="sc">We</span> have seen (p. 140) that in December 1662, Sir Abraham Shipman, with the bulk of the troops that had been sent out to form the garrison of Bombay, left Swally in the *Leopard* and *Chestnut* for Kārwār, with the intention of making the little island of Anjidiv his temporary quarters; and that for a time he was held up by the refusal of the Governor of Kārwār to permit him to carry out this plan. On hearing of this, Lord Marlborough proceeded to Kārwār with the *Dunkirk*, and under the protection of this force, Shipman’s soldiers took possession of the island, in defiance of the Governor’s prohibition. An account of these proceedings is contained in a report made to the Navy Commissioners by Captain John Stevens, of the *Chestnut*, in a letter dated 14 January, 1663 (P. R. O.: *C.O.* 77, vol. ix. no. 2), who states that, on reaching Anjidiv on 27 December, 1662,
 
@@ -1843,7 +1833,7 @@ This commission was dispatched overland, in a packet which contained also a lett
 ## The Malabar Coast
 
 
-#### THE MALABAR COAST, 1663
+### THE MALABAR COAST, 1663
 
 <span class="sc">The</span> comparatively scanty information available regarding the establishments in this region during 1661 and 1662 was included in the chapters dealing with the Surat Presidency. For 1663, however, we have sufficient materials to devote a special chapter to the subject, which increasingly engrossed the attention of Oxenden and his Council, in view of the fact that the Dutch had now mastered all the Portuguese possessions to the south of Goa and were doing their best to monopolize the trade of the pepper-producing districts. The success of the Hollanders had evidently alarmed the inhabitants of other coast towns, and invitations had been received at Surat for the settlement of factories at some of these (p. 121). Whatever might be done in that respect, it was vital for the English to retain [p. 229] their hold upon the trade they already had, or the supply of Malabar pepper would be entirely cut off.
 
@@ -2166,9 +2156,7 @@ On 2 April, 1663 Winter and his Council wrote to Surat, congratulating Oxenden o
 
 > Wee dealt with them here in the same manner, and wee had not only promises, but under hand and seale, not to be molested any more or affronted in that nature as wee had bin, but should injoy all our priviledges as formerly. And yet notwithstanding the Governor of Metchlepatam came to Pettepolae and tooke away a garden that hath belonged to the Company many yeares; upon which Mr. Salusbury spoke what was needfull, and the Governor bid him be silent, least he served him as he had already don his great Captain [i. e. Winter]. So they tooke our gardiner out of his house per force, only upon the addresses of a fellow (that was the Companies debitor too) that pretended it to be his. And at Metchlepatam, some of our people being sick, and they coming by the house feasting, as their usuall manner is in that place, with [p. 268] drums, trumpets, and clinckers[^sec-14-fn-002] all night long, they sent to them and desired to forbeare whilst they passed by the house, as in former time it was customary so to doe. They tooke it for an affront, and the Governor sent peons to the factory, where they broke open the goodownes, and had it not bin for the merchants in the towne they had proceeded to have done some further mischeife. Such are the insolencies of the Moores in these parts that wee cannot deeme any other but that they have a designe to deprive us of all our priviledges if they can. They have allready demanded the goverment of this towne and to have a bancksall[^sec-14-fn-003] built to receive the whole customes of the place; which wee shall never agree to so long as wee can hold out, and therefore wee expect suddainly to be beseiged. But wee are pretty well provided for them, let them come when they will. All our feare is that in case wee fall out with the Dutch and they come upon us by sea, then happily wee may be hard put to it; but otherwise wee have the shipp *Anne* riding in the road, which wee intend to send to Porto Nuovo to bring us provisions whenever wee shall have occasion. Some few dayes since, the King of Golcondah wrote a letter to Sir Edward Winter and invited him up thither, promising him what satisfaction he should desire, and that twas his desire to see him that he might setle our affaires to our content; whereupon wee esteemed it not safe for us to deny his invitacion, and resolved that the Agent should proceed thither, hoping thereby (though with some charges) to confirme our old priviledges and obtaine more. And so accordingly he was making provision for that designe; but since wee have heard of their perfidiousnesse and breach of their so late ingagement, wee could not esteeme it but very dangerous for Sir Edward to trust himselfe with them and to leave this place; therefore now he hath desisted from the journey, thinking it very strange that the King should so kindly write for him and at the same time to permit his Governor so to abuse us. And twas well his intentions were altered, for since wee have certaine advice that they did lie in waite for him all over the countrey to cut him of or to make him a prisoner in Gulcondah, and in the meane time to beseige the Fort. Wee have ordered Mr. Jearsey to desert Metchlepatam and goe to Madapollam, where there is a river to freind, that in case of further affronts he may wholy quit the place and come hither; there being at this time but a small matter of the Companies, besides debts standing out, which hereafter wee may find a time to demand. There is no security in living in Metchlepatam, for the great men at Gulcondah have fallen out amongst themselves, when severall were [p. 269] killed on both sides, and who can trust themselves under so bad government? . . . We understand that Mr. Mathew Andrewes is gone home. Mr. Chambers did desire to goe home on the same tearmes, but because it is the Companies expresse command to the contrary, he is yet here. He hath likewise made home the most part of his estate; which wee have advised the Company and desired their further order as touching him. We have formerly received the Companies order not to adventure any thing of theirs abroad in voyages to and fro here in India [i. e. the East Indies], they being resolved to drive a trade only out and home; but wee have nothing in our hands. They send us so small stocks that wee are forced to leave ourselves bare at the yeares end, because wee must comply with their tonnage that they are ingaged to impleat by charter party. So that they have already taken care that their estates shall not be circumvented by the Dutch. Wee were forced to borrow 5,000 pagothaes of Sir Edward Winter to send downe with Mr. Blake into the Bay for provision of the next yeares investment, for else wee should have bin disapointed of peter for quintilage of our shipping. Had wee had more money, wee could have allso sent home the *Madrasse Merchant* (for wee never want goods, but for want of effects to doe it). She is now gone on accompt freight to Siam, at 10 per cent. outwards and 5 home; which [wee] hope will more then defray her demurrage. God send her a safe delivery out of the Dutches clutches, if wee have warr with them. She departed hence the 19th March passado. . . . The *Mathew and Thomas* departed from this place the 4th of March, bound for the Bay, with Mr. William Blake etc. on her; also Mr. Jonathan Trevisa is returned thither, that all accompts with the Nabob may be cleared before he goeth home.
 
-Copy of a letter from Coates at Siam, addressed to Andrews, was forwarded; and references was then made to some efforts for the redemption of the captives in Ceylon. After mentioning the note received from Luke Platt (see p. 178), it was reported that
-
-Wee have agreed with a Moore of this countrey to carry our letters to them and to the King of Candy; and so long as he shall be out wee have agreed with him for 5 pagodas per month, which wee suppose may be about 6 or 8 months.
+Copy of a letter from Coates at Siam, addressed to Andrews, was forwarded; and references was then made to some efforts for the redemption of the captives in Ceylon. After mentioning the note received from Luke Platt (see p. 178), it was reported that Wee have agreed with a Moore of this countrey to carry our letters to them and to the King of Candy; and so long as he shall be out wee have agreed with him for 5 pagodas per month, which wee suppose may be about 6 or 8 months.
 
 A postscript stated that
 
@@ -2401,7 +2389,7 @@ Aldworth sailed for England in the *Royal Katherine*, but died during the voyage
 
 <!-- page: 310 | folio: 296 -->
 
-#### SIVĀJI’S ATTACK UPON SURAT, 1664
+### SIVĀJI’S ATTACK UPON SURAT, 1664
 
 <span class="sc">In</span> the early days of the new year, while Oxenden and his colleagues were busily engaged in lading the *Loyal Merchant* and the *African* and in writing their letters for England, the redoubtable Sivāji, whom everybody supposed to be a couple of hundred miles away, suddenly swooped down upon Surat—then an unwalled town—plundered it for some days, burnt a great part of it, and withdrew unmolested, laden with booty.
 
@@ -2462,9 +2450,7 @@ L’Escaliot then details the steps taken to fortify the factory.
 
 Our four smaller guns are then carried up to the tope of the house, and three of them planted to scoure two great streets; the four[th] was bent upon a rich churles house (Hogee Said Beeg ...), because it was equally of hight and, being posesed by the enemy, might have beene dangerous to our house.... On one side wee tooke possesion of [a] pagod or Banian idol temple which was just under our house... on the other a Moorish meseete [i. e. mosque], where severall people were harboured and had windowes into our outward yard, was thought good to bee cleared and shutt up.
 
-The capture of Anthony Smith is narrated, and then an account is given of the sally made by the English, which it appears took place on the Thursday afternoon and was led by Gerard Aungier. Smith’s release, and the various messages sent by Sivāji to Oxenden, are next recorded. Smith related, amongst other things, that
-
-When hee came away, hee could not [but] guess, by the mony heaped up in tow great heapes before Sevagee his tent, than that hee had plundered 20 or 25 lack of rupees: that the day when hee came away in the morning there was brought in neere upon 300 porters, laden each with 2 baggs of rupees, and some hee guessed to be gold: that thay brought in 28 sere of large pearle, with many other jewells, great diamonds, rubies, and emeralds... and these, with an increedable quantety of mony, they found at the house of the reputed richest marchant in the wourld (his name is Verge Vora, his estate haveing beene esteemed to bee 80 lack of rupees): that they were still, every hower while hee was there, bringing in loods of mony from his house. His disire of mony is soe great that [p. 309] he spares noe barbour[ou]s cruelty to extort confessions from his prisoners; whips them most cruely, threatens death, and often executeth it, if thay doe not produce soe much as hee thinks they may or disires they should; at least cutts off one hand, sometymes both.
+The capture of Anthony Smith is narrated, and then an account is given of the sally made by the English, which it appears took place on the Thursday afternoon and was led by Gerard Aungier. Smith’s release, and the various messages sent by Sivāji to Oxenden, are next recorded. Smith related, amongst other things, that When hee came away, hee could not [but] guess, by the mony heaped up in tow great heapes before Sevagee his tent, than that hee had plundered 20 or 25 lack of rupees: that the day when hee came away in the morning there was brought in neere upon 300 porters, laden each with 2 baggs of rupees, and some hee guessed to be gold: that thay brought in 28 sere of large pearle, with many other jewells, great diamonds, rubies, and emeralds... and these, with an increedable quantety of mony, they found at the house of the reputed richest marchant in the wourld (his name is Verge Vora, his estate haveing beene esteemed to bee 80 lack of rupees): that they were still, every hower while hee was there, bringing in loods of mony from his house. His disire of mony is soe great that [p. 309] he spares noe barbour[ou]s cruelty to extort confessions from his prisoners; whips them most cruely, threatens death, and often executeth it, if thay doe not produce soe much as hee thinks they may or disires they should; at least cutts off one hand, sometymes both.
 
 Smith also narrated the attempt of an emissary from the Governor to assassinate Sivāji, already mentioned in the extract from Captain Millet’s log. Smith himself had narrowly escaped execution among the prisoners.
 
@@ -2500,11 +2486,7 @@ On 19 May the President and Council, in a letter to Madras, said modestly that t
 
 Later in the year (26 November) the President and Council repeated to the Company this news, and gave some additional information as to the course of events.
 
-> Wee are dayly in feare of Sevagees comeing againe, and soe have [been] ever since hee was heere; for hee dayly threatens heartily to visitt this towne once more, except the King will give him peacible[y] the fourths of what hee receives of the towne and country yearely; which is too dishonourable for the King to except. . . . Wee are in a peacible condition at present. All things goe on in an even channell. Pray God continue our quiett, for wee are dayly alarm'd, and the townes poeple are frighted and unsetled. Our Governour is a very good man, who is wonne by your Presidents late services done the King and him (by his ship *Royall Welcome*) to doe from time to time whatever your President moves for, and hath exceedingly earnestly wrote to the King in favour of our nation to bestow on us some further favours and immunities in recompence of the service done, thereby to expresse his princely favour. You have this whole yeares customes, both out and in, graunted you free, and, as an addition of honour, the Governour, upon your Presidents request, sufferred all your Europe goods and monyes to bee transported in your boats directly to your house, without comeing neare the custome house and without any notice taken of the goods by either Customer or weighters; which was not only admired at by all the towne, but many were disgusted at it; unto whom the
-
-
-<!-- page: 327 | folio: 313 -->
-Governour replyed that wee had soe deeply engaged the King and him that hee could in reason refuse us nothing wee could aske. Wee hope you will bee pleased to consider us in this good service done you, by an answerable reward; the purchaseing of which hath cost your President a considerable summe of mony, which hee doth not doubt your ready reimburseing him with, since the adventure was soe hazardous to him and gainefull to you; the accompt whereof shall bee given you in our next. Wee have received from court a letter to your President from the King's Dewan (which they heere call Husbull Huckum, which is as much as by the King's immediate commaund), wherein you have graunted you the halfe of your customes for ever. Wee doe endeavour (and this Governour labours with us) to procure all under a phirmaund immediately from the King; which will bee much more authentique to any Prince or Governour that shall come after.... Hodjee Zaied Beague and Virjee Vorah, the two great merchants of this towne, hould up theire heads still and are for great bargaines; soe that it seems Sevagy hath not carryed away all, but left them a competency to carry on theire trade. Hodjee Zaied had fared very ill, had his [house] not joyned to ours; for when they had entered his house, they could not [*sic*] annoy us at pleasure, nay indeed, destroy us with fire, soe much combustable stuffe was in the house next to us, being filled with poles, timber, caroo,[^sec-16-fn-011] cotton etc. stores for shipping. Wherefore wee, apprehending the danger of it, and knowing him [Sivāji] to bee a rouge that houlds neither faith nor truce, but designed us one of his last morcells, drue out a file or two of musketeers, cleared the house, shutt the doores within, and kept a guard of our owne there ever after; by which Hodgee Zaied was preserved. Thus wee have troubled you with peeces of storyes concerning Sevagy, who is the sole talke of court and country.
+> Wee are dayly in feare of Sevagees comeing againe, and soe have [been] ever since hee was heere; for hee dayly threatens heartily to visitt this towne once more, except the King will give him peacible[y] the fourths of what hee receives of the towne and country yearely; which is too dishonourable for the King to except. . . . Wee are in a peacible condition at present. All things goe on in an even channell. Pray God continue our quiett, for wee are dayly alarm'd, and the townes poeple are frighted and unsetled. Our Governour is a very good man, who is wonne by your Presidents late services done the King and him (by his ship *Royall Welcome*) to doe from time to time whatever your President moves for, and hath exceedingly earnestly wrote to the King in favour of our nation to bestow on us some further favours and immunities in recompence of the service done, thereby to expresse his princely favour. You have this whole yeares customes, both out and in, graunted you free, and, as an addition of honour, the Governour, upon your Presidents request, sufferred all your Europe goods and monyes to bee transported in your boats directly to your house, without comeing neare the custome house and without any notice taken of the goods by either Customer or weighters; which was not only admired at by all the towne, but many were disgusted at it; unto whom the [p. 313] Governour replyed that wee had soe deeply engaged the King and him that hee could in reason refuse us nothing wee could aske. Wee hope you will bee pleased to consider us in this good service done you, by an answerable reward; the purchaseing of which hath cost your President a considerable summe of mony, which hee doth not doubt your ready reimburseing him with, since the adventure was soe hazardous to him and gainefull to you; the accompt whereof shall bee given you in our next. Wee have received from court a letter to your President from the King's Dewan (which they heere call Husbull Huckum, which is as much as by the King's immediate commaund), wherein you have graunted you the halfe of your customes for ever. Wee doe endeavour (and this Governour labours with us) to procure all under a phirmaund immediately from the King; which will bee much more authentique to any Prince or Governour that shall come after.... Hodjee Zaied Beague and Virjee Vorah, the two great merchants of this towne, hould up theire heads still and are for great bargaines; soe that it seems Sevagy hath not carryed away all, but left them a competency to carry on theire trade. Hodjee Zaied had fared very ill, had his [house] not joyned to ours; for when they had entered his house, they could not [*sic*] annoy us at pleasure, nay indeed, destroy us with fire, soe much combustable stuffe was in the house next to us, being filled with poles, timber, caroo,[^sec-16-fn-011] cotton etc. stores for shipping. Wherefore wee, apprehending the danger of it, and knowing him [Sivāji] to bee a rouge that houlds neither faith nor truce, but designed us one of his last morcells, drue out a file or two of musketeers, cleared the house, shutt the doores within, and kept a guard of our owne there ever after; by which Hodgee Zaied was preserved. Thus wee have troubled you with peeces of storyes concerning Sevagy, who is the sole talke of court and country.
 
 The letter of 2 January, 1665, referred to in the next chapter, continues the story.
 
@@ -2527,7 +2509,9 @@ The rewards which the factors expected from the Company did not arrive until 166
 
 ### Notes
 
-[^sec-16-fn-001]: (1) First printed (from a copy at Bombay) in Sir George Forrest's *Selections from the Bombay Records, Home Series*, vol. i. p. 24. The words inserted in the text between square brackets are taken from the duplicate in *Factory Records, Surat*, vol. 86.
+[^sec-16-fn-001]: (1) First printed (from a copy at Bombay) in Sir George Forrest's *Selections from the Bombay Records, Home Series*, vol. i. p. 24.
+
+    The words inserted in the text between square brackets are taken from the duplicate in *Factory Records, Surat*, vol. 86.
 [^sec-16-fn-002]: (1) Eaves.
 [^sec-16-fn-003]: (2) According to L'Escaliot, Sivāji demanded a present of three lakhs of rupees, ‘or elss let his men freely to doe their pleasure to Hogee Said Begs house’.
 [^sec-16-fn-004]: (1) ‘Skirmage’ in the copy. It is an obsolete form of ‘skirmish’.
@@ -2547,7 +2531,7 @@ The rewards which the factors expected from the Company did not arrive until 166
 ## Other Events at Surat
 
 
-#### OTHER EVENTS AT SURAT, 1664
+### OTHER EVENTS AT SURAT, 1664
 
 <span class="sc">The</span> first occurrence of note after the withdrawal of Sivājī's force was the return of the *Vine* from Achin on 14 January.[^sec-17-fn-001] In the letter of 28 January already mentioned, the President and Council informed the Company that she had earned about 3,000*l.* in freight by the voyage, and that it was proposed to send her thither again, should sufficient freight be forthcoming. The Queen of Achin was desirous of making an arrangement by which 'the whole trade of her dominions' would be conceded to the English, on condition that they would protect her against the Dutch, who, she feared, were designing to make war upon her; 'but you are not in a condition to doe one or other'. However, no definite answer would be returned, pending the Company's instructions. Some years ago (see p. 83) the Queen sent a letter and present to King Charles, 'whose answer shee is very inquisitive after; please to order an enquiry after it'.
 
@@ -2700,9 +2684,7 @@ The same two factors wrote to Surat on 7 January, 1665, that the actual date of 
 
 Cooke's accounts (P.R.O.: *C.O. 77*, vol. viii, no. 125 ; I.O., *Home Miscellaneous*, vol. 48) show that the amount disbursed by him and his predecessor from the levying of the force in February, 1662, to 3 December, 1664, was 13,166*l*. 17*s*. 11*d*., and that its strength, at the time of the last muster on Anjidiv, apart from Cooke himself and Ensign Thorne, was 13 non-commissioned officers, 103 privates, and seven miscellaneous officials (storekeeper, gunners, surgeon, &c.). Besides this, the King had of course defrayed the cost of sending out the force.
 
-Our information as to what happened upon Cooke's arrival at Goa is mainly derived from two letters written to him by the Viceroy, of which English versions are printed in the *Materials, &c*. (part i. p. 14).[^sec-18-fn-012] The first, written on 16 December, promised to appoint on the following day some one to proceed with Cooke for the purpose of handing over the island. The second (29 December) excused the delay that had taken place, and stated that
-
-All the despatches are ready for Your Honour to depart and take possession of Bombay. . . . Mr. Henry Gary carries the memorandum Your Honour required of me, by which Your Honour will observe little difference can arise on the part of or with the ministers that are going with you, because all the articles are conformable to the treaty of peace and agreement between the two Crowns. Should Your Honour require any thing else of me, you will find me ready and with good will.
+Our information as to what happened upon Cooke's arrival at Goa is mainly derived from two letters written to him by the Viceroy, of which English versions are printed in the *Materials, &c*. (part i. p. 14).[^sec-18-fn-012] The first, written on 16 December, promised to appoint on the following day some one to proceed with Cooke for the purpose of handing over the island. The second (29 December) excused the delay that had taken place, and stated that All the despatches are ready for Your Honour to depart and take possession of Bombay. . . . Mr. Henry Gary carries the memorandum Your Honour required of me, by which Your Honour will observe little difference can arise on the part of or with the ministers that are going with you, because all the articles are conformable to the treaty of peace and agreement between the two Crowns. Should Your Honour require any thing else of me, you will find me ready and with good will.
 
 
 <!-- page: 353 | folio: 339 -->
@@ -2749,7 +2731,7 @@ The assumption made herein that Bombay would before long become the seat of the 
 ## The Malabar Coast
 
 
-#### THE MALABAR COAST, 1664
+### THE MALABAR COAST, 1664
 
 <span class="sc">Since</span> the trade at Old Kāyal had now been transferred to the care of the Agent at Madras, there only remained, at the beginning of this year, two factories to the southwards under the care of the Surat Presidency, viz. the one at Kārwār, where Master, Giffard, and Chamberlain were stationed, and that at Porakād, where Harrington and Grigsby, though cut off from their countrymen, were stubbornly endeavouring to maintain their footing, in spite of the threats and intrigues of the Dutch.
 
@@ -3328,161 +3310,146 @@ August 1. Blake, etc. to Chamber. J, 43 1. Consultation at Madras. J, 45 2. Madr
 
 September 10. Surat to Kārwār. F, 360 13. Powell to Aldworth. C, 2937 20. Browne to Surat. C, 2939 22. Surat to Achin. F, 365 22. Surat to Madras. F, 366 25. Company to Surat. A, 166 26. Aungier to Surat. C, 2941 26. Lord Marlborough to Surat. C, 2942 29. Surat to Kāyal. F, 367 30. Basra to Surat. C, 2943
 
-- October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373 [p. 406] 5. Viceroy to Shipman. C, 2946 7. Masulipatam to Hūgli. K, 270 8. Surat to Ld. Marlborough. F, 376;
-- C, 2949 9. Surat to Kārwār. F, 374 20. Consultation at Masulipatam. J, 77 22. Consultation at Surat. C, 2953 27. Proceedings at Goa. C, 2951 27. Company to Madras. A, 175 30. Ken to Aldworth. C, 2954
+- October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
+
+<!-- page: 420 | folio: 406 -->
+- 5. Viceroy to Shipman. C, 2946
+- 7. Masulipatam to Hūgli. K, 270
+- 8. Surat to Ld. Marlborough. F, 376; C, 2949
+- 9. Surat to Kārwār. F, 374
+- 20. Consultation at Masulipatam. J, 77
+- 22. Consultation at Surat. C, 2953
+- 27. Proceedings at Goa. C, 2951
+- 27. Company to Madras. A, 175
+- 30. Ken to Aldworth. C, 2954
 
 ##### November
 
-- 1. Surat to Ahmadābād. F, 389 1. Undertaking by Chamber. J, 84 4. Consultation at Masulipatam. J, 86 6. Surat to Madras. F, 391 9. Consultation at Masulipatam. J, 89
-- —. Consultation at Masulipatam. J, 90 14. Surat to Rairi. F, 395 16. Madras to Masulipatam. K, 276 18. Charges against Andrews. E, 107
+- 1. Surat to Ahmadābād. F, 389
+- 1. Undertaking by Chamber. J, 84
+- 4. Consultation at Masulipatam. J, 86
+- 6. Surat to Madras. F, 391
+- 9. Consultation at Masulipatam. J, 89
+- —. Consultation at Masulipatam. J, 90
+- 14. Surat to Rairi. F, 395
+- 16. Madras to Masulipatam. K, 276
+- 18. Charges against Andrews. E, 107
 
 ##### 1663
 
 
 ##### January
 
-- 2. Winter to Chamberlain. C, 2964 2. Company to Madras. A, 199 2. Company to Hūgli. A, 200 10. Madras to Company. K, 287, 326 18. Charges against Andrews. E, 118–25 18. Andrews's bond. E, 125 19. Surat to Company. N, 11 24. Madras to Surat. K, 324; H, 238 25. Surat to Company. N, 12 26. Shipman to Surat. H, 247 28. Kārwār to Surat. H, 246
-- [30?]. Madras to Company. K, 326 30. Winter to Riccard. C, 2967
+- 2. Winter to Chamberlain. C, 2964
+- 2. Company to Madras. A, 199
+- 2. Company to Hūgli. A, 200
+- 10. Madras to Company. K, 287, 326
+- 18. Charges against Andrews. E, 118–25
+- 18. Andrews's bond. E, 125
+- 19. Surat to Company. N, 11
+- 24. Madras to Surat. K, 324; H, 238
+- 25. Surat to Company. N, 12
+- 26. Shipman to Surat. H, 247
+- 28. Kārwār to Surat. H, 246
+- [30?]. Madras to Company. K, 326
+- 30. Winter to Riccard. C, 2967
 
 ##### February
 
 - 1. Instructions to Master. E, 128
-- 2 and 3. Instructions to Tinker. E, 132,
-- 134 2. Consultation at Alvatty. H, 301 6. Rājāpur to Surat. H, 233 11. Sheldon to Aldworth. C, 2968 12. Consultation at Surat. E, 135 18. Rājāpur to Surat. H, 248 20. Company to Madras. A, 228 23. Tinker to Surat. H, 251 23. Mokha to Surat. H, 260 25. Shipman to Surat. H, 252 25. Porakād to Surat. H, 276 27. Kārwār to Surat. H. 251 27. Company to Madras. A, 232 27. Charnock to Aldworth. C, 2969 28. Consultation at Madras. C, 2970 28. Consultation at Surat. E, 137 28. Instructions for Mokha. E, 138, 140 28. Contract with Pīru. E, 142 28. Gombroon to Surat. H, 241 20. Surat to Kārwār. F, 398 30. Surat to Gombroon. F, 400 30. Surat to Aleppo. F, 402 30. Surat to Company. F, 404
+- 2 and 3. Instructions to Tinker. E, 132, 134
+- 2. Consultation at Alvatty. H, 301
+- 6. Rājāpur to Surat. H, 233
+- 11. Sheldon to Aldworth. C, 2968
+- 12. Consultation at Surat. E, 135
+- 18. Rājāpur to Surat. H, 248
+- 20. Company to Madras. A, 228
+- 23. Tinker to Surat. H, 251
+- 23. Mokha to Surat. H, 260
+- 25. Shipman to Surat. H, 252
+- 25. Porakād to Surat. H, 276
+- 27. Kārwār to Surat. H. 251
+- 27. Company to Madras. A, 232
+- 27. Charnock to Aldworth. C, 2969
+- 28. Consultation at Madras. C, 2970
+- 28. Consultation at Surat. E, 137
+- 28. Instructions for Mokha. E, 138, 140
+- 28. Contract with Pīru. E, 142
+- 28. Gombroon to Surat. H, 241
+- 20. Surat to Kārwār. F, 398
+- 30. Surat to Gombroon. F, 400
+- 30. Surat to Aleppo. F, 402
+- 30. Surat to Company. F, 404
 
 ##### December
 
-- 1. Kārwār to Surat. H, 221 2. Siam to Surat. H, 237 6. Surat to Kārwār. F, 430; C, 2958 6. Surat to Porakād. F, 431; C, 2959 8. Surat to Company. F, 433 9. Madras to Masulipatam. K, 279 16. Consultation at Surat. E, 101 17. Madras to Masulipatam. K, 282 20. Rairi to Surat. H, 224 22. Minors to Surat. H, 225 23. Andrews's answer. E, 109, 114 23. Consultation at Surat. E, 103 27. Gary to Surat. H, 227 31. Company to Madras. A, 180
+- 1. Kārwār to Surat. H, 221
+- 2. Siam to Surat. H, 237
+- 6. Surat to Kārwār. F, 430; C, 2958
+- 6. Surat to Porakād. F, 431; C, 2959
+- 8. Surat to Company. F, 433
+- 9. Madras to Masulipatam. K, 279
+- 16. Consultation at Surat. E, 101
+- 17. Madras to Masulipatam. K, 282
+- 20. Rairi to Surat. H, 224
+- 22. Minors to Surat. H, 225
+- 23. Andrews's answer. E, 109, 114
+- 23. Consultation at Surat. E, 103
+- 27. Gary to Surat. H, 227
+- 31. Company to Madras. A, 180
 
 ##### March
 
-- 5. Surat to Company. N, 1 11. Company to Madras. A, 235 16. Swally to Surat (two). H, 246 24. Company to Surat. A, 246 30. Rājāpur to Surat. H, 262 30. Kāyal to Surat. H, 293; D, 2974 31. Consultation at Swally. E, 143
+- 5. Surat to Company. N, 1
+- 11. Company to Madras. A, 235
+- 16. Swally to Surat (two). H, 246
+- 24. Company to Surat. A, 246
+- 30. Rājāpur to Surat. H, 262
+- 30. Kāyal to Surat. H, 293; D, 2974
+- 31. Consultation at Swally. E, 143
 
 ##### April
 
-- 2. Madras to Surat. H, 265 4. Company to Surat. A, 259 6. Surat to Company. D, 2975 7. Consultation at Swally. E, 145 8. Instructions to Tinker. E, 149 8. Rājāpur to Surat. H, 272 11. Madras to Surat. H, 268 12. Rājāpur to Surat. H, 268 16. Shipman to Surat. H, 272 17. Commissions for Achin. E, 151, 155 17. Porakād to Surat. H, 276 20. Patna to Surat. H, 270 24. Widdrington's petition. H, 261 26. Masulipatam to Surat. H, 269 28. Ken to Aldworth. D, 2976 28. Balasore to Surat. H, 274 30. Madras to Surat. H, 275
+- 2. Madras to Surat. H, 265
+- 4. Company to Surat. A, 259
+- 6. Surat to Company. D, 2975
+- 7. Consultation at Swally. E, 145
+- 8. Instructions to Tinker. E, 149
+- 8. Rājāpur to Surat. H, 272
+- 11. Madras to Surat. H, 268
+- 12. Rājāpur to Surat. H, 268
+- 16. Shipman to Surat. H, 272
+- 17. Commissions for Achin. E, 151, 155
+- 17. Porakād to Surat. H, 276
+- 20. Patna to Surat. H, 270
+- 24. Widdrington's petition. H, 261
+- 26. Masulipatam to Surat. H, 269
+- 28. Ken to Aldworth. D, 2976
+- 28. Balasore to Surat. H, 274
+- 30. Madras to Surat. H, 275
 
 ##### May
 
-- 5. Rājāpur to Surat. H, 272 7. Sheldon to Aldworth. D, 2977 13. Consultation at Surat. E, 157 24. Kolhāpur to Surat. H, 273
+- 5. Rājāpur to Surat. H, 272
+- 7. Sheldon to Aldworth. D, 2977
+- 13. Consultation at Surat. E, 157
+- 24. Kolhāpur to Surat. H, 273
 
 ##### June
 
-- 10. Gombroon to Surat. H, 287 15. Kārwār to Surat. H, 282 22. Goa to Surat. H, 283 23. Certificate by Trevisa. D, 2980
+- 10. Gombroon to Surat. H, 287
+- 15. Kārwār to Surat. H, 282
+- 22. Goa to Surat. H, 283
+- 23. Certificate by Trevisa. D, 2980
 
 <!-- page: 421 | folio: 407 -->
-- July
--   1. Consultation at Surat. E, 158
--   5. Kāyal to Surat. H, 298; D, 2981
--   7. Madras to Surat. H, 291
--  14. Hubli to Surat. H, 285
--  15. Surat to Kāyal. D, 2982
--  20. Goa to Surat. H, 284
--  20. Madras to Company. D, 2983
--  23. Declaration by Powell. D, 2984
--  24. Madras to Surat. H, 291
--  27. Mokha to Surat. H, 283
--  30. Madapollam to Surat. H, 292
-- August
--  10. Company to Surat. A, 292
--  15. Stiles to Company. D, 2985
--  18. Bantam to Surat. H, 317; D, 2986
--  25. Kārwār to Surat. H, 304
--  27. Ken to Aldworth. D, 2989
-- September
--  24. Porakād to Kārwār. D, 2992; H, 321
--  25. Company to Surat. A, 312
--  26. Goa to Surat. H, 316
--  28. Surat to Kāyal. D, 2993
-- October
--   3. Consultation at Surat. E, 162
--   9. Surat to Kāyal. D, 2993
--   9. Commission to Taylor. E, 164; D,
--        2994 10. Commission to Willet. E, 169; D,
--        2996
--  12. Charnock to Aldworth. D, 2997
--  24. Jaitāpur to Surat. H, 316
--  30. Porakād to Surat. H, 321; D, 2998
-- November
--   5. Travers's answers. I, 53
--   5. Kārwār to Surat. I, 1
--   6. Kārwār to Surat. I, 3
--  14. Surat to Company. D, 3001
--  17. Company to Surat. A, 322
--  17. Porakād to Surat. I, 10
--  19. Kārwār to Surat. I, 4
--  21. Kāyal to Surat. I, 42
--  21. Madras to Surat. I, 20
-- [29]. Achin to Surat. I, 17
--  —. Hūgli to Surat. I, 30
-- December
--   1. Company to Madras. A, 329
--   1. Balasore to Company. D, 3004
--   1. Balasore to Madras. D, 3006
--   7. Stevens to Oxenden. H, 316
--  10. Consultation at Surat. E, 175
--  10. Madras to Company. D, 2983
--  15. Balasore to Mitchell. D, 3012
--  16. Company to Madras. A, 334
--  16. Company to Masulipatam. A, 353
--  16. Company to Bengal. A, 351
+- July 1. Consultation at Surat. E, 158 5. Kāyal to Surat. H, 298; D, 2981 7. Madras to Surat. H, 291 14. Hubli to Surat. H, 285 15. Surat to Kāyal. D, 2982 20. Goa to Surat. H, 284 20. Madras to Company. D, 2983 23. Declaration by Powell. D, 2984 24. Madras to Surat. H, 291 27. Mokha to Surat. H, 283 30. Madapollam to Surat. H, 292 August 10. Company to Surat. A, 292 15. Stiles to Company. D, 2985 18. Bantam to Surat. H, 317; D, 2986 25. Kārwār to Surat. H, 304 27. Ken to Aldworth. D, 2989 September 24. Porakād to Kārwār. D, 2992; H, 321 25. Company to Surat. A, 312 26. Goa to Surat. H, 316 28. Surat to Kāyal. D, 2993 October 3. Consultation at Surat. E, 162 9. Surat to Kāyal. D, 2993 9. Commission to Taylor. E, 164; D, 2994
+-  10. Commission to Willet. E, 169; D, 2996 12. Charnock to Aldworth. D, 2997 24. Jaitāpur to Surat. H, 316 30. Porakād to Surat. H, 321; D, 2998 November 5. Travers's answers. I, 53 5. Kārwār to Surat. I, 1 6. Kārwār to Surat. I, 3 14. Surat to Company. D, 3001 17. Company to Surat. A, 322 17. Porakād to Surat. I, 10 19. Kārwār to Surat. I, 4 21. Kāyal to Surat. I, 42 21. Madras to Surat. I, 20 [29]. Achin to Surat. I, 17 —. Hūgli to Surat. I, 30 December 1. Company to Madras. A, 329 1. Balasore to Company. D, 3004 1. Balasore to Madras. D, 3006 7. Stevens to Oxenden. H, 316 10. Consultation at Surat. E, 175 10. Madras to Company. D, 2983 15. Balasore to Mitchell. D, 3012 16. Company to Madras. A, 334 16. Company to Masulipatam. A, 353 16. Company to Bengal. A, 351
 
 #### 1664
 
-- January
--   6. Consultation at Surat. E, 176
--   6. Madras to Company. D, 2983
--   7. Winter to Riccard. D, 3013
--   8. Company to Madras. A, 359
--  13. Madras to Company. D, 2983
--  18. Madras to Masulipatam. L, 27
--  20. Porakād to Surat. I, 40
--  22. Surat to Persia. G, 2
--  26. Company to Madras. A, 361
--  27. Company to Madras. A, 364
--  28. Surat to Company. D, 3019; G, 4
--  —. List of Factors at Surat. D, 3026;
--        G, 42
-- February
--   2. Madras to Tuticorin. L, 1
--   2. Madras to Masulipatam. L, 2
--   4. Consultation at Hūgli. M, 19
--   6. Madras to Tuticorin. L, 7
--   6. Madras to Ceylon. L, 8
--   9. Consultation in Surat. E, 181
--  10. Surat to Kārwār. G, 46
--  11. Consultation in Surat. E, 183
--  16. Surat to Madras. G, 52
--  16. Kārwār to Surat. I, 77
--  23. Charnock to Hūgli. M, 20
--  26. Surat to Kārwār. G, 60
-- March
--   4. Surat to Persia. G, 61
--   9. Company to Surat. A, 383
--   9. Company to Madras. A, 404
--  18. Madras to Masulipatam. L, 13
--  18. Madras to Surat. I, 76
--  19. Surat to Bantam. G, 64
--  22. Madras to Masulipatam. L, 21
--  25. Consultation at Surat. E, 185
-- April
--   1. Consultation at Surat. E, 188
--   4. Surat to Company. G, 72
--   6. Madras to Masulipatam. L, 24
--   6. Protest against Dutch. L, 25
--  16. Madras to Widdrington. L, 28
--  16. Madras to Masulipatam. L, 28
--  18. Kārwār to Surat. I, 79
--  23. Gombroon to Surat. I, 65
--  25. Surat to Achin. G, 92
--  25. Commission to Gary. E, 189
--  25. Reply to Dutch. L, 29
--  30. Surat to Madras. G, 87
--  30. Surat to Bengal. G, 89
-- May
--   3. Madras to Masulipatam. L, 32
--  14. Kārwār to Surat. I, 83
--  19. Surat to Madras. G, 95
+- January 6. Consultation at Surat. E, 176 6. Madras to Company. D, 2983 7. Winter to Riccard. D, 3013 8. Company to Madras. A, 359 13. Madras to Company. D, 2983 18. Madras to Masulipatam. L, 27 20. Porakād to Surat. I, 40 22. Surat to Persia. G, 2 26. Company to Madras. A, 361 27. Company to Madras. A, 364 28. Surat to Company. D, 3019; G, 4 —. List of Factors at Surat. D, 3026; G, 42 February 2. Madras to Tuticorin. L, 1 2. Madras to Masulipatam. L, 2 4. Consultation at Hūgli. M, 19 6. Madras to Tuticorin. L, 7 6. Madras to Ceylon. L, 8 9. Consultation in Surat. E, 181 10. Surat to Kārwār. G, 46 11. Consultation in Surat. E, 183 16. Surat to Madras. G, 52 16. Kārwār to Surat. I, 77 23. Charnock to Hūgli. M, 20 26. Surat to Kārwār. G, 60
+- March 4. Surat to Persia. G, 61 9. Company to Surat. A, 383 9. Company to Madras. A, 404 18. Madras to Masulipatam. L, 13 18. Madras to Surat. I, 76 19. Surat to Bantam. G, 64 22. Madras to Masulipatam. L, 21 25. Consultation at Surat. E, 185 April 1. Consultation at Surat. E, 188 4. Surat to Company. G, 72 6. Madras to Masulipatam. L, 24 6. Protest against Dutch. L, 25 16. Madras to Widdrington. L, 28 16. Madras to Masulipatam. L, 28 18. Kārwār to Surat. I, 79 23. Gombroon to Surat. I, 65 25. Surat to Achin. G, 92 25. Commission to Gary. E, 189 25. Reply to Dutch. L, 29 30. Surat to Madras. G, 87 30. Surat to Bengal. G, 89 May 3. Madras to Masulipatam. L, 32 14. Kārwār to Surat. I, 83 19. Surat to Madras. G, 95
 
 <!-- page: 422 | folio: 408 -->
 - 20. Madras to Tuticorin. L, 35 25. Madras to Masulipatam. L, 33 27. Company to Surat. A, 412 June 6. Madras to Masulipatam. L, 40 7. Porakād to Surat. I, 105 7. Loss of *Vine*. E, 199 10. Surat to Kārwār. G, 99 21. Hūgli to Surat. D, 3029; I, 97 23. Kāsimbāzār to Hūgli. M, 22 26. Surat to Kārwār. G, 102 July 3. Patna to Surat. I, 95 4. Madras to Surat. L, 47 4. Madras to Masulipatam. L, 49 4. Madras to Bengal. L, 51 11. Consultation at Hūgli. M, 23 18. Surat to Broach. G, 107 23. Kārwār to Surat. I, 92 August 3. Madras to Surat. L, 61; I, 124 4. Madras to Bengal. L, 63 8. Kārwār to Surat. I, 110 14. Porakād to Surat. I, 192 16. Consultation at Surat. E, 201 28. Hubli to Surat. I, 112 28. Hubli to Surat. I, 104 31. Surat to Madras. G, 111 31. Surat to Kārwār. G, 113 September 3. Surat to Bengal. G, 116 16. Masulipatam to Bantam. L, 74 October 3. Consultation at Swally. E, 203

@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Dry Lands.",
     "raw_text": "20, 13, 12",
-    "value_numeric": 201312.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -48,7 +48,7 @@
     "column_index": 2,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Dry Lands.",
     "raw_text": "15, 18",
-    "value_numeric": 1518.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -120,7 +120,7 @@
     "column_index": 2,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Dry Lands.",
     "raw_text": "15, 14",
-    "value_numeric": 1514.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -138,7 +138,7 @@
     "column_index": 3,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Wet Lands.",
     "raw_text": "16, 17",
-    "value_numeric": 1617.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -156,7 +156,7 @@
     "column_index": 2,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Dry Lands.",
     "raw_text": "16, 13, 17",
-    "value_numeric": 161317.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -174,7 +174,7 @@
     "column_index": 3,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Wet Lands.",
     "raw_text": "16, 17, 18, 19",
-    "value_numeric": 16171819.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -336,7 +336,7 @@
     "column_index": 2,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Dry Lands.",
     "raw_text": "12, 13",
-    "value_numeric": 1213.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -354,7 +354,7 @@
     "column_index": 3,
     "column_header": "Percentage of Assessments to the Value of the Gross Produce at Commutation Rates. :: Wet Lands.",
     "raw_text": "17, 21",
-    "value_numeric": 1721.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false

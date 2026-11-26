@@ -4,8 +4,9 @@
   "title": "The Imperial Gazetteer of India: The Indian Empire, Vol. IV — Administrative — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -2643,14 +2644,14 @@
     },
     {
       "name": "tbl-033-diplomatic",
-      "title": "(In lakhs of rupees) (Diplomatic Matrix)",
+      "title": "TABLE III. Excise — (In lakhs of rupees) (Diplomatic Matrix)",
       "path": "tables/tbl-033_p0314.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-033-tidy",
-      "title": "(In lakhs of rupees) (Tidy Observations)",
+      "title": "TABLE III. Excise — (In lakhs of rupees) (Tidy Observations)",
       "path": "tidy/tbl-033_p0314.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -2725,14 +2726,14 @@
     },
     {
       "name": "tbl-034-diplomatic",
-      "title": "(In lakhs of rupees) (Diplomatic Matrix)",
+      "title": "TABLE IV. Customs — (In lakhs of rupees) (Diplomatic Matrix)",
       "path": "tables/tbl-034_p0314.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-034-tidy",
-      "title": "(In lakhs of rupees) (Tidy Observations)",
+      "title": "TABLE IV. Customs — (In lakhs of rupees) (Tidy Observations)",
       "path": "tidy/tbl-034_p0314.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",

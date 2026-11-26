@@ -20,7 +20,7 @@ prev: "/books/journey-from-madras-vol-ii/chapters/01-frontmatter/"
 next: "/books/journey-from-madras-vol-ii/chapters/03-chapter-vii-from-sira-to-seringapatam/"
 ---
 
-<div class="page-rail-marker" id="page-7"><button type="button" class="folio-trigger" data-page="7" data-folio="7" data-scan="https://archive.org/download/journeyfrommadra02hami_2/page/n6_w1400.jpg" aria-label="Inspect scan for page 7">[p. 7]</button></div><h2 class="sec-h1">CONTENTS.</h2><p class="printed-toc-line">CHAPTER VII.
+<div class="page-rail-marker" id="page-7"><button type="button" class="folio-trigger" data-page="7" data-folio="7" data-scan="https://archive.org/download/journeyfrommadra02hami_2/page/n6_w1400.jpg" aria-label="Inspect scan for page 7">[p. 7]</button></div><p class="printed-toc-line">CHAPTER VII.
 From Sira to Seringapatam, - - - - - page 1</p><p class="printed-toc-line">CHAPTER VIII.
 Journey through the Part of Karnata south from the Cavery, - - 87</p><p class="printed-toc-line">CHAPTER IX.
 From the Kaveri-pura Ghat to Coimbetore, - - - - 185</p><p class="printed-toc-line">CHAPTER X.

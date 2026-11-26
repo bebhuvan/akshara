@@ -4,8 +4,9 @@
   "title": "The Register of Letters &c. of the Governour and Company of Merchants of London Trading into the East Indies, 1600–1619 — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -187,14 +188,14 @@
     },
     {
       "name": "tbl-003-diplomatic",
-      "title": "Table 3 (Diplomatic Matrix)",
+      "title": "THE DRAGON. (Diplomatic Matrix)",
       "path": "tables/tbl-003_p0187.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-003-tidy",
-      "title": "Table 3 (Tidy Observations)",
+      "title": "THE DRAGON. (Tidy Observations)",
       "path": "tidy/tbl-003_p0187.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -269,15 +270,15 @@
     },
     {
       "name": "tbl-004-diplomatic",
-      "title": "THE DRAGON. (Diplomatic Matrix)",
-      "path": "tables/tbl-004_p0187.csv",
+      "title": "THE HECTOR. (Diplomatic Matrix)",
+      "path": "tables/tbl-004_p0188.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-004-tidy",
-      "title": "THE DRAGON. (Tidy Observations)",
-      "path": "tidy/tbl-004_p0187.tidy.csv",
+      "title": "THE HECTOR. (Tidy Observations)",
+      "path": "tidy/tbl-004_p0188.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -351,14 +352,14 @@
     },
     {
       "name": "tbl-005-diplomatic",
-      "title": "THE HECTOR. (Diplomatic Matrix)",
+      "title": "THE PYNNACE (Diplomatic Matrix)",
       "path": "tables/tbl-005_p0188.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-005-tidy",
-      "title": "THE HECTOR. (Tidy Observations)",
+      "title": "THE PYNNACE (Tidy Observations)",
       "path": "tidy/tbl-005_p0188.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -433,14 +434,14 @@
     },
     {
       "name": "tbl-006-diplomatic",
-      "title": "THE PYNNACE (Diplomatic Matrix)",
+      "title": "THE MARCHANDIZE the1 be bought and sent in theis Shipps. (Diplomatic Matrix)",
       "path": "tables/tbl-006_p0188.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-006-tidy",
-      "title": "THE PYNNACE (Tidy Observations)",
+      "title": "THE MARCHANDIZE the1 be bought and sent in theis Shipps. (Tidy Observations)",
       "path": "tidy/tbl-006_p0188.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -515,14 +516,14 @@
     },
     {
       "name": "tbl-007-diplomatic",
-      "title": "THE MARCHANDIZE the1 be bought and sent in theis Shipps. (Diplomatic Matrix)",
+      "title": "Clothes. (Diplomatic Matrix)",
       "path": "tables/tbl-007_p0188.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-007-tidy",
-      "title": "THE MARCHANDIZE the1 be bought and sent in theis Shipps. (Tidy Observations)",
+      "title": "Clothes. (Tidy Observations)",
       "path": "tidy/tbl-007_p0188.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
@@ -597,15 +598,15 @@
     },
     {
       "name": "tbl-008-diplomatic",
-      "title": "Clothes. (Diplomatic Matrix)",
-      "path": "tables/tbl-008_p0188.csv",
+      "title": "Devonshire kersies (Diplomatic Matrix)",
+      "path": "tables/tbl-008_p0189.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-008-tidy",
-      "title": "Clothes. (Tidy Observations)",
-      "path": "tidy/tbl-008_p0188.tidy.csv",
+      "title": "Devonshire kersies (Tidy Observations)",
+      "path": "tidy/tbl-008_p0189.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -679,15 +680,15 @@
     },
     {
       "name": "tbl-009-diplomatic",
-      "title": "Table 9 (Diplomatic Matrix)",
-      "path": "tables/tbl-009_p0189.csv",
+      "title": "A Veiw of the chardge of this third voyadge. (Diplomatic Matrix)",
+      "path": "tables/tbl-009_p0190.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-009-tidy",
-      "title": "Table 9 (Tidy Observations)",
-      "path": "tidy/tbl-009_p0189.tidy.csv",
+      "title": "A Veiw of the chardge of this third voyadge. (Tidy Observations)",
+      "path": "tidy/tbl-009_p0190.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -761,15 +762,15 @@
     },
     {
       "name": "tbl-010-diplomatic",
-      "title": "Devonshire kersies (Diplomatic Matrix)",
-      "path": "tables/tbl-010_p0189.csv",
+      "title": "Table 10 (Diplomatic Matrix)",
+      "path": "tables/tbl-010_p0191.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-010-tidy",
-      "title": "Devonshire kersies (Tidy Observations)",
-      "path": "tidy/tbl-010_p0189.tidy.csv",
+      "title": "Table 10 (Tidy Observations)",
+      "path": "tidy/tbl-010_p0191.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -843,15 +844,15 @@
     },
     {
       "name": "tbl-011-diplomatic",
-      "title": "A Veiw of the chardge of this third voyadge. (Diplomatic Matrix)",
-      "path": "tables/tbl-011_p0190.csv",
+      "title": "Table 11 (Diplomatic Matrix)",
+      "path": "tables/tbl-011_p0191.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-011-tidy",
-      "title": "A Veiw of the chardge of this third voyadge. (Tidy Observations)",
-      "path": "tidy/tbl-011_p0190.tidy.csv",
+      "title": "Table 11 (Tidy Observations)",
+      "path": "tidy/tbl-011_p0191.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -926,14 +927,14 @@
     {
       "name": "tbl-012-diplomatic",
       "title": "Table 12 (Diplomatic Matrix)",
-      "path": "tables/tbl-012_p0191.csv",
+      "path": "tables/tbl-012_p0193.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-012-tidy",
       "title": "Table 12 (Tidy Observations)",
-      "path": "tidy/tbl-012_p0191.tidy.csv",
+      "path": "tidy/tbl-012_p0193.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1008,14 +1009,14 @@
     {
       "name": "tbl-013-diplomatic",
       "title": "Table 13 (Diplomatic Matrix)",
-      "path": "tables/tbl-013_p0191.csv",
+      "path": "tables/tbl-013_p0194.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-013-tidy",
       "title": "Table 13 (Tidy Observations)",
-      "path": "tidy/tbl-013_p0191.tidy.csv",
+      "path": "tidy/tbl-013_p0194.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1090,14 +1091,14 @@
     {
       "name": "tbl-014-diplomatic",
       "title": "Table 14 (Diplomatic Matrix)",
-      "path": "tables/tbl-014_p0193.csv",
+      "path": "tables/tbl-014_p0367.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-014-tidy",
       "title": "Table 14 (Tidy Observations)",
-      "path": "tidy/tbl-014_p0193.tidy.csv",
+      "path": "tidy/tbl-014_p0367.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1172,14 +1173,14 @@
     {
       "name": "tbl-015-diplomatic",
       "title": "Table 15 (Diplomatic Matrix)",
-      "path": "tables/tbl-015_p0194.csv",
+      "path": "tables/tbl-015_p0386.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-015-tidy",
       "title": "Table 15 (Tidy Observations)",
-      "path": "tidy/tbl-015_p0194.tidy.csv",
+      "path": "tidy/tbl-015_p0386.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1253,15 +1254,15 @@
     },
     {
       "name": "tbl-016-diplomatic",
-      "title": "Table 16 (Diplomatic Matrix)",
-      "path": "tables/tbl-016_p0367.csv",
+      "title": "Example. (Diplomatic Matrix)",
+      "path": "tables/tbl-016_p0460.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-016-tidy",
-      "title": "Table 16 (Tidy Observations)",
-      "path": "tidy/tbl-016_p0367.tidy.csv",
+      "title": "Example. (Tidy Observations)",
+      "path": "tidy/tbl-016_p0460.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1336,14 +1337,14 @@
     {
       "name": "tbl-017-diplomatic",
       "title": "Table 17 (Diplomatic Matrix)",
-      "path": "tables/tbl-017_p0386.csv",
+      "path": "tables/tbl-017_p0460.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-017-tidy",
       "title": "Table 17 (Tidy Observations)",
-      "path": "tidy/tbl-017_p0386.tidy.csv",
+      "path": "tidy/tbl-017_p0460.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1418,260 +1419,14 @@
     {
       "name": "tbl-018-diplomatic",
       "title": "Table 18 (Diplomatic Matrix)",
-      "path": "tables/tbl-018_p0387.csv",
+      "path": "tables/tbl-018_p0594.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-018-tidy",
       "title": "Table 18 (Tidy Observations)",
-      "path": "tidy/tbl-018_p0387.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-019-diplomatic",
-      "title": "Example. (Diplomatic Matrix)",
-      "path": "tables/tbl-019_p0460.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-019-tidy",
-      "title": "Example. (Tidy Observations)",
-      "path": "tidy/tbl-019_p0460.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-020-diplomatic",
-      "title": "Table 20 (Diplomatic Matrix)",
-      "path": "tables/tbl-020_p0460.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-020-tidy",
-      "title": "Table 20 (Tidy Observations)",
-      "path": "tidy/tbl-020_p0460.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-021-diplomatic",
-      "title": "Table 21 (Diplomatic Matrix)",
-      "path": "tables/tbl-021_p0594.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-021-tidy",
-      "title": "Table 21 (Tidy Observations)",
-      "path": "tidy/tbl-021_p0594.tidy.csv",
+      "path": "tidy/tbl-018_p0594.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {

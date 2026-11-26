@@ -1,10 +1,7 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,1,data,,3rd Class Sub-Assistant Surgeon during the first 7 years’ service,2,Pay.,Rs. 100,100.0,Rs,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,1,data,,3rd Class Sub-Assistant Surgeon during the first 7 years’ service,3,Allowance.,Rs. 100,100.0,Rs,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,1,data,,3rd Class Sub-Assistant Surgeon during the first 7 years’ service,4,Total.,Rs. 200,200.0,Rs,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,2,data,,2nd Class Sub-Assistant Surgeon between 7 and 14 years’ service,2,Pay.,",, 150",150.0,,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,2,data,,2nd Class Sub-Assistant Surgeon between 7 and 14 years’ service,3,Allowance.,",, 150",150.0,,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,2,data,,2nd Class Sub-Assistant Surgeon between 7 and 14 years’ service,4,Total.,",, 300",300.0,,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,3,data,,1st Class Sub-Assistant Surgeon after 14 years’ service till the end of his service,2,Pay.,",, 200",200.0,,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,3,data,,1st Class Sub-Assistant Surgeon after 14 years’ service till the end of his service,3,Allowance.,",, 150",150.0,,False,False
-poverty-and-un-british-rule,tbl-075,Table 75,138,118,3,data,,1st Class Sub-Assistant Surgeon after 14 years’ service till the end of his service,4,Total.,",, 350",350.0,,False,False
+poverty-and-un-british-rule,tbl-075,Table 75,138,118,1,data,,Passed Hospital Apprentice,2,Rs.,50,50.0,Rs,False,False
+poverty-and-un-british-rule,tbl-075,Table 75,138,118,2,data,,Assistant Apothecary under 5 years,2,Rs.,75,75.0,Rs,False,False
+poverty-and-un-british-rule,tbl-075,Table 75,138,118,3,data,,Assistant Apothecary after 5 years,2,Rs.,100,100.0,Rs,False,False
+poverty-and-un-british-rule,tbl-075,Table 75,138,118,4,data,,Apothecary under 5 years,2,Rs.,150,150.0,Rs,False,False
+poverty-and-un-british-rule,tbl-075,Table 75,138,118,5,data,,Apothecary after 5 years,2,Rs.,200,200.0,Rs,False,False
+poverty-and-un-british-rule,tbl-075,Table 75,138,118,6,data,,Senior Apothecary,2,Rs.,400,400.0,Rs,False,False

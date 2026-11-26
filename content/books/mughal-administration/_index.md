@@ -1,6 +1,6 @@
 ---
 title: "The Mughal Administration: Six Lectures"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "Patna University Readership Lectures, 1920"
 author: "Jadunath Sarkar"
 author_slug: "jadunath-sarkar"
@@ -45,7 +45,7 @@ provenance_statement: "Machine-checked; 7 of 88 pages had flagged passages re-re
 taxonomy_provenance:
   - "Read: Gemini 4 Hydrogen"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 2 fixes · 7 pp. checked"
+  - "Scan-Triaged: 3 fixes · 7 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
@@ -106,12 +106,13 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (11 flyleaf/stamp block(s)) are excluded from reading prose; **42** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **205** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (6 distinct non-ASCII characters across 44 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**181** places); **69** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-4-hydrogen` (88 pp.).
   - **Reader**: Read by gemini-4-hydrogen on 88 of 88 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen).
-  - **Human Proofing**: 2 replayed correction(s). Machine-checked; 7 of 88 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 3 replayed correction(s). Machine-checked; 7 of 88 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

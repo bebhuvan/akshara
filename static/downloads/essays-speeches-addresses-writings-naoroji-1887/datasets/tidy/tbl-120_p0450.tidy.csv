@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Table 120,450,431,1,data,,9,2,Acres.,75,75.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Table 120,450,431,2,data,,12,2,Acres.,"7,985",7985.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Table 120,450,431,3,data,,19,2,Acres.,468,468.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Table 120,450,431,4,data,,30,2,Acres.,356,356.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Table 120,450,431,5,total,,Total,2,Acres.,"8,884 × 96 lbs. = lbs. 852,864—at 3 lbs. per Re. 1, will give Rs. 2,84,288.",,acres,False,True

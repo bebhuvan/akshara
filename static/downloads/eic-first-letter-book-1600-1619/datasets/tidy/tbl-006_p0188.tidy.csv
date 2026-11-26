@@ -1,11 +1,16 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,2,Column 2,A Pinnace of 120 Tunns & all her chardges of setting forth w victualls & ympreste ...,,,False,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,3,Column 3,...,,,True,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,4,Column 4,2600,2600.0,,False,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,5,Column 5,00,0.0,,False,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,6,Column 6,00d,,,False,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,2,Column 2,Soma totalis,,,False,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,3,Column 3,,,,True,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,4,Column 4,22913,22913.0,,False,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,5,Column 5,16,16.0,,False,True
-eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,6,Column 6,00,0.0,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,2,Column 2,Leade for 150 ffother at 10 p ffother ...,,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,4,Column 4,1500,1500.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,2,Column 2,Iron for 150 Tonns Eng: & Spann: att 12 p Tunn ...,,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,4,Column 4,1800,1800.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,2,Column 2,Tynn in small barrs 5 Tunns at 72 p Tunn ...,,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,4,Column 4,0360,360.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-006,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,6,Column 6,00,0.0,,False,False

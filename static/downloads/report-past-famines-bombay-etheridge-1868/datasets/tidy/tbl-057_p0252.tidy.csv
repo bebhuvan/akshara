@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,1,data,,"First order 80,000, or",2,Column 2,robins,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,1,data,,"First order 80,000, or",3,Column 3,"1,60,000",160000.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,2,data,,"Last order, estimated by J. G. Ravenshaw to reach to",2,Column 2,„ ..,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,2,data,,"Last order, estimated by J. G. Ravenshaw to reach to",3,Column 3,"60,000",60000.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,3,data,,"Received to this day, viz :—",2,Column 2,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,3,data,,"Received to this day, viz :—",3,Column 3,"2,20,000",220000.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,4,data,,Robins,2,Column 2,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,4,data,,Robins,3,Column 3,"1,47,000",147000.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,5,data,,Cornwallis and Hercules,2,Column 2,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,5,data,,Cornwallis and Hercules,3,Column 3,"36,000",36000.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,6,data,,Row 6,2,Column 2,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,6,data,,Row 6,3,Column 3,"183,000",183000.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,7,data,,Robins,2,Column 2,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-057,Table 57,252,240,7,data,,Robins,3,Column 3,"37,000",37000.0,,False,False

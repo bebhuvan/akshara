@@ -1,11 +1,11 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
 journey-from-madras-vol-iii,tbl-014,Table 14,141,121,1,data,,12 years Prouwuda Ráya,2,Till year of Sal.,1420,1420.0,,False,False
-journey-from-madras-vol-iii,tbl-014,Table 14,141,121,1,data,,12 years Prouwuda Ráya,3,Till year of Christ.,149 7⁄8,149.875,,False,False
+journey-from-madras-vol-iii,tbl-014,Table 14,141,121,1,data,,12 years Prouwuda Ráya,3,Till year of Christ.,149 7⁄8,,,False,False
 journey-from-madras-vol-iii,tbl-014,Table 14,141,121,2,data,,10 ditto Vira Narasingha Ráya,2,Till year of Sal.,1430,1430.0,,False,False
-journey-from-madras-vol-iii,tbl-014,Table 14,141,121,2,data,,10 ditto Vira Narasingha Ráya,3,Till year of Christ.,150 7⁄8,150.875,,False,False
+journey-from-madras-vol-iii,tbl-014,Table 14,141,121,2,data,,10 ditto Vira Narasingha Ráya,3,Till year of Christ.,150 7⁄8,,,False,False
 journey-from-madras-vol-iii,tbl-014,Table 14,141,121,3,data,,12 ditto Solva Narasingha Ráya,2,Till year of Sal.,1442,1442.0,,False,False
-journey-from-madras-vol-iii,tbl-014,Table 14,141,121,3,data,,12 ditto Solva Narasingha Ráya,3,Till year of Christ.,15 19⁄20,15.95,,False,False
+journey-from-madras-vol-iii,tbl-014,Table 14,141,121,3,data,,12 ditto Solva Narasingha Ráya,3,Till year of Christ.,15 19⁄20,,,False,False
 journey-from-madras-vol-iii,tbl-014,Table 14,141,121,4,data,,"43 ditto Achuta Ráya, and Krishna Ráya",2,Till year of Sal.,1485,1485.0,,False,False
-journey-from-madras-vol-iii,tbl-014,Table 14,141,121,4,data,,"43 ditto Achuta Ráya, and Krishna Ráya",3,Till year of Christ.,156 2⁄3,156.666667,,False,False
+journey-from-madras-vol-iii,tbl-014,Table 14,141,121,4,data,,"43 ditto Achuta Ráya, and Krishna Ráya",3,Till year of Christ.,156 2⁄3,,,False,False
 journey-from-madras-vol-iii,tbl-014,Table 14,141,121,5,data,,"26 ditto Sadásiva Ráya, and Ráma Ráya",2,Till year of Sal.,1511,1511.0,,False,False
-journey-from-madras-vol-iii,tbl-014,Table 14,141,121,5,data,,"26 ditto Sadásiva Ráya, and Ráma Ráya",3,Till year of Christ.,158 8⁄9,158.888889,,False,False
+journey-from-madras-vol-iii,tbl-014,Table 14,141,121,5,data,,"26 ditto Sadásiva Ráya, and Ráma Ráya",3,Till year of Christ.,158 8⁄9,,,False,False

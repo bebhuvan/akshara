@@ -1,16 +1,71 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,2,Column 2,Leade for 150 ffother at 10 p ffother ...,,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,3,Column 3,...,,,True,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,4,Column 4,1500,1500.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,5,Column 5,00,0.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,1,data,,Leade,6,Column 6,00,0.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,2,Column 2,Iron for 150 Tonns Eng: & Spann: att 12 p Tunn ...,,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,3,Column 3,...,,,True,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,4,Column 4,1800,1800.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,5,Column 5,00,0.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,2,data,,Iron,6,Column 6,00,0.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,2,Column 2,Tynn in small barrs 5 Tunns at 72 p Tunn ...,,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,3,Column 3,...,,,True,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,4,Column 4,0360,360.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,5,Column 5,00,0.0,,False,False
-eic-first-letter-book-1600-1619,tbl-007,THE MARCHANDIZE the1 be bought and sent in theis Shipps.,188,96,3,data,,Tynn,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,1,data,,Clothes,2,Column 2,30 venice Reade att 12,,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,1,data,,Clothes,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,1,data,,Clothes,4,Column 4,360,360.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,1,data,,Clothes,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,1,data,,Clothes,6,Column 6,00d,,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,2,data,,Row 2,2,Column 2,20 stamelle at... 20,,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,2,data,,Row 2,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,2,data,,Row 2,4,Column 4,400,400.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,2,data,,Row 2,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,2,data,,Row 2,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,3,data,,Row 3,2,Column 2,10 popingey greenes at 12,,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,3,data,,Row 3,3,Column 3,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,3,data,,Row 3,4,Column 4,120,120.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,3,data,,Row 3,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,188,96,3,data,,Row 3,6,Column 6,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,4,data,,5 yellowes att 11,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,4,data,,5 yellowes att 11,3,Column 3,055,55.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,4,data,,5 yellowes att 11,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,4,data,,5 yellowes att 11,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,4,data,,5 yellowes att 11,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,5,data,,5 flame Coullo al̄s Gallaunte at 15,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,5,data,,5 flame Coullo al̄s Gallaunte at 15,3,Column 3,075,75.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,5,data,,5 flame Coullo al̄s Gallaunte at 15,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,5,data,,5 flame Coullo al̄s Gallaunte at 15,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,5,data,,5 flame Coullo al̄s Gallaunte at 15,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,6,data,,2 blacke att 20,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,6,data,,2 blacke att 20,3,Column 3,040,40.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,6,data,,2 blacke att 20,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,6,data,,2 blacke att 20,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,6,data,,2 blacke att 20,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,7,data,,5 violette grayne at 18,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,7,data,,5 violette grayne at 18,3,Column 3,090,90.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,7,data,,5 violette grayne at 18,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,7,data,,5 violette grayne at 18,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,7,data,,5 violette grayne at 18,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,8,data,,5 Murreys graine at 18,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,8,data,,5 Murreys graine at 18,3,Column 3,090,90.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,8,data,,5 Murreys graine at 18,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,8,data,,5 Murreys graine at 18,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,8,data,,5 Murreys graine at 18,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,9,data,,5 blewes att 15,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,9,data,,5 blewes att 15,3,Column 3,075,75.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,9,data,,5 blewes att 15,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,9,data,,5 blewes att 15,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,9,data,,5 blewes att 15,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,10,data,,5 plunckette att 12,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,10,data,,5 plunckette att 12,3,Column 3,060,60.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,10,data,,5 plunckette att 12,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,10,data,,5 plunckette att 12,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,10,data,,5 plunckette att 12,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,11,data,,5 ffrench greenes att 12,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,11,data,,5 ffrench greenes att 12,3,Column 3,060,60.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,11,data,,5 ffrench greenes att 12,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,11,data,,5 ffrench greenes att 12,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,11,data,,5 ffrench greenes att 12,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,12,data,,5 grasse greenes att 12,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,12,data,,5 grasse greenes att 12,3,Column 3,060,60.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,12,data,,5 grasse greenes att 12,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,12,data,,5 grasse greenes att 12,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,12,data,,5 grasse greenes att 12,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,13,data,,5 Azars att 12,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,13,data,,5 Azars att 12,3,Column 3,060,60.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,13,data,,5 Azars att 12,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,13,data,,5 Azars att 12,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,13,data,,5 Azars att 12,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,14,data,,Row 14,2,Column 2,107 clothes,,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,14,data,,Row 14,3,Column 3,1545,1545.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,14,data,,Row 14,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,14,data,,Row 14,5,Column 5,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-007,Clothes.,189,96,14,data,,Row 14,6,Column 6,,,,True,False

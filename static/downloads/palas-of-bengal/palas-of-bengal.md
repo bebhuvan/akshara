@@ -11,7 +11,7 @@
 ### MEMOIRS
 
 
-##### OF THE
+#### OF THE
 
 
 ### ASIATIC SOCIETY OF BENGAL
@@ -23,7 +23,7 @@
 ### THE PĀLAS OF BENGAL.
 
 
-##### BY
+#### BY
 
 R. D. BANERJI, M.A., *Indian Museum, Calcutta.*
 
@@ -83,13 +83,13 @@ After the death of Harṣavarddhana, nothing is definitely known about the histo
 > _[Margin: Foreign invasions.]_
 > _[Margin: From Kanauj, Assam.]_
 
-The exact circumstances which led to the fall of this ancient dynasty are not known, but it seems certain that the event took place in troublesome times. Bengal was run over by Yaśovarmmadeva of Kanauj during the first two decades of the eighth century <span class="sc">a.d.</span>[^sec-03-fn-003] Most probably Jīvitagupta II was the king who was overthrown by this invasion. Ādityasena's only definite date is 671 <span class="sc">a.d.</span>, and this gives us about 40 or 50 years for four generations, which is certainly not too much. We do not know anything about the successors of Jīvitagupta II, but we know of several other foreign invasions of Bengal about the same time from contemporary records. The invasion from Kanauj was followed by one from Assam. The King Harṣadeva conquered Bengal, Orissa and the Northern Sarkars (*Gauḍ= Oḍr=ādi-Kaliṅga-Kośala-pati*). As his grandson, Jayadeva, the Licchavi, was reigning in the sixth decade of the eighth century <span class="sc">a.d.</span>,[^sec-03-fn-004] the date of his maternal grandfather must be placed some time earlier. Most probably this invasion from Assam closely followed upon the heels of that from Kanauj, or we may one day be surprised to learn that both armies invaded Bengal jointly. Harṣadeva must have held Bengal for a sufficiently long time, so as to enable him to pass through that country and conquer *Oḍra* (Orissa) *Kaliṅga* (Northern Sarkars), and *Kośala* (Orissa Hill Tracts). The *Gauḍa-vaho* and the *Rājatarangiṇī* has familiarized us with the [p. 44] story of the banished king, Jayāpīḍa, who came to Bengal, married the daughter of the king, and freed him from the subjection of his liegelord.[^sec-03-fn-005] According to the able translator of the Rājatarangiṇī, the true date of this king is between 760 and 800 <span class="sc">A. D.</span> Finally Bengal was conquered by the Gurjara and Rāṣṭrakūṭa kings. The Gurjara king Vatsarāja, according to the Gwalior inscription of Mihira-Bhoja, had seized by main force the imperial sway from the house of Bhāṇḍi :—
+The exact circumstances which led to the fall of this ancient dynasty are not known, but it seems certain that the event took place in troublesome times. Bengal was run over by Yaśovarmmadeva of Kanauj during the first two decades of the eighth century <span class="sc">a.d.</span>[^sec-03-fn-003] Most probably Jīvitagupta II was the king who was overthrown by this invasion. Ādityasena's only definite date is 671 <span class="sc">a.d.</span>, and this gives us about 40 or 50 years for four generations, which is certainly not too much. We do not know anything about the successors of Jīvitagupta II, but we know of several other foreign invasions of Bengal about the same time from contemporary records. The invasion from Kanauj was followed by one from Assam. The King Harṣadeva conquered Bengal, Orissa and the Northern Sarkars (*Gauḍ= Oḍr=ādi-Kaliṅga-Kośala-pati*). As his grandson, Jayadeva, the Licchavi, was reigning in the sixth decade of the eighth century <span class="sc">a.d.</span>,[^sec-03-fn-004] the date of his maternal grandfather must be placed some time earlier. Most probably this invasion from Assam closely followed upon the heels of that from Kanauj, or we may one day be surprised to learn that both armies invaded Bengal jointly. Harṣadeva must have held Bengal for a sufficiently long time, so as to enable him to pass through that country and conquer *Oḍra* (Orissa) *Kaliṅga* (Northern Sarkars), and *Kośala* (Orissa Hill Tracts). The *Gauḍa-vaho* and the *Rājatarangiṇī* has familiarized us with the [p. 44] story of the banished king, Jayāpīḍa, who came to Bengal, married the daughter of the king, and freed him from the subjection of his liegelord.[^sec-03-fn-005] According to the able translator of the Rājataraṅginī, the true date of this king is between 760 and 800 <span class="sc">A. D.</span> Finally Bengal was conquered by the Gurjara and Rāṣṭrakūṭa kings. The Gurjara king Vatsarāja, according to the Gwalior inscription of Mihira-Bhoja, had seized by main force the imperial sway from the house of Bhāṇḍi :—
 
 > *Khyātād = Bhaṇḍi-kulān = madotkaṭa-kari-prākāra durllaṅghato yaḥ sāmrājyam = adhijya-kārmmuka-sakhā saṁkhye haṭhād = agrahīt—verse* 7.[^sec-03-fn-006]
 
 Most probably after the fall of Harṣavarddhana, the family of his cousin Bhaṇḍi succeeded to the Empire. Bhaṇḍi is mentioned in the *Harṣacarita* as the mother's brother's son of Harṣa.[^sec-03-fn-007] Vatsarāja is said to have conquered Bengal very easily and taken away from its king the radiantly white royal umbrellas. In the Wani grant of the Rāṣṭrakūṭa king Govinda III, his father Dhruvarāja is said to have taken away these umbrellas from Vatsarāja and driven him away into the desert :—
 
-> *Helā-svīkṛta-Gauḍa-rājya-kamalā-mattaṁ praveśy-ācirād = durmmārgam = marumadhyam = aprati-balair = yo Vatsarājaṁ balaiḥ Gauḍīyaṁ Śaradindupādadhavalaṁ chatradvayaṁ kevalaṁ tasmān = n = āhṛta tad-yaśo = pi kakubhaṁ*  
+> *Helā-svīkṛta-Gauḍa-rājya-kamalā-mattaṁ praveśy-ācirād = durmārgam = marumadhyam = aprati-balair = yo Vatsarājaṁ balaiḥ Gauḍīyaṁ Śaradindupādadhavalaṁ chatradvayaṁ kevalaṁ tasmān = n = āhṛta tad-yaśo = pi kakubhaṁ*  
 > *prānte sthitaṁ tat-kṣaṇāt.*
 
 > "Having with his armies, which no other army could withstand, quickly caused Vatsarāja, intoxicated with the goddess of the sovereignty of the country of Gauḍa, that he had acquired with ease, to enter upon the path of misfortune in the centre of the deserts or Maru, he took away from him not only the two royal umbrellas of Gauḍa, that were as radiantly white as the rays of the autumn moon, but almost, at the same moment, his fame that had reached to the extremities of the regions."[^sec-03-fn-008]
@@ -109,14 +109,14 @@ This brings us to the fourth foreign invasion of this period, the invasion of th
 
 During this period of foreign invasions and consequent anarchy and misrule, the old Royal dynasty must have come to an end, the harassed populace felt the necessity of a strong and able ruler. They held an election about the details of which we know nothing. As a result of this election Gopāladeva, the son of a successful soldier named Vapyaṭa, was elected king. In the Khalimpur grant of Dharmmapāla it is said that the people made him take the hand of fortune :—
 
-> *Mātsya-nyāyam-apohitum prakṛtibhir-lakṣmyāḥ karaṁ-grāhitaḥ Śrī-Gopāla iti*  
+> *Mātsya-nyāyam-apohitum prakṛtibhir-lakṣmyāḥ karañ-grāhitaḥ Śrī-Gopāla iti*  
 > *kṣitīśa-śirasāṁ cuḍāmaṇis-tat-sutaḥ, Yasy-ānukriyate sanātana-yaśo-rāśir-diśām-āśaye śvetimnā yadi paurṇṇamāsa-rajanī jyotsn-ātibhāra-śriyā.—verse* 4.[^sec-03-fn-012].
 
 The composer of the Khalimpur inscription puts the cause of this election very nicely in the above verse : *Mātsya-nyāyam-apohitum*, "to escape from anarchy," as Mr. K. P. Jayaswal translates it.[^sec-03-fn-013] That the danger of being swallowed up into the kingdom of a powerful neighbour, was not exaggerated, is amply evident from the foregoing account of the foreign invasions of Bengal during the dark period.
 
 > _[Margin: The origin of the dynasty.]_
 
-Nothing is known about the origin of this new line of kings, who continued to hold sway over Bihar or Bengal till the final conquest of the country by the Muhammadans. In the oldest inscription of this dynasty Dayitaviṣṇu, the grandfather of Gopāla I, is called the progenitor of this line of kings, and it was stated, that he was sanctified by all sorts of knowledge (*sarvva-vidyāvadātaḥ*).[^sec-03-fn-014] Most probably the family was of such a humble origin that even the names of Dayitaviṣṇu's forefathers were not known in the time of his great-grandson. In later biographical works and inscriptions like the Rāmacarita of Sandhyākara-nandi and the Kamauli grant of Vaidyadeva, mythical accounts are given of the origin of the Pālas. The Kamauli grant mentions very distinctly that [p. 46] the king Vigrahapāla III was born in the race of the Sun.[^sec-03-fn-015] The Rāmacarita and the Bengali poem Dharmmamaṅgala of Ghanarāma give a different account altogether. This account is given very fully in the *Kāñurpālā* of Ghanarāma's work, according to which the kings of the Pāla dynasty after Dharmmapāla were really the descendants of the Sea-god. This tradition is not very coherent as Mahāmahopadhyaya Hara Prasada Sastri has shown. In the Rāmacarita, king Dharmmapāla is mentioned as "the light of the race of the Sea."[^sec-03-fn-016] Thus the Rāmacarita corroborates the tradition embodied in Ghanarāma's work to some extent. It shows that the origin of the new line of kings was remembered by the people long after their accession and even after their fall. The descent from the Sea most probably indicates that the forefathers of this line of kings came from the Sea and in the absence of a plausible account of their ancestry became known as the children of the Sea-God.
+Nothing is known about the origin of this new line of kings, who continued to hold sway over Bihar or Bengal till the final conquest of the country by the Muhammadans. In the oldest inscription of this dynasty Dayitaviṣṇu, the grandfather of Gopāla I, is called the progenitor of this line of kings, and it was stated, that he was sanctified by all sorts of knowledge (*sarvva-vidyāvadātaḥ*).[^sec-03-fn-014] Most probably the family was of such a humble origin that even the names of Dayitaviṣṇu's forefathers were not known in the time of his great-grandson. In later biographical works and inscriptions like the Rāmacarita of Sandhyākara-nandi and the Kamauli grant of Vaidyadeva, mythical accounts are given of the origin of the Pālas. The Kamauli grant mentions very distinctly that [p. 46] the king Vigrahapāla III was born in the race of the Sun.[^sec-03-fn-015] The Rāmacarita and the Bengali poem Dharmmamaṅgala of Ghanarāma give a different account altogether. This account is given very fully in the *Kaṅurpālā* of Ghanarāma's work, according to which the kings of the Pāla dynasty after Dharmmapāla were really the descendants of the Sea-god. This tradition is not very coherent as Maha-mahopadhyaya Hara Prasada Sastri has shown. In the Rāmacarita, king Dharmmapāla is mentioned as "the light of the race of the Sea."[^sec-03-fn-016] Thus the Rāmacarita corroborates the tradition embodied in Ghanarāma's work to some extent. It shows that the origin of the new line of kings was remembered by the people long after their accession and even after their fall. The descent from the Sea most probably indicates that the forefathers of this line of kings came from the Sea and in the absence of a plausible account of their ancestry became known as the children of the Sea-God.
 
 
 ### Notes
@@ -169,7 +169,7 @@ Dharmmapāladeva, the second king of the Pāla dynasty, was the real founder of 
 The first question about the true date of Dharmmapāla was raised incidentally in 1891 by the late Dr. Kielhorn on a passage in the Bhagalpur grant of Nārāyaṇapāla :—
 
 > *Jitv* = *endra-rāja-prabhṛtīn* = *arātīn* = *upārjjitā yena Mahodaya Śrīḥ, dattaḥ punaḥ*  
-> *sa valin* = *ārthayitre Cakrayudhāy* = *ānatīvāmanāya*.[^sec-04-fn-010]
+> *sa valin* = *ārthayitre Cakrayudhāy* = *ānativāmanāya*.[^sec-04-fn-010]
 
 At that time Dr. Kielhorn was unable to identify the kings Indrarāja or Cakrāyudha. The discovery of the Khalimpur grant supplied some additional facts and the well-known verse :—
 
@@ -211,7 +211,7 @@ Dharmmapāla's Northern Indian campaign must have begun some time after 783 <spa
 > *Śākeṣvabdaśateṣu saptasu diśāṁ pañchottareṣūttarāṁ*  
 > *Pātīndrāyudhanāmni Kṛṣṇanṛpaje Śrīvallabhe dakṣiṇāṁ*,  
 > *Pūrvaṁ Śrīmad-Avantī-bhubhṛti nṛpe Vatsādirāje parāṁ*  
-> *Sorya nāmādhimanḍale jayayute vīre varāhe vati*.
+> *Sorya nāmādhimaṇḍale jayayute vīre varāhe vati*.
 
 > _[Margin: Conquest of Kanauj and displacement of Indrāyudhā.]_
 
@@ -219,7 +219,7 @@ We know already from the Wani and Radhanpur grants that Dhruva, Śrī Vallabha a
 
 The accession of Cakrāyudha on the throne of Kanauj was not satisfactory to Nāgabhaṭa II, the king of the Gurjaras. We know from the 9th verse of the Gwalior inscription of Bhoja I, that Nāgabhaṭa II defeated Cakrāyudha. According to the 10th verse of the same inscription he is said to have defeated the King of Bengal also:—
 
-> *Dūrvvāra-vairi-vara-vāraṇa-vāji-vārayān = augha-saṁghaṭana-ghora-ghan—āndhakāraṁ,*  
+> *Dūrvvāra-vairi-vara-vāraṇa-vāji-vārayān = augha-saṁghaṭana-ghora-ghan—āndhakāram,*  
 > *Nirjjitya Vaṁgapatim=āvirabhūd=vivasvān=udyan=n-iva tri-jagad-eka·vikāśakośaḥ*.—verse 10.[^sec-04-fn-020]
 
 It is evident that Dhammapāla tried his best to support his protegee. In so doing he must have suffered a serious reverse at the hands of the Gurjara king. In this condition both Dharmmapāla and Cakrāyudha sought the help of the Rāṣṭrakūṭa Emperor Govinda III. This is proved by the 23rd verse of the unpublished grant of Amoghavarṣa I in the possession of Mr. S. R. Bhandarkar. Being solicited by the most influential king of Northern India and his subordinate, the king of one of the oldest cities in India, the Rāṣṭrakūṭa monarch led a campaign against the powerful Gurjaras. The result of this campaign has already been stated above while quoting the 23rd verse of the unpublished grant of Amoghavarṣa I.
@@ -228,7 +228,7 @@ It is evident that Dhammapāla tried his best to support his protegee. In so doi
 <!-- page: 22 | folio: 52 -->
 The defeat inflicted upon the Gurjaras by the Rāṣṭrakūṭa Emperor had a very lasting effect. Govinda III made his nephew, the Mahāsāmantādhipati Karkarāja II of the Gujarat Branch of the Rāṣṭrakūṭa family, a door-bar for the country of the Gurjaras, which we learn from the verse of the Baroda grant of Karkarāja quoted above. Besides the unpublished grant of Amoghavarṣa I, we have further evidence of the defeat of a Gurjara king by Govinda III. In the Radhanpur grant of Govinda III it is stated that the Gurjara king fled on hearing of the approach of Govinda III, as the rainy season flies away on the approach of autumn;—
 
-> *Saṁdhāy=āśu śilimukhāṁ sva-samayāṁ va(ba)nāsanasy=opari prāp!aṁ vard-dhita-vaṁ(baṁ)dhujīva-vibhavaṁ padm-ābhivṛddhy-anvitaṁ.*  
+> *Saṁdhāy=āśu śilīmukhāṁ sva-samayāṁ va(ba)nāsanasy=opari prāptaṁ vard-dhita-vaṁ(baṁ)dhujīva-vibhavaṁ padm-ābhivṛddhy-anvitaṁ.*  
 > *Sannakṣatram=udīkṣya yaṁ śarad-ṛtuṁ parjanyavad=Gurjaro naṣṭaḥ kv=āpi*  
 > *bhayāt=tathā na samaraṁ svapne=pi paśyed=yathā.*—verse 15.[^sec-04-fn-021]
 
@@ -297,7 +297,7 @@ He met with considerable success in his wars, and we find a corroboration of thi
 
 > *Ā Revā-janakān=mataṅgaja-madastimyac-chila-saṅghater=ā-gaurī-pitur=īśvar*  
 > *endu-kiraṇaiḥ puṣyat=sitimno gireḥ,*  
-> *Mārttaṇḍās-tamay-oday-āruṇa-jalād-ā-vārirāśi-dvayān=nītyā yasya bhuvaṁ cakāra*  
+> *Marttaṇḍās-tamay-oday-āruṇa-jalād-ā-vārirāśi-dvayān=nītyā yasya bhuvaṁ cakāra*  
 > *karadāṁ Śrī-Devapālo nṛpaḥ.—verse 5.*[^sec-05-fn-002]
 
 In the very same inscription another verse refers to the campaigns of the same king and mentions the names of his antagonists in detail. This verse has been assigned to Vigrahapāla I by Mahāmahopādhyāya Hara Prasāda Śāstrī,[^sec-05-fn-003] but in my humble opinion it refers to the king Devapāla, for the simple reason that the verse referring to Śūrapāla, the next king after Devapāla, according to the Badal pillar inscription, is placed after it. According to this inscription both Darbhapāṇi and his grandson Kedāramiśra were the contemporaries of Devapāla. Someśvara, the son of Darbhapāṇi and the father of Kedāramiśra, was [p. 56] most probably a general.[^sec-05-fn-004] Kedāramiśra continued as minister under Śūrapāla I or Vigrahapāla I, and his son Guravamiśra was the minister of Nārāyaṇpāla. The second verse in the Badal pillar inscription about the campaigns of Devapāla runs as follows:—
@@ -321,12 +321,12 @@ Amoghavarṣa I seems to have been the contemporary of Devapāla as we know that
 During the reign of Devapāla, a Brāhmaṇa named Vīradeva, an inhabitant of Nagarahāra, came on a pilgrimage to the Mahābodhi and paid a visit to the Yaśovarmmapura Vihāra. During his stay in Magadha, Devapāla heard of him and he was made the principal abbot of Nālandā.[^sec-05-fn-006] The Monghyr grant was issued to record the grant of a village named Meṣika, in the Krimilā *Viṣaya*, and the Śrī-nagara *bhūkti*, to a brāhmaṇa named Vihekarāta, of the Aupamanyava gotra and the Āśvalāyana *Śākhā*, in the 33rd year of the king. The *dūtaka* of the grant was the king's son Rājyapāla. There is a vast mass of MSS. literature [p. 57] in Bengal recording the descent of Brāhmaṇas. For the most part these MSS. are carelessly copied and hardly reliable, save for the names and descent of Brāhmaṇas. These records are said to contain historical allusions. Devapāla is mentioned in one of these genealogical works, the old Kārikā of Hari-Miśra-Ghaṭaka.[^sec-05-fn-007] But it is quite possible that the name is a modern interpolation, added to prove the authenticity of the work. The śloka itself as quoted by Babu Nagendra Nātha Vasu runs as follows :—
 
 > *Kṣmāpāla-pratibhūr-bhuvaḥ patir-abhūd Gauḍe ca rāṣṭre tataḥ*,  
-> *Rājā-bhūt pravaḷaḥ sadaiva śaraṇaḥ Śrī-Devapālas=tataḥ*.
+> *Rājā-bhūt pravalaḥ sadaiva śaraṇaḥ Śrī-Devapālas=tataḥ*.
 
 > _[Margin: His successor and relations. Length of reign.]_
-> _[Margin: Vigrahapāla I or Śūrapāla I.]_
+> _[Margin: Vigrahapāla I or Surapāla I.]_
 
-The Prince Rājyapāla was made a Yuvarāja before the grant of the copper-plate in the 33rd regnal year, but he must have died during the lifetime of his father as we find that the king Devapāla was succeeded by Vigrahapāla I, the son of his cousin Jayapāla and the grandson of Vakpāla, the younger brother of Dharmmapāla. In the Badal pillar inscription, the next king after Devapāla is named Śūrapāla. But these two names belong to one and the same person as we shall have to see later on. In the Monghyr grant the date is given as the 33rd regnal year, but according to Tārānātha, Devapāla is said to have reigned forty-eight years. This is most probably incorrect, though we find that both Darbhapāṇi and his grandson Kedāramiśra were his ministers and contemporaries. Devapāla's successor was Vigrahapāla I or Śūrapāla I, whose father Jayapāla had led the expedition against the king of Utkala or Orissa at the request of his cousin and conquered Prāgjyotiṣa for him.[^sec-05-fn-008] Vigrahapāla I is no doubt the same as the Śūrapāla mentioned in the Badal pillar inscription because it is the only name mentioned between Devapāla and Nārāyaṇapāla, and again in the Bhagalpur grant, Vigrahapāla's name is the only one mentioned between Devapāla and Nārāyaṇapāla. Moreover in the Manahali grant of Madanapāla we do not find the name of Śūrapāla before or close to the name of Nārāyaṇapāla. Had there been a different prince of the name of Śūrapāla, his name would surely have been mentioned in it as that inscription contains almost all the names of the Pāla dynasty. Only two small inscriptions of Śūrapāla I have been discovered as yet. Both of them are dated in the second year of this king and record the erection of images at the Vihāra in Uddaṇḍapura by an old Buddhist monk named Pūrṇadāsa. These two inscriptions have been assigned to Śūrapāla II on palæographical grounds by Prof. Nilmoni Chakravartti but that is hardly tenable, as inscriptions of Mahīpāla I and Rāmapāla are written in Proto-Bengali character and it is hardly possible that the inscriptions of Rāmapāla's brother should be written in the acute-angled form of Nagari characters. The name of the Vihāra was read by Prof. Chakravartti as Uddaṇḍacuṛa,[^sec-05-fn-009] but in reality it is Uddaṇḍapura.[^sec-05-fn-010] Uddaṇḍapura is the ancient name of the modern town of Bihar. It [p. 58] is mentioned as Adwand Bihar in the Ṭabaqāt-i-Nāṣirī of Minhāj-ud-dīn[^sec-05-fn-011] and as Uddaṇḍapura in another mediæval inscription in the town of the Gaya in Bengal.[^sec-05-fn-012] The Tibetan historian Lama Tārānatha mentions it as Otantapura,[^sec-05-fn-013] which is the nearest approach to the Sanskrit Uddaṇḍapura. Śūrapāla I or Vigrahapāla I married Lajjādevi, the daughter of the Haihaya king of Tripurī.[^sec-05-fn-014] Vigrahapāla's father, Jayapāla, was a Hindu by inclination, as after his father Vak-pāla's death he is said to have performed the funeral ceremony according to Hindu rites. Umāpati, a learned Brahmana of Kāñjivilvī, is said to have got the Mahādāna on that occasion. The fact is recorded in a commentary on the *Chandogapariśiṣṭa* named *Pariśiṣṭaprakāśa* by Umāpati's grandson, Nārāyaṇa :—
+The Prince Rājyapāla was made a Yuvarāja before the grant of the copper-plate in the 33rd regnal year, but he must have died during the lifetime of his father as we find that the king Devapāla was succeeded by Vigrahapāla I, the son of his cousin Jayapāla and the grandson of Vakpāla, the younger brother of Dharmmapāla. In the Badal pillar inscription, the next king after Devapāla is named Śūrapāla. But these two names belong to one and the same person as we shall have to see later on. In the Monghyr grant the date is given as the 33rd regnal year, but according to Tārānātha, Devapāla is said to have reigned forty-eight years. This is most probably incorrect, though we find that both Darbhapāṇi and his grandson Kedāramiśra were his ministers and contemporaries. Devapāla's successor was Vigrahapāla I or Śūrapāla I, whose father Jayapāla had led the expedition against the king of Utkala or Orissa at the request of his cousin and conquered Prāgjyotiṣa for him.[^sec-05-fn-008] Vigrahapāla I is no doubt the same as the Śūrapāla mentioned in the Badal pillar inscription because it is the only name mentioned between Devapāla and Nārāyaṇapāla, and again in the Bhagalpur grant, Vigrahapāla's name is the only one mentioned between Devapāla and Nārāyaṇapāla. Moreover in the Manahali grant of Madanapāla we do not find the name of Śūrapāla before or close to the name of Nārāyaṇapāla. Had there been a different prince of the name of Śūrapāla, his name would surely have been mentioned in it as that inscription contains almost all the names of the Pāla dynasty. Only two small inscriptions of Śūrapāla I have been discovered as yet. Both of them are dated in the second year of this king and record the erection of images at the Vihāra in Uddaṇḍapura by an old Buddhist monk named Pūrṇadāsa. These two inscriptions have been assigned to Śūrapāla II on palæographical grounds by Prof. Nilmoni Chakravartti but that is hardly tenable, as inscriptions of Mahīpāla I and Rāmapāla are written in Proto-Bengali character and it is hardly possible that the inscriptions of Rāmapāla's brother should be written in the acute-angled form of Nagari characters. The name of the Vihāra was read by Prof. Chakravartti as Uddaṇḍacuṛa,[^sec-05-fn-009] but in reality it is Uddaṇḍapura.[^sec-05-fn-010] Uddaṇḍapura is the ancient name of the modern town of Bihar. It [p. 58] is mentioned as Adwand Bihar in the Ṭabaqāt-i-Nāṣiri of Minhāj-ud-dīn[^sec-05-fn-011] and as Uddaṇḍapura in another mediæval inscription in the town of the Gaya in Bengal.[^sec-05-fn-012] The Tibetan historian Lama Tārānatha mentions it as Otantapura,[^sec-05-fn-013] which is the nearest approach to the Sanskrit Uddaṇḍapura. Śūrapāla I or Vigrahapāla I married Lajjādevi, the daughter of the Haihaya king of Tripurī.[^sec-05-fn-014] Vigrahapāla's father, Jayapāla, was a Hindu by inclination, as after his father Vak-pāla's death he is said to have performed the funeral ceremony according to Hindu rites. Umāpati, a learned Brahmana of Kāñjivilvī, is said to have got the Mahādāna on that occasion. The fact is recorded in a commentary on the *Chandogapariśiṣṭa* named *Pariśiṣṭaprakāśa* by Umāpati's grandson, Nārāyaṇa :—
 
 > *Kṣmāpālāj=Jayapālataḥ sa hi Mahāśrāddhaṁ prabhutam.*  
 > *Mahādānaṁ c-arthi-gaṇ=ārhaṇ=ārdra-hṛdayaḥ praty-agrahīt puṇyavān.—verse* 8.[^sec-05-fn-015]
@@ -340,7 +340,7 @@ Nārāyaṇapāla succeeded to the throne in very troublesome times. The Gurjara
 > *Yasya vairi bṛhad=baṅgān=dahataḥ kopa-vahṇinā.*  
 > *Pratāpād=arṇṇasāṃ rāśīn=pātur=vvaitṛṣṇam=āvabhau.—verse* 21.[^sec-05-fn-016]
 
-This invasion must have taken place late in the reign of Bhoja I, as it must have taken him some time to be seated on the throne, advance towards Kanauj, conquer it and then invade Magadha and Vaṅga. The invasion is recorded in another Pratihāra inscription found at Māndor in Jodhpur. Kakkuka, whose brother Bauka's [p. 59] inscription is dated Vikrama Saṁvat 918=861 <span class="sc">A.D.</span>, states that his father Kakka gained fame in a fight with the Gauḍas at Mudgagiri :—
+This invasion must have taken place late in the reign of Bhoja I, as it must have taken him some time to be seated on the throne, advance towards Kanauj, conquer it and then invade Magadha and Vaṅga. The invasion is recorded in another Pratihāra inscription found at Māndor in Jodhpur. Kakkuka, whose brother Bauka's [p. 59] inscription is dated Vikrama Samvat 918=861 <span class="sc">A.D.</span>, states that his father Kakka gained fame in a fight with the Gauḍas at Mudgagiri :—
 
 > *Tato'pi Śrīyutaḥ Kakkaḥ puttro jāto mahāmatiḥ.*  
 > *Yaśo Mudgagirau labdhaṁ, yena Gauḍaiḥ samaṁ raṇe.*—verse 24.[^sec-05-fn-017]
@@ -361,9 +361,9 @@ It appears that during the long reigns of Amoghavarṣa I and Bhoja I,—and the
 
 The kings of Vaṅga, Aṅga and Magadha were most probably one and the same person, one of the Pālas, either Vigrahapāla I or Nārāyaṇapāla. Amoghavarṣa I must have invaded Magadha and Vaṅga through Orissa, or otherwise he must have come into conflict with the Gurjaras who were then occupying most of Northern India, but of this no record has been discovered up to date.
 
-But as we have seen above, the Gurjaras succeeded in annexing Magadha and most probably Tīrabhūkti or Tirhut permanently to their dominions and succeeded in keeping them till the rise of the Cedis under Karṇṇadeva, when Mahīpāla I [p. 60] annexed Magadha to his territories. The Rāṣṭrakūṭa invasion was not a lasting one, like the previous ones, and, at the close of the war, the Gurjjara-Pratīhāras reoccupied Magadha.
+But as we have seen above, the Gurjaras succeeded in annexing Magadha and most probably Tīrabhūkti or Tirhut permanently to their dominions and succeeded in keeping them till the rise of the Cedis under Karṇṇadeva, when Mahīpāla I [p. 60] annexed Magdha to his territories. The Rāṣṭrakūṭa invasion was not a lasting one, like the previous ones, and, at the close of the war, the Gurjjara-Pratīhāras reoccupied Magadha.
 
-> _[Margin: Inscriptions of Nārāyaṇapāla.]_
+> _[Margin: Inscriptions of Narayanapala.]_
 
 According to the Bhagalpur grant, up to the seventeenth year of the king Mudgagiri was in his occupation. After that nothing is known about him. He was succeeded by his son Rājyapāladeva. The names of the other relations of the king are not known. The earliest record of Nārāyaṇapāla is the Gayā inscription of the seventh year. This is at present in the courtyard of the Viṣṇupāda temple in Gaya
 
@@ -402,7 +402,7 @@ City. Its discovery was announced by the late Sir Alexander Cunningham in his re
 
 
 <!-- page: 31 | folio: 61 -->
-11\. *-ty-eṣa maunī Bhuyāl=lokos mita-śrīḥ para-kṛta-sukṛtaiḥ pālane rakṣaṇe ca tat= karttavyaṁ bhavadbhiḥ sthiravamala-guṇaḥ syānnivāya-yathāyam* ॥ *Sad=vṛtt- =āmala-vṛ*- 12. *-ttibhiḥ sphuṭataraṁ jātādaraiḥ sarvvataḥ sarvvān=etā[n] bhāvina[ḥ] pārthivendrā bhūyo bhūyo jācaty=eṣa maunī sāmāny=oyaṁ dharmma-śe!ur=nārāṇ [āṁ] kāle kāle pā*- 13. *-laneyo bhavadbhiḥ* [॥] *Vyāṅgānārya-vahiś=tapodhana-janaiḥ sthātavyam=atr= āśrame* । *Ity=etat=vratadhāribhir=niyamitaṁ bhuyād=yathā-nānyathā* । *Karttavyaṁ tad=ih=āmalaṁ pri*- 14. *-yatamair=viprair=Gayāvāsibhiḥ* ॥ *Sphuratu kīrttir=iyaṁ guṇa-śālinī sakala -satva-hit-odaya-hetave tapati yāvad=ayaṁ bhuvi bhāskaro himaka*- 15. *-reṇa sah=āmala-dīdhitiḥ* । *Śrī-Nārāyaṇapāladeva iti prāpt-odayo bhūpatiḥ bhūto bhūmi bhūjā [ṁ] śirobhir-amala yasy-ocita [ṁ] śāsanaṁ rājñas=ta*- 16. *-sya guṇ-āmalasya mahataḥ saṁvatsare saptame Vaiśākhyāṁ śubha-sambhṛtena vidhinā labdha pratiṣṭhīta-maṭha.*
+11\. *-ty-eṣa maunī Bhuyāl=lokos mita-śrīḥ para-kṛta-sukṛtaiḥ pālane rakṣaṇe ca tat= karttavyaṁ bhavadbhiḥ sthiravamala-guṇaḥ syānnivāya-yathāyaṁ* ॥ *Sad=vṛtt- =āmala-vṛ*- 12. *-ttibhiḥ sphuṭataraṁ jātādaraiḥ sarvvataḥ sarvvān=etā[n] bhāvina[ḥ] pārthivendrā bhūyo bhūyo jācaty=eṣa maunī sāmāny=oyaṁ dharmma-śetur=nārāṇ [āṁ] kāle kāle pā*- 13. *-laneyo bhavadbhiḥ* [॥] *Vyāṅgānārya-vahis=tapodhana-janaiḥ sthātavyam=atr= āśrame* । *Ity=etat=vratadhāribhir=niyamitaṁ bhuyād=yathā-nānyathā* । *Karttavyaṁ tad=ih=āmalaṁ pri*- 14. *-yatamair=viprair=Gayāvāsibhiḥ* ॥ *Sphuratu kīrttir=iyaṁ guṇa-śālinī sakala -satva-hit-odaya-hetave tapati yāvad=ayaṁ bhuvi bhāskaro himaka*- 15. *-reṇa sah=āmala-dīdhitiḥ* । *Śrī-Nārāyaṇapāladeva iti prāpt-odayo bhūpatiḥ bhūto bhūmi bhūjā [ṁ] śirobhir-amala yasy-ocita [ṁ] śāsanaṁ rājñas=ta*- 16. *-sya guṇ-āmalasya mahataḥ saṁvatsare saptame Vaiśākhyāṁ śubha-sambhṛtena vidhinā labdha pratiṣṭhīta-maṭha.*
 
 The language of the inscription is very incorrect Sanskrit, like that of the Buddhist Sanskrit manuscripts of Nepal, and the record itself has been very carelessly incised. The purpose of the inscription is to record the erection of a monastery for Brāhmaṇical ascetics by a man named Bhāṇḍadeva in the seventh year of the king Nārāyaṇapāladeva, in the month of Vaiśākha. It opens with an invocation to Viṣṇu, in his Man-lion (Narasiṁha) incarnation and curiously enough it is at present outside the small temple of Narasiṁha, in the courtyard of the Viṣṇupāda temple, which, as we shall see later on, was certainly built during the reign of Nayapāladeva. It may mean however that the small temple of Narasiṁha was built by Bhāṇḍadeva near the monastery and was rebuilt during the time of Nayapāladeva. The genealogy of the builder is given as follows:—
 
@@ -435,12 +435,12 @@ Magadha was annexed by the Gurjara-Pratīhāras to their dominions, and after N�
 
 > “ Om, the year 8 (from) the coronation of Mahīndrapāla. (The gift) of Sahadeva, the son of the Ṛiṣi (*Ṛṣi*) Saüḍi (*Sauri*).”
 
-Mahendrapāla, in the ninth or tenth centuries <span class="sc">a.d.</span>, immediately suggests the name of the son of Bhoja I, the great Pratīhāra Emperor Mahendrapāladeva. A comparison with the Asni inscription of Mahīpāla confirmed me in the opinion that no other person than the great Pratīhāra monarch was being referred to. The forms of *P* and *J* are very much similar to those used in Asni inscription and the Ghosrawan inscription of Devapāla. Moreover, the form of the name is identical with that used in the Asni inscription, where we find the name as *Mahīndrapāla*, and not Mahendrapāla as in other inscriptions. Dr. Fleet read this name as Mahīṣapāla.[^sec-05-fn-028] I saw a beautiful impression of this inscription in the Allahabad exibition of 1910- 11, and there the name is clearly legible as Mahīndrapāla. Another inscription of Mahendrapāla is to be found at Gunariya, near the Grand Trunk Road, in the Gayā District, which was brought to notice by Major Kittoe. Kittoe’s drawing of the inscribed portion of the sculpture is very clear and the record can be edited from it:—
+Mahendrapāla, in the ninth or tenth centuries <span class="sc">a.d.</span>, immediately suggests the name of the son of Bhoja I, the great Pratīhāra Emperor Mahendrapāladeva. A comparison with the Asni inscription of Mahīpāla confirmed me in the opinion that no other person than the great Pratīhāra monarch was being referred to. The forms of *P* and *J* are very much similar to those used in Asni inscription and the Ghosrawan inscription of Devapāla. Moreover, the form of the name is identical with that used in the Asni inscription, where we find the name as *Mahīndrapāla*, and not Mahendrapāla as in other inscriptions. Dr. Fleet read this name as Mahīṣapāla.[^sec-05-fn-028] I saw a beautiful impression of this inscription in the Allahabad exhibition of 1910- 11, and there the name is clearly legible as Mahīndrapāla. Another inscription of Mahendrapāla is to be found at Gunariya, near the Grand Trunk Road, in the Gayā District, which was brought to notice by Major Kittoe. Kittoe’s drawing of the inscribed portion of the sculpture is very clear and the record can be edited from it:—
 
 > (1) *Ye dharmmā hetu prabhavā hetun = teṣāṁ ta-*  
 > (2) *-thāgato hy = avadat teṣāṁca yo nirodho evaṁ vā-*  
 > (3) *-dī mahāśramaṇaḥ* । *Saṁvat* 9 *Vaiśākha.*  
-> (4) *śudi* 5 *Śrī-Guṇa-*  
+> (4) *śudī* 5 *Śrī-Guṇa-*  
 > (5) *-carita Śrī-Mahīndrapā-*  
 > (6) *-ladevarājye devadha-*  
 > (7) *-rmmeyaṁ* . . .
@@ -453,44 +453,44 @@ There are two votive inscriptions of Mahendrapāladeva in the British Museum. On
 
 
 <!-- page: 35 | folio: 65 -->
-No inscriptions of Rājyapāla have been discovered as yet, and so nothing definite can be stated about the length or the events of his reign. According to the inscriptions of the later Pālas, he was succeeded by his son Gopāla II.
+No inscriptions of Rajyapāla have been discovered as yet, and so nothing definite can be stated about the length or the events of his reign. According to the inscriptions of the later Pālas, he was succeeded by his son Gopāla II.
 
-The British Museum possesses a Manuscript of the Aṣṭasāhasrikā Prajñāpāramitā written in the 15th year of Gopāla II at the monastery of Vikramaśīlā. Its colophon runs thus:—
+The British Museum possesses a Manuscript of the Aṣṭasāhasrika Prajñāpāramitā written in the 15th year of Gopāla II at the monastery of Vikramaśilā. Its colophon runs thus:—
 
-> *Parameśvara-paramabhaṭṭāraka-paramasaugata-Mahārājādhirāja-Śrī-mad-Gopālade-vapravarddhamāna-kalyāṇa-vijaya-rājy-etyādi samvat 15 āśvine dine 4 Śrī-mad Vikramaśīla-deva-vihāre likhiteyaṁ bhagavatī.*[^sec-05-fn-032]
+> *Parameśvara-paramabhaṭṭāraka-paramasaugata-Mahārājādhirāja-Śrī-mad-Gopālade-vapravarddhamāna-kalyāṇa-vijaya-rajy-etyādi samvat 15 āsmine dine 4 Śrī-mad Vikramaśīla-deva-vihāre likhiteyaṁ bhagavatī.*[^sec-05-fn-032]
 
-We possess two inscriptions of Gopāla II, and from these we learn that Magadha was temporarily recovered by the Pālas during the reign of this monarch. The first of these inscriptions was discovered by the late Sir Alexander Cunningham, at Bargaon in the Patna District, the ancient Nālandā.[^sec-05-fn-035] It records the fact that an image of the goddess Vāgīśvarī, at Nālandā, was covered with gold leaf by some unnamed personage in the first year of Gopāladeva.[^sec-05-fn-033] The second inscription was discovered amidst the ruins of the Mahābodhi temple at Bodh-Gayā and records the erection of image of Buddha by a person named Śakrasena during the reign of Gopāladeva, no year being mentioned. These inscriptions prove that some time during the reign of Gopāla II, South Bihār or Magadha was temporarily occupied by the Pālas. The reason of this sudden enterprise is not far to seek. During the long reign of Amoghavarṣa I, whose certain dates extend from 817 to 877 A.D., there was no war between the Gurjaras and the Rāṣṭrakūṭas.[^sec-05-fn-036] In fact the only war between Bhoja I and the Rāṣṭrakūṭas was his war with the Rāṣṭrakūtas Dhruvarāja II of Gujarat some time before 867 A.D., in which Bhoja I himself was worsted.[^sec-05-fn-034] After Bhoja I, Mahendrapāla succeeded to an empire which had reached its greatest extent at that time, from Punjab to the borders of Bengal, and from the foot of the Himalayas to Saurāṣṭra.[^sec-05-fn-039] Mahendrapāla's reign was a very short one, as his certain dates range from 893 to 907 A.D. He had two wives and was succeeded by Bhoja II, his son by Dehanāgā.[^sec-05-fn-037] Most probably there was some dispute about his succession, which may have been contested by his half-brother Mahīpāla II. Bhoja II was assisted to the throne by the Cedi Emperor Kokkalla I, which is referred to in the Bilhari inscription:—
+We possess two inscriptions of Gopāla II, and from these we learn that Magadha was temporarily recovered by the Pālas during the reign of this monarch. The first of these inscriptions was discovered by the late Sir Alexander Cunningham, at Bargaon in the Patna District, the ancient Nālandā.[^sec-05-fn-033] It records the fact that an image of the goddess Vāgīśvarī, at Nālandā, was covered with gold leaf by some unnamed personage in the first year of Gopaladeva.[^sec-05-fn-034] The second inscription was discovered amidst the ruins of the Mahābodhi temple at Bodh-Gayā and records the erection of image of Buddha by a person named Śakrasena during the reign of Gopāladeva, no year being mentioned. These inscriptions prove that some time during the reign of Gopāla II, South Bihār or Magadha was temporarily occupied by the Pālas. The reason of this sudden enterprise is not far to seek. During the long reign of Amoghavarṣa I, whose certain dates extend from 817 to 877 A.D., there was no war between the Gurjaras and the Rāṣṭrakūṭas.[^sec-05-fn-035] In fact the only war between Bhoja I and the Rāṣṭrakūṭas was his war with the Rāṣṭrakūtas Dhruvarāja II of Gujarat some time before 867 A.D., in which Bhoja I himself was worsted.[^sec-05-fn-036] After Bhoja I, Mahendrapāla succeeded to an empire which had reached its greatest extent at that time, from Punjab to the borders of Bengal, and from the foot of the Himalayas to Saurāṣṭra.[^sec-05-fn-037] Mahendrapāla's reign was a very short one, as his certain dates range from 893 to 907 A.D. He had two wives and was succeeded by Bhoja II, his son by Dehanāgā.[^sec-05-fn-038] Most probably there was some dispute about his succession, which may have been contested by his half-brother Mahīpāla II. Bhoja II was assisted to the throne by the Cedi Emperor Kokkalla I, which is referred to in the Bilhari inscription:—
 
-> *Jitvā kṛtsnāṁ yena pṛthvīm = apūrvvaṅ-kīrtti-stambha-dvandvam = āropyate sma,*  
+> *Jitvā kṛtsnāṁ yena pṛthvīm = apurvvaṅ-kīrtti-stambha-dvandvam = āropyate sma,*  
 > *Kaumbhod-bhavyāndiśyasau Kṛṣṇarājaḥ Kaurveyāñ = ca Śrī-nidhir-Bhojadevaḥ—*  
-> *verse 17.*[^sec-05-fn-040]
+> *verse 17.*[^sec-05-fn-039]
 
 We find a corroboration of this statement in the Benares grant of the Cedi Emperor Karṇadeva:—
 
 > *Bhoje Vallabharāje Chitrakūṭa-bhūpāle,*  
-> *Śaṅkaragaṇe ca rājani yasy = āsīd = abhayadaḥ pāṇiḥ—verse 7.*[^sec-05-fn-038]
+> *Śaṅkaragaṇe ca rājani yasy = āsīd = abhayadaḥ pāṇiḥ—verse 7.*[^sec-05-fn-040]
 
 
 <!-- page: 36 | folio: 66 -->
 So the Cedi Emperor also set up the Rāṣṭrakūṭa king Kṛṣṇa II, whose surname was Vallabharāja, on the throne of his father Amoghavarṣa I. Kṛṣṇa II defeated the Gurjaras and at the same time led an invasion into Bengal:—
 
-> *Tasy=ottarjjiṭa-Gurjaro hṛta-haṭa-llāṭ-odbhaṭa-śrīmado*  
+> *Tasy=ottarjjita-Gurjaro hṛta-haṭa-llāṭ-odbhaṭa-śrīmado*  
 > *Gauḍānāṁ vinaya-vratārppaṇa-gurus=Sāmudrā=nidrāharaḥ,*  
 > *Dvārasth=Āṁga-Kaliṁga-Gāṁga-Magadhair=abhyarccit=ājñaś=ciraṁ sūnus=*  
 > *sūnṛtavāg=bhuvaḥ parivṛtaḥ Śrī Kṛṣṇarājo-bhavat.*  
 > -verse 13, Deoli plates of Kṛṣṇa III, and verse 15, Karhad plates of the  
 > same.[^sec-05-fn-041]
 
-The Gurjara king defeated by Kṛṣṇarāja II seems to be Bhoja II. He was succeeded very shortly by his half-brother Mahīpāla, under whom the area of the Gurjāra-Pratīhāra Empire became very circumscribed. The Rāṣṭrakūṭa king Kṛṣṇa II also had a very short reign and was succeeded by his grandson Indra III. His certain years range from 902 to 911, and as those of Bhoja II are almost the same, it is almost certain that he was the king who was defeated by Kṛṣṇa II. After the accession of Mahīpāla, whose certain dates range from 914 to 917, Indra III invaded the Gurjara Empire, crossed the Yamunā, occupied Kānyakubja, and most probably destroyed the city.[^sec-05-fn-042] Mr. D. R. Bhandarkar has already proved that at that time Kṣitipāla or Mahīpāla was the reigning sovereign at Kanauj. In this campaign, Narasiṁha, a feudatory of Indra III, pursued the Gurjara king Mahīpāla as far as the confluence of the Ganges. Narasiṁha, according to the Karnnāṭaka-Śabdānuśāsana by Bhaṭṭa Kalaṅkadeva, "snatched from the Gurjara king's arms the goddess of victory, whom, though desirous of keeping, he had held too loosely. Mahīpāla fled as if struck by thunder-bolts, staying neither to eat nor rest, nor pick himself up, while Narasiṁha pursuing, bathed his horse at the junction of the Ganges and established his fame.''[^sec-05-fn-043] The mention of the confluence of the Ganges as the extremity of Narasiṁha's pursuit of Mahīpāla, without any mention of the Gauḍa king, most probably indicates that the Eastern frontier of the Gurjara-Pratīhāra Empire at that time extended up to the junction of the Ganges with the Sea. This is not to be wondered at as it is now certain that Magadha formed an integral part of the dominions of Mahīpāla's father Mahendrapāla. During this war Gopāla II of Bengal may have taken the opportunity of recovering some of the traditional possessions of his family and pushed the Western frontier as far as the eastern banks of the Sone This re-occupation of the Magadha may have been temporary, and Mahīpāla may have recovered the possession of his Eastern Provinces, with the help of the Candella Yaśovarmman[^sec-05-fn-044] As no inscriptions of Gopāla's successor Vigrahapala II have been discovered, we are not in a position to say definitely whether Magadha continued to be a province of the Pāla Empire or was re-annexed by the Gurjaras. A MS. of the Pañcarakṣā written in the 26th year of Vigrahapāladeva II is preserved in the British Museum collection: the latter part of its colophon runs thus:—
+The Gurjara king defeated by Kṛṣṇarāja II seems to be Bhoja II. He was succeeded very shortly by his half-brother Mahīpāla, under whom the area of the Gurjāra-Pratīhāra Empire became very circumscribed. The Rāṣṭrakūṭa king Kṛṣṇa II also had a very short reign and was succeeded by his grandson Indra III. His certain years range from 902 to 911, and as those of Bhoja II are almost the same, it is almost certain that he was the king who was defeated by Kṛṣṇa II. After the accession of Mahīpāla, whose certain dates range from 914 to 917, Indra III invaded the Gurjara Empire, crossed the Yamunā, occupied Kānyakubja, and most probably destroyed the city.[^sec-05-fn-042] Mr. D. R. Bhandarkar has already proved that at that time Kṣitipāla or Mahīpāla was the reigning sovereign at Kanauj. In this campaign, Narasiṁha, a feudatory of Indra III, pursued the Gurjara king Mahīpāla as far as the confluence of the Ganges. Narasiṁha, according to the Karnnāṭaka-Śabdānuśāsana by Bhaṭṭa Kalaṅkadeva, "snatched from the Gurjara king's arms the goddess of victory, whom, though desirous of keeping, he had held too loosely. Mahīpāla fled as if struck by thunder-bolts, staying neither to eat nor rest, nor pick himself up, while Narasiṁha pursuing, bathed his horse at the junction of the Ganges and established his fame.''[^sec-05-fn-043] The mention of the confluence of the Ganges as the extremity of Narasiṁha's pursuit of Mahīpāla, without any mention of the Gauḍa king, most probably indicates that the Eastern frontier of the Gurjara-Pratīhāra Empire at that time extended up to the junction of the Ganges with the Sea. This is not to be wondered at as it is now certain that Magadha formed an integral part of the dominions of Mahīpāla's father Mahendrapāla. During this war Gopāla II of Bengal may have taken the opportunity of recovering some of the traditional possessions of his family and pushed the Western frontier as far as the eastern banks of the Sone This re-occupation of the Magadha may have been temporary, and Mahīpāla may have recovered the possession of his Eastern Provinces, with the help of the Candella Yaśovarmman[^sec-05-fn-044] As no inscriptions of Gopāla's successor Vigrahapala II have been discovered, we are not in a position to say definitely whether Magadha continued to be a province of the Pāla Empire or was re-annexed by the Gurjaras. A MS. of the Pañcarakṣā written in the 26th year of Vīgrahapāladeva II is preserved in the British Museum collection: the latter part of its colophon runs thus:—
 
 
 <!-- page: 37 | folio: 67 -->
-> *Parameśvara-Paramabhaṭṭāraka-Paramasaugata Mahārājādhirāja-Śrīmad-Vigraha- pāladevasya pravardhamāna-vijayarājye-[about 15 indistinct akṣaras] Samvat 26 Āṣāḍha dina 24*॥[^sec-05-fn-045]
+> *Parameśvara-Paramabhaṭṭāraka-Paramasaugata Mahārājādhirāja-Śrīmad-Vigraha- pāladevasya pravardhamāna-vijayarājye-[about 15 indistinct akṣaras] Samvat 26 Āśāḍha dina 24*॥[^sec-05-fn-045]
 
 Before closing this chapter it should be noted that about this time an independent kingdom was established in Eastern Bengal. The existence of this kingdom was made known by the discovery of two copper-plate grants of Devakhaḍga, the last king of this dynasty. From these copper-plate grants it is now known that the dynasty reigned for three generations :—
 
 
-![Genealogical chart showing succession from Khaḍgodyama to Jātakhadga to Devakhaḍga](../figures/fig-004_p0037.webp)
+![Genealogical chart showing succession from Khaḍgodyama to Jātakhaḍga to Devakhaḍga](../figures/fig-004_p0037.webp)
 
 Nothing is known about their dates save and except that the grants were issued in the thirteenth year of Devakhaḍga. The learned Editor of the plates has assigned them to the eighth or ninth century <span class="sc">a.d.</span>[^sec-05-fn-046] But on comparison with the inscriptions of the Pāla Emperors it is found that their correct date would be the first half of the tenth century <span class="sc">a.d.</span> These two plates are the earliest inscriptions from Eastern Bengal proper, and the record next in order was incised so late as the reign of king Lakṣmaṇasena of Bengal.
 
@@ -529,14 +529,14 @@ Nothing is known about their dates save and except that the grants were issued i
 [^sec-05-fn-030]: (3) Nachr. v. d. Konigl. Ges. d. Wis. z. Gotting., phil.-hist. Kl. 1904, pp. 210-11
 [^sec-05-fn-031]: (4) Epi. Ind., Vol IX, p. 4
 [^sec-05-fn-032]: (1) J.R.A.S., 1910, pp. 150-51.
-[^sec-05-fn-033]: (3) J A.S.B., N. S., Vol. IV, p. 105.
-[^sec-05-fn-034]: (5) Epi. Ind., Vol. IX, p. 4.
-[^sec-05-fn-035]: (2) Cunningham, Arch. Surv. Rep., Vol. I, p. 36, pl. XIII. 1.
-[^sec-05-fn-036]: (4) J.R.A.S., 1904, pp. 647-8.
-[^sec-05-fn-037]: (7) Ind. Ant., Vol XV, p. 110.
-[^sec-05-fn-038]: (9) Epi. Ind., Vol. II, p. 306,
-[^sec-05-fn-039]: (6) Ind. Ant., Vol. XII, p. 181.
-[^sec-05-fn-040]: (8) Epi. Ind., Vol. I, p. 256.
+[^sec-05-fn-033]: (2) Cunningham, Arch. Surv. Rep., Vol. I, p. 36, pl. XIII. 1.
+[^sec-05-fn-034]: (3) J A.S.B., N. S., Vol. IV, p. 105.
+[^sec-05-fn-035]: (4) J.R.A.S., 1904, pp. 647-8.
+[^sec-05-fn-036]: (5) Epi. Ind., Vol. IX, p. 4.
+[^sec-05-fn-037]: (6) Ind. Ant., Vol. XII, p. 181.
+[^sec-05-fn-038]: (7) Ind. Ant., Vol XV, p. 110.
+[^sec-05-fn-039]: (8) Epi. Ind., Vol. I, p. 256.
+[^sec-05-fn-040]: (9) Epi. Ind., Vol. II, p. 306,
 [^sec-05-fn-041]: (1) Ibid., Vol. V, p. 193; ibid., Vol. IV, p. 283.
 [^sec-05-fn-042]: (2) Ibid., Vol. VII, p. 38.
 [^sec-05-fn-043]: (3) Karnnataka-Sabdanusasana, ed. Lewis Rice, p. 26
@@ -556,12 +556,12 @@ Nothing is known about their dates save and except that the grants were issued i
 #### <span class="sc">THE SECOND EMPIRE.</span>
 
 > _[Margin: Kamboja or Mongolian invasion of North Bengal.]_
-> _[Margin: The date in the Dinājpur inscription. to suit the characters]_
+> _[Margin: The date in the Dinājpur inscription.]_
 > _[Margin: Kāmboja kings of Gauḍa.]_
 
-The period which follows is entirely different in character, the principal actors having changed. The great Gurjara-Pratīhāra Empire was rapidly dissolving and the Rāṣṭrakūṭa kings were gradually becoming weaker. Rāṣṭrakūṭa and Gurjara invasions became things of the past. New actors were appearing in the political arena. The invasion of the Great Coḷa Conqueror left a deep impression on north eastern India. It gave Bengal a new dynasty of kings and indirectly hastened the ruin of the Pāla Empire. After the Badal pillar inscription of Nārāyaṇapāla, there is no other inscription which can throw light on the history of Northern Bengal for three generations, i.e. till the time of Mahīpāla I. About this time some Mongolian tribes occupied the whole of the Northern Bengal and either massacred the old inhabitants or gradually forced them back southwards. A monolithic pillar now standing in the grounds of the place of the Mahārājas of Dinājpur bears a record of one of these Mongolian kings, who also claimed to be the lords of Gauḍa (*Gauḍeśvara*). At present the whole of Northern Bengal is strewn over with pre-Muhammadan ruins and so far the general theory had been, that these temples, monasteries and towns were ruined at the time of the Muhammadan occupation of the country. But recently a plausible theory has been started by Mr. Ramā Prasād Canda, B.A., on the basis of Dinājpur pillar inscription, according to which the ruin of these ancient cities of Northern Bengal should be differently interpreted. The inscription on the Dinājpur pillar was brought to notice in 1871 when it was published with a rude lithograph.[^sec-06-fn-001] The late Dr. Bloch examined the inscription during one of his tours and hastily gave a reading which I am afraid cannot be supported. Mr. Canda obtained some very clear and beautiful rubbings of this inscription during one of his many visits and submitted a paper on it to the Asiatic Society of Bengal.[^sec-06-fn-002] According to Mr. Canda, the Koch, Mech and the Palias of the present day are the descendants of the Mongolians who invaded and settled in North Bengal during the latter half of the ninth and the tenth century <span class="sc">A.D.</span> The inscription on the Dinājpur pillar, which forms the basis of Mr. Canda's paper, records the erection of a temple of Śiva during the reign of a king of Gauḍa of the Kāmboja race, in the year 888 of some unspecified era. The date is expressed as a chronogram : *Kuñjara-Ghaṭā-varṣeṇa*, which probably means 888. This date cannot be referred to the Vikrama era as in that case it would be equivalent to 831 <span class="sc">A.D.</span>, which is too early used in this inscription. Neither can it be referred to the [p. 69] Gupta era as in that case it would be equal to 1207 A.D., which is certainly too late. The Kalacuri-Cedi era has never been found to have been used in Bengal. The Śaka era suits best though it has but been sparsely used in the North-East. In that case S. 888=966 A.D. falls just after the reign of Devapāla, the Pratīhāra King of Kanauj. At that time the invaders must have settled down so that the invasion itself must have taken place some time earlier. Northern Bengal was in the undisputed possession of Nārāyaṇapāla at the time of the incision of Guravamiśra's record. So this invasion must have taken place some time between 850-950 A.D. The irruption of these Mongolian hordes must have taken place through the Himalayas, and most probably they were dispossessed of their former homes in the hills by some other invaders. So the Pālas after Nārāyaṇapāla, i.e. Rājyapāla, Gopāla II, and Vigrahapāla II, were having a rather bad time of it with the Gurjara Empire in the West and occasional Rāṣṭrakūṭa raids thrown in, and with Barbarian hordes advancing in untold numbers through the mountain passes of the North. No wonder that Magadha was annexed to the Gurjara-Pratīhāra Empire. At the time of the invasion of Indra III, the Eastern Frontier of the Gurjara-Pratīhāra Empire most probably extended right up to the modern Bhagirathi, and its confluence near Saugor Island. North Bengal must have remained in the possession of the Mongolian kings up to the end of the tenth century A.D. In the beginning of the eleventh century we find that the Pālas have recovered possession of Northern Bengal, and from this time onwards right up to the end of the second Pāla Empire, Northern Bengal continued to be in their possession. At the time of the Dinajpur inscription the Pālas seem to have been deprived of Gauḍa and consequently the Mongolian king became *Gauḍeśvara*. The name Kāmboja itself is of great interest. Thus far the Kāmbojas or Kamvojas were known to be a northern tribe who lived side by side with the Greeks in Afghanistan and the Western Punjab, as shown by the phrase "*Yona-Kāmbojesu*" in the XIII Rock Edict of Asoka.[^sec-06-fn-003] The occurrence of the name in a Bengal inscription does not mean that the Kāmbojas, whole or part, immigrated into Bengal from the Punjab across the whole of Northern India, because that would have been an impossibility in those days, but shows that all Mongolians were called Kāmbojas, and that people with Mongolian features crossed over into Bengal through the Northern Mountains and as Kāmbojas. They may or may not have been a part of the people who became known during the Maurya period as the Kāmbojas.
+The period which follows is entirely different in character, the principal actors having changed. The great Gurjara-Pratīhāra Empire was rapidly dissolving and the Rāṣṭrakūṭa kings were gradually becoming weaker. Rāṣṭrakūṭa and Gurjara invasions became things of the past. New actors were appearing in the political arena. The invasion of the Great Coḷa Conqueror left a deep impression on north eastern India. It gave Bengal a new dynasty of kings and indirectly hastened the ruin of the Pāla Empire. After the Badal pillar inscription of Nārāyaṇapāla, there is no other inscription which can throw light on the history of Northern Bengal for three generations, i.e. till the time of Mahīpāla I. About this time some Mongolian tribes occupied the whole of the Northern Bengal and either massacred the old inhabitants or gradually forced them back southwards. A monolithic pillar now standing in the grounds of the place of the Mahārājas of Dinājpur bears a record of one of these Mongolian kings, who also claimed to be the lords of Gauḍa (*Gauḍeśvara*). At present the whole of Northern Bengal is strewn over with pre-Muhammadan ruins and so far the general theory had been, that these temples, monasteries and towns were ruined at the time of the Muhammadan occupation of the country. But recently a plausible theory has been started by Mr. Ramā Prasād Canda, B.A., on the basis of Dinājpur pillar inscription, according to which the ruin of these ancient cities of Northern Bengal should be differently interpreted. The inscription on the Dinājpur pillar was brought to notice in 1871 when it was published with a rude lithograph.[^sec-06-fn-001] The late Dr. Bloch examined the inscription during one of his tours and hastily gave a reading which I am afraid cannot be supported. Mr. Canda obtained some very clear and beautiful rubbings of this inscription during one of his many visits and submitted a paper on it to the Asiatic Society of Bengal.[^sec-06-fn-002] According to Mr. Canda, the Koch, Mech and the Palias of the present day are the descendants of the Mongolians who invaded and settled in North Bengal during the latter half of the ninth and the tenth century <span class="sc">A.D.</span> The inscription on the Dinājpur pillar, which forms the basis of Mr. Canda's paper, records the erection of a temple of Śiva during the reign of a king of Gauḍa of the Kāmboja race, in the year 888 of some unspecified era. The date is expressed as a chrono-gram : *Kuñjara-Ghaṭā-varṣeṇa*, which probably means 888. This date cannot be referred to the Vikrama era as in that case it would be equivalent to 831 <span class="sc">A.D.</span>, which is too early to suit the characters used in this inscription. Neither can it be referred to the [p. 69] Gupta era as in that case it would be equal to 1207 A.D., which is certainly too late. The Kalacuri-Cedī era has never been found to have been used in Bengal. The Śaka era suits best though it has but been sparsely used in the North-East. In that case S. 888=966 A.D. falls just after the reign of Devapāla, the Pratīhāra King of Kanauj. At that time the invaders must have settled down so that the invasion itself must have taken place some time earlier. Northern Bengal was in the undisputed possession of Nārāyaṇapāla at the time of the incision of Guravamiśra's record. So this invasion must have taken place some time between 850-950 A.D. The irruption of these Mongolian hordes must have taken place through the Himalayas, and most probably they were dispossessed of their former homes in the hills by some other invaders. So the Pālas after Nārāyaṇapāla, i.e. Rājyapāla, Gopāla II, and Vigrahapāla II, were having a rather bad time of it with the Gurjara Empire in the West and occasional Rāṣṭrakūṭa raids thrown in, and with Barbarian hordes advancing in untold numbers through the mountain passes of the North. No wonder that Magadha was annexed to the Gurjara-Pratīhāra Empire. At the time of the invasion of Indra III, the Eastern Frontier of the Gurjara-Pratīhāra Empire most probably extended right up to the modern Bhagirathi, and its confluence near Saugor Island. North Bengal must have remained in the possession of the Mongolian kings up to the end of the tenth century A.D. In the beginning of the eleventh century we find that the Pālas have recovered possession of Northern Bengal, and from this time onwards right up to the end of the second Pāla Empire, Northern Bengal continued to be in their possession. At the time of the Dinajpur inscription the Pālas seem to have been deprived of Gauḍa and consequently the Mongolian king became *Gauḍeśvara*. The name Kāmboja itself is of great interest. Thus far the Kāmbojas or Kamvojas were known to be a northern tribe who lived side by side with the Greeks in Afghanistan and the Western Punjab, as shown by the phrase "*Yona-Kāmbojesu*" in the XIII Rock Edict of Asoka.[^sec-06-fn-003] The occurrence of the name in a Bengal inscription does not mean that the Kāmbojas, whole or part, immigrated into Bengal from the Punjab across the whole of Northern India, because that would have been an impossibility in those days, but shows that all Mongolians were called Kāmbojas, and that people with Mongolian features crossed over into Bengal through the Northern Mountains and as Kāmbojas. They may or may not have been a part of the people who became known during the Maurya period as the Kāmbojas.
 
-The occupation of Gauḍa by a barbarian tribe, at a time when the whole of Magadha was in the possession of the Gurjaras, shows that the kings of the Pāla dynasty between Nārāyaṇapāla and Vigrahapāla II and Mahīpāla I were kings in name only. Most probably they ruled over an insignficant kingdom surrounded by a large number of petty monarchies. The Tirumalai inscription of Rājendra Coḻa I shows that the ancient Gauḍa and Vaṅga had become divided into a large number of small kingdoms. The exact state and extent of the Pāla dominions under [p. 70] Vigrahapāla are not known. Most probably he lost even what had belonged to Gopāla II as his son Mahīpāla I is said to have recovered his paternal kingdom. His only recorded war seems to have been conducted in Eastern Bengal. In the Āmgāchi and Dinājpur grants there is a verse about this :—
+The occupation of Gauḍa by a barbarian tribe, at a time when the whole of Magadha was in the possession of the Gurjaras, shows that the kings of the Pāla dynasty between Nārāyaṇapāla and Vigrahapāla II and Mahīpāla I were kings in name only. Most probably they ruled over an insignificant kingdom surrounded by a large number of petty monarchies. The Tirumalai inscription of Rājendra Coḻa I shows that the ancient Gauḍa and Vaṅga had become divided into a large number of small kingdoms. The exact state and extent of the Pāla dominions under [p. 70] Vigrahapāla are not known. Most probably he lost even what had belonged to Gopāla II as his son Mahīpāla I is said to have recovered his paternal kingdom. His only recorded war seems to have been conducted in Eastern Bengal. In the Āmgāchi and Dinājpur grants there is a verse about this :—
 
 > *Deśe prāci pracura-payasi svaccham=āpīya toyaṁ svairaṁ bhrāntvā tad=anu*  
 > *malay-opatyakā-candaneṣu*,  
@@ -578,29 +578,28 @@ After the death of Vigrahapāla II, Mahīpāla succeeded to what remained of the
 
 > _[Margin: Mahīpāla I conquers Magadha]_
 > _[Margin: and Mithilā.]_
-> _[Margin: Occupies Benares.]_
 
 After the recovery of his paternal kingdom, Mahīpāla I must have turned his attention to the West. In his sixth year Nālanda was included in his kingdom as a manuscript copied at that place in that year of the king has been acquired for the Asiatic Society of Bengal by Mahāmahopādhyāya Hara Prasāda Śāstrī. Magadha seems to have continued in the possession of the king for a long time. In the eleventh year of the king an image of Buddha was dedicated in or near the temple of the Mahābodhi at Bodh-Gaya, and in the same year the great temple at Nālanda was restored, as it had been burnt down in a fire. After the conquest of Magadha, Mahīpāla seems to have attacked Tīrabhukti or Mithilā which continued in the possession of the king at least till his 48th year. His kingdom seems to have extended as far as Benares and continued to be included in it till 1020 <span class="sc">a.d.</span> In that year, two persons were deputed by the king, named Sthirapāla and Vasantapāla, to execute some repairs near the Buddhist city. The state of the Gurjara kingdom of Kanauj favoured the occupation.
+
+> _[Margin: Occupies Benares.]_
 
 Only a few years before it had been devastated by Sultan Mahmūd of Ghazni, and after his departure, the king Rājyapāladeva had been deposed and murdered by the Indian Princes for having submitted to an alien conqueror. At that time Trilocanapāla was seated on the throne of the Gurjara-Pratīhāras and most probably his power did not extend beyond the confluence of the Yamunā.
 
 > _[Margin: Invasion of]_
 > _[Margin: Rājendra Coḷa I.]_
 > _[Margin: Conquest of Oḍra and Kośala.]_
-> _[Margin: Daṇḍabhukti and Southern Rāḍhā.]_
+> _[Margin: Daṇḍabukti and Southern Rāḍhā.]_
 
-In spite of the victories during the earlier part of his reign, Mahīpāla I suffered some very severe reverses from the time of the rise of the Cedis, under Gāṅgeyadeva [p. 71] and Karṇadeva and the invasion of the Coḷa king Rājendra Coḷa I. The invasion of the Coḷa king took place before the 13th year of that prince, i.e. before 1025 <span class="sc">a.d.</span> Rājendra Coḷa earned the *viruda* of “*Gaṅgegoṇḍa*” or “Gaṅgā-vijayi” by pushing as far North as the Ganges during this raid. The Tirumalai Rock inscription of the great conqueror records the Northern Campaign in detail. It is said that the king seized the “Oḍḍa-*viṣaya*” which was difficult to approach. This is clearly the Oḍra *Viṣaya* of the copper-plate inscriptions of Orissa. Then he entered “Koṣalaināḍu,” i.e. the Kośala of the inscriptions of the Soma-vaṁśī kings of Orissa.[^sec-06-fn-007] Next in order comes the subjugation of Daṇḍabhukti. The province has been identified by Mahāmahopādhyāya Hara Prasāda Śāstrī with the modern province of Bihar, because the ancient name of the town of Bihar was called Otantapuri by the Tibetans and Adwand Bihār by the Muhammadans. But this identification is scarcely tenable.
+In spite of the victories during the earlier part of his reign, Mahīpāla I suffered some very severe reverses from the time of the rise of the Cedis, under Gāṅgeyadeva [p. 71] and Karṇadeva and the invasion of the Coḷa king Rājendra Coḷa I. The invasion of the Coḷa king took place before the 13th year of that prince, i.e. before 1025 <span class="sc">a.d.</span> Rājendra Coḷa earned the *viruda* of “*Gaṅgegoṇḍā*” or “Gangā-vijayī” by pushing as far North as the Ganges during this raid. The Tirumalai Rock inscription of the great conqueror records the Northern Campaign in detail. It is said that the king seized the “Oḍḍa-*viṣaya*” which was difficult to approach. This is clearly the Oḍra *Viṣaya* of the copper-plate inscriptions of Orissa. Then he entered “Koṣalaināḍu,” i.e. the Kośala of the inscriptions of the Soma-vaṁśī kings of Orissa.[^sec-06-fn-007] Next in order comes the subjugation of Daṇḍabhukti. The province has been identified by Mahāmahopādhyāya Hara Prasāda Śastrī with the modern province of Bihar, because the ancient name of the town of Bihar was called Otantapuri by the Tibetans and Adwand Bihār by the Muhammadans. But this identification is scarcely tenable.
 
 > _[Margin: Uddandapura,]_
 > _[Margin: Rāḍhā as an ancient name.]_
 
-The place is mentioned in the *Rāmacarita* of Sandhyākaranandi where a person named Jayasiṁha is said to have been its ruler and is said to have aided Rāmapāla in his wars in Northern Bengal. This man is said to have defeated Karṇa-Keśari, the king of Orissa.[^sec-06-fn-008] Most probably Daṇḍabhukti was the march-land between Orissa and Bengal, corresponding to the modern British districts of Midnapur and Balasore, and the man had defeated the king of Orissa in one of his expeditions against Bengal. It is more probable for a king of the march-lands to come into conflict with the king of Orissa than for the ruler of Magadha. Moreover the order in which the names of the countries are mentioned prevents us from supposing that Bihar is the country mentioned as we shall see later on. From Daṇḍabhukti the king passed on to Bengal, attacking and occupying the province of “Takkaṇa-Lāḍam.” This name has been taken to be the equivalent of “Dakṣiṇa Lāṭa” by the late Dr. Kielhorn, which is the ancient name of Southern Gujarat.[^sec-06-fn-009] But Messrs. Hultzsch and Venkayya take it to mean “Dakṣiṇa Virāṭa” or Southern Berar.[^sec-06-fn-010] Mr. Venkayya is a great authority on Tamil, and he supposes that “the Tamil term “*Ilaḍa*” does not correspond to Sanskrit *Lāṭa* (Gujarat) but to *Virāṭa* (Berar)”. But nowhere did it strike the learned scholars that the order in which the countries are mentioned, prevents us from supposing that either Berar or Gujarat is mentioned. In fact the country mentioned is Southern Rāḍhā. Mr. Venkayya will find, on re-considering the question, that *Dakṣiṇa-Rāḍhā* is a better equivalent for Tamil *Takkaṇa-Lāḍam* than *Dakṣiṇa-Virāṭa*. Immediately after “Takkaṇa-Lāḍam” we have the mention of *Vaṅgāla-deśa*, which all authorities agree as being equal to Vaṅga or Eastern Bengal. No sane man would turn from Orissa to conquer Southern Gujarat or Berar and then return to the East to conquer East Bengal, [p. 72] after which he turns back to the West to defeat Mahīpāla in North Bengal and again rushes to North Gujarat or Berar to conquer it. The more natural explanation is that Rājendra Coḷa defeated Raṇaśūra, the ruler of Southern Rāḍhā, and then passed on through that country to invade Vaṅga. From very early times a part of Bengal has been called Rāḍhā. It occurs in a dated inscription of the Indo-Scythian period as Rārā. This inscription is at present in the Indian Museum, in
+The place is mentioned in the *Rāmacarita* of Sandhyākaranandi where a person named Jayasiṁha is said to have been its ruler and is said to have aided Rāmapāla in his wars in Northern Bengal. This man is said to have defeated Karṇa-Keśari, the king of Orissa.[^sec-06-fn-008] Most probably Daṇḍabhukti was the march-land between Orissa and Bengal, corresponding to the modern British districts of Midnapur and Balasore, and the man had defeated the king of Orissa in one of his expeditions against Bengal. It is more probable for a king of the march-lands to come into conflict with the king of Orissa than for the ruler of Magadha. Moreover the order in which the names of the countries are mentioned prevents us from supposing that Bihar is the country mentioned as we shall see later on. From Daṇḍabhukti the king passed on to Bengal, attacking and occupying the province of “Takkaṇa-Lāḍam.” This name has been taken to be the equivalent of “Dakṣiṇa Lāṭa” by the late Dr. Kielhorn, which is the ancient name of Southern Gujarat.[^sec-06-fn-009] But Messrs. Hultzsch and Venkayya take it to mean “Dakṣiṇa Virāṭa” or Southern Berar.[^sec-06-fn-010] Mr. Venkayya is a great authority on Tamil, and he supposes that “the Tamil term “*Ilaḍa*” does not correspond to Sanskrit *Lāṭa* (Gujarat) but to *Virāṭa* (Berar)”. But nowhere did it strike the learned scholars that the order in which the countries are mentioned, prevents us from supposing that either Berar or Gujarat is mentioned. In fact the country mentioned is Southern Rāḍhā. Mr. Venkayya will find, on re-considering the question, that *Dakṣiṇa-Rāḍhā* is a better equivalent for Tamil *Takkaṇa-Lāḍam* than *Dakṣiṇa-Virāṭa*. Immediately after “Takkaṇa-Lāḍam” we have the mention of *Vaṅgāla-deśa*, which all authorities agree as being equal to Vaṅga or Eastern Bengal. No sane man would turn from Orissa to conquer Southern Gujarat or Berar and then return to the East to conquer East Bengal, [p. 72] after which he turns back to the West to defeat Mahīpāla in North Bengal and again rushes to North Gujarat or Berar to conquer it. The more natural explanation is that Rājendra Coḷa defeated Raṇaśūra, the ruler of Southern Rāḍhā, and then passed on through that country to invade Vaṅga. From very early times a part of Bengal has been called Rāḍhā. It occurs in a dated inscription of the Indo-Scythian period as Rārā. This inscription is at present in the Indian Museum, in Calcutta, but it was discovered in Mathurā in the United Provinces. The record mentions the erection of a Jaina image in the year 62 of the Kuṣana era = 150 A.D. at the request of a Jaina monk who was an inhabitant of the country of Rārā.[^sec-06-fn-011] In comparatively modern times the name has been found on two copper-plate inscriptions :—
 
-Calcutta, but it was discovered in Mathurā in the United Provinces. The record mentions the erection of a Jaina image in the year 62 of the Kuṣana era = 150 A.D. at the request of a Jaina monk who was an inhabitant of the country of Rārā.[^sec-06-fn-011] In comparatively modern times the name has been found on two copper-plate inscriptions :—
-
-- (1) The newly discovered grant of the Sena king Vallālasena, found at Sitāhāṭi, near Kāṭwā, in the Burdwān district of Bengal, where we find that the village granted, Vallahiṭṭi, was situated in the North Rāḍhā (*Uttara-Rāḍhā-maṇḍale*).[^sec-06-fn-012] The very name Uttara-Rāḍhā occurs in the Tirumalai inscription as we shall see later on. Besides this, the kings of the Sena dynasty seem to have ruled in the Rāḍhā country :—
-> *Vaṁśe tasy=ābhyudayini sadācāra-caryā-niruḍhi-prauḍhaṁ*  
-> *Rāḍhām-akalita-carair=bhūṣayantocanubhāvaiḥ,*  
+- (1) The newly discovered grant of the Sena king Vallālasena, found at Sitāhāṭi, near Kāṭwā, in the Burdwān district of Bengal, where we find that the village granted, Vāllahiṭṭi, was situated in the North Rāḍhā (*Uttara-Rāḍhā-maṇḍale*).[^sec-06-fn-012] The very name Uttara-Rāḍhā occurs in the Tirumalai inscription as we shall see later on. Besides this, the kings of the Sena dynasty seem to have ruled in the Rāḍhā country :—
+> *Vaṁśe tasy=ābhyudayini sadācāra-caryā-niruḍhi-prauḍhāṁ*  
+> *Rāḍhām-akalita-carair=bhūṣayantoऽnubhāvaiḥ,*  
 > *Śaśvad=viśv-ābhaya-vitaraṇa-sthūla-lakṣyāvalakṣaiḥ kīrtty-ullolaiḥ snapita-viyato*  
 > *jajñire rājaputrāḥ.—verse 3.*[^sec-06-fn-013]
 
@@ -614,7 +613,7 @@ There being a Uttara-Rāḍhā we can say from immediate inference, that there w
 > _[Margin: Conquest of Eastern Bengal.]_
 > _[Margin: Defeat of Mahīpāla and conquest of Northern Rāḍha.]_
 
-At the time of the Coḷa invasion a king named Raṇaśūra was ruling Southern Rāḍhā. In Bengal there is a tradition that a dynasty of kings with the affix Śūra ruled in Bengal before the Pālas. We have no reliable evidence for this. But three kings of this family, at least with the word Śūra affixed to their names, have been mentioned in epigraphs. These are: Raṇaśūra, of the Tirumalai inscription; Lakṣmīśūra, a king of a division of Bengal named Apara-Mandāra, a contemporary of Rāmapāla, who was the headman of all feudatories of Forest lands (*samastāṭavika-sāmanta- cakra-cuḍāmaṇiḥ*); a man named Damaśūra, who is mentioned in a newly-discovered inscription of the time of Gopāla III, found at Manda in the Rājshāhi district of Bengal. After conquering Southern Rāḍhā, the Coḷa king did not proceed to subdue the northern portion of it, but on the other hand, passed eastwards towards Vaṅga, [p. 73] which was then ruled by a king named Govinda-Candra. This king has been wrongly identified with a king named Govinda-Candra or Govi-Canda, about whom some songs are current in the State of Kuch-Bihar and the Rungpur district of Bengal. The king of that name mentioned in the Tirumalai inscription is expressly stated to be the King of Eastern Bengal, and so there is very little chance of identifying him with the local hero of Rungpur. After conquering Eastern Bengal, Rājendra Coḷa turned towards the West and faced Mahīpāla, who had been rightly identified by the late Dr. Kielhorn with the Pāla king Mahīpāla I, who was defeated. The inscription is so worded that one at once understands that by defeating Mahīpāla, the king was able to reach “*Uttira-Lāḍam*” and the Ganges. *Uttira-Lāḍam* for the same reasons as have been stated above in the case “*Takkaṇa-Lāḍam*” should be taken to be Northern Rāḍhā, which is actually mentioned as a maṇḍala in the Sitāhāti grant of Vallālasena. Moreover there is no evidence to prove that Berar or Virāṭa was divided into two parts at any time. Again from Bengal Rājendra Coḷa reached Uttara-Rāḍha and after that the Ganges. It is a far cry from Berar to the Ganges, but the sacred river which added lustre to the conquest of Rājendra Coḷa I in the eyes of the Southern people actually forms the Northern boundary of Rāḍha. The divisions of Bengal across the great river are known as Mithilā and Vārendra, the latter of which is mentioned in the Rāma-carita,[^sec-06-fn-015] and at least three copper-plates. So now it is clear that the Ganges formed the Northern boundary of the conquest of Rajendra Coḷa I. Curiously enough he did not attempt to cross the Ganges to the other side. The Tirumalai inscription being a *Praśasti* does not mention such details. But the desired details are supplied by an ancient manuscript discovered by Mahāmahopādhyāya Hara Prasāda Śāstrī and now in the library of the Asiatic Society of Bengal. In 1893 the Mahāmahopādhyāya published notes on a find of ancient Sanskrit manuscripts among which was a drama named Caṇḍa-Kauśika, by Ārya Kṣemīśvara. This play was enacted before the king by his order, and it contains a verse in which the king Mahīpāla I is compared with Candragupta and a people named Karṇāṭakas, to the Nandas. So this contemporary work gives the credit of defeating the Karṇāṭakas to Mahīpāla I. The Karṇāṭakas seem to be the southerners who invaded Bengal under Rājendra Coḷa I. It appears that though Mahīpāla I was defeated by Rājendra Coḷa when he crossed into Rāḍhā from East Bengal, he prevented him from crossing the Ganges into Varendra or Northern Bengal, and so the Coḷa conqueror had to turn back from the banks of the Ganges. The manuscript on which Mahāmahopādhyāya Hara Prasāda Śāstrī relies is not a modern one, as it was copied in 1331 <span class="sc">a.d.</span>[^sec-06-fn-016] The invasion of the Coḷa king did not change the political divisions of the country, but it left one permanent mark in the shape of a body of settlers, who occupied the thrones of Bengal and Mithilā as the Sena and Karṇāta dynasties during the latter days of the Pālas. The Coḷa invasion took place, as has been stated above, before the thirteenth [p. 74] year of the king, i.e. 1025 <span class="sc">A.D.</span> The very next year we find that the Wheel of Law at Benares is being repaired, and a new temple (*Gandha-kuṭī*) built by the brothers Sthirapāla and Vasantapāla under the orders of the king.
+At the time of the Coḷa invasion a king named Raṇaśūra was ruling Southern Rāḍhā. In Bengal there is a tradition that a dynasty of kings with the affix Śūra ruled in Bengal before the Pālas. We have no reliable evidence for this. But three kings of this family, at least with the word Śūra affixed to their names, have been mentioned in epigraphs. These are: Raṇaśūra, of the Tirumalai inscription; Lakṣmīśūra, a king of a division of Bengal named Apara-Mandāra, a contemporary of Rāmapāla, who was the headman of all feudatories of Forest lands (*samastāṭavika-sāmanta- cakra-cuḍāmaṇiḥ*); a man named Damaśūra, who is mentioned in a newly-discovered inscription of the time of Gopāla III, found at Manda in the Rājshāhi district of Bengal. After conquering Southern Rāḍhā, the Coḷa king did not proceed to subdue the northern portion of it, but on the other hand, passed eastwards towards Vaṅga, [p. 73] which was then ruled by a king named Govinda-Candra. This king has been wrongly identified with a king named Govinda-Candra or Govi-Canda, about whom some songs are current in the State of Kuch-Bihar and the Rungpur district of Bengal. The king of that name mentioned in the Tirumalai inscription is expressly stated to be the King of Eastern Bengal, and so there is very little chance of identifying him with the local hero of Rungpur. After conquering Eastern Bengal, Rājendra Coḷa turned towards the West and faced Mahīpāla, who had been rightly identified by the late Dr. Kielhorn with the Pāla king Mahīpāla I, who was defeated. The inscription is so worded that one at once understands that by defeating Mahīpāla, the king was able to reach “*Uttira-Lāḍam*” and the Ganges. *Uttira-Lāḍam* for the same reasons as have been stated above in the case “*Takkaṇa-Lāḍam*” should be taken to be Northern Rāḍhā, which is actually mentioned as a maṇḍala in the Sitāhāṭi grant of Vallālasena. Moreover there is no evidence to prove that Berar or Virāṭa was divided into two parts at any time. Again from Bengal Rājendra Coḷa reached Uttara-Rāḍha and after that the Ganges. It is a far cry from Berar to the Ganges, but the sacred river which added lustre to the conquest of Rājendra Coḷa I in the eyes of the Southern people actually forms the Northern boundary of Rāḍha. The divisions of Bengal across the great river are known as Mithilā and Vārendra, the latter of which is mentioned in the Rāma-carita,[^sec-06-fn-015] and at least three copper-plates. So now it is clear that the Ganges formed the Northern boundary of the conquest of Rajendra Coḷa I. Curiously enough he did not attempt to cross the Ganges to the other side. The Tirumalai inscription being a *Praśasti* does not mention such details. But the desired details are supplied by an ancient manuscript discovered by Mahāmahopādhyāya Hara Prasāda Śāstrī and now in the library of the Asiatic Society of Bengal. In 1893 the Mahāmahopādhyāya published notes on a find of ancient Sanskrit manuscripts among which was a drama named Caṇḍa-Kauśika, by Ārya Kṣemīśvara. This play was enacted before the king by his order, and it contains a verse in which the king Mahīpāla I is compared with Candragupta and a people named Karṇāṭakas, to the Nandas. So this contemporary work gives the credit of defeating the Karṇāṭakas to Mahīpāla I. The Karṇāṭakas seem to be the southerners who invaded Bengal under Rājendra Coḷa I. It appears that though Mahīpāla I was defeated by Rājendra Coḷa when he crossed into Rāḍhā from East Bengal, he prevented him from crossing the Ganges into Varendra or Northern Bengal, and so the Coḷa conqueror had to turn back from the banks of the Ganges. The manuscript on which Mahāmahopādhyāya Hara Prasāda Śāstrī relies is not a modern one, as it was copied in 1331 <span class="sc">a.d.</span>[^sec-06-fn-016] The invasion of the Coḷa king did not change the political divisions of the country, but it left one permanent mark in the shape of a body of settlers, who occupied the thrones of Bengal and Mithilā as the Sena and Karṇāta dynasties during the latter days of the Pālas. The Coḷa invasion took place, as has been stated above, before the thirteenth [p. 74] year of the king, i.e. 1025 <span class="sc">A.D.</span> The very next year we find that the Wheel of Law at Benares is being repaired, and a new temple (*Gandha-kuṭī*) built by the brothers Sthirapāla and Vasantapāla under the orders of the king.
 
 > _[Margin: The struggle with the Cedi Empire.]_
 > _[Margin: Conquest of Mithilā.]_
@@ -625,7 +624,7 @@ In the year 1020 <span class="sc">A.D.</span> Gāṅgeyadeva was in possession o
 
 > *Saṁvat 1076 āṣāḍha badi 4 mahārājādhirāja puṇyāvaloka-somavaṁśodbhava-Gau-ḍadhvaja-Śrīmad-Gāṅgeyadeva-bhujyamāna Tīrabhuktau kalyāṇavijayarājye.*[^sec-06-fn-020]
 
-Very soon after Benares passed into the hands of the Cedis. Karṇṇadeva, the son of Gāṅgeyadeva, was in possession of Benares in 1042 <span class="sc">A.D.</span> (Kalacuri-Cedi year 793).[^sec-06-fn-021] Tīrabhukti or Mithilā was never recovered by the Pālas. The only Pāla records referring to this Province are the Bhāgalpur grant of Nārāyaṇapāla and the Imādpur image inscription of Mahīpāla I.
+Very soon after Benares passed into the hands of the Cedīs. Karṇṇadeva, the son of Gāṅgeyadeva, was in possession of Benares in 1042 <span class="sc">A.D.</span> (Kalacuri-Cedī year 793).[^sec-06-fn-021] Tīrabhukti or Mithilā was never recovered by the Pālas. The only Pāla records referring to this Province are the Bhāgalpur grant of Nārāyaṇapāla and the Imādpur image inscription of Mahīpāla I.
 
 > _[Margin: Successor and length of reign]_
 
@@ -637,7 +636,7 @@ Mahīpāla I was succeeded by his son Nayapāla, who is called Nyāyapāla on th
 <!-- page: 45 | folio: 75 -->
 The date next in order is to be found in a manuscript of the same work, collected by Mahāmahopādhyāya Hara Prasāda Śāstrī, for the Asiatic Society of Bengal. The reading of the colophon as revised by the late Dr. Theodor Bloch runs as follows:—
 
-> *Deyadharmmeyaṁ pravaramahāyānayāyinaḥ Tāḍivāḍi-Mahāvihārīya āvasthi- tena Śākyācārya-sthavira-Sādhuguptasya yad = atra puṇyaṁ = tad = bhavatv = ācāry = opādhyāya-mātā-pitṛ-puraṅgamaṁ kṛtvā sakala-satva-rāśer = anu- ttara-jñāna phal = āvāptaya iti. Paramabhaṭṭāraka-Mahārājādhirāja-Para- meśvara-Paramasaugata Śrīmad-Vigrahapāladeva-pādānudhyāta Parama- bhaṭṭāraka-Mahārājādhirāja-Parameśvara-Paramasaugata Śrīman = Mahīpā- ladeva-pravarddhamāna-Kalyāṇavijayarājye ṣaṣṭha-saṁbatsare abhilikhiya- māne yatrāṅke saṁvat 6 Kārttika-Kṛṣṇa-trayodaśyān = tithau maṅgala- vāreṇa bhaṭṭārikā-niṣpāditam = iti || Śrī Nālandāvasthita-Kalyāṇamitra-Cin- tāmaṇikasya likhita iti.*[^sec-06-fn-023]
+> *Deyadharmmeyaṁ pravaramahāyānayāyinaḥ Tāḍivāḍi-Mahāvihārīya āvasthi- tena Śākyācārya-sthavira-Sādhuguptasya yad = atra puṇyan = tad = bhavatv = ācāry = opādhyāya-mātā-pitṛ-puraṅgamaṁ kṛtvā sakala-satva-rāśer = anu- ttara-jñāna phal = āvāptaya iti. Paramabhaṭṭāraka-Mahārājādhirāja-Para- meśvara-Paramasaugata Śrīmad-Vigrahapāladeva-pādānudhyāta Parama- bhaṭṭāraka-Mahārājādhirāja-Parameśvara-Paramasaugata Śrīman = Mahīpā- ladeva-pravarddhamāna-Kalyāṇavijayarājye ṣaṣṭha-sambatsare abhilikhyamāne yatrāṅke saṁvat 6 Kārttika-Kṛṣṇa-trayodaśyān = tithau maṅgala- vāreṇa bhaṭṭārikā-niṣpāditam = iti || Śrī Nālandāvasthita-Kalyāṇamitra-Cin- tāmaṇikasya likhita iti.*[^sec-06-fn-023]
 
 This colophon proves that in the sixth year of Mahīpāla Nālanda was in his possession, and thus a part at least of Magadha was included in his dominions. Next in order comes an inscription incised on the pedestal of an image of Buddha, in the attitude of touching the earth (*Bhūmisparśa mudrā*). This image is now being worshipped as one of the five Pāṇḍus, in a small shrine just in front of the entrance of the great temple at Bodh-Gayā. The inscription consists of three lines, in an imperfect state of preservation, the first part of each line having lost a number of letters. It is dated in the eleventh year of the reign of Mahīpāla, presumably the first, as the letters still show signs of acute angles at their lower extremities. It has been referred to by Cunningham.[^sec-06-fn-024] The text runs :—
 
@@ -650,7 +649,7 @@ The name of the donor of the two temples (*Gandha-Kūṭidvaya*) and the image i
 
 
 <!-- page: 46 | folio: 76 -->
-The conquest of Northern Bengal must have taken place some years earlier. In his ninth year Mahīpāla granted the village of Kuraṭapallikā, with the exception of Cuṭapallikā, in the Gokalikā *maṇḍala*, Koṭivarṣa *viṣaya* of the Pauṇḍravarddhana *bhukti* to a Brāhmaṇa named Kṛṣṇādityaśarman. It has been proved by another inscription, the Maṇahali grant of Madanapāla, that the Koṭivarṣa *viṣaya* was situated in Northern Bengal, as both inscriptions have been discovered in the Dinājpur district.[^sec-06-fn-026] An inscription incised on the pedestal of a colossal image of Buddha, still in situ, at Tetrawan, an ancient site six miles from Bihār in the Patna District of Bengal, contains the name of Mahīpāla, the rest having become illegible.[^sec-06-fn-029] Most probably it was dedicated during the reign of Mahīpāladeva. The images discovered at Imādpur in the Muzaffarpur district of Bengal in 1881 were most probably dedicated in the 48th year of Mahīpāla I,[^sec-06-fn-027] as Mahīpāla II had a very short reign. The 48th year of Mahīpāla I must have fallen before 1020 <span class="sc">A.D.</span>, as in that year the Cedi Emperor Gāṅgeyadeva was in possession of Tīrabhukti or Tirhut. The last inscription of Mahīpāla is the Sarnath inscription of the Vikrama year 1083. This inscription was either posthumous, or incised when the city of Benares had passed from the hands of the Pālas to those of the Cedis. The repair of the Wheel of Law and the building of the temple seem to have begun some time before and the work was completed either after Mahīpāla's death or in his last year, when he had lost Benares and Tirhut. Mahīpāla was succeeded by his son Nayapāla, called Nyāyapāla by Mahāmahopādhyāya Hara Prasāda Śāstri, on some unknown authority. His minister's name was Vāmaṇabhaṭṭa, who is the Dūtaka of the Bangarh grant of this king called the Dinājpur grant by Dr. Kielhorn.
+The conquest of Northern Bengal must have taken place some years earlier. In his ninth year Mahīpāla granted the village of Kuraṭapallikā, with the exception of Cuṭapallikā, in the Gokalikā *maṇḍala*, Koṭivarṣa *viṣaya* of the Pauṇḍravarddhana *bhukti* to a Brāhmaṇa named Kṛṣṇādityaśarman. It has been proved by another inscription, the Maṇahali grant of Madanapāla, that the Koṭivarṣa *viṣaya* was situated in Northern Bengal, as both inscriptions have been discovered in the Dinājpur district.[^sec-06-fn-026] An inscription incised on the pedestal of a colossal image of Buddha, still in situ, at Tetrawan, an ancient site six miles from Bihār in the Patna District of Bengal, contains the name of Mahīpāla, the rest having become illegible.[^sec-06-fn-027] Most probably it was dedicated during the reign of Mahīpāladeva. The images discovered at Imādpur in the Muzaffarpur district of Bengal in 1881 were most probably dedicated in the 48th year of Mahīpāla I,[^sec-06-fn-028] as Mahīpāla II had a very short reign. The 48th year of Mahīpāla I must have fallen before 1020 <span class="sc">A.D.</span>, as in that year the Cedi Emperor Gāṅgeyadeva was in possession of Tīrabhukti or Tirhut. The last inscription of Mahīpāla is the Sarnath inscription of the Vikrama year 1083. This inscription was either posthumous, or incised when the city of Benares had passed from the hands of the Pālas to those of the Cedis. The repair of the Wheel of Law and the building of the temple seem to have begun some time before and the work was completed either after Mahīpāla's death or in his last year, when he had lost Benares and Tirhut. Mahīpāla was succeeded by his son Nayapāla, called Nyāyapāla by Mahāmahopādhyāya Hara Prasāda Śāstri, on some unknown authority. His minister's name was Vāmaṇabhaṭṭa, who is the Dūtaka of the Bangarh grant of this king called the Dinājpur grant by Dr. Kielhorn.
 
 > _[Margin: Nayapāla Acc. 1025—30 <span class="sc">A.D.</span>]_
 
@@ -658,14 +657,14 @@ Nayapāla succeeded the throne of the Pālas some time between 1025—30 <span c
 
 > *Tasmin=vāsava-vandhutām=upagate rājye ca kuly=ākule*  
 > *Magnasvāmini tasya vandhur=Udayādityo-bhavad-bhūpatiḥ*  
-> *Yen=oddhṛtya mahārṇṇav=opama-mīlat=Karṇṇāṭa-Karṇṇa-prabhum=urvvīpālakadarthitām bhuvam=imāṁ Śrīmad-Varāhāyitām—verse* 32.[^sec-06-fn-030]
+> *Yen=oddhṛtya mahārṇṇav=opama-mīlat=Karṇṇāṭa-Karṇṇa-prabhum=urvvīpālakadarthitām bhuvam=imāṁ Śrīmad-Varāhāyitām—verse* 32.[^sec-06-fn-029]
 
 According to the Bheraghat inscription of Alhaṇadevī, we find:—
 
 > *Pāṇḍyaś=caṇḍimatām=mumoca Muralas=tatyāja garvva-grahaṁ*  
 > *Kuṅgaḥ sadgatim=ājagāma cakape Vaṅgaḥ Kaliṅgaiḥ saha*,  
-> *Kīra Kiravadāsa pañjaragṛhe Hūṇaḥ praharṣaṁ jahau*  
-> *Yasmin=rājani Śaurya-bibhrama bharaṁ vibhraty-apūrvva-prabhe—verse* 12.[^sec-06-fn-028]
+> *Kīra Kīravadāsa pañjaragṛhe Hūṇaḥ praharṣaṁ jahau*  
+> *Yasmin=rājani Śaurya-bibhrama bharaṁ vibhraty-apūrvva-prabhe—verse* 12.[^sec-06-fn-030]
 
 
 <!-- page: 47 | folio: 77 -->
@@ -675,9 +674,9 @@ Karṇṇadeva is said to have subdued or held in check the Pāṇḍyas, Murala
 > *na yuktam=iha te tvaṁ Gauḍa garvvan=tyaja*,  
 > *m=aivaṁ Gurjjara garjja Kīra nibhṛto varttasva sevā-gatān=itthaṁ yasya mitho-virodhi-nṛpatīn dvāstho vininye janaḥ.—L.* 11—12.[^sec-06-fn-031]
 
-According to the Cedi inscriptions Karṇṇa subdued or defeated the king of Gauḍa, whoever he might be. Mr. Monmohan Cakravartti first of all pointed out mentions of a war between Nayapāla and the king of Karṇya. The term “king of Karṇya” seems to be a translation of the Sanskrit word “Karṇarāja,” “the king Karṇa.” The form Karṇya seems to be a mistake.[^sec-06-fn-032] In his article on the Kṛṣṇadvārikā temple inscription of Nayapāla Mr. Cakravartti has pointed out that Atīśa mediated between Nayapāla and the king of Karṇya about the year 1035 <span class="sc">A.D.</span> So the Cedi Emperor Karṇadeva, who is in reality the same person as the king of Karṇya of Tibetan literature, must have invaded Magadha some time before 1035 <span class="sc">A.D.</span>[^sec-06-fn-033] The incidents of the campaign are mentioned in Rai Śarat Candra Dās Bahadur's article on the Life of Atīśa :—
+According to the Cedī inscriptions Karṇṇa subdued or defeated the king of Gauḍa, whoever he might be. Mr. Monmohan Cakravartti first of all pointed out mentions of a war between Nayapāla and the king of Karṇya. The term “king of Karṇya” seems to be a translation of the Sanskrit word “Karṇarāja,” “the king Karṇa.” The form Karṇya seems to be a mistake.[^sec-06-fn-032] In his article on the Kṛṣṇadvārikā temple inscription of Nayapāla Mr. Cakravartti has pointed out that Atīśa mediated between Nayapāla and the king of Karṇya about the year 1035 <span class="sc">A.D.</span> So the Cedi Emperor Karṇadeva, who is in reality the same person as the king of Karṇya of Tibetan literature, must have invaded Magadha some time before 1035 <span class="sc">A.D.</span>[^sec-06-fn-033] The incidents of the campaign are mentioned in Rai Śarat Candra Dās Bahadur's article on the Life of Atīśa :—
 
-> _[Margin: Karṇadeva, the Cedi, invades Magadha.]_
+> _[Margin: Karṇadeva, the Cedī, invades Magadha.]_
 
 > “During Atīśa’s residence at Vajrasena a dispute having risen between the two, Nayapāla, king of Magadha, and the Tirthika, king of Karṇya of the West, the latter made
 
@@ -689,27 +688,27 @@ Nayapāla must have reigned at least fifteen years as two of his inscriptions we
 
 Nayapāladeva. The verses were composed by a veterinary named Sahadeva and the engraving was done by the artisan Saṭṭasoma, son of Adhipasoma. The second inscription was discovered by Mr. Parameśvar Dayāl, then Court of Wards Head Clerk in Gayā, in 1884, inside the small temple of Narasiṁha in the Viṣṇupāda compound. It was pointed out by him to Mr. Cakravartti,[^sec-06-fn-035] and to the late Dr. [p. 78] Bloch in 1902.[^sec-06-fn-036]  But as this inscription has never been properly edited I am taking this opportunity of transcribing it :—
 
-> (1) *Oṁ  Lakṣmīś=cirañ=jayati  vāri-nidher-aneka-manthā-kulād-adhigatā  puruṣottamasya* ; *Snihyat=tirovalita-sammada ghūrṇṇamāna-netrāvalokana niras-ta-samasta vighnā* ॥  
+> (1) *Oṁ  Lakṣmīś=cirañ=jayati  vāri-nidher-aneka-manthā-kulād-adhigatā  puruṣottamasya* । *Snihyat=tirovalita-sammada ghūrṇṇamāna-netrāvalokana nirasta-samasta vighnā* ॥  
 > (2) *S=eyaṁ vrahmapurī Gay=eti jagati khyātā svayaṁ vedhasā sthātuṁ brahmavidāṁ pur=īva ghaṭitā mokṣasya saukhyasya ca* । *vrumaḥ kiñ=ca bhavanti yatra*  
 > *pitaraḥ pretā*-  
 > (3) *-layāvāsinaḥ  pādaspṛṣṭa-jala-pradāna-vidhinā  nāk=āṅganā-nāyakāḥ* ॥ *Asyāṁ*  
-> *vabhūva  purī vakragati-dvijihva-samrāḍ-bhujaṅga-ripur-acyuta-pādasevī* । *yo*  
+> *vabhūva  puri vakragati-dvijihva-samrāḍ-bhujaṅga-ripur-acyuta-pādasevī* । *yo*  
 > (4) *nāma viṣṇur-rathavad* [^sec-06-fn-037]-*dvijarājavaryaḥ prītyā satāṁ ca Paritoṣa iti prasiddhaḥ* ॥  
 > *Tasmād=vidher=iva vabhūva sanatkumāraḥ Śrī Sūdrako vimala-vuddir=anekavidyaḥ* ।  
 > (5) *Bhūy-opi yena vidhin=aiva kṛtā Gay=eyaṁ vāhvor-valena suciraṁ paripālitā*  
 > *ca* ॥ *Tasmād=ajāyata sutaḥ sutavad=dvijānāṁ yo-bhūt suvismaya-rasāvaha-kartaka-*[^sec-06-fn-038]  
 > (6) *ś=ca* ॥ *Viśvāpakāraka-nirākṛtaye-vatīrṇṇaḥ Śrī Viśvarūpa iti kīrttita viśvarūpaḥ* ॥ *Yaṁ prāpya c=ārthijana-vṛndam-akalpa-dānam=āpurbhavat* [^sec-06-fn-039] *pulakajālam—ana*-  
 > (7) *-nta-modaṁ* । *Sphīti-sphurad=dhana-kṛtārthatayā durāpa-cintāmaṇi-grahaṇakaṁ*  
-> *na kadāpi dadhmau* ॥ *Yen=āsurāri-caritena mahodayena yanti rasātalam-iv-āvani*-  
-> (8) *-r=uddhṛt-eyaṁ  Śrī-mad-Gayā-kali-mala-dvija-rāja-pakṣa-saṁkṣobha-kampita-tanur=bhuja-vikrameṇa* ॥ *Yasmai  viśuddha-caritāya  nisagra* [^sec-06-fn-040]-*śauryarāśipriyāya vi*-  
+> *na kadāpi dadhmau* ॥ *Yen=āsurāri-caritena mahodayena yantī rasātalam-iv-āvani*-  
+> (8) *-r=uddhṛt-eyaṁ  Śrī-mad-Gayā-kali-mala-dvija-rāja-pakṣa-saṁkṣobha-kampita-tanur=bhuja-vikrameṇa* ॥ *Yasmai  viśuddha-caritāya  nisagra* [^sec-06-fn-040]-*sauryarāśi-priyāya vi*-  
 > (9) *-nay-āmala-bhūṣaṇāya  āvālyataḥ prabhṛti deva-manuṣya-loko vaddhāñjaliś=cirataraṁ spṛhayāṁ cakāra* ॥ *Ten=emāñ=ca GADĀDHAR=ĀDI-nilayavyājena*  
 > *tāḥ kī-*[^sec-06-fn-041]  
-> (10) *kīrttayaḥ śvetaṁśor=iva raśmayaḥ sughaṭitā*[*ḥ*] *santāpa-śāntyai sadā  Yatrāmbhonidhi vīcivad=daśadiśāṁ prakṣālan-aikacchatāḥ pātāla-prativāsi-ghora-timi*-  
-> (11) *-ra-pradhvaṁsa-dīpā iva* ॥ *Etāḥ santu Gayāpurī sutaruṇī bhūṣāvalī kīrttayo yāvac*  
+> (10) *kīrttayaḥ svetaṅśor=iva raśmayaḥ sughaṭitā*[*ḥ*] *santāpa-śāntyai sadā  Yatrāmbhonidhi vīcivad=daśadiśāṁ prakṣālan-aikacchaṭāḥ pātāla-prativāsi-ghora-timi*-  
+> (11) *-ra-pradhvansa-dīpā iva* ॥ *Etāḥ santu Gayāpurī sutaruṇī bhūṣāvalī kīrttayo yāvac*  
 > *=candra-divākarau ca gaganaṁ Śri-viśvarūp-āhvay.ḥ  Kartāsāṁ ca tathā pu*-  
 > (12) *-rāṇa-puruṣān rājño-pi  dhikkṛtya sad-yen-ākasmika-vismay-aika-rasiko loko*  
-> *muhur=murcchitaḥ* ; *Dākṣiṇyād=uparuddhena prītis-timita cetasā* । *Praśastir-e*-  
-> (13) *-ṣā  vihitā  VAIDYA  ŚRI-VAJRAPAṆINĀ* । *Vijñāna-kauśal-ollāsa-jāta-naipuṇa karmmaṇā . praśastir = eṣā likhitā Sarvvānandena dhīmatā* । *Kṣī-rāmbho-nidhi- mekha*-  
+> *muhur=murcchitaḥ* । *Dākṣiṇyād=uparuddhena prītis-timita cetasā* । *Praśastir-e*-  
+> (13) *-ṣā  vihitā  VAIDYA  ŚRĪ-VAJRAPAṆIṆĀ* । *Vijñāna-kauśal-ollāsa-jāta-naipuṇa karmmaṇā . praśastir = eṣā likhitā Sarvvānandena dhīmatā* । *Kṣīrāmbho-nidhi-mekha*-  
 > (14) *-lā-maṇi-guṇ-ālaṁkāritāyā bhuvo bharttuḥ ŚRI-NAYAPĀLA-DEVA-nṛpate*  
 > *rājñāśrīyaṁ vibhrataḥ saṁvṛtte tarasaiva PAÑCA-DAŚAME RĀJYASYA*  
 > *SAMVATSARE kīrttiḥ siddhim = upāgatā bhagavataḥ*  
@@ -728,22 +727,22 @@ The Kṛṣṇa-Dvārikā temple inscription referred to above also records the 
 
 The modern temple of Kṛṣṇa-dvārikā is built almost entirely of ancient materials and it is quite possible that these materials are the only remnants of Viśvāditya or Viśvarūpa's temple. The only other existing record of Nayapāla is in the colophon of a manuscript of Pañca-rakṣā in the collection of the Cambridge University :—
 
-> *Deyadharmosyam = pravara-mahāyāna-yāyinyāḥ Paramopāsikā-Rājñī-Uddākāyā yad=atra puṇyan=tad=bhavatv=ācāry=opādhyāya-matā-pitṛ (pūrvvaṅgama) ṅ-kṛtvā sakala-satva-rāśer-anuttara-jñān=āvāptaya iti || Paramasaugata-Mahārājādhirāja-Parameśvara Śrī-man=Nayapāladeva-pravarddhamāna-vijayarājye saṁvat* 14 *Caitra dine* 27 *likhit-eyam bhaṭṭārikā iti.*[^sec-06-fn-043]
+> *Deyadharmosyam = pravara-mahāyāna-yāyinyāḥ Paramopāsikā-Rājñī-Uddākāyā yad=atra puṇyan=tad=bhavatv=ācāry=opādhyāya-matā-pitṛ (pūrvvaṅgama) ṅ-kṛtvā sakala-satva-rāśer-anuttara-jñān=āvāptaya iti || Paramasaugata-Mahārājādhirāja-Parameśvara Śrī-man=Nayapāladeva-pravarddhamāna-vijayarājye saṁvat* 14 *Caitra dine* 27 *likhit-eyaṁ bhaṭṭārikā iti.*[^sec-06-fn-043]
 
 Nothing else is known about Nayapāla and his relations. He was succeeded by his son Vigrahapāla III. Nayapāla's reign most probably did not extend beyond the date of the Kṛṣṇa-dvārikā and Gadādhara temple inscriptions and seems to have come to an end some time between 1045 and 1050 <span class="sc">a.d.</span> It is said in a commentary on Cakradatta that Cakrapāṇi Datta was the kitchen superintendent of king Nayapāla.[^sec-06-fn-044]
 
 > _[Margin: Vigrahapāla III : his war.]_
 > _[Margin: Marriage with Princess Yauvanaśrī, the daughter of Karṇa.]_
 
-At the beginning of his reign Vigrahapāla came into conflict with his father's antagonist, the Cedi Emperor Karṇa. Karṇa's power at that time was at its lowest ebb. He was being constantly defeated by the neighbouring princes. He had a very long reign, his own with that of his son having covered a century. In the height of his power he had overrun the whole of Northern India but in his old age he suffered many reverses. He was defeated by the Candella Kīrttivarman,[^sec-06-fn-045] by Udayāditya of Mālava,[^sec-06-fn-046] by Bhīmadeva I of Anahilvād, who is eulogised by the grammarian Hema-candra for having defeated Karṇa in battle,[^sec-06-fn-047] and by the Western Cālukya Someśvara I, which is recorded by the poet [p. 80] Bilhaṇa in his *Vikramāṅka-deva Carita*, where Karṇa is mentioned as the god of death to the Lord of the Kalañjara mountains, e.g. the Caṇḍellas.[^sec-06-fn-048] In his last war with the Pālas, Karṇa was defeated and sued for peace. Vigrahapāla III married the aged king's daughter Yauvanaśrī. Karṇa's war with Vigrahapāla and his subsequent relationship was made known to us by Mahāmahopādhyāya Hara Prasāda Śāstri's unique discovery, "The Rāmacarita of Sandhyākara-nandī":—
+At the beginning of his reign Vigrahapāla came into conflict with his father's antagonist, the Cedi Emperor Karṇa. Karṇa's power at that time was at its lowest ebb. He was being constantly defeated by the neighbouring princes. He had a very long reign, his own with that of his son having covered a century. In the height of his power he had overrun the whole of Northern India but in his old age he suffered many reverses. He was defeated by the Candella Kīrttivarman,[^sec-06-fn-045] by Udayāditya of Mālava,[^sec-06-fn-046] by Bhīmadeva I of Anahilvād, who is eulogised by the grammarian Hema-candra for having defeated Karṇa in battle,[^sec-06-fn-047] and by the Western Cālukya Someśvara I, which is recorded by the poet [p. 80] Bilhaṇa in his *Vikramāṅka-deva Carita*, where Karṇa is mentioned as the god of death to the Lord of the Kalañjara mountains, e.g. the Caṇḍellas.[^sec-06-fn-048] In his last war with the Pālas, Karṇa was defeated and sued for peace. Vigrahapāla III married the aged king's daughter Yauvanaśrī. Karṇa's war with Vigrahapāla and his subsequent relationship was made known to us by Mahāmahopādhyāya Hara Prasāda Śāstrī's unique discovery, "The Rāmacarita of Sandhyākara-nandi":—
 
 > *Anyatra | yo Vigrahapālo Yauvanaśriyā Karṇasya rājñaḥ sutayā saha Kṣauṇīmudūḍhavān | Sahasā valen = āvito-rakṣito raṇajitaḥ saṅgrāmajitaḥ Karṇo Dāhal*  
 > *= ādhipatir = yena | Raṇajita eva parantu rakṣito na unmūlitaḥ—Commentary*  
 > *on verse* 9.[^sec-06-fn-049]
 
-It is evident from the commentary the Karṇa suffered a severe reverse at the hands of his future son-in-law and that though defeated he was not "uprooted," i.e. deprived of his kingdom. It may be that the proud Cedi gave his daughter to Vigrahapāla to avert a calamity. Vigrahapāla III probably had a very short reign, not exceeding thirteen years. Had he lived longer the Pāla Empire may have lasted for some time. His sons were continually quarrelling among themselves and reigned for very short periods. The subordinate princes eagerly availed themselves of the opportunity of throwing off the yoke and the Pāla princes never gained the opportunity of subjugating the territories lost at this time.
+It is evident from the commentary the Karṇa suffered a severe reverse at the hands of his future son-in-law and that though defeated he was not "uprooted," i.e. deprived of his kingdom. It may be that the proud Cedī gave his daughter to Vigrahapāla to avert a calamity. Vigrahapāla III probably had a very short reign, not exceeding thirteen years. Had he lived longer the Pāla Empire may have lasted for some time. His sons were continually quarrelling among themselves and reigned for very short periods. The subordinate princes eagerly availed themselves of the opportunity of throwing off the yoke and the Pāla princes never gained the opportunity of subjugating the territories lost at this time.
 
-Three inscriptions of Vigrahapāla III have been discovered as yet, of which one is on a copper-plate and the other two on stone. The copper-plate is the well-known one from Āmgachi in the Dinājpur District. The inscription has been edited many times but the first twenty lines edited by the late Prof. Kielhorn[^sec-06-fn-050] and the remaining portion by Dr. A. F. R. Hoernle[^sec-06-fn-051] are the only reliable versions. A fresh edition of this important inscription is very urgently wanted I hope to take up this work ere long and compare it with the Bangarh grant of Mahīpāla I as suggested by Mr. V. A. Smith.[^sec-06-fn-052] The Āmgāchi plate records the grant of half of the village named Brāhmaṇī in the Koṭivarṣa viṣaya of the Pauṇḍravarddhana bhukti to a Brāhmaṇa named Khoddhata-devaśarman on the ninth day of Caitra in the 13th year of the king.[^sec-06-fn-053] On the other two inscriptions of this king, the Akṣayavaṭa inscription is the most important. It was noticed by Cunningham in the third volume of his Reports. The late Dr. Th. Bloch published a summary of its contents but at that time the last lines of the inscription were covered with plaster and so he missed the name of the king and the date. After frequent trials I succeeded in removing the plaster and copying the entire inscription. The central part of the inscription has suffered seriously and is only partly legible. Otherwise the inscription is quite clear. It records the erection of a liṅga (Vaṭeśa) at Akṣayavaṭa and another called Prapitā-maheśvara [p. 81] close by, in the fifth year of the reign of Vigrahapāladeva. As the record has never been properly edited before I do so from the original stone :—
+Three inscriptions of Vigrahapāla III have been discovered as yet, of which one is on a copper-plate and the other two on stone. The copper-plate is the well-known one from Āmgachi in the Dinājpur District. The inscription has been edited many times but the first twenty lines edited by the late Prof. Kielhorn[^sec-06-fn-050] and the remaining portion by Dr. A. F. R. Hoernle[^sec-06-fn-051] are the only reliable versions. A fresh edition of this important inscription is very urgently wanted I hope to take up this work ere long and compare it with the Bangarh grant of Mahīpāla I as suggested by Mr. V. A. Smith.[^sec-06-fn-052] The Āmgāchi plate records the grant of half of the village named Brāhmaṇī in the Koṭivarṣa viṣaya of the Pauṇḍravarddhana bhukti to a Brāhmaṇa named Khoddhata-devaśarman on the ninth day of Caitra in the 13th year of the king.[^sec-06-fn-053] On the other two inscriptions of this king, the Akṣayavaṭa inscription is the most important. It was noticed by Cunningham in the third volume of his Reports. The late Dr. Th. Bloch published a summary of its contents but at that time the last lines of the inscription were covered with plaster and so he missed the name of the king and the date. After frequent trials I succeeded in removing the plaster and copying the entire inscription. The central part of the inscription has suffered seriously and is only partly legible. Otherwise the inscription is quite clear. It records the erection of a liṅga (Vaṭeśa) at Akṣayavaṭa and another called Prapitāmaheśvara [p. 81] close by, in the fifth year of the reign of Vigrahapāladeva. As the record has never been properly edited before I do so from the original stone :—
 
 > (1) Oṁ Oṁ namaḥ Śivāya || *Dayābhāṇḍāgāraṁ niravadhi-jagad-doṣa-vijayi*  
 > *sphuraj = jñāna-jyotiḥ prasara-nihata-dhvānta-nicayaṁ* | *Kim-apy-antaḥ*  
@@ -773,7 +772,7 @@ Three inscriptions of Vigrahapāla III have been discovered as yet, of which one
 > (8) -*lekhanībhiḥ* | *Adyāpi yasya sura-kinnara-gīyamānāṁ devyaḥ śilāsu vijayastutim = ālikhanti* || *Dharmmeṇ = otsvasitaṁ mudā vihasitaṁ saṁloka maryādayā trayyā visphuritaṁ . . . . . .*
 
 > (9) -*ttribhir-jjṛmbhitaṁ|yasmin-āsvāmini sarvvataḥ samudaye tepy-arthinaḥ sāhasaṁ*  
-> *sāndrānandamayaḥ sva-dainya-virahān-nṛtyanti pūrṇṇāśayāḥ* || N = *occaiś-caṇḍa-karo na c = āpi vigata . . . . . .*
+> *sāndrānandamayāḥ sva-dainya-virahān-nṛtyanti pūrṇṇāśayāḥ* || N = *occaiś-caṇḍa-karo na c = āpi vigata . . . . . .*
 
 > (10) *ten-āstaṁ yāti ja lātma bhiḥ pratihato n-ānyair = apūrṇṇo bhavaḥ* | *Jihvāgreṇa*  
 > *vināgasaḥ prati muhūrtt-āpya sthirān-agrahīn-naivāsaṁga-digaṁvar-aika*  
@@ -787,7 +786,7 @@ Three inscriptions of Vigrahapāla III have been discovered as yet, of which one
 > | *yaṁ lavdha . . . . . . ta . . . . āsīt* | *sahasra . . . . sramavirāhana caturdasyām-ārambha-rāma iti yaḥ sphuṭatām = upetaḥ* || *Asyāṁ bhū . . . . . . . . . . . . . . .*
 
 > (13) -*pā dharmmeṇa maryādayā rājya-Śrībhir-alaṁkṛtāḥ punar-amī bhog-aikadā . .*  
-> *. . . . . . Śrī-viśvavidhe (?) eṣa kīrttana-kathā gīya . . . . . . . . . . . . . .*
+> *. . . . . . Śrī-viśvāvidhe (?) eṣa kīrttana-kathā gīya . . . . . . . . . . . . . .*
 
 > (14) r *Kīrtti . . . . tvāṁ vismayakara . . . . . . āpi sauryyād = asau . . . . nta*|*Śrīr-api . . . . . . .*  
 > *ni . . . ddhi punar-īdṛiśī bhavati kiṁ Śrī Viśvarūp = oddhṛta-rekh-eva pratipa . . . . . . .*
@@ -826,9 +825,9 @@ The original stone has suffered very much from the effects of weather so that it
 
 > (2) *S-eyaṁ vrahmapurī Gay-eti jagati khyātā svayaṁ vedhasā sthātuṁ vrahmavidāṁ pur-īva ghaṭitā mokṣasya saukhyasya ca* |
 
-> (3) *Vrumaḥ kiñ-ca bhavanti yatra pitaraḥ pretālaya-vāsinah pāda-spṛṣṭa-jala-pradāna-vidhinā nāk-āṅganā-nāyakāḥ* || (2). *Asyāṁ va-*
+> (3) *Vrumaḥ kiñ-ca bhavanti yatra pitaraḥ pretālaya-vāsinaḥ pāda-spṛṣṭa-jala-pradāna-vidhinā nāk-āṅganā-nāyakāḥ* || (2). *Asyāṁ va-*
 
-> (4) *-bhūva purī vakragati dvijihva samrāṭ-bhujaṅga ripur-acyutā-pādasevī* |  
+> (4) *-bhūva purī vakragati dvijihva samrāṭ-bhujaṅga ripur-acyuta-pādasevī* |  
 > *Yo nāma viṣṇu-rathavad-dvijarāja-varyaḥ prītyā satāṁ ca Pa*
 
 > (5) *-ritoṣa iti prasiddhaḥ* || *Tasmād-vidheriva vabhūva* . . . . . . .
@@ -870,10 +869,10 @@ The Rāmacarita mentions two uncles of Rāmapāla, Mahaṇa or Mathanadeva and h
 [^sec-06-fn-024]: (2) Cunningham, Arch. Surv. Rep., Vol. III, p. 122, No. 9, pl. XXXVII, No. 5.
 [^sec-06-fn-025]: (3) J.A.S.B., Vol. IV, p. 106, No. IV, pl. VI.
 [^sec-06-fn-026]: (1) Ibid, 1893, pt. I, p. 77.
-[^sec-06-fn-027]: (3) Ind. Ant., Vol. XIV, p. 105, note 17.
-[^sec-06-fn-028]: (5) Ibid., p. 11.
-[^sec-06-fn-029]: (2) Arch. Surv. Rep., Vol. III, p. 123.
-[^sec-06-fn-030]: (4) Epi. Ind, Vol. II, p. 185.
+[^sec-06-fn-027]: (2) Arch. Surv. Rep., Vol. III, p. 123.
+[^sec-06-fn-028]: (3) Ind. Ant., Vol. XIV, p. 105, note 17.
+[^sec-06-fn-029]: (4) Epi. Ind, Vol. II, p. 185.
+[^sec-06-fn-030]: (5) Ibid., p. 11.
 [^sec-06-fn-031]: (1) Ind. Ant., Vol. XVIII, p. 217.
 [^sec-06-fn-032]: (2) Jl. Bud. Text Soc., Vol. I, p. 9.
 [^sec-06-fn-033]: (3) J.A.S.B., 1900, pt. I, p. 192.
@@ -923,7 +922,7 @@ After the death of Vigrahapāla III, his eldest son Mahīpāla II ascended the t
 > _[Margin: Rāmapāla is urged by his son and his friends to take the field against Bhīma.]_
 > _[Margin: He obtains aid from the feudatories and his cousin Śivarāja crosses the Ganges and enters the enemy’s country.]_
 
-The mention of Śūrapāla’s accession to the throne or the recognition of his chiefship in the Pāla dominions, may have been omitted by Sandhyākaranandi, either through carelessness, or as not being relevant to his subject. It may also be possible that Śūrapāla was Rāmapāla’s rival for the throne, and though he had succeeded temporarily he was overthrown in the long run and perhaps murdered at the instigation of his younger brother. Nothing is known about the extent of Śūrapāla’s reign or his death. But it is quite certain that he was succeeded by his younger brother Rāmapāla. In the course of time Divvoka had died and was succeeded by his brother Rudoka. Rudoka was succeeded by his son Bhīma, who on his succession, began to harass the people, living in the tract of land, which was still left in the possession of the Pālas.[^sec-07-fn-011] At that time Rāmapāla was in great straits and thought himself to be without friends.[^sec-07-fn-014] But his son and his advisors sought him, and urged him to take the necessary steps, and he regained courage.[^sec-07-fn-017] The author of the Rāmacarita states in another place that he became very anxious to fight with Bhīma.[^sec-07-fn-012] His first step was to travel round the country to propitiate the feudatories and subordinate kings of his father’s kingdom, and he succeeded in gaining over the forest feudatories.[^sec-07-fn-015] During his travels he became convinced that all feudatories were well disposed towards him.[^sec-07-fn-018] By giving away lands along river banks and immense wealth, Rāmapāla succeeded in obtaining horse and foot soldiers and elephants from the feudatories. Śivarāja, the son of his maternal uncle and a Mahāpratīhāra, crossed the Ganges with foot, horse and elephants and entered the enemy’s country.[^sec-07-fn-013] This expedition was undertaken either to reconnoitre the enemy’s position or as a sort of counter raid. Śivarāja so impetuously attacked Varendrī that the viṣayas and grāmas in Bhīma’s country became distressed. Śivarāja began to enquire about the ownership of the lands so that the properties of the gods and the Brāhmaṇas might be protected.[^sec-07-fn-016] He succeeded in driving away Bhīma’s followers from Vārendrī proper[^sec-07-fn-019], and then came back to [p. 86] report to Rāmapāla that his paternal kingdom was free of intruders.[^sec-07-fn-020] Sandhyākara Nandi is silent about the events which followed this raid into Vārendrī. It appears from the second chapter of his work that the effect of Śivarāja's success in Northern Bengal was only temporary, because it became necessary for Rāmapāla to lead another and much bigger army into Northern Bengal, accompanied by his principal feudatories. One particular incident in the life of Rāmapāla has been totally left out by his biographer, which is his enmity and wars with Devarakṣita of Pīṭhī. In the commentary of the 8th verse of the second chapter of his work Sandhyākaraṇandī hints that Mahaṇa, the maternal uncle of Rāmapāla, recovered the kingdom, as the Boar incarnation had recovered the earth in former days. There is no reference to the enmity which Devarakṣita, the Lord of Pīṭhī and of Sindhu, bore towards Rāmapāla, which has become known to us from the Sārnāth inscription of Kumāradevī discovered by Messrs. Marshall and Konow in 1906-7.[^sec-07-fn-021] It is stated there, that Mahaṇa, the King of Aṅga, the venerable maternal uncle of the Kings, conquered Devarakṣita in war, and maintained the glory of Rāmapāla, which rose in splendour, because the obstruction caused by his force was removed:—
+The mention of Śūrapāla’s accession to the throne or the recognition of his chiefship in the Pāla dominions, may have been omitted by Sandhyākaranandi, either through carelessness, or as not being relevant to his subject. It may also be possible that Śūrapāla was Rāmapāla’s rival for the throne, and though he had succeeded temporarily he was overthrown in the long run and perhaps murdered at the instigation of his younger brother. Nothing is known about the extent of Śūrapāla’s reign or his death. But it is quite certain that he was succeeded by his younger brother Rāmapāla. In the course of time Divvoka had died and was succeeded by his brother Rudoka. Rudoka was succeeded by his son Bhīma, who on his succession, began to harass the people, living in the tract of land, which was still left in the possession of the Pālas.[^sec-07-fn-011] At that time Rāmapāla was in great straits and thought himself to be without friends.[^sec-07-fn-012] But his son and his advisors sought him, and urged him to take the necessary steps, and he regained courage.[^sec-07-fn-013] The author of the Rāmacarita states in another place that he became very anxious to fight with Bhīma.[^sec-07-fn-014] His first step was to travel round the country to propitiate the feudatories and subordinate kings of his father’s kingdom, and he succeeded in gaining over the forest feudatories.[^sec-07-fn-015] During his travels he became convinced that all feudatories were well disposed towards him.[^sec-07-fn-016] By giving away lands along river banks and immense wealth, Rāmapāla succeeded in obtaining horse and foot soldiers and elephants from the feudatories. Śivarāja, the son of his maternal uncle and a Mahāpratīhāra, crossed the Ganges with foot, horse and elephants and entered the enemy’s country.[^sec-07-fn-017] This expedition was undertaken either to reconnoitre the enemy’s position or as a sort of counter raid. Śivarāja so impetuously attacked Varendrī that the viṣayas and grāmas in Bhīma’s country became distressed. Śivarāja began to enquire about the ownership of the lands so that the properties of the gods and the Brāhmaṇas might be protected.[^sec-07-fn-018] He succeeded in driving away Bhīma’s followers from Vārendrī proper[^sec-07-fn-019], and then came back to [p. 86] report to Rāmapāla that his paternal kingdom was free of intruders.[^sec-07-fn-020] Sandhyākara Nandi is silent about the events which followed this raid into Vārendrī. It appears from the second chapter of his work that the effect of Śivarāja's success in Northern Bengal was only temporary, because it became necessary for Rāmapāla to lead another and much bigger army into Northern Bengal, accompanied by his principal feudatories. One particular incident in the life of Rāmapāla has been totally left out by his biographer, which is his enmity and wars with Devarakṣita of Pīṭhī. In the commentary of the 8th verse of the second chapter of his work Sandhyākaranandi hints that Mahaṇa, the maternal uncle of Rāmapāla, recovered the kingdom, as the Boar incarnation had recovered the earth in former days. There is no reference to the enmity which Devarakṣita, the Lord of Pīṭhī and of Sindhu, bore towards Rāmapāla, which has become known to us from the Sārnāth inscription of Kumāradevī discovered by Messrs. Marshall and Konow in 1906-7.[^sec-07-fn-021] It is stated there, that Mahaṇa, the King of Aṅga, the venerable maternal uncle of the Kings, conquered Devarakṣita in war, and maintained the glory of Rāmapāla, which rose in splendour, because the obstruction caused by his force was removed:—
 
 > *Taṁ jitvā yudhi Devarakṣitam-adhāt Śrī Rāmapālasya.*  
 > *Yo lakṣmīṁ nirjita-vairi-rodhanatayā dedīpyamānodayām.*  
@@ -947,19 +946,18 @@ It was hardly possible for the Pāla Kings after Nayapāla and Vigrahapāla III 
 
 The great event of Rāmapāla's reign was his campaign in Northern Bengal, against the descendants of the rebel Divvoka, in which he was assisted and accompanied by a large number of allies and feudatories.
 
-> _[Margin: Allies and feudatories.]_
-
 A long list of these princes is given, at the beginning of the second Chapter of Sandhyākaranandī's Rāmacarita.
 
+> _[Margin: Allies and feudatories.]_
 > _[Margin: Bhīmaysas of Pīṭhī and Magadha]_
 > _[Margin: Vīraguṇa of the South.]_
 
-Unfortunately very few of the localities mentioned in this list can be identified at present. At the head of the list is the name of Bhīmayaśas, Prince of Pīṭhī and Magadha. This prince is apparently the sucessor of Devarakṣita, as in one of the following verses the commentary describes the defeat of Devarakṣita by Mahaṇa as an already accomplished fact.[^sec-07-fn-029] It may be that Devarakṣita had placed his son Bhīmayaśas on the throne after his defeat by Mahaṇa. The commentary distinctly states, that Bhīmayaśas was Lord of Pīṭhī and Magadha,[^sec-07-fn-028] but in the commentary on the Rāmacarita Mahaṇa is called Lord of Magadha, and Devarakṣita, King of Sindhu and Pīṭhī. Mahaṇa may have been divested of the possession of Magadha by Bhīmayaśas of Pīṭhī, after his defeat of Devarakṣita and the marriage of Mahaṇa's daughter with him. It also appears that though Devarakṣita was the Lord of Pīṭhī and Sindhu, his successor Bhīmayaśas was not. The position of Sindhu is doubtful. Bhīmayaśas is said to have [p. 89] defeated the troops of a king of Kānyakubja, whose name has not been discovered as yet. The position of Pīṭhī is also indicated by this reference. It seems to have been a buffer state between those of Kānyakubja and Gauḍa. The Pratīhāra dynasty was falling, and the kingdom of the proud Gāhaḍavāla was rising on its ruins. It is quite possible that Bhīmayaśas of Pīṭhī assisted Candradeva, the Gāhaḍavāla, to obtain the city of Kānyakubja and to overthrow the last Gurjara-Pratīhāra King. The next prince in the order adopted by Sandhyākara-nandī is Vīraguṇa of the forest of Koṭā, who is also styled "the over-lord of the Southern thrones." But nothing is known about this king.
+Unfortunately very few of the localities mentioned in this list can be identified at present. At the head of the list is the name of Bhīmayaśas, Prince of Pīṭhī and Magadha. This prince is apparently the sucessor of Devarakṣita, as in one of the following verses the commentary describes the defeat of Devarakṣita by Mahaṇa as an already accomplished fact.[^sec-07-fn-028] It may be that Devarakṣita had placed his son Bhīmayaśas on the throne after his defeat by Mahaṇa. The commentary distinctly states, that Bhīmayaśas was Lord of Pīṭhī and Magadha,[^sec-07-fn-029] but in the commentary on the Rāmacarita Mahaṇa is called Lord of Magadha, and Devarakṣita, King of Sindhu and Pīṭhī. Mahaṇa may have been divested of the possession of Magadha by Bhīmayaśas of Pīṭhī, after his defeat of Devarakṣita and the marriage of Mahaṇa's daughter with him. It also appears that though Devarakṣita was the Lord of Pīṭhī and Sindhu, his successor Bhīmayaśas was not. The position of Sindhu is doubtful. Bhīmayaśas is said to have [p. 89] defeated the troops of a king of Kānyakubja, whose name has not been discovered as yet. The position of Pīṭhī is also indicated by this reference. It seems to have been a buffer state between those of Kānyakubja and Gauḍa. The Pratīhāra dynasty was falling, and the kingdom of the proud Gāhaḍavāla was rising on its ruins. It is quite possible that Bhīmayaśas of Pīṭhī assisted Candradeva, the Gāhaḍavāla, to obtain the city of Kānyakubja and to overthrow the last Gurjara-Pratīhāra King. The next prince in the order adopted by Sandhyākara-nandi is Vīraguṇa of the forest of Koṭā, who is also styled "the over-lord of the Southern thrones." But nothing is known about this king.
 
 
 <!-- page: 58 | folio: 88 -->
 
-![Genealogical chart showing the synchronisms and matrimonial alliances of the Gāhaḍavalas of Kanauj, Cikkoras of Pīṭhī, Rāṣṭrakūṭas of Magadha (?), Pālas, Kalacuri-Cedis of Ḍāhala, and Yādvas of East Bengal.](../figures/fig-006_p0058.webp)
+![Genealogical chart showing the synchronisms and matrimonial alliances of the Gāhaḍavālas of Kanauj, Cikkoras of Pīṭhī, Rāṣṭrakūṭas of Magadha (?), Pālas, Kalacuri-Cedis of Ḍāhala, and Yādvas of East Bengal.](../figures/fig-006_p0058.webp)
 
 > _[Margin: Jaya Siṁha of Daṇḍabhūkti.]_
 > _[Margin: Vikrama-Keśarī of Devagrāma in Vāla-valabhī.]_
@@ -971,16 +969,16 @@ Unfortunately very few of the localities mentioned in this list can be identifie
 Dr. Kielhorn's lists of Northern and South Indian Inscriptions do not contain any record which mentions this king of the South. Jaya Siṁha, the Lord of Daṇḍabhukti, seems to have been a man of great importance. The position of Daṇḍabhūkti has already been indicated.[^sec-07-fn-030] It is represented at the present day by the District of Midnapur. So Jaya Siṁha was the march-lord of the South. The commentary very appropriately mentions the defeat of the King Karṇa-keśarī of Utkala by this prince. It is more natural for the King of Orissa to fight with a prince, whose land lay on his border, than with one, whose possessions were separated from his by a belt of mountains and forests. The position of Devagrāma in Vāla-valabhī, the king of which, Vikrama Keśarī, comes next in order, is far less certain. The commentary adds: "Devagrāma-prativaddha-vasudhā-cakravālavālavalabhī-taraṅga-vahala-galahasta-praśasta hastavikramo.''[^sec-07-fn-031] The explanation of this is not quite certain and nothing can be made out beyond what has already been stated by Mahāmahopādhyāya Hara Prasāda Sāstrī. Vikrama Keśarī was the King of Devagrāma and the surrounding country which was washed by the rivers of Vāla-valabhī. Vāla-valabhī has been identified by Pandit Hara Prasāda Sāstrī with Bāgaḍī, one of the five divisions into which Bengal proper was divided before the Muhammadan conquest, but no reliable authority whatsoever can be cited in support of it. The name Vāla-valabhī itself was unknown in Bengal before the discovery of the Bhuvaneśvara prasasti of Bhavadevabhaṭṭa[^sec-07-fn-032] and has not been found anywhere else except the Rāmacarita. There are hundreds of villages in Bengal bearing the name of Devagrāma, and I do not find any reason to confine it to one of them. Even in the Nadiāh district itself there are several Devagrāmas, and so the attempt to identify it with the materials at present at our command is premature. Lakṣmīśūra is said to be the Madhusūdana of another Mandāra and is described as the head of all Forest feudatories "*Samast-āṭavika-sāmanta-cakracuḍāmaṇiḥ*.''[^sec-07-fn-033] The Mandāra mentioned here seems to be the hill of that name at present in the Bhagalpur district of Bihar. Mandāra hill commands the surrounding hilly and forest country to a great distance, and it may be that its king [p. 90] lorded over the Saontals of the Forest. The name of the next prince is suggestive. Śūrapāla is mentioned as being the chief of Kujabaṭī. The Tirumalai inscriptions mention a feudatory of Mahīpāla I, named Dharmmapāla, who ruled over Daṇḍabhūkti.[^sec-07-fn-034] Perhaps these princes belonged to the minor branches of the Imperial Pāla Dynasty. Rudraśikhara of Tailakampa is mentioned as a great warrior. Perhaps Mahāmahopādhyāya Hara Prasāda Śāstrī's identification[^sec-07-fn-035] of Tailakampa with the modern Telkupi[^sec-07-fn-036] in the Manbhum district is correct, but there is no proof in support of it beyond the resemblance in place names.
 
 > _[Margin: Mayagala-siṁha of Ucchāla.]_
-> _[Margin: Pratāpa-siṁha of Ḍekkariya.]_
+> _[Margin: Pratāpa-siṁha of Ḍekkarīya.]_
 
-Mayagala-siṁha of Ucchāla was the king of a country which was partly surrounded by the sea. The commentary mentions "*Aparalohitārṇava*" which means another Red Sea, but it is quite possible that the poet intends to mention the river Brahmaputra which is also known as the *Lauhitya*. Pratāpa-siṁha of Ḍekkariya is also extolled in the commentary as a great warrior. There is nothing in the commentary to indicate the position of Ḍekkariya, but it has been identified by Mahāmahopādhyāya Hara Prasāda Śāstri with the modern village of Ḍhekura or Ḍhekuri in the northern part of the Burdwan District, on the ground of similarity of names.[^sec-07-fn-037] The commentary on the next verse mentions five princes, and among the names of places over which they ruled only two can be identified :—
+Mayagala-siṁha of Ucchāla was the king of a country which was partly surrounded by the sea. The commentary mentions "*Aparalohitārṇava*" which means another Red Sea, but it is quite possible that the poet intends to mention the river Brahmaputra which is also known as the *Lauhitya*. Pratāpa-siṁha of Ḍekkarīya is also extolled in the commentary as a great warrior. There is nothing in the commentary to indicate the position of Ḍekkarīya, but it has been identified by Mahāmahopādhyāya Hara Prasāda Śāstri with the modern village of Ḍhekura or Ḍhekurī in the northern part of the Burdwan District, on the ground of similarity of names.[^sec-07-fn-037] The commentary on the next verse mentions five princes, and among the names of places over which they ruled only two can be identified :—
 
 - (1) Narasiṁhārjjuna, the king of the Kayaṅgala *maṇḍala*;
 - (2) Candārjjuna of Śaṅkaṭagrāma;
 - (3) Vijayarāja of Nidrāvala;
 - (4) Dorapavarddhana of Kauśāmbī; and
 - (5) Soma of Paduvanvā.
-Dorapavarddhana of Kauśāmbi seems to have been a landlord of Varendrī. Kauṣāmbī seems to be the ancient name of the modern Pargana of Kusumba in the Rajshahi District of Bengal. I am indebted to Prof. Jadunath Sarkar of the Patna College for this suggestion. Paduvanvā has been identified by Mahāmahopādhyāya Hara Prasāda Sāstrī with the modern Pabna on the ground of similarity of names.
+Dorapavarddhana of Kauśāmbi seems to have been a landlord of Varendrī. Kauśāmbi seems to be the ancient name of the modern Pargana of Kusumba in the Rajshahi District of Bengal. I am indebted to Prof. Jadunath Sarkar of the Patna College for this suggestion. Paduvanvā has been identified by Mahāmahopādhyāya Hara Prasāda Śāstrī with the modern Pabna on the ground of similarity of names.
 
 > _[Margin: Rāmapāla's son and cousins.]_
 
@@ -1023,7 +1021,7 @@ In his later years Rāmapāla returned to Rāmāvatī, leaving the cares of the 
 > _[Margin: Length of reign. Successors.]_
 > _[Margin: Ministers.]_
 
-Tārānātha states that Rāmapāla reigned for forty-six years.[^sec-07-fn-053] This is not impossible as the Caṇḍīmau image was dedicated in the 42nd year of the king. We know the names of three of the sons of Rāmapāla, two of whom succeeded him on the throne. His eldest son, Rājyapāla, was an able man, and assisted his father in gaining the throne, in the wars in Vārendrī, and finally in administering the kingdom in his father's old age. He seems to have died during the lifetime of his father, as we find that Kumārapāla succeeded after Rāmapāla's death. His third son, Madanapāla, ascended the throne after the death or dethronement of his brother Kumārapāla's son Gopāla III. We know nothing about the other relations of Rāmapāla except his [p. 93] maternal uncles, Mathanadeva or Mahāṇadeva and Suvarṇadeva and their sons Kāhṇuradeva and Śivarājadeva. Sandhyākaranandi's father, Prajāpatinandi, was the principal minister of peace[^sec-07-fn-054] and war (*Mahāsāndhivigrahika*), but his principal adviser was Bodhideva, son of Yogadeva, the minister of his father Vigrahapāla III.[^sec-07-fn-055]
+Tārānātha states that Rāmapāla reigned for forty-six years.[^sec-07-fn-053] This is not impossible as the Caṇḍimau image was dedicated in the 42nd year of the king. We know the names of three of the sons of Rāmapāla, two of whom succeeded him on the throne. His eldest son, Rājyapāla, was an able man, and assisted his father in gaining the throne, in the wars in Vārendrī, and finally in administering the kingdom in his father's old age. He seems to have died during the lifetime of his father, as we find that Kumārapāla succeeded after Rāmapāla's death. His third son, Madanapāla, ascended the throne after the death or dethronement of his brother Kumārapāla's son Gopāla III. We know nothing about the other relations of Rāmapāla except his [p. 93] maternal uncles, Mathanadeva or Mahaṇadeva and Suvarṇadeva and their sons Kāhṇuradeva and Śivarājadeva. Sandhyākaranandi's father, Prajāpatinandi, was the principal minister of peace[^sec-07-fn-054] and war (*Mahāsāndhivigrahika*), but his principal adviser was Bodhideva, son of Yogadeva, the minister of his father Vigrahapāla III.[^sec-07-fn-055]
 
 > _[Margin: King's reign. Inscriptions and MS. Records.]_
 
@@ -1031,11 +1029,11 @@ The earliest record of Rāmapāla is the Tetrawan inscription recording the erec
 
 The next record in order is a manuscript of the Aṣṭasāhasrikā Prajñāpāramitā written at Nālandā in the Magadha *viṣaya*. The manuscript was purchased by Dr. A. F R. Hoernle from Nepal, during his stay in India,[^sec-07-fn-059] and afterwards acquired by the Bodleian Library.[^sec-07-fn-060] It was written in the 15th year of the king and its final colophon runs as follows:—
 
-> 1.—ranuttara *jñānāvāptaya iti, Mahārājādhirāja Parameśvara-Paramabhaṭṭāraka- Paramasaugata Śrīmad=Rāmapāladeva-pravarddhamāna-vijayarājye pañcadaśame samvatsare abhilikhyamāne yatrāṅkenāpi samvat* 15, *Vaiśākṣadine kṛṣṇasaptamyām* 7 *Asti Magadhaviṣaye, Śrī Nālandāvasthita lekhaka Grahaṇakuṇḍena Bhaṭṭārikāpra-* 2. —*jñāpāramitā likhitā iti.*
+> 1.—ranuttara *jñānāvāptaya iti, Mahārājādhirāja Parameśvara-Paramabhaṭṭāraka- Paramasaugata Śrīmad=Rāmapāladeva-pravarddhamāna-vijayarājye pañcadaśame samvatsare abhilikhyamāne yatrāṁkenāpi samvat* 15, *Vaisākṣadine kṛṣṇasaptamyām* 7 *Asti Magadhaviṣaye, Śrī Nālandāvasthita lekhaka Grahaṇakuṇḍena Bhaṭṭārikāpra-* 2. —*jñāpāramitā likhitā iti.*
 
 > _[Margin: The date of the Chandimau Image.]_
 
-Late in the king's reign an image of the Bodhisatva Padmapāṇi was dedicated, at or near the modern village of Chaṇḍimau in the Bihar Sub-division of the Patna District by an inhabitant of Rājagṛiha. This inscribed image was discovered by Cunningham in 1877 or 1878,[^sec-07-fn-061] but he did not attempt to read it. No attempt has hitherto been made by anybody else to read this inscription. The image was found lying among the number of broken ones in the outskirt of the village of Chaṇḍimau in August 1911 and was removed to Indian Museum. A part of the inscription was broken owing to careless packing, but fortunately two inked impressions of the inscription were taken while *in situ*, otherwise it would have become quite impossible to read the date, as the part bearing the numerals for the year have disappeared. This is the most interesting part of the epigraph as it proves conclusively that Rāmapāladeva reigned for a considerable length of time, at least 42 years, which made Tārānātha's statement about his length of reign acceptable. Cunningham read the date as 12, but it certainly was 42. The inscription itself runs as follows :—
+Late in the king's reign an image of the Bodhisatva Padmapāṇi was dedicated, at or near the modern village of Chaṇḍimau in the Bihar Sub-division of the Patna District by an inhabitant of Rajagṛiha. This inscribed image was discovered by Cunningham in 1877 or 1878,[^sec-07-fn-061] but he did not attempt to read it. No attempt has hitherto been made by anybody else to read this inscription. The image was found lying among the number of broken ones in the outskirt of the village of Chaṇḍimau in August 1911 and was removed to Indian Museum. A part of the inscription was broken owing to careless packing, but fortunately two inked impressions of the inscription were taken while *in situ*, otherwise it would have become quite impossible to read the date, as the part bearing the numerals for the year have disappeared. This is the most interesting part of the epigraph as it proves conclusively that Rāmapāladeva reigned for a considerable length of time, at least 42 years, which made Tārānātha's statement about his length of reign acceptable. Cunningham read the date as 12, but it certainly was 42. The inscription itself runs as follows :—
 
 > (1). *Ye dharmmā hetu prabhavā hetu (ṁ) teṣām hy = avadat (t) eṣām (ṁ) yo niroddho [p. 94] evaṁ vādī mahāśramaṇaḥ* । Ś*rī-mad* = Rā*jagṛha vinirggataḥ Etrahāgrāmāvasthitaḥ* || *Paramopāsaka paramamahājen (ānuy) āvinaḥ* । *Vaṇika Sādhu*. (2) *Saharaṇasya Sādhu Bhādulvasutasya vadatra puṇyaḥ* || *Tad-bhavatv-ācaryopā- dhyāya-mātā-pita purvvaṅgama (ṁ) kṛtvā sakala (satva) rāser-ajñāna phalavāptaya iti* । । *Paramabhaṭṭāraka Parameśvara Paramas.u (?)* (3) ............... *ta* । *Mahārajadhirāja Śrī-mad* = *Rāmapāladevapāda pravarddhamāna-kalyāṇa-vijayarājye samvat* 42 *Āṣāḍha dine* 30.
 
@@ -1043,19 +1041,17 @@ Late in the king's reign an image of the Bodhisatva Padmapāṇi was dedicated, 
 > _[Margin: The Commentary.]_
 > _[Margin: The Author.]_
 
-The date is given in the decimal notation so that there remains no doubt about its reading. The first numeral is certainly 4 and not 1. We find it in a contemporary inscription—the Bodh-Gaya inscription of the 74th year of the Lakṣmaṇasena era.[^sec-07-fn-062] The donor, Sādhu Saharaṇa, was most probably Vaiṣya by caste and a merchant by profession. Nothing was known about Rāmapāla and his times twenty years ago. When Mr. Venis was editing the Kamauli grant of Vaidyadeva, he was faced with great difficulties for want of materials.[^sec-07-fn-064] The date of Vaidyaveva's grant was fixed by him on conjecture. Recent discoveries have proved beyond doubt, that the grant must be placed half a century earlier. Rāmapāla's date was fixed and the events of his reign made known by the discovery of the Rāmacarita of Sandhyākaranandi.[^sec-07-fn-063] Nothing has been stated about, and the place of discovery of, this unique manuscript, by the discoverer himself, in the introduction to his edition of the Rāmacarita, but I have since its publication learnt on enquiry from him that the manuscript was purchased in Nepal in 1897 The manuscript itself consists of two different parts:—(1) The text, which is complete, and (2) the commentary, which is incomplete but older than the text. It runs up to the thirty-fifth verse of the second chapter of the text. The text of the work is written in Bengali characters of the 12th or 13th centuries on strips of palmleaf. It is, Mahāmahopādhyāya Hara Prasāda Śāstri observes, written in imitation of the Rāghava-Pāṇḍavīya, in *double entendre*.[^sec-07-fn-065] The difficulty of understanding such a work is apparent, and had it been discovered without its commentary, it would have been of no use to historians or antiquarians. The principal value of the discovery lies in the commentary. The commentary is a mine of historical information, and supplies the details of the events of Rāmapāla's reign. The style of the composition of the commentary is highly ornamental prose, which makes it very difficult for one to get at the truth. The text does not end after the death of Rāmapāla but continues to describe the events of the reigns of his successors, Kumārapala, Gopāla III, and Madanapāla. If the second part of the commentary is ever recovered, then an abundance of detail will be available, about the events of the time of the three princes mentioned above. There is very little doubt about the fact, that the author of the poem was obliged to write the commentary on it himself. The masses of details which are called up by the use of single works, would have [p. 95] had no meaning to other persons. The author had great facilities for the collection of information as his father was Rāmapāla's Sāndhivigrahika. The comparison of Rāmapāla with Rāma, the hero of the Rāmāyaṇa, seems to have been habitual with the courtiers of the 11th century <span class="sc">A.D.</span> A verse of the Kamauli grant of Vaidyadeva mentions the conquest of Mithilā and a king named Bhīma, and at the same time compares Rāmapāla with Rama:—
+The date is given in the decimal notation so that there remains no doubt about its reading. The first numeral is certainly 4 and not 1. We find it in a contemporary inscription—the Bodh-Gaya inscription of the 74th year of the Lakṣmaṇasena era.[^sec-07-fn-062] The donor, Sādhu Saharaṇa, was most probably Vaiṣya by caste and a merchant by profession. Nothing was known about Rāmapāla and his times twenty years ago. When Mr. Venis was editing the Kamauli grant of Vaidyadeva, he was faced with great difficulties for want of materials.[^sec-07-fn-063] The date of Vaidyaveva's grant was fixed by him on conjecture. Recent discoveries have proved beyond doubt, that the grant must be placed half a century earlier. Rāmapāla's date was fixed and the events of his reign made known by the discovery of the Rāmacarita of Sandhyākaranandi.[^sec-07-fn-064] Nothing has been stated about, and the place of discovery of, this unique manuscript, by the discoverer himself, in the introduction to his edition of the Rāmacarita, but I have since its publication learnt on enquiry from him that the manuscript was purchased in Nepal in 1897 The manuscript itself consists of two different parts:—(1) The text, which is complete, and (2) the commentary, which is incomplete but older than the text. It runs up to the thirty-fifth verse of the second chapter of the text. The text of the work is written in Bengali characters of the 12th or 13th centuries on strips of palmleaf. It is, Mahāmahopādhyāya Hara Prasāda Śāstri observes, written in imitation of the Rāghava-Pāṇḍavīya, in *double entendre*.[^sec-07-fn-065] The difficulty of understanding such a work is apparent, and had it been discovered without its commentary, it would have been of no use to historians or antiquarians. The principal value of the discovery lies in the commentary. The commentary is a mine of historical information, and supplies the details of the events of Rāmapāla's reign. The style of the composition of the commentary is highly ornamental prose, which makes it very difficult for one to get at the truth. The text does not end after the death of Rāmapāla but continues to describe the events of the reigns of his successors, Kumārapala, Gopāla III, and Madanapāla. If the second part of the commentary is ever recovered, then an abundance of detail will be available, about the events of the time of the three princes mentioned above. There is very little doubt about the fact, that the author of the poem was obliged to write the commentary on it himself. The masses of details which are called up by the use of single works, would have [p. 95] had no meaning to other persons. The author had great facilities for the collection of information as his father was Rāmapāla's Sāndhivigrahika. The comparison of Rāmapāla with Rāma, the hero of the Rāmāyaṇa, seems to have been habitual with the courtiers of the 11th century <span class="sc">A.D.</span> A verse of the Kamauli grant of Vaidyadeva mentions the conquest of Mithilā and a king named Bhīma, and at the same time compares Rāmapāla with Rama:—
 
 > *Tena yena jagat=traye janaka-bhū-lābhād-yathāvad=yaśaḥ.*  
 > *Kṣauṇī-nāyaka-Bhīma Rāvaṇa-vadhād-yuddhārṇṇav=ollamghanāt* ||.  
 > verse 4.[^sec-07-fn-066]
 
-> _[Margin: Yakṣapāla of Gayā.]_
+> _[Margin: Yaksapala of Gaya.]_
 
-According to Lāma Tārānātha, Yakṣapāla was a colleague of Rāmapāla.[^sec-07-fn-067] It is stated definitely that this prince was the son of Rāmapāla who was the son of Hastipāla and was the last prince of the Pāla family.<sup>3</sup> An inscription of a king (*Narendra*) named Yakṣapāla was found at Gayā by Sir Alexander Cunningham and published by the late Dr. Kielhorn in 1887. But the king mentioned in this record cannot be the same person as that mentioned by Lāma Tārānātha as Rāmapāla's son, as the genealogy of this Yakṣapāla is given in the inscription. He is the son of Viśvāditya, who built the temple of Gadādhara,[^sec-07-fn-069] of Akṣayavaṭa and of Prapitāmaheśvara, the grandson of
+According to Lama Tārānātha, Yakṣapāla was a colleague of Rāmapāla.[^sec-07-fn-067] It is stated definitely that this prince was the son of Rāmapāla who was the son of Hastipāla and was the last prince of the Pāla family.[^sec-07-fn-068] An inscription of a king (*Narendra*) named Yakṣapāla was found at Gayā by Sir Alexander Cunningham and published by the late Dr. Kielhorn in 1887. But the king mentioned in this record cannot be the same person as that mentioned by Lama Tārānātha as Rāmapāla's son, as the genealogy of this Yakṣapāla is given in the inscription. He is the son of Viśvāditya, who built the temple of Gadādhara,[^sec-07-fn-069] of Akṣayavaṭa and of Prapitāmaheśvara, the grandson of Śūdraka. The family was a very important one during the reigns of Nayapāla Vigrahapāla and his sons. The following inscriptions of the family have been discovered at Gaya:—
 
-Śūdraka. The family was a very important one during the reigns of Nayapāla Vigrahapāla and his sons. The following inscriptions of the family have been discovered at Gayā:—
-
-- (1) Inscription on the gate of the modern Kṛṣṇa-Dvārika temple, recording the erection of a temple of Viṣṇu by a low class Brāhmaṇa named Viśvāditya in the 15th year of Nayapāladeva.[^sec-07-fn-068]
+- (1) Inscription on the gate of the modern Kṛṣṇa-Dvārika temple, recording the erection of a temple of Viṣṇu by a low class Brāhmaṇa named Viśvāditya in the 15th year of Nayapāladeva.[^sec-07-fn-070]
 - (2) Inscription inside the small temple dedicated to Narasiṁha in the courtyard of the Viṣṇupāda temple recording the erection of a temple to Gadādhara and several other minor shrines—by one Viśvarūpa of the same lineage as Viśvāditya in No. 1.[^sec-07-fn-071]
 - (3) Inscription broken into two parts in the wall of small shrine under the Akṣayavaṭa at Gayā, recording the erection of two temples of Śiva—Vaṭeśa and Prapitāmahéśvara—by the same Viśvāditya.[^sec-07-fn-072]
 - (4) Inscription under the image of Gadādhara at Gayā—begins with an invocation to the Sun-god and mentioning Paritoṣa, the grandfather of Viśvāditya.[^sec-07-fn-073]
@@ -1065,7 +1061,7 @@ The last inscription was published in 1887 and at that time the late Dr. Kielhor
 > 1. *Oṁ namaḥ Sūryāya* || *Viṣaya-madhūtkara-pūrṇṇaṁ Prāṇi-nikāy-āli viśva-śata*  
 > *patraṁ  Aṣṭāśā-dala-ramyaṁ prakāśayan-navatu vo bhānuḥ* ||.
 
-> 2. *Tīrthaṁ phalgu-tat-ādi-tīrtha-ghaṭanā-vyājena sopāninī gantṝṇāṁ paramasya*  
+> 2. *Tīrthaṁ phalgu-taṭ-ādi-tīrtha-ghaṭanā-vyājena sopāninī gantṝṇāṁ paramasya*  
 > *dhauta-tamasāṁ dhāmno Gayā rājate* | *Śrī maty-aiva ya-*
 
 > 3. *—yā mahīmaya-milac-citrasya jīv-ātmanā śilp-otkarṣam-amanyat-ātmani vidhiḥ*  
@@ -1074,7 +1070,7 @@ The last inscription was published in 1887 and at that time the late Dr. Kielhor
 > 4. *—nindya-śauryaḥ kurvvan-vana-praṇayi pattra-niketanasthaṁ* | *Śrī Śūdrakaḥ*  
 > *svayam-apujayad-indra-kalpo Gauḍeśvaro nṛpati-lakṣaṇa-puja-*
 
-> 5. *—yāyāṁ* || *Tasmād-adbuta-pauruṣāmvudhir-abhūt Śrī-Viśvarūpo nṛpaḥ kīrtti-śrī-matayaḥ svayamvaratayā bhejur-yam-ekaṁ patiṁ  A*
+> 5. *—yāyaṁ* || *Tasmād-adbuta-pauruṣāmvudhir-abhūt Śrī-Viśvarūpo nṛpaḥ kīrtti-śrī-matayaḥ svayamvaratayā bhejur-yam-ekaṁ patiṁ  A*
 
 > 6. *—dyāpi sphurad-ugra-vikrama-kathām-ākarṇṇayad-yasya ca svāsambhūtim-arāti-cakram-asama-ttrāsāt-tadā ślāghate* || *Laksmīṁ ripoḥ*
 
@@ -1113,39 +1109,39 @@ The last inscription was published in 1887 and at that time the late Dr. Kielhor
 > *vyabhicāranītv-aratayā bhaktyā parikrīḍitaṃ Arthibhyo vi*-  
 > 18. —*niyuktay-āpy-anudinaṃ pātre sucau jātayā mat-svāmi-priyavāsa eṣa iti yaḥ*  
 > *kāmaṃ śriyā saṁśritaḥ* ‖ *Maunāditya-Sahasraliṅga*-  
-> 19. *Kamal-ārddhāṅgīṇa-Nārāyaṇa-Dvistomeśvara-Phalgunātha-Vijayāditya-āhvayā-nāṁ kṛtī* ❲ *sa prāsādam-acīkarad-dviviṣadāṁ Kedāradevasya*  
+> 19. *Kamal-ārddhāṅgīṇa-Nārāyaṇa-Dvistomeśvara-Phalgunātha-Vijayādity-āhvayā-nāṁ kṛtī* । *sa prāsādam-acīkarad-dviviṣadāṁ Kedāradevasya*  
 > 20. *ca khyātasy-Ottaramānasasya khananaṁ sattraṁ tathā c-ākṣaye* ‖ *Sūrya-candra-masau yāvad-yāvat kṣauṇī sasāgara Tāvat śrī Yakṣapālasya rā*-  
-> 21. —*jantāṁ bhuvi kīrttayaḥ* ‖ *Nyāya-vidyā-vidāṁ śreyān-Āgigrāma kulodbhavaḥ*  
+> 21. —*jantāṁ bhuvi kīrttayaḥ* ‖ *Nyāya-vidyā-vidāṁ śreyān-Āgīgrāma kulodbhavaḥ*  
 > *Śrī-Murārir-dvija-śreṣṭhaḥ praśastim-akarod-imām.*  
 > 22. *Likhit-āsau Śrī Padmapāṇiṇā* ‖
 
-The characters of this inscription cannot be said to belong to the 12th century <span class="sc">a.d.</span>, as the form of the test letters are much earlier than those of <span class="sc">Rāmapāla</span>. Most probably Yakṣapāla assumed independence during the troublesome times of the reigns of Vigrahapāla III, Mahīpāla II and Śūrapāla II. Perhaps he was contemporary of Rāmapāla during the earlier part of the latter's reign. He is not mentioned in the Rāmacarita, and most probably he was subdued by Rāmapāla's maternal uncle, Mathanadeva, who is styled *Magadhādhipa* in the commentary. He might have continued to reign either as a subordinate prince, or as an independent one, because no evidence is forthcoming to prove that any of the Pāla Emperors after Rāmapāla held any part of Western Magadha or South-Western Behar. Rāmapāla's inscriptions have been discovered in Eastern Magadha, but no Pāla record after the time of Vigrahapāla III have been found in the Gayā or Shahabad District, except the two inscriptions of Govindapāladeva. Another powerful dynasty of kings, who founded their monarchy on the ruins of the second Pāla Empire, was that of the Varmans of Eastern Bengal.
+The characters of this inscription cannot be said to belong to the 12th century <span class="sc">a.d.</span>, as the form of the test letters are much earlier than those of <span class="sc">Rāmapāla</span>. Most probably Yakṣapāla assumed independence during the troublesome times of the reigns of Vigrahapāla III, Mahīpāla II aud Śūrapāla II. Perhaps he was contemporary of Rāmapāla during the earlier part of the latter's reign. He is not mentioned in the Rāmacarita, and most probably he was subdued by Rāmapāla's maternal uncle, Mathanadeva, who is styled *Magadhādhipa* in the commentary. He might have continued to reign either as a subordinate prince, or as an independent one, because no evidence is forthcoming to prove that any of the Pāla Emperors after Rāmapāla held any part of Western Magadha or South-Western Behar. Rāmapāla's inscriptions have been discovered in Eastern Magadha, but no Pāla record after the time of Vigrahapāla III have been found in the Gayā or Shahabad District, except the two inscriptions of Govindapāladeva. Another powerful dynasty of kings, who founded their monarchy on the ruins of the second Pāla Empire, was that of the Varmans of Eastern Bengal.
 
 Four records of this dynasty have come to light as yet :—
 
 - (1) Bhuvaneśvara inscription of the time of Bhaṭṭa Bhavadeva.[^sec-07-fn-075]
 - (2) The unpublished copper-plate grant of Harivarmmadeva, which has been noticed by Babu Nagendra Natha Basu in *Vaṅgera Jātīya Itihāsa*, '' Vol. II, p. 215 and plate. This copperplate grant was seen and examined by the author several years ago. It was obtained from the late Mr. Hari Nath De, and was photographed with the permission of the owner. Very little can be made out of the grant at present.
 - (3) A manuscript of the “ *Aṣṭa-sāhasrikā Prajñāpāramitā* ” written in the 19th year of Harivarmmadeva, recently acquired by me.
-- (4) The Belabo grant of Bhojavarman. According to the genealogy given in the inscription, the Varmans were descended from the race of Yadu. In that race were a lines of princes, who ruled at Siṁhapura, which was in the Punjab, as we know from the Lakkha-mandal-praśasti of the Princess Īśvarā. Vajravarman of that dynasty was the founder of a kingdom in Eastern Bengal. His son, Jātavar-man, [p. 98] was, as we have seen, the contemporary of Vigrahapāla III, who defeated the Cedi King Karṇṇa in Aṅga, and obtained the hand of his daughter Vīra-Śrī, conquered Kāmarūpa and Govarddhana, and acquired paramount power. His son was Sāmalavarman, about whom we do not know much. The accounts of Sāmalavarman as found in the genealogical works are wholly imaginary. He was succeeded by his son Bhojavarman. The characters of the new grant show that Harivarman and his father Jyotirvarman cannot either be placed before Vajravarman or taken to be his descendants, because most probably Sāmantasena made an end of the Yādava kingdom of Eastern Bengal shortly afterwards. So it appears probable that the two dynasties were to some extent contemporaneous.
+- (4) The Belabo grant of Bhojavarman. According to the genealogy given in the inscription, the Varmans were descended from the race of Yadu. In that race were a lines of princes, who ruled at Siṁhapura, which was in the Punjab, as we know from the Lakkha-mandal-praśasti of the Princess Īśvarā. Vajravarman of that dynasty was the founder of a kingdom in Eastern Bengal. His son, Jātavarman, [p. 98] was, as we have seen, the contemporary of Vigrahapāla III, who defeated the Cedi King Karṇṇa in Aṅga, and obtained the hand of his daughter Vīra-Śrī, conquered Kāmarūpa and Govarddhana, and acquired paramount power. His son was Sāmalavarman, about whom we do not know much. The accounts of Sāmalavarman as found in the genealogical works are wholly imaginary. He was succeeded by his son Bhojavarman. The characters of the new grant show that Harivarman and his father Jyotirvarman cannot either be placed before Vajravarman or taken to be his descendants, because most probably Sāmantasena made an end of the Yādava kingdom of Eastern Bengal shortly afterwards. So it appears probable that the two dynasties were to some extent contemporaneous.
 The first inscription has indeed been published by the late Dr. Kielhorn, but no facsimile was published at that time. A complete analysis of the characters of these three records or an attempt to fix the date of Harivarman would be out of place here. I intend very shortly to publish another paper on the inscription and the chronology of the Varman kings. It might suffice here to say that the copperplate of Harivarmmadeva, though in a very bad state of preservation, gives us the name of the king and his father. The last line of the first side and the first line of the second contained the following sentences:—
 
 > *Mahārājādhirāja-Śrīmad-Jyotirvarmmadeva-pādānudhyāta Paramavaiṣṇava-Parameśvara-Paramabhaṭṭāraka-Mahārājādhirāja Śrīmad-Harivarmmadeva kuśalī.*
 
-The grant itself was issued from the victorious camp of Vikramapura, and from it we learn that part at least of Eastern Bengal belonged to Harivarmmadeva and that he was preceded by his father Jyotirvarmmadeva on the throne. The characters of the records of those dynasties show that Harivarman cannot be placed in the 12th century <span class="sc">a.d.</span> Consequently it must be admitted that his father Jyotirvarmman has to be placed in the earlier decades of the 11th century. The dynasty seems to have continued for three or four generations. We learn from Bhuvanēśvara inscription that Bhavadeva I received the village of Hastinībhiṭṭa from the King of Gauḍa. His son was Rathāṅga, whose son was Atyaṅga, and from him was descended Ādideva, who was the minister of peace and war (*Sāndhivigrahika*) of the king of Vaṅga. It is stated in verse 3 that the family settled in the village of Siddhala in Rāḍhā. Ādideva's son was Govarddhana who was renowned as a warrior and most probably served under Jyotirvarmmadeva. His son Bhavadeva II was the minister of Harivarmmadeva and of his son also.
+The grant itself was issued from the victorious camp of Vikramapura, and from it we learn that part at least of Eastern Bengal belonged to Harivarmmadeva and that he was preceded by his father Jyotirvarmmadeva on the throne. The characters of the records of those dynasties show that Harivarman cannot be placed in the 12th century <span class="sc">a.d.</span> Consequently it must be admitted that his father Jyotirvarmman has to be placed in the earlier decades of the 11th century. The dynasty seems to have continued for three or four generations. We learn from Bhuvaneśvara inscription that Bhavadeva I received the village of Hastinībhiṭṭa from the King of Gauḍa. His son was Rathāṅga, whose son was Atyaṅga, and from him was descended Ādideva, who was the minister of peace and war (*Sāndhivigrahika*) of the king of Vaṅga. It is stated in verse 3 that the family settled in the village of Siddhala in Rāḍhā. Ādideva's son was Govarddhana who was renowned as a warrior and most probably served under Jyotirvarmmadeva. His son Bhavadeva II was the minister of Harivarmmadeva and of his son also.
 
-The newly discovered Belabo plate records the grant of 9 *droṇas* of land in the village of Upyalikā, in the sub-division of Kauśāmvi-Aṣṭagaccha in the *Maṇḍala* or District of Adhahpattana, in the Division or *Bhukti* of Pauṇḍravarddhana, to a Brāhmaṇa of the Yajur-deva, named Rāmadevaśarman, son of Viśvarūpadevaśarman, grandson of Jagannāthadevaśarman and great-grandson of Pitāmbaradevaśarman, who was an inhabitant of the village of Siddhala, in Northern Rāḍhā, and had emigrated from Madhyadeśa or Kanauj.
+The newly discovered Belabo plate records the grant of 9 *droṇas* of land in the village of Upyalikā, in the sub-division of Kauśāmvi-Aṣṭagaccha in the *Maṇḍala* or District of Adhaḥpattana, in the Division or *Bhukti* of Pauṇḍravarddhana, to a Brāhmaṇa of the Yajur-deva, named Rāmadevaśarman, son of Viśvarūpadevaśarman, grandson of Jagannāthadevaśarman and great-grandson of Pitāmbaradevaśarman, who was an inhabitant of the village of Siddhala, in Northern Rāḍhā, and had emigrated from Madhyadeśa or Kanauj.
 
 The last line of the Bhuvaneswar inscription of Bhavadeva contained his surname—
 
 
 <!-- page: 69 | folio: 99 -->
-> *Vālavalabhī-bhujanga*.
+> *Vālavalabhī-bhujaṅga*.
 
 Vālavalabhī is mentioned as the name of a country in the Rāmacarita of Sandhyākaranandi. Vikramarāja of Devagrāma in Vālavalabhī had fought with Rāmapāla, in the war, in Varendra.[^sec-07-fn-076] Mahāmahopādhyāya Haraprasād Sastri had identified Vālavalabhī with *Bāgḍī*. He translates the passage of the commentary as follows :—
 
 > “Vikramarāja, the Rājā of Devagrāma and the surrounding country, washed by the waves of the rivers of Vāla-Valabhī or Bāgḍī, one of the five provinces into which Bengal was divided.” The identification stands without any support. From the description given in the commentary on the Ramacarita it appears that Vālavalabhī was pre-eminently a land of rivers, and must be identified either with Eastern or Southern Bengal. The mention of Vikramapura in the copperplate grant of Harivarman does not help us in fixing the chronology of the Varmans. It may be that both dynasties occupied different parts of East Bengal at the same time and may have laid claim to the ownership of the city of Vikramapur. So far we have no positive evidence to prove that Jyotirvarman and Harivarman were descended from the Yādava Vajravarman, and we can only assume that they belong to co-lateral branches of the same family.
 
-The invasion of the great southern conqueror Rājendra Coḷa I seems to have left some permanent marks in Bengal. We learn from the Sītāhāṭi grant of Vallālasena, that the ancestors of Sāmantasena, the grandfather of Vijayasena, lived in the country of Rāḍhā.[^sec-07-fn-077] All Sena inscriptions agree in stating that the Sena kings were descended from a family of Karṇāṭa Kṣatriyas, i.e. from a family which originally came from the Kanarese-speaking districts of Southern India. Though the Cālukya King, Vikramāditya VI of Kalyāṇa, is said to have invaded Bengal during the lifetime of his father Somesvara I,[^sec-07-fn-078] it cannot be said that the Cālukya Kings effected any permanent conquest in Eastern India. But, on the other hand, Vilhaṇadeva's remarks should be taken with great reservation, as none of the records of the Cedis of Tripurī or Ratnapura mention any Cālukya invasion of Northern India in the middle of the 11th century <span class="sc">a.d.</span> On the other hand, Rājendra Coḷa I defeated the Cālukya King, Jayasiṁha II, at Muyaṅgi or Musangi, and though Cālukyan poets state that the Cālukyas defeated the Coḷas, the definite terms of the Melpāḍi inscription leave no doubt about the fact that the defeat of the Cālukya Kings was decisive, and Rājendra Coḷa I obtained a large amount of treasure from him.[^sec-07-fn-079] Some obscure Karṇāṭa Chief seems to have followed Rājendra Coḷa I and settled in Western Bengal after the defeat of his Chief on the banks of the Ganges. From him was descended Sāmantasena, who is generally taken to be the founder of the Sena Dynasty. He seems to have succeeded in carving out a small principality for himself in Western Bengal. In the Deopara *praśasti* of his grandson, Vijayasena, it is stated that he, Sāmantasena, defeated his enemies after being surrounded by them.[^sec-07-fn-080]
+The invasion of the great southern conqueror Rājendra Coḷa I seems to have left some permanent marks in Bengal. We learn from the Sītāhāṭi grant of Vallālasena, that the ancestors of Sāmantasena, the grandfather of Vijayasena, lived in the country of Rāḍhā.[^sec-07-fn-077] All Sena inscriptions agree in stating that the Sena kings were descended from a family of Karṇāṭa Kṣatriyas, i.e. from a family which originally came from the Kanarese-speaking districts of Southern India. Though the Cālukya King, Vikramāditya VI of Kalyāṇa, is said to have invaded Bengal during the lifetime of his father Somesvara I,[^sec-07-fn-078] it cannot be said that the Cālukya Kings effected any permanent conquest in Eastern India. But, on the other hand, Vilhaṇadeva's remarks should be taken with great reservation, as none of the records of the Cedis of Tripurī or Ratnapura mention any Cālukya invasion of Northern India in the middle of the 11th century <span class="sc">a.d.</span> On the other hand, Rājendra Coḷa I defeated the Cālukya King, Jayasiṁha II, at Muyaṅgi or Musaṅgi, and though Cālukyan poets state that the Cālukyas defeated the Coḷas, the definite terms of the Melpāḍi inscription leave no doubt about the fact that the defeat of the Cālukya Kings was decisive, and Rājendra Coḷa I obtained a large amount of treasure from him.[^sec-07-fn-079] Some obscure Karṇāṭa Chief seems to have followed Rājendra Coḷa I and settled in Western Bengal after the defeat of his Chief on the banks of the Ganges. From him was descended Sāmantasena, who is generally taken to be the founder of the Sena Dynasty. He seems to have succeeded in carving out a small principality for himself in Western Bengal. In the Deopara *praśasti* of his grandson, Vijayasena, it is stated that he, Sāmantasena, defeated his enemies after being surrounded by them.[^sec-07-fn-080]
 
 
 <!-- page: 70 | folio: 100 -->
@@ -1169,13 +1165,13 @@ Rāmapāla's minister was Bodhideva, the son of Yogadeva, who was the prime mini
 [^sec-07-fn-009]: (9) Comm. on V 29, L.C., p. 28.
 [^sec-07-fn-010]: (10) Comm. on V 41, L.C., p. 32.
 [^sec-07-fn-011]: (1) Comm. on V 39, L.C., p. 31.
-[^sec-07-fn-012]: (4) Comm. on V 43, L.C., p. 32.
-[^sec-07-fn-013]: (7) Comm. on V 47, L.C., p. 33.
-[^sec-07-fn-014]: (2) Comm. on V 40, L C., p. 31.
+[^sec-07-fn-012]: (2) Comm. on V 40, L C., p. 31.
+[^sec-07-fn-013]: (3) Comm. on V 26, L.C., p. 27.
+[^sec-07-fn-014]: (4) Comm. on V 43, L.C., p. 32.
 [^sec-07-fn-015]: (5) Comm. on V 43, L.C., p. 32.
-[^sec-07-fn-016]: (8) Comm. on V 48, L.C., p. 34.
-[^sec-07-fn-017]: (3) Comm. on V 26, L.C., p. 27.
-[^sec-07-fn-018]: (6) Comm. on V 44.
+[^sec-07-fn-016]: (6) Comm. on V 44.
+[^sec-07-fn-017]: (7) Comm. on V 47, L.C., p. 33.
+[^sec-07-fn-018]: (8) Comm. on V 48, L.C., p. 34.
 [^sec-07-fn-019]: (9) Comm. on V 40, L.C.
 [^sec-07-fn-020]: (1) Comm. on V 50, L.C.
 [^sec-07-fn-021]: (2) Annual Rep. of A.S. of India, 1907-8, p. 76.
@@ -1185,8 +1181,8 @@ Rāmapāla's minister was Bodhideva, the son of Yogadeva, who was the prime mini
 [^sec-07-fn-025]: (1) Ibid.
 [^sec-07-fn-026]: (2) J.A.S.B. 1904, Pt. I, p. 178, note 1.
 [^sec-07-fn-027]: (3) V. A. Smith Cat. of Coins, Ind. Mus, Vol. I, p. 263.
-[^sec-07-fn-028]: (5) L.C. p. 36, Comm. on V. 5.
-[^sec-07-fn-029]: (4) Mem. A.S.B.. Vol. III, p. 38, Comm. on V. 9.
+[^sec-07-fn-028]: (4) Mem. A.S.B.. Vol. III, p. 38, Comm. on V. 9.
+[^sec-07-fn-029]: (5) L.C. p. 36, Comm. on V. 5.
 [^sec-07-fn-030]: (1) See Ante, p 71.
 [^sec-07-fn-031]: (2) Comm. on V. 5, Chap. II, p. 36.
 [^sec-07-fn-032]: (3) Ep. Ind. Vol. VI, p. 205.
@@ -1220,14 +1216,14 @@ Rāmapāla's minister was Bodhideva, the son of Yogadeva, who was the prime mini
 [^sec-07-fn-060]: (7) Cat. Bodleian Liby., Cambridge, Vol. II, p. 250, No. 1428.
 [^sec-07-fn-061]: (8) Cunningham Arch. Survey Rep., Vol. XI, p. 169.
 [^sec-07-fn-062]: (1) Ind. Ant., Vol. X, p. 346.
-[^sec-07-fn-063]: (3) Proc. A.S.B., 1900, p. 70.
-[^sec-07-fn-064]: (2) Epi. Ind., Vol. II, p. 348.
+[^sec-07-fn-063]: (2) Epi. Ind., Vol. II, p. 348.
+[^sec-07-fn-064]: (3) Proc. A.S.B., 1900, p. 70.
 [^sec-07-fn-065]: (4) Mem. A.S.B., Vol. III, p. 1.
 [^sec-07-fn-066]: (1) Epi. Ind., Vol II. p. 351.
 [^sec-07-fn-067]: (2) Ind. Ant., Vol. XXXVIII, p. 243.
-[^sec-07-fn-068]: (5) Ibid., Vol. XVI, p. 64.
+[^sec-07-fn-068]: (3) Ibid., Vol. XVI, p. 64.
 [^sec-07-fn-069]: (4) See ante, p. 79.
-[^sec-07-fn-070]: (6) [Unlinked note, p. 95] J.A.S.B. 1900, pt. I, pp. 192-93.
+[^sec-07-fn-070]: (5) J.A.S.B. 1900, pt. I, pp. 192-93.
 [^sec-07-fn-071]: (6) See ante, p. 78.
 [^sec-07-fn-072]: (7) See ante, p. 81.
 [^sec-07-fn-073]: (8) See ante, p. 82.
@@ -1261,12 +1257,12 @@ Rāmapāladeva was succeeded by his second son Kumārapāla about the year 1097 
 This most probably indicates that Kumārapāla reigned for a very short time. But during this short reign, he succeeded in obtaining decisive victories in Assam and in Southern Bengal with the aid of his Minister Vaidyadeva, who was the son of Yogadeva, the Prime Minister of Rāmapāla. We learn from the Kamauli Grant of Vaidyadeva that Kumārapāla having learnt of the disaffection of the feudatory chief of Kāmārūpa, named Tiṅgyadeva, deputed Vaidyadeva to overcome him. Vaidyadeva having received a promise of obtaining the kingdom after its conquest, reached Assam by forced marches and defeated Tiṅgyadeva :—
 
 > *Etādṛśe hari-harid-bhuvi satkṛtasya Śrī-Tiṅgyadeva nṛpater-vvikṛtiṁ niśamya*  
-> *Gauḍeśvareṇa bhuvi tasya nareśvaratve Śrī-Vaidyadeva urukīrttir-iyāṁ niyuktaḥ*. ‖—v. 13-14.[^sec-08-fn-003]
+> *Gauḍeśvareṇa bhuvi tasya nareśvaratve Śrī-Vaidyadeva urukīrttir-iyāṁ niyuktaḥ*. ‖—v. 13-14.[^sec-08-fn-002]
 
 About this time Anantavarmman Coḍagaṅga invaded Western Bengal and overran the country up to the banks of the Ganges:—
 
 > *Gṛhṇāti-sma karaṁ bhūmer-gaṅgā-gotama-gaṅgayoḥ* । *Madhye paśyatsu vīreṣu*  
-> *prauḍhaḥ prauḍha-striyā iva*. v. 22.[^sec-08-fn-002]
+> *prauḍhaḥ prauḍha-striyā iva*. v. 22.[^sec-08-fn-003]
 
 > _[Margin: War with the King of Orissa.]_
 
@@ -1287,10 +1283,10 @@ The infant king seems to have been murdered very soon after his accession :— *
 A posthumous record of this king has been discovered by Babu Akṣaya Kumāra Maitreya at Manda in the District of Rajshahi and presented to the Indian Museum. The palaeography points to the later part of the 11th and the earlier part of the 12th century as its date. The record is full of mistakes and is untranslatable :—
 
 > 1. *Oṁ sura-sarid-uru-vīcīḥ sīkarau kunda-gauraur-vviracita parabhāgo vāla ca*-  
-> 2. *ndr-āvataṁsaḥ diśatu sivamajansraṁ sambhu-koṭīra-bhāra kalama-kaṇisa roci*-  
+> 2. *ndr-āvataṁsaḥ diśatu sivamajansraṁ śambhu-koṭīra-bhāra kalama-kaṇisa roci*-  
 > 3. *rmmaṁjarī piṁjarīsu || Śrī-mad-Gopāladevas-tridīva muṣarātaḥ svepva*-  
 > 4. *-yā tyakta kāsas-tasy-āhaṁ pāda-dhūli-prathita iti nijaṁ nāḥ. Vuddhām-asthīta-pre*-  
-> 5. *-trajñā-pratijño nisita-sarasavai Purasenasakṛsāṣṭau nisyajā-dallirā*  
+> 5. *-trājñā-pratijño nisita-sarasavai Purasenasakṛsāṣṭau nisyajā-dallirā*  
 > 6. *jā tṛdaśapuram-agād-Aiḍadeva kṛtajñaḥ || Svataṁ tvato vadhū ya saṁgarāt*  
 > *prāpya*  
 > 7. *Candra-kiraṇ-āmalaṁ yasaḥ krīḍati tṛdaśasundarī Dṛso deva-eva Śūbhadeva*  
@@ -1331,10 +1327,10 @@ Madanapāla's dominions were confined to the limits of Magadha after this. Vijay
 > *Bharggasya mauli-sarid-ambhasi bhasma-paṅka-lagn-ojjhit-eva tarir-indu kalā*  
 > *cakāsti.* v. 22.[^sec-08-fn-009]
 
-But the expedition does not seem to have been very successful, as otherwise the incident would surely have been mentioned in Sena inscriptions. Madanapāladeva was greatly assisted in his war against Vijayasena by Candradeva, the founder of the Gahadavālā Dynasty of Kanauj. The author of the Rāmacarita has gratefully acknowledged this in his work :—
+But the expedition does not seem to have been very successful, as otherwise the incident would surely have been mentioned in Sena inscriptions. Madanapāladeva was greatly assisted in his war against Vijayasena by Candradeva, the founder of the Gahaḍavālā Dynasty of Kanauj. The author of the Rāmacarita has gratefully acknowledged this in his work :—
 
 > *Siṁhī-suta-vikrānten-arjjuna-dhāmnā bhuvaḥ pradīpena* | *Kamalā-vikāśa-veṣaja*  
-> *viṣajā Candreṇa vandhunopetām* || 20. *Caṇḍī-caraṇa-saroja-prasāda-sampanna-vigraha-Śrīkaṁ | Na khalu Madanaṁ s-āṅgeśam-īśāṁ agād jagad-vijayalakṣmīḥ*  
+> *vīṣajā Candreṇa vandhunopetām* || 20. *Caṇḍī-caraṇa-saroja-prasāda-sampanna-vigraha-Śrīkaṁ | Na khalu Madanaṁ s-āṅgeśam-īśāṁ agād jagad-vijayalakṣmīḥ*  
 > v. 21.[^sec-08-fn-010]
 
 Madanapāla seems to have been defeated by Vijayasena some time after the year 1108 A.D., which is the probable date of his Manahali inscription, when Candradeva was dead. Candradeva must have died before 1104 A.D., as in that year the Basāhi Plates of his grandson Govinda-Candra were issued, and that prince is styled "Mahārājaputra", so it must be admitted that Candradeva had ceased to reign at that time, and his son Madanpāla sat on the throne.[^sec-08-fn-011]
@@ -1356,27 +1352,27 @@ After conquering Varendra, Vijayasena founded a new capital on the northern bank
 > _[Margin: Length of reign: Successors and relations: Inscriptions.]_
 > _[Margin: Inscription.]_
 
-After defeating the King of Gauḍa, who has been identified with Madanapāla, Vijayasena attacked Mithilā and conquered several Kings, viz., *Rāghava*, *Vardhana* and *Vīra*.[^sec-08-fn-016] He led an expedition to Kāmarūpa and most probably succeeded in overthrowing Vaidyadeva or his successor.[^sec-08-fn-017] We learn from the Deopara Inscription that he defeated the King of Kaliṅga. Most probably Anantavarmman *Coḍagaṅga* led another raid into Western Bengal, but was repulsed by Vijayasena. Vijayasena's dominions comprised of Eastern Bengal, Western Bengal and Northern Bengal. An unpublished copper-plate grant of this King was issued from the victorious camp at Vikramapura, and so it must be admitted that Eastern [p. 105] Bengal formed a part of his kingdom, and also that the Varmman Dynasty had ceased to reign. The kingdom was bounded on the East by that of Nānyadeva in Mithila and that of Madanapāla in Magadha. Vijayasena must have reigned for at least forty years, as his newly-discovered copper-plate grant was issued in the 37th year of his reign. He was succeeded by his son Vallālasena, and the name of his wife Vilāsadevī is known to us both from his own copper-plate grant and that of his son. Only two inscriptions of Vijayasena have been discovered up to date. The most important one is the Deopārā praśasti, recording the erection of the temple of Pradyūmneśvara, which must form the basis of all new accounts of the Sena Dynasty, for some years to come. The other inscription is the newly-discovered copper-plate grant, which was brought to me for decipherment by a friend several years ago, but which I am unable to trace at present. This plate records the grant of a village to a Brāhmaṇa of Śāṇḍilya Gotra as the *dakṣiṇā* of the *Tulāpuruṣa ceremony* performed by the Queen Vilāsadevī, and was issued from Vīkrampura in the 37th year of the King. Vijayasena's death seems to have taken place about the year 1108 <span class="sc">a.d.</span> Vijayasena was succeeded by his son Vallālasenadeva, who seems to have been an aged man when he came to the throne. His name is well known throughout Bengal as the founder of Kulinism. But as neither his own copper-plates nor those of his son Lakṣmaṇasena contain any references to Kulinism, even when referring to Brāhmaṇas to whom land was granted, the legend about its origin should be accepted with great caution. The whole system may be of much later origin and of no historical importance at all. Vallālasena's dates, as found in some works on Law and Astronomy, the authorship of which are ascribed to him, are misleading. These dates are found in some verses in the Dānasāgara, a work on Law, and in the Adbhūtasāgara, a work on Astronomy. I have pointed out elsewhere that these verses are not to be found in all manuscripts of these two works, and should, therefore be taken as later additions.[^sec-08-fn-018] According to these verses, the Dānasāgara was compiled by Vallālasena in <span class="sc">s.</span> 1091 = 1169 <span class="sc">a.d.</span>[^sec-08-fn-019] and the Adbhūtasāgara was begun by him in <span class="sc">s.</span> 1090 = 1168 <span class="sc">a.d.</span>[^sec-08-fn-020] Mr. Manomohan Chakravartti has discovered another verse in the Dānasāgara, according to which Vallālasena ascended the throne in S. 1081 = 1159 <span class="sc">a.d.</span>[^sec-08-fn-021], but these verses are hardly of an historical importance, as they appear to be later additions. If, on later enquiry, these verses can be found in all the manuscripts discovered, even then they cannot be accepted as basis for the construction of a chronology, so long as they are to be found in modern manuscripts. If they can be found in manuscript records of the 12th and 13th century <span class="sc">a.d.</span>, then only these dates can be accepted as correct. I have tried to show elsewhere that the Bodh-Gayā inscriptions of Aśokacalla[^sec-08-fn-022] prove that Lakṣmaṇasena died before 1070 <span class="sc">a.d.</span>,[^sec-08-fn-023] consequently, unless some contemporary [p. 106] record can be cited as evidence, it cannot be said, on the basis of the verses in the Dān asāgara and the Adbhūtasāgara, that Vallālasena came to the throne in 1159 A.D. and wrote a book on Law ten years later. Only one inscription of this King has been discovered up to date This is a copper-plate grant discovered in January, 1911, at Sītāhāṭi, near Kātwā, in the Burdwan District of Bengal. It records the grant of the village of Vallahiṭṭa in the Uttara Rāḍhā *Maṇḍala* of the Varddhamāna *bhukti* to a Brāhmaṇa named Ovāsudeva-Śarmman as the *Dakṣiṇā* of the *Hemāśva-Mahādāna* (the gift of a golden horse), performed by the Queen Vilāsadevi, the King's mother, on the 16th Vaiśākha in the 11th year of his reign.[^sec-08-fn-024] The Dūtaka of this grant was the King's minister of peace and war, *Hari-ghoṣa*, who is the only officer of Vallālasena whose name has come down to us. Vallālasena married Rāmadevī of the Calukya family and was succeeded by his son Lakṣmaṇasena. As the initial year of the Lakṣmaṇasena era is 1119-20 A.D., so Lakṣmaṇasena must have ascended the throne in that year, consequently, Vallālasena cannot be taken to have reigned more than 12 or 13 years. He seems to have been a peaceably inclined, weak, old man, studious in his habits, and a patron of Brāhmanism. Both he and his father seem to have belonged to the Śaiva sect, as their inscriptions begin with an invocation to Śiva.
+After defeating the King of Gauḍa, who has been identified with Madanapāla, Vijayasena attacked Mithilā and conquered several Kings, viz., *Rāghava*, *Vardhana* and *Vīra*.[^sec-08-fn-016] He led an expedition to Kāmarūpa and most probably succeeded in overthrowing Vaidyadeva or his successor.[^sec-08-fn-017] We learn from the Deopara Inscription that he defeated the King of Kaliṅga. Most probably Anantavarmman *Coḍagaṅga* led another raid into Western Bengal, but was repulsed by Vijayasena. Vijayasena's dominions comprised of Eastern Bengal, Western Bengal and Northern Bengal. An unpublished copper-plate grant of this King was issued from the victorious camp at Vikramapura, and so it must be admitted that Eastern [p. 105] Bengal formed a part of his kingdom, and also that the Varmman Dynasty had ceased to reign. The kingdom was bounded on the East by that of Nānyadeva in Mithila and that of Madanapāla in Magadha. Vijayasena must have reigned for at least forty years, as his newly-discovered copper-plate grant was issued in the 37th year of his reign. He was succeeded by his son Vallālasena, and the name of his wife Vilāsadevī is known to us both from his own copper-plate grant and that of his son. Only two inscriptions of Vijayasena have been discovered up to date. The most important one is the Deopārā praśasti, recording the erection of the temple of Pradyūmneśvara, which must form the basis of all new accounts of the Sena Dynasty, for some years to come. The other inscription is the newly-discovered copper-plate grant, which was brought to me for decipherment by a friend several years ago, but which I am unable to trace at present. This plate records the grant of a village to a Brāhmaṇa of Śāṇḍilya Gotra as the *dakṣiṇā* of the *Tulāpuruṣa ceremony* performed by the Queen Vilāsadevī, and was issued from Vikrampura in the 37th year of the King. Vijayasena's death seems to have taken place about the year 1108 <span class="sc">a.d.</span> Vijayasena was succeeded by his son Vallālasenadeva, who seems to have been an aged man when he came to the throne. His name is well known throughout Bengal as the founder of Kulinism. But as neither his own copper-plates nor those of his son Lakṣmaṇasena contain any references to Kulinism, even when referring to Brāhmaṇas to whom land was granted, the legend about its origin should be accepted with great caution. The whole system may be of much later origin and of no historical importance at all. Vallālasena's dates, as found in some works on Law and Astronomy, the authorship of which are ascribed to him, are misleading. These dates are found in some verses in the Dānasāgara, a work on Law, and in the Adbhūtasāgara, a work on Astronomy. I have pointed out elsewhere that these verses are not to be found in all manuscripts of these two works, and should, therefore be taken as later additions.[^sec-08-fn-018] According to these verses, the Dānasāgara was compiled by Vallālasena in <span class="sc">s.</span> 1091 = 1169 <span class="sc">a.d.</span>[^sec-08-fn-019] and the Adbhūtasāgara was begun by him in <span class="sc">s.</span> 1090 = 1168 <span class="sc">a.d.</span>[^sec-08-fn-020] Mr. Manomohan Chakravartti has discovered another verse in the Dānasāgara, according to which Vallālasena ascended the throne in S. 1081 = 1159 <span class="sc">a.d.</span>[^sec-08-fn-021], but these verses are hardly of an historical importance, as they appear to be later additions. If, on later enquiry, these verses can be found in all the manuscripts discovered, even then they cannot be accepted as basis for the construction of a chronology, so long as they are to be found in modern manuscripts. If they can be found in manuscript records of the 12th and 13th century <span class="sc">a.d.</span>, then only these dates can be accepted as correct. I have tried to show elsewhere that the Bodh-Gayā inscriptions of Aśokacalla[^sec-08-fn-022] prove that Lakṣmaṇasena died before 1070 <span class="sc">a.d.</span>,[^sec-08-fn-023] consequently, unless some contemporary [p. 106] record can be cited as evidence, it cannot be said, on the basis of the verses in the Dān asāgara and the Adbhūtasāgara, that Vallālasena came to the throne in 1159 A.D. and wrote a book on Law ten years later. Only one inscription of this King has been discovered up to date This is a copper-plate grant discovered in January, 1911, at Sītāhāṭi, near Kātwā, in the Burdwan District of Bengal. It records the grant of the village of Vāllahiṭṭa in the Uttara Rāḍhā *Maṇḍala* of the Varddhamāna *bhukti* to a Brāhmaṇa named Ovāsudeva-Śarmman as the *Dakṣiṇā* of the *Hemāśva-Mahādāna* (the gift of a golden horse), performed by the Queen Vilāsadevi, the King's mother, on the 16th Vaiśākha in the 11th year of his reign.[^sec-08-fn-024] The Dūtaka of this grant was the King's minister of peace and war, *Hari-ghoṣa*, who is the only officer of Vallālasena whose name has come down to us. Vallālasena married Rāmadevī of the Calukya family and was succeeded by his son Lakṣmaṇasena. As the initial year of the Lakṣmaṇasena era is 1119-20 A.D., so Lakṣmaṇasena must have ascended the throne in that year, consequently, Vallālasena cannot be taken to have reigned more than 12 or 13 years. He seems to have been a peaceably inclined, weak, old man, studious in his habits, and a patron of Brāhmanism. Both he and his father seem to have belonged to the Śaiva sect, as their inscriptions begin with an invocation to Śiva.
 
 > _[Margin: Gāhadavāla Conquest of Magadha.]_
 > _[Margin: The Patna Grant of Govinda-candra, V.S. 1183.]_
 
 Step by step, the Gāhaḍavāla Kings of Kanauj advanced towards the East. Govindacandra seems to have conquered the whole of Magadha in the earlier part of his reign (1114 = 54 A.D.). In 1127 he was in a position to grant a village in the Patna District to a Brāhmaṇa. An unpublished grant, a photograph of which has been kindly lent to me by Prof. Jadunath Sircar, M.A., of the Patna College, records the donation of the village of Pāḍoli, together with the village of Guṇāve in the Maṇiari *Pattalā*, to a Brāhmaṇa of the Kāśyapa Gotra named Gaṇeśvara-Śarman, after bathing in the Ganges at Kānyakubja, on Sunday, the 11th of the dark half of Jyaiṣṭha of the Vikrama year 1183 = 1127 A.D. I have been given to understand by Prof. Sircar that this new inscription will shortly be published in the Journal of the Asiatic Society of Bengal. The invasion of Magadha by the Gāhaḍavāla King seems to have led to hostilities between Govindacandra and Lakṣmaṇasena. In the Madanapāḍa Grant of Viśvarūpasena and Edilpur Grant of Keśavasena, Lakṣmaṇasena is said to have erected pillars of victory at Benares (*Vārāṇasī*) and at Allahabad (*Triveṇī*).
 
-> *Belāyāṁ dakṣiṇavdher-mmūśala-dhara gadāpāṇi saṁvāsavedyām Tīrotsaṅge triveṇyāh kamalabhava-makhārambha nirvvyājapute yen-occair-yajña-yūpaiḥ saha*  
+> *Belāyāṁ dakṣiṇavdher-mmūśala-dhara gadāpāṇi saṁvāsavedyām Tīrotsaṅge triveṇyāḥ kamalabhava-makhārambha nirvvyājapute yen-occair-yajña-yūpaiḥ saha*  
 > *samara-jayastambhamālā nyadhāyi. v.*[^sec-08-fn-025]
 
 > _[Margin: Govindracandra invades Bengal.]_
 
-The Maṇiari *Pattalā* mentioned in the copper-plate grant of Govindacandra mentioned above has been identified with the modern Muner, a village of considerable importance in the Patna District, which was a well-known place in the 12th century. Bakhtiyar Khilji directed some of his expeditions against this town before the [p. 107] conquest of Bihar and Bengal.[^sec-08-fn-026] Govindacandra advanced as far as Monghyr in the year 1146 <span class="sc">a.d.</span> and granted the village of Tatacavāḍa in the Paṇḍalā *Pattalā*, in Govisā-loka, that belonged to Dudhāli in Saruvāra, to a Brāhmaṇa named Ṭhakkura Śrīdhara, after bathing in the Ganges at Mudgagiri (Monghyr) on the occasion of the Akṣayatṛtiya, on Monday the 3rd of the bright half of the Vaiśākha of the Vikrama year 1202, the 15th April, 1146 <span class="sc">a.d.</span>[^sec-08-fn-030] Govindacandra was most probably leading an expedition into Bengal when he bathed in the Ganges at Monghyr, and granted the village mentioned above. The expedition was no doubt unsuccessful, because, otherwise, the event would surely have been mentioned in some Gāhaḍavāla inscription. The use of the era of Lakṣmaṇasena in two inscriptions at Bodh-Gayā[^sec-08-fn-027] prove that in spite of the efforts of the Gāhaḍavāla Kings Eastern Magadha continued to be in the possession of the Senas up to 1193 <span class="sc">a.d.</span> Most probably the river Son was the boundary line of the Gāhaḍavāla and the Sena Kingdoms.
+The Maṇiari *Pattalā* mentioned in the copper-plate grant of Govindacandra mentioned above has been identified with the modern Muner, a village of considerable importance in the Patna District, which was a well-known place in the 12th century. Bakhtiyar Khilji directed some of his expeditions against this town before the [p. 107] conquest of Bihar and Bengal.[^sec-08-fn-026] Govindacandra advanced as far as Monghyr in the year 1146 <span class="sc">a.d.</span> and granted the village of Tatacavāḍa in the Paṇḍalā *Pattalā*, in Govisā-loka, that belonged to Dudhāli in Saruvāra, to a Brāhmaṇa named Ṭhakkura Śrīdhara, after bathing in the Ganges at Mudgagiri (Monghyr) on the occasion of the Akṣayatṛtiya, on Monday the 3rd of the bright half of the Vaiśākha of the Vikrama year 1202, the 15th April, 1146 <span class="sc">a.d.</span>[^sec-08-fn-027] Govindacandra was most probably leading an expedition into Bengal when he bathed in the Ganges at Monghyr, and granted the village mentioned above. The expedition was no doubt unsuccessful, because, otherwise, the event would surely have been mentioned in some Gāhaḍavāla inscription. The use of the era of Lakṣmaṇasena in two inscriptions at Bodh-Gayā[^sec-08-fn-028] prove that in spite of the efforts of the Gāhaḍavāla Kings Eastern Magadha continued to be in the possession of the Senas up to 1193 <span class="sc">a.d.</span> Most probably the river Son was the boundary line of the Gāhaḍavāla and the Sena Kingdoms.
 
 > _[Margin: Lakṣmaṇasena.]_
 
-Lakṣmaṇasena, the son of Vallālasena, ascended the throne in 1119 <span class="sc">a.d.</span> He was an energetic and able ruler like his grandfather Vijayasena. In the lifetime of his father he led an expedition into Kaliṅga.[^sec-08-fn-028] After his accession to the throne he defeated the King of Benares, i.e., Govindacandra, in battle and conquered Kāmarūpa.[^sec-08-fn-031] In the copper-plate grants of his sons, Keśavasena and Viśvarūpasena, he is said to have planted a pillar of victory on the shores of the Southern Ocean, which most probably means that he defeated some Southern King in battle. Nothing is known about his length of reign, but his kingdom consisted of Eastern, Western and Northern Bengal and the eastern part of Magadha. It is also probable that part of Mithilā was included in his kingdom.
+Lakṣmaṇasena, the son of Vallālasena, ascended the throne in 1119 <span class="sc">a.d.</span> He was an energetic and able ruler like his grandfather Vijayasena. In the lifetime of his father he led an expedition into Kaliṅga.[^sec-08-fn-029] After his accession to the throne he defeated the King of Benares, i.e., Govindacandra, in battle and conquered Kāmarūpa.[^sec-08-fn-030] In the copper-plate grants of his sons, Keśavasena and Viśvarūpasena, he is said to have planted a pillar of victory on the shores of the Southern Ocean, which most probably means that he defeated some Southern King in battle. Nothing is known about his length of reign, but his kingdom consisted of Eastern, Western and Northern Bengal and the eastern part of Magadha. It is also probable that part of Mithilā was included in his kingdom.
 
 Four copper-plate inscriptions and one stone inscription of this king has been discovered up to date. The earliest of these is the Tarpandighi Grant, found in 1874 at Tarpandighi at Gangarampur in the Dinajpur District. It records the grant of the village of Vilvahiṣṭī in the Pauṇḍravardhana *bhūkti* as the dakṣiṇā of the Golden Horse and Chariot ceremonies (*Hemāśva-ratha*) to a Brāhmaṇa named Śrī Iśvara Śarmman.
 
-During the reign of Lakṣmaṇasena the western part of Magadha seems to have passed into the hands of the Gāhaḍavāla Kings of Kanauj. The local rulers practically acquired independence, as an example of which we may cite the name of the Mahānāyaka Pratāpadhavala of Jāpila. The earliest record of this generation is a short rock inscription near the Tutrahi Falls in the Shahabad District, the date of which corresponds to 19th April, 1158 <span class="sc">a.d.</span>[^sec-08-fn-029] According to an unpublished inscription at Rohṭasgaḍh, the King set up some monuments on the 27th March, 1169 <span class="sc">a.d.</span>[^sec-08-fn-032] In the same district, there is another rock inscription at Tārāchaṇḍī incised in the Vikrama era 1225, corresponding to 1169 <span class="sc">a.d.</span> According to another inscription at Rohtaṣgaḍh, the family to which this dynasty belonged is called Khayāravāla *Vaṁsa*
+During the reign of Lakṣmaṇasena the western part of Magadha seems to have passed into the hands of the Gāhaḍavāla Kings of Kanauj. The local rulers practically acquired independence, as an example of which we may cite the name of the Mahānāyaka Pratāpadhavala of Jāpila. The earliest record of this generation is a short rock inscription near the Tutrahi Falls in the Shahabad District, the date of which corresponds to 19th April, 1158 <span class="sc">a.d.</span>[^sec-08-fn-031] According to an unpublished inscription at Rohṭasgaḍh, the King set up some monuments on the 27th March, 1169 <span class="sc">a.d.</span>[^sec-08-fn-032] In the same district, there is another rock inscription at Tārāchaṇḍī incised in the Vikrama era 1225, corresponding to 1169 <span class="sc">a.d.</span> According to another inscription at Rohtaṣgaḍh, the family to which this dynasty belonged is called Khayāravāla *Vaṁśa*
 
 
 <!-- page: 78 | folio: 108 -->
@@ -1457,15 +1453,15 @@ The rest of the records are colophones of manuscripts.
 
 
 <!-- page: 81 | folio: 111 -->
-2\.  -*nalinī-suhaṃsaḥ* || *Guhy-āvalī-vivṛtiḥ* || *Vivṛtiḥ paṇḍita-sthavira-Śrī-Ghanade- vasya* || 3.  *Govindapāladevānāṃ saṃ* 37 *Śrāvaṇa dine* 11 *likhitam-idaṃ pustakaṃ kā Śrī-Gayākareṇ-eti* ||
+2\.  -*nalinī-suhaṃsaḥ* || *Guhy-āvalī-vivṛtiḥ* || *Vivṛtiḥ paṇḍita-sthavira-Śrī-Ghanade- vasya* || 3.  *Govindapāladevānāṃ saṃ* 37 *Śrāmaṇa dine* 11 *likhitam-idaṃ pustakaṃ kā Śrī-Gayākareṇ-eti* ||
 
 (5) Colophone of a MS. of the *Pañcākāra* in the collection of the University of Cambridge :—
 
-1\.  *Hemante Ratnasambhavaḥ* । *Vasante Amitābhaḥ* । *Grīṣme Amogha-siddhiḥ* । *Śiśire Vajrasattvaḥ* । *Dharmma-dhātu Vajrasatvaḥ dvāre Vajrasa-* 2.  *-tvaḥ* । *Sarvva-trailokyam-ekākāra-vajrasatvaḥ praśasyate* । *pañcakār-ātmakaṁ sarvvaṁ trailokyaṁ sacarācaraṁ* । *yady-api rājyaṁ nirvavika-* 3.  *-lpamayam dṛśyate* । *Jagat pañcaskandha-svabhāvena pañca-Vuddhāḥ pra- kīrttitāḥ* । *Pañcāvaraṇa-nirmmuktā Vuddhāḥ syuḥ pañca-* 4.  *Kaulikāḥ* । *Kāni pañc-āvaraṇāni jñeyāni kleśas-tathā janma-karmma-saṃjñ- ānam-ajñānañ-ca tath-aiva-ca* । *pañcāvaraṇāni* 5.  *c-aitāni kathitāni tathāgataiḥ* । *Evaṁ vimṛṣyamāṇo bhāvayet satataṁ prāp- ṇotyagrajaṁ vodhim* । *Samyak-sambuddha-bhāṣitaḥ pañcākā-* 6.  *-raḥ samāptaḥ* ॥ *Parameśvar-ety-ādi rājavalī pūrvvavat* । *Śrīmad-Govinda-pāla- devānāṁ vinaṣṭa-rājye aṣṭa-triṃśat-samvatsare s* 7.  *bhilikhyamāne* । *Jyaiṣṭha-Kṛṣṇ-āṣṭmyāṁ tithau Yatra saṁ* 38 *Jyaiṣṭhadine* 8 *likhitam-idaṁ pustakaṁ Kā Śrī-Gayākareṇ-eti*
+1\.  *Hemante Ratnasambhavaḥ* । *Vasante Amitābhaḥ* । *Grīṣme Amogha-siddhiḥ* । *Śiśire Vajrasattvaḥ* । *Dharmma-dhātu Vajrasatvaḥ dvāre Vajrasa-* 2.  *-tvaḥ* । *Sarvva-trailokyam-ekākāra-vajrasatvaḥ praśasyate* । *pañcakār-ātmakaṁ sarvvaṁ trailokyaṁ sacarācaraṁ* । *yady-api rājyaṁ nirvvika-* 3.  *-lpamayam dṛśyate* । *Jagat pañcaskandha-svabhāvena pañca-Vuddhāḥ pra- kīrttitāḥ* । *Pañcāvaraṇa-nirmmuktā Vuddhāḥ syuḥ pañca-* 4.  *Kaulikāḥ* । *Kāni pañc-āvaraṇāni jñeyāni kleśas-tathā janma-karmma-saṃjñ- ānam-ajñānañ-ca tath-aiva-ca* । *pañcāvaraṇāni* 5.  *c-aitāni kathitāni tathāgataiḥ* । *Evaṁ vimṛṣyamāṇo bhāvayet satataṁ prāp- ṇotyagrajāṁ vodhim* । *Samyak-sambuddha-bhāṣitaḥ pañcākā-* 6.  *-raḥ samāptaḥ* ॥ *Parameśvar-ety-ādi rājāvalī pūrvvavat* । *Śrīmad-Govinda-pāla- devānāṁ vinaṣṭa-rājye aṣṭa-triṃśat-samvatsare s* 7.  *bhilikhyamāne* । *Jyaiṣṭha-Kṛṣṇ-āṣṭmyāṁ tithau Yatra saṁ* 38 *Jyaiṣṭhadine* 8 *likhitam-idaṁ pustakaṁ Kā Śrī-Gayākareṇ-eti*
 
 (6) Colophone of a MS. of the *Yoga-ratna-mālā* by Kāhṇa or Kṛṣṇācārya in the collection of the University of Cambridge[^sec-08-fn-046] :—
 
-1\.  *-de* । *Mahāsūkṣma-savāg-gocaratvāt* । *Vajrastathāgatāḥ* । *Teṣāmmaṇḍaṁ sāraṁ*. । *Nabho-ghanam-anābhāṣatvāt* । *Virajaskaṁ kleśakṣayāt Mokṣadaṁ* 2.  *Saṁsārātikrāntavāt* । *Pitā te tvam-as-īti* । *Tath-aiva praty-ātma-vedytvāt* । *Vajrapadmayor-adhiṣṭhānaṁ yen-ādhiṣṭhyate* । *Yogaratnasya mālā* 3.  *-yāṁ kṛtvā Hevajra-pañjikāṁ* । *yat-puṇyam-ācitaṁ tena nikleśaḥ syād-akhilo janaḥ* ॥ *Śrī-Hevajrapañjikā Yogaratnamālā sa-* 4.  -*māptā* ॥ *Kṛtir-iyam Paṇḍit-ācārya Śrī-Kahṇa-pādānām-iti* । *Parameśvar- ety-ādi rājavalī pūrvvavat* । *Śrīma-* 5.  *-dgovindapāladevānāṁ saṁ* 39 *bhādradine* 14 *likhitam-idaṁ pustakaṁ kā Śrī Gayākareṇa* ॥
+1\.  *-de* । *Mahāsūkṣma-savāg-gocaratvāt* । *Vajrastathāgatāḥ* । *Teṣāmmaṇḍaṁ sāraṁ*. । *Nabho-ghanam-anābhāṣatvāt* । *Virajaskaṁ kleśakṣayāt Mokṣadaṁ* 2.  *Saṁsārātikrāntavāt* । *Pitā te tvam-as-īti* । *Tath-aiva praty-ātma-vedytvāt* । *Vajrapadmayor-adhiṣṭhānaṁ yen-ādhiṣṭhyate* । *Yogaratnasya mālā* 3.  *-yāṁ kṛtvā Hevajra-pañjikāṁ* । *yat-puṇyam-ācitaṁ tena nikleśaḥ syād-akhilo janaḥ* ॥ *Śrī-Hevajrapañjikā Yogaratnamālā sa-* 4.  -*māptā* ॥ *Kṛtir-iyam Paṇḍit-ācārya Śrī-Kahṇa-pādānām-iti* । *Parameśvar- ety-ādi rājāvalī pūrvvavat* । *Śrīma-* 5.  *-dgovindapāladevānāṁ saṁ* 39 *bhādradine* 14 *likhitam-idaṁ pustakaṁ kā Śrī Gayākareṇa* ॥
 
 (7) A MS. of the *Aṣṭasāhasrikā Prajñāpāramitā* examined by Mahāmahopādhyāya Hara Prasāda Śāstri in 1893. “The work is on palm-leaves pressed between two wooden boards, with sticks inserted through holes in place of strings. One of the boards is besmeared with sandal paste, which has accumulated there for ages. The MS. was evidently an object of worship, and as Prajñāpāramitā is also called Rakshā-Bhagavatī, it appears to have been regarded as a charm for protection against evils. The MS. was copied in the 38th year of Govindapāla, who is styled Gauṛeśvara, i.e. the year 1198 <span class="sc">a.d.</span>[^sec-08-fn-047]
 
@@ -1500,8 +1496,8 @@ I have since been informed by Pandit Rajani Kanta Chakravartti of Maldah and Bab
 ### Notes
 
 [^sec-08-fn-001]: (1) Mem. A.S.B , Vol. III, p. 51.
-[^sec-08-fn-002]: (3) J.A.S.B. 1896, Pt. I, p. 239
-[^sec-08-fn-003]: (2) Epi Ind., Vol. II., p. 351.
+[^sec-08-fn-002]: (2) Epi Ind., Vol. II., p. 351.
+[^sec-08-fn-003]: (3) J.A.S.B. 1896, Pt. I, p. 239
 [^sec-08-fn-004]: (4) Epi. Ind., Vol. II, p. 351.
 [^sec-08-fn-005]: (1) J.A.S.B., 1900, Pt. I, p. 71.
 [^sec-08-fn-006]: (2) Mem. A.S.B., Vol. III, p. 51.
@@ -1525,11 +1521,11 @@ I have since been informed by Pandit Rajani Kanta Chakravartti of Maldah and Bab
 [^sec-08-fn-024]: (1) Vaṅgiya Sāhitya Pariṣat Patrikā, Vol. XVII, Pt IV, pp. 237-38.
 [^sec-08-fn-025]: (2) J.A.S.B., Vol. VII, p. 43, and Vol. 1896, Pt. I, p. 9.
 [^sec-08-fn-026]: (1) Tabakati-i-Nasiri, Trans. by Raverty, p. 550.
-[^sec-08-fn-027]: (3) Cunningham's Mahabodhi, p. 78, and Ind. Ant., Vol. X, p. 346.
-[^sec-08-fn-028]: (4) J.A.S.B. (N.S.), Vol. V, p. 467.
-[^sec-08-fn-029]: (6) Epi. Ind., Vol. IV, p. 311.
-[^sec-08-fn-030]: (2) Epi. Ind., Vol. VII, p. 98.
-[^sec-08-fn-031]: (5) Ibid.
+[^sec-08-fn-027]: (2) Epi. Ind., Vol. VII, p. 98.
+[^sec-08-fn-028]: (3) Cunningham's Mahabodhi, p. 78, and Ind. Ant., Vol. X, p. 346.
+[^sec-08-fn-029]: (4) J.A.S.B. (N.S.), Vol. V, p. 467.
+[^sec-08-fn-030]: (5) Ibid.
+[^sec-08-fn-031]: (6) Epi. Ind., Vol. IV, p. 311.
 [^sec-08-fn-032]: (7) Ibid., Vol. V, App. p. 22, No. 152.
 [^sec-08-fn-033]: (1) Journal of the American Oriental Society, Vol. VI. p. 547.
 [^sec-08-fn-034]: (2) Atkinson's Kumayun.
@@ -1608,11 +1604,11 @@ I have since been informed by Pandit Rajani Kanta Chakravartti of Maldah and Bab
 - II. *An Alchemical Compilation of the 13th Century A.D.*—*By* H. E. <span class="sc">Stapleton</span>, B.A., B.Sc., *and* R. F. <span class="sc">Azo</span>. (Price Re. 1; or 1*s.* 6*d.*)
 - III. *The Journals of Major James Rennell, F.R.S., First Surveyor-General of India.*—*Edited by* T. H. D. <span class="sc">LaTouche</span>. (Price Rs. 4; or 6*s.*)
 - IV. *Lisu Tribes of Burma-China Frontier.*—*By* A. <span class="sc">Rose</span> and J. <span class="sc">Coggin Brown</span>. (Price Rs. 3; or 4*s.*)
-- V. *The Vyavahâra-Mâtrikâ of Jimutavâhana.*—*By* <span class="sc">The Hon. Justice Sir Asutosh Mookerjee</span>, <span class="sc">Kt.</span>, C.S.I., M.A., D.L., D.Sc., F.R.A.S., F.R.S.E. (Price Re. 1-8; or 2*s.* 3*d.*)
+- V. *The Vyavahâra-Mâtrikâ of Jimutavāhana.*—*By* <span class="sc">The Hon. Justice Sir Asutosh Mookerjee, Saraswati</span>, <span class="sc">Kt.</span>, C.S.I., M.A., D.L., D.Sc., F.R.A.S., F.R.S.E. (Price Re. 1-8; or 2*s.* 3*d.*)
 - VI. *Some Current Pushtu Folk Stories.*—*By* F. H. <span class="sc">Malyon</span>, 21st Punjabis. (Price Re. 1-8; or 2*s.* 3*d.*)
 - VII. *The Chank Bangle Industry.*—*By* J. <span class="sc">Hornell</span>. (Price Rs. 2; or 2*s.* 8*d.*)
 - VIII. *Catuḥśatikā* by *Arya Deva.*—*By* <span class="sc">Mahamahopadhyaya Haraprasad Shastri</span>, C.I.E. (Price Rs. 2; or 2*s.* 10*d.*)
-- IX. *Father A. Monserrate's Mogolicae Legationis Commentarius.*—*By* <span class="sc">Rev. H. Hosten</span>, S.J. (Price Rs. 4; or 5*s.* 4*d.*)
+- IX. *Father A. Monserrate's Mongolicae Legationis Commentarius.*—*By* <span class="sc">Rev. H. Hosten</span>, S.J. (Price Rs. 4; or 5*s.* 4*d.*)
 
 #### Vol. IV.
 
@@ -1636,7 +1632,7 @@ I have since been informed by Pandit Rajani Kanta Chakravartti of Maldah and Bab
 ### MEMOIRS
 
 
-##### OF THE
+#### OF THE
 
 
 ### ASIATIC SOCIETY OF BENGAL
@@ -1700,16 +1696,16 @@ The Asiatic Society, 1, Park Street.</span>
 
 <!-- page: 101 | folio: 131 -->
 
-![Chandimau (now Indian Museum) image inscription of the 42nd year of Rāmapāla. — Indian Museum image inscription of the 13th year of Vigrahapāla III.](../figures/fig-014_p0101.webp)
+![Chandimau (now Indian Museum) image inscription of the 42nd year of Rāmapāla.](../figures/fig-014_p0101.webp)
 
 
-![The Manda Inscription of Gopāla III.](../figures/fig-015_p0101.webp)
+![Indian Museum image inscription of the 13th year of Vigrahapāla III.](../figures/fig-015_p0101.webp)
 
 
-![Bodh-Gayā image inscription of the 11th year of Mahīpāla I.](../figures/fig-016_p0101.webp)
+![The Manda Inscription of Gopāla III.](../figures/fig-016_p0101.webp)
 
 
-![Rubbing of Bodh-Gayā image inscription of the 11th year of Mahīpāla I.](../figures/fig-017_p0101.webp)
+![Bodh-Gayā image inscription of the 11th year of Mahīpāla I.](../figures/fig-017_p0101.webp)
 
 
 ![Rubbing of another segment of Bodh-Gayā image inscription.](../figures/fig-018_p0101.webp)
@@ -1717,16 +1713,16 @@ The Asiatic Society, 1, Park Street.</span>
 
 <!-- page: 103 | folio: 133 -->
 
-![The Rām-gayā image inscription of Mahendrapāla.—The year 8. — The British Museum image inscription of Mahendrapāla.—The year 9.](../figures/fig-019_p0103.webp)
+![The Ramgaya image inscription of Mahendrapāla.—The year 8.](../figures/fig-019_p0103.webp)
 
 
-![The Vāsudeva temple inscription.](../figures/fig-020_p0103.webp)
+![The British Museum image inscription of Mahendrapāla.—The year 9.](../figures/fig-020_p0103.webp)
 
 
-![The Indian Museum image inscription of Nārāyaṇapāla.—The year 9.](../figures/fig-021_p0103.webp)
+![The Vāsudeva temple inscription.](../figures/fig-021_p0103.webp)
 
 
-![Rubbing/facsimile of the Indian Museum image inscription of Nārāyaṇapāla, dated regnal year 9.](../figures/fig-022_p0103.webp)
+![The Indian Museum image inscription of Nārāyaṇapāla.—The year 9.](../figures/fig-022_p0103.webp)
 
 
 <!-- page: 105 | folio: 135 -->
@@ -1745,7 +1741,7 @@ The Asiatic Society, 1, Park Street.</span>
 
 <!-- page: 106 | folio: 136 -->
 
-![PLATE XXXVI. — amitā in the Bodleian Library. 15th year of Rāmapāla.](../figures/fig-027_p0106.webp)
+![amitā in the Bodleian Library. 15th year of Rāmapāla.](../figures/fig-027_p0106.webp)
 
 
 ![Collection of the Royal Asiatic Society. 4th year of Govindapāla.](../figures/fig-028_p0106.webp)
@@ -1823,7 +1819,7 @@ The Asiatic Society, 1, Park Street.</span>
 - “Aṣṭasāhasrika Prajñāpāramitā” .. 65, 74, 93, 97, 108, 110, 111
 - Atīśa, the life of .. .. 77
 - Avanivarman I .. .. 52
-- —— II .. .. 52
+  - —— II .. .. 52
 - Avanti (Malwa) .. .. 50, 51
 
 ##### B
@@ -1837,19 +1833,19 @@ The Asiatic Society, 1, Park Street.</span>
 - Bhadra country .. .. 47
 - Bhāgyadevī, daughter of Tuṅga 62
 - Bhāṇḍadeva, a monastery at Gayā erected by .. .. 59
-- —— Vappadeva's son .. 60, 61
+  - —— Vappadeva's son .. 60, 61
 - Bhaṇḍi, cousin of Harṣavarddhana 44
-- —— race of .. .. 50
+  - —— race of .. .. 50
 - *Page*
 - Bhavadeva I .. .. 98
-- Bhavadeva II, minister of Harivammadeva .. .. 98
+- Bhavadeva II, minister of Harivarmmadeva .. .. 98
 - Bhīma, Rudoka's son, 85; execution of 91
 - Bhīmadeva I of Anahilvād .. 79
 - Bhīmayaśas, prince of Pīṭhī and Magadha 87, 89
 - Bhoja (N.-E. Rajputana) .. 51
-- —— I, expedition against Bengal of .. 58, 59
-- —— I, Gurjara king 52, 55, 58, 59, 64, 65
-- —— II, son of Mahendrapāla and Dehanāgā .. .. 65, 66
+  - —— I, expedition against Bengal of .. 58, 59
+  - —— I, Gurjara king 52, 55, 58, 59, 64, 65
+  - —— II, son of Mahendrapāla and Dehanāgā .. .. 65, 66
 - Bhojavarman .. .. 97
 - Bihar .. .. 43, 45, 71
 - Boar incarnation .. .. 86
@@ -1893,12 +1889,10 @@ The Asiatic Society, 1, Park Street.</span>
 - with .. .. .. 86, 87
 - “Dharmmamaṅgala” .. .. 46
 - Dharmmamitra, Buddhist elder .. 62
-- Dharmmapāla (Dharmmapāladeva)
-- 46, 47, 48, 49, 50, 51, 52, 53, 56, 62
-- ——, a feudatory of Mahīpāla .. 90
-- Dhruvarāja, father of Govinda III
-- 44, 49, 50, 51, 52
-- —— II of Gujarat .. .. 65
+- Dharmmapāla (Dharmmapāladeva) 46, 47, 48, 49, 50, 51, 52, 53, 56, 62
+  - ——, a feudatory of Mahīpāla .. 90
+- Dhruvarāja, father of Govinda III 44, 49, 50, 51, 52
+  - —— II of Gujarat .. .. 65
 - Divvoka, “rebel” 84, 85, 87
 - Dorapavarddhana of Kauśāmbī .. 90
 - Drāviḍas (=Rāṣṭrakūṭas) .. .. 56
@@ -1914,17 +1908,16 @@ The Asiatic Society, 1, Park Street.</span>
 - Gāhaḍavāla 87, 88, 89, 106, 107, 108
 - Gandhāra (N.-W. Frontier Provinces) .. 51
 - Ganges and Yamunā, confluence of .. 66
-- ——, bridge of boats on the .. 90, 91
+  - ——, bridge of boats on the .. 90, 91
 - Gāṅgeyadeva, king of Cedis 70, 74, 76
 - Garga, Dharmmapāla’s minister .. 62
-- Gauḍa, 43, 44, 45, 56, 59, 77, 89; occupied
-- by Mongols .. 63
-- ——, Kamboja kings of .. 69
+- Gauḍa, 43, 44, 45, 56, 59, 77, 89; occupied by Mongols .. 63
+  - ——, Kamboja kings of .. 69
 - Gayā, city of .. .. 58, 59, 60, 61
 - Ghanarāma, author of Dharmmamaṅgala 46
 - Gopāla (Gopāladeva) I .. 45, 47, 48, 62, 84
-- —— II .. .. 65, 66, 69, 70
-- —— III .. 84, 85, 92, 94, 102
+  - —— II .. .. 65, 66, 69, 70
+  - —— III .. 84, 85, 92, 94, 102
 - Gopāladeva’s election .. 45
 - Govarddhana, Ādideva’s son, renowned
 - warrior .. 98
@@ -1961,7 +1954,7 @@ The Asiatic Society, 1, Park Street.</span>
 - Gujarat branch of the Rāṣṭrakūṭa family 52
 - Guravamiśra, Kedāramiśra’s son 56, 62, 69
 - Gurjāra family .. 49, 58, 60, 63, 64, 89
-- —— -Pratīhāra Empire .. 66, 67, 69
+  - —— -Pratīhāra Empire .. 66, 67, 69
 - Gurjaras, 45, 50, 51, 52, 55, 56, 58, 66, 70, 77
 
 #### H
@@ -2028,7 +2021,7 @@ The Asiatic Society, 1, Park Street.</span>
 - Pāla .. .. 47
 - Pathari .. .. 53
 - Pratīhāra .. .. 58
-- —— Kakkuka .. .. 59
+  - —— Kakkuka .. .. 59
 - Rāmapāla .. .. 63
 - Rām-gayā .. .. 63
 - Rohṭasgaḍh .. .. 107
@@ -2046,13 +2039,13 @@ The Asiatic Society, 1, Park Street.</span>
 #### J
 
 - Jaina work, Vatsarāja mentioned in .. 47
-- Jātakhadga, Khadgodyama's son .. 67
+- Jātakhaḍga, Khaḍgodyama's son .. 67
 - Jātavarman .. .. 97
 - Jayadeva, the Licchavi, grandson of Harṣadeva .. .. 43
 - Jayapāla, father of Vigrahapāla I 57, 58, 62
 - Jayāpīḍa, story of the banished king .. 44
-- Jayasimha of Daṇḍabhūkti .. 71, 89
-- —— II .. .. .. 99
+- Jayasiṁha of Daṇḍabhūkti .. 71, 89
+  - —— II .. .. .. 99
 - Jīvitagupta II .. .. 43
 - Jyotirvarman .. .. .. 98, 99
 
@@ -2065,17 +2058,17 @@ The Asiatic Society, 1, Park Street.</span>
 - 104, 107
 - Kamboja race, king of .. .. 68, 69
 - Kambojas, Mongolian tribe .. .. 55, 56, 63
-- —— the name of .. 69
+  - —— the name of .. 69
 - Kanauj (Mahodaya), 43, 49, 50, 51, 52, 58, 106
 - “ Kaṅurpālā ” .. .. 46
 - Kānyakubja, occupied by Indra III .. 66
-- —— the capital of the Gurjaras .. 58, 89
+  - —— the capital of the Gurjaras .. 58, 89
 - Karkarāja .. .. 45
-- —— II .. .. 52, 53
+  - —— II .. .. 52, 53
 - Karṇadeva, Cedi emperor 51, 59, 65, 71, 76, 77,
 - 79, 80, 98
 - Karṇa-Keśarī of Utkala, defeated by
-- Jayasimha .. .. 71, 89
+- Jayasiṁha .. .. 71, 89
 - Karṇāṭakas, defeated by Mahīpāla I .. 73, 76
 - Karṇṇāta army, defeated by Vāhukadhavala .. .. .. 52
 - Kauśambī .. .. .. 90
@@ -2091,7 +2084,7 @@ The Asiatic Society, 1, Park Street.</span>
 - Kokkala I, Cedi emperor .. .. 65
 - Kośala (Orissa hill tracts) .. .. 43, 71
 - Kṛṣṇa II, Rāṣṭrakūṭa king .. .. 66
-- —— III .. .. 66
+  - —— III .. .. 66
 - Kṣitipāla, *see* Mahīpāla
 - Kulinism, Vallālasena the founder of .. 105
 - Kumārapāla .. 84, 85, 92, 94, 101, 102
@@ -2110,16 +2103,14 @@ The Asiatic Society, 1, Park Street.</span>
 - 104
 - Mādhavagupta .. .. .. 43
 - Mādhavasena .. .. .. 108
-- Magadha 43, 56, 58, 59, 60, 63, 64, 69, 77, 97,
-- 103, 104, 112
-- —— recovered by the Pālas 65, 66, 70
+- Magadha 43, 56, 58, 59, 60, 63, 64, 69, 77, 97, 103, 104, 112
+  - —— recovered by the Pālas 65, 66, 70
 - Mahaṇa, king of Aṅga .. .. 86, 87
 - Mahāsamanta, *see* Karkarāja II
 - Mahendrapāla .. 52, 59, 63, 64, 65, 66
 - Mahīndrapāla (Mahendrapāla) .. 64
-- Mahīpāla I, 47, 57, 59, 63, 66, 69, 70, 72, 73, 74,
-- 75, 76, 90
-- —— II .. 61, 76, 83, 84, 85, 97
+- Mahīpāla I, 47, 57, 59, 63, 66, 69, 70, 72, 73, 74, 75, 76, 90
+  - —— II .. 61, 76, 83, 84, 85, 97
 - Mahmūd of Ghazni .. .. 70
 - Mahodaya, *see* Kanauj.
 - Mālava .. .. .. 56, 59
@@ -2129,7 +2120,7 @@ The Asiatic Society, 1, Park Street.</span>
 - Māyana, conqueror of Assam .. 92, 101
 - Mithilā (*see* Tīrabhūkti) conquered by
 - Mahīpāla, 70, 73, 74, 95; attacked by
-- Vijayaseua .. .. .. 104
+- Vijayasena .. .. .. 104
 - Monghyr (= Mudgagiri) .. .. 107
 - Mongolian tribe, invasion of North Bengal .. .. .. 63, 68, 69
 - Mudgagiri, siege of .. .. 59, 60, 62
@@ -2156,9 +2147,8 @@ The Asiatic Society, 1, Park Street.</span>
 - Nayapāla, successor of Mahīpāla, 74, 76, 77, 78,
 - 79, 87, 95
 - Northern Bengal campaign of Rāmapāla 87
-- —— India, conquered by Dharmmapāla 50
-- —— Indian politics in the 8th and 9th
-- centuries .. .. .. 48
+  - —— India, conquered by Dharmmapāla 50
+  - —— Indian politics in the 8th and 9th centuries .. .. .. 48
 
 #### **O**
 
@@ -2169,7 +2159,7 @@ The Asiatic Society, 1, Park Street.</span>
 
 #### **P**
 
-- “ Pañcakara ” .. .. III
+- “ Pañcakara ” .. .. 111
 - Pañcāla country .. .. .. 51
 - Pañca-rakṣā .. .. .. 79
 - Pāṇḍyas, subdued by Karṇṇadeva .. 77
@@ -2195,9 +2185,8 @@ The Asiatic Society, 1, Park Street.</span>
 <!-- page: 119 | folio: 149 -->
 - *Page*
 - Rājyapāla, Devapāla's son .. .. 56, 57, 60
-- —— Nārāyaṇapāla's son, marriage of,
-- 62; reign of .. .. .. 65, 69
-- —— the eldest son of Rāmapāla, .. 85, 90, 92
+  - —— Nārāyaṇapāla's son, marriage of, 62; reign of .. .. .. 65, 69
+  - —— the eldest son of Rāmapāla, .. 85, 90, 92
 - Rājyapāladeva, murdered by Indian
 - princes .. .. .. .. 70
 - Rāmabhadra, Gurjara king .. .. 52, 56, 58
@@ -2230,17 +2219,17 @@ The Asiatic Society, 1, Park Street.</span>
 - Sārnāth, temple of .. .. 74
 - Sea-god, Pālas the descendants of .. 46
 - Sena dynasty .. .. 99, 105, 106
-- Siṅhadeva, Vāmadeva's son .. .. 60, 61
+- Sīhadeva, Vāmadeva's son .. .. 60, 61
 - Śiva, temple at Kalaśapota .. .. 62
-- Śivarāja, cousin of Rāmapāla 85, 85, 90, 93
+- Śivarāja, cousin of Rāmapāla 85, 86, 90, 93
 - Soma of Paduvanvā .. .. 90
 - Someśvara, Darbhapāṇi's son .. .. 62
-- —— I, of the Western Cālukya .. 79
+  - —— I, of the Western Cālukya .. 79
 - Sthirapāla, Vasantapāla's brother .. 74
 - Sun, the race of the .. .. 46
 - Śūrapāla I, *see* Vigrahapāla I.
-- —— II .. .. 57, 83, 84, 85
-- —— of Kujabaṭi .. .. 90
+  - —— II .. .. 57, 83, 84, 85
+  - —— of Kujabaṭi .. .. 90
 - Suvarṇadeva, uncle of Rāmapāla 83, 90, 93
 
 #### T
@@ -2253,7 +2242,7 @@ The Asiatic Society, 1, Park Street.</span>
 - 92, 95
 - Thanesar .. .. .. 44
 - Tiṅgyadeva, chief of Assam rebellion .. 101
-- Tirabhūkti (Tirhut, Mithilā) .. 59, 62, 63, 70
+- Tīrabhūkti (Tirhut, Mithilā) .. 59, 62, 63, 70
 - Tīrthika, king of Karṇya .. .. 77
 - Tribhuvanapāla .. .. 53, 54
 - Trilocanapāla, king of Gurjaras .. 70
@@ -2282,7 +2271,7 @@ The Asiatic Society, 1, Park Street.</span>
 - Vāmadeva .. .. .. 60, 61
 - Vaṅga (Eastern Bengal), 44, 45, 49, 51, 56, 58, 59,
 - 69, 71, 72, 76, 77
-- Vappadeva, Siṅhadeva's son .. .. 60, 61
+- Vappadeva, Siḥadeva's son .. .. 60, 61
 - Varendra (Northern Bengal) 63, 73, 84, 85, 90,
 - 99, 102, 104
 - Varman dynasty of Eastern Bengal .. 97
@@ -2291,9 +2280,8 @@ The Asiatic Society, 1, Park Street.</span>
 - 51
 - Veṅgī .. .. .. 56, 59
 - Vigrahapāla I (Śūrapāla I), 55, 56, 57, 58, 59, 62
-- —— II .. .. 66, 69, 70
-- —— III 46, 47, 62, 70, 79, 80, 81, 82, 83,
-- 84, 85, 86, 95, 97, 98, 112
+  - —— II .. .. 66, 69, 70
+  - —— III 46, 47, 62, 70, 79, 80, 81, 82, 83, 84, 85, 86, 95, 97, 98, 112
 - Vijayapur .. .. .. 104
 - Vijayarāja of Nidrāvala .. .. 90
 
@@ -2370,7 +2358,7 @@ The Asiatic Society, 1, Park Street.</span>
 - III. *The Exact Determination of the Fastness of the more Common Indigenous Dyes of Bengal, and comparison with typical synthetic Dye-stuffs. Part I. Dyeing on Cotton.*—By E. R. <span class="sc">Watson</span>. (Price Re. 1; *or* 1*s*. 6*d*.)
 - IV. *The Saorias of the Rajmahal Hills.*—By R. B. <span class="sc">Bainbridge</span>. (Price Rs. 2; *or* 2*s*. 10*d*.)
 - V. *Mundari Poetry, Music and Dances.*—By <span class="sc">Rev. Fr. J. Hoffmann</span>, S.J. (Price Re. 1; *or* 1*s*. 6*d*.)
-- VI. *Tarikh-i-Nusratjangi.*—By <span class="sc">Harinath De</span>. (Price Re. 1; *or* 1*s*. 6*d*.)
+- VI. *Tarīkh-i-Nuṣratjangi.*—By <span class="sc">Harinath De</span>. (Price Re. 1; *or* 1*s*. 6*d*.)
 - VII. *The Exact Determination of the Fastness of the more Common Indigenous Dyes of Bengal, and comparison with typical Synthetic Dye-stuffs. Part II. Dyeing on Silk.*—By E. R. <span class="sc">Watson</span>. (Price Annas 12; *or* 1*s*. 2*d*.)
 - VIII. *Monograph on Sea Snakes.*—By <span class="sc">Major F. Wall</span>, I.M.S. (Price Rs. 5; *or* 7*s*.)
 - IX. *A Polyglot List of Birds in Turki, Manchu and Chinese.*—By <span class="sc">E. Denison Ross</span>, <span class="sc">Ph.D.</span> (Price Rs. 4; *or* 6*s*.)
@@ -2383,10 +2371,10 @@ The Asiatic Society, 1, Park Street.</span>
 - II. *An Alchemical Compilation of the 13th Century A.D.*—By H. E. <span class="sc">Stapleton</span>, B.A., B.Sc., *and* R. F. <span class="sc">Azo</span>. (Price Re. 1; *or* 1*s*. 6*d*.)
 - III. *The Journals of Major James Rennell, F.R.S., First Surveyor-General of India.*—*Edited by* T. H. D. <span class="sc">LaTouche</span>. (Price Rs. 4; *or* 6*s*.)
 - IV. *Lisu Tribes of Burma-China Frontier.*—By A. <span class="sc">Rose</span> and J. <span class="sc">Coggin Brown</span>. (Price Rs. 3; *or* 4*s*.)
-- V. *The Vyavahâra-Mâtrikâ of Jîmûtavâhana.*—By <span class="sc">The Hon. Justice Sir Asutosh Mookerjee, Saraswati</span>, <span class="sc">Kt.</span>, C.S.I., M.A., D.L., D.Sc., F.R.A.S., F.R.S.E. (Price Re. 1-8; *or* 2*s*. 3*d*.)
+- V. *The Vyavahâra-Mâtrikâ of Jimutavāhana.*—By <span class="sc">The Hon. Justice Sir Asutosh Mookerjee, Saraśwati</span>, <span class="sc">Kt.</span>, C.S.I., M.A., D.L., D.Sc., F.R.A.S., F.R.S.E. (Price Re. 1-8; or 2*s*. 3*d*.)
 - VI. *Some Current Pushtu Folk Stories.*—By F. H. <span class="sc">Malyon</span>, 21*st Punjabis*. (Price Re. 1-8; *or* 2*s*. 3*d*.)
 - VII. *The Chank Bangle Industry.*—By J. <span class="sc">Hornell</span>. (Price Rs. 2; *or* 2*s*. 8*d*.)
-- VIII. *Catuhśatikā by Ārya Deva.*—By <span class="sc">Mahamahopadhyaya Haraprasad Shastri</span>, C.I.E. (Price Rs. 2; *or* 2*s*. 10*d*.)
+- VIII. *Catuḥśatikā by Ārya Deva.*—By <span class="sc">Mahamahopadhyaya Haraprasad Shastri</span>, C.I.E. (Price Rs. 2; *or* 2*s*. 10*d*.)
 - IX. *Father A. Monserrate's Mongolicae Legationis Commentarius.*—By <span class="sc">Rev. H. Hosten</span>, S.J. (Price Rs. 4; *or* 5*s*. 4*d*.)
 
 #### Vol. IV.

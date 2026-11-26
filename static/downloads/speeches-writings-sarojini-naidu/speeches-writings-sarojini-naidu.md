@@ -13,6 +13,9 @@
 
 <!-- page: 7 | folio: i -->
 
+### SPEECHES AND WRITINGS OF
+
+
 ### SAROJINI NAIDU
 
 
@@ -125,7 +128,7 @@ Sarojini, the eldest of his children, was given a very good training by her tale
 
 <!-- page: 14 | folio: viii -->
 
-##### <span class="sc">A CHILD POET</span>
+#### <span class="sc">A CHILD POET</span>
 
 Mrs. Sarojini, "lisped in numbers for the numbers came." She says of herself :
 
@@ -134,14 +137,14 @@ Mrs. Sarojini, "lisped in numbers for the numbers came." She says of herself :
 This long extract shows us how she felt within herself the stirrings of irrepressible poetic genius early in life. In the case of all truly poetic natures, harmonious expression comes early and naturally in life, and Mrs. Naidu is a born poet.
 
 
-##### <span class="sc">EDUCATION</span>
+#### <span class="sc">EDUCATION</span>
 
 Sarojini Chattopadhyaya passed the Matriculation examination of the Madras University in her twelfth year and at once became famous throughout India. She was sent to England in 1895, and stayed in England till 1898, studying first at King's College, London, and afterwards at Girton till her health again broke down. During a short period before 1898, she travelled in Italy. Italy with its radiant sunshine and warmth and beauty, Italy the home of Virgil, Dante, and Petrarch—Italy made the mistress of the world of Art by the genius of Raphael and Michael [p. ix] Angelo—stirred her heart by its beauty and its rich legacy of art and memories.
 
 She returned to Hyderabad in September 1898, and in the December of that year married Dr. Naidu though he belonged to a different caste. We have nothing to do in this sketch with the problem of inter-caste marriages, but her bold step shows her love of freedom. She has four children, two sons and two daughters.
 
 
-##### <span class="sc">A SOCIAL FORCE</span>
+#### <span class="sc">A SOCIAL FORCE</span>
 
 In Hyderabad, she is a great social force making for harmony and goodwill among the diverse communities. The following extract from Diver's *English Women in India* is an eloquent testimony to this aspect of her life. He says :
 
@@ -152,7 +155,7 @@ As a woman of great personal charm, as a queen of society, as a sweet-toned and 
 Those who know Mrs. Sarojini intimately speak of her kindliness of nature and her winning graciousness of manner. Her goodness of heart and her love of the people were evident in the way in which she sought to alleviate the misery caused by the appalling flood that washed away a large portion of the city of Hyderabad some years ago.
 
 
-##### <span class="sc">SOME ASPECTS OF HER GENIUS</span>
+#### <span class="sc">SOME ASPECTS OF HER GENIUS</span>
 
 The rare and peculiar elements of Mrs. Sarojini's genius are brought out in Mr. Arthur Symons' Introduction [p. x] to *The Golden Threshold*, Mrs. Naidu's first book of Songs. The first aspect of Mrs. Sarojini's genius that deserves admiration is her passionate desire for beauty. Mr. Arthur Symons says :
 
@@ -161,12 +164,12 @@ The rare and peculiar elements of Mrs. Sarojini's genius are brought out in Mr. 
 Another peculiar characteristic of Mrs. Sarojini's nature is her wonderful physical and nervous sensibility for beauty. Mr. Symons says : “ Pain or pleasure transported her, and the whole of pain or pleasure might be held in a flower’s cup or the imagined frown of a friend.” This wonderful perceptive faculty when coupled with a gift of musical and imaginative utterance goes to make a great poet.
 
 
-##### <span class="sc">mrs. sarojini’s poems</span>
+#### <span class="sc">mrs. sarojini’s poems</span>
 
 Apart from single peoms contributed to reviews and magazines in India, she has published three volumes of poems—*The Golden Threshold*, *The Bird of Time* and *The Broken Wing*. They are of considerable poetic merit and are warmly praised by English critics. *The Bird of Time* displays a greater command of phrase and melody of verse than even *The Golden Threshold*; and a deeper passionateness of thought and a more vivid sense of the mingled joy and pathos of life breathe in it than in the earlier volume. The peculiarly Indian note as in Tagore, of the quest of Infinite Beauty and Love by the soul, going on such holy pilgrimage in life after life, is seldom heard in her poetry. She is essentially more lyrical than dramatic and is by all accredited as one of the greatest of the Indian poets of this century. Her election to a membership of the Royal [p. xi] Society of Literature in England shows in what esteem her art is held by the great literary men of England. Both East and West have learnt to admire her true lyrical gift which shows the rare union of melodious picturesqueness and uplifting emotion, her delicacy and splendour of rhythmic expression and her never-failing sense of beauty.
 
 
-##### <span class="sc">mrs. sarojini about herself</span>
+#### <span class="sc">mrs. sarojini about herself</span>
 
 Two poems of hers reveal her very soul and show the peculiar gifts and graces of her poetic endowment, and they are quoted here as they describe in beautiful verse what we have been trying to describe and explain in this short sketch :
 
@@ -602,27 +605,6 @@ The last occasion on which I saw him was on the 8th October, two days before I s
 Early in December, shortly after his arrival from Europe, he wrote to complain of the “ scurvy trick ” fate had played him in a renewal of his old trouble ; but succeeding letters reported returning strength and ability to work again. In the last letter written the day before his fatal illness, he spoke of his health being now stationary and of his coming visit to Delhi. But it was otherwise ordained. As the poet says, “ True as the peach to its “ ripening taste is destiny to her hour.” His predestined [p. 29] hour had already struck. On the 19th February, the self-same stars that he had invoked one year ago to witness the consecration of a life to the service of India kept vigil over the passing of this great saint and soldier of national righteousness. And of him surely, in another age and in another land were the prophetic words uttered—“ Greater love hath no man than this, that a man lay down his life for his friends.”
 
 
-### IN MEMORIAM: GOKHALE
-
-*This touching tribute to the memory of Gokhale, approved under Gokhale’s portrait in Mr. (now Sir) Dinshaw Wacha’s brochure on the great man :*
-
-> Heroic heart ! lost hope of all our days !
-
-> Need’st thou the homage of our love or praise ?
-
-> Lo ! let the mournful millions round thy pyre
-
-> Kindle their souls with consecrated fire
-
-> Caught from the brave torch fallen from thy hand,
-
-> To succour and to save our stricken land ;
-
-> And in a daily worship taught by thee
-
-> Upbuild the Temple of her Unity.
-
-
 ## In Memoriam: Gokhale
 
 
@@ -769,7 +751,7 @@ Who can sufficiently extol the sweetness of the man and that invincible sense of
 
 *The following is the address delivered by Mrs. Sarojini Naidu, on the anniversary day of the Andhra Jatheeya Kala Sala, Masulipatam (1914-15), with Sir Sankaran Nair in the chair.*
 
-<span class="sc">Mr. President</span>, ladies and gentlemen, and specially students of this National College,—I cannot tell you how deep to-day is my sense, not merely of pride, but of hope in being present on this occasion; and while I was sitting here I realized with something like rapture that the service of India can never be a thing of sorrow, but always of a kind that looks forward for to-morrow. Yesterday morning, I was assisting at the Memorial meeting of that great son of India whose death might seem to us to have left India without hope for the future, for in the midst of that mourning we had a feeling of despair that the greatest son of India had departed, and who could take his place? To-day, sitting here, and looking at these young men, and these eager faces before me, I realize that though Gokhale has died, his spirit survives and his work will be completed from generation to generation, so long as founders and organizers of institutions like this are in India to inculcate his ideals not merely by precept but by example. And that is why I say the service of India is always a service of hope, looking forward for the dawn of tomorrow; and I say it because I know, after hearing the beautiful and heart-stirring report of the Head master that the ideal of service—of service manifold and coordinated [p. 47] and focussed towards one destiny and one purpose,—is here a living lesson from day to day, from hour to hour, not confined to one class, not confined to one creed, not confined specially to one form of intellectual expression and achievement but emphasizing every form of expression—intellectual, æsthetic, and artistic which comes out to-day in what is called "national consciousness." For years now it has been my great privilege to be more and more closely identified with what is known as the younger generation. In almost every great city of India, I have come into joyful and intimate comradeship with the young men who are going to make the history of to-morrow. In the different cities of India I have come closely, and ever more closely, in touch with what is called the "new spirit" in India—with what has justly and aptly been called the Indian Renaissance.
+<span class="sc">Mr. President</span>, ladies and gentlemen, and specially students of this National College,—I cannot tell you how deep to-day is my sense, not merely of pride, but of hope in being present on this occasion; and while I was sitting here I realized with something like rapture that the service of India can never be a thing of sorrow, but always of a kind that looks forward for to-morrow. Yesterday morning, I was assisting at the Memorial meeting of that great son of India whose death might seem to us to have left India without hope for the future, for in the midst of that mourning we had a feeling of despair that the greatest son of India had departed, and who could take his place? To-day, sitting here, and looking at these young men, and these eager faces before me, I realize that though Gokhale has died, his spirit survives and his work will be completed from generation to generation, so long as founders and organizers of institutions like this are in India to inculcate his ideals not merely by precept but by example. And that is why I say the service of India is always a service of hope, looking forward for the dawn of tomorrow; and I say it because I know, after hearing the beautiful and heart-stirring report of the Head master that the ideal of service—of service manifold and co-ordinated [p. 47] and focussed towards one destiny and one purpose,—is here a living lesson from day to day, from hour to hour, not confined to one class, not confined to one creed, not confined specially to one form of intellectual expression and achievement but emphasizing every form of expression—intellectual, æsthetic, and artistic which comes out to-day in what is called "national consciousness." For years now it has been my great privilege to be more and more closely identified with what is known as the younger generation. In almost every great city of India, I have come into joyful and intimate comradeship with the young men who are going to make the history of to-morrow. In the different cities of India I have come closely, and ever more closely, in touch with what is called the "new spirit" in India—with what has justly and aptly been called the Indian Renaissance.
 
 Two years ago, through an unhappy misfortune of failing health, I went to England, and there for 18 months lived in contact and comradeship with Young India which is receiving an impress of national unity in an alien country. For it is England that is the training ground of Indian patriots, for it is on that common ground that most of the young men, young impulsive dreamers of dreams in the present and doers of great deeds in the future, are congregated together, from every province and every village, representing every religion and everyrace, but representing always the same ideals springing from the most diverse civilizations and the most diverse histories. And there in Oxford and in Cambridge and in Edinburgh, but chiefly in London, where thousands and thousands of young hearts beat to-day as one "India"—there it was that I realized that there [p. 48] is really such a thing as the Indian renaissance. I began, moreover, to realize that there is such a thing as duty, but duty sanctified into a privilege—and that is the privilege of the younger generation, the privilege of united service to the country that shall never again know division in the future. And so you can imagine with what delight I accepted the invitation to address the students of this College on the occasion of their fifth anniversary. But I must also tell you how my delight at the thought of myself—an individual—being given this chance of coming into touch with the young spirits of Masulipatam became deeper when it suddenly dawned upon me that besides a personal bond of sympathy between you and me in ideals there is moreover an historic connexion between my capital and yours. It is well-known in history that this ancient Hindu centre of Masulipatam was once historically—and has always been in sentiment—associated in friendly relationship with the premier Muhammadan province of India. This seemed to add new strength to my hopes, new wings to my aspirations, and new force to my message. What is it that I call the privilege of the younger generation? What is it that I call the sanctity of duty and of service? In one word it means the history of India as it lies in your hands to make it. And the history of the future of Indian culture has been summed up to-day in language of the choicest literature by our Principal when he enunciated that the culture of a nation does not limit itself to mere intellectual and scholastic achievements, but must find infinite forms of expression, as infinte, indeed, as human capacity. And it seems to me that not merely in the ideals of a nation, but in the actual daily measurable working out of these ideals, it can be realized [p. 49] how effectual enthusiasm can be when it is transmitted into the earnestness of service; and nothing has given me greater pleasure on this most delightful afternoon than to have given medals not merely to those who have excelled in studies, but to those who are learning to work with their hands, to recognize the dignity or manual labour, as it should stand side by side with the dignity of scholarship. This, coming from me with traditions of scholarship behind me, should count for something, because it means that those who in the past considered that self-expression was merely a monopoly of intellectual authority have begun to realize that there are other and various forms of such self-expression. Let me now carry this thought onward and tell you how, as the years go on, when the young spirits of to-day will go out into the world and prove and justify such lessons as have been taught to them in this institution and in other institutions with similar ideals, they will only then begin to realize that to them the only thing that is left is to feel with that young *sanyasi* in yellow robes (a boy-reciter) who said, “I am Indian! I am Indian! “I am Mussalman! I am Christian!” Infinitely better “than anything that one can think of is it to repeat the “*sloka* “I am India—I represent the honour of India, I “represent the capacity of India, I represent all those ideals “which my country must stand for in the eyes of the “world—to realize and to justify the past, which made her “the supremest sovereign, the greatest teacher of spiritual “truth and of intellectual learning in the past.” And that, believe me, is not difficult to accomplish; for I do not say that each one of you individually has all those qualities that make up the sum total of national entity, but that each of you, however little gifted with anything that the [p. 50] world counts supreme, is an indispensable quantity in that great stream of national life which I want you to realize as flowing from the past in unbroken continuity towards the future. Realizing this, you will also realize that service is of many forms, that each one of you is called to some special service of his own, some intellectually, some by legitimate gifts to rank and position, some through brains, some through genius that can rouse the sleeping spirit to living action, some through literature, and some through the merest, humblest work, as diggers of the soil, as sweepers, as scavengers, flushing the drains of national life. Believe me that in the eyes of the Mother, service is not more supreme in one form than another, and that what she requires is that whatever we are called upon to do individually that we should do with fulness and diginity. Now what are the many forms of service which, co-ordinated together, will make up the hopeful to-morrow of India. In the past, it used to be considered that a son of a gentleman must not soil his hand or disgrace his ancestry with trade or commerce or industry; but more and more young men are beginning to realize that the dignity of India does not consist merely in having degrees of Oxford and Cambridge or in becoming lawyers, doctors or Government servants but depends also on having that expert knowledge of arts, science, and industry which alone can give back to India her once central place in human civilization. Only to-day the learned President, in talking to his companions on his journey here, was saying that if he had been twenty years younger he would have not chosen law for his profession, but that he would have used all his brain, time, and energy that have made him such an indomitable personality in public life to the advancement of India in industrial enterprise. [p. 51] Again, when you are devoting yourselves to the service of your country, you must remember that it is the unity in feeling between the two great races which make up Indian nationality that forms the dominant factor in the realization of national ideals. Unity and not division is the only possible basis on which you can build up great national traditions. There is really only one limitation to the definition of nationality. Your strength must have grown so wide as to have felt the universal thrill of brotherhood that binds the world's races together. You might then come to India as the centre of universal and fundamental brotherhood: and this is the only limitation of the definition of Indian nationality. To-day the great lesson that I shall carry back to Hyderabad, and that I shall carry always wherever I go, is that I have found a living institution teaching the lesson of national unity and the necessity of co-ordinating all forms of national work. To-day it has inspired me to see the carpenter receiving a prize, and the moulder receiving recognition, all for work that is so necessary to the ultimate interests of the country. The great function of an institution such as this is to teach that all work is dignified so long as it is faithfully done. Gentlemen, I think that in the years to come the greatest national festival that will be kept in every part of India will be not the dawn of the new year, nor merely the feast of Saraswati, nor of any of the other great gods and goddesses, but that of our living India, whose temple is in our hearts, who speaks with the same tongue to the child as to the philosopher, to the tiller of the soil as to the poet. We shall keep Her festival, and we shall worship Her as she must be worshipped, in spirit and in truth.
 
@@ -900,7 +882,7 @@ So this cup has been filled and the waters of salvation have been poured in it, 
 
 *Mrs. Sarojini Naidu asked the audience to wipe out all the evils and give themselves their birthright of liberty which no one could withhold from them.*
 
-It is not a gift that comes from outside. Even high gods cannot make of a slave a free man if his heart does not burn with the hunger for freedom. The vision of love, the vision of religion, and the vision of patriotism—to me these three things have all been one. I do not know, I think there are many of you who do not know also a human love that can compare with the love that one gives to the Motherland. I think the most devout Hindu of you, the most loyal Mussalman of you, cannot know of a religion more sacred and more uplifting than the worship that one brings to the feet of the mother. Patriotism ! What is patriotism ? It is the combined vision of love and of religion. It is a vision made reality. It is a dream that has passed into love, it is a love that has passed into service, it is a worship that becomes the ladder that brings to fulfilment that great vision, the third vision, the final vision, the glorious vision. Is there any amongst you who going home tonight will say to yourselves, when you sit among your comrades, or your kinsfolk, and later in the stillness of the night—will you not say :—“ Has God given to me a greater destiny than “ this that I become the standard-bearer of my country’s “ honour, that I become the soldier of her cause, the cham“pion [p. 73] of her weak, the defender of her glory, the creator “of her regenerated power among the nations of the “world?” Do you think it a light responsibility, you the inheritors of the Vedas? Do you think, you my Mussalman brethern, a light responsibility to be the trustees of those great ideals of brotherhood that your prophet gave years ago? No; the India of to-day requires not merely what the Vedas taught you, it requires not only those democratic ideals that make the glory of Islam, but it requires the further fulfilment of this great vision of patriotism, the combination of the great spiritual mysticism of the Hindus with the dynamic power of action which is the birthright of the Mussalmans and it requires all the united gifts of her children who will focus the national vision of patriotism. Divided, there is no complete vision. Each community can only see from one angle. And what is a mere angle of vision even though it be changed? (*Laughter*). It is the combined vision of all communities that will make a true focus of national vision and it is the national vision that means the regeneration of a country.
+It is not a gift that comes from outside. Even high gods cannot make of a slave a free man if his heart does not burn with the hunger for freedom. The vision of love, the vision of religion, and the vision of patriotism—to me these three things have all been one. I do not know, I think there are many of you who do not know also a human love that can compare with the love that one gives to the Motherland. I think the most devout Hindu of you, the most loyal Mussalman of you, cannot know of a religion more sacred and more uplifting than the worship that one brings to the feet of the mother. Patriotism ! What is patriotism ? It is the combined vision of love and of religion. It is a vision made reality. It is a dream that has passed into love, it is a love that has passed into service, it is a worship that becomes the ladder that brings to fulfilment that great vision, the third vision, the final vision, the glorious vision. Is there any amongst you who going home tonight will say to yourselves, when you sit among your comrades, or your kinsfolk, and later in the stillness of the night—will you not say :—“ Has God given to me a greater destiny than “ this that I become the standard-bearer of my country’s “ honour, that I become the soldier of her cause, the cham- [p. 73] “pion of her weak, the defender of her glory, the creator “of her regenerated power among the nations of the “world?” Do you think it a light responsibility, you the inheritors of the Vedas? Do you think, you my Mussalman brethern, a light responsibility to be the trustees of those great ideals of brotherhood that your prophet gave years ago? No; the India of to-day requires not merely what the Vedas taught you, it requires not only those democratic ideals that make the glory of Islam, but it requires the further fulfilment of this great vision of patriotism, the combination of the great spiritual mysticism of the Hindus with the dynamic power of action which is the birthright of the Mussalmans and it requires all the united gifts of her children who will focus the national vision of patriotism. Divided, there is no complete vision. Each community can only see from one angle. And what is a mere angle of vision even though it be changed? (*Laughter*). It is the combined vision of all communities that will make a true focus of national vision and it is the national vision that means the regeneration of a country.
 
 
 ## Indentured Labour
@@ -915,12 +897,12 @@ It is not a gift that comes from outside. Even high gods cannot make of a slave 
 <span class="sc">Citizens</span> of India, I think we represent almost every province here to-night. The words that you have heard from the previous speakers must have made your hearts bleed. Let the blood of your hearts blot out the shame that your women have suffered abroad. The words that you have heard to-night must have kindled within you a raging fire. Men of India, let that be the funeral pyre of the indenture system (*Applause*). Words from me to-night! No, tears from me to-night, because I am a woman, and though you may not feel the dishonour that is offered to your mothers and sisters, I feel the dishonour offered to me in the dishonour to my sex. I have travelled far, gentlemen, to come to you to-night only to raise my voice, not for the men, but for women, for those women whose proudest memory is that Sita would not stand the challenge to her honour but called upon Mother Earth to avenge her and the earth opened up to avenge her. I come to speak on behalf of those women whose proudest memory lies in this, that Padmini of Chitor preferred the funeral pyre to dishonour. I come to speak on behalf of those women who, like Savitri, have followed their men to the gates of death and have won back, by their indomitable love, the dehumanized soul of their men in the colonies abroad. I come to speak to you in the name of one woman who has summed up in her frail body all the [p. 75] physical sufferings the women of India have endured abroad—in the broken body, the shattered health, of Mrs. Gandhi (*Applause*). I ask you to witness the suffering, the starvation and the indignities that have been suffered by the women because they loved their men and their men suffered for a cause. These women shared with their husbands the martyrdom and the personal sorrow rather than prefer their own comfort while their men suffered for the sake of national honour and self-respect. I ask you in the name of that murdered sister,—that sister whom Mr. Andrews told us,—that found in death the only deliverance from dishonour. I ask you in the names of those two brothers who preferred to save the honour of their family and the religion in the blood of their sister rather than let her chastity be polluted.
 
 
-##### <span class="sc">NATIONAL HONOUR</span>
+#### <span class="sc">NATIONAL HONOUR</span>
 
 Do you think—you who are clamouring for Self-Government to-day—do you think, you who are dreaming dreams of territorial patriotism, you are patriots if you cannot stop the agony that is sending its echoes to you night and day—night and day from those men who are in no way better than dogs, from those women who are growing worse than brutes? Self-Government shriek— for whom? And for what? For men whose hands are folded while their women shriek, whose voices are silent even in the face of the most terrible insult that can be offered to man? Wealth! What is wealth to us? What is power to us? What is glory to us? How shall the wealth and power and glory of a nation be founded save on the immutable honour of its womanhood? Are we going to leave to posterity a wealth got with dishonour? Are we going to leave to the unborn generations a sorrow and [p. 76] shame that we have not been able to wipe out ? Men of India, rather the hour of doom struck than that after to-night you should live to say : “ We heard the cries and “ yet we were deaf. We heard the call for help, but we “ had not the courage. We felt in our hearts the “ challenge to our national honour and yet we were cowards “ kept still for fear of punishment that might be given.” If after to-night, men of India, if after to-night, I say, it is possible for the most selfish interests to use the humanity of India to enrich, almost as a manure, the sugar plantations of the colonies, if it is possible, I say, to let the forces of the greatest evil on earth to daunt you in this campaign, you are not only unworthy and degenerate sons of our Mother whose name stood for glory in the past, but we are the murderers, the suicides of national honour, and national progress. You discount the future, nay, you slay the future. There can be no future for a nation whose present men and women do not know how to avenge their dishonour. Does it matter that you, as one of the speakers said, could sleep in your beds, with the thought that your daughters are safe, that your wives are safe, and that your mothers are set upon a pedestal ? Are not those wives and mothers, are not those virgins that might have been honoured mothers, citizens of India ? What are they gentlemen ? What are they but the refuse that even fire will not care to burn ? I have come to-day to speak, but I think the fire within me is so strong that it bids me be silent, because words are so weak. I feel within me to-day the anguish that has been from year to year the lot of those women who had better be dead. I feel within me the shame, the inexpressible, the immeasurable, the inalienable shame, gentlemen, that has been the curse of this indenture system [p. 77] of labour. And who are responsible but the men of India for this that our men should go abroad for bread? Why is not your patriotism sufficient to have resources enough to give bread to them who go to seek bread abroad? Why is not your patriotism so vigilant, so strong, and so all-comprehensive that you are able to guard the ignorance of them that go abroad, not merely to death—for death, gentlemen, is tolerable—but dishonour which it is not within the province of self-respecting manhood to endure. Ours has been the shame, because ours has always been the responsibility, but we were asleep or we were dreaming of academic powers, we were discussing from platforms the possibilities in the future, but we were not awake to the degradation of the present. Therefore, the shame is ours in a measure that can never be wholly wiped out either by our tears or by the blood of those who have endured the dishonour for the sake of material profit and wealth. So, to-night if our patriotism means more than the curiosity to come by thousands to hear a few speakers, if it means more than the hysteria of the moment, if it means more than the impulse to pity, then I charge you, men of India—I do not appeal to you, I charge you, I lay upon you this trust, I entrust you with this burden, on behalf of those suffering women, on behalf of every woman in this audience, on behalf of every woman from the Punjab to Malabar, I entrust you with this mission, to wipe out the dishonour that lies on our name. It is we who suffer, gentlemen, not those degraded people —it is the honour of the women in your homes who cannot show their faces. That mark of crime is written here on us because we have no destiny apart from our sisters. Our honour is indivisible, so must be our dishonour. That is, [p. 78] our destiny is one, and whether for glory or for shame, we share alike. And we women who give our sons to the country, we cannot endure our sons to think that their mothers belong to a generation a part of whose womanhood was dishonoured.
 
 
-##### "<span class="sc">When a Nation Grows Bitter</span>"
+#### "<span class="sc">When a Nation Grows Bitter</span>"
 
 Have I not said enough to stir your blood? Have I not said enough to kindle within you such a conflagration that must not merely annihilate the wrongs of the indenture system but recreate in the crucible a new stirring, a new purpose, a new unity of self-respect that will not sleep, that will not rest, that will be a sword to avenge, that will be a fire to burn, that will be the trumpet call to liberty that only comes when a nation grows bitter, that only comes when a nation says, 'the health within me is rotten.' It is the bitterness that comes when we hear these wrongs abroad. It is the bitterness that comes when we feel that we have let ourselves sleep. It is when we have that indignation against the wrongdoer abroad and the wrongdoer in our homes that we shall be able to see that we have felt the spirit of Sri Krishna reborn within ourselves for re-establishing our national righteousness. Is national righteousness possible when the chastity of your womanhood is assailed?
 
@@ -1395,12 +1377,12 @@ It says that the law will apply in its final stage to criminals and to areas whe
 **I** am ill and yet why am I standing before you? Why have our hearts been stirred to the inmost depths? Why don't we get refreshing sleep? It is because we are face to face with a hideous nightmare and the trouble is that unless it is laid at rest, you and I are done for in perpetuity (*Cheers*). What has become of the Congress-League Scheme? Where are the vaunted Montagu-Chelmsford Reform Proposals? They have receded into the background to make room for the Rowlatt Bills, better known as the Black Bills (*Cheers*). We looked forward to receiving responsible positions at the conclusion of the War, now that besides giving unmistakable proofs of Hindu-Moslem *entente*, we proved our fitness for Self-Government by acquitting ourselves so worthily in the War. The visit of Mr. Montagu to India, his sentimental journey through the length and breadth of the land in the company of Lord Chelmsford, and their expressions of sympathy bore no fruit, for in one hand they held the sword and in the other a cup of poison (*Cheers*). They seemed to say, "Here is bread for you, but before you reach out for "it, you must drink this cup of poison to the dregs." (*Shame*). Bear with me, as long as Indians have rectitude and strength in them, as long as they have any sense of self-respect, they will stoutly refuse to empty the cup of poison (*cheers*); saying, "Take away that bread. It is [p. 223] "repugnant to our mind in that it is mixed with poison." (*Renewed cheers*).
 
 
-##### <span class="sc">REMEDY FOR POISON</span>
+#### <span class="sc">REMEDY FOR POISON</span>
 
 There is one remedy for poison or physical force, and it is known as Satyagraha (*Cheers*). Someone told me "Why are you following Mahatma Gandhi in "a nerveless campaign?" He forgets that people had lost faith in the efficiency of constitutional agitations. (*Cheers*). If the Black Bill had any substratum of justice in them, why did the non-official members vote against them? The only misfortune is that the hearts of officials do not beat true to the united voice of the people (*Shame*). Now that the Rowlatt Bills are passed into law, there are two ways of bringing about their abolition, ready at hand; rebellion or penance. It is not our nature to precipitate a struggle like the European War. We take our stand on righteousness that exalteth a nation. We do not believe that machineguns will add a cubit to our greatness. We will not set fire to cornfields, magnificent bungalows or children. Let Europe hug these delusions. India will never swerve from the path of rectitude (*Renewed cheers*). We must perceive truth and follow it as a religious duty. To speak truth is good, but to live truth is better. Let truth guide us in all our doings—even in our dealings with our enemies. We have to make use of this weapon in our dealings with one who holds a sword in one hand and a cup of poison in the other. We have to hold fast to Dharma. The Germans missed the path of rectitude and cast internal law governing warfare to the winds—we know now, with what results, India took up arms against Germany to vindicate her loyalty to truth and to the British Raj in the well-founded conviction that she would have her reward. We [p. 224] are sorely disappointed to find that instead of loyalty begetting loyalty, the official classes have seen fit to mistrust our intentions (*Shame*). Never mind. We are not going to submit to the Black Bills which deprive us of everything we hold dear in life, sever the family-bond in twain, and dash all delight out of existence. We will never submit to what makes helots of us all. The Satyagrahi contingents will spring to Satyagraha battle in order to protect our prestige against gratuitous invasion. Now that the Black Bills have become the law of the land, we never can tell when the sword will fall over our devoted heads. It is better to swell the ranks of Satyagrahis and to know no fear than meekly to submit to the Black Bills and to rush into danger. Mahatma Gandhi, who slights the blandishments of wealth or honours, who is indifferent to the smiles of the Viceroy or to the fear of death, is constrained to employ this weapon for these very reasons. Join those who dare. Those who cannot need not hide their diminished heads in shame, since their spontaneous sympathy with the movement will be no small satisfaction to us (*Cheers*).
 
 
-##### <span class="sc">her experience in england and its moral.</span>
+#### <span class="sc">her experience in england and its moral.</span>
 
 When I was in England last, the War was on and the English mothers were sending out their sons to battlefields out of sheer love of their country. Even farmers who had never before wielded a sword responded to the call to arms. Once when a youth was lingering behind and was standing before his old mother in her cottage, the valiant lady exclaimed, “Why do you hide yourself when your friends and relations have all joined the colours?” Shrewdly suspecting that his love for her was at the back of his mind, the mother pretended to go out amarketing [p. 225] and addressed the following note to her home-sick boy : “ You ought to join the battle for your country. You “ won’t see me again in the flesh for I am swallowing “ poison. Quit yourself as man now that your love for me “ has ceased to hinder you from doing your foremost duty.” Here you are, my beloved Aryan sisters ! Show the same strength of character to induce your husbands and sons to join the Satyagraha movement. Their strength will be as the strength of ten because their endeavours will have been blessed by you. The fast suggested by Mahatma Gandhi is twice blessed. It will enable you to realize the privations to which many men and beasts are at persent condemned and will thus be an impetus to religious sentiment. It will likewise teach you self-denial born of voluntary penance. Opportunity for vindicating our national greatness by means of Satyagraha should not be missed.
 
@@ -1424,7 +1406,7 @@ Sings Hafiz in one of his inimitable poems : ‘ The sea is swayed by a terrific
 
 <!-- page: 266 | folio: 228 -->
 
-##### <span class="sc">THE TASK BEFORE US.</span>
+#### <span class="sc">THE TASK BEFORE US.</span>
 
 *Continuing, Mrs. Naidu said* :— As children of the Mother Ind, our manifest duty is to practise penance to save her fair face from stain intended to be attached by the Black Bills. We will follow in the foot-prints of our Dharma-Raja. We will reproduce the iron will of Arjuna, but will never allow any one to blacken our name and fame. Why should we not denounce those who remain deaf to the call of Truth as the offspring not of mighty Rishis, but of servile humanity? I believe that we should faint not if a thousand persons are arrayed against us and should even lay down our lives for the sake of truth. Time was when the dead were raised from their graves by a breath. It is idle to allege that the race of Sri Krishna, Prophet Muhammad and Lord Buddha is extinct, or that opportunities are lacking to-day to re-enact those heroic feats. Far from it. Death comes but once to all. The bitterness of death does not exist for those who dedicate their lives to honour and truth. Will death fail to reach those who are inwardly convinced of the utility of Satyagraha to bring about the abrogation of the Black Bills but who have not the heart of grace openly to avow it? Shame on those who, knowing the duty that lies nearest to them, continue to sit on the fence! (*Shame*). One thing is clear to those who love truth, who love their country, and who feel for the land of their birth. I put it to my sisters who give birth to heroes: “What is your “duty? Here is Devi Kasturibai who remained with her “young daughters by the side of Mahatma Gandhi when “he unfurled the banner of Satyagraha in South Africa (*Cheers*). We want daughters for the true service of the Motherland (*Cheers*). Let me assure the ladies of the [p. 229] Motherland that, without their whole-hearted co-operation, Satyagrahis will fight with half their strength. With the unbending spirit of a Harischandra we require the moral support of a Chandramati. The Government of India have their eyes shut. They cannot see our grief but they cannot be deaf to our cries.
 
@@ -1443,7 +1425,7 @@ It is but natural that all of you cannot join the Satyagraha movement, but certa
 <span class="sc">Friends</span>, to-night you have heard from three different speakers almost identical views on this Rowlatt Legislation. In no measured terms and yet with no exaggeration have they defined for you afresh the iniquity of the legislation and your clear and inevitable duty towards yourselves and your country, and your children's children unborn, that you should, even at the risk of your lives, destroy finally, beyond all hope of revival, this law that is not merely a threat but an accomplished piece of tyranny that in a day of doom might lay the whole of the Indian nation low. One of the speakers has told you that your great duty lies not in achieving deliverance for yourselves through violence, but to transmute that which is wrong in the Government into truth for yourselves by your own conviction, your courage, the consecration of your lives to that purpose. You all know how truth prevails in the end. Do you not remember the martyrdom of the Imam Hussain of old? When Azad, King of Egypt, usurper of the Caliphate, said to Imam Hussian, "Bow down in homage to me and "kiss my hand," this follower of the Truth of Islam said, "You tyrant, you liar, you usurper, I who hold the "truth in my hand will not bend my head to you in "homage." Then persecution followed, so that in futile rage Azad ordered that all the waters were to be closed for the thirsting lips of Hussain. Three days and three [p. 231] nights in agony this man thirsted and thirsted. The emissaries of Azad came and said, “ Hussain, here is water “ for you if you bend your head in homage to this tyrant.” His friends, his followers, heart-broken with the anguish of his thirst, said, “ Hussain, bend your head in homage, “ and kiss his hand and live.” And Hussain said, “ I who “ carry the truth in my hand, in my heart, will die in this “ body so that the truth of Islam might live.” And in the words of our great compatriot Muhammad Ali (*Cheers*) interned, who said “ Each time a martyr for truth dies for “ the sake of the truth, his religion is reborn into “ immortality,” therefore, with us also, friends, if we have the truth within us, we, children of the Sastras, we, children of the Koran, if we have the truth within us, if we are spiritually the descendants of Harischandra and of Imam Hussain, we shall die so that truth may live.
 
 
-##### <span class="sc">DEDICATION TO TRUTH</span>
+#### <span class="sc">DEDICATION TO TRUTH</span>
 
 Our friend Mr. Jamnadas has explained to you Mahatma Gandhi’s (*cheers*) message to the people of India that next Sunday might be observed as a day of fast and sorrow. I have been asked by cynical politicians whether the politics of India have degenerated into the sentiment of superstition and of old-fashioned religious rites. What? Have there not been in progressive Europe days of intercession, days of prayer, days when men of science and men of literature, the workmen and the noblemen, bent their heads together in the Churches of their country to pray for the success of their arms? Shall we not, therefore, sons and daughters of religion, dedicated to the truth, shall we not observe a great day in our land, not in a spirit of wanting the destruction of our enemies but in a spirit of dedication to destroy ourselves, so that our death might be [p. 232] the immutable seed of liberty if necessary, but nothing less than liberty being the goal of our fasting and our prayer? What one man, one Lord Buddha, with his view, with his vision of compassion for humanity did to create a lovely world-religion, so shall we, burning with indignation against the injustice and wickedness of the legislation, not do to create the great world-ideal of democracy? Shall we, one hundred men, one thousand men, or ten thousand men, not have the strength, not have the courage, not have that implacable devotion to the truth, so that the hand of the enemy might be stayed, so that the evil in the heart of the enemy might be transmuted into right, so that the sword of our spirit might triumph over all evil, which an alien and understanding Government might wish to bestow on us? Not, therefore, in violence, not in anger, not in revenge, but like true children of the East, patient in courage, enduring to the end, forgiving to the end, therefore triumphant in the end, let us form the great army of the spirit, and as the spirit of Harischandra that won in the end persecution after persecution, trial after trial of his work, so we too in our generation will prove to the world that the spirit endures (*cheers*), that the spirit is immortal, and that we are worthy to be the ancestors of posterity, because we are the true stewards and guardians of the truth (*Prolonged cheers*.)
 
@@ -1532,7 +1514,7 @@ I am not a Muslim, I am the descendant of centuries upon centuries of pure Brahm
 Though we are asking to-day that the religious sentiment of the Muslims be respected in the decision about the Turkish Empire, it is not the demand of a slave people for concessions or of people asking reward and recompense for mere commercial alliances. We do not ask for rewards for our magnanimity towards you in your time of crisis, we do not ask for recompense because we stayed our hands when you lay in peril of annihilation. No, we ask but that thing which is our human birthright; justice; only justice, refusing with the haughtiness of a brave people to accept anything but justice, or what might in your definitions be termed generous reward. What right have you or any people on this earth to determine the fate of any race because it has lost against you in the mere incidents of battle results? What is it that you want to destroy? You want to destroy that which stands to-day as the only living symbol of that democracy towards which you are now striving. For remember that what you dream to-day was not merely dreamt but fulfilled fourteen hundred years ago, when a lonely dreamer of the desert, communing with the stars, first realised the brotherhood of man, the right [p. 244] of every individual to freedom and equality. That camel-driver in the desert was the only true begetter of human democracy, such as you are blindly groping towards in modern times.
 
 
-##### <span class="sc">honour of democratic islam</span>
+#### <span class="sc">honour of democratic islam</span>
 
 You talk of destroying the Turkish Empire. I do not care for mere words, Turkish or European or Egyptian; I care for the honour of democratic Islam; I care for the honour of that great religion that has added dynamic power to human progress. I care for that all conquering faith that marched into barbarous Europe bearing the light of learning to human progress I care for that all-conquering faith that marched into barbarous Europe bearing the light of learning to human civilisations (omitted through applause)...the light of achievement, as one...said speaking of the march of this lovely civilisation, *** that it went on civilising from Persia’s shrines to Catholic Spain, from (applause)...and thence it came in a caravan of victory across the Indus valley, and coming to conquer stayed to succour and love the children of my India, the homeland of my name. Live and let live. Keep your Empire if you can. Let the Turkish Empire settle its own destiny.
 
@@ -1541,7 +1523,7 @@ Who are you to say that this unit of the Ottoman Empire shall be isolated and th
 Friends, you do not know what intensity of religious feeling can mean. When the Armistice was signed, when the representatives of the Viceroy in India held a great reception to receive the congratulations of Indians upon that great occasion, in one Muslim city—praise be to the courage of the women of that city—they wrote and said: “It is an outrage upon our religious feeling that we Muslim women should be asked to go and take part in the rejoicings of the Allies that have outraged the feelings of Turkey.” Although lowly women, women behind the veil, who did not know politics, who have never measured themselves against any commercial or worldly standards, they had only that divine quality of humanity, loyalty to an ideal: and for the sake of their ideal they risked official favour and the future of their sons and husbands. Shall the men of India be less than their sisters?
 
 
-##### <span class="sc">what indian women shall do</span>?
+#### <span class="sc">what indian women shall do</span>?
 
 In speaking to-day I speak in many capacities; as [p. 246] myself, as a Hindu, as an Indian, but, most of all, believe me, and not for the first time in my life, as the voice of the Muslim women of India. And the Muslim women of India say that we who have borne sons, through our own agony have the right to determine how our sons shall live or die. Better death chivalrous and noble and loyalty to the great world of Islam than live bearing the ban of traitor, coward, fool; and that is what the men of India will be Hindus and Muslims alike, if they fail to fulfil the pledge they have made in the hour of their supreme emotion. If they draw back, we the women, will not draw back. We shall know how to die, partly in loyalty to an ideal, partly in shame for the lost manhood of our sons. But I have no fear. India, new India, India remembering the glory of the past, India eager to hand down glory to the future—India will stand true to the pledge she has made to herself and the world. Let the Allies at San Remo play their chess upon the political chess-board of the world. There is something greater than the political chess-boards; there is something bigger than human bonds to be moved by the autocracy of a three-fold treacherous people. I do not stop to pick and choose language politely to-night. It would be treachery, indeed three-fold treachery to the world. India will not be a party to that treachery. Let San Remo be, if it choose, the beacon-fire, the bonfire of the peace of the world; but we shall keep alive the torch of our own faith, our own patriotism, and when the bonfires have died down and the world is in ashes we shall rekindle the world by our truth, our courage, and our devotion.
 
@@ -1795,19 +1777,19 @@ They might take him to the utmost ends of the earth but his destination remains 
 <span class="sc">President</span>, people of Ceylon, my Indian brothers :— As I came to Ceylon I thought I was coming as a stranger to a strange land. I have been ill, as you know, and when my doctor once said to me : "When you are able to go for a change, you must go to a place where no one knows you and where you know nobody." I at once said "I think Ceylon will be the right place for me, because nobody knows me there." But my ignorance, which extends to many subjects, extended apparently to the omniscience of the Ceylonese people, because, when quite humbly I arrived in Colombo, it was to be greeted with the information that Colombo was waiting to welcome what was called the "Singing Bird of India." But no one realised perhaps that the singing bird had a broken wing and a broken voice, and now and then the sorrow of a broken heart. That sorrow is not personal, not individual ; [p. 284] it is the heritage of my people to-day. Only the other day before I came here I wrote to my friend Mrs. Kasthuribhai Gandhi, who was going to see my master in his prison, to tell my Bapu that is, my father, that anywhere, living or dead, I shall bear his message in my heart; and when the people of Ceylon wished me to speak to them I felt that I must deliver to the people of Ceylon the great message of deliverance that Mahatma Gandhi is preaching in India to-day.
 
 
-##### <span class="sc">THAT “FRAIL ASCETIC”</span>
+#### <span class="sc">THAT “FRAIL ASCETIC”</span>
 
 as Srinivasa Sastri called him, that little almost naked man, that little fragile figure that could be crushed between the thumb and the finger of a burly Englishman, he languishes indeed in prison to day (cries of Shame); but all the walls of a prison, nay all the walls of a tomb, cannot silence that imperishable voice of liberty. And so to-day, if I have chosen for my subject the “Indian Renaissance,” I must needs speak of him who has been the first apostle and the prophet and the martyr of that Indian Renaissance (Applause). As your President rightly said, you, in this island of beauty, are undergoing your trial by fire. You too are in the crucible, you too are being tested so that your dross shall be purged from your pure gold, and therefore it is meet that you people of Ceylon should hear from me, the least, the lowliest, but most loyal follower of Gandhi, the message that Gandhi was born to deliver to the world and make it full of peace.
 
 What is the Renaissance? What does that word Renaissance imply? What does it connote? What are the profound and far-reaching implications of that far-reaching word? It means literally a re-birth: a re-birth through agony, through sacrifice, through martyrdom: to [p. 285] be born anew in your own pain even as in the body you are born in your mother's pain. That is the meaning of Renaissance, whether in far-off Greece, or in Egypt or in India or in Ceylon. We all know the history of the Congress movement in India. We all know how the
 
 
-##### STIRRINGS OF A NEW LIFE
+#### STIRRINGS OF A NEW LIFE
 
 more than one generation ago, moved the quickening soul of our fathers to articulate aspirations; we know how they considered that constitutional demands, academic demands moulded and guided by European systems of political work, how they believed, that these were the efficacious methods for India. Name after name of patriot after patriot, comes back to our minds, men and women whom we honour for the great labours they have left behind, for the many sacrifices they have made But all of them of the older Congress were but like John the Baptist before the advent of Christ; they have been the herald of a new birth; they prepared for the feet of the messenger who has walked upon the mountains of agony and dived deep into the valleys of humiliation. But the older Congress with its great rhetoricians, its statesmen, its great scholars, versed in the manifold literatures of Europe, who could point a moral and adorn a tale in the language of the Romans and the Franks, they were the workers of yesterday. They did their work greatly and adequately, suited to their generation and their opportunity. But the times progressed, a younger generation came face to face with problems more tragic in their issues, more urgent in their need of immediate solution. The Government, an alien Government, but alien in this, that it represents an alien system, but in which our own kith-and-kin have part and-lot, this alien Government threw down and throws down day after day a [p. 286] challenge to the self-respect of the Indian people; and for many years the Indian people did not know how to respond to the
 
 
-##### <span class="sc">INSOLENCE OF THAT CHALLENGE.</span>
+#### <span class="sc">INSOLENCE OF THAT CHALLENGE.</span>
 
 They continued in the old ways—resolutions, memorials, deputations, private consultations, speeches everywhere from public platforms, but the day for these academic methods of politics were fast dying and the new generation were not quite sure how to proceed. Then they realised that quietly, in the background, a new method was evolving.
 
@@ -1824,19 +1806,19 @@ who had become even lower than the brutes; he saw the waters of the great rivers
 He went to Puri, he went to Bengal, he went to Ahmedabad, and everywhere the famine stricken conditions seemed to be worse, and when the women tottering with dying children in their arms came to bow before his feet, he said to them; “Sisters, the river flows before you, why do you come to me in rags full of stench and dirt?” And they said to him: “Mahatma, Pitha, the river flows beneath our feet, but if we wash these rags to cleanse them how shall we cover our modesty till the rags be dry.” He went further into the stricken areas and there, every day he heard the tales of women stealing out veiled only in the darkness of the night and drowning their misery in the rivers and wells, because they dare not issue forth from their hovels by day. There was not even a dirty rag to cover them. Then he came to Southern India and he found what was
 
 
-##### <span class="sc">worse than famine, worse than death</span>
+#### <span class="sc">worse than famine, worse than death</span>
 
 —he found the Untouchables. Truly, as Bishop Heber, said “Every prospect pleases but only man is vile,” for nothing can be viler than this, that man should disinherit his own kith-and-kin and put them beyond the pale of human rights and privileges. Then this man said: “The nation asks for freedom, one-fifth of the nation is worse than brute beasts.” He said “In Malabar, a man stands forty yards away, saying ‘I come, I come,’ ” even as in the [p. 289] Middle Ages of Europe the leper with his bell came saying “Unclean, unclean.” Then he considered the problem that is to me,—and all the workers of India and my Indian brothers here will acknowledge with me, that it is so,—the most important factor for gaining any possible liberty or Swaraj in India, and that is the Hindu Moslem unity. (Applause). Thus having got into the heart of these problems he set about finding the solutions. What was the poverty of India due to? Why were the little children dying in the laps of their mothers? Why were the women of the villages taking into the markets of the world, where many precious things are sold, nothing is more precious than what the woman sells for bread—her chastity. He asked himself “What is the solution for this? How shall India be free if there is poverty and there is also that untouchability in India?” He asked himself; “ Have men and women been so denationalized that they cannot think in their own language, and suffer their agony in their own tongue, and pray for their deliverance in their own language; how shall India have Swaraj?” He said to himself: “If after this century and a half of alien rule, India has become so utterly degraded as to have forgotten its own languages, its own religion, its own traditions, its own self-respect, how could India be free?” And then with that wisdom of the prophets of all ages he looked at the Indian problem as a whole, not separated into water-tight compartments of communities, of races, classes and religions, literate and illiterate, good and bad, the titled and the fallen. No; he regarded India as an entity, as one human unit, whose destiny it was to contribute to the world culture and world-achievement. And he knew that this India must be cast into the [p. 290] crucible of remorseless discipline. He knew that only by suffering, by sacrifice, that the Indian people could be re-born. And as
 
 
-##### <span class="sc">GOD WORKS IN DIVERSE WAYS</span>
+#### <span class="sc">GOD WORKS IN DIVERSE WAYS</span>
 
 to further the dreams of his prophets and shape the prayer of his devotees and make them true, to India also came the great opportunity that made her one. Never before 1919 could the people of India truly say that the Indian Renaissance was there. No; there were indications, there were faint vague stirrings of a new life to come; but the new life only came in 1919. When the Rowlatt Act, of which you all know, that black and infamous Act came to India for the further mortification and humiliation of the people, then this little frail man, this little shrimp of a man, this little beggar of a man, this little insignificant creature that could be brushed aside like a mosquito, stood by and lifted his little finger and said to India: “Arise and win your deliverance by your own suffering.” And he said: “I come to bring peace to the world: I come not to divide but I come to unite. I come to bring peace, but a peace at such a price that it may be that one generation must be trampled to the earth before the next generation can be born again free.” People were ready all through the villages of India. From the great cities of India, and the palaces of India, to the hovels of India, and the bazaars of India, and the Colleges of India, and even to the very grave-yards of India, ran the cry: “This is the hour of our deliverance; let us arise; we who were dead, let us live even if to live we must die in the body;” that day of humiliation is also the day of preparation for the dedication, fixed throughout India. At the flicker of one man’s eyelashes arose
 
 
 <!-- page: 329 | folio: 291 -->
 
-##### THE ANSWER TO THE CHALLENGE
+#### THE ANSWER TO THE CHALLENGE
 
 of the bureaucracy. You know what happened in the Punjab. I went to the Punjab only the other day; I went to Jallianwalla Bagh as a pilgrim to the place of martyrdom; and when I, who had fought the battles of the Punjab in England, went to visit Jallianwalla Bagh, I began to feel that every man, woman and child should make a pilgrimage there because after three years, still the soil there holds the secret of the martyrdom written in living blood and the epic of that martyrdom issues red from under that earth. You look upon the walls of Jallianwalla Bagh and you find the blood that issued from the neck of a bride who was shot while leaning from the windows to help the men to escape. You see there, in the bullet-ridden walls, a heritage inspiring us to shame and teaching us that in every city of India Jallianwalla Bagh may be repeated a hundred thousand times. I went to the Crawling Lane in Amritsar where men born to stand erect were made to crawl like reptiles on their bellies because it was the caprice of a blood-thirsty general. Yes, from things like this, it is, that the living generation of India draws its strength. From this suffering comes their strength, from this agony comes courage, from this humiliation comes that power to achieve, which has made men and women who have lived like princes all through their lives join the battle like private soldiers of the rank and file. And if men like Motilal Nehru and women like his delicate wife on whom the winds of heaven have never blown too hard, have joined, then it is this kind of agony that brings the wave of the renaissance to India. After the Punjab incidents you ought to know with what dramatic rapidity and with what dramatic colourful complexity all things happened.
 
@@ -1845,7 +1827,7 @@ of the bureaucracy. You know what happened in the Punjab. I went to the Punjab o
 You know during the War when the fate of England was in the balance, England said : " Come to our aid," and though the Moslems of India felt their hearts torn that they had to fight Turkey, the Moslems said : " Ensure us the sanctity and safety of our Holy Places and we give our lives." Even Lord Curzon acknowledged it was the Sikhs that won the victory for England. And what happened in the Guru-ka-bagh when the brothers and the sons of those men whose blood is mingled with the blood of European soldiers in Flanders and France were beaten, bayonetted, <span class="sc">whipped, degraded, spat upon,</span> trampled because they loved the sanctity of their own shrines. (Cries of shame). The Moslems who had given so liberally, to-day their leaders are in prison, young man after young man is shut up between four walls ; but the spirit of Islam that was generous enough to fight even against its own kindred can never die, (applause)—and when the men have gone to prison the Moslems of India are led by an old woman of nearly 80 years of age, the mother of the great Ali Brothers. (Loud applause). The Sikhs, the martial Sikhs, the Akalis, their women and children whose clan carried the sword always across their breasts, they too have come to the crucible; they know what they have given to the War; they know the young widows and the orphans for whom the sun will never shine again; they know the reward that has been theirs for their magnanimous sacrifice of the lives of their sons and brothers and husbands; but for them also the day of sacrifice has given the strength to endure. To every section of the people has come the strength to endure because, what was divided by centuries long ago are welded together by common suffering; and by the force of the welding power, [p. 293] the things that united most were those which were supposed to be most irreconcilable. That power was the genius of Mahatma Gandhi. “ I come with a new message to the world only because you Indians have forgotten your own traditions.” It was the message that came to Ceylon where Sanghamitra brought the Bo-tree, which is an emblem of peace. Mahatma Gandhi said : “ In India there shall be no man or woman or community that shall be excluded from the promises and the reality of that freedom when it comes. I lead an army to battle but my soldiers are drawn from every rank and race, not by the measure of their chest, not by their height and the strength of their arm but the feeblest and the oldest and the lowliest and the most illiterate may come and be the chief among my soldiers for my only standard of measurement is a devoted heart and the power to sacrifice and be true.” (Cheers). And so Mahatma Gandhi, finding as all generals must find, a plan for his campaign made out a great plan of battle for his people. He does not fight as your President has reminded you with swords and guns ; there are no drummers to the fore, no wounded to be carried, no ambulances at the back, there are no base hospitals, no titles and honours afterwards, there are no great parades and banquets, but there is a great campaign and he says “ My soldiers, I expect obedience from you, discipline from you, and
 
 
-##### <span class="sc">THERE ARE FOUR COMMANDMENTS</span>
+#### <span class="sc">THERE ARE FOUR COMMANDMENTS</span>
 
 that you must fulfil if you will be worthy of the Swaraj to which I will lead you.”
 
@@ -1854,12 +1836,12 @@ The first, he said, was “ You must be re-born, and how will you be re-born ? F
 
 <!-- page: 333 | folio: 295 -->
 
-##### <span class="sc">the benediction of a woman</span>
+#### <span class="sc">the benediction of a woman</span>
 
 who knows that her hands are buying bread for her little children. You all have heard of Dacca silks, and the embroidery of Moorshidabad. Who hears of them to-day ? In your Ceylon as in India the fine ladies go to Japan and France for their chiffon and silks, to Italy for their lace, to Coventry for ribbons, but for every yard of ribbon, for every yard of foreign silk and French chiffon, some woman sold her honour in the market place because the rich women of the country had sold them into that degradation and shame. Therefore, I believe that the spinning-wheel is the redemption of the womanhood of India. Even to-day the women behind the *Purdah*, who cannot go out as their Hindu sisters do, have blessed the spinning-wheel because it has saved them from the reproach that they are idlers hanging on the one solitary wage earner. To-day the Muslim women of India, behind their *Purdahs*, in their homes, and the middle classes, are economically independent and no man dares say to them "You are dependant upon my charity." The next plank of the Renaissance of India is the removal of untouchability that does not I know apply to a place like Ceylon ; it does not apply to the Moslem community that has
 
 
-##### <span class="sc">the truest democracy that has ever been evolved</span>
+#### <span class="sc">the truest democracy that has ever been evolved</span>
 
 by the civilizations of the world ; but we Hindus have to learn from a little Island like Ceylon ; we Hindus have to learn from a small community like the Mussalmans what the meaning of brotherhood can be, not in its academic definition, but in its actual and practical reality. The third plank then in this programme of Renaissance is to me, as I said, the chiefest thing—the Hindu-Moslem Unity. And that is a Unity, which is far more living and [p. 296] real and deep-rooted a thing than many like to believe it. They said that whilst the Khalifat question remains unsettled it will remain, but directly they hear that the Treaty of Sevres has been reversed and that Mustapha Kemal Pasha is victorious, you will find that the Mussalmans will desert you.
 
@@ -1868,14 +1850,14 @@ But if any man in India will accept the challenge I give the challenge to every 
 My friends I have told you in briefest outline the campaign of Mahatma Gandhi; he has said "We will have Non-Co-operation for the motto of our banner of struggle." But what does Non-Co-operation mean? Nobody has misunderstood and misinterpreted that great word more than some of Mahatma Gandhi's own followers. Believe me, I who have lived so close to the heart of Mahatmaji, that I have become like as earth that is perfumed by
 
 
-##### <span class="sc">living in the vicinity of the rose</span>.
+#### <span class="sc">living in the vicinity of the rose</span>.
 
 I can tell you that as the Non-Co operation movement is not a movement of hatred or race bitterness, it has in it nothing of revenge. It is a movement of purification that extends to every single section of life inwards and outwards—Non-Co-operation with what is evil within, in your domestic systems, in your social systems, in your indigenous systems and in your alien Government. It [p. 297] does not mean bitterness against the Englishman, it means no bitterness against any man whether he be foreigner or of our own people but certainly it stands for Non-Co-operation against every sin and folly, tyranny and injustice, whether perpetrated by Indians or the foreigner in our land (loud applause).
 
 That is the Indian Renaissance, based on the equality of every race, which urges on every community, the absolute co-partnership in responsibility and sacrifice of man and woman together. We, in India, are proud of saying that in our *Shastras* women had a very high and unique place, but I look onwards towards to-morrow; let the dead past bury its dead; we are the children of to-morrow and the to-morrow of India will be built on the equal sacrifice and courage and vision and devotion of men and women alike in this great movement in which I have the privilege to share. To-day throughout the length and breadth of India you will hear the mingled pairs of men and women in prayer alike. In the United Provinces, in the courageous campaign of the Punjab, in the powerful campaign of the South of India, in the lyric campaign of Bengal, you will find there are true pilgrimages of men and women going hand in hand towards the common shrine. Not long ago when my great friend Dr. Jagadis Chandra Bose was opening his great institution and I was listening to his lecture on the unity between human life and plant life, my attention was all the time fixed upon the picture above his head. It was a space that had to be crossed before the ultimate shrine could be reached. There was a man with a sword; there was a woman with a flute; and to me who loved symbols everywhere it seemed to me that the courage of the man had to be sustained [p. 298] and inspired by the music of the flute the woman carried. It was this
 
 
-##### <span class="sc">COMRADESHIP OF VISION AND COURAGE</span>,
+#### <span class="sc">COMRADESHIP OF VISION AND COURAGE</span>,
 
 this comradeship of inspiration and achievement, that Mahatma Gandhi has brought into life to-day. He says :- " Not by the blood of friend or foe shall the new page of our history be stained, though the old tradition was the tradition of bloodshed even in the epic ages of India. Though Mustapha Kemal Pasha wins by the sword in Angora, though Poland fights with the sword, and Ireland with the sabre, India shall fight with weapons not forged by human hands, but struck and beaten and shaped on the divine anvils of heaven, and the name of the sword shall be Courage, the name of the shield shall be Devotion, the name of the victory shall be Sacrifice, and the reward Freedom. (Loud and prolonged applause).
 
@@ -1908,7 +1890,7 @@ You people of Ceylon are in the throes of your own Renaissance. I wrote to a fam
 <em>Continuing, Mrs. Naidu said :—</em>What exactly I will say to you I do not know. I never give good advice to young people because young people are always born so much wiser than their parents. (Laughter). Rather, when I come in contact with the fountain springs of youth, I say to myself : "Here is one more opportunity for the jaded spirit of the passing generation to refresh its hopes, renew its illusions, re-strengthen its dreams, and re-nerve its own heart to action. When I come amongst the young, even amongst the lawless young, (laughter) I know that I come in the spirit of a disciple rather than as a teacher. Do not flatter yourselves because I call you the teachers, and [p. 304] myself, the disciple. Remember always the responsibility that is entailed in belonging to the generation of teachers. This morning before I came here I made a pilgrimage to a little temple where the young generation is growing up to teach the law of the Buddhist people; there, where the young Buddhist monks learn the great law of the middle way, the rule of justice, I went to prepare my spirit so that it may adequately be in touch with yours. Remember, that we of the passing generation, a generation on whom the shades of night are already falling, have made our mistakes.
 
 
-##### RESPONSIBILITIES OF THE PRESENT GENERATION
+#### RESPONSIBILITIES OF THE PRESENT GENERATION
 
 I am going to-day to do the unacademic thing; I am going to do the unconventional thing; I am going to do the improper thing, when I tell you that it is your generation that must be prepared to become school masters and hold over us the rod of discipline, so that we may return to the paths of righteousness. My young friends, I wonder if you realise how you are the heirs of the ages, inheritors not of one culture and one tradition only, but of all the cultures and traditions of the world to-day. Do you realise your wealth; do you realise the terrible responsibility of that wealth? Do you realise that each of you is answerable to the ages that have gone; you are a link between yesterday that never dies and the to-morrow that is not yet born.......
 
@@ -1955,12 +1937,12 @@ Citizens of to-morrow, fathers of to-morrow, I want you to make the history of t
 I see before me a large number of non-Muslim people and I always rejoice when I find non-Muslims in a Muslim gathering, (Applause) for this reason, that there is so much misconception in the heart alike of the Christian, of the Hindu, of the Buddhist, of the Parsee, about the true [p. 313] ideals of the youngest and the greatest of the world religions. I advisedly say the greatest as well as the youngest of the world religions, not with a view to disparaging my own religion or the religion of the Christians or the Buddhist, but I mean greatest in this one sense that it has brought to the modern world the true gift of democracy. For, the trend of civilisation to-day, the sum-total of the world's aspirations to-day is to reconstruct the new world towards the brotherhood that was preached on a desert by a camel driver more than thirteen hundred years ago. (Applause.)
 
 
-##### <span class="sc">THE GIFT OF ISLAM—DEMOCRACY</span>
+#### <span class="sc">THE GIFT OF ISLAM—DEMOCRACY</span>
 
 I hardly think it is necessary to talk of a new world of Islam because Islam itself belongs to the new world. Centuries ago when my forefathers were evolving great philosophies and sending to the younger nations of the world the message of enlightenment, Arabia was still uncultured. Arabia was still nothing, but a desert of wild hordes. Whilst the great Buddhist message of *nirvana* was being enunciated from under the Bo-Tree of Buddha Gaya and Sarnath, there was no conception what the word democracy meant. Even when the Christ was crucified on the Cross by the unbelievers, the ideal of brotherhood was not accepted. It was challenged. It was trampled in the dust. Thus it was necessary that the camel-driver from Arabia should give to the world in its ultimate form the most perfect definition of brotherhood, of the Republic, of the equality of all men, of all classes, of all ranks. (Applause).
 
 
-##### <span class="sc">THE CAMEL-DRIVER AND HIS MESSAGE.</span>
+#### <span class="sc">THE CAMEL-DRIVER AND HIS MESSAGE.</span>
 
 Why was it that a camel-driver tending his animals in the desert was able to give to the world a message of hope ? [p. 314] Why? Because the world, surfeited with the corruptions of the other great religions, the tyrannies of the priesthoods of the other great religions, sought deliverance from the bondage and the tyrannies that were at once an infamy and an insult to the faith. And then God, who moves in His mysterious ways to re-deliver age after age His people from the bondage of preceding ages, sent to the heart of a simple man in the desert a revelation of the one God that alone is great, and a revelation and a conviction that all creatures that are made by Him are brothers bound together by an indivisible kinship. That is the real message of Islam and to-day if we quote a title from an American writer and speak of the new world of Islam, it is merely to bring back to the world that has forgotten the message that came to them that while there is one heart that seeks an ideal, there is one mind that seeks to follow logically to its ultimate issues the ideal of brotherhood, then Islam and the flag of Islam must always reign. (Applause).
 
@@ -2080,47 +2062,47 @@ Until we have realised that suffering is part of our culture, part of our destin
 <span class="sc">Friends</span>.—Though we have all read lately that the Report of the Civil Disobedience Committee is postponed for a little while, I began my civil disobedience a little while ago without waiting for the mandate of my leaders. (Laughter) As the President told you I was supposed to take three months more of complete rest; for, I was on the verge of a tragic collapse which will mean long eulogies in the columns of the "Hindu" and the "Swarajya" on the things I have done. I went to Colombo meaning it to be good, meaning to have quiet and, hoping to be entirely unknown and obscure: and when I got there, I said to myself 'surely for a little while I can detach myself from the tumult of all that struggle which in my own country I cannot escape from. How mistaken has been my plan! When I reached there in the last stages of exhaustion I was bombarded on every side: 'Tell us what is Mahatma Gandhi's message; what have you come here to tell us?' And I realise that, after all he is a great Avatar alike in body and spirit, and for interpreting his modern message of Satyagraha even my broken body responded to the call of further work and sacrifice. (Hear, hear.) And so when I went to Ceylon where my [p. 336] friend Srinivasa Iyengar went before me and gave such a brilliant address that people still talked of it with bated breath, I was asked 'why do they say that Non-Co operation has failed?'. I said 'Who has challenged Non-Co-operation? Only the day before I landed on your shores, twelve of your chosen representatives, proved Mahatma Gandhi's spirit in action. The seed indeed was sown in my own land but the winds of destiny carried some of it to your place and the harvest is being reaped.' And seeing how so far off with the dividing sea between us and the people of Ceylon, that the lesson of Satyagraha is so well completely put into practice, I said to myself 'Am I not ashamed that even for one moment my faith slackened, my spirit grew weak, my feet grew wearied, my heart grew cold that I doubted the imperishable power of his great and imperishable message.'
 
 
-##### <span class="sc">MESSAGE ENDURES, PERSON PENALISED</span>
+#### <span class="sc">MESSAGE ENDURES, PERSON PENALISED</span>
 
 I have come back with a message from the people of Ceylon to their kindred in India. The message is : 'As you sow, so you shall reap. Your victories will be our victories. Your failures will be our failures. Remember we are people of a little island though divided from you by language and tradition, none the less we are kin with you, comrades with you ; follow us, our common gospel and common master.' So returning from Ceylon making my pilgrimage at Rameswaram, prayed even as Rama when he came back from his victory at Lanka, prayed for more success so that victory might not make him insolent but humble, not make him arrogant but wise, I prayed that I who had been the lowliest ambassador of the greatest gospel of the world, should, coming back to my own people, be given greater wisdom, greater humility, clearer vision and greater power [p. 337] to endure all hardships, so that going northward, I might in every city of India once more interpret in my own faltering words that message of Satyagraha whose greatest triumph is the fact that he who preached it for the deliverance of the world sits to-day behind the prison bars. That I call the apotheosis of the Satyagraha. The person is penalised and sacrificed, so that his message might endure. What is his message? How shall we interpret it according to our own peculiar needs? How shall it be interpreted in the different provinces of India according to the central need of the people of those provinces?
 
 
-##### <span class="sc">PROBLEM OF UNTOUCHABILITY</span>
+#### <span class="sc">PROBLEM OF UNTOUCHABILITY</span>
 
 When having finished my pilgrimage to all the great cities of the South, I come to the capital of the province, it is my duty to lay before my elders the impressions I had gleaned from those pilgrimages. Not alone was my spirit uplifted by the revelation of the great Dravidian genius that found its immortality in those temples, that no nation in art has rivalled, but my spirit on one side receiving exaltation on the other has been wounded by many swords when I realised what a mockery the life to-day is of those temples that are enduring witnesses of the genius of the Dravidian race. There where rises the prayer towards heaven, where peal the bells in symbol of the longing of the worshippers, where great chariots draw the processions of gods of protection, the God which preserves humanity and the deities that destroy evils of humanity, I found no deity to-day to protect those you have made outcastes and to destroy those that destroy their brothers. It seemed to me most poignant of all paradoxes that man should with his hands legislate injustice disinheriting from his brother human rights and privileges that have been [p. 338] fashioned from the same source, fed with the same waters, nourished with the same harvest, enduring the same agony, and dreaming the same dreams. Wherever I went in the South of India, my one cry was the cry of those sunk in darkness believing in what the curse of centuries told unto them that they are unclean, that they are fallen, that they are lost and that in your estimation they are not even as the crow for whom you set apart a morsel, and even as a dog with whom you share your meal.
 
 
-##### <span class="sc">message to the south</span>
+#### <span class="sc">message to the south</span>
 
 Mahatma Gandhi's central message for the people of the South is essentially different from his message to the people of the North. Here it is a mockery to talk of new political permutations and combinations. It is vain and futile to discuss about the new Conference where the self-styled leaders are the nation that propose to draw a charter of liberty which can be done only with the sanction of the people and the sanction of those great martyrs who are imprisoned to-day. I hear men and women, women and men, talk glibly, talk academically and talk foolishly of their powers to evolve for the people of India some new form of political franchise because, forsooth they believe that my Mahatma's programme has failed. They believe that because here and there some detail is relaxed, some coward has betrayed and some weakling has fallen, the enduring tree is dead. They believe that by a little jugglery of brilliant phrases and by sleight of hand they will alter the heart of the bureaucracy, will change the conditions that make an alien Government alien. But we are not to be deluded by the shibboleths of these academicians who have no following save in respect of the morrow because to-day they have betrayed the ideal for which the [p. 339] country stands. But why, while we pluck the mote from our brother's eyes do we forget the beam within our own? How are we who say it to ourselves that we are the people, that we are the leaders and we are the workers, attempting to solve the central problems that bring tragedies in our midst? Whereon will you build your political freedom and erect the great edifice of your liberty where your foundations are more shifting than the sands which the wind blows hither and thither at its will? Divided as you are, separated by bitterness, conflict, doubt, suspicion and hatred, how will you, Oh! divided people, build your palaces of liberty on the gulfs of your division?
 
 
-##### <span class="sc">THE COMMUNAL PROBLEM</span>
+#### <span class="sc">THE COMMUNAL PROBLEM</span>
 
 Last time when I spoke on that historic occasion that disturbed the slumbers of the rulers of this Province, I had occasion to talk of the vexed problem—which many resented I know. That problem I am going again to touch to-day—not merely touch but reiterate with all the power and strength of my conviction. I spoke of the longstanding Brahmin and Non-Brahmin problem. It sounds like platitude to go on talking about it: and yet this is the crucial test when before us loom the responsibilities of those that are free and those that must demand their own freedom. And less remote than that there is always the question of office and power and of elections in the near foreground that search and test the reality of those that say there is no Brahmin—Non-Brahmin problem. I am neither a Brahmin nor a Non-Brahmin (laughter and applause). I come of a race that has given *Siddhas* to the world. I have come of a family that has helped to shape the philosophy and the gospel of the Hindu race. I also come of a family whose cardinal ideal was that none is [p. 340] greater than the community and that the caste and the person matter not at all save as symbols of the great Brahminical tradition of service. Have we who pride ourselves on three thousand years and more of unbroken historic continuity of culture, fulfilled that trust reposed in us as guardians and custodians of those whose opportunities have been less than ours? The Brahmin was the symbol of the supremest discipline and renunciation. Let us ask ourselves how far have we been true to our trust? Have we not chosen to exercise our intellect for the monopoly of power? Have we not made our culture a sword with which to destroy the intelligence and liberty of those who were disinherited from our caste.
 
 
-##### <span class="sc">A Word to Non-Brahmins</span>
+#### <span class="sc">A Word to Non-Brahmins</span>
 
 And you Non-Brahmins, who when you get a little measure of power pay back the grudge of centuries, the indignation and bitterness of your entire race against the Brahmins. How have you escaped from the blame; how are you free of censure that must belong to those who sell their human birth-right for a little soothing and comfortable lack of thinking and folly of those who believe that discipline is not necessary for humanity? Shall you who for centuries let slide your human rights, to-day with beginnings of your conscience and consciousness to free yourselves, turn your finger of scorn and hate to the Brahmin and penalise him in this generation for the sins of his forefathers? Have you to make atonement that you have betrayed the posterity? Hinder not in your own generation; throw in your minds and spirit into that great ideal of culture, freedom and equality that originally should have been your inalienable birthright. And you fighting together in bitterness but [p. 341] joining hands in tyranny against the outcaste (Laughter and applause)—Oh! friends, Oh! Brahmins, Oh! people not of Brahmin blood, how does the martyrdom of the outcaste cry out against you and how the heart of the free nations of the world despises you and measures your readiness and fitness for freedom by your own actions. You are bettered, you are cursed, you are judged by the measure you mete out to your brother. And though in this enlightened city I hear the charge against me, the same as it was brought in Tanjore and Madura, that I assail the citadel of your orthodoxy, I do assail it. I do challenge it and say that even as you have expelled from the community your kith and kin, call me an untouchable. As you call me an untouchable, so you have made your Bharatha Matha an outcaste of the world. Your central problem therefore is to solve that question of untouchability before you can presume to be fit to talk of freedom for India. What after all is freedom? Will you go into the Councils of Delhi and Simla, you who have no right to speak as representatives of your people? What will you do in the Councils? Whom will you represent? Will you, if you are honest, have the right to say we have the interests of the people at heart? Not you! The very stones in the streets will bear witness against you; the very trees in the forest will cry out ‘Shame against you’ for the forests and the hillocks have known the tragic tears of those on whose approach you have felt defiled.
 
 
-##### HINDU-MUSLIM UNITY
+#### HINDU-MUSLIM UNITY
 
 Friends, when I go to the North, my message will be different. I shall talk there of the central need—the Hindu-Muslim unity, because there always is the storm centre; there always break out those poignant conflicts [p. 342] that break one’s heart and yet we who are workers for the great cause of unity must have hearts and cannot break. But this question does not apply merely to the North of India. In the South itself I hear murmurs, sometimes more than murmurs. I am told by a very great exponent of international culture that it is a paradox to talk of Hindu-Moslem unity and that it is a menace to work for it, that it is treachery to the Hindu race to speak of it. These have been told by one who claims to be greater than Mahatma Gandhi in as much as he believes in what is international. Why? He thinks that Mahatma Gandhi believes only in what is national? I know how the Moplah outbreak in Malabar and the Multan outbreak in the Punjab have embittered the heart of the Hindu people. And yet if the Hindus with their greater numbers, their great culture, their ideal of Satyagraha and their Gospel of Ahimsa cannot endure to the uttermost and forgive seventy times seven the sins of any small community against it, what is the use of all our boast of that which the three thousand years of culture have taught us. If we cannot transcend far, far above mere personal sufferings, personal wrongs and personal treacheries, how shall we in our generation vindicate our Hindu culture if in our hearts there is bitterness because here and there some handful of men went mad and broke our temples. I am also told—and this brings sadness beyond words—that because Ghazi Mustapha Kemal Pasha by his courage and by the valour of the sword has won a victory for Turkey, we believe, some of us were foolish to believe, that the Moslems will desert us, that they will say ‘all that we needed of you is over, and we will mind our own purpose.’ Do you think, if you have known aright [p. 343] the spirit of Islamic culture, the most democratic people in the world can be so guilty of meanness, of treachery and selfishness, that they only used you in their crisis and desert you in your hour of need? If you believe that the Hindu and Moslem unity is no more than the shibboleths of Lloyd George, (laughter) it were better to say openly to-day, we will not have anything to do with Moslems rather than saying with our lips as some of us are doing— ‘yes, we will be united’ but murmuring in our hearts— ‘let us beware they will desert us’. So, the problem of the Hindu-Moslem unity must be solved here as well as in the North. Not only this problem but also that of the depressed classes.
 
 
-##### <span class="sc">THE GREAT PROBLEM</span>
+#### <span class="sc">THE GREAT PROBLEM</span>
 
 The great problem of the economic independence of India must also be solved. I have heard learned men who lecture on political economy in colleges, say ‘Of course you know Gandhi is such a dreamer; it is absolutely an uneconomic proposition, his fad about Khadi. It is all very well for you to talk of spinning; but it can never answer our purpose. Rather than go to the spinning-wheel you might as well give up all your enlightenment and go to the period when men lived on trees comfortably like monkeys.’ It is easy to sit comfortably in your arm-chair, draw your fat salaries and never know of poverty and misery. They have not seen little children die of hunger, as I have seen. They talk of political institutions; they talk of elections to the Councils, of ministries, of voting the Budget, of army, navy and aeroplanes. Let them go in the villages, where women after nightfall drown themselves in the compassionate rivers because daylight scares their nakedness and the eye [p. 344] of men insults their poverty. Talk to me of political institutions when you have solved the problem of covering the naked ribs with flesh and naked flesh with clothes and of feeding that covered flesh with that which sustains the life-blood in man. Then talk to me of your Councils, of armies and of cultures and of all things that mean civilization. But, for whom is that civilization? For whom is the culture and for whom are the international Universities? Where will you build those Universities? On the grave yard of your brothers, on the skeletons, will you lay the foundations of your international Universities?
 
 
-##### <span class="sc">KHADDAR AND ITS MEANING</span>
+#### <span class="sc">KHADDAR AND ITS MEANING</span>
 
 Therefore, your problem in one word is the problem of Khaddar. Khaddar does not mean only coarse cloth. To me the world khadi has a mystical meaning. It is like that parchment on which the legend of liberty is written. I know that men say—many men to whom honour is due for their good work in India, ‘Your constructive programme is alright, but how can you set a time limit and say only when this is solved, shall you have freedom?’ I have never heard Mahatma Gandhi say that there can be any time limit for human programme of evolution. Had he said that, he would have been less Mahatma than I think he is. You cannot do without economic independence. Discipline, organisation, a sense of co-operation and a sense of reality to the ideal of sacrifice in the endeavour,—these are the things that weld a nation together, and once the discipline is there, the nation has laid the foundation of its freedom.
 
 
-##### <span class="sc">COUNCIL ENTRY</span>
+#### <span class="sc">COUNCIL ENTRY</span>
 
 You will all say we have all heard this old story; tell us something of what is going to be done when the All-India [p. 345] Congress Committee is to meet shortly and tell us if the Committee is going to sanction entry into Council or not. I will tell you what I think about Councils. The intolerance that many of my co-workers and many of the followers of the Satyagraha movement have shown to that little band of men who dare to think for themselves and say openly we agree on all points but we differ on this, has been the very symbol of the unfitness of our people for Swaraj; for, has not the minority the right to lead the majority and win it over, to leaven it even as the salt leavens the bread? Whether I believe or do not believe that it is wise and good to go into the Councils, I will first speak on behalf of those who say 'we believe that the true solution of our problems lies in capturing the Councils!'
 
@@ -2445,7 +2427,7 @@ Women were born to be strong and to unite the whole world in a common love and p
 
 *On Monday 10th March, 1924 Mrs. Naidu was given a public reception at the Town Hall, Durban, the Deputy Mayor presiding. On receiving the various addresses Mrs. Naidu replied :—*
 
-<span class="sc">D&lt;small>R.&lt;/small> Francois</span>, Mrs. Gilbert, my European friends, my countrymen,—I am so deeply moved to-night by your kindness and by the manifestations of your kindness in the shape of such beautiful flowers and presents that I am hardly able to find words to express my gratitude or to express my deep appreciation of your cordial welcome to me to-night. More than once lately I have been thinking about what to me is a very trying, but to others I believe, apparently a triumphant tour through Africa. I have been thinking of all the valuable and beautiful things that have been showered upon me, the gold and the silver, the ivory, the feathers and the skins of monkeys, blue, white and brown, and many things of other kinds representing birds, beasts and fishes—everything has come to me, and I feel like Alexander Selkirk who said, ‘I am monarch of all I survey.’ I might almost be deluded in this beautiful sub-continent of South Africa into believing that I am really that monarch and that I am monarch of all I survey, and of the hearts of the women and men of South Africa as well. I said ‘women’ first. (Laughter.) And if to-night I were to make that the standard whereby to judge the response made to my appeal, the answer made to my query, I should say I have succeeded in my mission, but [p. 413] alas, I have lived too long in this world already. I am not going to tell you how old I was a few weeks ago, because you will find it in *Who's Who*, but I have dealt with too many types of men and women—(I put 'men' first in this instance)—(laughter) to be so easily deluded into the belief that all I desire has been fulfilled. Had I come on a mission to South Africa, had I come only like those happy mortals to whom life is a prolonged series of *dolce far niente* I should have paused and said to myself that here at least I have found that Garden of Eden for which the whole world has been looking,—here among these green hills and flowering valleys, with the music of the great Indian Ocean reminding me of those epic memories of our far-off land. I should have said here is the paradise for which we have been looking, but without the serpent. But when looking upon the green hills, the blue waters and the smiling land with its fragrant flowers I also see the sons of my comrades down-trodden and oppressed. I begin to feel something gnawing at my heart and I say to myself what is this in this wonderful paradise. What is it that gnaws at my heart night and day and day and night till there is no hope for me, no rest for me, no peace for me in this Eden by the Indian Ocean? And then I remember that I myself am the heart of my people, and therefore my Garden of Eden as well. I remember also that I came as a stranger into your midst, but you took me at once into the secrets of your heart. When I knocked upon the door of my enemy the door was opened to me and I found behind it the faces of friends. I have nothing in this land to complain of, no grievance for myself in this beautiful land, but when I come here and when I am garlanded and given presents during my mission I realise that my people [p. 414] are indivisible whether born in India and seeking freedom in their own country, or whether they be the children or the grandchildren of the indentured labourers who, coming to this country and choosing this soil to be their mothersoil, lived like helots and outcasts, lived like pariahs and lepers of humanity in your midst. Therefore I must be full of sorrow and of shame because I, too, being of my people, soul of their soul, blood of their blood, bone of their bone, am a helot and slave standing before you, though you garland me and heap upon me what kings and queens of the world have not been able to buy.
+<span class="sc">DR.</span> Francois, Mrs. Gilbert, my European friends, my countrymen,—I am so deeply moved to-night by your kindness and by the manifestations of your kindness in the shape of such beautiful flowers and presents that I am hardly able to find words to express my gratitude or to express my deep appreciation of your cordial welcome to me to-night. More than once lately I have been thinking about what to me is a very trying, but to others I believe, apparently a triumphant tour through Africa. I have been thinking of all the valuable and beautiful things that have been showered upon me, the gold and the silver, the ivory, the feathers and the skins of monkeys, blue, white and brown, and many things of other kinds representing birds, beasts and fishes—everything has come to me, and I feel like Alexander Selkirk who said, ‘I am monarch of all I survey.’ I might almost be deluded in this beautiful sub-continent of South Africa into believing that I am really that monarch and that I am monarch of all I survey, and of the hearts of the women and men of South Africa as well. I said ‘women’ first. (Laughter.) And if to-night I were to make that the standard whereby to judge the response made to my appeal, the answer made to my query, I should say I have succeeded in my mission, but [p. 413] alas, I have lived too long in this world already. I am not going to tell you how old I was a few weeks ago, because you will find it in *Who's Who*, but I have dealt with too many types of men and women—(I put 'men' first in this instance)—(laughter) to be so easily deluded into the belief that all I desire has been fulfilled. Had I come on a mission to South Africa, had I come only like those happy mortals to whom life is a prolonged series of *dolce far niente* I should have paused and said to myself that here at least I have found that Garden of Eden for which the whole world has been looking,—here among these green hills and flowering valleys, with the music of the great Indian Ocean reminding me of those epic memories of our far-off land. I should have said here is the paradise for which we have been looking, but without the serpent. But when looking upon the green hills, the blue waters and the smiling land with its fragrant flowers I also see the sons of my comrades down-trodden and oppressed. I begin to feel something gnawing at my heart and I say to myself what is this in this wonderful paradise. What is it that gnaws at my heart night and day and day and night till there is no hope for me, no rest for me, no peace for me in this Eden by the Indian Ocean? And then I remember that I myself am the heart of my people, and therefore my Garden of Eden as well. I remember also that I came as a stranger into your midst, but you took me at once into the secrets of your heart. When I knocked upon the door of my enemy the door was opened to me and I found behind it the faces of friends. I have nothing in this land to complain of, no grievance for myself in this beautiful land, but when I come here and when I am garlanded and given presents during my mission I realise that my people [p. 414] are indivisible whether born in India and seeking freedom in their own country, or whether they be the children or the grandchildren of the indentured labourers who, coming to this country and choosing this soil to be their mothersoil, lived like helots and outcasts, lived like pariahs and lepers of humanity in your midst. Therefore I must be full of sorrow and of shame because I, too, being of my people, soul of their soul, blood of their blood, bone of their bone, am a helot and slave standing before you, though you garland me and heap upon me what kings and queens of the world have not been able to buy.
 
 When I contemplate this wonderful land where every tree, every bird and every blossom is a parable, a symbol and a sermon and a prophecy as the fulfilment of the miracle of God,—the recurring beauty of love in the world, I wonder how amidst so much beauty and splendour, in the very midst of the living magic of such parables, the heart of man can be so hard, so bitter, so full of hate and conflict. What is it that you are quarrelling about? What is it that makes this conflict in a country where there should be peace? Why is the hand of the white man up against the coloured races in this country? What have my people done to you, my people who did not come as rivals and competitors, but who were brought here poor and uneducated as they were, and brought with promises, with pledges and with hopes held out to them to come and serve the white man in this country, to cut his sugar cane and to serve him, and after a little period he should be free either to go back to his own country or, after a certain period, (mark my words) to live as a free man in this land with a gift of land and freedom to live like the citizens in this country. And in those days when shiploads of the [p. 415] indentured labourers came to this country who could not read nor write, but could only make thumb-impressions on the documents that made them slaves to the white community; they came, as I said, uneducated, but not uncultured. They did not know the comparative theology of the world, they did not know history. They did not know the rudiments of such statesmanship as obtained in this Union, but they became children of that Indian soil where every part is impregnated with the call and inspiration of the old Indian lyrics and ballads and philosophies, and though they only came to work, and though they stayed and made their children servants to your need and convenience, none the less they were the Indian people with the culture of India in their very blood, and they stood for loyalty, character and faithfulness to the bond they made, and with that neither friend nor foe might interfere. That is the culture that makes character and that is what has been passed on from the great epics of my country. And because of this, India to-day, after centuries of class subjection has sent a new message to a waiting world, and I am the messenger for that message. You all know, whatever may be your ancestry, that the civilisation such as we knew it, such as we accepted it and died to preserve through our children on the battlefields of France and Flanders, the old civilisation is now a thing of ruin and hope has departed from the world, faith has departed from the world. The young men of India who were in the trenches because they believed in the idea of brotherhood and peace and justice, have come back saying “where is God, where shall we find that dream for which we were willing to die, for which thousands upon thousands of our comrades have died on these battlefields? They are saying [p. 416] ‘ we have fought because we believed that when the war was over a new world would be made ready for the younger generation. We have come back wounded not only in our limbs but in our souls only to find the Empire still as it was, where colour is still the test of humanity and where might is still the standard of right.’ They say ‘such is the world for which we fought. What is this Imperial greed that statesmen practise that still leads to hatreds and conflicts ? Shall we live in this world which after all the trial and sacrifice we have endured for well nigh seven years, we find still full of the old hypocrisy, the old juggling, and where there are still the old border quarrels ? That is not the world for which the young men and women of Europe and India sent their beloved to shed their blood, and who are to-day mourning for those who will never come back. And you in Africa were not free from that, you could not escape the throes and anguish of that conflict. You, too, gave your sacrifice, your young men who died.
 
@@ -2500,24 +2482,24 @@ And so, if Africa will but realise that this equality of which one of her own so
 The country everywhere is crying with one voice. We are weary and our ways are not clear before us. Our leaders are wrangling in the market place. We do not know which way to go. We set upon a pilgrimage and our halting places have become the market place of quarrel. So infatuated we are with the gospel of the Mahatma that we had not measured our sacrificing power. Mahatma Gandhi had not realised fully how divided the people of India and how undisciplined their impulse, how incoherent their ways, how illogical their waves of emotion are. Mahatma's mistake was that he [p. 435] miscalculated our nature. Our mistake was that we could not be honest in our profession, that our feet stumbled. The demand made by Mahatmaji on his followers was heavier than they could sustain. For a long period there is no money, no response. There are few workers left. Leaders quarrel among themselves, men no longer practice in their intensity the five boycotts. The beautiful and melodious music of the spinning wheel which is the protector of the destitute widow and the voice of the poor is no longer heard.
 
 
-##### <span class="sc">HINDU-MOSLEM UNITY</span>
+#### <span class="sc">HINDU-MOSLEM UNITY</span>
 
 Hindu-Moslem Unity as two hands is to bear the great burden of the gospel of Non-Co-operation. I do believe that the relation between the communities in the Surma Valley has been so cordial that this is not to be regarded as of merely local character. It is an example to be followed by the rest of India. In some other provinces the Hindus and Mahomedans are now stretching their hands to catch one another's neck. What is the use of Khaddar, what is the use of philanthropy unless there is Hindu-Muslim Unity? It is not a question of Surma Valley to solve. If it dies in Malabar, the whole of India dies and if one man is saved in the Punjab, the whole of India is saved so that a district conference cannot confine ourselves to our own problem to our own local needs, but we must be guided by a broader view and width of outlook.
 
 
-##### <span class="sc">THE COMMON CAUSE</span>
+#### <span class="sc">THE COMMON CAUSE</span>
 
 To-day, we are going to discuss in the Surma Valley Conference not merely our local conditions. You cannot discuss your destiny in mere water-tight compartments. You cannot have one ideal for Surma Valley, another for Brahmaputra Valley, a third for Bombay and another for [p. 436] Baroda, India is composed of different creeds but is guided by the spirit of harmonious regeneration for the present. Mahatma Gandhi is concerned with three things—one, Khaddar : two, Hindu-Moslem Unity : three, the removal of Untouchability—the equilateral triangle to which Mahatma has dedicated his life. What are you going to say to him? How have you proposed to send the message to Mahatma through me? Why should you think about the Pro-change and No-change of the Congress? Our life is like a river that changeth from day to-day. Like the Ganges it must be flowing to the sea of self-realisation. You ought not to quarrel if Mr. C. R. Das goes to the Council and Shyam Sundar Chakravarthy is against the Council. In the Mahabharata one hundred and five fought between them but 105 fought against the common enemy. Instead of composing the difference of four home you should not take them to the cinema show of exhibition of our alien rulers.
 
 
-##### <span class="sc">WHAT IS NEEDED?</span>
+#### <span class="sc">WHAT IS NEEDED?</span>
 
 What is needed at the present moment less haste and more speed for the sake of popularity. We should not deceive the truth from Mahatma Gandhi, but should say to him "we can go with you so far or we cannot go with you at all." If from the beginning the people were honest we should have come with smaller numbers to the fight but with better result. Christ was crucified in the Palestine with a very few followers but the greater part of Europe followed him afterwards. That camel driver of Arabia was once stopped and exiled from his country with a handful of followers but to-day his religion has spread all through the world. The followers must agree spontaneously but not by the coercion of his neighbourhood. Sree Krishna, whose birth anniversary is to-day, says "there are many paths through [p. 437] which pilgrimage is to be made." If some wishes to go into the Council, let him go and if some remains out to work with the poor, give him benediction and support to approach the poor with the mind of the poor. If some people rightly believe that the basis of all political regeneration lies in the civic regeneration they should not keep themselves aloof from the political struggle. If some believe in stamping out the defect in the Government which is dangerous as ‘Kala-azar’ and ‘Malaria’ in the body of men, they may compensate their labours by performing their part of political work. What is politics? It is not agitation only. It is not abusing the bureaucracy only but politics implies the sum total of energy consolidated and contributed to the end of liberty. In Surma Valley you do not call the untouchables by that very epithet as in South India. But you divide them, nevertheless by a gulf of difference as wide as the stream before me.
 
 When in South Africa General Smutts said to me “Why have you come here when social differences prevail so much in your country?” What answer could I give to General Smuts? What do you mean by Swaraj? The meaning of Swaraj lies in carrying on every department of administration, in carrying on foreign policy, in sending out embassy and in making peace and war.
 
 
-##### <span class="sc">sylhet and bengal</span>
+#### <span class="sc">sylhet and bengal</span>
 
 Sylhet longs for Bengal because they were originally united and because of her common language, because of homogenity of two races have been arbitrarily disturbed by the Government because they form the component parts of the same house held by tradition, by history, by religion, by language and what not. I believe that you naturally desire to go into the sweet clapse of Bengal to set into [p. 438] proper geographical place, the Frontier which now unhappily divides you from your mother province. You must not feel you go there because you do not like the Brahmaputra Valley and not that you like Assam less but Bengal more. The little Brahmaputra is your foster-sister. However lovely and sweet she may be, your filial call compels you to bid her good-bye. But let not Bengal say that out of pity she takes you back. Mysticism is the symbol of Bengal. Its pervading tune is to be found not only in the lyrical poetry of the best poet that now strives like the venus in the firmament of India. You of Surma Valley you foster in your heart the love of the setting sun shielding its mild but embracing lustre over you as it does just now in front of me with its guilded edge sinking gradually down the horizon kissing the water of the distance and the admiration for the yonder bulls which are the meeting place of the world and beauty of the water and the message of the waves. So you Hindu and Mussalman, Brahmins and Non-Brahmins, touchables and untouchables, literate and illiterate, rich and poor to you human recognition of what you do is not worth your while which is like short lived dews on the tread of the Cherrapunji. Ye children of Surma Valley, followers of Sree Chaitanya the highest form of manhood that ever trod the earth and of Muhammad, the Prophet of God, the man in you the truth in you may be the pride of India. That is not an airy name but the ideal name on the world and may be the contributor to the great culture to the cause of humanity.
 
@@ -2534,17 +2516,17 @@ Sylhet longs for Bengal because they were originally united and because of her c
 **F**RIENDS, I have had to borrow Mahatmaji's glasses to read the resolution. I wish I have stolen a little of his wisdom and moderation as well. I will say a few words differing slightly from the resolution and mainly supporting it. I have recently returned from Africa to which you deputed me to go on your behalf and that, fresh in the memory of their disabilities and disadvantages, their sufferings and tyrannies from which our brethren and kindred are suffering. I feel, and Mahatma Gandhi will excuse me for feeling so, that this resolution is too little coloured with the life blood and with the suffering to which my people abroad are doomed. I feel so strongly on this matter that I would rather have been excused from speaking to-day where speeches must be so brief and so of that quality that might not divert too poignantly your minds from the central activity to which Mahatma Gandhi has made us pledge ourselves for the coming year. I think I should be failing in my duty were I not to supplement my own remarks to this resolution which I have the honour of moving and while I agree that till Swaraj is obtained in India we in the Congress cannot effectively help or come to the relief of the Indians overseas, I nevertheless believe that the Congress is a sufficiently [p. 440] powerful body to put such moral pressure upon the Imperial and Indian Governments that they should be compelled to do their duty by the people across the seas.
 
 
-##### INDIA'S MESSAGE
+#### INDIA'S MESSAGE
 
 When I went to South Africa, when I was in the threshold of South Africa, while I was still in Portuguese East Africa, the South African people had sent their representative to interview me. One man, a little man, frank in his opinion, said to me: “What will you do in South Africa, General Smuts is a strong man.” I said in reply: I am a strong woman with the whole weight of Indian opinion.” (Cheers.) It is the weight of Indian opinion behind me that took the message of hope to the suffering hearts from Mombassa to Cape Town. It was the same message I carried. The wonderful ovation I received was not for myself—nay, I was the embodied message of the nation of India (Cheers). Shall tyranny be over the people who are the blood, bone and the flesh of the people in India? It is carrying this message of hope, of kinship, of moral support, suffering with their suffering, rejoicing with their victories, that brought comfort, encouragement to the heart of Indians in Kenya and South Africa. While I condemn the Natal Government for passing an Ordinance so unconstitutional, doubly unconstitutional because I believe the taking away of the political franchise in 1896 from Indians was the first time almost in British history when a right that was given voluntarily was arbitrarily taken away and now this taking away of the municipal franchise is a betrayal of the Agreement arrived at with Mahatma Gandhi, It is more than that; it is a betrayal of the human inalienable rights of the Indian colonials [p. 441] who have as much right upon the African soil as General Smuts and other white colonials of South Africa, I believe it our duty to so create public opinion in the country that the Imperial and Indian Governments will be constrained not to be academic in their pity and compassion, but to protect effectively the interests of our brethren abroad.
 
 
-##### ROUND TABLE CONFERENCE
+#### ROUND TABLE CONFERENCE
 
 Ever since I returned I have been pressing for a Round Table Conference and when in South Africa I had the privilege of visiting the Ministers and Members of Parliament I put forth the suggestion of a Round Table Conference. General Smuts and his party, General Hertzog and his party, Colonel Krassmann and his party were willing and anxious to consider this Round Table Conference, but the people of India failed because they did not sufficiently prove themselves in earnest in backing up the opinion of their own ambassador to South Africa. We in India have a power that we do not realise. 160 thousand more or less exile children of India are also being basely disinherited from the land where they have inviolable rights. Are we merely going to pass an academic resolution expressing helpless lip sympathy? The white people deprive them of their natural rights. This Natal Ordinance deprives them of their inalienable rights. Are we to treat it as an academic question saying it is merely a question of race prejudice or are we going to solve it by going down to its roots and help our brethren? I know my countrymen will be angry with me for saying so. It is partly the economic pressure in Natal that gives acuteness to the race feeling. Merely saying it is race feeling will not help our brethren. They look to us for more practical help to stretch out the hand of fellowship which will enable them [p. 442] to stabilise their moral position, to concentrate their moral strength and to preserve the integrity of their ideal which bids them keep alive and untaunted the ideal of Indian heritage which is theirs though they be colonial coloured or white.
 
 
-##### <span class="sc">the kenya problem</span>
+#### <span class="sc">the kenya problem</span>
 
 The Kenya question is a more recent question, a more difficult question. Wherever it is economic pressure, it is nothing but the Greed of the white settlers who want to grab the whole of that fertile and fruitful country and to create a black army against the peoples of Asia. I feel there too we have neglected our duty, there too we have been content with agitation on platforms. We were outraged in our feelings because forsooth the highlands were not given to the Indians. We were outraged in our feelings because they proposed segregation. We were outraged in our feelings, but after speeches were made and resolutions recorded not one of us has had the earnestness and honesty to pursue further with indignation and put it into practical effect. Kenya, South Africa and Mauritius or the Fiji and the Malaya States, the question remains the same, that colour prejudice is always there, that economic problem is always there, the disintegration of the people without a leader in the Colonies is always there. Since Mahatma Gandhi left Africa he left fatherless children and leaderless people. For the last 10 years these children have been groping and struggling in the dark. What have we done? So little have we concerned ourselves with the responsibility of our kinship. Almost like silent spectators we were not taking the trouble to shoulder some of their burdens and to give them that practical help which can go from India alone. No more than that we are helpless [p. 443] without Swaraj and we are helpless to a large extent without Swaraj. Can we not say no more emigration of labour, we shall feed our own people. Now that Mahatma has given us the *Mantra* whereby no famine shall be in their land, shall we not say that we must not send cooks and clerks bound by an agreement to South Africa every year? We shall send educated men and women that shall uplift the status of those people who are called cooks from Gandhi down to farm labourers who have built up Natal and who have built up the wealth of the white man. I said to General Smuts and General Hertzog: "When you take your people back, then speak to me of taking my people back, not till then. Not even then shall my people be moved by force or fraud from this land where the bones of their fathers are testimony to the wealth of the white man. They have contributed to the wealth of the country by the sweat of their brow to the progress of your plantations and they have heaped gold upon gold for you, victory upon victory, power upon power to tyrannise over the hand that feeds you."
 
@@ -2562,23 +2544,23 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 #### A
 
 - Address to Ceylon Muslims 312
-- „ Children of Durban ... 404
-- „ Colombo Tamil Union ... 300
-- „ Durban Women 409
-- „ East African Congress ... 392
-- „ Hindu Ladies. 58
-- „ Kerala Conference ... 353
-- „ Madras Law Students ... 156
-- „ „ Provincial Conference. 177
-- „ Social Service Conference, Delhi. 233
-- „ Surma Valley Conference ... 437
+  - „ Children of Durban ... 404
+  - „ Colombo Tamil Union ... 300
+  - „ Durban Women 409
+  - „ East African Congress ... 392
+  - „ Hindu Ladies. 58
+  - „ Kerala Conference ... 353
+  - „ Madras Law Students ... 156
+  - „ „ Provincial Conference. 177
+  - „ Social Service Conference, Delhi. 233
+  - „ Surma Valley Conference ... 437
 - Africa, Common property 434
 - Ahmedabad Congress Speech ... 257
-- „ Students' Conference ... 259
+  - „ Students' Conference ... 259
 - Akbar ... 105
 - Ali, Muhammad ... 63
 - All-India Muhummadan Educational Conference ... 57
-- „ Social Conference ... 17
+  - „ Social Conference ... 17
 - Ambulance Corps ... 16
 - Amir of Khusru ... 102
 - Andhra Jatheeya Kalasala 46
@@ -2614,19 +2596,19 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 - Cecil Rhodes ... 434
 - Chattopadhyaya Harindranath ... 32
 - Civil Life, ideal of ... 34
-- „ Disobedience ... 386
+  - „ Disobedience ... 386
 - Communal problem ... 339
 - Congress and its prestige 384
-- „ Speech at Bombay 145
-- „ Speech at Calcutta 153
-- „ Indian National 21
-- „ —League Scheme 133
-- „ Programme a.. 382
+  - „ Speech at Bombay 145
+  - „ Speech at Calcutta 153
+  - „ Indian National 21
+  - „ —League Scheme 133
+  - „ Programme a.. 382
 - Constructive programme 360
 - Co-operation ... 138
 - Correspondence with Mr. Montagu ... 251
 - Council Entry ... 344
-- „ Question ... 382
+  - „ Question ... 382
 - Country's need ... 390
 
 <!-- page: 484 | folio: 446 -->
@@ -2642,11 +2624,9 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 - Depressed classes ... 19
 - Dhar, Bishan Narayan ... 63
 - Discipline ... 306
-- Durban, Address to
--    children of ... 404
-- „   Hall speech at 414
-- „   Women, address
--       to ... 409
+- Durban, Address to children of ... 404
+  - „   Hall speech at 414
+  - „   Women, address to ... 409
 
 #### E
 
@@ -2659,40 +2639,37 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 - Franchise & Women 195, 199,
 -    203
 - Freedom, Army of ... 264
-- „   Edifice of ... 257
+  - „   Edifice of ... 257
 
 #### G
 
 - Gandhi 96, 284, 324, 372, 374
-- „   Mrs. ... 14, 75
-- „   references to ... 284
-- „   —transformation of 433
+  - „   Mrs. ... 14, 75
+  - „   references to ... 284
+  - „   —transformation of 433
 - Gandhi's arrest ... 372
-- „   message 324, 374
+  - „   message 324, 374
 - Garibaldi and Mazzini ... 87
 - Gaya Students' Conference 349
 - Girls' School, Mylapore... 191
 - Gokhale ... 14, 66, 95
-- „   Children's
--       tribute to ... 30
-- „   death of ... 28
-- „   In Memoriam to 29
-- „   Memorial Fund. 31
-- „   Reminiscences of 17
+  - „   Children's tribute to ... 30
+  - „   death of ... 28
+  - „   In Memoriam to 29
+  - „   Memorial Fund. 31
+  - „   Reminiscences of 17
 - Gupta, Sir Krishna ... 23
 - Guru and Disciple 112, 118, 119
 
 #### H
 
 - Hafiz ... 106
-- „   verdict of ... 225
+  - „   verdict of ... 225
 - Heroes, Plea for ... 287
 - Himalayas ... 114
 - Hindu ladies, address to. 58
-- „   Muslim Unity ... 20,
--    26, 80, 341, 367, 437
-- „   Moslem Problem. 120.
--    128
+  - „   Muslim Unity ... 20, 26, 80, 341, 367, 437
+  - „   Moslem Problem. 120. 128
 - Hope of to-morrow ... 125
 
 #### I
@@ -2700,28 +2677,25 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 - Indentured Labour ... 74
 - India, Coming women of. 175
 - India's future women ... 173
-- „   gifts (a poem) ... 45
-- „   message ... 442
+  - „   gifts (a poem) ... 45
+  - „   message ... 442
 - Indian Association ... 23
-- „   Civilisation ... 234
-- „   Consciousness ... 240
-- „   Culture, Future of. 48
-- „   Ladies' Magazine. 11
-- „   National Congress. 21
-- „   „   Social
--       Conference,
--       Lecture at 11, 53
-- „   Womanhood 175, 411
-- „   Women ... 245
-- „   „   Education of 11
-- „   „   Emancipation of. 169
-- „   „   and franchise, ... 195,
--          199, 203
+  - „   Civilisation ... 234
+  - „   Consciousness ... 240
+  - „   Culture, Future of. 48
+  - „   Ladies' Magazine. 11
+  - „   National Congress. 21
+  - „   „   Social Conference, Lecture at 11, 53
+  - „   Womanhood 175, 411
+  - „   Women ... 245
+  - „   „   Education of 11
+  - „   „   Emancipation of. 169
+  - „   „   and franchise, ... 195, 199, 203
 - Indians Overseas ... 441
 - Islam, gift of ... 110
-- „   honour of ... 244
-- „   ideals of ... 102
-- „   torch of ... 316
+  - „   honour of ... 244
+  - „   ideals of ... 102
+  - „   torch of ... 316
 
 #### J
 
@@ -2842,46 +2816,43 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 - Sastri, Rt. Hon. ... 30
 - Sathianadhan, Mrs. ... 11
 - Satyagraha 208, 230
-- „ The Ethics of 227
+  - „ The Ethics of 227
 - Savitri ... 85
-- „ and Sita ... 41
+  - „ and Sita ... 41
 - Secretary of State ... 131
 - Self-Government 63, 64, 145, 149
 - Servants of India Society 21
 - *Seven Lamps of Architecture* ... 42
 - Shelley ... 67
-- „ and Keats ... 6
+  - „ and Keats ... 6
 - Sita, references to ... 227
-- „ & Savitri 41, 5459, 68, 74,
-- Social Service, as life's
-- part ... 239
-- „ „ Conditions of 233
+  - „ & Savitri 41, 5459, 68, 74,
+- Social Service, as life's part ... 239
+  - „ „ Conditions of 233
 - Soul force ... 432
 - South Africa, references to 414
-- „ Africans, appeal to 435
-- Speech at Ahmedabad
-- Congress ... 257
-- „ Belgaum Congress 441
-- Speech at Calcutta
-- Congress ... 153
-- „ Colombo ... 283
-- „ „ Law College 303
-- „ Durban Hall ... 415
-- „ Gaya ... 349
-- „ Kingsway Hall 247
-- „ Moslem League 63
-- „ Trichinopoly ... 332
-- „ Trichur ... 372
-- „ Trivandrum ... 320
-- „ Students' Conference ... 259
-- „ in Madras ... 335
+  - „ Africans, appeal to 435
+- Speech at Ahmedabad Congress ... 257
+  - „ Belgaum Congress 441
+- Speech at Calcutta Congress ... 153
+  - „ Colombo ... 283
+  - „ „ Law College 303
+  - „ Durban Hall ... 415
+  - „ Gaya ... 349
+  - „ Kingsway Hall 247
+  - „ Moslem League 63
+  - „ Trichinopoly ... 332
+  - „ Trichur ... 372
+  - „ Trivandrum ... 320
+  - „ Students' Conference ... 259
+  - „ in Madras ... 335
 - Sufi ... 8
 - Sufism ... 105
 - Surma Valley Conference 436
 - Swadeshi Spirit ... 325
 - Swaraj, Four Commandments of ... 293
 - Swaraj meaning of ... 265
-- „ not Sectional ... 379
+  - „ not Sectional ... 379
 - Sylhet and Bengal ... 439
 
 ##### **T**
@@ -2899,7 +2870,7 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 ##### **U**
 
 - Unity ... 380
-- „ and Peace ... 375
+  - „ and Peace ... 375
 - Untouchable ... 358
 - Untouchability 327, 337, 365
 - Upanishads ... 85
@@ -2915,12 +2886,11 @@ Are you in this Congress going out as messengers and ambassadors for helping the
 - *Waken! O mother* ... 147
 - Womanhood, Indian ... 411
 - Women, Education of ... 11
-- „ of India ... 54
-- „ Mussalman ... 102
-- „ in national life ... 53
-- „ of the Andhradesa 55
-- „ of Zoroastrian
-- Community ... 56
+  - „ of India ... 54
+  - „ Mussalman ... 102
+  - „ in national life ... 53
+  - „ of the Andhradesa 55
+  - „ of Zoroastrian Community ... 56
 - Women's Education ... 174
 
 ##### **Y**

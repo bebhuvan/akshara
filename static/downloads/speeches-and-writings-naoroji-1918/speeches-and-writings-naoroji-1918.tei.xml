@@ -23,7 +23,7 @@
         <idno type="book_id">speeches-and-writings-naoroji-1918</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -75,7 +75,10 @@ MADRAS</p>
           <pb xml:id="page-6" n="6" facs="https://archive.org/download/speecheswritings00naor/page/n5_w1400.jpg"/>
           <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0006.webp"/><head>DADABHAI NAOROJI.</head><figDesc>DADABHAI NAOROJI.</figDesc></figure>
           <pb xml:id="page-7" n="i" facs="https://archive.org/download/speecheswritings00naor/page/n6_w1400.jpg"/>
-          <div type="subsection" n="h3">
+        </div>
+        <div type="subsection" n="h1">
+          <head>SPEECHES AND WRITINGS OF DADABHAI NAOROJI</head>
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">first edition : price rs. two</hi></head>
             <p rend="imprint">G. A. NATESAN &amp; CO.
 SUNKURAMA CHETTI STREET
@@ -93,38 +96,38 @@ MADRAS</p>
         <pb xml:id="page-11" n="v" facs="https://archive.org/download/speecheswritings00naor/page/n10_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>CONTENTS</head>
-          <div type="subsection" n="h2">
-            <head>PART I: SPEECHES.</head>
-            <p rend="toc-entry">Congress Speeches.</p>
-            <p rend="toc-entry">Second Congress—Calcutta—1886 ... 1</p>
-            <p rend="toc-entry">Ninth Congress—Lahore—1893 ... ... 20</p>
-            <p rend="toc-entry">Twenty-Second Congress—Calcutta—1906 ... 68</p>
-            <p rend="toc-entry">Appointment of a Royal Commission ... 101</p>
-            <p rend="toc-entry">Reform of Legislative Councils ... ... 104</p>
-            <p rend="toc-entry">Simultaneous Examinations ... ... 111</p>
-            <p rend="toc-entry">Speeches in the House of Commons.</p>
-            <p rend="toc-entry">Maiden Speech ... ... ... 121</p>
-            <p rend="toc-entry">An Inquiry into the Condition of India ... 124</p>
-            <p rend="toc-entry">England and India ... ... ... 149</p>
-            <p rend="toc-entry">India and Lancashire ... ... ... 164</p>
-            <p rend="toc-entry">Miscellaneous Speeches and Addresses.</p>
-            <p rend="toc-entry">Retirement of Lord Ripon ... ... 167</p>
-            <p rend="toc-entry">The Fawcett Memorial Meeting ... ... 171</p>
-            <p rend="toc-entry">India's Interest in the General Election (1886). 175</p>
-            <p rend="toc-entry">India and the Opium Question ... ... 191</p>
-            <p rend="toc-entry">Address to the Electors of Holborn ... 198</p>
-            <p rend="toc-entry">The Indian Civil Service ... ... 208</p>
-            <p rend="toc-entry">Great Reception Meeting in Bombay ... 213</p>
-            <p rend="toc-entry">Indian Famine Relief Fund Meeting ... 217</p>
-            <p rend="toc-entry">The Condition of India ... ... 224</p>
-            <p rend="toc-entry">The Cause and Cure of Famine ... ... 232</p>
-            <p rend="toc-entry">British Democracy and India ... ... 246</p>
-            <p rend="toc-entry">India Under British Rule ... ... ... 251</p>
-            <p rend="toc-entry">The Indian National Congress ... ... 254</p>
-            <p rend="toc-entry">England's Pledges to India ... ... 263</p>
-            <p rend="toc-entry">The Legacy of Lord Curzon's Regime ... 271</p>
-            <pb xml:id="page-12" n="vi" facs="https://archive.org/download/speecheswritings00naor/page/n11_w1400.jpg"/>
-          </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head>PART I: SPEECHES.</head>
+          <p rend="toc-entry">Congress Speeches.</p>
+          <p rend="toc-entry">Second Congress—Calcutta—1886 ... 1</p>
+          <p rend="toc-entry">Ninth Congress—Lahore—1893 ... ... 20</p>
+          <p rend="toc-entry">Twenty-Second Congress—Calcutta—1906 ... 68</p>
+          <p rend="toc-entry">Appointment of a Royal Commission ... 101</p>
+          <p rend="toc-entry">Reform of Legislative Councils ... ... 104</p>
+          <p rend="toc-entry">Simultaneous Examinations ... ... 111</p>
+          <p rend="toc-entry">Speeches in the House of Commons.</p>
+          <p rend="toc-entry">Maiden Speech ... ... ... 121</p>
+          <p rend="toc-entry">An Inquiry into the Condition of India ... 124</p>
+          <p rend="toc-entry">England and India ... ... ... 149</p>
+          <p rend="toc-entry">India and Lancashire ... ... ... 164</p>
+          <p rend="toc-entry">Miscellaneous Speeches and Addresses.</p>
+          <p rend="toc-entry">Retirement of Lord Ripon ... ... 167</p>
+          <p rend="toc-entry">The Fawcett Memorial Meeting ... ... 171</p>
+          <p rend="toc-entry">India's Interest in the General Election (1886). 175</p>
+          <p rend="toc-entry">India and the Opium Question ... ... 191</p>
+          <p rend="toc-entry">Address to the Electors of Holborn ... 198</p>
+          <p rend="toc-entry">The Indian Civil Service ... ... 208</p>
+          <p rend="toc-entry">Great Reception Meeting in Bombay ... 213</p>
+          <p rend="toc-entry">Indian Famine Relief Fund Meeting ... 217</p>
+          <p rend="toc-entry">The Condition of India ... ... 224</p>
+          <p rend="toc-entry">The Cause and Cure of Famine ... ... 232</p>
+          <p rend="toc-entry">British Democracy and India ... ... 246</p>
+          <p rend="toc-entry">India Under British Rule ... ... ... 251</p>
+          <p rend="toc-entry">The Indian National Congress ... ... 254</p>
+          <p rend="toc-entry">England's Pledges to India ... ... 263</p>
+          <p rend="toc-entry">The Legacy of Lord Curzon's Regime ... 271</p>
+          <pb xml:id="page-12" n="vi" facs="https://archive.org/download/speecheswritings00naor/page/n11_w1400.jpg"/>
         </div>
         <div type="subsection" n="h1">
           <head>PART II: WRITINGS.</head>
@@ -1435,12 +1438,12 @@ MADRAS</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Produce</hi>.—1.</head>
             <table xml:id="tbl-005" rows="2" cols="9">
-        <head>Price of Produce per maund of 80 lbs.</head>
+        <head><hi rend="italic">Price of Produce and Labour at the end of the year.</hi> — Price of Produce per maund of 80 lbs.</head>
         <row role="label"><cell role="label">District</cell><cell role="label">Rice</cell><cell role="label">Wheat</cell><cell role="label">Linseed</cell><cell role="label">Jute</cell><cell role="label">Cotton</cell><cell role="label">Sugar</cell><cell role="label">Salt</cell><cell role="label">&amp;c., &amp;c.</cell></row>
         <row role="data" rend="subtotal"><cell>General Average</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
       </table>
             <pb xml:id="page-315" n="301" facs="https://archive.org/download/speecheswritings00naor/page/n314_w1400.jpg"/>
-            <p>Plough Bullocks each — Wages per diem. — Cart per day — Sheep each — District — Skilled — Unskilled — Camel per day — Donkeys per score per day — Boat per ditto — Fish per seer — Iron per maund, &amp;c., &amp;c. — General average</p>
+            <p><hi rend="italic">Prices—continued.</hi> | <hi rend="smallcaps">Labour.—2.</hi> — Plough Bullocks each — Wages per diem. — Cart per day — Sheep each — District — Skilled — Unskilled — Camel per day — Donkeys per score per day — Boat per ditto — Fish per seer — Iron per maund, &amp;c., &amp;c. — General average</p>
           </div>
           <div type="subsection" n="h2">
             <head>FORM F.</head>
@@ -2552,10 +2555,10 @@ MADRAS</p>
           <p>Now, gentlemen, I have said my say, and leave to you to say or act as you think proper. I conclude by moving the resolution of which I have given notice:—</p>
           <p>“That a letter be addressed to the Secretary of State for India, with a copy of this paper, to request him to take it into his consideration, and in reply to Mr. H. Fawcett’s motion, to accede to the memorial presented on 21st August last by a deputation from this Association.”<ref xml:id="ref-sec-33-fn-013" type="noteref" target="#sec-33-fn-013">*</ref></p>
           <pb xml:id="page-530" n="516" facs="https://archive.org/download/speecheswritings00naor/page/n529_w1400.jpg"/>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="bold">C.</hi><ref xml:id="ref-sec-33-fn-014" type="noteref" target="#sec-33-fn-014">*</ref></head>
             <p>The whole Indian problem in all its aspects, material, moral, industrial, educational, political, &amp;c., will be solved only when means are adopted to check the annual disastrous drain of the produce of India and to bring it within reasonable and moderate limits. I have gone into the details of this subject in my papers on “The Poverty of India,” and in the Correspondence with the Secretary of State for India on the “Condition of India.” I shall add here only, one more testimony of the highest financial authority, the late Finance Minister, Sir E. Baring, on the extreme poverty of India, and corroborating my calculation of the very low income of this country as compared with the worst European country—Turkey. Here is this emphatic testimony in addition to the opinions given in my “Poverty of India,” Part I., especially of Lords Lawrence and Mayo, and of Mr. Grant Duff as Under Secretary of State . for India, with regard to all India, at page 278. Sir E. Baring in his Budget speech of 18th March, 1882, says:—</p>
-            <quote><p>“It has been calculated that the average income per head of population in India is <hi rend="italic">not more than rupees</hi> 27 <hi rend="italic">a year</hi>,<ref xml:id="ref-sec-33-fn-015" type="noteref" target="#sec-33-fn-015">†</ref> <hi rend="italic">and though I am not prepared to pledge myself to the absolute accuracy of a calculation of this sort, it is sufficiently accurate to justify the conclusion that the tax</hi>paying <pb xml:id="page-531" n="517" facs="https://archive.org/download/speecheswritings00naor/page/n530_w1400.jpg"/> community is <hi rend="italic">exceedingly poor</hi>. To derive any very large increase of revenue from so poor a population as this is obviously impossible, and if it were possible, would be unjustifiable."</p></quote>
+            <quote><p>“It has been calculated that the average income per head of population in India is <hi rend="italic">not more than rupees</hi> 27 <hi rend="italic">a year</hi>,<ref xml:id="ref-sec-33-fn-015" type="noteref" target="#sec-33-fn-015">†</ref> <hi rend="italic">and though I am not prepared to pledge myself to the absolute accuracy of a calculation of this sort, it is sufficiently accurate to justify the conclusion that the tax-</hi>paying <pb xml:id="page-531" n="517" facs="https://archive.org/download/speecheswritings00naor/page/n530_w1400.jpg"/> community is <hi rend="italic">exceedingly poor</hi>. To derive any very large increase of revenue from so poor a population as this is obviously impossible, and if it were possible, would be unjustifiable."</p></quote>
             <p>Again, in the discussion on the same Budget, he said, after repeating the above statement of rupees 27 per head per annum :—</p>
             <quote><p>". . . But he thought it was quite sufficient to show the <hi rend="italic">extreme poverty</hi> of the mass of the people. In England, the average income per head of population was £33 per head ; in France, it was £23 ; in Turkey, which was the poorest country in Europe, it was £4 per head. He would ask honourable members to think what rupees 27 per annum was to support a person, and then he would ask whether a few annas was nothing to such poor people."</p></quote>
             <p>This was stated in connection with salt duty. It must be remembered that rupees 27 (or my rupees 20) is the average income, including that of the richest, or all various disproportionate distribution that takes place among all grades of people, while the average of the lower classes only will be very poor indeed.</p>
@@ -2752,7 +2755,7 @@ MADRAS</p>
       <item><note xml:id="sec-34-fn-008" place="foot" n="§" target="#ref-sec-34-fn-008">Ibid. 354.</note></item>
       <item><note xml:id="sec-34-fn-009" place="foot" n="¶" target="#ref-sec-34-fn-009">Vol. ii., p. 539.</note></item>
       <item><note xml:id="sec-34-fn-010" place="foot" n="*" target="#ref-sec-34-fn-010">Vol. v., p. 165.</note></item>
-      <item><note xml:id="sec-34-fn-011" place="foot" n="†" target="#ref-sec-34-fn-011">Mr. Ed. B. Eastwick, in reply to my inquiries as to his opinion upon the extracts I have given from Sir W. Jones and Sir John Malcolm on Persian Literature, &amp;c., says :— "I thoroughly agree in the opinions expressed of Firdausi, and of the Persian poets, by Sir W. Jones and Sir J. Malcolm. The narratives of events in the <hi rend="italic">Shanaméh</hi> are not so unnatural, hyperbolic, or absurd as those in the <hi rend="italic">Iliad</hi>, and the 'curiosa felicitas verborum' of the Persian poet is little, if at all, inferior to that of</note></item>
+      <item><note xml:id="sec-34-fn-011" place="foot" n="†" target="#ref-sec-34-fn-011">Mr. Ed. B. Eastwick, in reply to my inquiries as to his opinion upon the extracts I have given from Sir W. Jones and Sir John Malcolm on Persian Literature, &amp;c., says :—<lb type="paragraph"/>"I thoroughly agree in the opinions expressed of Firdausi, and of the Persian poets, by Sir W. Jones and Sir J. Malcolm. The narratives of events in the <hi rend="italic">Shanaméh</hi> are not so unnatural, hyperbolic, or absurd as those in the <hi rend="italic">Iliad</hi>, and the 'curiosa felicitas verborum' of the Persian poet is little, if at all, inferior to that of</note></item>
       <item><note xml:id="sec-34-fn-012" place="foot" n="*" target="#ref-sec-34-fn-012">Science of Language, p. 80.</note></item>
       <item><note xml:id="sec-34-fn-013" place="foot" n="†" target="#ref-sec-34-fn-013">Religion and Philosophy of the Hindus, p. 167.</note></item>
       <item><note xml:id="sec-34-fn-014" place="foot" n="‡" target="#ref-sec-34-fn-014">Vol. iii., p. 246.</note></item>
@@ -2775,9 +2778,9 @@ MADRAS</p>
       <item><note xml:id="sec-34-fn-031" place="foot" n="†" target="#ref-sec-34-fn-031">Report of Select Committee, 1853, Ques. 8548-9.</note></item>
       <item><note xml:id="sec-34-fn-032" place="foot" n="‡" target="#ref-sec-34-fn-032">Colonization Committee, Ques. 5742-4.—In Mr. Justice Phear’s opinion, “ the character of the average oral testimony in the Guildhall of London, and that of the same in the Townhall of Calcutta, were on a par.” And the Hon. Mr. Campbell fully admits that it was the courts which were to blame for the character of native testimony. (<hi rend="italic">Native Opinion</hi>, Bombay, 25th March, 1866.)</note></item>
       <item><note xml:id="sec-34-fn-033" place="foot" n="§" target="#ref-sec-34-fn-033">Vol. ii., p. 109.</note></item>
-      <item><note xml:id="sec-34-fn-034" place="foot" n="*" target="#ref-sec-34-fn-034">Chap. iv., par. 175. Let a man continually take pleasure in truth, in justice, in laudable practices, and in purity ; let him chastise those whom he may chastise, in a legal mode ; let him keep in subjection his speech, his arm, and his appetite. Par. 237. By falsehood the sacrifice becomes vain. Par. 256. All things have their sense ascertained by speech ; in speech they have their bases ; and from speech they proceed ; consequently, a falsifier of speech falsifies everything. This is somewhat similar to Bentham's description of truth, in his <hi rend="italic">Theory of Legislation</hi> (p. 260) : " Every instant of our lives we are obliged to form judgments and to regulate our conduct according to facts, and it is only a small number of these facts which we can ascertain from our own observation. Then results an absolute necessity of trusting to the reports of others. If there is in these reports a mixture of falsehood, so far our judgments are erroneous, our motives wrong, our expectations misplaced. We live in restless distrust, and we do not know upon what to put dependence. In one word, falsehood includes the principle of every evil, because in its progress it brings on at last the dissolution of human society."</note></item>
+      <item><note xml:id="sec-34-fn-034" place="foot" n="*" target="#ref-sec-34-fn-034">Chap. iv., par. 175. Let a man continually take pleasure in truth, in justice, in laudable practices, and in purity ; let him chastise those whom he may chastise, in a legal mode ; let him keep in subjection his speech, his arm, and his appetite.<lb type="paragraph"/>Par. 237. By falsehood the sacrifice becomes vain.<lb type="paragraph"/>Par. 256. All things have their sense ascertained by speech ; in speech they have their bases ; and from speech they proceed ; consequently, a falsifier of speech falsifies everything.<lb type="paragraph"/>This is somewhat similar to Bentham's description of truth, in his <hi rend="italic">Theory of Legislation</hi> (p. 260) : " Every instant of our lives we are obliged to form judgments and to regulate our conduct according to facts, and it is only a small number of these facts which we can ascertain from our own observation. Then results an absolute necessity of trusting to the reports of others. If there is in these reports a mixture of falsehood, so far our judgments are erroneous, our motives wrong, our expectations misplaced. We live in restless distrust, and we do not know upon what to put dependence. In one word, falsehood includes the principle of every evil, because in its progress it brings on at last the dissolution of human society."</note></item>
       <item><note xml:id="sec-34-fn-035" place="foot" n="*" target="#ref-sec-34-fn-035">Vol. iii., p. 131.</note></item>
-      <item><note xml:id="sec-34-fn-036" place="foot" n="*" target="#ref-sec-34-fn-036">Par. 58. On whatever houses the women of a family, not being duly honoured, pronounce an imprecation, those houses, with all that belong to them, utterly perish, as if destroyed by a sacrifice for the death of an enemy. Par. 60. In whatever family the husband is contented with his wife, and the wife with her husband, in that house will fortune be assuredly permanent. Par. 28. From the wife alone proceed offspring, good household management, solicitous attention, most exquisite caresses, and that heavenly beatitude which she obtains for the manes of her ancestors, and for the husband himself. Par. 165. While she who slights not her lord, but keeps her mind, speech, and body devoted to him, attains his heavenly mansion and by good men is called sádhirè, or virtuous.</note></item>
+      <item><note xml:id="sec-34-fn-036" place="foot" n="*" target="#ref-sec-34-fn-036">Par. 58. On whatever houses the women of a family, not being duly honoured, pronounce an imprecation, those houses, with all that belong to them, utterly perish, as if destroyed by a sacrifice for the death of an enemy.<lb type="paragraph"/>Par. 60. In whatever family the husband is contented with his wife, and the wife with her husband, in that house will fortune be assuredly permanent.<lb type="paragraph"/>Par. 28. From the wife alone proceed offspring, good household management, solicitous attention, most exquisite caresses, and that heavenly beatitude which she obtains for the manes of her ancestors, and for the husband himself.<lb type="paragraph"/>Par. 165. While she who slights not her lord, but keeps her mind, speech, and body devoted to him, attains his heavenly mansion and by good men is called sádhirè, or virtuous.</note></item>
       <item><note xml:id="sec-34-fn-037" place="foot" n="*" target="#ref-sec-34-fn-037">Story of Nala, p. 35.</note></item>
       <item><note xml:id="sec-34-fn-038" place="foot" n="†" target="#ref-sec-34-fn-038">Stud. Lit. and Scientific Society’s Report, 1864-5.</note></item>
       <item><note xml:id="sec-34-fn-039" place="foot" n="*" target="#ref-sec-34-fn-039">In the nineteenth century, and in the very heart of Europe, a king claims "divine rigtht" and a minister sets all law and justice at defiance. Poland and the Duchies are a strange commentary upon the political justice of Europe. Has not Italy till very lately groaned under bad governments?</note></item>
@@ -4272,33 +4275,33 @@ MADRAS</p>
             <p><hi rend="italic">September 2nd.</hi></p>
             <pb xml:id="page-801" n="119" facs="https://archive.org/download/speecheswritings00naor/page/n800_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h2">
-            <head>APPENDIX B.</head>
-            <p>1. Government of India to Secretary of State, November 9th, 1878 :—</p>
-            <quote><p>" 12. . . . And bearing in mind the necessary fixity of much of the existing taxation, the difficulty of finding new sources of revenue, and the dissatisfaction caused by all increases of taxation, even by those for which there is the most urgent necessity, it is indisputable that the political inconvenience of this gradually increasing burden is extremely great, aggravated as it further is by the uncertainty of its amount and the impossibility, of foreseeing its fluctuations, which may at any moment become the cause of the most grave financial embarrassment."—(c. 4,868, 1886, p. 19.)</p></quote>
-            <p>2. Now is it not very strange that the necessity of avoiding additional taxation is met by laying on as heavy a taxation as possible in the covert way of creating a false rupee ?</p>
-            <quote><p>3. " 74. To this might further be added that the political risks of the present time, and the prospects they create of necessary additional taxation, which, if our proposals were adopted might be avoided wholly or to a great extent, or even be met by reduction of taxation, add force to the argument that if these changes are to be made, there would be special political advantage in making them now."—(P. 26.)</p></quote>
-            <p>4. Now this beats everything. While by proposing the device of closing the mints, and giving a false value to the rupee, they are actually increasing the burden of taxation to the extent of the false increase of the value of the rupee, the Government, with an extraordinary <hi rend="italic">naivete</hi>, say that their proposals will "<hi rend="italic">even be met by reduction of taxation!</hi>" The Government of India has beaten itself!</p>
-            <p>5. India Office to Treasury, January 26th, 1886 :—</p>
-            <quote><p>" It is not, however, upon the large amount of the charge that Lord Randolph Churchill is desirous of dwelling, so much as upon the extreme difficulty in which the Government of India is placed in relating its finances, and the dangers that attend a position in which any sudden fall in the exchange may require the increased <pb xml:id="page-802" n="120" facs="https://archive.org/download/speecheswritings00naor/page/n801_w1400.jpg"/> charge caused thereby to be met by additional taxation."—(c. 4,868, 1886, p. 4.)</p></quote>
-            <p>6. "The imposition of additional taxation has always been a matter of much anxiety to the Indian Government, and the greatest objection has always been evinced to imposing such taxation in forms to which the people are unaccustomed, or to frequent changes, or to measures which give rise to fears of possible further changes and additional taxes."—(P. 4.) Is it for this reason that this covert way was discovered to impose heavy additional taxation?</p>
-            <p>7. Government of India to the Secretary of State for India, February 2nd, 1886:—</p>
-            <p>"Speaking generally, the period of financial pressure to which we refer may be said to have extended from 1873-74 to 1880-81, and to have involved increased taxation, large reductions in public works expenditure, and a heavy addition to the gold debt held in England."—(c. 4,868, 1886, p. 6.)</p>
-            <p>8. "This state of affairs would be an evil of the greatest magnitude in any country in the world; in a country such as India it is pregnant with danger."—(P. 7.)</p>
-            <p>And so the Government of India aggravate this state!</p>
-            <p>9. "If a stable ratio between gold and silver cannot be secured we must continue to add to the gold debt of India, though we are fully aware of the objections to borrowing largely in England in a time of peace, and view with apprehension the additional burden which will be imposed on India when borrowing in England ceases, and the remittances from India must be increased in order to pay the interest charge on an increased gold debt."—(P. 8.)</p>
-            <p>Is that the reason why Government goes on increasing this debt with a light heart?</p>
-            <p>10. The words used by Lord Lytton's Government in a despatch dated November 9th, 1878, might be applied almost literally to the circumstances of the present day.</p>
-            <p>11. "At the present time when political events may throw upon India new burdens of unusual magnitude, the position of our Government in relation to this question assumes a character of extreme gravity. Whether, if such demands upon us arise, they would require us to have resort to increased taxation to <pb xml:id="page-803" n="121" facs="https://archive.org/download/speecheswritings00naor/page/n802_w1400.jpg"/> provide additional resources for the service of the year, or to loans to meet sudden or unusual charges, or, as may be more probable, to a combination of the two, the anxiety that will attend our financial administration must be very great; and if the holders of silver should under any combination of circumstances, throw any considerable quantity on the market, as is at all events possible, the consequences to India might be financially disastrous. How a sudden call to supply by taxation a million or more to provide for further loss by exchange, and one or two millions for war charges could be met, we are at a loss to know; yet that such demands might arise no one can say is so improbable as to remove them from a serious claim on our attention. The prospects of a loan in such a case would not be much more satisfactory. Any temporary relief obtained by borrowing in England would be more than compensated by the increased burdens created in the future, and the necessary tendency of things would be to go from bad to worse." (P. 10.)</p>
-            <p>12. So it appears that this "extreme gravity," "the anxiety", and going "from bad to worse" were the reasons why wars of Imperial interest were undertaken, and why the increasing burdens are going on! And why it is now decided that India and India alone should bear every burden?</p>
-            <p>13. Lord Randolph Churchill, in his letter to the Treasury of January 26th, 1886, says:—"It is not, however, upon the large amount of the charge that Lord Randolph Churchill is desirous of dwelling so much as upon the extreme difficulty in which the Government of India is placed in regulating its finances and the dangers that attend a position in which any sudden fall in exchange may require the increased charge caused thereby to be met by additional taxation."</p>
-            <p>14. These extracts are sufficient to show the anxiety of the Government for increasing burdens on the people, and political danger to Government; and the beauty of the whole thing is, that they have done and are doing the very things which they proclaimed loudly should not be done: increased both taxation with a light heart and political danger with a vengeance!</p>
-            <p>15. I shall add what was said on the passing of the Bill in 1893:— <pb xml:id="page-804" n="122" facs="https://archive.org/download/speecheswritings00naor/page/n803_w1400.jpg"/> In the Legislative Council of June 26th, 1893, the Hon. Mr. Mackay, who was perhaps one of the most active persons in bringing about this legislation, said :—</p>
-            <quote><p>“I am completely in accord with the provisions of the Bill just introduced by the Hon. Sir David Barbour, and with the greatest deference I venture to congratulate your Excellency on having succeeded in bringing forward a measure which will have the effect, not only of restoring the finances of the country to a satisfactory condition, but which will also impart to trade and commercial transactions that legitimate amount of certainty of which they have been deprived for the past twenty years. The measure at the same time relieves the country of that dread of additional and seriously disturbing taxation which has been weighing upon it for some time past.”</p></quote>
-            <p>His Excellency the President said :—</p>
-            <p>16. “I think, then, that I may sum up this part of the case by saying that it has now been established almost beyond controversy that to leave matters as they were meant for the Government of India hopeless financial confusion; for the commerce of India a constant and ruinous impediment; for the taxpayers of India the prospect of heavy and unpopular burdens; for the consumers of commodities a rise in the prices of the principal necessaries of life; and for the country, as a whole, a fatal and stunting arrestation of its development”. . . . “We earnestly hope that our proposals may be fruitful of good, that the commerce of India may be relieved from an impediment which has retarded its progress, that the Government of India may be enabled to meet its obligations without adding to the burdens of the taxpayer; and that capital will flow more freely into this country without the adventitious stimulus which we have hitherto been unable to refuse. We trust, finally, that in process of time sufficient reserves of gold may be accumulated to enable us to render our gold standard effective, and thereby to complete the great change towards which we are taking the first steps to-day. Time only can show whether all these hopes will be fulfilled or be disappointed.”</p>
-            <p>17. Vain, unfortunate hope! A Currency Committee is sitting again. What was said by the Treasury and others has come <pb xml:id="page-805" n="123" facs="https://archive.org/download/speecheswritings00naor/page/n804_w1400.jpg"/> to pass, and all the glowing prophecies of the Indian authorities, based upon clear fallacies, have been falsified—and yet persistence in the same course!</p>
-          </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head>APPENDIX B.</head>
+          <p>1. Government of India to Secretary of State, November 9th, 1878 :—</p>
+          <quote><p>" 12. . . . And bearing in mind the necessary fixity of much of the existing taxation, the difficulty of finding new sources of revenue, and the dissatisfaction caused by all increases of taxation, even by those for which there is the most urgent necessity, it is indisputable that the political inconvenience of this gradually increasing burden is extremely great, aggravated as it further is by the uncertainty of its amount and the impossibility, of foreseeing its fluctuations, which may at any moment become the cause of the most grave financial embarrassment."—(c. 4,868, 1886, p. 19.)</p></quote>
+          <p>2. Now is it not very strange that the necessity of avoiding additional taxation is met by laying on as heavy a taxation as possible in the covert way of creating a false rupee ?</p>
+          <quote><p>3. " 74. To this might further be added that the political risks of the present time, and the prospects they create of necessary additional taxation, which, if our proposals were adopted might be avoided wholly or to a great extent, or even be met by reduction of taxation, add force to the argument that if these changes are to be made, there would be special political advantage in making them now."—(P. 26.)</p></quote>
+          <p>4. Now this beats everything. While by proposing the device of closing the mints, and giving a false value to the rupee, they are actually increasing the burden of taxation to the extent of the false increase of the value of the rupee, the Government, with an extraordinary <hi rend="italic">naivete</hi>, say that their proposals will "<hi rend="italic">even be met by reduction of taxation!</hi>" The Government of India has beaten itself!</p>
+          <p>5. India Office to Treasury, January 26th, 1886 :—</p>
+          <quote><p>" It is not, however, upon the large amount of the charge that Lord Randolph Churchill is desirous of dwelling, so much as upon the extreme difficulty in which the Government of India is placed in relating its finances, and the dangers that attend a position in which any sudden fall in the exchange may require the increased <pb xml:id="page-802" n="120" facs="https://archive.org/download/speecheswritings00naor/page/n801_w1400.jpg"/> charge caused thereby to be met by additional taxation."—(c. 4,868, 1886, p. 4.)</p></quote>
+          <p>6. "The imposition of additional taxation has always been a matter of much anxiety to the Indian Government, and the greatest objection has always been evinced to imposing such taxation in forms to which the people are unaccustomed, or to frequent changes, or to measures which give rise to fears of possible further changes and additional taxes."—(P. 4.) Is it for this reason that this covert way was discovered to impose heavy additional taxation?</p>
+          <p>7. Government of India to the Secretary of State for India, February 2nd, 1886:—</p>
+          <p>"Speaking generally, the period of financial pressure to which we refer may be said to have extended from 1873-74 to 1880-81, and to have involved increased taxation, large reductions in public works expenditure, and a heavy addition to the gold debt held in England."—(c. 4,868, 1886, p. 6.)</p>
+          <p>8. "This state of affairs would be an evil of the greatest magnitude in any country in the world; in a country such as India it is pregnant with danger."—(P. 7.)</p>
+          <p>And so the Government of India aggravate this state!</p>
+          <p>9. "If a stable ratio between gold and silver cannot be secured we must continue to add to the gold debt of India, though we are fully aware of the objections to borrowing largely in England in a time of peace, and view with apprehension the additional burden which will be imposed on India when borrowing in England ceases, and the remittances from India must be increased in order to pay the interest charge on an increased gold debt."—(P. 8.)</p>
+          <p>Is that the reason why Government goes on increasing this debt with a light heart?</p>
+          <p>10. The words used by Lord Lytton's Government in a despatch dated November 9th, 1878, might be applied almost literally to the circumstances of the present day.</p>
+          <p>11. "At the present time when political events may throw upon India new burdens of unusual magnitude, the position of our Government in relation to this question assumes a character of extreme gravity. Whether, if such demands upon us arise, they would require us to have resort to increased taxation to <pb xml:id="page-803" n="121" facs="https://archive.org/download/speecheswritings00naor/page/n802_w1400.jpg"/> provide additional resources for the service of the year, or to loans to meet sudden or unusual charges, or, as may be more probable, to a combination of the two, the anxiety that will attend our financial administration must be very great; and if the holders of silver should under any combination of circumstances, throw any considerable quantity on the market, as is at all events possible, the consequences to India might be financially disastrous. How a sudden call to supply by taxation a million or more to provide for further loss by exchange, and one or two millions for war charges could be met, we are at a loss to know; yet that such demands might arise no one can say is so improbable as to remove them from a serious claim on our attention. The prospects of a loan in such a case would not be much more satisfactory. Any temporary relief obtained by borrowing in England would be more than compensated by the increased burdens created in the future, and the necessary tendency of things would be to go from bad to worse." (P. 10.)</p>
+          <p>12. So it appears that this "extreme gravity," "the anxiety", and going "from bad to worse" were the reasons why wars of Imperial interest were undertaken, and why the increasing burdens are going on! And why it is now decided that India and India alone should bear every burden?</p>
+          <p>13. Lord Randolph Churchill, in his letter to the Treasury of January 26th, 1886, says:—"It is not, however, upon the large amount of the charge that Lord Randolph Churchill is desirous of dwelling so much as upon the extreme difficulty in which the Government of India is placed in regulating its finances and the dangers that attend a position in which any sudden fall in exchange may require the increased charge caused thereby to be met by additional taxation."</p>
+          <p>14. These extracts are sufficient to show the anxiety of the Government for increasing burdens on the people, and political danger to Government; and the beauty of the whole thing is, that they have done and are doing the very things which they proclaimed loudly should not be done: increased both taxation with a light heart and political danger with a vengeance!</p>
+          <p>15. I shall add what was said on the passing of the Bill in 1893:— <pb xml:id="page-804" n="122" facs="https://archive.org/download/speecheswritings00naor/page/n803_w1400.jpg"/> In the Legislative Council of June 26th, 1893, the Hon. Mr. Mackay, who was perhaps one of the most active persons in bringing about this legislation, said :—</p>
+          <quote><p>“I am completely in accord with the provisions of the Bill just introduced by the Hon. Sir David Barbour, and with the greatest deference I venture to congratulate your Excellency on having succeeded in bringing forward a measure which will have the effect, not only of restoring the finances of the country to a satisfactory condition, but which will also impart to trade and commercial transactions that legitimate amount of certainty of which they have been deprived for the past twenty years. The measure at the same time relieves the country of that dread of additional and seriously disturbing taxation which has been weighing upon it for some time past.”</p></quote>
+          <p>His Excellency the President said :—</p>
+          <p>16. “I think, then, that I may sum up this part of the case by saying that it has now been established almost beyond controversy that to leave matters as they were meant for the Government of India hopeless financial confusion; for the commerce of India a constant and ruinous impediment; for the taxpayers of India the prospect of heavy and unpopular burdens; for the consumers of commodities a rise in the prices of the principal necessaries of life; and for the country, as a whole, a fatal and stunting arrestation of its development”. . . . “We earnestly hope that our proposals may be fruitful of good, that the commerce of India may be relieved from an impediment which has retarded its progress, that the Government of India may be enabled to meet its obligations without adding to the burdens of the taxpayer; and that capital will flow more freely into this country without the adventitious stimulus which we have hitherto been unable to refuse. We trust, finally, that in process of time sufficient reserves of gold may be accumulated to enable us to render our gold standard effective, and thereby to complete the great change towards which we are taking the first steps to-day. Time only can show whether all these hopes will be fulfilled or be disappointed.”</p>
+          <p>17. Vain, unfortunate hope! A Currency Committee is sitting again. What was said by the Treasury and others has come <pb xml:id="page-805" n="123" facs="https://archive.org/download/speecheswritings00naor/page/n804_w1400.jpg"/> to pass, and all the glowing prophecies of the Indian authorities, based upon clear fallacies, have been falsified—and yet persistence in the same course!</p>
         </div>
         <div type="subsection" n="h1">
           <head>APPENDIX C.</head>
@@ -4586,7 +4589,6 @@ MADRAS</p>
           <item>1st. Provision of capital necessary for all public works of a permanent character, both ordinary and extraordinary, which are required to increase production and facilitate distribution, to be provided, if India is impoverished, and has it not.</item>
           <item>2nd. A just adjustment of the financial relations between India and England, so that the political drain may be reasonably diminished.<ref xml:id="ref-sec-45-fn-001" type="noteref" target="#sec-45-fn-001">*</ref></item>
         </list>
-              <quote><p>“In former reports it was explained how the circumstance of so much money going out of the Punjab contributed to depress the agriculturist. The native regular army was Hindustanee; to them was a large share of the Punjab revenues disbursed, of which a part only they spent on the spot, and a part was remitted to their homes. Thus it was that, year after year, lakhs and lakhs were drained from the Punjab, and enriched Oudh. But within the last year, the native army being Punjabee, all such sums have been paid to them, and have been spent at home. Again, many thousands of Punjabee soldiers are serving abroad. These men not only remit their savings, but also have sent quantities of prizeproperty and plunder, the spoils of Hindustan, to their native villages. The effect of all this is already perceptible in an increase of agricultural capital, a freer circulation of money, and a fresh impetus to cultivation.”</p></quote>
               <pb xml:id="page-841" n="159" facs="https://archive.org/download/speecheswritings00naor/page/n840_w1400.jpg"/>
               <p>3rd. The best way of attracting capital and enterprise to utilise the vast culturable waste lands.</p>
               <p>4th. The best way of increasing the intelligence of the people by a comprehensive plan of national education, both high and popular.</p>
@@ -4731,7 +4733,7 @@ MADRAS</p>
         </div>
         <div type="notes">
     <list type="footnotes">
-      <item><note xml:id="sec-45-fn-001" place="foot" n="*" target="#ref-sec-45-fn-001">I give this chief cause of the impoverishment of a country in the words of Sir R. Temple himself, written under the direction of Lord Lawrence. (Punjab Administration Report for 1856-8, Parliamentary Return 212 of 1859, page 16):—</note></item>
+      <item><note xml:id="sec-45-fn-001" place="foot" n="*" target="#ref-sec-45-fn-001">I give this chief cause of the impoverishment of a country in the words of Sir R. Temple himself, written under the direction of Lord Lawrence. (Punjab Administration Report for 1856-8, Parliamentary Return 212 of 1859, page 16):—<lb type="paragraph"/>“In former reports it was explained how the circumstance of so much money going out of the Punjab contributed to depress the agriculturist. The native regular army was Hindustanee; to them was a large share of the Punjab revenues disbursed, of which a part only they spent on the spot, and a part was remitted to their homes. Thus it was that, year after year, lakhs and lakhs were drained from the Punjab, and enriched Oudh. But within the last year, the native army being Punjabee, all such sums have been paid to them, and have been spent at home. Again, many thousands of Punjabee soldiers are serving abroad. These men not only remit their savings, but also have sent quantities of prizeproperty and plunder, the spoils of Hindustan, to their native villages. The effect of all this is already perceptible in an increase of agricultural capital, a freer circulation of money, and a fresh impetus to cultivation.”</note></item>
       <item><note xml:id="sec-45-fn-002" place="foot" n="*" target="#ref-sec-45-fn-002">Though the Indian Councils are thus prohibited from imposing charges on Indian revenues without direct legislation, and the sanction of the Governor-General first obtained to introduce the measure, the Indian Council in England is, in a very anomalous way, left to do what it likes with the revenues of India ; take, for instance, the way in which certain charges connected with the Cooperhill Civil Engineering College are put upon Indian revenues or the large sum of money spent upon the India Office, or any other charges that the Indian Council chooses to make.</note></item>
       <item><note xml:id="sec-45-fn-003" place="foot" n="*" target="#ref-sec-45-fn-003">The <hi rend="italic">Indian Economist</hi> of 15th October, 1870: “Statistical Reporter,” p. 45.</note></item>
     </list>
@@ -4814,10 +4816,10 @@ MADRAS</p>
       </div>
       <div xml:id="sec-47" type="chapter" n="47-f-report-of-the-indian-famine-commission-1880">
         <head>F. Report of the Indian Famine Commission, 1880</head>
-        <div type="subsection" n="h3">
+        <div type="subsection" n="h1">
           <head><hi rend="smallcaps">IN THE</hi></head>
         </div>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head><hi rend="bold">REPORT OF THE INDIAN FAMINE COMMISSION, 1880.<ref xml:id="ref-sec-47-fn-001" type="noteref" target="#sec-47-fn-001">*</ref></hi></head>
           <p><hi rend="smallcaps">Part II., Chapter I., Section VII.</hi> treats of Incidence of Taxation.</p>
           <p>I submit that the section is fallacious, gives an erroneous notion of the true state of the matter, and is misleading.</p>
@@ -5217,17 +5219,17 @@ MADRAS</p>
         </div>
         <div type="subsection" n="h1">
           <head><hi rend="bold">Glympses of the Orient To-Day</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>BY SAINT NIHAL SINGH.</head>
             <p><hi rend="bold"><hi rend="italic">Preface.</hi></hi>—The following pages are the record of a recent ramble through Asia, the author having personally visited all the lands about which he writes, with one or two exceptions.</p>
             <p>It is a collection of impressions formed as the writer slowly journeyed from one land to another, living amongst the people, as one of them.</p>
             <p>The book falling into the hands of the Indian youth— for whom it is especially designed—will be the means of inspiring him to work for the uplift of his land.</p>
             <p><hi rend="bold"><hi rend="italic">Contents:</hi></hi>—Asia's Spell Broken; How Disillusionment Came; Asia a Menace to the West; Japan's Imperial Dream; Oriental Trade Supremacy; Autocracy to Limited Monarchy; The Modern Oriental Woman in the Making; Where Woman Has The Upper Hand; The Modernization of Japan; Flaws in Japanese Modernization; Education in Japan; Japan's Material Prosperity; Japan: China's Gadfly; The Celestial Student Abroad; Exit the Old, Enter the New in China; Evolution, Not Revolution in India; The Spirit of Maya; Leaving Hindustan; To-Day in Afghanistan; Persia Evolving Cosmos Out of Chaos; Rural Life in Iran; Egypt's Agitation for Autonomy; Egypt's Preparation for Self-Government.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="bold"><hi rend="italic">First Edition. Price: Re. One.</hi></hi></head>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">To Subscribers of the “Indian Review,” As. 12.</hi></head>
             <p rend="imprint">G. A. Natesan &amp; Co., Sunkurama Chetty Street, Madras.</p>
             <quote><p><hi rend="italic">The Guzerati.</hi>—“Mr. Saint Nihal Singh tells us how the impact of the West upon the East has shaken the Oriental out of his metaphysical musings and taught him to think of the world of to-day, how the new awakening is to be traced in all Eastern countries. He is an optimist and in favour of an all-sided progress. The spirit that runs through the whole book is commendable and deserves to be imbibed by the Indian youths for whom the book is intended.”</p></quote>
@@ -5436,14 +5438,14 @@ MADRAS</p>
         </div>
         <div type="subsection" n="h1">
           <head><hi rend="bold">INDIAN AGRICULTURE</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">some lessons from america</hi></head>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="bold">By Mrs. Saint Nihal Singh</hi></head>
             <p><hi rend="smallcaps">author of</hi> <hi rend="italic">"The House Hygienic" "My Favourite Recipes" "How to Make Good Things to Eat" "The Virtues of Varnish," etc.</hi></p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>TABLE OF CONTENTS</head>
             <p rend="toc-entry"><hi rend="smallcaps">Publisher's Preface</hi> .. .. .. .. .. <hi rend="smallcaps">Page</hi> i</p>
             <p rend="toc-entry"><hi rend="smallcaps">Where Farming is a Profitable Pastime</hi> .. 1</p>

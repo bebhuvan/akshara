@@ -8,7 +8,7 @@
 
 <!-- page: 10 | folio: 10 -->
 
-#### THE AMERICAN LECTURES ON THE HISTORY OF RELIGIONS.
+### THE AMERICAN LECTURES ON THE HISTORY OF RELIGIONS.
 
 <span class="sc">I. Buddhism.</span>—The History and Literature of Buddhism. By <span class="sc">T. W. Rhys-Davids, LL.D., Ph.D.</span>
 
@@ -25,7 +25,7 @@
 <span class="sc">VII. The Veda.</span>—The Religion of the Veda. By <span class="sc">Maurice Bloomfield, Ph.D., LL.D.</span>
 
 
-##### *In active preparation :*
+#### *In active preparation :*
 
 <span class="sc">VIII. Islam.</span>—The Religion of Islam. By <span class="sc">Ignaz Goldziher, Ph.D., Litt.D.</span>
 
@@ -35,10 +35,10 @@ G. P. PUTNAM'S SONS
 
 <!-- page: 11 | folio: i -->
 
-#### *AMERICAN LECTURES ON THE HISTORY OF RELIGIONS*
+### *AMERICAN LECTURES ON THE HISTORY OF RELIGIONS*
 
 
-##### <span class="sc">SEVENTH SERIES—1906–1907</span>
+#### <span class="sc">SEVENTH SERIES—1906–1907</span>
 
 
 ### THE RELIGION OF THE VEDA
@@ -803,7 +803,7 @@ Fortunately it does not fall within the province of these lectures to exhaust th
 [^sec-06-fn-028]: (3) *Cf.* Nirukta 12. 1. Bṛhaddevatā 2. 7 *ff.*
 [^sec-06-fn-029]: (4) See below, p. 112.
 [^sec-06-fn-030]: (1) See below, p. 112.
-[^sec-06-fn-031]: (2) 1. 157. 1.
+[^sec-06-fn-031]: (2) 1\. 157. 1.
 [^sec-06-fn-032]: (1) *Cf.* Bṛihaddevatā 1. 5 *ff.*
 [^sec-06-fn-033]: (2) See the index at the end of this book for these and most of the following gods.
 [^sec-06-fn-034]: (3) See below, p. 173.
@@ -1193,7 +1193,7 @@ The pronounced ritualist quality of the poetry of the Rig-Veda fixes Agni as a d
 
 Such is his cosmic aspect in the morning. On the other hand his ritualistic character betrays itself in his epithet *usharbudh*, which means "waking at dawn." We have seen before that he is also regarded as the son of Dawn.[^sec-08-fn-006] All this emphasises the opening of the sacrificial day, ushered in by the Goddess Dawn, God Agni, and the gods that wake in the morning and come in the morning, like the Açvins and others.
 
-Every morning Agni is produced anew for the sacrifice; this secures for him the appropriate epithet "the youngest." On the other hand he is the same old Agni, and now comes a good deal of playful or mystic handling of this paradox. His new births are contrasted with his old; having grown old he is born again as a youth. Thus it happens that he is called "ancient" and "very young" in the same passage; the Vedic poets delight in this kind of mental see-saw. The mystery is shallow; what is meant is, that the vigorous life of the present-day Agni recalls his traditional importance in the past. There is no sacrificer older than Agni, for he conducted the first sacrifice. Just as he flames up today [p. 161] at dawn so he shone forth under the auspices of former dawns at the sacrifice of many a great forefather: Bharata, or Vadhryaçva; Divodāsa, or Trasadasyu.
+Every morning Agni is produced anew for the sacrifice; this secures for him the appropriate epithet "the youngest." On the other hand he is the same old Agni, and now comes a good deal of playful or mystic handling of this paradox. His new births are contrasted with his old; having grown old he is born again as a youth. Thus it happens that he is called "ancient" and "very young" in the same passage; the Vedic poets delight in this kind of mental see-saw. The mystery is shallow; what is meant is, that the vigorous life of the present-day Agni recalls his traditional importance in the past. There is no sacrificer older than Agni, for he conducted the first sacrifice. Just as he flames up to-day [p. 161] at dawn so he shone forth under the auspices of former dawns at the sacrifice of many a great forefather: Bharata, or Vadhryaçva; Divodāsa, or Trasadasyu.
 
 After having been kindled Agni is placed upon the altar or, if we trust the testimony of the ritual texts of the Veda, upon three altars.[^sec-08-fn-007] Fagots are now piled on, fat oblations are poured in; he waxes big; his tongues, three, or seven, shoot up; he has four eyes, or a thousand eyes—both things mean that he is sharp-sighted; his jaws are sharp; and his teeth shine golden, or his iron grinders clutch. Then the figure is changed: he is flame-haired, tawny-haired, tawny-bearded; his glowing head faces in all directions. Ghee, or melted butter, is his food: he is therefore called ghee-backed, ghee-faced, ghee-haired. Once, even more boldly, Agni himself says, ghee is his eye. This is the point where Agni begins to take on a little more of the flesh and blood of personality upon the skeleton of his elemental qualities. For he receives the offerings neither passively nor selfishly. At as late a time as that of the great Epic, the Mahābhārata[^sec-08-fn-009] he is made to say: “The ghee that is poured into my mouth, in the way prescribed in the Veda, nourishes the Gods and the [p. 162] Manes . . . called by my mouth the Gods and the Manes come to eat the ghee."
 
@@ -1372,18 +1372,6 @@ But the every-day existence of these men is something different. It is loaded do
 <!-- page: 213 | folio: 185 -->
 In the first place, Vedic poets engage in a sort of scramble for the gods. The gods cannot be in one and the same place at the same time, and cannot grant all the conflicting wishes of their numerous suppliants. I have dealt with this theme which may interest the broader students of the history of religions, in a recent paper presented to the XIVth International Congress of Orientalists, held at Algiers in 1905.[^sec-08-fn-033] The title of the paper, *On Conflicting Prayers and Sacrifices*, tells a good deal of the story. The notion which comes out quite persistently is that it requires art to "hog" the gods, and it is not a very delectable notion either from the æsthetic or the ethical point of view. Yet not less so perhaps than the *Te Deum laudamus* over the slaughter of enemies, which has been known to be chanted by both sides at the same time when each side claimed victory.[^sec-08-fn-034]
 
-> "Gieb regen und gieb sonnenschein  
-> Für Reuss und Schleuss und Lobenstein ;  
-> Und wollen andre auch was ha'n  
-> So mögen sie's dir selber sa'n."
-
-My colleague, Professor Gildersleeve, proposes the following English transfusion:
-
-> "Give rain and sunshine we implo'  
-> For us upon the Eastern sho' ;  
-> If any others want a share  
-> Themselves may offer up the prayer."
-
 
 <!-- page: 214 | folio: 186 -->
 So, for instance, poets of the ancient family of bards, the Vasishthas, on a certain occasion brag that they made Indra prefer their own *soma* libations to those of Pāçadyumna Vāyata, though the latter had gone to the trouble of fetching Indra from a great distance. Frantically emphatic prayer ; imprecation of the man who is praying at the same time; and naughty tricks of various sorts show us under this aspect the whole world of praying and sacrificing men engaged in a sort of universal game of tag : the hindmost is “it.” The Vedic Hindus have made a sad botch of this matter. I am glad to say that this particular crudity passes out at the end of the Vedic period with the slow “twilight of the gods” which shifts the interest from polytheism, myth, and sacrifice to the theosophic speculations of the Upanishads. When the personal gods emerge again in later Hinduism, they are much clarified; at least the risky question about their presence in many places at one and the same time, and the equitable distribution of their favors is, as far as I know, never asked again.
@@ -1531,7 +1519,7 @@ For the history of the human mind this last outcome, present in the ancient lite
 [^sec-08-fn-005]: (1) Rig-Veda 10. 156. 4.
 [^sec-08-fn-006]: (2) Above, p. 73.
 [^sec-08-fn-007]: (1) *Cf.* Rig-Veda **2**. 36. 4; **5**. 11. 2; **10**. 105. 9. 1. 7. 7. *ff* = 917 *ff.*
-[^sec-08-fn-008]: (1) 10. 51 and 52.
+[^sec-08-fn-008]: (1) 10\. 51 and 52.
 [^sec-08-fn-009]: (2) For other later tales of Agni lost and found again see the Mahābhārata legends in Holtzmann, *Agni nach den Vorstellungen des Mahābhārata*, p. 12 *ff*.
 [^sec-08-fn-010]: (3) *Hutāça, hutāçana, hutabhuj, havyabhaksha*, etc.; *hutavaha, havyavah, havyavāhana*, etc.
 [^sec-08-fn-011]: (1) *Cf.* Holtzmann's essay, cited above, p. 5.
@@ -1558,6 +1546,18 @@ For the history of the human mind this last outcome, present in the ancient lite
 [^sec-08-fn-032]: (1) *dehi me dadāmi te*. *Cf.* the Roman *do ut des*.
 [^sec-08-fn-033]: (1) See *Johns Hopkins University Circulars* of 1906, Nr. 10, p. 1 *ff.*
 [^sec-08-fn-034]: (2) Or consider:
+
+    "Gieb regen und gieb sonnenschein\
+    Für Reuss und Schleuss und Lobenstein ;\
+    Und wollen andre auch was ha'n\
+    So mögen sie's dir selber sa'n."
+
+    My colleague, Professor Gildersleeve, proposes the following English transfusion:
+
+    "Give rain and sunshine we implo'\
+    For us upon the Eastern sho' ;\
+    If any others want a share\
+    Themselves may offer up the prayer."
 [^sec-08-fn-035]: (1) See Çāṅkhāyana **Grihyasūtra 2.** 7, and compare Āçvalāyana Grihyasūtra 3. 9. 1.
 [^sec-08-fn-036]: (1) Çāṅkhāyana Grihyasūtra 2. 10. 6.
 [^sec-08-fn-037]: (1) Rig-Veda 10. 151. 2, 3.
@@ -1835,8 +1835,8 @@ All this is far from being the final form of the [p. 247] higher religion. When 
 [^sec-09-fn-011]: (1) See Deussen, *Allgemeine Geschichte der Philosophie*, vol. i., part 2, pp. 354 *ff*.; Garbe, *Beiträge zur Indischen Kulturgeschichte*, pp. 3 *ff*.; Winternitz, *Geschichte der Indischen Litteratur*, pp. 196 *ff*.
 [^sec-09-fn-012]: (1) Brihad Āranyaka Upanishad 6. 2; Chāndogya Upanishad 5. 3.
 [^sec-09-fn-013]: (1) Compare Pandit Shyāmaji Krishnavarma, *Transactions of the Fifth International Congress of Orientalists*, vol. ii., p. 218 *ff.*
-[^sec-09-fn-014]: (2) 12. 261 *ff.*
-[^sec-09-fn-015]: (3) 12. 290 *ff.*
+[^sec-09-fn-014]: (2) 12\. 261 *ff.*
+[^sec-09-fn-015]: (3) 12\. 290 *ff.*
 [^sec-09-fn-016]: (1) See Max Müller, *Rāmakrishna, His Life and Sayings*, p. 127.
 [^sec-09-fn-017]: (2) See above, p. 219.
 [^sec-09-fn-018]: (1) Rig-Veda 1. 164 and 10. 129.
@@ -1851,10 +1851,10 @@ All this is far from being the final form of the [p. 247] higher religion. When 
 [^sec-09-fn-027]: (1) Rig-Veda 10. 121.
 [^sec-09-fn-028]: (2) See Deussen, *Geschichte der Philosophie*, vol. i., part i, p. 128 *ff.*
 [^sec-09-fn-029]: (1) See above, p. 206.
-[^sec-09-fn-030]: (2) 10. 71. 1
-[^sec-09-fn-031]: (3) 10. 125
+[^sec-09-fn-030]: (2) 10\. 71. 1
+[^sec-09-fn-031]: (3) 10\. 125
 [^sec-09-fn-032]: (1) See the author, *Journal of the German Oriental Society*, vol. xlviii., p. 599.
-[^sec-09-fn-033]: (1) 19. 53 and 54.
+[^sec-09-fn-033]: (1) 19\. 53 and 54.
 
 
 ## Lecture VI.—The Final Philosophy of the Veda
@@ -1947,16 +1947,7 @@ It is easy to see that with all the refinement of the term *ātman* in its final
 
 The two conceptions of *ātman* and *brahma*, in their origin, respectively, the physical and spiritual essences of the universe, are fused into one conception. They are used in general as synonyms. Still there is a tendency to use *brahma*, “Holy Thought,” as the designation of the universal principle in the outer world; *ātman*, “Self,” as the same principle in the inner life of man. The conviction that the *brahma* without and the *ātman* within are one and the same, that is the real religion of the Upanishads. The power which operates in the universe, creating, sustaining, and destroying, the power behind this imperfect world that perchance moves on to some [p. 275] final development; the power that manifests itself in every living thing;—this eternal power is identical with our own innermost and truest self, equally imperishable when stripped of all its external and accidental circumstances. This conviction is embalmed in the famous words, *tat tvam asi*, “Thou art That,” or *aham brahma asmi*, “I am the Brahma.” These are the slogans of higher religious thought; and they contain the corollary that the world of things which we see in space, as we ideally assume it to be with our eyes and bodies, themselves phenomena, are mere shadows cast by the one truth —the innermost Personal Self identical with the outer Universal Self, the *brahma-ātman*.[^sec-10-fn-023]
 
-Now we have seen that our empirical knowledge which shows us a manifold variegated world where in truth there is only *brahma*, and a body where there is in truth only *ātman*, or the *brahma* in ourselves, that all that is mere ignorance, distraction, or illusion. The things that are unfolded before our eyes in space, those things to which we ourselves belong with our ponderable bodies, are not true entities, they are not
-
-> “Ich bin so gross wie Gott,  
-> Er ist wie ich so klein ;  
-> Ich kann nicht unter ihm,  
-> Er über mich nicht sein.”
-
-
-<!-- page: 304 | folio: 276 -->
-the *ātman*. As long as this is not recognised, the Hindus say there is *avidyā* “ignorance,” or, more literally and philosophically “nescience.” Or they say that there is *māyā* “illusion.” All else aside from this single truth is a mere mirage in the desert, and is so far as it must after all have some kind of a connection with Brahma, have some reality in Brahma, it is no more real than the reflection of the real moon which we see trembling on the ripple of the waters. Even the very conception of nescience or illusion is, of course, not real, because it can be annihilated, and whatever is temporary is not real. What induced the time-less, space-less, and cause-less Brahma to enter upon the escapade of this phenomenal world of time, space, and causality, the Hindu thinkers cannot tell us. Their mythology is full of crude ideas of the primitive being’s loneliness and desire to multiply, but these ideas belong to the lower forms of their religion ; they are not entertained by their philosophers. This is the point where Hinduism like every system of idealistic philosophy breaks down. Plato’s τὸ ὄντως ὄν ; the *ens realissimum* ; Kant’s *ding an sich* ; the Upanishads’ “That only True” are all very well, but the world of phenomena to explain that—aye there ’s the rub. This pesky world of plural things, full of irrational quantities—why does it exist, and is it not pounding along toward some end that will show a [p. 277] uniting principle? With that kind of suggestion the Hindu will have nothing to do. Entranced by the absolute reality of the one Brahma he wafts away the world of experience as a conjurer an optical delusion.
+Now we have seen that our empirical knowledge which shows us a manifold variegated world where in truth there is only *brahma*, and a body where there is in truth only *ātman*, or the *brahma* in ourselves, that all that is mere ignorance, distraction, or illusion. The things that are unfolded before our eyes in space, those things to which we ourselves belong with our ponderable bodies, are not true entities, they are not [p. 276] the *ātman*. As long as this is not recognised, the Hindus say there is *avidyā* “ignorance,” or, more literally and philosophically “nescience.” Or they say that there is *māyā* “illusion.” All else aside from this single truth is a mere mirage in the desert, and is so far as it must after all have some kind of a connection with Brahma, have some reality in Brahma, it is no more real than the reflection of the real moon which we see trembling on the ripple of the waters. Even the very conception of nescience or illusion is, of course, not real, because it can be annihilated, and whatever is temporary is not real. What induced the time-less, space-less, and cause-less Brahma to enter upon the escapade of this phenomenal world of time, space, and causality, the Hindu thinkers cannot tell us. Their mythology is full of crude ideas of the primitive being’s loneliness and desire to multiply, but these ideas belong to the lower forms of their religion ; they are not entertained by their philosophers. This is the point where Hinduism like every system of idealistic philosophy breaks down. Plato’s τὸ ὄντως ὄν ; the *ens realissimum* ; Kant’s *ding an sich* ; the Upanishads’ “That only True” are all very well, but the world of phenomena to explain that—aye there ’s the rub. This pesky world of plural things, full of irrational quantities—why does it exist, and is it not pounding along toward some end that will show a [p. 277] uniting principle? With that kind of suggestion the Hindu will have nothing to do. Entranced by the absolute reality of the one Brahma he wafts away the world of experience as a conjurer an optical delusion.
 
 Into the maze of difficulties and inconsistencies which opens out here we need not go. The manifold modifications, adjustments, and the trimming down of the main thought which the Upanishads are driven to undertake belong to philosophy rather than religion. According to the Upanishads' own definition of the *ātman*, everything that these works undertake to say about anything other than the *ātman* is mere figure of speech, and every definition of the *ātman* itself is also figure of speech. Every definition is necessarily stopped by the words: "No, No" (*na neti*). The Brahma has no attributes (*nirguṇa*). Yea, the Hindu when in the proper mood, advancing straight to the last consequence, looking neither to the right nor to the left, denies the possibility of knowing Brahma altogether. Tremendous paradox this, considering all depends upon the intuition of this very conception. In a conversation with his wife Maitreyī[^sec-10-fn-024] the great thinker Yājnavalkya asserts that there is no consciousness after death, because there must be two in order that one should see [p. 278] the other, smell, hear, address, understand, recognise the other. "But if one has himself become *Ātman* (that is, "Self") by means of what and whom should he then see? By means of what and whom should he then smell, hear, address, understand, recognise?" In brief and dry language, being himself the subject, and there being no object, there is no cognition nor consciousness.
 
@@ -2030,7 +2021,7 @@ Not so the Hindu. Over this pigmy religion which is engaged only with the needs 
 [^sec-10-fn-009]: (1) See von Negelein, *Archiv für Religionswissenschaft*, vi., 246.
 [^sec-10-fn-010]: (1) See below p. 259.
 [^sec-10-fn-011]: (1) Manu 11. 25.
-[^sec-10-fn-012]: (1) 5. 10. 9.
+[^sec-10-fn-012]: (1) 5\. 10. 9.
 [^sec-10-fn-013]: (2) Brihadāraṇyaka Upanishad 3. 2. 13.
 [^sec-10-fn-014]: (1) Brihadāraṇyaka Upanishad 4. 4. 3; *see also* Brahma Upanishad, chapter the first.
 [^sec-10-fn-015]: (1) “How many births are past, I cannot tell; How many yet to come, no man can say: But this alone I know, and know full well, That pain and grief embitter all the way.” (South-Indian Folk-song, quoted in the Rev. Dr. John Morrison’s *New Ideas in India*, p. 213.)
@@ -2042,6 +2033,11 @@ Not so the Hindu. Over this pigmy religion which is engaged only with the needs 
 [^sec-10-fn-021]: (1) See above, p. 202.
 [^sec-10-fn-022]: (2) Professor Oldenberg regards “zauberfluidum” as the original meaning of *brahma*. But does “magic essence” really explain, and does it not itself stand in need of explanation? Anyway it seems to me that this distinguished scholar’s present sympathy with what may be called ethnological explanations of religious phenomena, that is the theory that such phenomena must necessarily begin somewhere in the lowest bathos of savage folk belief, is leading him on a trail farther than that trodden by this word.
 [^sec-10-fn-023]: (1) The Catholic mystic, Johannes Scheffler, called Angelus Silesius (born 1624), arrives at the same end in a stanza of his collection of poems called *Cherubinischer Wandersmann* :
+
+    “Ich bin so gross wie Gott,\
+    Er ist wie ich so klein ;\
+    Ich kann nicht unter ihm,\
+    Er über mich nicht sein.”
 [^sec-10-fn-024]: (1) Brihadāraṇyaka Upanishad 2. 4. 12 *ff*.
 [^sec-10-fn-025]: (1) Brihadāraṇyaka Upanishad 2. 4 and 4. 5.
 [^sec-10-fn-026]: (1) *Cf. Rāmakrishna, His Life and Sayings*, p. 135 (number 161).

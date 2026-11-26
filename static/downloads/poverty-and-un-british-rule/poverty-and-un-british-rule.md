@@ -327,19 +327,6 @@ The administration report of 1867-8 gives all the necessary agricultural tables,
 The chief crops are wheat and other inferior grains—the former nearly 20, and the latter 50 per cent., of the whole cultivation. The price of wheat is higher than that of other inferior grains; and as I take the prices of first-class wheat, I think the average price of the produce of one acre of wheat, applied to the whole cultivated acreage, will be very much above the actual value of the production, and my estimate will be much higher than it ought to be.
 
 
-**Summary.**
-| Item | Acres. | Rs. |
-| --- | --- | --- |
-| Rice | 2,938,328 | 4,18,43,575 |
-| Wheat | 3,313,677 | 3,51,77,956 |
-| Other Food Grains | 4,197,516 | 4,70,63,760 |
-| Oil Seeds | 697,100 | 1,04,42,854 |
-| Cotton | 643,390 | 50,28,838 |
-| Total | 11,790,011 | 13,95,56,983 |
-
-Average, Rs. 11-13-5 per acre.
-
-
 <!-- page: 26 | folio: 6 -->
 As the administration reports of both 1867-8 and 1868-9 do not give the produce of crops per acre, I ascertain it from other sources.
 
@@ -2447,6 +2434,18 @@ Nature’s laws cannot be trifled with, and so long as they are immutable, every
 
 [^sec-04-fn-001]: (1) These notes in their original draft were placed before the Select Committee on Indian Finance in 1873. They were taken, but not published with the Report, as they did not suit the views of the Chairman (Mr. Ayrton), and I was led to suppose, also of Sir Grant Duff, who was then the Under-Secretary of State for India.
 [^sec-04-fn-002]: (1) The Table A is too large for insertion.
+
+    **Summary.**
+    | Item | Acres. | Rs. |
+    | --- | --- | --- |
+    | Rice | 2,938,328 | 4,18,43,575 |
+    | Wheat | 3,313,677 | 3,51,77,956 |
+    | Other Food Grains | 4,197,516 | 4,70,63,760 |
+    | Oil Seeds | 697,100 | 1,04,42,854 |
+    | Cotton | 643,390 | 50,28,838 |
+    | Total | 11,790,011 | 13,95,56,983 |
+
+    Average, Rs. 11-13-5 per acre.
 [^sec-04-fn-003]: (1) The “Agricultural Gazette of India” of the *Indian Economist*, 15th August, 1870, No. 1.
 [^sec-04-fn-004]: (2) See also Parliamentary Return No. 999 of 1853, page 471.
 [^sec-04-fn-005]: (1) 24 Madras measures = 1 Huris Cullum. 133⅓ Huris Cullum = 1 Madras Garce. (Selection of the Madras Government, No. XIV. of 1869, page 16.)
@@ -3597,7 +3596,7 @@ Total quantity, 78,966,000 lbs., gives 4·48 lbs. per annum, or 2 oz. per day pe
 ### PUNJAB, 1876-7.
 
 
-**FOOD.—*Man.***
+**<span class="sc">Cost of Absolute Necessaries of Life of an Agricultural Labourer.</span> — FOOD.—*Man.***
 | Items. | Quantity per day. :: Seers. | Quantity for 1 Year. :: Seers. | Price for Re. 1. :: Seers. | Cost for 1 Year. :: Rs. | Cost for 1 Year. :: As. | Remarks. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Flour | 1 | 365 | 25 | 14 | 9 | The price in the Report is 20 seers for first sort; I have taken 25 per cent. lower price for lower quality. |
@@ -3611,19 +3610,19 @@ Total quantity, 78,966,000 lbs., gives 4·48 lbs. per annum, or 2 oz. per day pe
 |  |  |  | Total . | 37 | 2 | Without any meat, sugar, milk, or any drink, or any kind of luxury whatever. |
 
 
-##### *Woman.*
+#### *Woman.*
 
 All the above items will be nearly the same, except tobacco. Deducting tobacco, it will be Rs. 34-2 as. ; say Rs. 32.
 
 
-##### *Two more Members in a Family.*
+#### *Two more Members in a Family.*
 
 One young person, say, between 12 and 18, say Rs. 26, though there will not be so much difference. One ,, ,, under 12, say ,, 0, though this cannot be the case generally.
 
 
 <!-- page: 192 | folio: 172 -->
 
-##### COST OF ABSOLUTE NECESSARIES OF LIFE OF AN AGRICULTURAL LABOURER.—*Continued.*
+#### COST OF ABSOLUTE NECESSARIES OF LIFE OF AN AGRICULTURAL LABOURER.—*Continued.*
 
 
 **CLOTHING FOR ONE YEAR.**
@@ -3815,9 +3814,7 @@ The whole question now before us is simply this:—
 
 First, what the whole actual, material, annual income of India is, as the ultimate balance of all sources and influences; that is available for the use of the *whole people of India*.
 
-Secondly, what the absolutely necessary wants and the usual wants of all classes of the people are; and
-
-Thirdly, whether the income of India is equal to, less, or more than such wants.
+Secondly, what the absolutely necessary wants and the usual wants of all classes of the people are; and Thirdly, whether the income of India is equal to, less, or more than such wants.
 
 
 <!-- page: 208 | folio: 188 -->
@@ -4426,7 +4423,7 @@ To avoid confusion I pass over for the present without notice the last assertion
 
 <!-- page: 271 | folio: 251 -->
 
-#### *November,* 1887.
+### *November,* 1887.
 
 
 ### II.
@@ -5106,7 +5103,7 @@ Under a former Section provision is made for information regarding soils so far 
 ##### <span class="sc">PRODUCE.—I.</span>
 
 
-**Price of Produce per maund of 80 lbs.**
+***Price of Produce and Labour at the end of the year.* — Price of Produce per maund of 80 lbs.**
 | District | Rice | Wheat | Linseed | Jute | Cotton | Sugar | Salt | &c., &c. | Column 10 | Column 11 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | General Average |  |  |  |  |  |  |  |  |  |  |
@@ -5118,7 +5115,7 @@ Under a former Section provision is made for information regarding soils so far 
 
 #### FORM F.
 
-Where Situated — Mineral Produced — Number of Mines — Annual Produce — Remarks
+<span class="sc">MINES AND QUARRIES.</span> — Where Situated — Mineral Produced — Number of Mines — Annual Produce — Remarks
 
 
 <!-- page: 345 | folio: 325 -->
@@ -6299,7 +6296,7 @@ With their despatch of 1st May, 1879, the Government of India sent the rules, an
 I give here the rules proposed :
 
 
-##### “ No. 18.
+#### “ No. 18.
 
 > “ <span class="sc">Rules</span> for the <span class="sc">Appointment</span> of <span class="sc">Natives</span> of <span class="sc">India</span> to offices ordinarily held by members of her Majesty’s Covenanted Civil Service in India.
 
@@ -7715,7 +7712,7 @@ Rt. Hon. G. J. Goschen, First Lord of the Admiralty, Whitehall.
 ### TABLE, &c., SHOWING EXPENDITURE ON WARS BEYOND THE INDIAN FRONTIERS.
 
 
-**<span class="sc">Statement showing Approximate Cost of the Forward Policy on the North-West Frontier up to 1896, including the Afghan War of 1878-79-80.</span>**
+**(*Extracted from Colonel Hanna's "Backwards and Forwards."*) — <span class="sc">Statement showing Approximate Cost of the Forward Policy on the North-West Frontier up to 1896, including the Afghan War of 1878-79-80.</span>**
 | Item | Rupees. | Column 3 |
 | --- | --- | --- |
 | I.—The Afghan War | 223,110,000[^sec-13-fn-008] | Sir Evelyn Baring, Financial Member of the Viceroy's Council. |
@@ -8812,7 +8809,7 @@ The existing system of British Rule is an un-British, debasing, destructive, des
 
 <!-- page: 647 | folio: 627 -->
 
-##### *[Reprinted from <span class="sc">INDIA</span>, November 18th, 1898.]*
+#### *[Reprinted from <span class="sc">INDIA</span>, November 18th, 1898.]*
 
 
 ### MR. DADABHAI NAOROJI AT MANCHESTER.
@@ -8888,7 +8885,7 @@ At the conclusion of Mr. Dadabhai Naoroji’s address a collection was made on b
 ### MR. NAOROJI AT PLUMSTEAD.
 
 
-##### <span class="sc">[From Our Own Reporter.]</span>
+#### <span class="sc">[From Our Own Reporter.]</span>
 
 On Saturday, July 21st, Mr. Dadabhai Naoroji addressed the delegates of the Metropolitan Radical Federation, at a meeting held at the Plumstead Radical Club, under the presidency of Mr. James Jeffrey, L.C.C. There was a fairly large attendance.
 
@@ -9023,18 +9020,16 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Admiralty, the : Correspondence
 - with 505-21
 - Afghan Boundary Commission : 523
-- „ War : 210, 303, 354-6; Cost
-- of 522, 523, 526
+  - „ War : 210, 303, 354-6; Cost of 522, 523, 526
 - Afghanistan, Amir of : Subsidy to
 - 525
 - Agra, Canal : 71. Prices of rice 71,
 - of wheat 70, 78, 80; Irrigated
 - land 12; Wheat 9, 11
 - Agriculture : of British Isles 2 *sqq.*
-- „ Production and distribution tables 323-4
-- Agricultural Department for India
-- suggested : 227
-- „ Stock—*v.* Stock, Agricultural
+  - „ Production and distribution tables 323-4
+- Agricultural Department for India suggested : 227
+  - „ Stock—*v.* Stock, Agricultural
 - Ahmad Khan, Sir Syad : 449
 - Ahmedabad : Cost of living 27;
 - Population 214; Prices 71, of
@@ -9045,8 +9040,8 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Akbar : 399, 421, 588, 589
 - Akleshwar Taluka : 22
 - Ali, Hyder—*v.* Hyder Ali
-- „ , Saadat : 610
-- „ Khan, Mr. Faiz : 284
+  - „ , Saadat : 610
+  - „ Khan, Mr. Faiz : 284
 - Alivardy Khan, Mr. : 598
 - Allahabad : Irrigated land 12; Wheat
 - 9, 11, price of wheat 70, 78
@@ -9054,16 +9049,11 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Alsace-Lorraine : Revenue per head
 - 258
 - Ameerkhan, Mr. : 111
-- America, British North : Exports
-- and imports 32, 35, 136
-- „ Central : Exports and imports per head 257
-- „ South : Earning per head
-- 246
-- American Colonies, North : 333; Exports per head 254; of
-- British produce per
-- head 256; Revenue per
-- head 258
-- „ War : 65, 77, 137, 139, 216
+- America, British North : Exports and imports 32, 35, 136
+  - „ Central : Exports and imports per head 257
+  - „ South : Earning per head 246
+- American Colonies, North : 333; Exports per head 254; of British produce per head 256; Revenue per head 258
+  - „ War : 65, 77, 137, 139, 216
 - Amritsar : Barley 152; Cotton 160;
 - Gram 153; Hemp 161; Inferior
 - grains 154; Mahai 151; Oil seeds
@@ -9109,7 +9099,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 
 <!-- page: 682 | folio: 662 -->
 - Bahadur, Nawab Abdul Latif : 470
-- „ Nawab Wilayat Ali Khan : 470
+  - „ Nawab Wilayat Ali Khan : 470
 - Baitool : Price of wheat 69 ; Wages 85
 - Bájrá : Consumption 155 ; Cost as diet 29 ; in Bombay 17, 18, 20, 22 ; in N.-W. Provinces 8 ; in Punjab 154, 169 ; in Rutnagherry 19 ; Prices at Belgaum 71
 - Bakergunge : Wages 82
@@ -9146,8 +9136,8 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Belgium : Earning per head 246 ; Expenditure per head and income 249 ; Exports per head 255, of British produce per head 257 ;
 - Population per sq. mile 269 ; Revenue per head 258
 - Bell, Mr. : 208
-- „ Mr. J. : 578
-- „ Major : 267
+  - „ Mr. J. : 578
+  - „ Major : 267
 - Bellary : Price of rice 70
 - Beluchistan Agency : Cost of 522
 - Benares : Irrigated land 12 ; Wheat 9, 11, price of wheat 70
@@ -9323,8 +9313,8 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Dyeing: Statistics in Punjab, 167
 - East India Association: 344, 391, 420, 425, 431; Correspondence with Sir M. E. Grant Duff 94-103
 - East India (Laws and Regulations) Act: 95
-- „ Company: 39-40, 89, 90, 292, 399, 400, 463, 599, 600, 601, 611, 612, 614; its Treatment of natives, 276
-- „ Railway: 71
+  - „ Company: 39-40, 89, 90, 292, 399, 400, 463, 599, 600, 601, 611, 612, 614; its Treatment of natives, 276
+  - „ Railway: 71
 - Eastwick, Mr. E. B.: 146
 - Education Department: 211
 - Eduljee, Mr. Cowasjee: 13-14
@@ -9337,7 +9327,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Ellora, Pagoda of: 592
 - Elphinstone, Mr. Mountstuart: 284, 407, 584
 - Engineering College, London: 209
-- „ Service: 105-16
+  - „ Service: 105-16
 - England: Benefits derived from India 35; Earning per head 246; Effect of Drain of money from 51-4; Population 339, per sq. mile 269; Revenue 339; Taxation 60-1
 - Europe: Earning per head 246
 - Europeans in India: 203 *sqq.*, 225, 226-7, 280, 282-3, 288, 289-90, 296-7, 300, 348-50
@@ -9346,16 +9336,16 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Exchanges, Indian: 548-60
 - Expenditure, British, on Administration of India: 307-20, 322-42
 - Exports and Imports: of British Empire 136, 254-256, 333-4; of Various countries 255
-- „ How prices should be taken 138
-- „ of British India: 32 *sqq.*, 137, 252 *sqq.*, 255, 256, 264, 281, 331-9, 381, 568-70; of British produce 256, 257, 628; of Bullion 89-90; to United Kingdom 35, 36
-- „ of British produce: British Empire 256, Various countries 257, 628
-- „ of United States: 136; of Gold 129
+  - „ How prices should be taken 138
+  - „ of British India: 32 *sqq.*, 137, 252 *sqq.*, 255, 256, 264, 281, 331-9, 381, 568-70; of British produce 256, 257, 628; of Bullion 89-90; to United Kingdom 35, 36
+  - „ of British produce: British Empire 256, Various countries 257, 628
+  - „ of United States: 136; of Gold 129
 
 <!-- page: 686 | folio: 666 -->
 - Fair Dhollera : 19
 - Famine Commission : 220-30
-- „ : of 1878, 387 ; of 1897, 387 ; of 1900, 643-7, 648, 654-60
-- „ : Effect on prices 81-2
+  - „ : of 1878, 387 ; of 1897, 387 ; of 1900, 643-7, 648, 654-60
+  - „ : Effect on prices 81-2
 - Farrer, Mr. (Sir) Thomas : 539
 - Fawcett, Mr. : 208, 267, 279, 316, 359 ; on Admission of natives to covenanted C.S. 424-5 ; on the Afghan War 354-6
 - Ferishta : 586
@@ -9365,12 +9355,12 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Firozepore : Barley 152 ; Cotton 160 ; Gram 153 ; Hemp 161 ; Indigo 162 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150
 - Fish : Prices 324
 - Fitzgerald, Lieut.-Gen. Sir J. F. : 578
-- „ Sir Seymour : 107
-- „ Mr. W. R. S. : 578
+  - „ Sir Seymour : 107
+  - „ Mr. W. R. S. : 578
 - Flour : Daily requirement of a labourer 171 ; as Diet for coolies 25, for emigrants 26
 - Food Crops : in Bengal 327 ; in Central Provinces 5 (and *n.*) ; in Punjab 5, 169
 - Forest Revenue of India : 2
-- „ Service of India : 123-5
+  - „ Service of India : 123-5
 - Forrest, Mr. G. W. : 483
 - Forster, Mr. M. : 578
 - Fowler, Sir Henry : 328, 341, 460, 538 ; on British government of India 319 ; on English treatment of the Irish 358 ; on the Revenue of India 312, 313
@@ -9399,7 +9389,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Ghose, Hon. C. M. : 470
 - Giberne, Mr. : 46
 - Gibson, Mr. E. : 483
-- „ Rt. Hon. T. M. : 578
+  - „ Rt. Hon. T. M. : 578
 - Giffen, Mr. : 539
 - Gilgit : Cost of British Agency 524
 - Gladstone, Rt. Hon. W. E. : 312, 363, 453 ; on the Afghan War 356 ; on British duties to India 462 ; on the Penjdeh incident 357
@@ -9411,20 +9401,20 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Governor-General of India Bill : 95
 - Golbeurnd, Mr. : 408-9
 - Gold Coast : Exports per head 256
-- „ Exports of United States : 128-31
-- „ Lace : in Punjab 167
-- „ Ornaments : Cost of native 127
-- „ Production of India : 262-3 —*v.* also Bullion, Currency
+  - „ Exports of United States : 128-31
+  - „ Lace : in Punjab 167
+  - „ Ornaments : Cost of native 127
+  - „ Production of India : 262-3 —*v.* also Bullion, Currency
 - Gomal Chiefs : Subsidy to 525
 - Gondal : 621 ; Financial condition 259 ; Loan by 390 ; Public works 259 ; Revenue per head 259
 - Goodridge, Mr. J. P. : 483
 - Goschen, Rt. Hon. G. J. : on Naval cadetships 511-2, 514, 518-9
 - Grains : in Punjab 149-66 *passim*, 169, 190
-- „ Inferior : 323-24
+  - „ Inferior : 323-24
 - Gram : Consumption 155
 - Grand Trunk-road : Wages on 82
 - Grant, Mr. Charles : 406-7
-- „ Sir R. : 43
+  - „ Sir R. : 43
 - Granville, Earl : 414
 - Grass Production : in Punjab 190
 
@@ -9473,7 +9463,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Hanna, Colonel: 526
 - Hansi: 586
 - Harcourt, Mr. W.: 578
-- „ Sir William: 347
+  - „ Sir William: 347
 - Harrison, Mr.: 86-9, 264; on the
 - Coinage 571
 - Hartington, Lord: 280, 307, 318,
@@ -9481,7 +9471,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - 365; on Government of India
 - 575
 - Hastings, Lord: 610, 613
-- „ Warren: 601, 602, 639
+  - „ Warren: 601, 602, 639
 - Hazara: Barley 152; Cotton 160;
 - Gram 153; Inferior grains 154;
 - Makai 151; Oil seeds 159; Rice
@@ -9528,9 +9518,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Hume, Mr. A. O.: 469, 483
 - Hunt, Mr. T.: 578
 - Hunter, Dr.: 267
-- „ Sir William: 259, 307-308,
-- 460-1, 621; on Employment of natives 365; on
-- the Poverty of India 244
+  - „ Sir William: 259, 307-308, 460-1, 621; on Employment of natives 365; on the Poverty of India 244
 - Husore, Prant of: Produce 18
 - Hutchins, Mr. E. J.: 578
 - Hydaspes: 584
@@ -9550,15 +9538,14 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Indapore : Prices 75
 - Incidence of Taxation—*v.* Taxation
 - Income :—*v.* names of countries
-- „ Tax : 288
+  - „ Tax : 288
 - Incomes, Professional : 185
 - Indapore : Prices of grain 46
-- India : State under native rulers
-- 581-614
-- „ Bill of 1833 : 409
-- „ British—*v.* British India
+- India : State under native rulers 581-614
+  - „ Bill of 1833 : 409
+  - „ British—*v.* British India
 - Indian Civil Service—*v.* Civil Service
-- „ Corn—*v.* Makai
+  - „ Corn—*v.* Makai
 - Indigo : 323-4 ; in Bengal 327 ; in
 - Punjab 189, 190; Exports 253;
 - Price 65-6
@@ -9684,7 +9671,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Laing, Mr. : 36-7, 369
 - Lancashire's Interest in India: 627-35
 - Land-Revenue of British India: 298
-- „ -Tax of British India : 2
+  - „ -Tax of British India : 2
 - Lang, Principal : 113
 - Lansdowne, Lord : 277-8, 312, 318 ;
 - on Admission of natives to covenanted C.S. 398-401 ; on England's
@@ -9697,12 +9684,12 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - 48-9, 79 ; on the Poverty of India
 - 50-1, 140, 186-7, 244, 314, 317, 328
 - Lawson, Mr. : 51, 140
-- „ Mr. G. : 496
+  - „ Mr. G. : 496
 - Leather : in Punjab 167
 - Lee-Brown, Miss Annie : 642
 - Lewin, Mr. M. : 578
 - Lewis, Mr. F. C. : 483
-- „ Mr. G. : 483
+  - „ Mr. G. : 483
 - Linseed : 324 ; Price and Value 68,
 - 159, 160
 - Lodging, Cost of : 28
@@ -9738,10 +9725,10 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - 508, 511
 - Mackay, Hon. Mr. : 559
 - Mackenzie, Rev. D. : 483, 485
-- „ Rev. H. G. G. : 654
+  - „ Rev. H. G. G. : 654
 - Maclean, Mr. : 37, 124, 126-33
 - Macnaghten, Mr. : 317 (*n.*), 418
-- „ Sir E. : 466 (*n.*)
+  - „ Sir E. : 466 (*n.*)
 - MacConochi, Mr. : 10
 - Maddox, Mr. G. : 483
 - Madras : Condition of, in 1854, 47 ;
@@ -9757,7 +9744,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Madura : Price of rice 70
 - Mahé : 591
 - Mahommed of Giuzni : 585
-- „ Toglak : 586, 587
+  - „ Toglak : 586, 587
 - Makai : in Punjab 151-66 *passim*
 - Malabar : 16, 17 ; Early trade 39
 - Malcolm, Sir J. : 57-8, 578, 604
@@ -9772,7 +9759,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Marriages, Money spent by natives
 - on : 268
 - Marriot, Colonel : 43
-- „ Mr. Saville : 43-5
+  - „ Mr. Saville : 43-5
 
 <!-- page: 690 | folio: 670 -->
 - Martin, Mr. Montgomery : on the Drain from India to England 40, 266, 616; on the Poverty of India 278
@@ -9965,7 +9952,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Prescott, Col. : 22
 - Price Commission Report (1864) : 77, 83
 - Prices, Average : 79, 80
-- „ Rise of : 62-3, 574-6 ; Causes 63-4, 69-72 ; due to Famine 81-2, to scarcity 80-1 ; Decrease under British rule 72-80 ; in Coffee 65-6, Cotton 64-5, Indigo 65-6, Linseed 68, Rapeseed 68, Rice 66-7, Silk 67, Sugar 67, Tea 68, Wool 68
+  - „ Rise of : 62-3, 574-6 ; Causes 63-4, 69-72 ; due to Famine 81-2, to scarcity 80-1 ; Decrease under British rule 72-80 ; in Coffee 65-6, Cotton 64-5, Indigo 65-6, Linseed 68, Rapeseed 68, Rice 66-7, Silk 67, Sugar 67, Tea 68, Wool 68
 - Proclamation of 1858 : 417, 451, 459, 640
 - Professional Incomes : 185
 - Prussia : Revenue her head 258
@@ -9980,8 +9967,8 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Quarries : Statistics 324
 - Quetta : Buildings 522 ; Waterworks, 522
 - Railway Loan, the : 34
-- „ Wealth of India : 180
-- „ Works : 71
+  - „ Wealth of India : 180
+  - „ Works : 71
 - Railways : Construction of 110, 228 ; Military on N.-W. Frontier, 522 ; in Punjab 193-6 ; of United States 134
 - Raipore : Price of rice 69, 70 ; Wages 84-5
 - Rajmahal : Prices 71
@@ -9990,13 +9977,13 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Rampursad, Mr. : 111
 - Ranjitsinhji, Prince : 395-7
 - Rao, Bajee : 603
-- „ Ballajee : 592
-- „ Barvi, Madhao : 284
-- „ Dunkar : 284
-- „ Madhao : 284
-- „ Mahdoo : 593
-- „ Peishwah Nasrain : 593-4
-- „ Ragonauth : 593
+  - „ Ballajee : 592
+  - „ Barvi, Madhao : 284
+  - „ Dunkar : 284
+  - „ Madhao : 284
+  - „ Mahdoo : 593
+  - „ Peishwah Nasrain : 593-4
+  - „ Ragonauth : 593
 - Rapeseed : Price 68
 - Ráwalpindi : Barley 152 Cotton 160 ; Gram 153 ; Hemp 161 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150
 - Rawlinson, Sir Henry : 368, 617
@@ -10006,8 +9993,8 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Rezia, Sultana : 586
 - Rhadhilal, Mr. : 111
 - Rice : Cost at Ahmedabad 27 ; Daily cost to a labourer 27, 29 ; Daily requirement of a labourer 171 ; as Diet for coolies 25, for emigrants 26 ;
-- „ Price of : 66-7, 74 ; in Belgaum 71 ; in Bengal 72, 73-4 ; in Bombay 74-7 ; in Central Provinces 78, 80 ; in Madras 72-3, 80-1
-- „ Statistics 323-4 ; in Bengal 13-4, 327 ; in Bombay 17, 18, 21-2 ; in Central Provinces, 3, 4, 5 (and *n.*) ; in N.-W. Provinces 8 ; in Punjab 149-66 *passim*, 169 ; in Rutnagherry 19
+  - „ Price of : 66-7, 74 ; in Belgaum 71 ; in Bengal 72, 73-4 ; in Bombay 74-7 ; in Central Provinces 78, 80 ; in Madras 72-3, 80-1
+  - „ Statistics 323-4 ; in Bengal 13-4, 327 ; in Bombay 17, 18, 21-2 ; in Central Provinces, 3, 4, 5 (and *n.*) ; in N.-W. Provinces 8 ; in Punjab 149-66 *passim*, 169 ; in Rutnagherry 19
 - Rich, Mr. : 410-1, 412
 - Ripon, Lord : 226, 272, 372, 658
 - Roberts, Lord : on Peace 296 ; on Value of India to England 300, 341, 347
@@ -10078,18 +10065,18 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Simla : Barley 152 ; Cotton 160 ; Gram 153 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150
 - Sindia : Loan to British Government 260
 - Sing, Mr. Bugwaut : 609
-- „ Mr. Pertaub : 611
+  - „ Mr. Pertaub : 611
 - Singh, Mr. G. K. : 654, 658
 - Sinhji, Mr. Jasvant : 390
-- „ Sir Bhagvat 390
+  - „ Sir Bhagvat 390
 - Sircar, Isser Chandar, Mr. : 111
-- „ Dr. Mohendro Lal 470
+  - „ Dr. Mohendro Lal 470
 - Sirsa : Barley 152 ; Cotton 160 ; Gram 153 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150
 - Slagg, Mr. : 267
 - Smith, Col. Baird : 49-50, 74, 78
-- „ Mr. G. : 323
-- „ Mr. J. B. : 19, 578
-- „ Mr. Samuel : 233, 245, 249, 261, 267, 293 *(n)*, 298
+  - „ Mr. G. : 323
+  - „ Mr. J. B. : 19, 578
+  - „ Mr. Samuel : 233, 245, 249, 261, 267, 293 *(n)*, 298
 - Soldiers, Native : 79
 - Somnath, Temple of : 585
 - Soondarlal, Mr. : 111
@@ -10101,7 +10088,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Statistics : Fallacy of some present 3-4 ; How they should be compiled 4
 - Statutory Service : 443, 448
 - Stephen, King, of England : 583
-- „ Mr. Carr : 483
+  - „ Mr. Carr : 483
 - Stock, Agricultural : in Punjab 168, 190-1
 - Stokes, Mr. H. E. : 483
 - Strabo : 584
@@ -10140,7 +10127,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Tonk : Revenue per head 260
 - Toor : 27 *(n.)*
 - Trade of British India : 251 *sqq.* ; Profits of 182
-- „ Foreign : of Punjab 196 ; of the United Kingdom 197-8 — *v.* also Names of Countries
+  - „ Foreign : of Punjab 196 ; of the United Kingdom 197-8 — *v.* also Names of Countries
 - Transvaal : 362
 - Trant, Mr. : 136
 
@@ -10157,7 +10144,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - head 258; Taxation 59
 - Turmeric: in Punjab 158
 - Turner, Sir Charles: 448, 485
-- „ Mr. C. S.: 483 24-Pergunnahs: Wages 82, 83
+  - „ Mr. C. S.: 483 24-Pergunnahs: Wages 82, 83
 - Umballa: Produce 7-8; Barley
 - 152; Cotton 160; Gram 153;
 - Hemp 161; Indigo 162; Inferior
@@ -10194,11 +10181,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - mile 270
 - Vicbrermadiytia: 585
 - Victoria: Population 314
-- „ Queen: on the Duty of
-- England to India 94,
-- 123, 272, 284, 293—*v*.
-- also Proclamation of,
-- 1858
+  - „ Queen: on the Duty of England to India 94, 123, 272, 284, 293—*v*. also Proclamation of, 1858
 - Vizagapatam: Price of rice 70
 - Wadhwam: Revenue per head 259
 - Wages: 82-5, 324, 574-6; non-agricultural 184
@@ -10213,17 +10196,13 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Wedderburn, Sir William: 267, 272,
 - 483; Letters to, on Indian currency 530-48, 563-76
 - Welby, Mr. (Sir) Reginald: 539
-- „ Lord: Letters to 307, 321,
-- 322-42, 343-64, 365-79,
-- 380-95, 398-465
+  - „ Lord: Letters to 307, 321, 322-42, 343-64, 365-79, 380-95, 398-465
 - Wellesley, Lord: 602, 603
 - Wellington, Duke of: 407-8, 486,
 - 604
 - West, Justice: 483
-- West African Settlements: Exports
-- per head 256
-- „ Indies: Exports 254, of British
-- produce per head 256; Revenue per head 258
+- West African Settlements: Exports per head 256
+  - „ Indies: Exports 254, of British produce per head 256; Revenue per head 258
 - Westland, Sir James: 382, 527, 528
 - Wheat: Statistics 323-4; in Bengal
 - 327; in Central Provinces 5 (and
@@ -10233,7 +10212,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Willoughby, Sir John P.: 317 (*n*.),
 - 418, 466 (*n*.)
 - Wilson, Mr.: 208, 267
-- „ Mr. G. Fleetwood: 504
+  - „ Mr. G. Fleetwood: 504
 - Wingate, Sir George: on the Drain
 - from India to England 617; on
 - Expenditure of Indian revenue

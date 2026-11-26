@@ -20,6 +20,6 @@ prev: "/books/east-india-trade-17th-century-khan/chapters/02-preface/"
 next: "/books/east-india-trade-17th-century-khan/chapters/04-i-the-east-india-trade-up-to-1660/"
 ---
 
-<div class="page-rail-marker" id="page-12"><button type="button" class="folio-trigger" data-page="12" data-folio="viii" data-scan="https://archive.org/download/eastindiatradein00khanuoft/page/n11_w1400.jpg" aria-label="Inspect scan for page viii">[p. viii]</button></div><h2 class="sec-h1">CONTENTS</h2><p class="printed-toc-line">I. THE EAST INDIA TRADE UP TO 1660 . 1</p><p class="printed-toc-line">II. THE EAST INDIA COMPANY UNDER
+<div class="page-rail-marker" id="page-12"><button type="button" class="folio-trigger" data-page="12" data-folio="viii" data-scan="https://archive.org/download/eastindiatradein00khanuoft/page/n11_w1400.jpg" aria-label="Inspect scan for page viii">[p. viii]</button></div><p class="printed-toc-line">I. THE EAST INDIA TRADE UP TO 1660 . 1</p><p class="printed-toc-line">II. THE EAST INDIA COMPANY UNDER
 CHARLES II . . . . . 93</p><p class="printed-toc-line">III. THE ADMINISTRATION OF SIR JOSIAH
 CHILDE . . . . . 193</p><p class="printed-toc-line">IV. THE EAST INDIA TRADE, 1680–1702 . . 246</p><p class="printed-toc-line">CONCLUSION . . . . . 308</p><p class="printed-toc-line">INDEX . . . . . . . 313</p>

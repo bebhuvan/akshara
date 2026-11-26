@@ -4,8 +4,9 @@
   "title": "The Early History of India — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -839,15 +840,15 @@
     },
     {
       "name": "tbl-011-diplomatic",
-      "title": "Table 11 (Diplomatic Matrix)",
-      "path": "tables/tbl-011_p0390.csv",
+      "title": "CHRONOLOGY OF THE SEVENTH CENTURY (Diplomatic Matrix)",
+      "path": "tables/tbl-011_p0419.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-011-tidy",
-      "title": "Table 11 (Tidy Observations)",
-      "path": "tidy/tbl-011_p0390.tidy.csv",
+      "title": "CHRONOLOGY OF THE SEVENTH CENTURY (Tidy Observations)",
+      "path": "tidy/tbl-011_p0419.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -921,15 +922,15 @@
     },
     {
       "name": "tbl-012-diplomatic",
-      "title": "CHRONOLOGY OF THE SEVENTH CENTURY (Diplomatic Matrix)",
-      "path": "tables/tbl-012_p0419.csv",
+      "title": "I. The Chalukya Kings of Vātāpi (Bādāmi), a. d. 550–753. (Diplomatic Matrix)",
+      "path": "tables/tbl-012_p0503.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-012-tidy",
-      "title": "CHRONOLOGY OF THE SEVENTH CENTURY (Tidy Observations)",
-      "path": "tidy/tbl-012_p0419.tidy.csv",
+      "title": "I. The Chalukya Kings of Vātāpi (Bādāmi), a. d. 550–753. (Tidy Observations)",
+      "path": "tidy/tbl-012_p0503.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1003,15 +1004,15 @@
     },
     {
       "name": "tbl-013-diplomatic",
-      "title": "I. The Chalukya Kings of Vātāpi (Bādāmi), a. d. 550–753. (Diplomatic Matrix)",
-      "path": "tables/tbl-013_p0503.csv",
+      "title": "A. D. 753–973. (Diplomatic Matrix)",
+      "path": "tables/tbl-013_p0504.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-013-tidy",
-      "title": "I. The Chalukya Kings of Vātāpi (Bādāmi), a. d. 550–753. (Tidy Observations)",
-      "path": "tidy/tbl-013_p0503.tidy.csv",
+      "title": "A. D. 753–973. (Tidy Observations)",
+      "path": "tidy/tbl-013_p0504.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1085,15 +1086,15 @@
     },
     {
       "name": "tbl-014-diplomatic",
-      "title": "A. D. 753–973. (Diplomatic Matrix)",
-      "path": "tables/tbl-014_p0504.csv",
+      "title": "III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901 (Diplomatic Matrix)",
+      "path": "tables/tbl-014_p0505.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-014-tidy",
-      "title": "A. D. 753–973. (Tidy Observations)",
-      "path": "tidy/tbl-014_p0504.tidy.csv",
+      "title": "III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901 (Tidy Observations)",
+      "path": "tidy/tbl-014_p0505.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1167,14 +1168,14 @@
     },
     {
       "name": "tbl-015-diplomatic",
-      "title": "III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901 (Diplomatic Matrix)",
+      "title": "Table 15 (Diplomatic Matrix)",
       "path": "tables/tbl-015_p0505.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-015-tidy",
-      "title": "III. The Chalukya Kings of Kalyāṇi (Kalyāṇa), a.d. 973–11901 (Tidy Observations)",
+      "title": "Table 15 (Tidy Observations)",
       "path": "tidy/tbl-015_p0505.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",

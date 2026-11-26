@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "10, 8, 9",
-    "value_numeric": 1089.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -30,7 +30,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "14, 10",
-    "value_numeric": 1410.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -84,7 +84,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "12, 8, 10",
-    "value_numeric": 12810.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -102,7 +102,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "4, 6",
-    "value_numeric": 46.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -120,7 +120,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "4, 5, 9, 8",
-    "value_numeric": 4598.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -156,7 +156,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "14·7, 17, 18, 14",
-    "value_numeric": 14.717181,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -174,7 +174,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "17, 9, 12",
-    "value_numeric": 17912.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -192,7 +192,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "20, 7",
-    "value_numeric": 207.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -210,7 +210,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "13, 17, 15, 14",
-    "value_numeric": 13171514.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -228,7 +228,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "14, 15, 13",
-    "value_numeric": 141513.0,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -282,7 +282,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "13·4, 7",
-    "value_numeric": 13.47,
+    "value_numeric": null,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false

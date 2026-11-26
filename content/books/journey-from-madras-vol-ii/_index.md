@@ -1,6 +1,6 @@
 ---
 title: "A Journey from Madras through the Countries of Mysore, Canara, and Malabar"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: "Volume II — Southern Mysore, Coimbatore, Malabar, Agriculture, Commerce, and Tenures"
 author: "Francis Buchanan"
 author_slug: "francis-buchanan"
@@ -351,8 +351,9 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (137 flyleaf/stamp block(s)) are excluded from reading prose; **410** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **4** multi-page tables were stitched; and **2316** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (137 flyleaf/stamp block(s)) are excluded from reading prose; **412** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **4** multi-page tables were stitched; and **2316** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (47 distinct non-ASCII characters across 418 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**265** places); **342** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

@@ -1,0 +1,171 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,1,data,,1,2,Acres.,"13,900",13900.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,1,data,,1,3,Per Acre. :: lbs.,"1,500",1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,1,data,,1,4,Total quantity. :: lbs.,"20,850,000",20850000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,1,data,,1,5,Price per Re. 1. :: lbs.,72,72.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,1,data,,1,6,Total Value. :: Rs.,"2,89,583",289583.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,2,data,,2,2,Acres.,"1,344",1344.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,2,data,,2,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,2,data,,2,4,Total quantity. :: lbs.,"2,016,000",2016000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,2,data,,2,5,Price per Re. 1. :: lbs.,75·42,75.42,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,2,data,,2,6,Total Value. :: Rs.,"26,730",26730.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,3,data,,3,2,Acres.,"6,215",6215.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,3,data,,3,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,3,data,,3,4,Total quantity. :: lbs.,"9,322,500",9322500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,3,data,,3,5,Price per Re. 1. :: lbs.,67·19,67.19,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,3,data,,3,6,Total Value. :: Rs.,"1,38,748",138748.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,4,data,,4,2,Acres.,89,89.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,4,data,,4,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,4,data,,4,4,Total quantity. :: lbs.,"133,500",133500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,4,data,,4,5,Price per Re. 1. :: lbs.,51·42,51.42,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,4,data,,4,6,Total Value. :: Rs.,"2,596",2596.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,5,data,,5,2,Acres.,73,73.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,5,data,,5,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,5,data,,5,4,Total quantity. :: lbs.,"109,500",109500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,5,data,,5,5,Price per Re. 1. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,5,data,,5,6,Total Value. :: Rs.,,,Rs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,6,data,,6,2,Acres.,466,466.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,6,data,,6,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,6,data,,6,4,Total quantity. :: lbs.,"699,000",699000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,6,data,,6,5,Price per Re. 1. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,6,data,,6,6,Total Value. :: Rs.,,,Rs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,7,data,,7,2,Acres.,"100,736",100736.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,7,data,,7,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,7,data,,7,4,Total quantity. :: lbs.,"151,104,000",151104000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,7,data,,7,5,Price per Re. 1. :: lbs.,62·4,62.4,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,7,data,,7,6,Total Value. :: Rs.,"24,21,538",2421538.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,8,data,,8,2,Acres.,"62,802",62802.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,8,data,,8,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,8,data,,8,4,Total quantity. :: lbs.,"94,203,000",94203000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,8,data,,8,5,Price per Re. 1. :: lbs.,66·51,66.51,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,8,data,,8,6,Total Value. :: Rs.,"14,16,373",1416373.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,9,data,,9,2,Acres.,"1,282",1282.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,9,data,,9,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,9,data,,9,4,Total quantity. :: lbs.,"1,923,000",1923000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,9,data,,9,5,Price per Re. 1. :: lbs.,45·94,45.94,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,9,data,,9,6,Total Value. :: Rs.,"41,859",41859.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,10,data,,10,2,Acres.,"86,392",86392.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,10,data,,10,3,Per Acre. :: lbs.,"1,544",1544.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,10,data,,10,4,Total quantity. :: lbs.,"133,389,248",133389248.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,10,data,,10,5,Price per Re. 1. :: lbs.,63·08,63.08,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,10,data,,10,6,Total Value. :: Rs.,"21,14,604",2114604.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,11,data,,11,2,Acres.,"105,651",105651.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,11,data,,11,3,Per Acre. :: lbs.,"1,500",1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,11,data,,11,4,Total quantity. :: lbs.,"158,476,500",158476500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,11,data,,11,5,Price per Re. 1. :: lbs.,55·54,55.54,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,11,data,,11,6,Total Value. :: Rs.,"28,53,375",2853375.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,12,data,,12,2,Acres.,"65,093",65093.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,12,data,,12,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,12,data,,12,4,Total quantity. :: lbs.,"97,639,500",97639500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,12,data,,12,5,Price per Re. 1. :: lbs.,39·77,39.77,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,12,data,,12,6,Total Value. :: Rs.,"24,55,104",2455104.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,13,data,,13,2,Acres.,"44,426",44426.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,13,data,,13,3,Per Acre. :: lbs.,"1,412",1412.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,13,data,,13,4,Total quantity. :: lbs.,"62,729,512",62729512.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,13,data,,13,5,Price per Re. 1. :: lbs.,65·14,65.14,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,13,data,,13,6,Total Value. :: Rs.,"9,62,995",962995.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,14,data,,14,2,Acres.,"49,977",49977.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,14,data,,14,3,Per Acre. :: lbs.,"1,500",1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,14,data,,14,4,Total quantity. :: lbs.,"74,965,500",74965500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,14,data,,14,5,Price per Re. 1. :: lbs.,53·48,53.48,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,14,data,,14,6,Total Value. :: Rs.,"14,01,748",1401748.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,15,data,,15,2,Acres.,"33,000",33000.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,15,data,,15,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,15,data,,15,4,Total quantity. :: lbs.,"49,500,000",49500000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,15,data,,15,5,Price per Re. 1. :: lbs.,58·28,58.28,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,15,data,,15,6,Total Value. :: Rs.,"8,49,450",849450.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,16,data,,16,2,Acres.,"34,150",34150.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,16,data,,16,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,16,data,,16,4,Total quantity. :: lbs.,"51,225,000",51225000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,16,data,,16,5,Price per Re. 1. :: lbs.,65·82,65.82,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,16,data,,16,6,Total Value. :: Rs.,"7,78,258",778258.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,17,data,,17,2,Acres.,"16,535",16535.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,17,data,,17,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,17,data,,17,4,Total quantity. :: lbs.,"24,802,500",24802500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,17,data,,17,5,Price per Re. 1. :: lbs.,61·02,61.02,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,17,data,,17,6,Total Value. :: Rs.,"4,06,465",406465.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,18,data,,18,2,Acres.,"42,428",42428.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,18,data,,18,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,18,data,,18,4,Total quantity. :: lbs.,"63,642,000",63642000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,18,data,,18,5,Price per Re. 1. :: lbs.,81·59,81.59,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,18,data,,18,6,Total Value. :: Rs.,"7,80,022",780022.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,19,data,,19,2,Acres.,"66,392",66392.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,19,data,,19,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,19,data,,19,4,Total quantity. :: lbs.,"99,588,000",99588000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,19,data,,19,5,Price per Re. 1. :: lbs.,94·62,94.62,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,19,data,,19,6,Total Value. :: Rs.,"10,52,504",1052504.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,20,data,,20,2,Acres.,"2,423",2423.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,20,data,,20,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,20,data,,20,4,Total quantity. :: lbs.,"3,634,500",3634500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,20,data,,20,5,Price per Re. 1. :: lbs.,64·45,64.45,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,20,data,,20,6,Total Value. :: Rs.,"56,392",56392.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,21,data,,21,2,Acres.,"16,507",16507.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,21,data,,21,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,21,data,,21,4,Total quantity. :: lbs.,"24,760,500",24760500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,21,data,,21,5,Price per Re. 1. :: lbs.,68·57,68.57,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,21,data,,21,6,Total Value. :: Rs.,"3,61,098",361098.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,22,data,,22,2,Acres.,884,884.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,22,data,,22,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,22,data,,22,4,Total quantity. :: lbs.,"1,326,000",1326000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,22,data,,22,5,Price per Re. 1. :: lbs.,63·08,63.08,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,22,data,,22,6,Total Value. :: Rs.,"21,020",21020.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,23,data,,23,2,Acres.,142,142.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,23,data,,23,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,23,data,,23,4,Total quantity. :: lbs.,"213,000",213000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,23,data,,23,5,Price per Re. 1. :: lbs.,50·05,50.05,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,23,data,,23,6,Total Value. :: Rs.,"4,255",4255.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,24,data,,24,2,Acres.,"2,317",2317.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,24,data,,24,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,24,data,,24,4,Total quantity. :: lbs.,"3,475,500",3475500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,24,data,,24,5,Price per Re. 1. :: lbs.,65·82,65.82,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,24,data,,24,6,Total Value. :: Rs.,"52,803",52803.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,25,data,,25,2,Acres.,"2,512",2512.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,25,data,,25,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,25,data,,25,4,Total quantity. :: lbs.,"3,768,000",3768000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,25,data,,25,5,Price per Re. 1. :: lbs.,49·37,49.37,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,25,data,,25,6,Total Value. :: Rs.,"76,321",76321.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,27,data,26,27,2,Acres.,17,17.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,27,data,26,27,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,27,data,26,27,4,Total quantity. :: lbs.,"25,500",25500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,27,data,26,27,5,Price per Re. 1. :: lbs.,90·85,90.85,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,27,data,26,27,6,Total Value. :: Rs.,280,280.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,28,data,26,28,2,Acres.,30,30.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,28,data,26,28,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,28,data,26,28,4,Total quantity. :: lbs.,"45,000",45000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,28,data,26,28,5,Price per Re. 1. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,28,data,26,28,6,Total Value. :: Rs.,,,Rs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,29,data,26,29,2,Acres.,"37,069",37069.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,29,data,26,29,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,29,data,26,29,4,Total quantity. :: lbs.,"55,603,500",55603500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,29,data,26,29,5,Price per Re. 1. :: lbs.,124·27,124.27,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,29,data,26,29,6,Total Value. :: Rs.,"4,47,441",447441.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,30,data,26,30,2,Acres.,"80,542",80542.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,30,data,26,30,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,30,data,26,30,4,Total quantity. :: lbs.,"120,813,000",120813000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,30,data,26,30,5,Price per Re. 1. :: lbs.,84·42,84.42,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,30,data,26,30,6,Total Value. :: Rs.,"14,31,094",1431094.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,31,data,26,31,2,Acres.,"198,025",198025.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,31,data,26,31,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,31,data,26,31,4,Total quantity. :: lbs.,"297,037,500",297037500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,31,data,26,31,5,Price per Re. 1. :: lbs.,95·09,95.09,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,31,data,26,31,6,Total Value. :: Rs.,"31,23,751",3123751.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,32,data,26,32,2,Acres.,"12,920",12920.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,32,data,26,32,3,Per Acre. :: lbs.,„,1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,32,data,26,32,4,Total quantity. :: lbs.,"19,380,000",19380000.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,32,data,26,32,5,Price per Re. 1. :: lbs.,97·92,97.92,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,32,data,26,32,6,Total Value. :: Rs.,"1,97,916",197916.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,33,data,26,Row 33,2,Acres.,"130,818",130818.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,33,data,26,Row 33,3,Per Acre. :: lbs.,"Average. 1,499·17",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,33,data,26,Row 33,4,Total quantity. :: lbs.,"196,118,760",196118760.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,33,data,26,Row 33,5,Price per Re. 1. :: lbs.,Average. 68·4,,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,33,data,26,Row 33,6,Total Value. :: Rs.,"2,37,64,323",23764323.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,34,data,26,Row 34,2,Acres.,"953,521",953521.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,34,data,26,Row 34,3,Per Acre. :: lbs.,"1,500",1500.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,34,data,26,Row 34,4,Total quantity. :: lbs.,"1,430,281,500",1430281500.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,34,data,26,Row 34,5,Price per Re. 1. :: lbs.,"add for 853,500 lbs.",,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,34,data,26,Row 34,6,Total Value. :: Rs.,"12,478",12478.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,35,total,,Total,2,Acres.,"1,084,339",1084339.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,35,total,,Total,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,35,total,,Total,4,Total quantity. :: lbs.,"1,626,400,260",1626400260.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,35,total,,Total,5,Price per Re. 1. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-106,Makai (Indian Corn).,437,418,35,total,,Total,6,Total Value. :: Rs.,"2,37,76,801",23776801.0,Rs,False,False

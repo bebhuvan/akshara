@@ -23,7 +23,7 @@
 ### <span class="sc">BOMBAY PRESIDENCY</span>.
 
 
-##### <span class="sc">COMPILED BY</span>
+#### <span class="sc">COMPILED BY</span>
 
 
 #### LIEUT.-COLONEL A. T. ETHERIDGE,
@@ -307,13 +307,9 @@ To the SECRETARY <span class="sc">to</span> GOVERNMENT, BOMBAY.
 
 > "1. In Sumvut 1859, <span class="sc">a. d.</span> 1803, I was ten years old, and therefore I remember well that in that year the scarcity was caused by the crops having been injured by locusts.
 
-> _[Margin: * A Pattee is equal to 66 Tolas. A Koree is equal to 4 Annas and 2 Pies.]_
+> "2. Sumvut 1860, <span class="sc">a. d.</span> 1804, was a year of drought, and the necessaries of life were very dear. In the months of Asad and Shrawun, Jemadar Futteh Mahomed opened the Durbar grain stores, and at first sold grain at the rate of 3 Pattees per Koree,[^sec-01-fn-004] and afterwards he engaged 250 camels from the Bunee and sent them to Scinde to bring rice, which was brought to Bhooj about the month of Ashwin (October), and was sold at 4 Pattees per Koree. This act of the Jemadar relieved the inhabitants of Bhooj, as well as those of the surrounding villages, from destitution, and I have heard that from the forces (British) having scoured all over the Deccan the famine of this year was as much felt there as the famine of Sumvut 1869, <span class="sc">a. d.</span> 1813, was felt in Kutch and other places on this side. In that year I was 11 years old.
 
-> "2. Sumvut 1860, <span class="sc">a. d.</span> 1804, was a year of drought, and the necessaries of life were very dear. In the months of Asad and Shrawun, Jemadar Futteh Mahomed opened the Durbar grain stores, and at first sold grain at the rate of 3 Pattees per Koree,<sup>*</sup> and afterwards he engaged 250 camels from the Bunee and sent them to Scinde to bring rice, which was brought to Bhooj about the month of Ashwin (October), and was sold at 4 Pattees per Koree. This act of the Jemadar relieved the inhabitants of Bhooj, as well as those of the surrounding villages, from destitution, and I have heard that from the forces (British) having scoured all over the Deccan the famine of this year was as much felt there as the famine of Sumvut 1869, <span class="sc">a. d.</span> 1813, was felt in Kutch and other places on this side. In that year I was 11 years old.
-
-> _[Margin: * A place where grain is sold.]_
-
-> "3. A great famine occurred in Sumvut 1869, <span class="sc">a. d.</span> 1813, when I was 20 years old, though none of the Kutch people died of hunger that year. In Shrawun the necessaries of life became so dear that one could scarcely get 1¾ Pattees per Koree. The grain market was closed. On the 2nd or 3rd of Shrawun those who used to purchase grain daily were unable to get it. About 300 women who wanted grain assembled at the Ber<sup>*</sup> gate, where they saw Jemadar Futteh Mahomed near the ‘Mandavee.’ They surrounded his carriage and raised a great clamour. Some of them who were aged said to Futteh Mahomed, ‘Child! where are you going? We are dying of hunger, give us food, and then go, or otherwise we wont allow you to go.’ Upon this Futteh Mahomed came out of his carriage, and took his seat on the [p. 23] ‘Mandavee,’ and told the women not to be afraid, and that he would provide them with grain, and then go where he was going. Then he sent for Sha Bhuwanjee Moteechund and others, and told them that they should sell grain at 3 Pattees per Koree, or otherwise the Durbar would open a grain shop. After this he sent some labourers and brought grain, which he distributed among the women, giving 4 Pattees each in charity, and informed them that they would get it from to-morrow at a proper rate. Whereupon he opened a Durbar shop, and sold it at 3 or 4 Pattees per Koree, allowing a man to have only two Korees’ worth at a time. This induced the merchants to sell the grain at the same rate. In Anjar the Karbharee Pragjee Wagjee had taken care to provide the Sebundees with grain, and in Mandavee and other places measures were taken by the Durbar. All those who died of starvation belonged to Kattywar. They crossed the Runn and came to Wagur, but on their way they could not get food, and they devoured the bodies of even their nearest relations, viz., a wife devoured her husband’s corpse, a husband devoured his wife’s corpse. The parents devoured the corpses of their children. A cat or dog was accounted a rare feast during that year. I was then at Anjar, where I saw a woman hang a cat, for which a sweeper woman abused her, and asked her why she killed the cat; thus a quarrel ensued, which was put a stop to by me by giving a seer of flour to the woman, and getting the cat thrown away by the sweeper. The Ameers of Scinde also extended liberal protection to the people of Kattywar and Kutch, who succeeded in reaching that country by engaging them in diverse canal works. This great famine raged only in Kutch, Kattywar, and Marwar. The district of Kuree, as well as the whole of Guzerat, was favored with a good fall of rain, and grain was produced, but as it was exported to other countries great scarcity was felt in Guzerat as far as Surat. At the end of this year several of the inhabitants of Wagur subsisted on the bark of trees called Khijura and Kerda, and some subsisted on a herb called ‘Bokna,’ from which their feet swelled, and ultimately they died. Sumvut 1868, <span class="sc">a. d.</span> 1812, the locusts ate the grass also, and therefore the famine was severely felt in this year.
+> "3. A great famine occurred in Sumvut 1869, <span class="sc">a. d.</span> 1813, when I was 20 years old, though none of the Kutch people died of hunger that year. In Shrawun the necessaries of life became so dear that one could scarcely get 1¾ Pattees per Koree. The grain market was closed. On the 2nd or 3rd of Shrawun those who used to purchase grain daily were unable to get it. About 300 women who wanted grain assembled at the Ber[^sec-01-fn-005] gate, where they saw Jemadar Futteh Mahomed near the ‘Mandavee.’ They surrounded his carriage and raised a great clamour. Some of them who were aged said to Futteh Mahomed, ‘Child! where are you going? We are dying of hunger, give us food, and then go, or otherwise we wont allow you to go.’ Upon this Futteh Mahomed came out of his carriage, and took his seat on the [p. 23] ‘Mandavee,’ and told the women not to be afraid, and that he would provide them with grain, and then go where he was going. Then he sent for Sha Bhuwanjee Moteechund and others, and told them that they should sell grain at 3 Pattees per Koree, or otherwise the Durbar would open a grain shop. After this he sent some labourers and brought grain, which he distributed among the women, giving 4 Pattees each in charity, and informed them that they would get it from to-morrow at a proper rate. Whereupon he opened a Durbar shop, and sold it at 3 or 4 Pattees per Koree, allowing a man to have only two Korees’ worth at a time. This induced the merchants to sell the grain at the same rate. In Anjar the Karbharee Pragjee Wagjee had taken care to provide the Sebundees with grain, and in Mandavee and other places measures were taken by the Durbar. All those who died of starvation belonged to Kattywar. They crossed the Runn and came to Wagur, but on their way they could not get food, and they devoured the bodies of even their nearest relations, viz., a wife devoured her husband’s corpse, a husband devoured his wife’s corpse. The parents devoured the corpses of their children. A cat or dog was accounted a rare feast during that year. I was then at Anjar, where I saw a woman hang a cat, for which a sweeper woman abused her, and asked her why she killed the cat; thus a quarrel ensued, which was put a stop to by me by giving a seer of flour to the woman, and getting the cat thrown away by the sweeper. The Ameers of Scinde also extended liberal protection to the people of Kattywar and Kutch, who succeeded in reaching that country by engaging them in diverse canal works. This great famine raged only in Kutch, Kattywar, and Marwar. The district of Kuree, as well as the whole of Guzerat, was favored with a good fall of rain, and grain was produced, but as it was exported to other countries great scarcity was felt in Guzerat as far as Surat. At the end of this year several of the inhabitants of Wagur subsisted on the bark of trees called Khijura and Kerda, and some subsisted on a herb called ‘Bokna,’ from which their feet swelled, and ultimately they died. Sumvut 1868, <span class="sc">a. d.</span> 1812, the locusts ate the grass also, and therefore the famine was severely felt in this year.
 
 > “4. In Sumvut 1869, <span class="sc">a. d.</span> 1813, almost all the cattle died from want of grass, and therefore ghee was only obtained for some months in 1870, <span class="sc">a. d.</span> 1814, at the rate of half a seer per Koree. Fever of a bad type was also prevalent this year, which carried off the Chiefs of several fortified towns in Wagur, as also Rao Raedhinjee and Jemadar Futteh Mahomed. Many of the merchants who suffered little from the famine of 1869, <span class="sc">a. d.</span> 1813, fell victims to the fever of this year. From this it has become a common saying that
 
@@ -368,7 +364,7 @@ To the SECRETARY <span class="sc">to</span> GOVERNMENT, BOMBAY.
 <!-- page: 36 | folio: 26 -->
 “The foregoing is what I know regarding the measures adopted for the relief of the poor from the distress caused by the famine of 1635, <span class="sc">A. D.</span> 1577. But I do not know anything regarding any other famine until that of Sumvut 1803, <span class="sc">A. D.</span> 1746.
 
-“In Sumvut 1803, <span class="sc">A. D.</span> 1746, a great famine occurred. Maha Rao Shree Desuljee was then alive, but the affairs of the State were conducted by Rao Lukhputjee, who, with a view to relieve the poor from their sufferings, caused food to be cooked in large quantities near the Bid[^sec-01-fn-004] gate, and allowed every one who came there to satisfy his hunger, and to take home with him sufficient food for one other person. This he continued till the rain fell. The building erected on the cooking spot is still called ‘Tota Wallee Wurundee.’
+“In Sumvut 1803, <span class="sc">A. D.</span> 1746, a great famine occurred. Maha Rao Shree Desuljee was then alive, but the affairs of the State were conducted by Rao Lukhputjee, who, with a view to relieve the poor from their sufferings, caused food to be cooked in large quantities near the Bid[^sec-01-fn-006] gate, and allowed every one who came there to satisfy his hunger, and to take home with him sufficient food for one other person. This he continued till the rain fell. The building erected on the cooking spot is still called ‘Tota Wallee Wurundee.’
 
 “Sumvut 1813, <span class="sc">A. D.</span> 1757, and Sumvut 1822, <span class="sc">A. D.</span> 1766, were famine years. In the former year Rao Lukhputjee was the reigning Prince, and in the latter year Rao Gohodjee. I do not know what measures were adopted to relieve the poorer classes from their sufferings at that time.
 
@@ -396,7 +392,9 @@ To the SECRETARY <span class="sc">to</span> GOVERNMENT, BOMBAY.
 [^sec-01-fn-001]: (*) For the financial year ending 31st March.
 [^sec-01-fn-002]: (*) "Mr. John Fryer Thomas, who entered the Madras Civil Service in 1815, and, after holding numerous appointments in the Provinces and at the Presidency, became Chief Secretary to Government in 1844, and Member of Council in 1850.
 [^sec-01-fn-003]: (*) It would, perhaps, be better to lodge them with the Collector of the District.
-[^sec-01-fn-004]: (*) Bid is the grain market.
+[^sec-01-fn-004]: (*) A Pattee is equal to 66 Tolas. A Koree is equal to 4 Annas and 2 Pies.
+[^sec-01-fn-005]: (*) A place where grain is sold.
+[^sec-01-fn-006]: (*) Bid is the grain market.
 
 
 ## STATEMENT.
@@ -409,86 +407,25 @@ To the SECRETARY <span class="sc">to</span> GOVERNMENT, BOMBAY.
 
 <!-- page: 40 | folio: 30 -->
 
-**<span class="sc">Statement</span> *shewing the prices of grain, &c., in the Town of Bhooj for as many taken from the Family Account Books of private individuals, viz.*,**
-| No. | Name of Article. :: Sumvut... :: A. D.... | Name of Article. :: 1802 :: 1745 | Name of Article. :: [^sec-02-fn-001] 1803 :: 1746 | Name of Article. :: 1804 :: 1747 | Name of Article. :: 1812 :: 1755 | Number of Tolas to :: [^sec-02-fn-001] 1813 :: 1756 | Number of Tolas to :: 1814 :: 1757 | Number of Tolas to :: 1821 :: 1764 | Number of Tolas to :: [^sec-02-fn-001] 1822 :: 1765 | Number of Tolas to :: 1823 :: 1766 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Wheat | 3003 | 1741 | ...... | 1668 | 1668 | 2826 | 2502 | 2471 | 1668 |
-| 2 | Bajro | 3337 | 1298 | 1668 | 2002 | 1922 | 3003 | 3875 | 3754 | 2611 |
-| 3 | Korud | 3754 | ...... | ...... | 2184 | 2002 | 4004 | 5005 | ...... | 3938 |
-| 4 | Mug | 3246 | 1092 | 1953 | 2002 | 1483 | 3432 | 3161 | 3754 | 3754 |
-| 5 | Gohar | 3724 | 1601 | 4004 | 3203 | 3337 | 5460 | 3161 | ...... | 3875 |
-| 6 | Cotton-seed | 735 | 792 | 973 | 762 | 735 | 1144 | 1029 | ...... | 762 |
-| 7 | Ghee | 258 | 174 | 174 | 174 | 148 | 211 | 195 | 250 | 267 |
-| 8 | Oil... | 552 | 333 | 364 | 364 | 324 | 324 | 191 | 752 | 485 |
-| 9 | Rice (Red) | 2502 | 1601 | 2355 | 1816 | 1799 | 1922 | 1265 | 2145 | 1668 |
-| 10 | Do. (White) | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| 11 | Jair | 3384 | 1766 | 2184 | 1716 | 4449 | ...... | ...... | 1001 | ...... |
-| 12 | Sudufula, or seed from which Castor Oil is prepared | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| 13 | Gram | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| 14 | Udud | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| 15 | Sursya | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| 16 | Toordal, a kind of pulse | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| 1829 | 1830<sup>*</sup> | 1831 | 1838 | 1839<sup>*</sup> | 1847<sup>*</sup> | 1858 | 1861 | 1868 |  |  |
-| 1772 | 1773 | 1774 | 1781 | 1782 | 1790 | 1801 | 1804 | 1811 |  |  |
-| 2669 | 2555 | 1501 | 2611 | 2318 | 1252 | ...... | 910 | 1586 |  |  |
-| 6673 | 3082 | 2669 | 4804 | 3482 | 1413 | 1365 | 1969 | 1935 |  |  |
-| 1001 | 3754 | 3640 | 4804 | 4290 | 2145 | ...... | 2288 | 2224 |  |  |
-| 6006 | 2611 | 2669 | 2730 | 2402 | 1501 | 1816 | 1365 | 1365 |  |  |
-| 6673 | 3534 | 4620 | 4290 | 4038 | 1501 | ...... | 2451 | 2310 |  |  |
-| 1144 | 1144 | 1144 | 686 | 858 | ...... | ...... | ...... | ...... |  |  |
-| 211 | 211 | 235 | 195 | 222 | 148 | ...... | ...... | ...... |  |  |
-| 616 | 364 | 390 | 380 | 500 | 333 | ...... | ...... | 372 |  |  |
-| 1668 | 1365 | 1668 | 1766 | 1766 | 1201 | 1816 | 1540 | 1820 |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | 790 | ...... | ...... |  |  |
-| ...... | ...... | ...... | ...... | ...... | 2002 | ...... | 2002 | ...... |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 3754 |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |  |  |
-| <sup>*</sup> 1869 | 1870 | 1880 | <sup>*</sup> 1881 | 1882 | <sup>*</sup> 1890 | 1894 | <sup>*</sup> 1895 | 1896 |  |  |
-| 1812 | 1813 | 1823 | 1824 | 1825 | 1833 | 1837 | 1838 | 1839 |  |  |
-| 513 | 513 | 1430 | 968 | 938 | 1365 | 1668 | 1396 | 1177 |  |  |
-| 702 | 790 | 1580 | 924 | 1365 | 1305 | 2002 | 1072 | 2002 |  |  |
-| 668 | 750 | 2310 | 1112 | 1305 | 2002 | 2730 | 1501 | 2145 |  |  |
-| 556 | 600 | ...... | 883 | 858 | ...... | 2002 | 1501 | 1560 |  |  |
-| ...... | 790 | 1766 | 910 | 1365 | ...... | 2310 | 1816 | 2002 |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |  |  |
-| ...... | ...... | ...... | ...... | ...... | ...... | 222 | 121 | ...... |  |  |
-| ...... | ...... | ...... | 229 | 334 | 348 | 400 | ...... | 327 |  |  |
-| 811 | 750 | 1668 | 938 | 1365 | 1365 | 1820 | 938 | ...... |  |  |
-| 594 | ...... | 1112 | ...... | ...... | ...... | ...... | ...... | 790 |  |  |
-| 750 | ...... | ...... | 1072 | 2502 | ...... | 2502 | 1501 | ...... |  |  |
-| 1793 | ...... | 2002 | 1155 | 938 | 2730 | 2402 | 1580 | 2730 |  |  |
-| ...... | ...... | 1766 | 938 | ...... | 1501 | 1816 | 883 | 1155 |  |  |
-| ...... | ...... | 1501 | ...... | 938 | ...... | ...... | ...... | ...... |  |  |
-| ...... | ...... | 2071 | ...... | ...... | 1305 | ...... | 938 | ...... |  |  |
-| ...... | ...... | ...... | ...... | ...... | 1305 | ...... | ...... | ...... |  |  |
-
-
-<!-- page: 43 | folio: 31 -->
--years from *Sumvut* 1802 (<span class="sc">A. D.</span> 1745) *as for which accounts are forthcoming*, *Meta Khanjee Gowree-shunker and Metta Dulputram Vittuljee.*
-
-
-**a Rupee in Sumvut**
-| <sup>*</sup> 1897 :: 1840 | <sup>*</sup> 1898 :: 1841 | 1901 :: 1844 | <sup>*</sup> 1902 :: 1845 | 1904 :: 1847 | <sup>*</sup> 1905 :: 1848 | 1909 :: 1852 | <sup>*</sup> 1910 :: 1853 | <sup>*</sup> 1917 :: 1860 | <sup>†</sup> 1924 :: 1867 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1430 | 1365 | 2355 | 1501 | 1820 | 1816 | 2002 | 1766 | 811 | 775 |
-| 1501 | 1540 | 2310 | 1501 | 2002 | 2669 | 2184 | 1766 | 889 | 859 |
-| 1623 | 1155 | 3337 | 1816 | 2310 | 2402 | 4004 | 2502 | 1112 | 1037 |
-| 1112 | 1001 | 2730 | 1465 | 1816 | 1816 | ...... | 1766 | 938 | 743 |
-| 1501 | 1278 | 3003 | 2224 | 2502 | 2402 | 3337 | 2402 | ...... | 974 |
-| ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| ...... | ...... | ...... | ...... | 195 | 182 | 250 | 191 | 119 | 63 |
-| 267 | ...... | ...... | ...... | ...... | 348 | 616 | 308 | ...... | 168 |
-| 1155 | 1035 | 1365 | 1251 | 1430 | 1501 | 1430 | 1580 | 910 | 763 |
-| - 800 | ...... | 889 | 976 | ...... | ...... | ...... | 1155 | ...... | 562 |
-| 1816 | 1501 | ...... | 2036 | 2502 | 3337 | 3337 | 2145 | 1540 | 1108 |
-| 1540 | 1580 | 2224 | 1820 | 2224 | ...... | 4004 | ...... | ...... | 766 |
-| ...... | ...... | 2502 | 1540 | 1501 | 2145 | 1935 | 1430 | 968 | 600 |
-| ...... | 1430 | ...... | ...... | ...... | .. ... | ...... | ...... | ...... | 567 |
-| 1365 | ...... | ...... | ...... | ...... | 1365 | ...... | ...... | ...... | 598 |
-| ...... | 1155 | ...... | ...... | 1155 | ...... | ...... | ...... | 682 | 321 |
+**<span class="sc">Statement</span> *shewing the prices of grain, &c., in the Town of Bhooj for as many taken from the Family Account Books of private individuals, viz.*, -years from *Sumvut* 1802 (<span class="sc">A. D.</span> 1745) *as for which accounts are forthcoming*, *Meta Khanjee Gowree-shunker and Metta Dulputram Vittuljee.***
+| No. | Name of Article. :: Sumvut... :: A. D.... | Name of Article. :: 1802 :: 1745 | Name of Article. :: [^sec-02-fn-001] 1803 :: 1746 | Name of Article. :: 1804 :: 1747 | Name of Article. :: 1812 :: 1755 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1813 :: 1756 | Number of Tolas to a Rupee in Sumvut :: 1814 :: 1757 | Number of Tolas to a Rupee in Sumvut :: 1821 :: 1764 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1822 :: 1765 | Number of Tolas to a Rupee in Sumvut :: 1823 :: 1766 | Number of Tolas to a Rupee in Sumvut :: 1829 :: 1772 | Number of Tolas to a Rupee in Sumvut :: 1830[^sec-02-fn-001] :: 1773 | Number of Tolas to a Rupee in Sumvut :: 1831 :: 1774 | Number of Tolas to a Rupee in Sumvut :: 1838 :: 1781 | Number of Tolas to a Rupee in Sumvut :: 1839[^sec-02-fn-001] :: 1782 | Number of Tolas to a Rupee in Sumvut :: 1847[^sec-02-fn-001] :: 1790 | Number of Tolas to a Rupee in Sumvut :: 1858 :: 1801 | Number of Tolas to a Rupee in Sumvut :: 1861 :: 1804 | Number of Tolas to a Rupee in Sumvut :: 1868 :: 1811 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1869 :: 1812 | Number of Tolas to a Rupee in Sumvut :: 1870 :: 1813 | Number of Tolas to a Rupee in Sumvut :: 1880 :: 1823 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1881 :: 1824 | Number of Tolas to a Rupee in Sumvut :: 1882 :: 1825 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1890 :: 1833 | Number of Tolas to a Rupee in Sumvut :: 1894 :: 1837 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1895 :: 1838 | Number of Tolas to a Rupee in Sumvut :: 1896 :: 1839 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1897 :: 1840 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1898 :: 1841 | Number of Tolas to a Rupee in Sumvut :: 1901 :: 1844 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1902 :: 1845 | Number of Tolas to a Rupee in Sumvut :: 1904 :: 1847 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1905 :: 1848 | Number of Tolas to a Rupee in Sumvut :: 1909 :: 1852 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1910 :: 1853 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-001] 1917 :: 1860 | Number of Tolas to a Rupee in Sumvut :: [^sec-02-fn-002] 1924 :: 1867 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Wheat | 3003 | 1741 | ...... | 1668 | 1668 | 2826 | 2502 | 2471 | 1668 | 2669 | 2555 | 1501 | 2611 | 2318 | 1252 | ...... | 910 | 1586 | 513 | 513 | 1430 | 968 | 938 | 1365 | 1668 | 1396 | 1177 | 1430 | 1365 | 2355 | 1501 | 1820 | 1816 | 2002 | 1766 | 811 | 775 |
+| 2 | Bajro | 3337 | 1298 | 1668 | 2002 | 1922 | 3003 | 3875 | 3754 | 2611 | 6673 | 3082 | 2669 | 4804 | 3482 | 1413 | 1365 | 1969 | 1935 | 702 | 790 | 1580 | 924 | 1365 | 1305 | 2002 | 1072 | 2002 | 1501 | 1540 | 2310 | 1501 | 2002 | 2669 | 2184 | 1766 | 889 | 859 |
+| 3 | Korud | 3754 | ...... | ...... | 2184 | 2002 | 4004 | 5005 | ...... | 3938 | 1001 | 3754 | 3640 | 4804 | 4290 | 2145 | ...... | 2288 | 2224 | 668 | 750 | 2310 | 1112 | 1305 | 2002 | 2730 | 1501 | 2145 | 1623 | 1155 | 3337 | 1816 | 2310 | 2402 | 4004 | 2502 | 1112 | 1037 |
+| 4 | Mug | 3246 | 1092 | 1953 | 2002 | 1483 | 3432 | 3161 | 3754 | 3754 | 6006 | 2611 | 2669 | 2730 | 2402 | 1501 | 1816 | 1365 | 1365 | 556 | 600 | ...... | 883 | 858 | ...... | 2002 | 1501 | 1560 | 1112 | 1001 | 2730 | 1465 | 1816 | 1816 | ...... | 1766 | 938 | 743 |
+| 5 | Gohar | 3724 | 1601 | 4004 | 3203 | 3337 | 5460 | 3161 | ...... | 3875 | 6673 | 3534 | 4620 | 4290 | 4038 | 1501 | ...... | 2451 | 2310 | ...... | 790 | 1766 | 910 | 1365 | ...... | 2310 | 1816 | 2002 | 1501 | 1278 | 3003 | 2224 | 2502 | 2402 | 3337 | 2402 | ...... | 974 |
+| 6 | Cotton-seed | 735 | 792 | 973 | 762 | 735 | 1144 | 1029 | ...... | 762 | 1144 | 1144 | 1144 | 686 | 858 | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
+| 7 | Ghee | 258 | 174 | 174 | 174 | 148 | 211 | 195 | 250 | 267 | 211 | 211 | 235 | 195 | 222 | 148 | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 222 | 121 | ...... | ...... | ...... | ...... | ...... | 195 | 182 | 250 | 191 | 119 | 63 |
+| 8 | Oil... | 552 | 333 | 364 | 364 | 324 | 324 | 191 | 752 | 485 | 616 | 364 | 390 | 380 | 500 | 333 | ...... | ...... | 372 | ...... | ...... | ...... | 229 | 334 | 348 | 400 | ...... | 327 | 267 | ...... | ...... | ...... | ...... | 348 | 616 | 308 | ...... | 168 |
+| 9 | Rice (Red) | 2502 | 1601 | 2355 | 1816 | 1799 | 1922 | 1265 | 2145 | 1668 | 1668 | 1365 | 1668 | 1766 | 1766 | 1201 | 1816 | 1540 | 1820 | 811 | 750 | 1668 | 938 | 1365 | 1365 | 1820 | 938 | ...... | 1155 | 1035 | 1365 | 1251 | 1430 | 1501 | 1430 | 1580 | 910 | 763 |
+| 10 | Do. (White) | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 790 | ...... | ...... | 594 | ...... | 1112 | ...... | ...... | ...... | ...... | ...... | 790 | - 800 | ...... | 889 | 976 | ...... | ...... | ...... | 1155 | ...... | 562 |
+| 11 | Jair | 3384 | 1766 | 2184 | 1716 | 4449 | ...... | ...... | 1001 | ...... | ...... | ...... | ...... | ...... | ...... | 2002 | ...... | 2002 | ...... | 750 | ...... | ...... | 1072 | 2502 | ...... | 2502 | 1501 | ...... | 1816 | 1501 | ...... | 2036 | 2502 | 3337 | 3337 | 2145 | 1540 | 1108 |
+| 12 | Sudufula, or seed from which Castor Oil is prepared | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 3754 | 1793 | ...... | 2002 | 1155 | 938 | 2730 | 2402 | 1580 | 2730 | 1540 | 1580 | 2224 | 1820 | 2224 | ...... | 4004 | ...... | ...... | 766 |
+| 13 | Gram | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 1766 | 938 | ...... | 1501 | 1816 | 883 | 1155 | ...... | ...... | 2502 | 1540 | 1501 | 2145 | 1935 | 1430 | 968 | 600 |
+| 14 | Udud | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 1501 | ...... | 938 | ...... | ...... | ...... | ...... | ...... | 1430 | ...... | ...... | ...... | .. ... | ...... | ...... | ...... | 567 |
+| 15 | Sursya | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 2071 | ...... | ...... | 1305 | ...... | 938 | ...... | 1365 | ...... | ...... | ...... | ...... | 1365 | ...... | ...... | ...... | 598 |
+| 16 | Toordal, a kind of pulse | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | 1305 | ...... | ...... | ...... | ...... | 1155 | ...... | ...... | 1155 | ...... | ...... | ...... | 682 | 321 |
 
 
 <!-- page: 44 | folio: 32 -->
@@ -768,7 +705,7 @@ In other Talookas it appears that the failure of rain was only partial. This fam
 ### Notes
 
 [^sec-02-fn-001]: (*) Those marked with an asterisk are the years of famine.
-[^sec-02-fn-002]: (†) [Unlinked note, p. 30] The prices given for this year are for wholesale purchases, those for retail are considerably higher.
+[^sec-02-fn-002]: (†) The prices given for this year are for wholesale purchases, those for retail are considerably higher.
 [^sec-02-fn-003]: (*) The First Assistant Collector of Ahmedabad, Mr. Pratt, thought that the information might best be compiled by means of a tabular Statement containing set questions; but it was only considered desirable to give the outline of the information required in the Circular of 1st July, leaving the mode of obtaining it, and the general treatment of the subject, to the judgment, discretion and ability, of the local Officers,
 
 
@@ -1858,9 +1795,7 @@ There is, however, no doubt that in the year <span class="sc">a. d.</span> 1792 
 
 “2. Immediately on the receipt of your orders, I addressed the Mumladars, and asked them to use every endeavour to obtain full information from every available source, and especially to take copies of all documentary evidence bearing on the subject.
 
-> _[Margin: <sup>*</sup> Of Punderpoor and Sangola.]_
-
-“3. From the report of Mumladars,<sup>*</sup> which I enclose, it will be noticed that they have not been able to obtain any documents, owing to the Officers. of the Inam Commission having removed all old records from the districts. The information embodied in the reports has been obtained by oral enquiries among old inhabitants. The reports give full details. I shall annex a succinct account of the more important features.
+“3. From the report of Mumladars,[^sec-03-fn-003] which I enclose, it will be noticed that they have not been able to obtain any documents, owing to the Officers. of the Inam Commission having removed all old records from the districts. The information embodied in the reports has been obtained by oral enquiries among old inhabitants. The reports give full details. I shall annex a succinct account of the more important features.
 
 “4. The oldest famine about which information can be obtained is the one that is said to have occurred about <span class="sc">a. d.</span> 1396, and to have lasted 12 years. It is known by the name of the ‘Doorga Devee’ famine. It extended over the whole of India south of the Nurbudda, and depopulated whole districts. It arose from the total want of seasonable rain. It cannot be ascertained whether any measures of relief were adopted at the time.
 
@@ -1937,7 +1872,7 @@ There is, however, no doubt that in the year <span class="sc">a. d.</span> 1792 
 
 ##### *By Mr. King, First Assistant Collector.*
 
-"The information which I have been able to obtain is very meagre, and regarding the earlier famines the records are silent. The most destructive famine is the earliest of which I have any account, and appears to have taken place in 1791—93, but I cannot give the date with accuracy. It is known by the picturesque name of the 'Dogi Bura,' or Golgotha famine. It is still remembered in the districts of Hooblee, Dumbul and Kulghutgee. The people were reduced to feeding on leaves and berries, and women and children were sold. From Dumbul I am informed that the rain-fall failed for twelve years, and that for three there was no cultivation. The Mysore Government, to which these districts were subject, appears to have seized the stores of grain in Hooblee, and the rich are said to have come forward to the assistance of their poorer brethren. One seer of grain of only half the capacity of the present seer[^sec-03-fn-003] sold for 10 annas and 8 pies in Dumbul. The next famine of note appears to have taken place about sixty-three years ago, but I cannot furnish [p. 106] the date exactly. The Deshpandey of Seegaum remembers it, and he tells me that it lasted for a year, and was caused by a great immigration of starving people from the country about Punderpoor and Bejapoor. It is still known in the Hooblee district as the ‘Bayan Bura,’ or ‘Terrible’ famine. Grain seems to have been sold at 5 or 6 seers a Rupee, and the wealthy supplemented the wants of the poorer classes, being headed in Hooblee by Chintamonrao Putwurdhun. It appears to have extended through all my districts, and I cannot find that any steps were taken for its amelioration by the Native Government. In 1832, in consequence of a failure of rain and an immigration from districts beyond the Krishna, great scarcity was experienced in all the districts. The price of grain varied from 7 seers in Hooblee to 9 in Dumbul, but in the latter Talooka some of the poorest class were reduced to eating grass. The rich in Hooblee, headed by Appoorao Lokhundy, subscribed for the relief of the poor, and Government remitted the tolls. Mr. Elliot, the Collector, also issued an order forbidding forestalling and regrating, and requiring the dealers to bring their grain into the market. Tanks and other works of utility were undertaken to provide labour for the poor. The three famines noticed above appear to have been general. From Dumbul I hear of two minor famines; one in 1814 was called the ‘Bisaghee Bura,’ a name the meaning of which I have not been able to discover. It was apparently caused by cultivation being stopped owing to the disturbed state of the country. It only lasted two months, during which grain was sold at 7 seers the Rupee. I imagine that it cannot have been confined to Dumbul only, but its limits are not given. In 1824 another short famine is recorded, also lasting two months, in which grain was sold at 12 seers the Rupee. It is attributed to a failure in the rain supply, and appears to have extended into the Belgaum districts. I have not sketched the famine of last year, as the reports made by the Collector to Government contain all the information regarding it required by Major Etheridge.
+"The information which I have been able to obtain is very meagre, and regarding the earlier famines the records are silent. The most destructive famine is the earliest of which I have any account, and appears to have taken place in 1791—93, but I cannot give the date with accuracy. It is known by the picturesque name of the 'Dogi Bura,' or Golgotha famine. It is still remembered in the districts of Hooblee, Dumbul and Kulghutgee. The people were reduced to feeding on leaves and berries, and women and children were sold. From Dumbul I am informed that the rain-fall failed for twelve years, and that for three there was no cultivation. The Mysore Government, to which these districts were subject, appears to have seized the stores of grain in Hooblee, and the rich are said to have come forward to the assistance of their poorer brethren. One seer of grain of only half the capacity of the present seer[^sec-03-fn-004] sold for 10 annas and 8 pies in Dumbul. The next famine of note appears to have taken place about sixty-three years ago, but I cannot furnish [p. 106] the date exactly. The Deshpandey of Seegaum remembers it, and he tells me that it lasted for a year, and was caused by a great immigration of starving people from the country about Punderpoor and Bejapoor. It is still known in the Hooblee district as the ‘Bayan Bura,’ or ‘Terrible’ famine. Grain seems to have been sold at 5 or 6 seers a Rupee, and the wealthy supplemented the wants of the poorer classes, being headed in Hooblee by Chintamonrao Putwurdhun. It appears to have extended through all my districts, and I cannot find that any steps were taken for its amelioration by the Native Government. In 1832, in consequence of a failure of rain and an immigration from districts beyond the Krishna, great scarcity was experienced in all the districts. The price of grain varied from 7 seers in Hooblee to 9 in Dumbul, but in the latter Talooka some of the poorest class were reduced to eating grass. The rich in Hooblee, headed by Appoorao Lokhundy, subscribed for the relief of the poor, and Government remitted the tolls. Mr. Elliot, the Collector, also issued an order forbidding forestalling and regrating, and requiring the dealers to bring their grain into the market. Tanks and other works of utility were undertaken to provide labour for the poor. The three famines noticed above appear to have been general. From Dumbul I hear of two minor famines; one in 1814 was called the ‘Bisaghee Bura,’ a name the meaning of which I have not been able to discover. It was apparently caused by cultivation being stopped owing to the disturbed state of the country. It only lasted two months, during which grain was sold at 7 seers the Rupee. I imagine that it cannot have been confined to Dumbul only, but its limits are not given. In 1824 another short famine is recorded, also lasting two months, in which grain was sold at 12 seers the Rupee. It is attributed to a failure in the rain supply, and appears to have extended into the Belgaum districts. I have not sketched the famine of last year, as the reports made by the Collector to Government contain all the information regarding it required by Major Etheridge.
 
 
 #### *By the Deputy Collector.*
@@ -2491,7 +2426,8 @@ A. T. ETHERIDGE, Alienation Settlement Officer S. D.
 
 [^sec-03-fn-001]: (Note) Compiled from Monier Williams' Memoir of Broach Zillah.
 [^sec-03-fn-002]: (*) “*Note*—Inside the walls of the old town of Sooltanpoor, now inhabited by three families of Coonbees and some Bheels, the old Patel four days ago pointed out to me 200 *wells*, which he recollects having been all in use in 1802.”
-[^sec-03-fn-003]: (*) *i. e.* the seer of 140 Tolas.
+[^sec-03-fn-003]: (*) Of Punderpoor and Sangola.
+[^sec-03-fn-004]: (*) *i. e.* the seer of 140 Tolas.
 
 
 ## APPENDIX A
@@ -2633,91 +2569,33 @@ Alienation Settlement Officer, S. D.
 
 
 **<span class="sc">Showing the Prices of Grain, &c., and Remissions of Revenue</span>, during the late Govern- with the limits of the present <span class="sc">Khandeish Collectorate</span>.**
-| NAMES OF DISTRICTS. | A. D. 1753. :: No Record of Prices. :: Ordinary Revenue. :: Rs. | A. D. 1753. :: No Record of Prices. :: Remissions. :: Rs. | A. D. 1753. :: No Record of Prices. :: Per centage. :: Rs | A. D. 1759. :: No Record of Prices. :: Ordinary Revenue. :: Rs. | A. D. 1759. :: No Record of Prices. :: Remissions. :: Rs. | A. D. 1759. :: No Record of Prices. :: Per centage. :: Rs | A. D. 1765. :: Wheat.... 24 Seers. Bajree .. 25 „ Gram .... 25 „ Toor .... 21½ „ Naglee .. 45 „ Oil ...... 8 „ Ghee .... 2½ „ :: Ordinary Revenue. :: Rs. | A. D. 1765. :: Wheat.... 24 Seers. Bajree .. 25 „ Gram .... 25 „ Toor .... 21½ „ Naglee .. 45 „ Oil ...... 8 „ Ghee .... 2½ „ :: Remissions. :: Rs. | A. D. 1765. :: Wheat.... 24 Seers. Bajree .. 25 „ Gram .... 25 „ Toor .... 21½ „ Naglee .. 45 „ Oil ...... 8 „ Ghee .... 2½ „ :: Per centage. :: Rs | A. D. 1769. :: Prices of Grain, &c., per :: Wheat .. 25 Seers. Bajree .. 22 „ Toor .... 25 „ Rice .... 16 „ Naglee. . 24 „ Oil .... 9 „ Ghee .. 2½ „ Gool .. 13½ „ :: Ordinary Revenue. :: Rs. | A. D. 1769. :: Prices of Grain, &c., per :: Wheat .. 25 Seers. Bajree .. 22 „ Toor .... 25 „ Rice .... 16 „ Naglee. . 24 „ Oil .... 9 „ Ghee .. 2½ „ Gool .. 13½ „ :: Remissions. :: Rs. | A. D. 1769. :: Prices of Grain, &c., per :: Wheat .. 25 Seers. Bajree .. 22 „ Toor .... 25 „ Rice .... 16 „ Naglee. . 24 „ Oil .... 9 „ Ghee .. 2½ „ Gool .. 13½ „ :: Per centage. :: Rs |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| I. Prant Baglan .... | ... | .. | .. | .... | .... | .. | .. | .. | .. | 1,24,166 | 24,111 | 19 |
-| II. Perg. Butawud .. | .... | .. | .. | .... | .. | .. | 47,500 | 28,920 | 61 | 45,583 | 12,949 | 28 |
-| III. Perg. Bodwar .... | 19,593 | 6,535 | 33 | .... | .. | .. | 29,125 | 4,000 | 14 | .... | .... | .. |
-| IV. Perg. Erundole, &c. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .... | .... | .. |
-| V. Perg. Bornar .... | .... | .. | .. | .... | .... | .. | .... | .... | .. | 21,021 | 6,475 | 31 |
-| VI. Perg. Chansur .... | .... | .. | .. | .... | .. | .. | .. | .. | .. | .. | .... | .. |
-| VII. Perg. Amulnair .. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .. | .. | .. |
-| VIII. Perg. Rajdehur .. | .... | .. | .. | .... | .... | .. | .... | .. | .. | 7,059 | 714 | 10 |
-| IX. Perg. Ravere .... | .... | .. | .. | .... | .... | .. | .... | .... | .. | 1,01,993 | 22,803 | 22 |
-| X. Perg. Julode .... | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. |
-| XI. Perg. Jamnair .... | .... | .. | .. | .... | .. | .. | 1,20,000 | 33,394 | 28 | .. | .. | .. |
-| XII. Perg. Nusseerabad. | .... | .. | .. | .... | .... | .. | .. | .. | .. | 1,42,624 | 54,855 | 38 |
-| XIII. Perg. Lahonair, &c. | .... | .. | .. | .... | .... | .. | .... | .... | .. | 62,728 | 17,097 | 27 |
-| XIV. Perg. Bhurgaum.. | .... | .. | .. | .... | .... | .. | .... | .... | .. | 5,905 | 2,298 | 39 |
-| XV. Perg. Chopra.... | .... | .. | .. | 2,47,811 | 90,709 | 37 | 2,47,801 | 90,709 | 37 | 2,25,001 | 93,117 | 41 |
-| XVI. Perg. Chaleesgaon. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .. | .. | .. |
-| XVII. Perg. Bhamair .. | .... | .. | .. | .... | .... | .. | 82,217 | 15,626 | 19 | 1,36,647 | 14,491 | 11 |
-| XVIII. Perg. Bahal .... | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. |
-| XIX. Perg. Dhoolia .. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .... | .... | .. |
-| XX. Perg. Mhuswé .. | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. |
-| XXI. Perg. Nair.. .... | .... | .. | .. | .... | .... | .. | .... | .. | .. | .. | .. | .. |
-| XXII. Perg. Rayepoor .. | .... | .. | .. | .... | .... | .. | .... | .. | .. | .. | .. | .. |
-| XXIII. Perg. Nundoorbar. | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. |
-| Total.... | 19,593 | 6,535 | 33 | 2,47,811 | 90,709 | 37 | 5,26,643 | 1,72,649 | 33 | 8,72,727 | 2,48,910 | 29 |
-| A. D. 1772. |  |  | A. D. 1773. |  |  | A. D. 1775. |  |  |  |  |  |  |
-| rupce to the extent that the records furnish evidence. |  |  |  |  |  |  |  |  |  |  |  |  |
-| No Record of Prices. |  |  | Wheat ...... 15½ Seers. Bajree ...... 15½ „ Gram ...... 14¾ „ Toor ...... 13¼ „ Rice ...... 9 „ Naglee ...... 24 „ Oil ...... 7 „ Ghee ...... 2 „ Gool ...... 7 „ |  |  | Wheat ...... 19¼ Seers. Bajree ...... 19½ „ Gram ...... 28 „ Toor ...... 20½ „ Rice ...... 13¼ „ Naglee ...... 17 „ Oil ...... 6¼ „ Ghee ...... 2½ „ Gool ...... 6½ „ |  |  |  |  |  |  |
-| Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. |  |  |  |  |
-| Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. |  |  |  |  |
-| 1,15,766 | 40,394 | 35 | 1,15,766 | 52,259 | 45 | ... | ... | ... |  |  |  |  |
-| 64,572 | 49,857 | 77 | 14,715 | 11,113 | 76 | 20,435 | 3,903 | 19 |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | 29,304 | 10,113 | 35 |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| 25,810 | 13,557 | 52 | 20,000 | 8,474 | 42 | 16,001 | 11,082 | 69 |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | 17,537 | 12,090 | 69 | ... | ... | ... |  |  |  |  |
-| 1,06,000 | 12,561 | 12 | 1,06,000 | 36,193 | 34 | ... | ... | ... |  |  |  |  |
-| 1,03,000 | 53,225 | 52 | ... | ... | ... | 62,300 | 28,746 | 46 |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| 1,66,000 | 1,03,569 | 62 | 1,35,000 | 47,908 | 35 | ... | ... | ... |  |  |  |  |
-| 73,956 | 34,991 | 41 | 75,069 | 47,125 | 63 | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | 4,500 | 760 | 17 | ... | ... | ... |  |  |  |  |
-| 2,10,001 | 93,325 | 44 | 2,20,001 | 1,15,323 | 52 | 1,90,001 | 51,318 | 27 |  |  |  |  |
-| 10,734 | 722 | 7 | 12,800 | 6,473 | 51 | 13,994 | 1,718 | 12 |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | 5,378 | 1,542 | 29 | ... | ... | ... |  |  |  |  |
-| 4,161 | 1,478 | 36 | 4,161 | 3,186 | 77 | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... |  |  |  |  |
-| 8,80,000 | 4,03,679 | 46 | 7,30,927 | 3,42,446 | 47 | 3,32,035 | 1,06,880 | 32 |  |  |  |  |
-| A. D. 1779. |  |  | A. D. 1782. |  |  | A. D. 1783. |  |  |  |  |  |  |
-| Prices of Grain, &c., per rupee to the |  |  |  |  |  |  |  |  |  |  |  |  |
-| Wheat ...... 26 Seers. Bajree ...... 21½ „ Gram ...... 32 „ Toor ...... 20 „ Rice ...... 15 „ Naglee ...... 48 „ Jowaree .... 40 „ Oil ...... 9 „ Ghee ...... 2 „ Gool ...... 16 „ |  |  | Wheat ...... 32 Seers. Bajree ...... 32 „ Rice ...... 16 „ Oil ...... 9½ „ Ghee ...... 3 „ Gool ...... 16 „ |  |  | Wheat ...... 32 Seers. Bajree ...... 36 „ Toor ...... 36 „ Rice ...... 16 „ Oil ...... 9 „ Ghee ...... 3 „ Gool ...... 16 „ |  |  |  |  |  |  |
-| Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. |  |  |  |  |
-| Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. |  |  |  |  |
-| 1,15,626 | 41,693 | 36 | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| 1,14,128 | 19,915 | 17 | 1,59,135 | 42,713 | 27 | .... | .... | .. |  |  |  |  |
-| 17,400 | 9,781 | 56 | 16,939 | 7,065 | 42 | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| 4,500 | 628 | 14 | 4,351 | 1,272 | 29 | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | 4,161 | 1,716 | 41 | 4,161 | 1,344 | 32 |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| 25,818 | 6,817 | 26 | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| .... | .... | .. | .... | .... | .. | .... | .... | .. |  |  |  |  |
-| 2,77,472 | 78,834 | 28 | 1,84,586 | 52,766 | 29 | 4,161 | 1,344 | 32 |  |  |  |  |
-| A. D. 1790. |  |  | A. D. 1791. |  |  | A. D. 1793. |  |  |  |  |  |  |
+| NAMES OF DISTRICTS. | A. D. 1753. :: No Record of Prices. :: Ordinary Revenue. :: Rs. | A. D. 1753. :: No Record of Prices. :: Remissions. :: Rs. | A. D. 1753. :: No Record of Prices. :: Per centage. :: Rs | A. D. 1759. :: No Record of Prices. :: Ordinary Revenue. :: Rs. | A. D. 1759. :: No Record of Prices. :: Remissions. :: Rs. | A. D. 1759. :: No Record of Prices. :: Per centage. :: Rs | A. D. 1765. :: Wheat.... 24 Seers. Bajree .. 25 „ Gram .... 25 „ Toor .... 21½ „ Naglee .. 45 „ Oil ...... 8 „ Ghee .... 2½ „ :: Ordinary Revenue. :: Rs. | A. D. 1765. :: Wheat.... 24 Seers. Bajree .. 25 „ Gram .... 25 „ Toor .... 21½ „ Naglee .. 45 „ Oil ...... 8 „ Ghee .... 2½ „ :: Remissions. :: Rs. | A. D. 1765. :: Wheat.... 24 Seers. Bajree .. 25 „ Gram .... 25 „ Toor .... 21½ „ Naglee .. 45 „ Oil ...... 8 „ Ghee .... 2½ „ :: Per centage. :: Rs | A. D. 1769. :: Prices of Grain, &c., per :: Wheat .. 25 Seers. Bajree .. 22 „ Toor .... 25 „ Rice .... 16 „ Naglee. . 24 „ Oil .... 9 „ Ghee .. 2½ „ Gool .. 13½ „ :: Ordinary Revenue. :: Rs. | A. D. 1769. :: Prices of Grain, &c., per :: Wheat .. 25 Seers. Bajree .. 22 „ Toor .... 25 „ Rice .... 16 „ Naglee. . 24 „ Oil .... 9 „ Ghee .. 2½ „ Gool .. 13½ „ :: Remissions. :: Rs. | A. D. 1769. :: Prices of Grain, &c., per :: Wheat .. 25 Seers. Bajree .. 22 „ Toor .... 25 „ Rice .... 16 „ Naglee. . 24 „ Oil .... 9 „ Ghee .. 2½ „ Gool .. 13½ „ :: Per centage. :: Rs | A. D. 1772. :: rupce to the extent that the records furnish evidence. :: No Record of Prices. :: Ordinary Revenue. :: Rs. | A. D. 1772. :: rupce to the extent that the records furnish evidence. :: No Record of Prices. :: Remissions. :: Rs. | A. D. 1772. :: rupce to the extent that the records furnish evidence. :: No Record of Prices. :: Percentage. :: Rs. | A. D. 1773. :: rupce to the extent that the records furnish evidence. :: Wheat ...... 15½ Seers. Bajree ...... 15½ „ Gram ...... 14¾ „ Toor ...... 13¼ „ Rice ...... 9 „ Naglee ...... 24 „ Oil ...... 7 „ Ghee ...... 2 „ Gool ...... 7 „ :: Ordinary Revenue. :: Rs. | A. D. 1773. :: rupce to the extent that the records furnish evidence. :: Wheat ...... 15½ Seers. Bajree ...... 15½ „ Gram ...... 14¾ „ Toor ...... 13¼ „ Rice ...... 9 „ Naglee ...... 24 „ Oil ...... 7 „ Ghee ...... 2 „ Gool ...... 7 „ :: Remissions. :: Rs. | A. D. 1773. :: rupce to the extent that the records furnish evidence. :: Wheat ...... 15½ Seers. Bajree ...... 15½ „ Gram ...... 14¾ „ Toor ...... 13¼ „ Rice ...... 9 „ Naglee ...... 24 „ Oil ...... 7 „ Ghee ...... 2 „ Gool ...... 7 „ :: Percentage. :: Rs. | A. D. 1775. :: rupce to the extent that the records furnish evidence. :: Wheat ...... 19¼ Seers. Bajree ...... 19½ „ Gram ...... 28 „ Toor ...... 20½ „ Rice ...... 13¼ „ Naglee ...... 17 „ Oil ...... 6¼ „ Ghee ...... 2½ „ Gool ...... 6½ „ :: Ordinary Revenue. :: Rs. | A. D. 1775. :: rupce to the extent that the records furnish evidence. :: Wheat ...... 19¼ Seers. Bajree ...... 19½ „ Gram ...... 28 „ Toor ...... 20½ „ Rice ...... 13¼ „ Naglee ...... 17 „ Oil ...... 6¼ „ Ghee ...... 2½ „ Gool ...... 6½ „ :: Remissions. :: Rs. | A. D. 1775. :: rupce to the extent that the records furnish evidence. :: Wheat ...... 19¼ Seers. Bajree ...... 19½ „ Gram ...... 28 „ Toor ...... 20½ „ Rice ...... 13¼ „ Naglee ...... 17 „ Oil ...... 6¼ „ Ghee ...... 2½ „ Gool ...... 6½ „ :: Percentage. :: Rs. | A. D. 1779. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 26 Seers. Bajree ...... 21½ „ Gram ...... 32 „ Toor ...... 20 „ Rice ...... 15 „ Naglee ...... 48 „ Jowaree .... 40 „ Oil ...... 9 „ Ghee ...... 2 „ Gool ...... 16 „ :: Ordinary Revenue. :: Rs. | A. D. 1779. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 26 Seers. Bajree ...... 21½ „ Gram ...... 32 „ Toor ...... 20 „ Rice ...... 15 „ Naglee ...... 48 „ Jowaree .... 40 „ Oil ...... 9 „ Ghee ...... 2 „ Gool ...... 16 „ :: Remissions. :: Rs. | A. D. 1779. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 26 Seers. Bajree ...... 21½ „ Gram ...... 32 „ Toor ...... 20 „ Rice ...... 15 „ Naglee ...... 48 „ Jowaree .... 40 „ Oil ...... 9 „ Ghee ...... 2 „ Gool ...... 16 „ :: Percentage. :: Rs. | A. D. 1782. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 32 Seers. Bajree ...... 32 „ Rice ...... 16 „ Oil ...... 9½ „ Ghee ...... 3 „ Gool ...... 16 „ :: Ordinary Revenue. :: Rs. | A. D. 1782. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 32 Seers. Bajree ...... 32 „ Rice ...... 16 „ Oil ...... 9½ „ Ghee ...... 3 „ Gool ...... 16 „ :: Remissions. :: Rs. | A. D. 1782. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 32 Seers. Bajree ...... 32 „ Rice ...... 16 „ Oil ...... 9½ „ Ghee ...... 3 „ Gool ...... 16 „ :: Percentage. :: Rs. | A. D. 1783. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 32 Seers. Bajree ...... 36 „ Toor ...... 36 „ Rice ...... 16 „ Oil ...... 9 „ Ghee ...... 3 „ Gool ...... 16 „ :: Ordinary Revenue. :: Rs. | A. D. 1783. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 32 Seers. Bajree ...... 36 „ Toor ...... 36 „ Rice ...... 16 „ Oil ...... 9 „ Ghee ...... 3 „ Gool ...... 16 „ :: Remissions. :: Rs. | A. D. 1783. :: Prices of Grain, &c., per rupee to the :: Wheat ...... 32 Seers. Bajree ...... 36 „ Toor ...... 36 „ Rice ...... 16 „ Oil ...... 9 „ Ghee ...... 3 „ Gool ...... 16 „ :: Percentage. :: Rs. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I. Prant Baglan .... | ... | .. | .. | .... | .... | .. | .. | .. | .. | 1,24,166 | 24,111 | 19 | 1,15,766 | 40,394 | 35 | 1,15,766 | 52,259 | 45 | ... | ... | ... | 1,15,626 | 41,693 | 36 | .... | .... | .. | .... | .... | .. |
+| II. Perg. Butawud .. | .... | .. | .. | .... | .. | .. | 47,500 | 28,920 | 61 | 45,583 | 12,949 | 28 | 64,572 | 49,857 | 77 | 14,715 | 11,113 | 76 | 20,435 | 3,903 | 19 | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| III. Perg. Bodwar .... | 19,593 | 6,535 | 33 | .... | .. | .. | 29,125 | 4,000 | 14 | .... | .... | .. | ... | ... | ... | ... | ... | ... | 29,304 | 10,113 | 35 | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| IV. Perg. Erundole, &c. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .... | .... | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | 1,14,128 | 19,915 | 17 | 1,59,135 | 42,713 | 27 | .... | .... | .. |
+| V. Perg. Bornar .... | .... | .. | .. | .... | .... | .. | .... | .... | .. | 21,021 | 6,475 | 31 | 25,810 | 13,557 | 52 | 20,000 | 8,474 | 42 | 16,001 | 11,082 | 69 | 17,400 | 9,781 | 56 | 16,939 | 7,065 | 42 | .... | .... | .. |
+| VI. Perg. Chansur .... | .... | .. | .. | .... | .. | .. | .. | .. | .. | .. | .... | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| VII. Perg. Amulnair .. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .. | .. | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| VIII. Perg. Rajdehur .. | .... | .. | .. | .... | .... | .. | .... | .. | .. | 7,059 | 714 | 10 | ... | ... | ... | 17,537 | 12,090 | 69 | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| IX. Perg. Ravere .... | .... | .. | .. | .... | .... | .. | .... | .... | .. | 1,01,993 | 22,803 | 22 | 1,06,000 | 12,561 | 12 | 1,06,000 | 36,193 | 34 | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| X. Perg. Julode .... | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. | 1,03,000 | 53,225 | 52 | ... | ... | ... | 62,300 | 28,746 | 46 | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XI. Perg. Jamnair .... | .... | .. | .. | .... | .. | .. | 1,20,000 | 33,394 | 28 | .. | .. | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XII. Perg. Nusseerabad. | .... | .. | .. | .... | .... | .. | .. | .. | .. | 1,42,624 | 54,855 | 38 | 1,66,000 | 1,03,569 | 62 | 1,35,000 | 47,908 | 35 | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XIII. Perg. Lahonair, &c. | .... | .. | .. | .... | .... | .. | .... | .... | .. | 62,728 | 17,097 | 27 | 73,956 | 34,991 | 41 | 75,069 | 47,125 | 63 | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XIV. Perg. Bhurgaum.. | .... | .. | .. | .... | .... | .. | .... | .... | .. | 5,905 | 2,298 | 39 | ... | ... | ... | 4,500 | 760 | 17 | ... | ... | ... | 4,500 | 628 | 14 | 4,351 | 1,272 | 29 | .... | .... | .. |
+| XV. Perg. Chopra.... | .... | .. | .. | 2,47,811 | 90,709 | 37 | 2,47,801 | 90,709 | 37 | 2,25,001 | 93,117 | 41 | 2,10,001 | 93,325 | 44 | 2,20,001 | 1,15,323 | 52 | 1,90,001 | 51,318 | 27 | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XVI. Perg. Chaleesgaon. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .. | .. | .. | 10,734 | 722 | 7 | 12,800 | 6,473 | 51 | 13,994 | 1,718 | 12 | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XVII. Perg. Bhamair .. | .... | .. | .. | .... | .... | .. | 82,217 | 15,626 | 19 | 1,36,647 | 14,491 | 11 | ... | ... | ... | ... | ... | ... | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XVIII. Perg. Bahal .... | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. | ... | ... | ... | 5,378 | 1,542 | 29 | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XIX. Perg. Dhoolia .. | .... | .. | .. | .... | .... | .. | .. | .. | .. | .... | .... | .. | 4,161 | 1,478 | 36 | 4,161 | 3,186 | 77 | ... | ... | ... | .... | .... | .. | 4,161 | 1,716 | 41 | 4,161 | 1,344 | 32 |
+| XX. Perg. Mhuswé .. | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XXI. Perg. Nair.. .... | .... | .. | .. | .... | .... | .. | .... | .. | .. | .. | .. | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | 25,818 | 6,817 | 26 | .... | .... | .. | .... | .... | .. |
+| XXII. Perg. Rayepoor .. | .... | .. | .. | .... | .... | .. | .... | .. | .. | .. | .. | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| XXIII. Perg. Nundoorbar. | .... | .. | .. | .... | .... | .. | .... | .. | .. | .... | .... | .. | ... | ... | ... | ... | ... | ... | ... | ... | ... | .... | .... | .. | .... | .... | .. | .... | .... | .. |
+| Total.... | 19,593 | 6,535 | 33 | 2,47,811 | 90,709 | 37 | 5,26,643 | 1,72,649 | 33 | 8,72,727 | 2,48,910 | 29 | 8,80,000 | 4,03,679 | 46 | 7,30,927 | 3,42,446 | 47 | 3,32,035 | 1,06,880 | 32 | 2,77,472 | 78,834 | 28 | 1,84,586 | 52,766 | 29 | 4,161 | 1,344 | 32 |
+| A. D. 1790. |  |  | A. D. 1791. |  |  | A. D. 1793. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 
 **extent that the Records furnish evidence.**
@@ -2874,7 +2752,7 @@ to the extent that the records furnish evidence.
 
 
 **Prices of Grain, &c., per rupee**
-| Rice.... 5 Seers. Wheat.. 5 „ Toor.... 9½ „ Gram .. 8 „ Jowaree. 7¼ „ Bajree.. 12½ „ Oodeed.. 12 „ Ghee .. 1½ „ Oil .... 3½ „ Gool .. 4 „ :: Ordinary Revenue. :: Rs. | Rice.... 5 Seers. Wheat.. 5 „ Toor.... 9½ „ Gram .. 8 „ Jowaree. 7¼ „ Bajree.. 12½ „ Oodeed.. 12 „ Ghee .. 1½ „ Oil .... 3½ „ Gool .. 4 „ :: Remissions. :: Rs. | Rice.... 5 Seers. Wheat.. 5 „ Toor.... 9½ „ Gram .. 8 „ Jowaree. 7¼ „ Bajree.. 12½ „ Oodeed.. 12 „ Ghee .. 1½ „ Oil .... 3½ „ Gool .. 4 „ :: Percentage. :: Rs. | Rice.... 7 Seers. Wheat .. 14¾ „ Toor .. 14½ „ Gram .. 12 „ Jowaree. 26¼ „ Bajree .. 21½ „ Moog .. 12 „ Ghee .. 2¼ „ Oil .... 4½ „ Gool.... 4¾ „ :: Ordinary Revenue. :: Rs. | Rice.... 7 Seers. Wheat .. 14¾ „ Toor .. 14½ „ Gram .. 12 „ Jowaree. 26¼ „ Bajree .. 21½ „ Moog .. 12 „ Ghee .. 2¼ „ Oil .... 4½ „ Gool.... 4¾ „ :: Remissions. :: Rs. | Rice.... 7 Seers. Wheat .. 14¾ „ Toor .. 14½ „ Gram .. 12 „ Jowaree. 26¼ „ Bajree .. 21½ „ Moog .. 12 „ Ghee .. 2¼ „ Oil .... 4½ „ Gool.... 4¾ „ :: Percentage. :: Rs. | Rice .... 8 Seers. Wheat .. 16½ „ Toor .... 13½ „ Gram .. 16 „ Jowaree.. 24 „ Bajree .. 18½ „ Oodeed. . 12 „ Moog .. 14½ „ Ghee .. 2¼ „ Oil .... 4¾ „ Gool.... 4½ „ :: Ordinary Revenue. :: Rs. | Rice .... 8 Seers. Wheat .. 16½ „ Toor .... 13½ „ Gram .. 16 „ Jowaree.. 24 „ Bajree .. 18½ „ Oodeed. . 12 „ Moog .. 14½ „ Ghee .. 2¼ „ Oil .... 4¾ „ Gool.... 4½ „ :: Remissions. :: Rs. | Rice .... 8 Seers. Wheat .. 16½ „ Toor .... 13½ „ Gram .. 16 „ Jowaree.. 24 „ Bajree .. 18½ „ Oodeed. . 12 „ Moog .. 14½ „ Ghee .. 2¼ „ Oil .... 4¾ „ Gool.... 4½ „ :: Percentage. :: Rs. | Rice .... 2¼ Seers. Wheat .. 3¼ „ Toor .... 3¼ „ Gram .... 30 „ Bajree .. 2¼ „ Moog .. 2¼ „ Ghee .... „ Oil...... 1¼ „ Gool .... 1¾ „ :: Ordinary Revenue. :: Rs. | Rice .... 2¼ Seers. Wheat .. 3¼ „ Toor .... 3¼ „ Gram .... 30 „ Bajree .. 2¼ „ Moog .. 2¼ „ Ghee .... „ Oil...... 1¼ „ Gool .... 1¾ „ :: Remissions. :: Rs. | Rice .... 2¼ Seers. Wheat .. 3¼ „ Toor .... 3¼ „ Gram .... 30 „ Bajree .. 2¼ „ Moog .. 2¼ „ Ghee .... „ Oil...... 1¼ „ Gool .... 1¾ „ :: Percentage. :: Rs. |
+| Rice.... 5 Seers. Wheat.. 5 „ Toor.... 9½ „ Gram .. 8 „ Jowaree. 7¼ „ Bajree.. 12½ „ Oodeed.. 12 „ Ghee .. 1½ „ Oil .... 3½ „ Gool .. 4 „ :: Ordinary Revenue. :: Rs. | Rice.... 5 Seers. Wheat.. 5 „ Toor.... 9½ „ Gram .. 8 „ Jowaree. 7¼ „ Bajree.. 12½ „ Oodeed.. 12 „ Ghee .. 1½ „ Oil .... 3½ „ Gool .. 4 „ :: Remissions. :: Rs. | Rice.... 5 Seers. Wheat.. 5 „ Toor.... 9½ „ Gram .. 8 „ Jowaree. 7¼ „ Bajree.. 12½ „ Oodeed.. 12 „ Ghee .. 1½ „ Oil .... 3½ „ Gool .. 4 „ :: Percentage. :: Rs. | Rice.... 7 Seers. Wheat .. 14¾ „ Toor .. 14½ „ Gram .. 12 „ Jowaree. 26¼ „ Bajree .. 21½ „ Moog .. 12 „ Ghee .. 2¼ „ Oil .... 4½ „ Gool.... 4¾ „ :: Ordinary Revenue. :: Rs. | Rice.... 7 Seers. Wheat .. 14¾ „ Toor .. 14½ „ Gram .. 12 „ Jowaree. 26¼ „ Bajree .. 21½ „ Moog .. 12 „ Ghee .. 2¼ „ Oil .... 4½ „ Gool.... 4¾ „ :: Remissions. :: Rs. | Rice.... 7 Seers. Wheat .. 14¾ „ Toor .. 14½ „ Gram .. 12 „ Jowaree. 26¼ „ Bajree .. 21½ „ Moog .. 12 „ Ghee .. 2¼ „ Oil .... 4½ „ Gool.... 4¾ „ :: Percentage. :: Rs. | Rice .... 8 Seers. Wheat .. 16½ „ Toor .... 13½ „ Gram .. 16 „ Jowaree.. 24 „ Bajree .. 18½ „ Oodeed. . 12 „ Moog .. 14½ „ Ghee .. 2¼ „ Oil .... 4¾ „ Gool.... 4½ „ :: Ordinary Revenue. :: Rs. | Rice .... 8 Seers. Wheat .. 16½ „ Toor .... 13½ „ Gram .. 16 „ Jowaree.. 24 „ Bajree .. 18½ „ Oodeed. . 12 „ Moog .. 14½ „ Ghee .. 2¼ „ Oil .... 4¾ „ Gool.... 4½ „ :: Remissions. :: Rs. | Rice .... 8 Seers. Wheat .. 16½ „ Toor .... 13½ „ Gram .. 16 „ Jowaree.. 24 „ Bajree .. 18½ „ Oodeed. . 12 „ Moog .. 14½ „ Ghee .. 2¼ „ Oil .... 4¾ „ Gool.... 4½ „ :: Percentage. :: Rs. | Rice .... 2¼ Seers. Wheat .. 3¼ „ Toor .... 3¼ „ Gram .... 30 „ Bajree .. 2¼ „ Moog .. 2¼ „ Ghee .... ¾ „ Oil...... 1¼ „ Gool .... 1¾ „ :: Ordinary Revenue. :: Rs. | Rice .... 2¼ Seers. Wheat .. 3¼ „ Toor .... 3¼ „ Gram .... 30 „ Bajree .. 2¼ „ Moog .. 2¼ „ Ghee .... ¾ „ Oil...... 1¼ „ Gool .... 1¾ „ :: Remissions. :: Rs. | Rice .... 2¼ Seers. Wheat .. 3¼ „ Toor .... 3¼ „ Gram .... 30 „ Bajree .. 2¼ „ Moog .. 2¼ „ Ghee .... ¾ „ Oil...... 1¼ „ Gool .... 1¾ „ :: Percentage. :: Rs. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 79,402 | 7,432 | 9 | .... | .... | .. | .... | .... | .. | .... | .... | .. |
 | 1,23,232 | 38,627 | 31 | 1,28,387 | 31,200 | 24 | 1,28,764 | 69,423 | 54 | .... | .... | .. |
@@ -2896,7 +2774,7 @@ to the extent that the records furnish evidence.
 
 <!-- page: 183 | folio: 171 -->
 
-##### **C.**
+#### **C.**
 
 ment, in the years of scarcity specified, in <span class="sc">Prant Gungthuree</span>, a district nearly corresponding <span class="sc">Ahmednuggur Collectorate</span>.
 
@@ -3044,10 +2922,11 @@ rupee to the extent that the records furnish evidence.
 
 ### **D.**
 
+the late Government in the years of scarcity specified, in the <span class="sc">Prants Poona</span> and limits of the present <span class="sc">Poona Collectorate</span>. of the Peishwa; there is no information respecting Jagheer and Surinjam Mahals.
+
 extent that the records furnish evidence.
 
 
-**the late Government in the years of scarcity specified, in the <span class="sc">Prants Poona</span> and limits of the present <span class="sc">Poona Collectorate</span>. of the Peishwa; there is no information respecting Jagheer and Surinjam Mahals.**
 | A. D. 1808. :: Rice .......... 16 Seers. Wheat .......... 16 „ Toor .......... 16 „ Oodeed .......... 16 „ Moog .......... 20 „ Gram .......... 14 „ Ghee .......... 2 „ Oil .......... 4 „ Gool .......... 6 „ :: Ordinary Revenue. :: Rs. | A. D. 1808. :: Rice .......... 16 Seers. Wheat .......... 16 „ Toor .......... 16 „ Oodeed .......... 16 „ Moog .......... 20 „ Gram .......... 14 „ Ghee .......... 2 „ Oil .......... 4 „ Gool .......... 6 „ :: Remissions. :: Rs. | A. D. 1808. :: Rice .......... 16 Seers. Wheat .......... 16 „ Toor .......... 16 „ Oodeed .......... 16 „ Moog .......... 20 „ Gram .......... 14 „ Ghee .......... 2 „ Oil .......... 4 „ Gool .......... 6 „ :: Percentage. :: Rs. | A. D. 1809. :: Rice .......... 16 Seers. Wheat .......... 16 „ Toor .......... 12 „ Gram .......... 14½ „ Ghee .......... 2 „ Oil .......... 5 „ Gool .......... 8 „ :: Ordinary Revenue. :: Rs. | A. D. 1809. :: Rice .......... 16 Seers. Wheat .......... 16 „ Toor .......... 12 „ Gram .......... 14½ „ Ghee .......... 2 „ Oil .......... 5 „ Gool .......... 8 „ :: Remissions. :: Rs. | A. D. 1809. :: Rice .......... 16 Seers. Wheat .......... 16 „ Toor .......... 12 „ Gram .......... 14½ „ Ghee .......... 2 „ Oil .......... 5 „ Gool .......... 8 „ :: Percentage. :: Rs. | A. D. 1810. :: Rice .......... 16 Seers. Toor .......... 9 „ Wheat .......... 22 „ Gram .......... 10 „ Oodeed .......... 22 „ Ghee .......... 2 „ Oil .......... 3 „ Gool .......... 7½ „ :: Ordinary Revenue. :: Rs. | A. D. 1810. :: Rice .......... 16 Seers. Toor .......... 9 „ Wheat .......... 22 „ Gram .......... 10 „ Oodeed .......... 22 „ Ghee .......... 2 „ Oil .......... 3 „ Gool .......... 7½ „ :: Remissions. :: Rs. | A. D. 1810. :: Rice .......... 16 Seers. Toor .......... 9 „ Wheat .......... 22 „ Gram .......... 10 „ Oodeed .......... 22 „ Ghee .......... 2 „ Oil .......... 3 „ Gool .......... 7½ „ :: Percentage. :: Rs. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1,08,951 | 25,846 | 24 | .... | .... | .. | .... | .... | .. |
@@ -3334,12 +3213,15 @@ XXX
 
 ment, in the years of scarcity specified, in those portions of <span class="sc">Prant Carnatic</span> which were said nearly to correspond with the limits of the <span class="sc">Collectorates of Sholapoor, Kulludghee</span>,
 
-A. D. 1804. — A. D. 1805. — A. D. 1806. — A. D. 1808. — A. D. 1810.
+Jagheer and Surinjam Mahals.
 
 
-**the extent that the records furnish evidence.**
-| Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „ :: Ordinary Revenue. :: Rs. | Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „ :: Remissions. :: Rs. | Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „ :: Percentage. :: Rs. | Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Ordinary Revenue. :: Rs. | Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs. | Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Percentage. :: Rs. | Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Ordinary Revenue. :: Rs. | Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Remissions. :: Rs. | Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs. | Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs. | Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Remissions. :: Rs. | Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Percentage. :: Rs. | Jowaree .. 44 Seers. Gram .... 20 „ :: Ordinary Revenue. :: Rs. | Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs. | Jowaree .. 44 Seers. Gram .... 20 „ :: Percentage. :: Rs. |
+| A. D. 1804. | A. D. 1805. | A. D. 1806. | A. D. 1808. | A. D. 1810. | Column 6 | Column 7 | Column 8 | Column 9 | Column 10 | Column 11 | Column 12 | Column 13 | Column 14 | Column 15 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| the extent that the records furnish evidence. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rice...... 4 Seers. Toor .... 10 „ Wheat ... 4½ „ Bajree .... 10 „ Jowaree .. 13 „ Gram .... 13 „ Ghee .... 1¼ „ Oi! ..... 1¾ „ Gool .... 3¾ „ | Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ | Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ | Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ | Jowaree .. 44 Seers. Gram .... 20 „ |  |  |  |  |  |  |  |  |  |  |
+| Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. | Ordinary Revenue. | Remissions. | Percentage. |
+| Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. | Rs. |
 | .... | .... | .. | 1,09,316 | 13,580 | 12 | 71,484 | 12,162 | 17 | .... | .... | .. | .... | .... | .. |
 | .... | .... | .. | .... | .... | .. | .... | .... | .. | .... | .... | .. | .... | .... | .. |
 | .... | .... | .. | .... | .... | .. | .... | .... | .. | .... | .... | .. | .... | .... | .. |
@@ -3515,7 +3397,7 @@ the extent that the records furnish evidence.
 Government, in the years of scarcity specified, in those portions of <span class="sc">Prant Concan</span> which said nearly to correspond with the limits of the <span class="sc">Collectorates of Tanna</span> and <span class="sc">Rutnagherry</span>,
 
 
-##### Jagheer and Surinjam Mahals.
+#### Jagheer and Surinjam Mahals.
 
 the extent that the records furnish evidence.
 
@@ -3634,14 +3516,12 @@ Alienation Settlement Officer, S. D.
 > _[Margin: Mr. Henshaw’s suggestion in February 1804 to send the surplus rice intended for General Welles-ley for the local consumption of Poona, &c.]_
 > _[Margin: Answer : Government leaving to his judgment to propose the apportionment of the home sales and exports.]_
 
-The Honorable Sir Arthur Wellesly having declined the further supply of rice intended to have been sent to Poona, Mr. Henshaw proposed, in a letter to the Secretary to Government of the 16th of February, to bring the same, and also the arranged supply in aid of Poona, into market in regulated portions, and for exportation to Poona and the adjacent countries, “ having (as Mr. Henshaw concludes) ever in view the objects pointed out to him by Government ;” in reply to which it was, on the 18th of the same month and year, signified to him that
-
-Government left to his judgment to propose the appointment of the rice to be sold here, and of the quantity to be exported, having always in view to guard the Company from loss throughout the whole concern, and on the 22nd his proposed appropriations thereof, both for home consumption and for exportation, received the sanction of Government.
+The Honorable Sir Arthur Wellesly having declined the further supply of rice intended to have been sent to Poona, Mr. Henshaw proposed, in a letter to the Secretary to Government of the 16th of February, to bring the same, and also the arranged supply in aid of Poona, into market in regulated portions, and for exportation to Poona and the adjacent countries, “ having (as Mr. Henshaw concludes) ever in view the objects pointed out to him by Government ;” in reply to which it was, on the 18th of the same month and year, signified to him that Government left to his judgment to propose the appointment of the rice to be sold here, and of the quantity to be exported, having always in view to guard the Company from loss throughout the whole concern, and on the 22nd his proposed appropriations thereof, both for home consumption and for exportation, received the sanction of Government.
 
 > _[Margin: His proposed export to Surat.]_
 > _[Margin: Mr. Henshaw’s suggestion agreed to on the 22nd February 1804, reducing the privilege of the export of grain to one-fourth of the imports of rice, &c. except-ing to Surat, whither one moiety might be sent.]_
 
-15\.   The next notice that appears on the public records is a letter to me from Mr. Henshaw, proposing, under date the 21st February 1804, immediate transmission of 10,000 bags of rice to the Magistrate at Surat, in consequence of the great alarm that had arisen there as to the probable extent of the increasing scarcity in that quarter, to which, on the day following, the Board agreed, as well as to a farther suggestion that in his aforesaid letter Mr. Henshaw had submitted to me of a reduction of the exports to one-fourth of the imports of rice and other grain, excepting to Surat, where they should be allowed, under regulation, to the extent of onehalf, which orders issuing from the Board, although the letter was addressed [p. 200] to me, comes in further illustration of the principe that I have already explained to have generally regulated my conduct in respect to my intercourse on grain subjects with Mr. Henshaw.
+15\.   The next notice that appears on the public records is a letter to me from Mr. Henshaw, proposing, under date the 21st February 1804, immediate transmission of 10,000 bags of rice to the Magistrate at Surat, in consequence of the great alarm that had arisen there as to the probable extent of the increasing scarcity in that quarter, to which, on the day following, the Board agreed, as well as to a farther suggestion that in his aforesaid letter Mr. Henshaw had submitted to me of a reduction of the exports to one-fourth of the imports of rice and other grain, excepting to Surat, where they should be allowed, under regulation, to the extent of one-half, which orders issuing from the Board, although the letter was addressed [p. 200] to me, comes in further illustration of the principe that I have already explained to have generally regulated my conduct in respect to my intercourse on grain subjects with Mr. Henshaw.
 
 > _[Margin: Mr. Henshaw's report on the 13th of March of a large quantity of grain being nearly smuggled off of the Islands, and proceedings thereon.]_
 > _[Margin: Connection of the subject with the charge against his Purvoe in the Court.]_
@@ -3760,9 +3640,7 @@ the key to that observation may be probably found in a report from the Custom Ma
 
 > _[Margin: Indication from Surat of undue fees being taken for permission to export grain.]_
 
-35\. Under date the 6th of September the Magistrate at Surat advised me (as per Correspondence in the voucher No. 3) of the desire of some of the merchants at Surat to have permission to export from
-
-Bombay such quantities of Bengal rice as might alleviate in that quarter the distress of the season, provided they could do so free of any customs or fees. Upon the receipt of the intimation, I directed Mr. Shank, my Private Secretary, to write to know whether there were fees of any description (not having then immediately in recollection whether the Custom House Regulations did not authorise some) on the exportation of grain; to which Mr.
+35\. Under date the 6th of September the Magistrate at Surat advised me (as per Correspondence in the voucher No. 3) of the desire of some of the merchants at Surat to have permission to export from Bombay such quantities of Bengal rice as might alleviate in that quarter the distress of the season, provided they could do so free of any customs or fees. Upon the receipt of the intimation, I directed Mr. Shank, my Private Secretary, to write to know whether there were fees of any description (not having then immediately in recollection whether the Custom House Regulations did not authorise some) on the exportation of grain; to which Mr.
 
 > _[Margin: Mr. Henshaw's denial thereof.]_
 
@@ -3996,24 +3874,24 @@ I am, yours,
 
 <!-- page: 242 | folio: 230 -->
 
-##### *15th October* 1803.
+#### *15th October* 1803.
 
 <span class="sc">Honorable Sir</span>,—Twelve hundred robins of rice are just entered from Mangalore. The owner has sold it to the *second* man at 5-2-50 the robin of best sort, and 4-2-50 the robin of the second sort. This sale was conditional that Government permitted it; the second man has been with me, and is willing to give up for two annas each robin profit; allow me, good Sir, to suggest that this be purchased for the Company, and instantly retailed; the best of consequences will result therefrom, and, if you see no solid objection, I would recommend all future imports during the next thirty days to be purchased in the same manner. I will manage it for your comfort and honour. Believe me,
 
 Honorable Sir, Yours, &c., (Signed) R. HENSHAW.
 
 
-##### *15th October* 1803.
+#### *15th October* 1803.
 
 
-##### R. HENSHAW, <span class="sc">Esq</span>.,
+#### R. HENSHAW, <span class="sc">Esq</span>.,
 
 <span class="sc">Dear Sir</span>,—I entirely approve of your purchasing the rice now imported, and selling it in such manner as you shall see most likely to produce the greatest general relief. I have told Mr. Halliday that I leave it to you to supply his shops. He will speak to you on the subject.
 
 I am, yours, (Signed) J. DUNCAN.
 
 
-##### *16th October* 1803.
+#### *16th October* 1803.
 
 <span class="sc">Honorable Sir</span>,—I was honored with your letter yesterday evening, and being in the carriage for an airing, I delayed its immediate reply.
 
@@ -4024,17 +3902,17 @@ The robin or morah of Mangalore weighs, when first packed, eighty-two No. pounds
 Honorable Sir, Yours, &c., (Signed) R. HENSHAW.
 
 
-##### *2nd December* 1803.
+#### *2nd December* 1803.
 
 <span class="sc">Honorable Sir</span>,—I have a very large supply of copper pice received from Mr. Halliday, the produce of the sales of the rice at the Sirkar's shops, amounting to Rupees 20,000. This pice is only to be exchanged for a loss of two or three per cent., and the merchants from whom I purchased rice will not receive it, but require gold or silver to avoid loss. Could it not be received into the Treasury, and gold delivered me in return, to enable me to discharge the rice bills? I submit this for your determination: being with all respect.
 
 Honorable Sir, Yours, &c., (Signed) R. HENSHAW.
 
 
-##### *2nd December* 1803.
+#### *2nd December* 1803.
 
 
-##### ROBERT HENSHAW, Esq.,
+#### ROBERT HENSHAW, Esq.,
 
 <span class="sc">Dear Sir</span>,—Let the pice be sent to the Treasury. It is a pity you kept it till it had so far accumulated as to render it inconvenient to return the whole in gold immediately, but you shall receive a few thousands at a time as you may want.
 
@@ -4049,7 +3927,7 @@ We have written to Mr. Ravenshaw as you suggested, but will he have tonnage to s
 I am, yours, (Signed) J. DUNCAN.
 
 
-##### *3rd December* 1803.
+#### *3rd December* 1803.
 
 <span class="sc">Honorable Sir</span>,—I had the honor of your note late yesterday, or would have instantly replied thereto. I beg you will be assured that I have never lost sight of the distress your Treasury is in, and to that alone is to be attributed the accumulation of the pice, which until these few days could be exchanged without more loss than ¼ or ½ per cent., and which the grain merchants took at par. My anxiety not to trouble you made me keep it in hopes the whole sum might be passed in payment, and yesterday evening, subsequent to my note to you, I paid away seven thousand Rupees, and have only thirteen thousand, which is going to the Treasury, and as I may find call for it, will apply for gold in lieu.
 
@@ -4068,20 +3946,20 @@ I have the honor to be, &c. (Signed) R. HENSHAW.
 
 <!-- page: 245 | folio: 233 -->
 
-##### *7th December* 1803.
+#### *7th December* 1803.
 
 
-##### H. SHANK, Esq.
+#### H. SHANK, Esq.
 
 <span class="sc">Dear Shank</span>,—I pray you state to the Governor that I could not correctly till this morning answer his query as to the price at which good Bengal Moonghy rice is to be purchased here: some few thousand bags may be now purchased for five Rupees, two quarters, and twenty-five reas (5-2-25), exclusive of brokerage, payable in Bengal Bills at the exchange of the day; but I would not wish Government to beat down the price below six Rupees per bag, at which price if we can keep the bag there will be no hazard of a want, as it affords the trader a fair gain, and will prove inducement sufficient to bring it to market: whereas, if lower, the stimulus is destroyed, and the intelligence now reaching Bengal, not another vessel will load for this with grain. If the Governor sees no objection, I would suggest my now purchasing what good Bengal Moonghy rice offers for sale at six or under six for Bengal Bills, and this, I think, will be attended with the best effects.
 
 Yours truly, (Signed) R. HENSHAW. .
 
 
-##### *14th December* 1803.
+#### *14th December* 1803.
 
 
-##### ROBERT HENSHAW, Esq.,
+#### ROBERT HENSHAW, Esq.,
 
 <span class="sc">Dear Sir</span>,—I do not find that any boats are arriving from Mr. Ravenshaw. Perhaps it would be best to hire a vessel at once and send down there. I wait, however, your opinion. They write from Poona that grain is getting very scarce there, and they wish to send down the native Brinjaries to purchase here for the community of that place. Has any rice been yet re-exported out of the one-third proportion that you recommended? I rely on your keeping your eye on the market with a view to provide always—first, for our armies above the Ghauts to the extent of General Wellesley's commission of 1,000 garce; and secondly, for our population here. Perhaps it would not be amiss to buy even now another ship's cargo, provided they will accept payment by Bills on Bengal at the exchange of the day, *i.e.* the Company's and not the Bazaar exchange.
 
@@ -4090,7 +3968,7 @@ I am, yours, (Signed) J. DUNCAN.
 
 <!-- page: 246 | folio: 234 -->
 
-##### *16th December* 1803.
+#### *16th December* 1803.
 
 <span class="sc">Honorable Sir</span>,—I have reflected very seriously on what you mentioned in your last note to me of the scarcity at Poona; if you are satisfied as to the truth thereof, and convinced that the Government there will expect your sanction for their Brinjaries purchasing grain here, I am, on every view of this matter, convinced that it will be no more than barely prudent in Government to purchase to the extent of one lac of bags, if to be done at six Rupees the bag of Moonghy rice, and so in proportion of other grain—this independent of prior arrangements. By this measure the market will be sure to be kept supplied to answer every emergency, and Government will by having such store reserve to themselves the proper check over the markets and prevent monopolizing, having the means at any time when they see fit to lower the price, and thereby protect the poor from those harpies the grain dealers.
 
@@ -4099,7 +3977,7 @@ I am, Honorable Sir, &c.,
 (Signed) R. HENSHAW.
 
 
-##### *29th December* 1803.
+#### *29th December* 1803.
 
 <span class="sc">Honorable Sir</span>,—I have hitherto managed to bear the Honorable Company harmless as to every expense of Assistants, Purvoes, &c., for the grain department, but I now find it presses very hard upon me, and becomes overburdensome, so as to induce me to request you will permit me to employ Mr. Whitehill to assist me, with one good Purvoe; and as they will have very full employment, I hope you will not think me extravagant in recommending Mr. W. for a monthly allowance of two hundred Rupees, and a Purvoe for one of fifty Rupees.
 
@@ -4108,7 +3986,7 @@ I am, &c.
 (Signed) R. HENSHAW.
 
 
-##### *29th December* 1803.
+#### *29th December* 1803.
 
 ROBERT HENSHAW, Esq.
 
@@ -4157,7 +4035,7 @@ I am, &c.
 *22nd January* 1804.
 
 
-##### <span class="sc">Robert Henshaw</span>, Esq.
+#### <span class="sc">Robert Henshaw</span>, Esq.
 
 <span class="sc">Dear Sir</span>,—As I leave you to judge of the regulation of the market, I approve entirely of your intention to throw from 4 to 6,000 bags into the local consumption, by way of keeping the price from rising too high.
 
@@ -4170,7 +4048,7 @@ I am,
 *1st February* 1804.
 
 
-##### <span class="sc">Robert Henshaw</span>, Esq.
+#### <span class="sc">Robert Henshaw</span>, Esq.
 
 <span class="sc">Dear Sir</span>.—I feel much at a loss to account for the different results of the comparisons made here and at Poona of the Bengal and Canara rice. Perhaps the assortment or parcels whence Colonel Coleman's Committee made theirs was from the first rice despatched by Mr. Walkenshaw, whilst yours may have been from the last: the former consisted, I fancy, of old rice not very good, but still sound; the latter may be the new rice of the growth of the late harvest, or otherwise to account for so great a difference I should suspect something unfair was done to the grain on its passage from Bombay to Poona. Your further opinion will therefore oblige
 
@@ -4199,20 +4077,20 @@ I am, &c.,
 
 <!-- page: 250 | folio: 238 -->
 
-##### *7th February* 1804.
+#### *7th February* 1804.
 
 
-##### R. HENSHAW, <span class="sc">Esq.</span>
+#### R. HENSHAW, <span class="sc">Esq.</span>
 
 <span class="sc">Dear Sir,</span>—I enclose for your private information the letter I have yesterday received from Mr. Ravenshaw, of whose pretensions I am, in an equitable point of view, inclined to think favorably, but by granting two commissions to you and to him, I apprehend that we shall either too much enhance the value of the rice to the consumer, or subject the Company to loss, both which I wish to avoid. I will, therefore, be glad to receive your sentiments on what may constitute an eligible means of fair and reasonable remuneration to both of you, without too great enhancement of the price of the article. Now that more Canara rice is come up, I wish the sepoys to have their rations from it at the usual price to them, supposing it will cover the Company's cost and charges.
 
 I am yours, (Signed) J. DUNCAN.
 
 
-##### *17th February* 1804.
+#### *17th February* 1804.
 
 
-##### R. HENSHAW, <span class="sc">Esq.</span>
+#### R. HENSHAW, <span class="sc">Esq.</span>
 
 <span class="sc">Dear Sir,</span>—I wish to receive from you a rough estimate of the value of the rice as purchased and shipped by Mr. Ravenshaw, and to be so till the end of the season, and a similar one of your own sales here, both of Canara and Bengal rice. I wish to have this to-day, if you can get it ready ; I do not expect you to be quite accurate in such a calculation.
 
@@ -4221,7 +4099,7 @@ I am yours, (Signed) J. DUNCAN.
 The one of Mr. R.'s purchases is, however, what I want the soonest.
 
 
-##### *17th February* 1804.
+#### *17th February* 1804.
 
 <span class="sc">Honorable Sir,</span>—I was stepping into a boat to go on board the yacht to breakfast with my family when your note reached me, and from some unlucky circumstance the boat that was to have returned on board for me never came till past one o'clock, or I should sooner have replied to your reference. Not having to this hour been furnished with any accounts from Mr. Ravenshaw, I can only offer a conjectural estimate of the price of the rice received [p. 239] and to be received from him, which I enclose for your consideration, as also a statement of my sales, not only of Canara and Bengal rice, but also of Bengal wheat, gram, and dholl, and also bajree and Northern wheat.
 
@@ -4240,10 +4118,10 @@ I am, &c., (Signed) R. HENSHAW.
 (Signed) R. HENSHAW. *Bombay, 17th February* 1804.
 
 
-##### *25th March* 1804.
+#### *25th March* 1804.
 
 
-##### R. HENSHAW, <span class="sc">Esq.</span>
+#### R. HENSHAW, <span class="sc">Esq.</span>
 
 <span class="sc">Dear Sir,</span>—Although I am very glad to find it your opinion that we can with perfect safety supply Goa with grain, yet you will keep in remembrance that 2,000 bags must at least be reserved for Surat during the rains, and to be sent up there in all the month of May.
 
@@ -4301,17 +4179,17 @@ Endorsed on the above, in the handwriting of General Wellesley—
 > “Will you be so kind as to give these orders, and oblige Your faithful Servant, (Signed)       ARTHUR WELLESLEY.”
 
 
-##### 16*th June* 1804.
+#### 16*th June* 1804.
 
 <span class="sc">Honorable Sir</span>,—No application on account of Captain Barclay has ever been preferred to me for any export of grain. Had it, I should first have submitted to your judgment the authority for the application, and been guided by your orders; but I trust none of them, for there are hundreds of notes daily presented in gentlemen’s names w hich I ever disregard unless accompanied by a letter to me as Custom Master. The expedients resorted to to carry grain off the Island are so many, and frequently so arranged, that nothing but the eyes of Argus himself can detect and counteract. The man who has taken Captain Barclay’s name I shrewdly suspect is an impostor. He has no authority, and nothing to produce but an old Paishwa’s rahdaree, that serves for any one, and is dated so far back as 3rd April last; but whatever you please to direct shall be obeyed.
 
 I am, &c. (Signed)       R. HENSHAW.
 
 
-##### 17*th June* 1804.
+#### 17*th June* 1804.
 
 
-##### <span class="sc">Robert Henshaw</span>, Esq.
+#### <span class="sc">Robert Henshaw</span>, Esq.
 
 <span class="sc">Dear Sir</span>,—I had at the first glance concluded the pass in the hand of Captain Barclay’s servant to be under the seal of General Wellesley, and not that of the Paishwa, because the latter never impresses his on wax. However, as you had a different idea, I have got the writing translated, and now transmit you a copy of Mr. Bouchier’s translation, which sufficiently ascertains the fact with respect to the eight bullock-loads of chenna. If the quantity in Town will, in view to the season and our local calls for that grain, admit, in your opinion, of its export, it is certainly my desire it should go, but not otherwise, *i.e.* not to our material distress.
 
@@ -4371,17 +4249,17 @@ I am, &c.,
 <span class="sc">Dear Sir</span>,—I much regret the delay that has taken place in the execution of the order for sending up the rice to Surat, which may produce very serious consequences to that city; at all events, you will take care that not one moment's delay ensues in sending up the 20,000 bags ordered. [p. 244] Considering also the unfavorable prospects of the season, and the large calls we shall probably have for our own wants, I think it proper you should not dispose of any more rice for exportation till you have laid your report of the stock on hand and expectancies before Government, as you will accordingly do with the least delay, and obtain their orders. I am yours, (Signed) J. DUNCAN.
 
 
-##### *27th August* 1804.
+#### *27th August* 1804.
 
 
-##### <span class="sc">Mr. Henshaw</span>.
+#### <span class="sc">Mr. Henshaw</span>.
 
 <span class="sc">Dear Sir</span>,—Notwithstanding what I wrote to you yesterday as to discontinuing farther sales till you can report your opinion, I would, on further consideration, rather leave that matter to your discretion, in which I feel persuaded that every confidence may be placed ; and perhaps it may be best not altogether to refuse the proposals of purchasers, but always to reserve *enough for our utmost wants*. I am yours, (Signed) J. DUNCAN.
 
 *P.S.*—Has the rice for Surat gone off ?
 
 
-##### *27th August* 1804.
+#### *27th August* 1804.
 
 <span class="sc">Honorable Sir</span>,—I am much flattered by your confidence, which you may rest assured shall not be ill applied by any exercise of my discretion as to sales for export, nor shall I ever lose sight of the calls on our store, and the even *possible* want of our own Islands and neighbours. After despatching the full quantity to Surat, the 10,000 for Gundavim, and the 10,000 for Poona, we shall only have a surplus of 11,000 bags over and above our fixed store stock of 50,000 bags. I before wrote you this day that the rice began to move off last night, and it is loading as fast as we can get the craft prepared for its reception, and you may rely that not an instant shall be lost in its despatch to Surat.
 
@@ -4390,23 +4268,23 @@ I will send the man to Mr. Grant with copy of his engagement for the rice at Goa
 In regard to the rice for Gundavim, I have a note from Mr. Shank this instant to repack it in small bags, &c. If you see no objection, will it not [p. 245] be better to direct Moor as Garrison Storekeeper to receive it from me, and prepare it as directed in Mr. Shank's note? for in truth, in our department we are just now up the very shoulders in business, and ill able to cope with any additional. I am, &c., (Signed) R. HENSHAW.
 
 
-##### *5th September* 1804.
+#### *5th September* 1804.
 
 
-##### <span class="sc">Mr. Henshaw</span>.
+#### <span class="sc">Mr. Henshaw</span>.
 
 <span class="sc">Dear Sir</span>,—I am very doubtful whether anything should induce us to heighten our bazaar prices, but according to the regulations nothing can be done in respect to altering either, excepting upon a public report and official suggestions from you, such as the Board at large may exercise their judgment on. I therefore advise your making such report, stating your sentiments at large. I am yours, (Signed) J. DUNCAN.
 
 
-##### 8*th September* 1804.
+#### 8*th September* 1804.
 
 
-##### <span class="sc">Mr. Henshaw</span>.
+#### <span class="sc">Mr. Henshaw</span>.
 
 <span class="sc">Dear Sir</span>,—If there be any vessel lately come in with rice, and not yet unladen, that can be tempted by pecuniary consideration to go up to Surat with what she has on board, let her be engaged to set off immediately at any expense or charge the party may require. Nothing could have happened so unluckily as this disappointment in not being able to send rice to Surat. Had that taken place even to a few boat-loads when the first cruizers went up, previous to which you had, I think, the order, much cause of regret would have been precluded, and the delay from the intermediate change of weather avoided. I am yours, (Signed) J. DUNCAN.
 
 
-##### *8th September* 1804.
+#### *8th September* 1804.
 
 <span class="sc">Honorable Sir</span>,—Three boats with rice to the amount of 2,200 bags left this five days previous to the sailing of the first cruizers for Surat, yet even these met the same tempestuous weather; two have got into Versovah, and one is still to be accounted for. I had your orders on the 25th, and lost not [p. 246] a moment to meet your wishes. On the 28th one boat with 650 bags sailed, on the 29th two more with 1,550 sailed, and on the 2nd six more with 3,800 bags sailed, under charge of the *Princess Augusta*, which vessel, I learn from Mr. Anderson, experienced extreme bad weather and was in imminent danger. No one more truly regrets the disappointment than myself, but I cannot, on any view of the case, see room for the smallest censure to attach to any one concerned, convinced that everything has been done that was possible to be effected.
 
@@ -4437,7 +4315,7 @@ I am, &c. (Signed) R. HENSHAW.
 *9th November* 1804.
 
 
-##### <span class="sc">Mr. Henshaw.</span>
+#### <span class="sc">Mr. Henshaw.</span>
 
 <span class="sc">Dear Sir</span>,—It is probable that in forwarding your query about horse grain to Colonel Close, he may want to have his memory refreshed by a clear statement of our engagements, inclusive of our Mysore expectancies; I will, therefore, thank you to send me to-day such a memorandum to enclose to him.
 
@@ -4476,7 +4354,7 @@ Recent engagement with Sorabjee Cowasjee for 3,500 bags concluded, to be on boar
 *8th March* 1805.
 
 
-##### <span class="sc">Mr. Henshaw</span>.
+#### <span class="sc">Mr. Henshaw</span>.
 
 <span class="sc">Dear Sir</span>,—We have long been waiting for your General Report respecting the grain of this season, and the amount of our probable wants in this respect between this and October and November next, and whether it be necessary to prevent still the export of grain in the like proportion as hitherto.
 
@@ -4485,17 +4363,17 @@ I am yours,
 (Signed) J. DUNCAN.
 
 
-##### No. 2.
+#### No. 2.
 
 
-##### *Extract of a Letter from the Honorable* <span class="sc">Jonathan Duncan</span>, *to the Honorable General* <span class="sc">Wellesley</span>, *dated 27th June* 1804.
+#### *Extract of a Letter from the Honorable* <span class="sc">Jonathan Duncan</span>, *to the Honorable General* <span class="sc">Wellesley</span>, *dated 27th June* 1804.
 
 With respect to Colonel Close's proposition to open our Port for an unlimited export, I have consulted Mr. Henshaw, and send you his letter. I fear to take any step in so delicate a matter that a man of his knowledge of the subject deems a dangerous one, but we are ready to sell to all who come to buy to the extent noticed in Mr. Henshaw's report, which is probably more than will be called for. Colonel Close may always give letters to Mr. Henshaw, specifying the quantity desired to be purchased from the Company [p. 249] at their prices, of which he is apprised, viz. at 10 Rs. per bag of 168 gross lbs. of Moonghy rice, and at 12 Rs. for Patcherry rice, and which is distinct from the one-fourth that all importers are allowed to dispose of in like manner on their own account. Will you, however, favour me with your sentiments on Mr. Henshaw's letter now sent?
 
 The following is an enclosure to the above:—
 
 
-##### <span class="sc">The Honorable the Governor</span>.
+#### <span class="sc">The Honorable the Governor</span>.
 
 <span class="sc">Honorable Sir</span>,—I pray your excuse for not more immediately replying to your reference of the extract of General Wellesley's letter. It is on a subject that has occupied my thoughts incessantly for months past, and now completely engrosses them, to the almost total exclusion of every other object.
 
@@ -4512,7 +4390,7 @@ Honorable Sir, yours, &c.
 *Bombay, 12th July 1804.*
 
 
-##### <span class="sc">To Colonel Close</span>.
+#### <span class="sc">To Colonel Close</span>.
 
 <span class="sc">My Dear Sir</span>,—The Honorable Major General Wellesley having suggested to my consideration here an idea that he said you entertained of the advantage that would accrue by our laying open the trade of this Port altogether as far as regarded the exportation of grain to the Continent, I transmit (lest the General should not have sent it to you) Mr. Henshaw's reflections on that proposition, which I will wait to be favoured with your [p. 250] further sentiments on before I determine on even bringing before the Board a question involved, as this seems to be, in a good deal of nicety.
 
@@ -4531,12 +4409,11 @@ Your very faithful and obedient Servant,
 
 <!-- page: 263 | folio: 251 -->
 
-##### *Poona, 15th July* 1804.
+#### *Poona, 15th July* 1804.
 
-> _[Margin: c. er. was tain gene and d agemen]_
 > _[Margin: Colonel  on Mahratta manageme]_
 
-<span class="sc">Dear Sir,</span>—I am just favoured with your letter of the 12th instant. While the fair season lasted I was particular in inquiring into the state of the city in respect to a stock of grain to answer the general consumption during the monsoon, and the result was that on every occasion I had reason to be satisfied that the quantity collected by the principal dealers was ample. The Paishwa's Dewan told me that during the rains rice would sell at four seers for the Rupee. Finding, however, that previous to the commencement of the monsoon rice in the city generally sold at a price much higher than was justifiable in reference to the rate of purchase at Bombay, I repeatedly made the most urgent applications to the Paishwa's Government to adopt some system of conduct to oblige the dealers to sell at a just price, and thus prevent them from defeating your humane exertions in facilitating the export of rice from your presidency. In reply to my urgency I always received the most satisfactory promises; the Paishwa, to manifest his disposition towards the poor, remitted all duties, and enjoined the dealers to lower their prices. His orders, however, on the latter point failed of effect, and under this circumstance there was strong reason to apprehend that the real cause of the extreme dearness at Poona originated in a wicked collusion between the dealers and the principal persons in authority under the Paishwa's Government. Exorbitant profit on the part of the dealers may well afford a handsome bribe, and, indeed, it is no secret that from early times it has been the uniform practice of the principal servants of the Poona Government to derive a considerable revenue from the dealers of the city, in return for permitting them to plunder the public by selling at prices dictated by their inhumanity and sordidness. Finding of late that grain rose materially in price, I became particularly loud and importunate with the Durbar, but this produced (as far as I can discover) nothing but a farce; the Durbar people scolded the dealers, and even allowed the public servants to take grain forcibly from them [?r?]easonable rate; the consequence was that the shops were shut up, and [?w?]ould procure subsistence but those who were capable of violence and [?were?] disposed to use it. The Government has since conciliated the dealyesterday promised to sell rice at 2[?½?] seers for the Rupee, and a little [?ch?]ased at that rate. The state of things to-day I have not yet ascer[?bu?]t I imagine the shops are open. You will perceive, then, that our [?dis?]tress proceeds chiefly from artificial want suggested by iniquity [?and r?]ooted corruption. Had I power to interfere in the internal man-[?t of t?]he Paishwa's Government, I might be able to cleanse the sink of Poona corruption, but under the existing system of connection to enter on the labour even is impracticable. I hardly conceive that the above descriptive recital [p. 252] will excite your surprise, but to minds accustomed only to the sympathies of Western civilization it may become matter of amazement how one part of the innocent natives can be so hard-hearted towards the other as to fatten themselves on their ruin. A short experience above the Ghauts would now actually demonstrate, notwithstanding all the noise of our declaimers, that even the Brahmin rule is not to be·preferred to British domination.
+<span class="sc">Dear Sir,</span>—I am just favoured with your letter of the 12th instant. While the fair season lasted I was particular in inquiring into the state of the city in respect to a stock of grain to answer the general consumption during the monsoon, and the result was that on every occasion I had reason to be satisfied that the quantity collected by the principal dealers was ample. The Paishwa's Dewan told me that during the rains rice would sell at four seers for the Rupee. Finding, however, that previous to the commencement of the monsoon rice in the city generally sold at a price much higher than was justifiable in reference to the rate of purchase at Bombay, I repeatedly made the most urgent applications to the Paishwa's Government to adopt some system of conduct to oblige the dealers to sell at a just price, and thus prevent them from defeating your humane exertions in facilitating the export of rice from your presidency. In reply to my urgency I always received the most satisfactory promises; the Paishwa, to manifest his disposition towards the poor, remitted all duties, and enjoined the dealers to lower their prices. His orders, however, on the latter point failed of effect, and under this circumstance there was strong reason to apprehend that the real cause of the extreme dearness at Poona originated in a wicked collusion between the dealers and the principal persons in authority under the Paishwa's Government. Exorbitant profit on the part of the dealers may well afford a handsome bribe, and, indeed, it is no secret that from early times it has been the uniform practice of the principal servants of the Poona Government to derive a considerable revenue from the dealers of the city, in return for permitting them to plunder the public by selling at prices dictated by their inhumanity and sordidness. Finding of late that grain rose materially in price, I became particularly loud and importunate with the Durbar, but this produced (as far as I can discover) nothing but a farce; the Durbar people scolded the dealers, and even allowed the public servants to take grain forcibly from them […]easonable rate; the consequence was that the shops were shut up, and […]ould procure subsistence but those who were capable of violence and c[…]y disposed to use it. The Government has since conciliated the deal-er[…] yesterday promised to sell rice at 2½ seers for the Rupee, and a little was […]ased at that rate. The state of things to-day I have not yet ascer-tain[…]t I imagine the shops are open. You will perceive, then, that our gene[…]tress proceeds chiefly from artificial want suggested by iniquity and d[…]oted corruption. Had I power to interfere in the internal man-agemen[…]he Paishwa's Government, I might be able to cleanse the sink of Poona corruption, but under the existing system of connection to enter on the labour even is impracticable. I hardly conceive that the above descriptive recital [p. 252] will excite your surprise, but to minds accustomed only to the sympathies of Western civilization it may become matter of amazement how one part of the innocent natives can be so hard-hearted towards the other as to fatten themselves on their ruin. A short experience above the Ghauts would now actually demonstrate, notwithstanding all the noise of our declaimers, that even the Brahmin rule is not to be·preferred to British domination.
 
 The loss of inhabitants here, and in the tract from hence to the Taptee, is considerable, but here we have felt the blessings of plenty compared to the miseries experienced more to the northward. It is now time that I should advert to your considerations for affording us relief, Under every circumstance we must first attend to the public demands, as it is by the public capacity that individuals must be upheld; we are now at war, and consequently in a state of necessity which feels many wants. At the beginning of June we had 400 garce of rice in the public store here; on the 1st instant we had only 300 left, notwithstanding the intermediate supplies from Panwell, which amounted to about 30 garce. During this month we have received no rice from Panwell, Captain Young's means of carriage being used in conveying grain which is more immediately wanted; nor can we expect to receive any rice from Panwell in all the present month. By .the first of August we shall probably not have more than 200 or 220 garce, which may amount to about 14,000 bullock-loads, which must be deemed a very small quantity, considering that when the troops move at the close of August means must be found to issue rice from the public stores to subsist the camp followers as at present until the opening of the harvest; therefore, the whole of the carriage procurable by Captain Young will be required by the public, and specially as in the course of next month we must manage, if possible, to send a quantity of rice to Ahmednuggur. The monsoon is yet favorable, and at the opening of the harvest I trust the general distress will rapidly diminish. Till that period our distress must, I fear, continue with little abatement, unless happily and unexpectedly Captain Young can hire a larger portion of conveyance during the rains than is actually required for the public. Can he only procure carriage for the private purpose, retailing the rice here will be an easy operation. If I find that carriage is procurable here, I shall have the pleasure of giving you intimation on the subject. So much on your proposal to send grain was for the immediate relief of our wants. Since my return hither from your hospitable roof we have fed daily on the public account 1,200 women and children, and about 200 or 300 men. This institution will continue till the harvest smiles upon us. A few individuals amongst the Soucars in the city contribute handsomely towards subsisting the poor that frequent the streets. That a wider charitable institution would afford further relief must be evident. For instance, if, in addition to the institution at the Sungam, another was to be established in the British Camp near the [p. 253] skirts of the city, many miserable objects would, no doubt, be comfortably supported. Unhappily, the greater part of the poor who have frequented this neighbourhood came from a distance where they were starving, and on their arrival were so much reduced as to be generally past recovery.
 
@@ -4681,9 +4558,7 @@ If you wish to trade (in rice), commission me, and I am willing to send it to yo
 
 (Signed) R. T. GOODWIN,
 
-Acting Secretary and Translator in the Office of
-
-Country Correspondence.
+Acting Secretary and Translator in the Office of Country Correspondence.
 
 (A true copy)
 

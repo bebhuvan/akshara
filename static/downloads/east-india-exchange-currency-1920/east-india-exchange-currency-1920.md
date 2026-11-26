@@ -50,10 +50,10 @@ or from E. PONSONBY, <span class="sc">Ltd.</span>, 116, <span class="sc">Grafton
 
 <!-- page: 4 | folio: 2 -->
 
-#### <span class="sc">No.</span> 1.
+### <span class="sc">No.</span> 1.
 
 
-##### <span class="sc">Announcement by the Secretary of State for India published on</span> 2<span class="sc">nd February</span> 1920.[^sec-02-fn-001]
+#### <span class="sc">Announcement by the Secretary of State for India published on</span> 2<span class="sc">nd February</span> 1920.[^sec-02-fn-001]
 
 The Secretary of State in Council has considered, in consultation with the Government of India, the Majority and Minority Reports received from the Committee appointed by him, under the chairmanship of Sir Henry Babington Smith, to advise on the subject of Indian Exchange and Currency. The Majority Report, which is signed by the chairman and all the members of the Committee except Mr. D. M. Dalal, states as its objects the restoration of a stable and automatic system and the maintenance of the convertibility of the note issue.
 
@@ -94,10 +94,10 @@ Both during and since the war Indian currency and exchange have presented proble
 ## No. 2. Announcement by the Government of India (2nd February 1920)
 
 
-#### No. 2.
+### No. 2.
 
 
-##### <span class="sc">Announcement dated 2nd February 1920 issued by the Government of India.</span>[^sec-03-fn-001]
+#### <span class="sc">Announcement dated 2nd February 1920 issued by the Government of India.</span>[^sec-03-fn-001]
 
 The acquisition rate for gold imported under licence into India, which has hitherto been subject to variation notified from time to time, has now, in accordance with the Secretary of State for India's separate announcement published to-day relating to the [p. 4] recommendations of the Indian Currency Committee, been fixed, and the following fixed rates will apply to transactions on and after Monday, 2nd February, namely, Rs. 10 for each sovereign tendered for import, or one rupee for 11·30016 grains of fine gold.
 
@@ -124,20 +124,20 @@ The rates for immediate telegraphic transfers on London will be announced on eac
 ### APPENDIX.
 
 
-##### (*a*) <span class="sc">Notification of the Government of India, No.</span> 4071 (<span class="sc">Finance and Commerce</span>), dated 11th September 1897.
+#### (*a*) <span class="sc">Notification of the Government of India, No.</span> 4071 (<span class="sc">Finance and Commerce</span>), dated 11th September 1897.
 
 In continuation of the notifications No. 2362, No. 2663, and No. 2664, dated 26th June 1893, the Governor-General in Council hereby notifies for public information that from and after the date of this notification, sovereigns and half-sovereigns of current weight coined at any authorised Royal Mint in England or Australia will be received at the Reserve Treasuries at Calcutta, Madras, and Bombay, and rupees will be issued in exchange therefor, the sovereign and half-sovereign being taken as the equivalent of 15 rupees and of seven rupees eight annas respectively.
 
 
-##### (*b*) <span class="sc">Notification of the Government of India, No.</span> 6908A, dated 11th December 1906.
+#### (*b*) <span class="sc">Notification of the Government of India, No.</span> 6908A, dated 11th December 1906.
 
 
-##### *Receipt by the Mints of Calcutta and Bombay of Sovereigns and Half-Sovereigns only.*
+#### *Receipt by the Mints of Calcutta and Bombay of Sovereigns and Half-Sovereigns only.*
 
 In supersession of the notifications by the Government of India in the Financial Department, No. 2662, dated the 26th June 1893, and No. 3218A, dated the 14th July 1899, which are hereby cancelled, the Governor-General in Council is pleased to direct that, with effect from 1st April 1907, gold bullion and gold coins, other than sovereigns and half-sovereigns, will not be received by the Mint Masters of the Calcutta and the Bombay Mints.
 
 
-##### (*c*) <span class="sc">The Defence of India (Consolidation) Rules</span>, 1915.
+#### (*c*) <span class="sc">The Defence of India (Consolidation) Rules</span>, 1915.
 
 21A. No person shall melt, break up, or use otherwise than as currency, any current gold or silver coin.
 

@@ -2928,7 +2928,7 @@
     "column_index": 3,
     "column_header": "Cotton Manufactures. :: Tens of Rupees.",
     "raw_text": "27,346.128",
-    "value_numeric": 27346.128,
+    "value_numeric": null,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false

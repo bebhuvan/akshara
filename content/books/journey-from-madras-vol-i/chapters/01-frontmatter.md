@@ -23,5 +23,5 @@ next: "/books/journey-from-madras-vol-i/chapters/02-introduction/"
 PRINTED FOR T. CADELL AND W. DAVIES (BOOKSELLERS TO THE ASIATIC SOCIETY),
 IN THE STRAND; AND BLACK, PARRY, AND KINGSBURY (BOOKSELLERS TO
 THE EAST INDIA COMPANY), IN LEADENHALL STREET;
-BY W. BULMER AND CO. CLEVELAND ROW, ST. JAMES'S.
+BY W. BULMER AND CO. CLEVELAND ROW, ST. JAMES’S.
 1807.</p></div><div class="page-rail-marker" id="page-9"><button type="button" class="folio-trigger" data-page="9" data-folio="v" data-scan="https://archive.org/download/journeyfrommadra01hami_2/page/n8_w1400.jpg" aria-label="Inspect scan for page v">[p. v]</button></div><div class="prose-unit"><p class="prose-p">DEDICATED, WITH PERMISSION, TO THE HONOURABLE THE COURT OF DIRECTORS FOR THE AFFAIRS OF THE UNITED COMPANY OF MERCHANTS OF ENGLAND TRADING TO THE EAST INDIES, BY THEIR MOST OBEDIENT, AND MOST HUMBLE SERVANT, THE AUTHOR.</p></div>

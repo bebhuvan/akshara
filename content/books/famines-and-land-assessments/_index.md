@@ -1,6 +1,6 @@
 ---
 title: "Famines and Land Assessments in India"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "Open Letters to Lord Curzon on Land Revenue & Agrarian Distress"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -12,8 +12,8 @@ extracted_pages: 347
 reread_pages: 8
 human_verified_pages: 0
 chapters: 37
-footnotes_count: 61
-tables_count: 29
+footnotes_count: 62
+tables_count: 27
 figures_count: 0
 reading_time: "~7 hrs"
 type: "books"
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 85.4
+rubric_score: 87.9
 rubric_pillars:
   - name: "Structural Completeness"
     score: 23.0
@@ -33,9 +33,9 @@ rubric_pillars:
     max: 25.0
     notes: "-6.0: 2 unresolved footnote callout/body mismatch(es)"
   - name: "Tabular & Numeric Accuracy"
-    score: 21.0
+    score: 23.5
     max: 25.0
-    notes: "-4.0: 1 collapsed/jammed table row warning(s)"
+    notes: "-1.5: 1 ragged table geometry warning(s)"
   - name: "Orthography & Diacritics"
     score: 22.4
     max: 25.0
@@ -45,9 +45,9 @@ provenance_statement: "Automated reading (17 open review items); 8 of 347 pages 
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 67 fixes · 8 pp. checked"
+  - "Scan-Triaged: 124 fixes · 8 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
-  - "Tables: 15/15 Arithmetic-Checked"
+  - "Tables: 13/14 Arithmetic-Checked"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
   - "Script: Latin"
@@ -218,108 +218,92 @@ tables_list:
     section_url: "/books/famines-and-land-assessments/chapters/16-appendix-f-speech-of-the-hon-b-k-bose-c-i-e/#tbl-016"
   - table_id: "tbl-017"
     caption: "Table 17"
-    printed_folio: "220"
-    rows: 1
+    printed_folio: "214"
+    rows: 24
     cols: 2
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-017_p0244.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-017_p0244.tidy.csv"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-017_p0238.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-017_p0238.tidy.csv"
     section_url: "/books/famines-and-land-assessments/chapters/28-appendix-r-mr-rogers-on-settlements-in-madras/#tbl-017"
   - table_id: "tbl-018"
     caption: "Table 18"
-    printed_folio: "224"
-    rows: 1
-    cols: 2
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-018_p0248.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-018_p0248.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/28-appendix-r-mr-rogers-on-settlements-in-madras/#tbl-018"
-  - table_id: "tbl-019"
-    caption: "Table 19"
     printed_folio: "244"
     rows: 9
     cols: 2
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-019_p0268.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-019_p0268.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/30-appendix-t-land-revenue-under-mahomedan-rule/#tbl-019"
-  - table_id: "tbl-020"
-    caption: "Table 20"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-018_p0268.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-018_p0268.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/30-appendix-t-land-revenue-under-mahomedan-rule/#tbl-018"
+  - table_id: "tbl-019"
+    caption: "Table 19"
     printed_folio: "245"
     rows: 4
     cols: 2
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-020_p0269.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-020_p0269.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/30-appendix-t-land-revenue-under-mahomedan-rule/#tbl-020"
-  - table_id: "tbl-021"
-    caption: "Table 21"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-019_p0269.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-019_p0269.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/30-appendix-t-land-revenue-under-mahomedan-rule/#tbl-019"
+  - table_id: "tbl-020"
+    caption: "Table 20"
     printed_folio: "280"
     rows: 5
     cols: 7
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-021_p0304.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-021_p0304.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/31-appendix-u-royal-commission-on-indian-expenditure-evidence-of/#tbl-021"
-  - table_id: "tbl-022"
-    caption: "Annual Salaries of Officers on Active"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-020_p0304.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-020_p0304.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/31-appendix-u-royal-commission-on-indian-expenditure-evidence-of/#tbl-020"
+  - table_id: "tbl-021"
+    caption: "Annual Salaries of Officers on Active[…]rvice in India on the 31st March 1900."
     printed_folio: "286"
-    rows: 12
-    cols: 11
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-022_p0310.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-022_p0310.tidy.csv"
+    rows: 21
+    cols: 25
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-021_p0310.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-021_p0310.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-021"
+  - table_id: "tbl-022"
+    caption: "Absentee Allowances of Officers on Leave, including Privilege Leave, who drew Leave Allowances in India during the Year 1889-90."
+    printed_folio: "288"
+    rows: 21
+    cols: 19
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-022_p0312.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-022_p0312.tidy.csv"
     section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-022"
   - table_id: "tbl-023"
-    caption: "rvice in India on the 31st March 1900."
-    printed_folio: "287"
-    rows: 17
-    cols: 14
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-023_p0311.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-023_p0311.tidy.csv"
+    caption: "Pensions in India."
+    printed_folio: "290"
+    rows: 23
+    cols: 27
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-023_p0314.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-023_p0314.tidy.csv"
     section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-023"
   - table_id: "tbl-024"
-    caption: "Absentee Allowances of Officers on Leave, including Privilege"
-    printed_folio: "288"
-    rows: 17
-    cols: 19
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-024_p0312.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-024_p0312.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-024"
-  - table_id: "tbl-025"
-    caption: "Pensions"
-    printed_folio: "290"
-    rows: 17
-    cols: 27
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-025_p0314.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-025_p0314.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-025"
-  - table_id: "tbl-026"
     caption: "II.—Amounts Paid in England."
     printed_folio: "292"
     rows: 26
     cols: 15
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-026_p0316.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-026_p0316.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-026"
-  - table_id: "tbl-027"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-024_p0316.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-024_p0316.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-024"
+  - table_id: "tbl-025"
     caption: "(a) Resident in India."
     printed_folio: "293"
     rows: 4
     cols: 17
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-027_p0317.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-027_p0317.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-027"
-  - table_id: "tbl-028"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-025_p0317.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-025_p0317.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-025"
+  - table_id: "tbl-026"
     caption: "(b) Not Resident in India."
     printed_folio: "293"
     rows: 4
     cols: 11
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-028_p0317.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-028_p0317.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-028"
-  - table_id: "tbl-029"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-026_p0317.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-026_p0317.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/32-appendix-v-indian-salaries-return/#tbl-026"
+  - table_id: "tbl-027"
     caption: "COST OF FOREIGN WARS CHARGED TO INDIA"
     printed_folio: "294"
     rows: 8
     cols: 5
-    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-029_p0318.csv"
-    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-029_p0318.tidy.csv"
-    section_url: "/books/famines-and-land-assessments/chapters/33-appendix-w-cost-of-foreign-wars-charged-to-india/#tbl-029"
+    diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-027_p0318.csv"
+    tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-027_p0318.tidy.csv"
+    section_url: "/books/famines-and-land-assessments/chapters/33-appendix-w-cost-of-foreign-wars-charged-to-india/#tbl-027"
 cascade:
   type: "chapters"
 editorial_note_markdown: |-
@@ -336,32 +320,33 @@ editorial_note_markdown: |-
   - **Source File**: `famines-and-land-assessments.originals.pdf`
   - **Source SHA-256**: `8c8ab173be136668d36ac634a5a95132c0b751c25a9f36e95d187c12e9c29371`
   - **Leaf Accounting**: 352 PDF leaves — **347** content leaves transcribed, **5** blank/tissue leaves (`6, 8, 349, 350, 351`), **0** failed leaves.
-  - **Edition Status**: `community` (**85.4 / 100** Rubric Score)
+  - **Edition Status**: `community` (**87.9 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (44 flyleaf/stamp block(s)) are excluded from reading prose; **229** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **5** multi-page tables were stitched; and **875** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (44 flyleaf/stamp block(s)) are excluded from reading prose; **228** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **7** multi-page tables were stitched; and **875** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (17 distinct non-ASCII characters across 31 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**238** places); **458** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (347 pp.).
   - **Reader**: Read by gemini-3.8-flash on 347 of 347 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 67 replayed correction(s). Automated reading (17 open review items); 8 of 347 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 124 replayed correction(s). Automated reading (17 open review items); 8 of 347 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **18 finding(s) across 3 leaf(s)** (pp. 311, 312, 314): table compositor arithmetic variant.
   - **13 finding(s) across 2 leaf(s)** (pp. 311, 312): faded or blotted `<unclear>` passages awaiting human scan inspection.
   - **8 finding(s) across 5 leaf(s)** (pp. 7, 257, 258, 259, 278): rare character.
+  - **5 finding(s) across 3 leaf(s)** (pp. 310, 312, 314): table compositor arithmetic variant.
   - **2 finding(s) across 2 leaf(s)** (pp. 59, 316): pages where a footnote marker and note body could not be paired automatically.
   - **2 finding(s) across 2 leaf(s)** (pp. 314, 317): table blind total confirmed.
   - **1 finding(s) across 1 leaf(s)** (pp. 225): multi-column pages flagged for reading-order verification.
-  - **1 finding(s) across 1 leaf(s)** (pp. 310): table collapsed rows.
+  - **1 finding(s) across 1 leaf(s)** (pp. 310): tables where one or more rows have inconsistent column width relative to the header.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
 Open Letters to Lord Curzon on Land Revenue & Agrarian Distress. Archival scope: spanning 1793-1900; covering Central Provinces, Madras, Bombay, Bengal, N.-W. Provinces; focusing on famine, land revenue, ryotwari, permanent settlement, civil service salaries. Original imprint: London: Kegan Paul, Trench, Trübner & Co. (1900).
 
-Digitized from Internet Archive copy [`cu31924022938264`](https://archive.org/details/cu31924022938264) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **85.4/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (61), and statistical tables (29) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`cu31924022938264`](https://archive.org/details/cu31924022938264) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **87.9/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (62), and statistical tables (27) are preserved faithfully from the source camera scans.

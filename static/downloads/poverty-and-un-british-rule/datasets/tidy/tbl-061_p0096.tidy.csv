@@ -1,19 +1,8 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1850,2,Poona.,"3,056",3056.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1850,3,Belgaum.,"4,240",4240.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1850,4,Ahmedabad.,"3,520",3520.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,2,data,,1851,2,Poona.,"3,440",3440.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,2,data,,1851,3,Belgaum.,"4,560",4560.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,2,data,,1851,4,Ahmedabad.,"4,320",4320.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,3,data,,1852,2,Poona.,"3,440",3440.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,3,data,,1852,3,Belgaum.,"3,280",3280.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,3,data,,1852,4,Ahmedabad.,"2,800",2800.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,4,data,,1853,2,Poona.,"4,128",4128.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,4,data,,1853,3,Belgaum.,"3,200",3200.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,4,data,,1853,4,Ahmedabad.,"2,800",2800.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,5,data,,1854,2,Poona.,"2,504",2504.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,5,data,,1854,3,Belgaum.,"3,040",3040.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,5,data,,1854,4,Ahmedabad.,"3,400",3400.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,6,data,,1855,2,Poona.,"2,432",2432.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,6,data,,1855,3,Belgaum.,"2,540",2540.0,,False,False
-poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,6,data,,1855,4,Ahmedabad.,"4,520",4520.0,,False,False
+poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1863,2,Poona.,"1,120",1120.0,,False,False
+poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1863,3,Belgaum.,720,720.0,,False,False
+poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1863,4,Ahmedabad.,880,880.0,,False,False
+poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1863,5,Years.,1867-68,,,False,False
+poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1863,6,Poona.,"1,786",1786.0,,False,False
+poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1863,7,Belgaum.,"2,633",2633.0,,False,False
+poverty-and-un-british-rule,tbl-061,Tolas per Rupee.,96,76,1,data,,1863,8,Ahmedabad.,"1,180",1180.0,,False,False

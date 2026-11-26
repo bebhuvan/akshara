@@ -1,8 +1,8 @@
 ---
 title: "Part IV. Edicts of Asoka — Introduction"
-chapter_number: "33"
+chapter_number: "32"
 section_kind: "chapter"
-weight: 33
+weight: 32
 start_page: 131
 end_page: 131
 printed_start_folio: "93"

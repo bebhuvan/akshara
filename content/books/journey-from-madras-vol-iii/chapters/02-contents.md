@@ -20,7 +20,7 @@ prev: "/books/journey-from-madras-vol-iii/chapters/01-frontmatter/"
 next: "/books/journey-from-madras-vol-iii/chapters/03-chapter-xiv-journey-through-the-southern-parts-of-canara/"
 ---
 
-<div class="page-rail-marker" id="page-5"><button type="button" class="folio-trigger" data-page="5" data-folio="iii" data-scan="https://archive.org/download/journeyfrommadra03hami_2/page/n4_w1400.jpg" aria-label="Inspect scan for page iii">[p. iii]</button></div><h2 class="sec-h1">CONTENTS.</h2><p class="printed-toc-line">CHAPTER XIV.
+<div class="page-rail-marker" id="page-5"><button type="button" class="folio-trigger" data-page="5" data-folio="iii" data-scan="https://archive.org/download/journeyfrommadra03hami_2/page/n4_w1400.jpg" aria-label="Inspect scan for page iii">[p. iii]</button></div><p class="printed-toc-line">CHAPTER XIV.
 Journey through the Southern Parts of Canara, - - - - page 1</p><p class="printed-toc-line">CHAPTER XV.
 Journey from Mangalore to Beiduru, - - - - 61</p><p class="printed-toc-line">CHAPTER XVI.
 Journey through the Northern Parts of Canara, - - - - 130</p><p class="printed-toc-line">CHAPTER XVII.

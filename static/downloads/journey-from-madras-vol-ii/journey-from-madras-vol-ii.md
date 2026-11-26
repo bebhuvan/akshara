@@ -115,25 +115,25 @@ Near the town is a fine quarry, of a stone which, like that found at *Ráma-giri
 Here also may be easily quarried fine masses of gray granite.
 
 > _[Margin: August 10. Appearance of the country.]_
-> _[Margin: CHAPTER VII.\nAugust 10.]_
+> _[Margin: CHAPTER VII. August 10.]_
 
-10th *August.*—In the morning I went three cosses to *Madhu-giri*. The road led through pretty vallies, surrounded by detached rocky hills. These vallies showed marks of having once been in a great measure cultivated, and contained the ruinous villages of their former inhabitants. Ever since the devastation committed by *Purseram Bhow*, and the subsequent famine, they have been nearly waste; and many of the fields are overgrown with young trees. A few wretched inhabitants remain, and a few fields are cultivated; [p. 5] and it is said, that this year greater progress would have been made\n toward the recovery of the country, had not the season been re-\n markably dry and unfavourable.
+10th *August.*—In the morning I went three cosses to *Madhu-giri*. The road led through pretty vallies, surrounded by detached rocky hills. These vallies showed marks of having once been in a great measure cultivated, and contained the ruinous villages of their former inhabitants. Ever since the devastation committed by *Purseram Bhow*, and the subsequent famine, they have been nearly waste; and many of the fields are overgrown with young trees. A few wretched inhabitants remain, and a few fields are cultivated; [p. 5] and it is said, that this year greater progress would have been made toward the recovery of the country, had not the season been remarkably dry and unfavourable.
 
 > _[Margin: Breeding herds of black cattle.]_
 
-On my arrival at *Madhu-giri*, and questioning *Trimula Náyaka*\n on the subject, I found, that every town and village in this hilly\n country had herds of breeding cattle. One of the herds I had met\n on the road; but they were so fierce, that, without protection from\n the keepers, it would have been unsafe to approach them. I deter-\n mined, therefore, to remain a day at *Madhu-giri* and examine the\n particulars.
+On my arrival at *Madhu-giri*, and questioning *Trimula Náyaka* on the subject, I found, that every town and village in this hilly country had herds of breeding cattle. One of the herds I had met on the road; but they were so fierce, that, without protection from the keepers, it would have been unsafe to approach them. I determined, therefore, to remain a day at *Madhu-giri* and examine the particulars.
 
 > _[Margin: August 11.]_
 
-11th August.—I went with *Trimula Náyaka*, and examined three\n herds of breeding cows, one of them chiefly his own property.\n From him, and from some of the most sensible *Goalas*, I afterwards\n took the following account.
+11th August.—I went with *Trimula Náyaka*, and examined three herds of breeding cows, one of them chiefly his own property. From him, and from some of the most sensible *Goalas*, I afterwards took the following account.
 
 > _[Margin: *Goalas*, or cow keepers.]_
 
-In this country the *Cadu Goalas*, or *Goalaru*, are those who breed\n cattle. Their families live in small villages near the skirts of the\n woods, where they cultivate a little ground, and keep some of their\n cattle, selling in the towns the produce of the dairy. Their families\n are very numerous, seven or eight young men in each being com-\n mon. Two or three of these attend the flocks in the woods, while\n the remainder cultivate their fields, and supply the towns with fire-\n wood, and with straw for thatch. Some of them also hire themselves\n to the farmers as servants. They are a very dirty people, much\n worse than even the generality of the people of *Karnáta*; for they\n wear no cloathing but a blanket, and generally sleep among the\n cattle; which, joined to a warm climate, and rare ablutions, with\n vermin, itch, ring-worms, and other cutaneous disorders, render\n them very offensive.
+In this country the *Cadu Goalas*, or *Goalaru*, are those who breed cattle. Their families live in small villages near the skirts of the woods, where they cultivate a little ground, and keep some of their cattle, selling in the towns the produce of the dairy. Their families are very numerous, seven or eight young men in each being common. Two or three of these attend the flocks in the woods, while the remainder cultivate their fields, and supply the towns with fire-wood, and with straw for thatch. Some of them also hire themselves to the farmers as servants. They are a very dirty people, much worse than even the generality of the people of *Karnáta*; for they wear no cloathing but a blanket, and generally sleep among the cattle; which, joined to a warm climate, and rare ablutions, with vermin, itch, ring-worms, and other cutaneous disorders, render them very offensive.
 
 > _[Margin: CHAPTER VII. August 11.]_
 
-In criminal matters relating to cast, the *Goalas* are under the ju-\n risdiction of a renter, who in the language of *Karnáta* is called *Beny*\n *Chavadi*, or in the Mussulman dialect *Musca Chavadi*, which signifies\n the head of the butter-office. He resides at the capital, and pays to\n government an annual revenue. He goes to every village where any [p. 6] regular families of *Goalas* are established, and from each levies the tax which they pay to government for liberty to pasture their flocks on its property. In this neighbourhood, every family, whether it consists of many persons or of few, or whether it be rich or poor, pays the same tax; which is indeed a mere trifle, being only six *Fanams*, or about 4*s*. a year. For this small sum they are exempted from any tax or rent for grass, and may feed their cattle in whatever woods they please. In some villages there is often only one family of privileged *Goalas*, in others there are two. If a family change its place of abode, it must always pay its tax, and also certain dues owing to the temples, at its original village. The same happens to the individuals of a family, which sometimes may occupy ten houses; the whole of them, wherever settled, must send their share of the tax to the head of the family. The head man of the family is generally the eldest son of the last man who held the office; but in case of his being incapable, from stupidity, of transacting business, the *Beny Chavadi* appoints an acting chief, or *Ijyamána*. There are some *Goalas*, who are not privileged, nor under the authority of the *Beny Chavadi*, who in proportion to the extent of their flocks pay a rent for the grass to the *Gydda Cavila*, or keeper of the forest. This also is very moderate; 100 cows paying annually five *Fanams*, or 3*s*. 4*d*.
+In criminal matters relating to cast, the *Goalas* are under the jurisdiction of a renter, who in the language of *Karnáta* is called *Beny Chavadi*, or in the Mussulman dialect *Musca Chavadi*, which signifies the head of the butter-office. He resides at the capital, and pays to government an annual revenue. He goes to every village where any [p. 6] regular families of *Goalas* are established, and from each levies the tax which they pay to government for liberty to pasture their flocks on its property. In this neighbourhood, every family, whether it consists of many persons or of few, or whether it be rich or poor, pays the same tax; which is indeed a mere trifle, being only six *Fanams*, or about 4*s*. a year. For this small sum they are exempted from any tax or rent for grass, and may feed their cattle in whatever woods they please. In some villages there is often only one family of privileged *Goalas*, in others there are two. If a family change its place of abode, it must always pay its tax, and also certain dues owing to the temples, at its original village. The same happens to the individuals of a family, which sometimes may occupy ten houses; the whole of them, wherever settled, must send their share of the tax to the head of the family. The head man of the family is generally the eldest son of the last man who held the office; but in case of his being incapable, from stupidity, of transacting business, the *Beny Chavadi* appoints an acting chief, or *Ijyamána*. There are some *Goalas*, who are not privileged, nor under the authority of the *Beny Chavadi*, who in proportion to the extent of their flocks pay a rent for the grass to the *Gydda Cavila*, or keeper of the forest. This also is very moderate; 100 cows paying annually five *Fanams*, or 3*s*. 4*d*.
 
 The *Ijyamánas*, or hereditary chiefs of *Goala* families, settle all disputes; but the *Beny Chavadi* punishes all transgressions against the rules of cast. When the flocks of any family have perished, either by war or pestilence, the sufferers go and solicit a new stock from the other persons of the cast, each of whom will give a beast or two for that purpose. Should they be so unreasonable as to refuse this bounty, the *Beny Chavadi* will compel them to assist their distressed neighbours.
 
@@ -146,37 +146,33 @@ There are a great many different races of *Goalas*, with whom the *Cadu Goalas* 
 
 The race of oxen in this country may be readily distinguished from the European species, by the same marks that distinguish all the cattle of *India*; namely, by a hump on the back between the shoulders, by a deep undulated dewlap, and by the remarkable declivity of the *os sacrum*. But the cattle of the south are easily distinguished from those of *Bengal* by the position of the horns. In those of *Bengal* the horns project forward, and form a considerable angle with the forehead; whereas in those of the south the horns are placed nearly in the same line with the *os frontis*. In this breed also, the prepuce is remarkably large; and vestiges of this organ are often visible in females; but this is not a constant mark.
 
-Of this southern species there are several breeds of very different qualities. Plates XIII. XIV. and XV. contain sketches of some of them. Above the *Ghats*, however, two breeds are most prevalent. The one is a small, gentle, brown, or black animal: the females are kept in the villages for giving milk, and the oxen are those chiefly employed in the plough; their short, thick make enabling them to labour easily in the small rice-plots, which are often but a few yards in length. This breed seems to owe its degeneracy to a want of proper bulls. As each person in the village keeps only two or three cows for supplying his own family with milk, it is not an object with any one to keep a proper bull; and as the males are not emasculated until three years old, and are not kept separate from the cows, these are impregnated without any attention to improvement, or even to prevent degeneracy. Wealthy farmers, however, who are anxious to improve their stock, send some cows to be kept in the folds of the large kind, and to breed from good bulls. The cows
+> _[Margin: CHAPTER VII. August 11.]_
+
+Of this southern species there are several breeds of very different qualities. Plates XIII. XIV. and XV. contain sketches of some of them. Above the *Ghats*, however, two breeds are most prevalent. The one is a small, gentle, brown, or black animal: the females are kept in the villages for giving milk, and the oxen are those chiefly employed in the plough; their short, thick make enabling them to labour easily in the small rice-plots, which are often but a few yards in length. This breed seems to owe its degeneracy to a want of proper bulls. As each person in the village keeps only two or three cows for supplying his own family with milk, it is not an object with any one to keep a proper bull; and as the males are not emasculated until three years old, and are not kept separate from the cows, these are impregnated without any attention to improvement, or even to prevent degeneracy. Wealthy farmers, however, who are anxious to improve their stock, send some cows to be kept in the folds of the large kind, and to breed from good bulls. The cows [p. 9] sprung from these always remain at the fold, and in the third generation lose all marks of their parents degeneracy. The males are brought home for labour, especially in drawing water by the *Capily*; and about every village may be perceived all kinds of intermediate mongrels between the two breeds.
 
 
 <!-- page: 17 | folio: 9 -->
 
-![Vol. II. p. 8. — PLATE XIII. — Fig 34. — MADRAS OX. — Fig 35.](../figures/fig-001_p0017.webp)
+![Fig 34. — MADRAS OX.](../figures/fig-001_p0017.webp)
 
 
-![MADHU-GIRI OX. — Warner sc.](../figures/fig-002_p0017.webp)
+![Fig 35. — MADHU-GIRI OX.](../figures/fig-002_p0017.webp)
 
 
 <!-- page: 19 | folio: 11 -->
 
-![Vol. II. p. 8. — PLATE XIV. — Fig 36. — MADHU-GIRI BULL. — Fig 37.](../figures/fig-003_p0019.webp)
+![Fig 36. — MADHU-GIRI BULL. — Fig 37.](../figures/fig-003_p0019.webp)
 
 
-![MADHU-GIRI COW. — Warner sc.](../figures/fig-004_p0019.webp)
+![MADHU-GIRI COW.](../figures/fig-004_p0019.webp)
 
 
 <!-- page: 21 | folio: 7 -->
 
-![Vol. II. p. 8. — PLATE XV. — Fig. 38. — SERINGAPATAM BULL. from the late Sultan's herd. — Fig. 39.](../figures/fig-005_p0021.webp)
+![Fig. 38. — SERINGAPATAM BULL. from the late Sultan's herd. — Fig. 39.](../figures/fig-005_p0021.webp)
 
 
-![SERINGAPATAM OX. — Warner sc.](../figures/fig-006_p0021.webp)
-
-
-<!-- page: 23 | folio: 9 -->
-> _[Margin: CHAPTER VII. August 11.]_
-
-sprung from these always remain at the fold, and in the third generation lose all marks of their parents degeneracy. The males are brought home for labour, especially in drawing water by the *Capily*; and about every village may be perceived all kinds of intermediate mongrels between the two breeds.
+![SERINGAPATAM OX.](../figures/fig-006_p0021.webp)
 
 > _[Margin: CHAPTER VII. August 11.]_
 
@@ -284,10 +280,10 @@ It must be evident, that in this account the head-man, wishing to conceal his pr
 
 <!-- page: 34 | folio: 18 -->
 
-![Section of a steel furnace in the direction of the Ash-pit. — Fig 40. — Section of a steel furnace at right angles to the Ash-pit. — Fig 41.](../figures/fig-007_p0034.webp)
+![Section of a steel furnace in the direction of the Ash-pit. — Fig 40.](../figures/fig-007_p0034.webp)
 
 
-![Diagram showing a cross-section of a steel furnace at right angles to the ash-pit, with parts labelled a, c, d, g, h, i, n.](../figures/fig-008_p0034.webp)
+![Section of a steel furnace at right angles to the Ash-pit. — Fig 41.](../figures/fig-008_p0034.webp)
 
 > _[Margin: Steel.]_
 > _[Margin: CHAPTER VII. August 13.]_
@@ -2144,7 +2140,10 @@ The health of my people is now beginning to suffer from the constant change of a
 
 The *Lokika*, or vulgar men of the world, throughout the countries in which the *Tamul* language is spoken, use a solar year called *Surya-mánam* in the *Sanskrit*. The almanac here came from *Tanjore*, the great seat of learning in the southern part of India. The current year is as follows. It is reckoned the year 1722 of *Sáliváhanam* and the 4901 of the *Kali-yugam*. This, it must be observed, differs one year in the former era, and seven in the latter, from the reckoning in *Karnáta*.
 
+> _[Margin: CHAPTER IX. Oct. 16, 17.]_
 > _[Margin: Oct. 16, 17.]_
+> _[Margin: CHAPTER IX. Oct. 16, 17.]_
+> _[Margin: CHAPTER IX. Oct. 16, 17.]_
 
 
 | *Tamul* Months. | *Tamul* Months. | European Months. | European Months. | *Tamul* Months. | *Tamul* Months. | European Months. | European Months. |
@@ -3211,27 +3210,23 @@ Before the invasion of General Meadows, *Avanasi* contained two hundred houses, 
 
 > _[Margin: Sheep and goats.]_
 
-Many sheep are bred throughout *Coimbetore*, and especially in this district. Under the term *Bacri*, the Mussulmans here include both the long-legged goat and the sheep. The former, in the native language of this country, is called *Veladu*; of the sheep there are in this place two kinds, the one called *Curumbar*, and the other *Shaymbliar*. The goats here are greatly inferior to those above the Ghats; but the sheep, though small, are of a good quality, fattening readily, and making most delicious meat. Even grass-mutton may be had here tolerably fat; for the pasture, although it looks very bare, seems to be more nutritious than that on the banks of the Ganges, where no tolerable mutton can be reared without the assistance of grain. Even the Mussulman officers never thought of fattening their sheep with grain, and indeed made very little difference between fat and lean mutton. A good female goat (*Veladu*), or a sheep of either kind, costs from 4 to 3 *Fanams*, or
+Many sheep are bred throughout *Coimbetore*, and especially in this district. Under the term *Bacri*, the Mussulmans here include both the long-legged goat and the sheep. The former, in the native language of this country, is called *Veladu*; of the sheep there are in this place two kinds, the one called *Curumbar*, and the other *Shaymbliar*. The goats here are greatly inferior to those above the Ghats; but the sheep, though small, are of a good quality, fattening readily, and making most delicious meat. Even grass-mutton may be had here tolerably fat; for the pasture, although it looks very bare, seems to be more nutritious than that on the banks of the Ganges, where no tolerable mutton can be reared without the assistance of grain. Even the Mussulman officers never thought of fattening their sheep with grain, and indeed made very little difference between fat and lean mutton. A good female goat (*Veladu*), or a sheep of either kind, costs from 4 to 3 *Fanams*, or [p. 277] from 1*s.* 11¾*d.* to 1*s.* 5¾*d.* A good wether costs from 6 to 5 *Fanams*, or from 2*s.* 11¾*d.* to 2*s.* 6*d.*
 
 
 <!-- page: 294 | folio: 278 -->
 
-![Vol. II. p. 277. — PLATE XVII. — CURUMBAR RAM AND EWE — Fig 42.](../figures/fig-009_p0294.webp)
+![CURUMBAR RAM AND EWE](../figures/fig-009_p0294.webp)
 
 
-![Fig 43. — Warner sc.](../figures/fig-010_p0294.webp)
+![Fig 42. — Fig 43.](../figures/fig-010_p0294.webp)
 
 
 <!-- page: 296 | folio: 276 -->
 
-![Vol. II. p. 277. — PLATE XVIII. — SHAYMBLIAR RAM AND EWE — Fig 44.](../figures/fig-011_p0296.webp)
+![SHAYMBLIAR RAM AND EWE](../figures/fig-011_p0296.webp)
 
 
-![Fig 45. — Warner sc.](../figures/fig-012_p0296.webp)
-
-
-<!-- page: 297 | folio: 277 -->
-from 1*s.* 11¾*d.* to 1*s.* 5¾*d.* A good wether costs from 6 to 5 *Fanams*, or from 2*s.* 11¾*d.* to 2*s.* 6*d.*
+![Fig 44. — Fig 45.](../figures/fig-012_p0296.webp)
 
 > _[Margin: Nov. 2. *Curumbar* sheep.]_
 
@@ -3916,6 +3911,8 @@ The quantity of cotton raised is considerable, and the kind most commonly cultiv
 
 The *Upum* cotton requires a black soil. It ripens in six months, and a *Vullam* land produces seven *Tolams* of raw cotton.
 
+> _[Margin: Articles cultivated on dry-field.]_
+
 
 **The following Articles are cultivated here on the *Kiet*, or Dry-field.**
 | Kinds. | Seed. :: Per *Vullam* land. :: *Vullams.* | Seed. :: Per Acre. :: *Dec. of Bush.* | Produce. :: Per *Vullam* land. :: *Podis.* | Produce. :: Per Acre. :: *Bushels.* |
@@ -4479,6 +4476,11 @@ No land measure has ever existed at *Pali-ghat*; but the natives form computatio
 
 The people of *Malayala* reckon by the era of *Parasu-ráma*, and divide it into cycles of one thousand years. This is reckoned the 976th year of the cycle: but as their year consists of 365 days, without any means of intercalation, its commencement must constantly, though slowly, be varying through the seasons. The following is a <span class="sc">TABLE</span> of the current year, with the corresponding days of our calendar.
 
+> _[Margin: CHAPTER XI. Dec. 1—4.]_
+> _[Margin: CHAPTER XI. Dec. 1—4.]_
+> _[Margin: CHAPTER XI. Dec. 1—4.]_
+> _[Margin: CHAPTER XI. Dec. 1—4.]_
+
 
 | *Tamul* Months. | *Tamul* Months. | European Months. | European Months. | *Tamul* Months. | *Tamul* Months. | European Months. | European Months. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4894,10 +4896,10 @@ The cultivatio is the same with that which is used for the rices called *Navarà
 
 <!-- page: 399 | folio: 377 -->
 
-![Vol. II. p. 376. — PLATE XX. — Fig 50. — Chavita Maram of Malabar. — Fig 49. — Varundy Maram of Malabar. — Chakram of Chowgaut.](../figures/fig-015_p0399.webp)
+![Chavita Maram of Malabar. — Varundy Maram of Malabar.](../figures/fig-015_p0399.webp)
 
 
-![Fig 51. — Warner sc.](../figures/fig-016_p0399.webp)
+![Fig 50. — Fig 49. — Chakram of Chowgaut. — Fig 51.](../figures/fig-016_p0399.webp)
 
 > _[Margin: Second crop.]_
 
@@ -5540,7 +5542,7 @@ In all the hills of the country the ore is found forming beds, veins, or detache
 
 <!-- page: 462 | folio: 436 -->
 
-![Vol. II. p. 437. — PLATE XXI. — Horizontal section of a Mound containing three furnaces](../figures/fig-017_p0462.webp)
+![Horizontal section of a Mound containing three furnaces](../figures/fig-017_p0462.webp)
 
 
 ![Vertical transverse section of one furnace (Fig. 53), showing Standing front, Open front, Pipe, Sand, Mound, Back cavity, and Hole for letting out the scoriæ.](../figures/fig-018_p0462.webp)
@@ -5696,22 +5698,21 @@ In *Velater* there are a few spots of land, watered by perennial streams, that a
 
 
 <!-- page: 473 | folio: 447 -->
-> _[Margin: CHAPTER\nXII.]_
-> _[Margin: Dec. 20, 21.\n*Palealil.*]_
+> _[Margin: Dec. 20, 21. *Palealil.*]_
 
-The higher borders of the vallies, which are too much elevated\n to receive a supply of water from the rivulets, but which are suffi-\n ciently level to admit of being inundated in the rainy season, are\n called *Palealil*, and annually produce only one crop. Mr. Wye\n thinks that the quantity of this does not amount to more than a\n twentieth part of the *Dhanmurry*, or rice-ground. The land which\n is higher than that called *Palealil* is *Parum*, and in this neighbour-\n hood pays no land-tax.
+The higher borders of the vallies, which are too much elevated to receive a supply of water from the rivulets, but which are sufficiently level to admit of being inundated in the rainy season, are called *Palealil*, and annually produce only one crop. Mr. Wye thinks that the quantity of this does not amount to more than a twentieth part of the *Dhanmurry*, or rice-ground. The land which is higher than that called *Palealil* is *Parum*, and in this neighbourhood pays no land-tax.
 
-> _[Margin: Different me-\nthods of cul-\ntivation.]_
+> _[Margin: Different methods of cultivation.]_
 
-The three usual modes of cultivating rice are here in use. When\n the seed is sown without preparation, the cultivation is called *Podi-*\n *wetha*, i. e. dry-sowing; when, before sowing, it is sprouted, it is\n called wet-sowing, or *Chetu-wetha*; and when it is transplanted, it is\n called *Nearra*.
+The three usual modes of cultivating rice are here in use. When the seed is sown without preparation, the cultivation is called *Podiwetha*, i. e. dry-sowing; when, before sowing, it is sprouted, it is called wet-sowing, or *Chetu-wetha*; and when it is transplanted, it is called *Nearra*.
 
-> _[Margin: Different\ncrops.]_
+> _[Margin: Different crops.]_
 
-From the months in which the crops ripen, the first is called\n *Canni*, and the second *Macara*. The first is the most productive, in\n a proportion of 3 to 2; but, owing to its being cut in the rainy\n season, the grain is often injured.
+From the months in which the crops ripen, the first is called *Canni*, and the second *Macara*. The first is the most productive, in a proportion of 3 to 2; but, owing to its being cut in the rainy season, the grain is often injured.
 
-> _[Margin: Wet-sowing\nin *Palealil*.]_
+> _[Margin: Wet-sowing in *Palealil*.]_
 
-In the *Palealil*, or higher parts of the level land, the most common\n cultivation is the sprouted seed. When, however, any fields of the\n *Ubayum* or low-land come up thin, the young rice is pulled up, and\n transplanted into a *Palealil* field; and there still remains time for\n having two crops on the former. On *Palealil* land the following\n kinds of rice are cultivated.
+In the *Palealil*, or higher parts of the level land, the most common cultivation is the sprouted seed. When, however, any fields of the *Ubayum* or low-land come up thin, the young rice is pulled up, and transplanted into a *Palealil* field; and there still remains time for having two crops on the former. On *Palealil* land the following kinds of rice are cultivated.
 
 
 | Col 1 | Col 2 | Col 3 |

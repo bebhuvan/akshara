@@ -23,7 +23,7 @@
         <idno type="book_id">life-and-letters-of-toru-dutt</idno>
         <idno type="collection">general-heritage</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -74,6 +74,9 @@ BY FREDERICK HALL</p>
           <pb xml:id="page-8" n="ii" facs="https://archive.org/download/lifelettersoftor00duttuoft/page/n7_w1400.jpg"/>
           <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0008.webp"/><head><hi rend="italic">Toru Dutt.</hi></head><figDesc>Toru Dutt.</figDesc></figure>
           <pb xml:id="page-9" n="iii" facs="https://archive.org/download/lifelettersoftor00duttuoft/page/n8_w1400.jpg"/>
+        </div>
+        <div type="subsection" n="h1">
+          <head>LIFE AND LETTERS OF TORU DUTT</head>
           <p>BY</p>
           <div type="subsection" n="h2">
             <head>HARIHAR DAS</head>
@@ -2381,7 +2384,7 @@ of Lebanon’</hi> . . . . . . 292</p>
           <l>Me rendra fou !</l>
         </lg>
               <p>The song is very musical, and beautiful. We lately bought from an itinerant book-seller a <hi rend="italic">Life of Napoleon the Great</hi>, by M. de Narvins. It is finely illustrated with coloured plates besides the wood engravings. It will be interesting reading to me, for I am a great admirer of the ‘ bronze artillery officer ’, as Carlyle styles him.</p>
-              <p>October 4th. Gentille is quite well to-day, but I mean to give her a rest to-day, and commence working her from tomorrow. <pb xml:id="page-254" n="218" facs="https://archive.org/download/lifelettersoftor00duttuoft/page/n253_w1400.jpg"/> Papa and I went out in a hired carriage to the city, shopping. The hackney cabs are so miserable in Calcutta, that I am always afraid of their breaking down in the way.</p>
+              <p>October 4th. Gentille is quite well to-day, but I mean to give her a rest to-day, and commence working her from to-morrow. <pb xml:id="page-254" n="218" facs="https://archive.org/download/lifelettersoftor00duttuoft/page/n253_w1400.jpg"/> Papa and I went out in a hired carriage to the city, shopping. The hackney cabs are so miserable in Calcutta, that I am always afraid of their breaking down in the way.</p>
               <p>We bought <hi rend="italic">Ginx’s Baby</hi>, for I had heard of its marvellous popularity. Papa read it and declared it was nothing better than <hi rend="italic">Dame Europa’s School</hi>, and that it was a catch-penny.</p>
               <p><hi rend="italic">Les Misérables</hi> is one of the most difficult French books that I have read. Victor Hugo seems to prefer hard and unusual words to words more in use ; for instance, instead of saying, in describing a man, that he was getting ‘ chauve ’ he would say ‘ qu’il ébauchait une <hi rend="italic">cavitie</hi> ’. However, the story is very interesting.</p>
               <p>We shall, I hope, soon go to dear old Baugmaree. There are few showers now, and, very likely, it will be in November that we shall move out of our town house.</p>
@@ -3708,7 +3711,7 @@ of Lebanon’</hi> . . . . . . 292</p>
     </list>
   </div>
       </div>
-      <div xml:id="sec-19" type="backmatter" n="19-index">
+      <div xml:id="sec-19" type="index" n="19-index">
         <head>Index</head>
         <pb xml:id="page-400" n="360" facs="https://archive.org/download/lifelettersoftor00duttuoft/page/n399_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -3753,7 +3756,11 @@ of Lebanon’</hi> . . . . . . 292</p>
       <item>Charlesworth, Miss, 201–2.</item>
       <item>Châtelain, Chevalier de, 22, 40, 181,<lb/>199, 211, 220, 292.</item>
       <item>Cheem, Aliph, 238.</item>
-      <item>Clifford, Bishop, 74, 101, 110, 179,<lb/>234, 244–5, 257, 356–8.<lb/>— Edward, 234, 244–5, 257, 272.</item>
+      <item>Clifford, Bishop, 74, 101, 110, 179, 234, 244–5, 257, 356–8.
+        <list type="index">
+          <item>— Edward, 234, 244–5, 257, 272.</item>
+        </list>
+      </item>
       <item>Clough, Miss, 264, 280.</item>
       <item>Coleridge, 66, 144, 249, 251.</item>
       <item>Collins, Wilkie, 268.</item>
@@ -3772,11 +3779,34 @@ of Lebanon’</hi> . . . . . . 292</p>
       <item>Dickens, 27, 82–3, 198.</item>
       <item>Duckworth, Canon, 132.</item>
       <item>Duff, Alexander, 3, 4, 9, 13.</item>
-      <item><hi rend="smallcaps">Dutt</hi>, the family, 1–16 ; conversions to Christianity, 8–10 ; family-tree, 16.<lb/>— Arun Chunder, 19, 33, 51.<lb/>— Charoo Chunder, 64, 92.<lb/>— Girish Chunder (Toru’s uncle), <hi rend="italic">passim</hi>.<lb/>— Govin Chunder (Toru’s father), <hi rend="italic">passim</hi>.<lb/>— Mrs. Govin Chunder (Toru’s mother), 9, 69, 84–90, 125–134, 147–50, 209–25, 241, 259, 290, 357–8.<lb/>— Hur Chunder (Toru’s uncle), 5, 14, 241.<lb/>— J. C., 39.<lb/>— Kishen Chunder, 5, 8.<lb/>— Koilash Chunder, 5.<lb/>— Michael, M. S., 6, 178, 346.<lb/>— Nilmoni, 2, 4, 5.<lb/>— Omesh Chunder, 15, 20, 34–7, 39,<lb/>— Rai Shoshee Chunder Bahadur, 7, 9, 15, 225.<lb/>— Rasamoy, 4, 5, 8, 9, 26.<lb/>— Romesh Chunder, 15–16, 22–3. 251.<lb/>— <hi rend="smallcaps">Toru</hi>, birth, 17 ; visit to Bombay, 18 ; voyage to France and England, 19 ; in France, 19–22 (<hi rend="italic">see</hi> France, French Literature) ; in London, 22–38 ; in Cambridge, 39–42 ; in St. Leonards, 39 ; return to India, 39, 43 ; death of her sister, 43 ; commences Sanskrit (q.v.), 44 ; correspondence with Mlle Clarisse Bader, 44–51, 350–5 ; letters to Miss Martin, 52–283 ; her translations from the French, 74 <hi rend="italic">et sqq.</hi> ; reading, <hi rend="italic">see</hi> English Literature, French Literature, and individual authors ; her horses and other pets, <hi rend="italic">see</hi> Horses, Jeunette and Gentille, Pets, &amp;c. ; <hi rend="italic">A Sheaf gleaned in French Fields</hi>, 119–20, 126, 132 <hi rend="italic">et sqq.</hi> ; on the</item>
+      <item><hi rend="smallcaps">Dutt</hi>, the family, 1–16 ; conversions to Christianity, 8–10 ; family-tree, 16.
+        <list type="index">
+          <item>— Arun Chunder, 19, 33, 51.</item>
+          <item>— Charoo Chunder, 64, 92.</item>
+          <item>— Girish Chunder (Toru’s uncle), <hi rend="italic">passim</hi>.</item>
+          <item>— Govin Chunder (Toru’s father), <hi rend="italic">passim</hi>.</item>
+          <item>— Mrs. Govin Chunder (Toru’s mother), 9, 69, 84–90, 125–134, 147–50, 209–25, 241, 259, 290, 357–8.</item>
+          <item>— Hur Chunder (Toru’s uncle), 5, 14, 241.</item>
+          <item>— J. C., 39.</item>
+          <item>— Kishen Chunder, 5, 8.</item>
+          <item>— Koilash Chunder, 5.</item>
+          <item>— Michael, M. S., 6, 178, 346.</item>
+          <item>— Nilmoni, 2, 4, 5.</item>
+          <item>— Omesh Chunder, 15, 20, 34–7, 39,</item>
+          <item>— Rai Shoshee Chunder Bahadur, 7, 9, 15, 225.</item>
+          <item>— Rasamoy, 4, 5, 8, 9, 26.</item>
+          <item>— Romesh Chunder, 15–16, 22–3. 251.</item>
+          <item>— <hi rend="smallcaps">Toru</hi>, birth, 17 ; visit to Bombay, 18 ; voyage to France and England, 19 ; in France, 19–22 (<hi rend="italic">see</hi> France, French Literature) ; in London, 22–38 ; in Cambridge, 39–42 ; in St. Leonards, 39 ; return to India, 39, 43 ; death of her sister, 43 ; commences Sanskrit (q.v.), 44 ; correspondence with Mlle Clarisse Bader, 44–51, 350–5 ; letters to Miss Martin, 52–283 ; her translations from the French, 74 <hi rend="italic">et sqq.</hi> ; reading, <hi rend="italic">see</hi> English Literature, French Literature, and individual authors ; her horses and other pets, <hi rend="italic">see</hi> Horses, Jeunette and Gentille, Pets, &amp;c. ; <hi rend="italic">A Sheaf gleaned in French Fields</hi>, 119–20, 126, 132 <hi rend="italic">et sqq.</hi> ; on the</item>
+        </list>
+      </item>
       <item>English in India, 132, 139, 168, 184, 190, 204, 287 ; her illnesses, 47–9, 57–9, 73–81, 89, 125, 136, 183, 190–7, 237–43, 253–61, 269, 273, 279–83, 308–9 ; her character, 284–8 ; her writings (see separate titles), 289–349 ; last days, 308–15.</item>
       <item><hi rend="italic">Dutt Family Album, The</hi>, 1, 7, 11–15, 22–3, 37, 39, 64, 66, 74, 175, 178, 181, 236, 241, 256.</item>
       <item>Dyson, Mrs., 261.</item>
-      <item>Eden, Sir Ashley, 249.<lb/>— Hon. Emily, 265.</item>
+      <item>Eden, Sir Ashley, 249.
+        <list type="index">
+          <item>— Hon. Emily, 265.</item>
+        </list>
+      </item>
       <item>Education of Indian Girls, 21, 39, 51, 71–2, 141, 176, 194, 239, 255, 264, 275, 347–9</item>
       <item>Education of Indians, Higher, 3–7, 10, 16, 22, 28, 59, 64, 75, 90, 132, 160, 172, 177, 189, 225.</item>
       <item>Eliot, George, 105, 117, 234, 268–9, 327.</item>
@@ -3836,16 +3866,30 @@ of Lebanon’</hi> . . . . . . 292</p>
       <item>Layard, Mr., 54.</item>
       <item>Lethbridge, Sir Roper, 195, 273,<lb/>292.</item>
       <item>Luard, Major, 248.</item>
-      <item>Lytton, Lord (‘Owen Meredith’),<lb/>122, 143, 146, 160, 171, 187,<lb/>190–2, 195, 200, 213, 227, 251,<lb/>256–9, 272, 277, 292, 320.<lb/>— Bulwer, 71, 149.</item>
+      <item>Lytton, Lord (‘Owen Meredith’), 122, 143, 146, 160, 171, 187, 190–2, 195, 200, 213, 227, 251, 256–9, 272, 277, 292, 320.
+        <list type="index">
+          <item>— Bulwer, 71, 149.</item>
+        </list>
+      </item>
       <item>Macaulay, Lord, 3, 6, 25–6.</item>
       <item>Macfarren, Sir G., and Lady, 22,<lb/>34–6, 83–4.</item>
       <item><hi rend="italic">Mahabharata, The</hi>, 16, 111, 159,<lb/>330–1, 337.</item>
-      <item>Martin, Sir Ronald, 76.<lb/>— Miss M. E. R., 13, 39–41, 52–283,<lb/>308, 311, 339.</item>
+      <item>Martin, Sir Ronald, 76.
+        <list type="index">
+          <item>— Miss M. E. R., 13, 39–41, 52–283, 308, 311, 339.</item>
+        </list>
+      </item>
       <item>Merimée, Prosper, 193.</item>
       <item>Milman, Bishop, 141, 174, 252.</item>
       <item>Milton, 18, 25, 251, 255.</item>
       <item>Missionaries, 2–10, 39, 166, 227, 233,<lb/>272.</item>
-      <item>Mitter, Genoo, and family, 114, 143.<lb/>— Kshetramoni, <hi rend="italic">see</hi> Mrs. Govin<lb/>Chunder Dutt.<lb/>— Rajendra, Lal, 4, 274, 350.<lb/>— Babu Degember, 171.</item>
+      <item>Mitter, Genoo, and family, 114, 143.
+        <list type="index">
+          <item>— Kshetramoni, <hi rend="italic">see</hi> Mrs. Govin Chunder Dutt.</item>
+          <item>— Rajendra, Lal, 4, 274, 350.</item>
+          <item>— Babu Degember, 171.</item>
+        </list>
+      </item>
       <item>Mohammedans, 229, 233, 257–8,<lb/>329.</item>
     </list>
           <pb xml:id="page-403" n="363" facs="https://archive.org/download/lifelettersoftor00duttuoft/page/n402_w1400.jpg"/>
@@ -3869,7 +3913,11 @@ of Lebanon’</hi> . . . . . . 292</p>
       <item><hi rend="italic">Punch</hi>, 36, 116, 148, 158.</item>
       <item><hi rend="italic">Ramayana, The</hi>, 16, 111, 125, 140–4,<lb/>146, 162, 167, 182, 189–90, 242,<lb/>252, 288, 330, 333, 336.</item>
       <item><hi rend="italic">Revue des Deux Mondes</hi>, 68, 71, 74,<lb/>93, 95, 129, 135, 170, 179, 224,<lb/>246, 248, 264, 266, 269, 279.</item>
-      <item>Richardson, Captain David Lester<lb/>(afterwards Professor), 5–6, 16.<lb/>— Frederika, 142, 145, 167, 182,<lb/>242.</item>
+      <item>Richardson, Captain David Lester (afterwards Professor), 5–6, 16.
+        <list type="index">
+          <item>— Frederika, 142, 145, 167, 182, 242.</item>
+        </list>
+      </item>
       <item>‘R. K. M.’s’ verses, 314.</item>
       <item>Roy, Raja Ram Mohun, 4.</item>
       <item>Rustomjee, Mr. and Mrs., 152.</item>
@@ -3883,13 +3931,22 @@ of Lebanon’</hi> . . . . . . 292</p>
       <item><hi rend="italic">Saturday Review</hi>, 327.</item>
       <item>‘Scenes from Contemporary History’, 304–7.</item>
       <item>Scott, Sir W., 26–7, 36, 149, 242.</item>
-      <item>Sen, Ram Komul, 4.<lb/>— Babu Keshub Chunder, 235, 264,<lb/>272, 275.</item>
+      <item>Sen, Ram Komul, 4.
+        <list type="index">
+          <item>— Babu Keshub Chunder, 235, 264, 272, 275.</item>
+        </list>
+      </item>
       <item>Shakespeare, 27, 36, 40, 62, 150,<lb/>198, 245.</item>
       <item><hi rend="italic">Sheaf gleaned in French Fields, A</hi>,<lb/>39, 44, 74, 108, 112, 119–20, 124–<lb/>6, 132, 138, 140–3, 147, 161–2,<lb/>243, 248, 251, 262, 274, 316, 345 ;<lb/>its reception, 143, 152–4, 157–9,<lb/>163, 174–8, 182, 189, 197–9, 220–<lb/>4, 233, 236, 239, 246, 253, 256,<lb/>279–80, 289–304, 312.</item>
       <item>Shore, Miss Arabella, 39, 280.</item>
       <item>Sinaes, Mrs., 33.</item>
       <item>Skating rinks, 131, 146, 155, 162,<lb/>179, 187, 213.</item>
-      <item>Smith, Dr., of Medical College, 243,<lb/>272.<lb/>— Miss Ada, 113, 117, 185, 193,<lb/>261.<lb/>— Rev. A. H., 113.</item>
+      <item>Smith, Dr., of Medical College, 243, 272.
+        <list type="index">
+          <item>— Miss Ada, 113, 117, 185, 193, 261.</item>
+          <item>— Rev. A. H., 113.</item>
+        </list>
+      </item>
       <item>Snakes, 56, 60, 64, 72, 94, 104, 114,<lb/>127, 153, 173, 180–2, 202, 205,<lb/>228.</item>
       <item>Strachey, Sir John, 187.</item>
       <item>Sutherland, Duke of, 123, 130, 139.</item>
@@ -3897,7 +3954,11 @@ of Lebanon’</hi> . . . . . . 292</p>
       <item>Tassy, Garcin de, 44–8, 276, 301,<lb/>313, 327, 350–4.</item>
       <item>Temple, Sir Richard, 106, 249.</item>
       <item>Tennyson, 111, 143, 149, 196, 267,<lb/>334.</item>
-      <item>Thackeray, W. M., 27–8, 105, 141,<lb/>147, 193, 203, 208–9, 217.<lb/>— Miss, 209.</item>
+      <item>Thackeray, W. M., 27–8, 105, 141, 147, 193, 203, 208–9, 217.
+        <list type="index">
+          <item>— Miss, 209.</item>
+        </list>
+      </item>
       <item>Theatres, 27, 36, 213, 245.</item>
       <item>Theuriet, André, 135, 186, 251, 257,<lb/>267, 291, 297.</item>
       <item>Tucker, Miss (‘A. L. O. E.’), 192,<lb/>261.</item>

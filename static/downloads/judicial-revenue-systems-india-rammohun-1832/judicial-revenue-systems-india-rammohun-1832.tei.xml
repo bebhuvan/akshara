@@ -23,7 +23,7 @@
         <idno type="book_id">judicial-revenue-systems-india-rammohun-1832</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -79,6 +79,9 @@ Printed by Littlewood and Co.
 Old Bailey.</p>
             <pb xml:id="page-7" n="iii" facs="https://archive.org/download/expositionofprac00ramm/page/n6_w1400.jpg"/>
           </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head><hi rend="smallcaps">EXPOSITION</hi></head>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">OF THE</hi></head>
           </div>
@@ -162,11 +165,11 @@ SMITH, ELDER AND CO., CORNHILL</hi>.
     <list type="footnotes">
       <item><note xml:id="sec-02-fn-001" place="foot" n="*" target="#ref-sec-02-fn-001">“ <hi rend="italic">Vărshă</hi>” implies a large tract of continent cut off from other countries by natural boundaries, such as oceans, mountains, or extensive deserts.</note></item>
       <item><note xml:id="sec-02-fn-002" place="foot" n="†" target="#ref-sec-02-fn-002">“ <hi rend="italic">Bharat</hi>” a humane and powerful prince, supposed to have sprung from the “ <hi rend="italic">Indu-Bangs</hi>” or the lunar race.</note></item>
-      <item><note xml:id="sec-02-fn-003" place="foot" n="*" target="#ref-sec-02-fn-003">The boundary mountains are interrupted on the east between 90° and 91° E. and lat. 26° and 27° N. Hence the countries to the east of the Burrampooter, as Assam, Ava, Siam, &amp;c. as far as 102° E. long. are by some authors considered as part of India, though beyond its natural limits; and by European writers usually called “India beyond the Ganges.” There, relics of Sanscrit literature, and remains of Hindu temples are still found. Other ancient writers, however, considered these countries as attached to China, the inhabitants having greater resemblance to the Chinese in their features. The western boundary mountains are in like manner broken at long. 70° East, and at lat. 34° North. Consequently the countries beyond that natural limit, such as Caubul and Candahar, are supposed by some to be included in India, and by others in Persia. But many Hindū antiquities still exist there to corroborate the former notion.—Not only the northern boundary mountains of India, but also those mountains which form the eastern and western limits of it, are by the ancient writers on India termed Himalaya, and considered branches of that great chain. “In the north direction is situated the prince of mountains, the ‘immortal Himālāyā’ which immersing both in the eastern and western seas, stands on earth as a standard of measure (or line of demarcation.)” Cāli. Dās.</note></item>
+      <item><note xml:id="sec-02-fn-003" place="foot" n="*" target="#ref-sec-02-fn-003">The boundary mountains are interrupted on the east between 90° and 91° E. and lat. 26° and 27° N. Hence the countries to the east of the Burrampooter, as Assam, Ava, Siam, &amp;c. as far as 102° E. long. are by some authors considered as part of India, though beyond its natural limits; and by European writers usually called “India beyond the Ganges.” There, relics of Sanscrit literature, and remains of Hindu temples are still found. Other ancient writers, however, considered these countries as attached to China, the inhabitants having greater resemblance to the Chinese in their features.<lb type="paragraph"/>The western boundary mountains are in like manner broken at long. 70° East, and at lat. 34° North. Consequently the countries beyond that natural limit, such as Caubul and Candahar, are supposed by some to be included in India, and by others in Persia. But many Hindū antiquities still exist there to corroborate the former notion.—Not only the northern boundary mountains of India, but also those mountains which form the eastern and western limits of it, are by the ancient writers on India termed Himalaya, and considered branches of that great chain. “In the north direction is situated the prince of mountains, the ‘immortal Himālāyā’ which immersing both in the eastern and western seas, stands on earth as a standard of measure (or line of demarcation.)” Cāli. Dās.</note></item>
       <item><note xml:id="sec-02-fn-004" place="foot" n="*" target="#ref-sec-02-fn-004"><hi rend="italic">Mănu</hi>, the most ancient authority, thus defines their limits. “The lands lying as far as the eastern, and as far as the western oceans, <hi rend="italic">and</hi> between the mountains just mentioned (Himālaya and Vindhyā), are known to the wise by the name of “ Aryāvătă” or the land inhabited by respectable people.” Ch. II. v. 22. In his translation of this passage, <hi rend="italic">Sir William Jones</hi>, by omitting to refer to the commentary, which substitutes the copulative Sanscrit particle “ <hi rend="italic">Ch</hi>” for “ <hi rend="italic">Eb</hi>,” has thus translated this passage : “ As far as the eastern and as far as the western oceans, between the two mountains just mentioned, lies the tract which the wise have named Aryaverta.” This rendered the description obscure, if not wholly unintelligible ; since the countries lying between these two ranges of mountains, are scarcely situated between the eastern and western seas.</note></item>
       <item><note xml:id="sec-02-fn-005" place="foot" n="†" target="#ref-sec-02-fn-005">Because this division includes within it the tract which is called the Sacred Land, situated to the north of Delhi, thus described by Manu. “ Between the two divine rivers, Saraswatī and Drishadwatī, lies the tract of land which the sages have named Brahmavārta, because it was frequented by gods.</note></item>
       <item><note xml:id="sec-02-fn-006" place="foot" n="*" target="#ref-sec-02-fn-006">A country, where the distinction of the four classes (Brāhman, Kshatriya, Vaishya, and Sūdra) is not observed, is known as ‘<hi rend="italic">Mlechha Desh</hi>’ or barbarous country,” as quoted by Raghunandan.</note></item>
-      <item><note xml:id="sec-02-fn-007" place="foot" n="†" target="#ref-sec-02-fn-007">Compare the feeble state of Persia when ruled by several independent princes, with the formidable power she enjoyed when consolidated under the empire of <hi rend="italic">Saffi</hi>. Direct your attention to a still nearer country, I mean England; and compare the consequences formerly arising from her divided resources, with her present state of elevation under the subsisting union.</note></item>
+      <item><note xml:id="sec-02-fn-007" place="foot" n="†" target="#ref-sec-02-fn-007">Compare the feeble state of Persia when ruled by several independent princes, with the formidable power she enjoyed when consolidated under the empire of <hi rend="italic">Saffi</hi>.<lb type="paragraph"/>Direct your attention to a still nearer country, I mean England; and compare the consequences formerly arising from her divided resources, with her present state of elevation under the subsisting union.</note></item>
       <item><note xml:id="sec-02-fn-008" place="foot" n="*" target="#ref-sec-02-fn-008">It may be considered as consisting of the following twenty provinces: Delhi, Lahore, Cashmere, Cabul, Candahar, Ajmere, Multan, Guzrat, Agra, Oude, Allahabad, Behar, Bengal, Orissa, Malwah, Khandesh, Berar, Aurungabad, Golconda, Bejapoor.</note></item>
       <item><note xml:id="sec-02-fn-009" place="foot" n="*" target="#ref-sec-02-fn-009">Bruce's Annals; Anderson's History of Commerce in M'Pherson's Annals; Sir Thomas Roe's Journal and Letters; Raynal's East and West Indies; Orme's Historical fragments, and on the Government and people of Hindostan; Dow's History; Malcolm's Sketch of the political History of India; Ditto, Central India; and Mill's History of British India.</note></item>
       <item><note xml:id="sec-02-fn-010" place="foot" n="†" target="#ref-sec-02-fn-010">They were generally relations and friends of the leading members of the company, twenty-four in number, called the "Directors," first elected in 1709, and invested by the general body of the company with the power of managing their territorial possessions in India, as well as their commerce in the East and West.</note></item>
@@ -191,8 +194,7 @@ of India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1—55</p>
 India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111</p>
           <p rend="toc-entry"><hi rend="bold">VI.</hi> Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . 113—126</p>
           <pb xml:id="page-24" n="xx" facs="https://archive.org/download/expositionofprac00ramm/page/n23_w1400.jpg"/>
-          <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0024.webp"/><figDesc>Map of the Indian subcontinent showing regional divisions (Lahore, Mooltan, Ajmeer, Delhi, Oude, Malwah, Allahabad, Bahar, Bengal, Berar, Aurungabad, Hyderabad, Bejapoor, Orissa, Gujerat), mountain ranges (Himalaya Mountains, Vindhya Mts.), major rivers (Indus, Ganges, Burrampooter), surrounding territories (Tibet, Conlines of Persia, Barma), Ceylon, and surrounding bodies of water (Bay of Bengal, Indian Ocean).</figDesc></figure>
-          <p rend="imprint"><hi rend="italic">London, Published by Smith, Elder &amp; C<hi rend="sup">o</hi>. 65, Cornhill.</hi></p>
+          <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0024.webp"/><head><hi rend="italic">London, Published by Smith, Elder &amp; C<hi rend="sup">o</hi>. 65, Cornhill.</hi></head><figDesc>Map of the Indian subcontinent showing regional divisions (Lahore, Mooltan, Ajmeer, Delhi, Oude, Malwah, Allahabad, Bahar, Bengal, Berar, Aurungabad, Hyderabad, Bejapoor, Orissa, Gujerat), mountain ranges (Himalaya Mountains, Vindhya Mts.), major rivers (Indus, Ganges, Burrampooter), surrounding territories (Tibet, Conlines of Persia, Barma), Ceylon, and surrounding bodies of water (Bay of Bengal, Indian Ocean). — London, Published by Smith, Elder &amp; Co. 65, Cornhill.</figDesc></figure>
         </div>
       </div>
       <div xml:id="sec-04" type="chapter" n="04-ii-questions-and-answers-on-the-judicial-system-of-india">
@@ -536,7 +538,7 @@ India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111</p>
         <pb xml:id="page-111" n="87" facs="https://archive.org/download/expositionofprac00ramm/page/n110_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="smallcaps">PAPER</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">on the</hi></head>
           </div>
           <div type="subsection" n="h2">
@@ -580,7 +582,7 @@ India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111</p>
         <pb xml:id="page-125" n="101" facs="https://archive.org/download/expositionofprac00ramm/page/n124_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>ADDITIONAL QUERIES</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">respecting</hi></head>
           </div>
           <div type="subsection" n="h2">
@@ -668,7 +670,7 @@ India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111</p>
           </div>
           <div type="subsection" n="h2">
             <head>No. IV.</head>
-            <p>An idea has gone abroad that the permanent, or Zamindary system, though undeniably beneficial to Government, has proved too advantageous to the landholders; and the vast wealth which they are supposed to have derived from it has excited an anxiety in the minds of some to devise a plea for overturning it. The fact, however, is, that even the greatest landholder in the country, such as the Rajah of Burdwan, who pays a landtax <pb xml:id="page-143" n="119" facs="https://archive.org/download/expositionofprac00ramm/page/n142_w1400.jpg"/> of between 30 and 40 lakhs of rupees to Government, does not receive more than six or eight lakhs, about 20 per cent. on the amount collected, for his own share as proprietor. For this sum they incur an immense responsibility to the Government; they are punishable for thefts and robberies committed within their estates, when suspected even of negligence in preventing or detecting such offences, and subject to loss by inundations and failure of crops. Some may have about an equal sum with that payable to government, and a very few double; these almost exclusively in the eastern parts of Bengal. But the generality are by no means so favourably situated as is generally supposed; a fact clearly proved by the estates which come into the immediate management of Government in the Court of Wards, and which may be easily inferred from the frequent sales of estates for arrears of revenue.</p>
+            <p>An idea has gone abroad that the permanent, or Zamindary system, though undeniably beneficial to Government, has proved too advantageous to the landholders; and the vast wealth which they are supposed to have derived from it has excited an anxiety in the minds of some to devise a plea for overturning it. The fact, however, is, that even the greatest landholder in the country, such as the Rajah of Burdwan, who pays a land-tax <pb xml:id="page-143" n="119" facs="https://archive.org/download/expositionofprac00ramm/page/n142_w1400.jpg"/> of between 30 and 40 lakhs of rupees to Government, does not receive more than six or eight lakhs, about 20 per cent. on the amount collected, for his own share as proprietor. For this sum they incur an immense responsibility to the Government; they are punishable for thefts and robberies committed within their estates, when suspected even of negligence in preventing or detecting such offences, and subject to loss by inundations and failure of crops. Some may have about an equal sum with that payable to government, and a very few double; these almost exclusively in the eastern parts of Bengal. But the generality are by no means so favourably situated as is generally supposed; a fact clearly proved by the estates which come into the immediate management of Government in the Court of Wards, and which may be easily inferred from the frequent sales of estates for arrears of revenue.</p>
             <p>Supposing these landholders of Bengal to stand in the place of the farmers in England, who are considered to pay about one-third of the produce of their farms as rent; is there any thing so unreasonable, if the Zamindars receive 15 or 20 per cent.; a very few 30 per cent. of the produce of their estates? If the persons above alluded to, who suppose the Zamindars too well off, will only wait a little, as the law of primogeniture is not established or observed, the effect of hereditary succession will soon so subdivide the estates, and reduce the incomes of the landholders, that very few, if any, rich Zamindars can be found in the country.</p>
             <pb xml:id="page-144" n="120" facs="https://archive.org/download/expositionofprac00ramm/page/n143_w1400.jpg"/>
           </div>
@@ -676,7 +678,7 @@ India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111</p>
         <div type="subsection" n="h1">
           <head>No. V.</head>
           <p>In illustration of the statement made in my reply to Query 52, on the Revenue System, that as a sum of money is drawn from India by Europeans retiring from it with fortunes realized there, a different system, calculated to encourage Europeans of capital to become permanent settlers with their families, would necessarily greatly improve the resources of the country; I here subjoin some tables showing the amount paid to the principal European Civil Officers of the Government in the General, Judicial and Revenue Departments in India in 1826-7. The Military Establishment, of course, is not included. Besides, such Europeans as are barristers, solicitors and law officers paid by fees, merchants, agents, and planters also, not being permitted to settle in the country, retire from it with their fortunes; and these, likewise, are not included in the Statement. Moreover, many miscellaneous and minor officers are not enumerated in the subjoined List; I also annex a note shewing the amount of the Revenues of India expended in England.</p>
-          <table xml:id="tbl-001" rows="19" cols="3">
+          <table xml:id="tbl-001" rows="21" cols="3">
       <head>BENGAL CIVIL OFFICES.</head>
       <row role="label"><cell role="label">I. GENERAL BRANCH.</cell><cell role="label"></cell><cell role="label"></cell></row>
       <row role="label"><cell role="label"></cell><cell role="label">Per Annum. Indian Money.</cell><cell role="label">Per Annum. Sterling.</cell></row>
@@ -685,7 +687,9 @@ India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111</p>
       <row role="data"><cell>6 Secretaries to Government</cell><cell rend="num">2,74,000</cell><cell rend="num">27,400</cell></row>
       <row role="data"><cell>3 Judges of the King's Supreme Court</cell><cell rend="num">1,95,344</cell><cell rend="num">19,534</cell></row>
       <row role="data"><cell>Lord Bishop of Calcutta</cell><cell rend="num">50,303</cell><cell rend="num">5,030</cell></row>
-      <row role="data"><cell><pb xml:id="page-145" n="121" facs="https://archive.org/download/expositionofprac00ramm/page/n144_w1400.jpg"/> Archdeacon and 31 Chaplains</cell><cell rend="num">3,00,222</cell><cell rend="num">30,022</cell></row>
+      <row role="data" rend="header"><cell><pb xml:id="page-145" n="121" facs="https://archive.org/download/expositionofprac00ramm/page/n144_w1400.jpg"/></cell><cell cols="2">Per Annum.</cell></row>
+      <row role="data" rend="header"><cell></cell><cell>Indian Money.</cell><cell>Sterling.</cell></row>
+      <row role="data"><cell>Archdeacon and 31 Chaplains</cell><cell rend="num">3,00,222</cell><cell rend="num">30,022</cell></row>
       <row role="data"><cell>Advocate-General, Company's Attorney, and Standing Counsel</cell><cell rend="num">80,581</cell><cell rend="num">8,058</cell></row>
       <row role="data"><cell>7 Residents at Native Courts, (Delhi, Lucknow, Gualior, Nagpoor, Hyderabad, Indore, Nepaul)</cell><cell rend="num">6,81,509</cell><cell rend="num">68,150</cell></row>
       <row role="data"><cell>9 Local (Political) Agents, with 6 Assistants and 6 Surgeons</cell><cell rend="num">2,37,573</cell><cell rend="num">23,757</cell></row>
@@ -777,7 +781,7 @@ India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111</p>
     </list>
   </div>
       </div>
-      <div xml:id="sec-09" type="backmatter" n="09-index">
+      <div xml:id="sec-09" type="index" n="09-index">
         <head>INDEX.</head>
         <pb xml:id="page-151" n="127" facs="https://archive.org/download/expositionofprac00ramm/page/n150_w1400.jpg"/>
         <div type="subsection" n="h1">

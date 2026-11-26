@@ -1,6 +1,6 @@
 ---
 title: "The Pālas of Bengal"
-date: "2026-11-22"
+date: "2026-11-26"
 subtitle: "Memoirs of the Asiatic Society of Bengal, Vol. V, No. 3"
 author: "R. D. Banerji"
 author_slug: "r-d-banerji"
@@ -29,23 +29,23 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Apparatus & Footnotes"
-    score: 22.0
+    score: 25.0
     max: 25.0
-    notes: "-3.0: 1 unresolved footnote callout/body mismatch(es)"
+    notes: "Clean (0 deductions)"
   - name: "Tabular & Numeric Accuracy"
     score: 25.0
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Orthography & Diacritics"
-    score: 14.4
+    score: 11.4
     max: 25.0
-    notes: "-10.0: 20 intra-book diacritic drift cluster(s); -0.6: 3 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-3.0: 1 script/codepoint anomaly(ies); -10.0: 23 intra-book diacritic drift cluster(s); -0.6: 3 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (24 open review items); 5 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (27 open review items); 5 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 40 fixes · 5 pp. checked"
+  - "Scan-Triaged: 139 fixes · 5 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
@@ -108,20 +108,21 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (32 flyleaf/stamp block(s)) are excluded from reading prose; **34** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **205** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (51 distinct non-ASCII characters across 98 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**77** places); **225** straight quotation marks and apostrophes are set as curly ones; **1** stanzas cut by a page turn are joined, keeping the page mark; **2** section(s) printed only as part of the physical volume (publishers' lists and advertisements) are placed at the end. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (105 pp.).
   - **Reader**: Read by gemini-3.8-flash on 105 of 105 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen). This edition predates that choice and has not been re-read with gemini-4-hydrogen.
-  - **Human Proofing**: 40 replayed correction(s). Automated reading (24 open review items); 5 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 139 replayed correction(s). Automated reading (27 open review items); 5 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **20 finding(s) across 15 leaf(s)** (pp. 16, 26, 28, 31, 32, 36, 43, 62, 69, 75 (+5 more)): proper nouns or transliterated terms whose diacritics vary across pages.
-  - **19 finding(s) across 14 leaf(s)** (pp. 19, 28, 39, 40, 48, 49, 52, 66, 68, 74 (+4 more)): rare character.
+  - **23 finding(s) across 18 leaf(s)** (pp. 16, 26, 28, 30, 31, 32, 35, 36, 43, 62 (+8 more)): proper nouns or transliterated terms whose diacritics vary across pages.
+  - **16 finding(s) across 14 leaf(s)** (pp. 19, 28, 39, 40, 42, 48, 49, 52, 66, 74 (+4 more)): rare character.
   - **5 finding(s) across 4 leaf(s)** (pp. 28, 41, 82, 122): attested compositor spelling variants preserved diplomatically from the scan.
   - **3 finding(s) across 1 leaf(s)** (pp. 105): faded or blotted `<unclear>` passages awaiting human scan inspection.
-  - **1 finding(s) across 1 leaf(s)** (pp. 65): pages where a footnote marker and note body could not be paired automatically.
+  - **1 finding(s) across 1 leaf(s)** (pp. 42): script anomaly.
   - **1 finding(s) across 1 leaf(s)** (pp. 34): attested compositor footnote callout/note variants preserved diplomatically from the scan.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.

@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,2,1873,...,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,3,1874,...,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,4,1875,...,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,5,1876,4·01,4.01,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,6,1877,3·62,3.62,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,7,1878,3·47,3.47,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,8,1879,3·02,3.02,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,9,Column 9,2·93,2.93,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,10,Column 10,2·80,2.8,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,1,data,,Per cwt. £,11,Column 11,2·76,2.76,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,2,1873,1880,1880.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,3,1874,1881,1881.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,4,1875,1882,1882.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,5,1876,1883,1883.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,6,1877,1884,1884.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,7,1878,1885,1885.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,8,1879,—,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,9,Column 9,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,10,Column 10,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,2,header,,—,11,Column 11,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,2,1873,..,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,3,1874,...,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,4,1875,...,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,5,1876,2·94,2.94,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,6,1877,2·92,2.92,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,7,1878,2·93,2.93,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,8,1879,2·91,2.91,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,9,Column 9,2·85,2.85,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,10,Column 10,2·86,2.86,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,527,508,3,data,,Per cwt. £,11,Column 11,,,,True,False

@@ -1,0 +1,93 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,1,data,,Rice,2,Quantities per month. :: Seers.,12,12.0,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,1,data,,Rice,3,Cost per month in 1863. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,1,data,,Rice,4,Cost per month in 1863. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,1,data,,Rice,5,Remarks.,"It will be observed that simple living and clothing are here exhibited, and nothing is taken into account for support of dependent members of family, servants, religious and other domestic expenses.",,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,2,data,,Bajri,2,Quantities per month. :: Seers.,12,12.0,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,2,data,,Bajri,3,Cost per month in 1863. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,2,data,,Bajri,4,Cost per month in 1863. :: a.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,2,data,,Bajri,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,3,data,,"Toor Dhal, &c",2,Quantities per month. :: Seers.,4,4.0,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,3,data,,"Toor Dhal, &c",3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,3,data,,"Toor Dhal, &c",4,Cost per month in 1863. :: a.,12,12.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,3,data,,"Toor Dhal, &c",5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,4,data,,Ghee,2,Quantities per month. :: Seers.,0¾,0.75,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,4,data,,Ghee,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,4,data,,Ghee,4,Cost per month in 1863. :: a.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,4,data,,Ghee,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,5,data,,Vegetables,2,Quantities per month. :: Seers.,...,,seers,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,5,data,,Vegetables,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,5,data,,Vegetables,4,Cost per month in 1863. :: a.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,5,data,,Vegetables,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,6,data,,Oil,2,Quantities per month. :: Seers.,1¼,1.25,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,6,data,,Oil,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,6,data,,Oil,4,Cost per month in 1863. :: a.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,6,data,,Oil,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,7,data,,Firewood,2,Quantities per month. :: Seers.,...,,seers,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,7,data,,Firewood,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,7,data,,Firewood,4,Cost per month in 1863. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,7,data,,Firewood,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,8,data,,Salt,2,Quantities per month. :: Seers.,1,1.0,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,8,data,,Salt,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,8,data,,Salt,4,Cost per month in 1863. :: a.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,8,data,,Salt,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,9,data,,Mussala,2,Quantities per month. :: Seers.,...,,seers,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,9,data,,Mussala,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,9,data,,Mussala,4,Cost per month in 1863. :: a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,9,data,,Mussala,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,10,data,,Chillies,2,Quantities per month. :: Seers.,0½,0.5,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,10,data,,Chillies,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,10,data,,Chillies,4,Cost per month in 1863. :: a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,10,data,,Chillies,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,11,data,,Milk,2,Quantities per month. :: Seers.,4,4.0,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,11,data,,Milk,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,11,data,,Milk,4,Cost per month in 1863. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,11,data,,Milk,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,12,data,,Betelnut-leaves,2,Quantities per month. :: Seers.,...,,seers,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,12,data,,Betelnut-leaves,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,12,data,,Betelnut-leaves,4,Cost per month in 1863. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,12,data,,Betelnut-leaves,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,13,subtotal,,Row 13,2,Quantities per month. :: Seers.,Rs.,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,13,subtotal,,Row 13,3,Cost per month in 1863. :: Rs.,6,6.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,13,subtotal,,Row 13,4,Cost per month in 1863. :: a.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,13,subtotal,,Row 13,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,14,subheader,,Clothing—,2,Quantities per month. :: Seers.,,,seers,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,14,subheader,,Clothing—,3,Cost per month in 1863. :: Rs.,Cost per Month.,,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,14,subheader,,Clothing—,4,Cost per month in 1863. :: a.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,14,subheader,,Clothing—,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,15,data,,Turbans,2,Quantities per month. :: Seers.,Rs.,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,15,data,,Turbans,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,15,data,,Turbans,4,Cost per month in 1863. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,15,data,,Turbans,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,16,data,,Dhotee,2,Quantities per month. :: Seers.,„,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,16,data,,Dhotee,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,16,data,,Dhotee,4,Cost per month in 1863. :: a.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,16,data,,Dhotee,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,17,data,,Puncha,2,Quantities per month. :: Seers.,„,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,17,data,,Puncha,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,17,data,,Puncha,4,Cost per month in 1863. :: a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,17,data,,Puncha,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,18,data,,Rumal,2,Quantities per month. :: Seers.,„,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,18,data,,Rumal,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,18,data,,Rumal,4,Cost per month in 1863. :: a.,0½,0.5,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,18,data,,Rumal,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,19,data,,Coats,2,Quantities per month. :: Seers.,„,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,19,data,,Coats,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,19,data,,Coats,4,Cost per month in 1863. :: a.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,19,data,,Coats,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,20,data,,Waistcoat,2,Quantities per month. :: Seers.,„,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,20,data,,Waistcoat,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,20,data,,Waistcoat,4,Cost per month in 1863. :: a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,20,data,,Waistcoat,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,21,data,,Shoes,2,Quantities per month. :: Seers.,„,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,21,data,,Shoes,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,21,data,,Shoes,4,Cost per month in 1863. :: a.,1½,1.5,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,21,data,,Shoes,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,22,subtotal,,Total,2,Quantities per month. :: Seers.,Rs.,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,22,subtotal,,Total,3,Cost per month in 1863. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,22,subtotal,,Total,4,Cost per month in 1863. :: a.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,22,subtotal,,Total,5,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,23,total,,Grand Total,2,Quantities per month. :: Seers.,Rs.,,seers,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,23,total,,Grand Total,3,Cost per month in 1863. :: Rs.,8,8.0,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,23,total,,Grand Total,4,Cost per month in 1863. :: a.,6 per month.,,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,49,29,23,total,,Grand Total,5,Remarks.,,,,True,False

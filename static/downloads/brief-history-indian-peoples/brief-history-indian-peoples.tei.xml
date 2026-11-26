@@ -23,7 +23,7 @@
         <idno type="book_id">brief-history-indian-peoples</idno>
         <idno type="collection">general-heritage</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -71,20 +71,21 @@ PUBLISHER TO THE UNIVERSITY OF OXFORD
 LONDON, EDINBURGH, NEW YORK
 TORONTO AND MELBOURNE</p>
         <pb xml:id="page-4" n="2" facs="https://archive.org/download/briefhistoryofin00hunt/page/n3_w1400.jpg"/>
-        <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0004.webp"/><figDesc>Map of The Indian Empire, prepared for Sir William Wilson Hunter&#x27;s Imperial Gazetteer of India (Scale 265 miles to 1 inch), showing provinces, rivers, railways, and surrounding seas.</figDesc></figure>
-        <p rend="imprint">Clarendon Press, Oxford.</p>
-        <p rend="imprint">Engraved by W. &amp; A. K. Johnston, Limited, Edinburgh &amp; London.</p>
+        <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0004.webp"/><head>Clarendon Press, Oxford. — Engraved by W. &amp; A. K. Johnston, Limited, Edinburgh &amp; London.</head><figDesc>Map of The Indian Empire, prepared for Sir William Wilson Hunter&#x27;s Imperial Gazetteer of India (Scale 265 miles to 1 inch), showing provinces, rivers, railways, and surrounding seas. — Clarendon Press, Oxford. — Engraved by W. &amp; A. K. Johnston, Limited, Edinburgh &amp; London.</figDesc></figure>
         <pb xml:id="page-5" n="3" facs="https://archive.org/download/briefhistoryofin00hunt/page/n4_w1400.jpg"/>
-        <p><hi rend="smallcaps">By</hi> SIR WILLIAM WILSON HUNTER, K.C.S.I., C.I.E.</p>
-        <p>M.A. <hi rend="smallcaps">Oxon.</hi>, LL.D. <hi rend="smallcaps">Cambridge</hi></p>
-        <p>A <hi rend="smallcaps">Vice-President of the Royal Asiatic Society</hi></p>
-        <p>TWENTY-FOURTH EDITION. NINETY-SECOND THOUSAND</p>
-        <p rend="imprint">OXFORD : AT THE CLARENDON PRESS : 1907</p>
-        <pb xml:id="page-6" n="4" facs="https://archive.org/download/briefhistoryofin00hunt/page/n5_w1400.jpg"/>
-        <p rend="imprint">OXFORD
+        <div type="subsection" n="h1">
+          <head><hi rend="italic">A BRIEF HISTORY OF THE INDIAN PEOPLES</hi></head>
+          <p><hi rend="smallcaps">By</hi> SIR WILLIAM WILSON HUNTER, K.C.S.I., C.I.E.</p>
+          <p>M.A. <hi rend="smallcaps">Oxon.</hi>, LL.D. <hi rend="smallcaps">Cambridge</hi></p>
+          <p>A <hi rend="smallcaps">Vice-President of the Royal Asiatic Society</hi></p>
+          <p>TWENTY-FOURTH EDITION. NINETY-SECOND THOUSAND</p>
+          <p rend="imprint">OXFORD : AT THE CLARENDON PRESS : 1907</p>
+          <pb xml:id="page-6" n="4" facs="https://archive.org/download/briefhistoryofin00hunt/page/n5_w1400.jpg"/>
+          <p rend="imprint">OXFORD
 PRINTED AT THE CLARENDON PRESS
 BY HORACE HART, M.A.
 PRINTER TO THE UNIVERSITY</p>
+        </div>
       </div>
       <div xml:id="sec-02" type="frontmatter" n="02-preface">
         <head>Preface</head>
@@ -119,23 +120,23 @@ PRINTER TO THE UNIVERSITY</p>
         <pb xml:id="page-11" n="9" facs="https://archive.org/download/briefhistoryofin00hunt/page/n10_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>TABLE OF CONTENTS</head>
-          <div type="subsection" n="h2">
-            <head>CHAPTER I.</head>
-            <p rend="toc-entry"><hi rend="smallcaps">The Country</hi> . . . . . . . 17–31</p>
-            <p>Situation and size of India, 17, 18; the four regions of which it is composed, 18; first region—the Himálayas, 18–21; Himálayan river system—Indus, Sutlej, Brahmaputra, Ganges and Jumna, 21, 22; second region—river plains of India, 22, 23; work done by the rivers—the Bengal Delta, 23–26; crops and scenery of the northern river plains, 26, 27; third region—the southern table-land, its scenery, rivers and products, 27–30; fourth region—Burma, 30, 31; materials for reference, 31.</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER II.</head>
-            <p rend="toc-entry"><hi rend="smallcaps">The People</hi> . . . . . . . 32–39</p>
-            <p>General survey of the people, 32, 33; population statistics in British and Native India, 33–35; density of population, 36; scarcity of large towns, 36; overcrowded and under-peopled Districts, 36, 37; distribution of the people, 37; nomadic system of husbandry, 37; rise in rents, 37, 38; abolition of serfdom, 38; four-fold division of the people, 38, 39; the two chief races of pre-historic India, 39; materials for reference, 39.</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER III.</head>
-            <p rend="toc-entry"><hi rend="smallcaps">The non-Aryans</hi> . . . . . 40–51</p>
-            <p rend="toc-entry">The non-Aryans or ‘Aborigines,’ 40; as described in the Veda, 40, 41; the non-Aryans at the present day, 41, 42; the Andaman islanders, 42; hill tribes in Madras, 42, 43; in the Vindhya ranges, 43; in the Central Provinces, 44; leaf-wearing tribe in Orissa, 44; Himálayan tribes, 44, 45; the Santáls of Lower Bengal, their system of government history, &amp;c., 45–47; the Kandhs of Orissa,</p>
-            <pb xml:id="page-12" n="10" facs="https://archive.org/download/briefhistoryofin00hunt/page/n11_w1400.jpg"/>
-            <p>their customs, human sacrifices, &amp;c., 47–49; the three great non-Aryan stocks, 49; character and future of the non-Aryans, 50; materials for reference, 51.</p>
-          </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER I.</head>
+          <p rend="toc-entry"><hi rend="smallcaps">The Country</hi> . . . . . . . 17–31</p>
+          <p>Situation and size of India, 17, 18; the four regions of which it is composed, 18; first region—the Himálayas, 18–21; Himálayan river system—Indus, Sutlej, Brahmaputra, Ganges and Jumna, 21, 22; second region—river plains of India, 22, 23; work done by the rivers—the Bengal Delta, 23–26; crops and scenery of the northern river plains, 26, 27; third region—the southern table-land, its scenery, rivers and products, 27–30; fourth region—Burma, 30, 31; materials for reference, 31.</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER II.</head>
+          <p rend="toc-entry"><hi rend="smallcaps">The People</hi> . . . . . . . 32–39</p>
+          <p>General survey of the people, 32, 33; population statistics in British and Native India, 33–35; density of population, 36; scarcity of large towns, 36; overcrowded and under-peopled Districts, 36, 37; distribution of the people, 37; nomadic system of husbandry, 37; rise in rents, 37, 38; abolition of serfdom, 38; four-fold division of the people, 38, 39; the two chief races of pre-historic India, 39; materials for reference, 39.</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER III.</head>
+          <p rend="toc-entry"><hi rend="smallcaps">The non-Aryans</hi> . . . . . 40–51</p>
+          <p rend="toc-entry">The non-Aryans or ‘Aborigines,’ 40; as described in the Veda, 40, 41; the non-Aryans at the present day, 41, 42; the Andaman islanders, 42; hill tribes in Madras, 42, 43; in the Vindhya ranges, 43; in the Central Provinces, 44; leaf-wearing tribe in Orissa, 44; Himálayan tribes, 44, 45; the Santáls of Lower Bengal, their system of government history, &amp;c., 45–47; the Kandhs of Orissa,</p>
+          <pb xml:id="page-12" n="10" facs="https://archive.org/download/briefhistoryofin00hunt/page/n11_w1400.jpg"/>
+          <p>their customs, human sacrifices, &amp;c., 47–49; the three great non-Aryan stocks, 49; character and future of the non-Aryans, 50; materials for reference, 51.</p>
         </div>
         <div type="subsection" n="h1">
           <head>CHAPTER IV.</head>
@@ -1185,7 +1186,7 @@ PRINTER TO THE UNIVERSITY</p>
       </div>
     </body>
     <back>
-      <div xml:id="sec-21" type="backmatter" n="21-index">
+      <div xml:id="sec-21" type="index" n="21-index">
         <head>Index</head>
         <pb xml:id="page-247" n="245" facs="https://archive.org/download/briefhistoryofin00hunt/page/n246_w1400.jpg"/>
         <div type="subsection" n="h1">

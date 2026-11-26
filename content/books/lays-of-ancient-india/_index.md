@@ -1,6 +1,6 @@
 ---
 title: "Lays of Ancient India"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: "Selections from Indian Poetry Rendered into English Verse"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -115,6 +115,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (24 flyleaf/stamp block(s)) are excluded from reading prose; **5** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **1** cross-page split footnotes and **1** multi-page tables were stitched; and **75** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (18 distinct non-ASCII characters across 156 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**1209** places); **129** straight quotation marks and apostrophes are set as curly ones; **252** printed stanza numbers are set as labels on their stanzas; **66** stanzas cut by a page turn are joined, keeping the page mark; **1** section(s) printed only as part of the physical volume (publishers' lists and advertisements) are placed at the end. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

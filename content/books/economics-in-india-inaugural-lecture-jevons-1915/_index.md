@@ -1,6 +1,6 @@
 ---
 title: "Economics in India"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: "Inaugural Lecture Delivered at the University of Allahabad"
 author: "H. Stanley Jevons"
 author_slug: "h-stanley-jevons"
@@ -100,6 +100,7 @@ editorial_note_markdown: |-
 
   - **Modernized (Presentation Only)**: Running heads and institutional library stamps (20 flyleaf/stamp block(s)) are excluded from reading prose; **28** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **120** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (0 distinct non-ASCII characters across 0 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**9** places); **14** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 

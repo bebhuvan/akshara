@@ -18,7 +18,10 @@
 
 <!-- page: 11 | folio: 3 -->
 
-##### BY
+### LIFE IN AN INDIAN VILLAGE
+
+
+#### BY
 
 
 #### T. RAMAKRISHNA, B.A.
@@ -46,19 +49,19 @@ PATERNOSTER SQUARE
 ### <span class="sc">CONTENTS</span>.
 
 
-#### CHAPTER I.
+### CHAPTER I.
 
 - Introductory remarks—The headman—The accountant—The watchman . . . . 25
 
-#### CHAPTER II.
+### CHAPTER II.
 
 - The Hindu system of caste—The Puróhitā, or the astrologer—The temple priests—The schoolmaster . 37
 
-#### CHAPTER III.
+### CHAPTER III.
 
 - Hindu poetry—The physician—The carpenter—The blacksmith—The shepherd—The story of the dull shepherd . . . . . 51
 
-#### CHAPTER IV.
+### CHAPTER IV.
 
 - The washerman—The potter—The barber and his wife, the village midwife—The Pujari, or the priest of the village goddess . . . . . 62
 
@@ -139,9 +142,7 @@ First, of course, comes the village headman, or village *Munsiff* as he is commo
 
 Secondly, the public accountant or *Kurnam.*
 
-Thirdly, the policeman, and
-
-Fourthly, the Brahmin sage.
+Thirdly, the policeman, and Fourthly, the Brahmin sage.
 
 These are followed by the schoolmaster, the *Vytkian* or physician, the carpenter, the blacksmith, the shepherd, the washerman, the potter, the barber and his wife.
 
@@ -249,7 +250,7 @@ As village munsiff, the whole management of the village is vested in him. He has
 > ‘‘I am the monarch of all I survey,  
 > My right there is none to dispute.’’
 
-Next in importance to Munsiff Kothundarama Mudelly is Ramasami Pillai, the kurnam or the accountant of the village. He has to keep a register of accounts. He is expected to know the extent, name, rent, &c., of every field in the village; he has to assist the munsiff in preparing accounts, when money is remitted. Whenever the villagers have letters to write to relations, documents to be executed and calculations of interest to be [p. 35] made, when disputes arise, the assistance of the infallible kurnam is invoked, as he is considered to be the neatest writer and the most accurate accountant of the village. Ramasami Pillai is a mighty person in the village, and he is also a wily person. There is a Tamil proverb—"Confide if you will in the young one of a crow, but never believe the son of a kurnam." The kurnam, though he may be a good man, has come to be regarded with distrust by the villagers, and such is the case with Ramasami Pillai. Nobody would dare to oppose him or incur his displeasure. Nevertheless, the simple villagers go to him whenever they have any business transactions, for nobody else in the village can perform their work so well as he, and Ramasami Pillai calculated interest so quickly, wrote documents so neatly and accurately, and, readily gave out, without reference to his register, whatever information was wanted regarding each and every plot of land in the village, that the people of Kélambakam viewed him with admiration and wondered—
+Next in importance to Munsiff Kothundarama Mudelly is Ramasami Pillai, the kurnam or the accountant of the village. He has to keep a register of accounts. He is expected to know the extent, name, rent, &c., of every field in the village; he has to assist the munsiff in preparing accounts, when money is remitted. Whenever the villagers have letters to write to relations, documents to be exccuted and calculations of interest to be [p. 35] made, when disputes arise, the assistance of the infallible kurnam is invoked, as he is considered to be the neatest writer and the most accurate accountant of the village. Ramasami Pillai is a mighty person in the village, and he is also a wily person. There is a Tamil proverb—"Confide if you will in the young one of a crow, but never believe the son of a kurnam." The kurnam, though he may be a good man, has come to be regarded with distrust by the villagers, and such is the case with Ramasami Pillai. Nobody would dare to oppose him or incur his displeasure. Nevertheless, the simple villagers go to him whenever they have any business transactions, for nobody else in the village can perform their work so well as he, and Ramasami Pillai calculated interest so quickly, wrote documents so neatly and accurately, and, readily gave out, without reference to his register, whatever information was wanted regarding each and every plot of land in the village, that the people of Kélambakam viewed him with admiration and wondered—
 
 > "That one small head could carry all he knew."
 
@@ -467,7 +468,7 @@ The pujaree, it will thus be seen, is a most deceitful person practising his tra
 
 #### **The Panisiva—Account of the dispute between the Panisiva and the potter, and the part played therein by the Brahmin Appalacharri—The Shylock of Kélambakam—The dancing girls—The story of the shepherd and his wife.**
 
-<span class="sc">When</span> in olden days rules were framed for the proper management of Indian village constitutions, and particular duties were assigned to particular individuals, there were no easy means of communication in the country. It was therefore found necessary to have a separate class of men—the *Panisivas*—to carry to friends and relatives invitations to weddings, funerals, and special festival occasions, which, as I said in one of my previous papers, are of almost daily occurrence in Hindu families. The word *Panisiva* means literally one who serves; and Kanthan, the *Panisiva* of Kélambakam, is a hardworking, faithful, and willing servant of the villagers. He is required to blow the conchshell [p. 75] during funerals, to serve betel and nut during marriages and festivals, to go even to distant villages to invite friends and relations to take part in those celebrations, and to do whatever other work is allotted to him on those occasions. By hard work and by the goodwill of the people of the village, he managed till very recently to live a happy life and even to save some money, The Brahmin Appalacharri very cleverly brought about an unnecessary quarrel between Kanthan, the *Panisiva*, and Kuppusami, the potter, they being neighbours, and by his scheming kept up the quarrel for some time. The result was that both of them figured many a time in the law courts, and learnt some very wholesome lessons after the expenditure of a good deal of money.
+<span class="sc">When</span> in olden days rules were framed for the proper management of Indian village constitutions, and particular duties were assigned to particular individuals, there were no easy means of communication in the country. It was therefore found necessary to have a separate class of men—the *Panisivas*—to carry to friends and relatives invitations to weddings, funerals, and special festival occasions, which, as I said in one of my previous papers, are of almost daily occurrence in Hindu families. The word *Panisiva* means literally one who serves; and Kanthan, the *Panisiva* of Kélambakam, is a hardworking, faithful, and willing servant of the villagers. He is required to blow the conch-shell [p. 75] during funerals, to serve betel and nut during marriages and festivals, to go even to distant villages to invite friends and relations to take part in those celebrations, and to do whatever other work is allotted to him on those occasions. By hard work and by the goodwill of the people of the village, he managed till very recently to live a happy life and even to save some money, The Brahmin Appalacharri very cleverly brought about an unnecessary quarrel between Kanthan, the *Panisiva*, and Kuppusami, the potter, they being neighbours, and by his scheming kept up the quarrel for some time. The result was that both of them figured many a time in the law courts, and learnt some very wholesome lessons after the expenditure of a good deal of money.
 
 This is how the dispute arose. One day when Appalacharri was sorely in need of money, he went to the potter, who was toiling at his wheel, and very cleverly drew him into a conversation, in the course of which he said : “ You know, Kuppusami, that there are two palmyra trees standing in the hedge, which separates your backyard from that of Kanthan. He [p. 76] enjoys their tender nuts and fruits. I do not see why you should not enjoy them also. Those trees stand in a common hedge, and in fact it is my strong conviction that they belong exclusively to you, and that the *Panisiva* has no right whatever to them." To this the potter said: "Yes, Swami! I also am entitled to enjoy the produce of the trees. I am sure to succeed if I can secure the assistance of one like you." "Do not be afraid," said the Brahmin, "the trees and the hedge will be yours." He then ask the potter to assist him with some money, which was willingly given.
 

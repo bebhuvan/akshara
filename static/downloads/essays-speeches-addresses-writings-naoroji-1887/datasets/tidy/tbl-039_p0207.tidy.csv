@@ -1,0 +1,53 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,1,data,,Rice,2,Quantities per month. :: Seers.,12,12.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,1,data,,Rice,3,Cost per month in 1863. :: Rs.,1,1.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,1,data,,Rice,4,Remarks.,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,1,data,,Rice,5,a.,It will be observed,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,2,data,,Bajri,2,Quantities per month. :: Seers.,12,12.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,2,data,,Bajri,3,Cost per month in 1863. :: Rs.,1,1.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,2,data,,Bajri,4,Remarks.,4,4.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,2,data,,Bajri,5,a.,that simple living and,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,3,data,,"Toor Dhal, &c",2,Quantities per month. :: Seers.,4,4.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,3,data,,"Toor Dhal, &c",3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,3,data,,"Toor Dhal, &c",4,Remarks.,12,12.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,3,data,,"Toor Dhal, &c",5,a.,clothing are here exhi-,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,4,data,,Ghee,2,Quantities per month. :: Seers.,0¾,0.75,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,4,data,,Ghee,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,4,data,,Ghee,4,Remarks.,10,10.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,4,data,,Ghee,5,a.,"bited, and nothing is",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,5,data,,Vegetables,2,Quantities per month. :: Seers.,…,,seers,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,5,data,,Vegetables,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,5,data,,Vegetables,4,Remarks.,6,6.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,5,data,,Vegetables,5,a.,taken into account for,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,6,data,,Oil,2,Quantities per month. :: Seers.,1¼,1.25,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,6,data,,Oil,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,6,data,,Oil,4,Remarks.,6,6.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,6,data,,Oil,5,a.,support of dependent,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,7,data,,Firewood,2,Quantities per month. :: Seers.,…,,seers,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,7,data,,Firewood,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,7,data,,Firewood,4,Remarks.,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,7,data,,Firewood,5,a.,"members of family, ser-",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,8,data,,Salt,2,Quantities per month. :: Seers.,1,1.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,8,data,,Salt,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,8,data,,Salt,4,Remarks.,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,8,data,,Salt,5,a.,"vants, religious and",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,9,data,,Mussala,2,Quantities per month. :: Seers.,…,,seers,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,9,data,,Mussala,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,9,data,,Mussala,4,Remarks.,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,9,data,,Mussala,5,a.,other domestic ex-,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,10,data,,Chillies,2,Quantities per month. :: Seers.,0½,0.5,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,10,data,,Chillies,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,10,data,,Chillies,4,Remarks.,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,10,data,,Chillies,5,a.,penses.,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,11,data,,Milk,2,Quantities per month. :: Seers.,4,4.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,11,data,,Milk,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,11,data,,Milk,4,Remarks.,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,11,data,,Milk,5,a.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,12,data,,Betelnut-leaves,2,Quantities per month. :: Seers.,…,,seers,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,12,data,,Betelnut-leaves,3,Cost per month in 1863. :: Rs.,0,0.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,12,data,,Betelnut-leaves,4,Remarks.,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,12,data,,Betelnut-leaves,5,a.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,13,total,,Row 13,2,Quantities per month. :: Seers.,Rs...,,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,13,total,,Row 13,3,Cost per month in 1863. :: Rs.,6,6.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,13,total,,Row 13,4,Remarks.,11,11.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-039,Table 39,207,188,13,total,,Row 13,5,a.,,,,True,False

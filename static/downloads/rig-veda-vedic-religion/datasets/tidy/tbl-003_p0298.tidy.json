@@ -372,7 +372,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "14, 15",
-    "value_numeric": 1415.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -426,7 +426,7 @@
     "column_index": 3,
     "column_header": "Pages",
     "raw_text": "129, 199",
-    "value_numeric": 129199.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -552,7 +552,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "5, 7",
-    "value_numeric": 57.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -588,7 +588,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "3, 5",
-    "value_numeric": 35.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -3540,7 +3540,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "7, 8",
-    "value_numeric": 78.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -3702,7 +3702,7 @@
     "column_index": 3,
     "column_header": "Pages",
     "raw_text": "147, 248",
-    "value_numeric": 147248.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -3792,7 +3792,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "6, 11",
-    "value_numeric": 611.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -3972,7 +3972,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "11, 13, 16, 19",
-    "value_numeric": 11131619.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -4368,7 +4368,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "2, 3",
-    "value_numeric": 23.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -4602,7 +4602,7 @@
     "column_index": 3,
     "column_header": "Pages",
     "raw_text": "151, 160, 199",
-    "value_numeric": 151160199.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -4908,7 +4908,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "25, 26",
-    "value_numeric": 2526.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -5142,7 +5142,7 @@
     "column_index": 3,
     "column_header": "Pages",
     "raw_text": "85, 152",
-    "value_numeric": 85152.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -5700,7 +5700,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "1, 4, 5",
-    "value_numeric": 145.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -5880,7 +5880,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "1, 7, 13",
-    "value_numeric": 1713.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -6168,7 +6168,7 @@
     "column_index": 2,
     "column_header": "Verses",
     "raw_text": "36, 42, 46",
-    "value_numeric": 364246.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -6474,7 +6474,7 @@
     "column_index": 3,
     "column_header": "Pages",
     "raw_text": "89, 168",
-    "value_numeric": 89168.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,2,Coarse Rice.,10,10.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,3,Fine Rice.,7,7.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,4,Wheat.,10,10.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,5,Bajree.,10,10.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,6,Mug.,8,8.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,7,Mutt.,10,10.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,8,Jowaree.,12,12.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,9,Ghee.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,2,data,1790-91,1812-13,10,Gol.,4,4.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,2,Coarse Rice.,27,27.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,3,Fine Rice.,24,24.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,4,Wheat.,26,26.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,5,Bajree.,28½,28.5,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,6,Mug.,20½,20.5,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,7,Mutt.,28,28.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,8,Jowaree.,33,33.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,9,Ghee.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,4,data,1819-20,1824-25,10,Gol.,9,9.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,2,Coarse Rice.,29,29.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,3,Fine Rice.,27,27.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,4,Wheat.,24,24.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,5,Bajree.,25,25.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,6,Mug.,30,30.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,7,Mutt.,33,33.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,8,Jowaree.,27,27.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,9,Ghee.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,5,data,1819-20,1834,10,Gol.,8,8.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,2,Coarse Rice.,32,32.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,3,Fine Rice.,28,28.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,4,Wheat.,28,28.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,5,Bajree.,33,33.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,6,Mug.,25,25.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,7,Mutt.,36,36.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,8,Jowaree.,38,38.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,9,Ghee.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-005,Talooka Daskrohie. Kutcha Seers per Rupee.,58,46,6,data,1819-20,1838-39,10,Gol.,11,11.0,,False,False

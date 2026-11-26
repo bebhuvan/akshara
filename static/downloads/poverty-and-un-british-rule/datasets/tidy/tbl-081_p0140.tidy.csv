@@ -1,4 +1,0 @@
-book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-081,Table 81,140,120,1,data,,Subadar,2,Monthly.,Rs. 100,100.0,Rs,False,False
-poverty-and-un-british-rule,tbl-081,Table 81,140,120,2,data,,Jemadar,2,Monthly.,„ 35,,,False,False
-poverty-and-un-british-rule,tbl-081,Table 81,140,120,3,data,,Havildar,2,Monthly.,„ 16,,,False,False

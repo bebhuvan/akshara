@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,1,data,,From Rajputana and Central India,2,Column 2,Rs.,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,1,data,,From Rajputana and Central India,3,Column 3,"5,55,46,753",55546753.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,2,data,,„ Berar,2,Column 2,„,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,2,data,,„ Berar,3,Column 3,"1,48,91,355",14891355.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,3,data,,„ Hyderabad,2,Column 2,„,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,3,data,,„ Hyderabad,3,Column 3,"8,67,688",867688.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,4,total,,Total,2,Column 2,Rs.,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-149,Excess of Imports in Bombay Presidency.,596,577,4,total,,Total,3,Column 3,"7,13,05,796",71305796.0,,False,True

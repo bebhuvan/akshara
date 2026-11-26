@@ -1,0 +1,111 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,1,data,,Rice,2,Acres.,"708,699",708699.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,1,data,,Rice,3,Total quantity. :: lbs.,"541,492,369",541492369.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,1,data,,Rice,4,Average per Acre. :: lbs.,796,796.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,1,data,,Rice,5,Total value. :: Rs.,"2,25,35,693",22535693.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,1,data,,Rice,6,Average price per Re. 1 :: lbs.,20·42,20.42,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,2,data,,Wheat,2,Acres.,"6,609,497",6609497.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,2,data,,Wheat,3,Total quantity. :: lbs.,"5,332,813,517",5332813517.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,2,data,,Wheat,4,Average per Acre. :: lbs.,840·4,840.4,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,2,data,,Wheat,5,Total value. :: Rs.,"9,17,42,419",91742419.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,2,data,,Wheat,6,Average price per Re. 1 :: lbs.,53·48,53.48,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,3,data,,Makai (Indian corn),2,Acres.,"1,084,339",1084339.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,3,data,,Makai (Indian corn),3,Total quantity. :: lbs.,"1,593,872,255",1593872255.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,3,data,,Makai (Indian corn),4,Average per Acre. :: lbs.,1500,1500.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,3,data,,Makai (Indian corn),5,Total value. :: Rs.,"2,33,01,265",23301265.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,3,data,,Makai (Indian corn),6,Average price per Re. 1 :: lbs.,68·4,68.4,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,4,data,,Jow (Barley),2,Acres.,"1,874,217",1874217.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,4,data,,Jow (Barley),3,Total quantity. :: lbs.,"883,781,444",883781444.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,4,data,,Jow (Barley),4,Average per Acre. :: lbs.,503,503.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,4,data,,Jow (Barley),5,Total value. :: Rs.,"1,06,78,175",10678175.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,4,data,,Jow (Barley),6,Average price per Re. 1 :: lbs.,82·76,82.76,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,5,data,,Gram,2,Acres.,"2,272,236",2272236.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,5,data,,Gram,3,Total quantity. :: lbs.,"1,417,173,807",1417173807.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,5,data,,Gram,4,Average per Acre. :: lbs.,645,645.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,5,data,,Gram,5,Total value. :: Rs.,"1,86,72,194",18672194.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,5,data,,Gram,6,Average price per Re. 1 :: lbs.,75·89,75.89,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,6,data,,Inferior grains,2,Acres.,"6,534,963",6534963.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,6,data,,Inferior grains,3,Total quantity. :: lbs.,"3,169,169,607",3169169607.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,6,data,,Inferior grains,4,Average per Acre. :: lbs.,510·5,510.5,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,6,data,,Inferior grains,5,Total value. :: Rs.,"4,54,14,114",45414114.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,6,data,,Inferior grains,6,Average price per Re. 1 :: lbs.,69·78,69.78,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,7,data,,Poppy (Opium),2,Acres.,"12,348",12348.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,7,data,,Poppy (Opium),3,Total quantity. :: lbs.,"154,550",154550.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,7,data,,Poppy (Opium),4,Average per Acre. :: lbs.,12·51,12.51,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,7,data,,Poppy (Opium),5,Total value. :: Rs.,"3,86,375",386375.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,7,data,,Poppy (Opium),6,Average price per Re. 1 :: lbs.,·4 { 2½ Rs. per lb paid by Govt.,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,8,data,,Tobacco,2,Acres.,"71,867",71867.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,8,data,,Tobacco,3,Total quantity. :: lbs.,"60,804,785",60804785.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,8,data,,Tobacco,4,Average per Acre. :: lbs.,846,846.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,8,data,,Tobacco,5,Total value. :: Rs.,"48,32,541",4832541.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,8,data,,Tobacco,6,Average price per Re. 1 :: lbs.,12·58,12.58,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,9,data,,Turmeric,2,Acres.,"4,130",4130.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,9,data,,Turmeric,3,Total quantity. :: lbs.,"677,320",677320.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,9,data,,Turmeric,4,Average per Acre. :: lbs.,164 (dry),,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,9,data,,Turmeric,5,Total value. :: Rs.,"67,732",67732.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,9,data,,Turmeric,6,Average price per Re. 1 :: lbs.,10,10.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,10,data,,Coriander seed,2,Acres.,"6,934",6934.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,10,data,,Coriander seed,3,Total quantity. :: lbs.,"2,288,220",2288220.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,10,data,,Coriander seed,4,Average per Acre. :: lbs.,"330 """,330.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,10,data,,Coriander seed,5,Total value. :: Rs.,"1,43,014",143014.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,10,data,,Coriander seed,6,Average price per Re. 1 :: lbs.,16,16.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,11,data,,Ginger,2,Acres.,286,286.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,11,data,,Ginger,3,Total quantity. :: lbs.,"58,630",58630.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,11,data,,Ginger,4,Average per Acre. :: lbs.,"205 """,205.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,11,data,,Ginger,5,Total value. :: Rs.,"8,376",8376.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,11,data,,Ginger,6,Average price per Re. 1 :: lbs.,7,7.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,12,data,,Chillies,2,Acres.,"23,518",23518.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,12,data,,Chillies,3,Total quantity. :: lbs.,"3,800,700 (dry)",,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,12,data,,Chillies,4,Average per Acre. :: lbs.,{ 808 (green) } { 161·6 (dry) },,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,12,data,,Chillies,5,Total value. :: Rs.,"4,75,100",475100.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,12,data,,Chillies,6,Average price per Re. 1 :: lbs.,8,8.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,13,data,,Other kinds drugs and spices,2,Acres.,"35,074",35074.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,13,data,,Other kinds drugs and spices,3,Total quantity. :: lbs.,"11,574,420",11574420.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,13,data,,Other kinds drugs and spices,4,Average per Acre. :: lbs.,330,330.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,13,data,,Other kinds drugs and spices,5,Total value. :: Rs.,"8,26,744",826744.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,13,data,,Other kinds drugs and spices,6,Average price per Re. 1 :: lbs.,14,14.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,14,data,,Oil seeds,2,Acres.,"846,689",846689.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,14,data,,Oil seeds,3,Total quantity. :: lbs.,"325,730,071",325730071.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,14,data,,Oil seeds,4,Average per Acre. :: lbs.,392,392.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,14,data,,Oil seeds,5,Total value. :: Rs.,"1,20,64,076",12064076.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,14,data,,Oil seeds,6,Average price per Re. 1 :: lbs.,27,27.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,15,data,,Cotton,2,Acres.,"668,876",668876.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,15,data,,Cotton,3,Total quantity. :: lbs.,"70,013,890",70013890.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,15,data,,Cotton,4,Average per Acre. :: lbs.,105,105.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,15,data,,Cotton,5,Total value. :: Rs.,"1,23,54,344",12354344.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,15,data,,Cotton,6,Average price per Re. 1 :: lbs.,5·66,5.66,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,16,data,,Hemp,2,Acres.,"51,260",51260.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,16,data,,Hemp,3,Total quantity. :: lbs.,"18,770,866",18770866.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,16,data,,Hemp,4,Average per Acre. :: lbs.,366,366.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,16,data,,Hemp,5,Total value. :: Rs.,"9,38,543",938543.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,16,data,,Hemp,6,Average price per Re. 1 :: lbs.,20,20.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,17,data,,Kassamba (Safflower),2,Acres.,"24,708",24708.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,17,data,,Kassamba (Safflower),3,Total quantity. :: lbs.,"988,320",988320.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,17,data,,Kassamba (Safflower),4,Average per Acre. :: lbs.,40 (dry),,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,17,data,,Kassamba (Safflower),5,Total value. :: Rs.,"3,95,328",395328.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,17,data,,Kassamba (Safflower),6,Average price per Re. 1 :: lbs.,2·5,2.5,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,18,data,,Indigo,2,Acres.,"129,465",129465.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,18,data,,Indigo,3,Total quantity. :: lbs.,"4,070,941",4070941.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,18,data,,Indigo,4,Average per Acre. :: lbs.,31·44,31.44,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,18,data,,Indigo,5,Total value. :: Rs.,"30,53,205",3053205.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,18,data,,Indigo,6,Average price per Re. 1 :: lbs.,1 1/8,1.125,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,19,data,,Vegetables,2,Acres.,"256,800",256800.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,19,data,,Vegetables,3,Total quantity. :: lbs.,"{ 1,068,002,055 78,966,000",,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,19,data,,Vegetables,4,Average per Acre. :: lbs.,4753 2460,,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,19,data,,Vegetables,5,Total value. :: Rs.,"1,06,80,020 25,47,290",,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,19,data,,Vegetables,6,Average price per Re. 1 :: lbs.,100 Green vegetables. 31 Potato.,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,20,data,,Tea,2,Acres.,"8,884",8884.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,20,data,,Tea,3,Total quantity. :: lbs.,"852,864",852864.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,20,data,,Tea,4,Average per Acre. :: lbs.,96,96.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,20,data,,Tea,5,Total value. :: Rs.,"2,84,288",284288.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,20,data,,Tea,6,Average price per Re. 1 :: lbs.,3,3.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,21,data,,Sugar,2,Acres.,"391,630",391630.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,21,data,,Sugar,3,Total quantity. :: lbs.,"237,831,405",237831405.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,21,data,,Sugar,4,Average per Acre. :: lbs.,646,646.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,21,data,,Sugar,5,Total value. :: Rs.,"1,58,55,427",15855427.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,21,data,,Sugar,6,Average price per Re. 1 :: lbs.,15 { Average of 4 qualities.,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,22,total,,Total,2,Acres.,"21,616,420",21616420.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,22,total,,Total,3,Total quantity. :: lbs.,,,lbs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,22,total,,Total,4,Average per Acre. :: lbs.,,,acres,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,22,total,,Total,5,Total value. :: Rs.,"27,72,56,263",277256263.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Summary of Produce of all Districts.,453,434,22,total,,Total,6,Average price per Re. 1 :: lbs.,,,lbs,True,True

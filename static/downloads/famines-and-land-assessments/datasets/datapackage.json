@@ -4,8 +4,9 @@
   "title": "Famines and Land Assessments in India — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -1332,14 +1333,14 @@
     {
       "name": "tbl-017-diplomatic",
       "title": "Table 17 (Diplomatic Matrix)",
-      "path": "tables/tbl-017_p0244.csv",
+      "path": "tables/tbl-017_p0238.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-017-tidy",
       "title": "Table 17 (Tidy Observations)",
-      "path": "tidy/tbl-017_p0244.tidy.csv",
+      "path": "tidy/tbl-017_p0238.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1414,14 +1415,14 @@
     {
       "name": "tbl-018-diplomatic",
       "title": "Table 18 (Diplomatic Matrix)",
-      "path": "tables/tbl-018_p0248.csv",
+      "path": "tables/tbl-018_p0268.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-018-tidy",
       "title": "Table 18 (Tidy Observations)",
-      "path": "tidy/tbl-018_p0248.tidy.csv",
+      "path": "tidy/tbl-018_p0268.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1496,14 +1497,14 @@
     {
       "name": "tbl-019-diplomatic",
       "title": "Table 19 (Diplomatic Matrix)",
-      "path": "tables/tbl-019_p0268.csv",
+      "path": "tables/tbl-019_p0269.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-019-tidy",
       "title": "Table 19 (Tidy Observations)",
-      "path": "tidy/tbl-019_p0268.tidy.csv",
+      "path": "tidy/tbl-019_p0269.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1578,14 +1579,14 @@
     {
       "name": "tbl-020-diplomatic",
       "title": "Table 20 (Diplomatic Matrix)",
-      "path": "tables/tbl-020_p0269.csv",
+      "path": "tables/tbl-020_p0304.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-020-tidy",
       "title": "Table 20 (Tidy Observations)",
-      "path": "tidy/tbl-020_p0269.tidy.csv",
+      "path": "tidy/tbl-020_p0304.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1659,15 +1660,15 @@
     },
     {
       "name": "tbl-021-diplomatic",
-      "title": "Table 21 (Diplomatic Matrix)",
-      "path": "tables/tbl-021_p0304.csv",
+      "title": "Annual Salaries of Officers on Active[…]rvice in India on the 31st March 1900. (Diplomatic Matrix)",
+      "path": "tables/tbl-021_p0310.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-021-tidy",
-      "title": "Table 21 (Tidy Observations)",
-      "path": "tidy/tbl-021_p0304.tidy.csv",
+      "title": "Annual Salaries of Officers on Active[…]rvice in India on the 31st March 1900. (Tidy Observations)",
+      "path": "tidy/tbl-021_p0310.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1741,15 +1742,15 @@
     },
     {
       "name": "tbl-022-diplomatic",
-      "title": "Annual Salaries of Officers on Active (Diplomatic Matrix)",
-      "path": "tables/tbl-022_p0310.csv",
+      "title": "Absentee Allowances of Officers on Leave, including Privilege Leave, who drew Leave Allowances in India during the Year 1889-90. (Diplomatic Matrix)",
+      "path": "tables/tbl-022_p0312.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-022-tidy",
-      "title": "Annual Salaries of Officers on Active (Tidy Observations)",
-      "path": "tidy/tbl-022_p0310.tidy.csv",
+      "title": "Absentee Allowances of Officers on Leave, including Privilege Leave, who drew Leave Allowances in India during the Year 1889-90. (Tidy Observations)",
+      "path": "tidy/tbl-022_p0312.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1823,15 +1824,15 @@
     },
     {
       "name": "tbl-023-diplomatic",
-      "title": "rvice in India on the 31st March 1900. (Diplomatic Matrix)",
-      "path": "tables/tbl-023_p0311.csv",
+      "title": "Pensions in India. (Diplomatic Matrix)",
+      "path": "tables/tbl-023_p0314.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-023-tidy",
-      "title": "rvice in India on the 31st March 1900. (Tidy Observations)",
-      "path": "tidy/tbl-023_p0311.tidy.csv",
+      "title": "Pensions in India. (Tidy Observations)",
+      "path": "tidy/tbl-023_p0314.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1905,15 +1906,15 @@
     },
     {
       "name": "tbl-024-diplomatic",
-      "title": "Absentee Allowances of Officers on Leave, including Privilege (Diplomatic Matrix)",
-      "path": "tables/tbl-024_p0312.csv",
+      "title": "II.—Amounts Paid in England. (Diplomatic Matrix)",
+      "path": "tables/tbl-024_p0316.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-024-tidy",
-      "title": "Absentee Allowances of Officers on Leave, including Privilege (Tidy Observations)",
-      "path": "tidy/tbl-024_p0312.tidy.csv",
+      "title": "II.—Amounts Paid in England. (Tidy Observations)",
+      "path": "tidy/tbl-024_p0316.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -1987,15 +1988,15 @@
     },
     {
       "name": "tbl-025-diplomatic",
-      "title": "Pensions (Diplomatic Matrix)",
-      "path": "tables/tbl-025_p0314.csv",
+      "title": "(a) Resident in India. (Diplomatic Matrix)",
+      "path": "tables/tbl-025_p0317.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-025-tidy",
-      "title": "Pensions (Tidy Observations)",
-      "path": "tidy/tbl-025_p0314.tidy.csv",
+      "title": "(a) Resident in India. (Tidy Observations)",
+      "path": "tidy/tbl-025_p0317.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2069,15 +2070,15 @@
     },
     {
       "name": "tbl-026-diplomatic",
-      "title": "II.—Amounts Paid in England. (Diplomatic Matrix)",
-      "path": "tables/tbl-026_p0316.csv",
+      "title": "(b) Not Resident in India. (Diplomatic Matrix)",
+      "path": "tables/tbl-026_p0317.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-026-tidy",
-      "title": "II.—Amounts Paid in England. (Tidy Observations)",
-      "path": "tidy/tbl-026_p0316.tidy.csv",
+      "title": "(b) Not Resident in India. (Tidy Observations)",
+      "path": "tidy/tbl-026_p0317.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {
@@ -2151,179 +2152,15 @@
     },
     {
       "name": "tbl-027-diplomatic",
-      "title": "(a) Resident in India. (Diplomatic Matrix)",
-      "path": "tables/tbl-027_p0317.csv",
+      "title": "COST OF FOREIGN WARS CHARGED TO INDIA (Diplomatic Matrix)",
+      "path": "tables/tbl-027_p0318.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"
     },
     {
       "name": "tbl-027-tidy",
-      "title": "(a) Resident in India. (Tidy Observations)",
-      "path": "tidy/tbl-027_p0317.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-028-diplomatic",
-      "title": "(b) Not Resident in India. (Diplomatic Matrix)",
-      "path": "tables/tbl-028_p0317.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-028-tidy",
-      "title": "(b) Not Resident in India. (Tidy Observations)",
-      "path": "tidy/tbl-028_p0317.tidy.csv",
-      "profile": "tabular-data-resource",
-      "layer": "tidy",
-      "schema": {
-        "fields": [
-          {
-            "name": "book_id",
-            "type": "string"
-          },
-          {
-            "name": "table_id",
-            "type": "string"
-          },
-          {
-            "name": "caption",
-            "type": "string"
-          },
-          {
-            "name": "page_number",
-            "type": "integer"
-          },
-          {
-            "name": "printed_folio",
-            "type": "string"
-          },
-          {
-            "name": "row_index",
-            "type": "integer"
-          },
-          {
-            "name": "row_role",
-            "type": "string"
-          },
-          {
-            "name": "row_group",
-            "type": "string"
-          },
-          {
-            "name": "row_label",
-            "type": "string"
-          },
-          {
-            "name": "column_index",
-            "type": "integer"
-          },
-          {
-            "name": "column_header",
-            "type": "string"
-          },
-          {
-            "name": "raw_text",
-            "type": "string"
-          },
-          {
-            "name": "value_numeric",
-            "type": "number"
-          },
-          {
-            "name": "unit",
-            "type": "string"
-          },
-          {
-            "name": "is_null_or_leader",
-            "type": "boolean"
-          },
-          {
-            "name": "arithmetic_verified",
-            "type": "boolean"
-          }
-        ]
-      }
-    },
-    {
-      "name": "tbl-029-diplomatic",
-      "title": "COST OF FOREIGN WARS CHARGED TO INDIA (Diplomatic Matrix)",
-      "path": "tables/tbl-029_p0318.csv",
-      "profile": "tabular-data-resource",
-      "layer": "diplomatic"
-    },
-    {
-      "name": "tbl-029-tidy",
       "title": "COST OF FOREIGN WARS CHARGED TO INDIA (Tidy Observations)",
-      "path": "tidy/tbl-029_p0318.tidy.csv",
+      "path": "tidy/tbl-027_p0318.tidy.csv",
       "profile": "tabular-data-resource",
       "layer": "tidy",
       "schema": {

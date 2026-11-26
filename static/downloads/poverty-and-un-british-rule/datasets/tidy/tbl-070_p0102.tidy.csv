@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,1,data,,1st Division Grand Trunk-road Division,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,1,data,,1st Division Grand Trunk-road Division,3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,2,data,,2nd „ „ „,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,2,data,,2nd „ „ „,3,p.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,3,data,,Patna Branch Road Division,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,3,data,,Patna Branch Road Division,3,p.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,4,data,,Barrakar Division,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,4,data,,Barrakar Division,3,p.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,5,data,,Tirhoot „,2,a.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,5,data,,Tirhoot „,3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,6,data,,Behar Road „,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,6,data,,Behar Road „,3,p.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,7,data,,Barrackpore „,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,7,data,,Barrackpore „,3,p.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,8,data,,Purneah „,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,8,data,,Purneah „,3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,9,data,,Bhagulpore „,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,102,82,9,data,,Bhagulpore „,3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,10,data,,"Behrampore ,,",2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,10,data,,"Behrampore ,,",3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,11,data,,"Dinapore ,,",2,a.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,11,data,,"Dinapore ,,",3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,12,data,,"Ramghur ,,",2,a.,2 to 1,,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,12,data,,"Ramghur ,,",3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,13,data,,24-Pergunnahs,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,13,data,,24-Pergunnahs,3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,14,data,,Chittagong Division,2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,14,data,,Chittagong Division,3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,15,data,,"Burdwan ,,",2,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,15,data,,"Burdwan ,,",3,p.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,16,data,,Row 16,2,a.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-070,Table 70,103,82,16,data,,Row 16,3,p.,6,6.0,,False,False

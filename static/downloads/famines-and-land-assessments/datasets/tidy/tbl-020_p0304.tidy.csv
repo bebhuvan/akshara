@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-020,Table 20,304,280,1,data,,Civil Department,2,Natives.,55,55.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,1,data,,Civil Department,3,Eurasians.,10,10.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,1,data,,Civil Department,4,Europeans.,"1,211",1211.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,1,data,,Civil Department,5,Total Salaries of Natives.,947,947.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,1,data,,Civil Department,6,In Thousands of Rupees. :: Total Salaries of Eurasians.,151,151.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,1,data,,Civil Department,7,In Thousands of Rupees. :: Total Salaries of Europeans.,"25,274",25274.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,2,data,,Military,2,Natives.,1,1.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,2,data,,Military,3,Eurasians.,1,1.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,2,data,,Military,4,Europeans.,854,854.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,2,data,,Military,5,Total Salaries of Natives.,12,12.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,2,data,,Military,6,In Thousands of Rupees. :: Total Salaries of Eurasians.,11,11.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,2,data,,Military,7,In Thousands of Rupees. :: Total Salaries of Europeans.,"13,268",13268.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,3,data,,Public Works,2,Natives.,3,3.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,3,data,,Public Works,3,Eurasians.,4,4.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,3,data,,Public Works,4,Europeans.,239,239.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,3,data,,Public Works,5,Total Salaries of Natives.,33,33.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,3,data,,Public Works,6,In Thousands of Rupees. :: Total Salaries of Eurasians.,45,45.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,3,data,,Public Works,7,In Thousands of Rupees. :: Total Salaries of Europeans.,"3,415",3415.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,4,data,,Incorporated Local Funds,2,Natives.,1,1.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,4,data,,Incorporated Local Funds,3,Eurasians.,—,,,True,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,4,data,,Incorporated Local Funds,4,Europeans.,9,9.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,4,data,,Incorporated Local Funds,5,Total Salaries of Natives.,10,10.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,4,data,,Incorporated Local Funds,6,In Thousands of Rupees. :: Total Salaries of Eurasians.,—,,Rs,True,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,4,data,,Incorporated Local Funds,7,In Thousands of Rupees. :: Total Salaries of Europeans.,113,113.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,5,total,,Total,2,Natives.,60,60.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,5,total,,Total,3,Eurasians.,15,15.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,5,total,,Total,4,Europeans.,"2,313",2313.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,5,total,,Total,5,Total Salaries of Natives.,"1,002",1002.0,,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,5,total,,Total,6,In Thousands of Rupees. :: Total Salaries of Eurasians.,207,207.0,Rs,False,True
+famines-and-land-assessments,tbl-020,Table 20,304,280,5,total,,Total,7,In Thousands of Rupees. :: Total Salaries of Europeans.,"42,070",42070.0,Rs,False,True

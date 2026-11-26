@@ -4,8 +4,9 @@
   "title": "Speeches and Writings of Dadabhai Naoroji — Historical Statistical Tables",
   "licenses": [
     {
-      "name": "CC0-1.0",
-      "title": "Public Domain"
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ],
   "contributors": [
@@ -47,7 +48,7 @@
     },
     {
       "name": "tbl-005-diplomatic",
-      "title": "Price of Produce per maund of 80 lbs. (Diplomatic Matrix)",
+      "title": "Price of Produce and Labour at the end of the year. — Price of Produce per maund of 80 lbs. (Diplomatic Matrix)",
       "path": "tables/tbl-005_p0314.csv",
       "profile": "tabular-data-resource",
       "layer": "diplomatic"

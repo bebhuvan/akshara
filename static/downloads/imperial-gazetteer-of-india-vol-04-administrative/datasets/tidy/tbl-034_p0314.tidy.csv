@@ -1,91 +1,91 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",2,1892-3.,2,2.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",3,1894-5.,2,2.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",4,1897-8.,2,2.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",5,1900-1.,1,1.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",6,1902-3.,2,2.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,2,1892-3.,60,60.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,3,1894-5.,61,61.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,4,1897-8.,66,66.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,5,1900-1.,69,69.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,6,1902-3.,76,76.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,2,1892-3.,20,20.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,3,1894-5.,,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,4,1897-8.,,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,5,1900-1.,49,49.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,6,1902-3.,53,53.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),3,1894-5.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),4,1897-8.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),5,1900-1.,21,21.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),6,1902-3.,11,11.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,3,1894-5.,27,27.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,4,1897-8.,37,37.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,5,1900-1.,15,15.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,6,1902-3.,14,14.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),3,1894-5.,,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),4,1897-8.,,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),5,1900-1.,29,29.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),6,1902-3.,25,25.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",3,1894-5.,9,9.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",4,1897-8.,11,11.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",5,1900-1.,11,11.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",6,1902-3.,12,12.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,3,1894-5.,38,38.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,4,1897-8.,78,78.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,5,1900-1.,93,93.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,6,1902-3.,95,95.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,3,1894-5.,55,55.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,4,1897-8.,65,65.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,5,1900-1.,33,33.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,6,1902-3.,69,69.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,12,data,General Import Duties,Oils,2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,12,data,General Import Duties,Oils,3,1894-5.,32,32.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,12,data,General Import Duties,Oils,4,1897-8.,55,55.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,12,data,General Import Duties,Oils,5,1900-1.,2,2.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,12,data,General Import Duties,Oils,6,1902-3.,1,1.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,3,1894-5.,58,58.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,4,1897-8.,53,53.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,5,1900-1.,68,68.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,6,1902-3.,68,68.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,14,subtotal,,Total imports,2,1892-3.,82,82.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,14,subtotal,,Total imports,3,1894-5.,"2,82",282.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,14,subtotal,,Total imports,4,1897-8.,"3,67",367.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,14,subtotal,,Total imports,5,1900-1.,"3,91",391.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,14,subtotal,,Total imports,6,1902-3.,"4,26",426.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,2,1892-3.,...,,,True,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,3,1894-5.,1,1.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,4,1897-8.,11,11.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,5,1900-1.,12,12.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,6,1902-3.,18,18.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,2,1892-3.,73,73.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,3,1894-5.,89,89.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,4,1897-8.,71,71.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,5,1900-1.,83,83.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,6,1902-3.,"1,23",123.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,2,1892-3.,1,1.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,3,1894-5.,5,5.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,4,1897-8.,6,6.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,5,1900-1.,7,7.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,6,1902-3.,9,9.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,18,total,,Grand total,2,1892-3.,"1,56",156.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,18,total,,Grand total,3,1894-5.,"3,77",377.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,18,total,,Grand total,4,1897-8.,"4,55",455.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,18,total,,Grand total,5,1900-1.,"4,93",493.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,18,total,,Grand total,6,1902-3.,"5,76",576.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,19,data,General Import Duties,Charges,2,1892-3.,17,17.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,19,data,General Import Duties,Charges,3,1894-5.,19,19.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,19,data,General Import Duties,Charges,4,1897-8.,22,22.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,19,data,General Import Duties,Charges,5,1900-1.,26,26.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,19,data,General Import Duties,Charges,6,1902-3.,25,25.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,2,1892-3.,"1,39",139.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,3,1894-5.,"3,58",358.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,4,1897-8.,"4,33",433.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,5,1900-1.,"4,67",467.0,,False,True
-imperial-gazetteer-of-india-vol-04-administrative,tbl-034,(In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,6,1902-3.,"5,51",551.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",2,1892-3.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",3,1894-5.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",4,1897-8.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",5,1900-1.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,2,data,Special Import Duties,"Arms, ammunition, and military stores",6,1902-3.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,2,1892-3.,60,60.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,3,1894-5.,61,61.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,4,1897-8.,66,66.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,5,1900-1.,69,69.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,3,data,Special Import Duties,Liquors,6,1902-3.,76,76.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,2,1892-3.,20,20.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,3,1894-5.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,4,1897-8.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,5,1900-1.,49,49.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,4,data,Special Import Duties,Petroleum,6,1902-3.,53,53.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),3,1894-5.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),4,1897-8.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),5,1900-1.,21,21.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,5,data,Special Import Duties,Sugar (countervailing duty),6,1902-3.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,3,1894-5.,27,27.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,4,1897-8.,37,37.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,5,1900-1.,15,15.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,7,data,General Import Duties,Articles of food and drink,6,1902-3.,14,14.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),3,1894-5.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),4,1897-8.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),5,1900-1.,29,29.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,8,data,General Import Duties,Sugar (ordinary duty),6,1902-3.,25,25.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",3,1894-5.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",4,1897-8.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",5,1900-1.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,9,data,General Import Duties,"Chemicals, drugs, narcotics, and dyeing and tanning materials",6,1902-3.,12,12.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,3,1894-5.,38,38.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,4,1897-8.,78,78.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,5,1900-1.,93,93.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,10,data,General Import Duties,Cotton manufactures,6,1902-3.,95,95.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,3,1894-5.,55,55.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,4,1897-8.,65,65.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,5,1900-1.,33,33.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,11,data,General Import Duties,Metals and manufactures of metals,6,1902-3.,69,69.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,12,data,General Import Duties,Oils,2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,12,data,General Import Duties,Oils,3,1894-5.,32,32.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,12,data,General Import Duties,Oils,4,1897-8.,55,55.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,12,data,General Import Duties,Oils,5,1900-1.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,12,data,General Import Duties,Oils,6,1902-3.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,3,1894-5.,58,58.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,4,1897-8.,53,53.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,5,1900-1.,68,68.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,13,data,General Import Duties,Other raw materials and manufactured articles,6,1902-3.,68,68.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,14,subtotal,,Total imports,2,1892-3.,82,82.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,14,subtotal,,Total imports,3,1894-5.,"2,82",282.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,14,subtotal,,Total imports,4,1897-8.,"3,67",367.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,14,subtotal,,Total imports,5,1900-1.,"3,91",391.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,14,subtotal,,Total imports,6,1902-3.,"4,26",426.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,2,1892-3.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,3,1894-5.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,4,1897-8.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,5,1900-1.,12,12.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,15,data,General Import Duties,Excise duty on cotton goods,6,1902-3.,18,18.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,2,1892-3.,73,73.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,3,1894-5.,89,89.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,4,1897-8.,71,71.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,5,1900-1.,83,83.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,16,data,General Import Duties,Export duty,6,1902-3.,"1,23",123.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,2,1892-3.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,3,1894-5.,5,5.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,4,1897-8.,6,6.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,5,1900-1.,7,7.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,17,data,General Import Duties,Land customs and miscellaneous,6,1902-3.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,18,total,,Grand total,2,1892-3.,"1,56",156.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,18,total,,Grand total,3,1894-5.,"3,77",377.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,18,total,,Grand total,4,1897-8.,"4,55",455.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,18,total,,Grand total,5,1900-1.,"4,93",493.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,18,total,,Grand total,6,1902-3.,"5,76",576.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,19,data,General Import Duties,Charges,2,1892-3.,17,17.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,19,data,General Import Duties,Charges,3,1894-5.,19,19.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,19,data,General Import Duties,Charges,4,1897-8.,22,22.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,19,data,General Import Duties,Charges,5,1900-1.,26,26.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,19,data,General Import Duties,Charges,6,1902-3.,25,25.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,2,1892-3.,"1,39",139.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,3,1894-5.,"3,58",358.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,4,1897-8.,"4,33",433.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,5,1900-1.,"4,67",467.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-034,TABLE IV. Customs — (In lakhs of rupees),314,276,20,data,General Import Duties,Net revenue,6,1902-3.,"5,51",551.0,,False,True

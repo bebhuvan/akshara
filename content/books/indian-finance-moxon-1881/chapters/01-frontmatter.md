@@ -19,4 +19,4 @@ proofing_url: "https://proof.akshara.ink/#desk/indian-finance-moxon-1881/3"
 next: "/books/indian-finance-moxon-1881/chapters/02-indian-finance/"
 ---
 
-<div class="page-rail-marker" id="page-3"><button type="button" class="folio-trigger" data-page="3" data-folio="3" data-scan="https://archive.org/download/indianfinance00moxorich/page/n2_w1400.jpg" aria-label="Inspect scan for page 3">[p. 3]</button></div><h3 class="sec-h2">Manchester Statistical Society.</h3>
+<div class="page-rail-marker" id="page-3"><button type="button" class="folio-trigger" data-page="3" data-folio="3" data-scan="https://archive.org/download/indianfinance00moxorich/page/n2_w1400.jpg" aria-label="Inspect scan for page 3">[p. 3]</button></div><h2 class="sec-h1">Manchester Statistical Society.</h2>

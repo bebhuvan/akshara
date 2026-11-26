@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,1,data,,"Jowaree, Bajree, &c",2,Column 2,Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,1,data,,"Jowaree, Bajree, &c",3,Column 3,5 per maund.,,maunds,False,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,1,data,,"Jowaree, Bajree, &c",4,Column 4,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,2,data,,Ghee,2,Column 2,"""",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,2,data,,Ghee,3,Column 3,40,40.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,2,data,,Ghee,4,Column 4,do.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,3,data,,"Oil, Goor, &c",2,Column 2,"""",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,3,data,,"Oil, Goor, &c",3,Column 3,1 per 4 seers.,,seers,False,False
+report-past-famines-bombay-etheridge-1868,tbl-004,Table 4,50,38,3,data,,"Oil, Goor, &c",4,Column 4,,,,True,False

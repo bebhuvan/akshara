@@ -1,6 +1,6 @@
 ---
 title: "The Periplus of the Erythræan Sea: Travel and Trade in the Indian Ocean by a Merchant of the First Century"
-date: "2026-11-22"
+date: "2026-11-25"
 subtitle: "Translated from the Greek and Annotated"
 author: "Wilfred H. Schoff"
 author_slug: "wilfred-h-schoff"
@@ -45,7 +45,7 @@ provenance_statement: "Machine-checked; 41 of 331 pages had flagged passages re-
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 63 fixes · 41 pp. checked"
+  - "Scan-Triaged: 64 fixes · 41 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 4 Structured (No Printed Totals)"
 taxonomy_diplomatic:
@@ -140,14 +140,15 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (10 flyleaf/stamp block(s)) are excluded from reading prose; **196** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **1** multi-page tables were stitched; and **1108** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (10 flyleaf/stamp block(s)) are excluded from reading prose; **199** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **1** multi-page tables were stitched; and **1108** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (43 distinct non-ASCII characters across 270 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**11** places); **1060** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (331 pp.).
   - **Reader**: Read by gemini-3.8-flash on 331 of 331 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen). This edition predates that choice and has not been re-read with gemini-4-hydrogen.
-  - **Human Proofing**: 63 replayed correction(s). Machine-checked; 41 of 331 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 64 replayed correction(s). Machine-checked; 41 of 331 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

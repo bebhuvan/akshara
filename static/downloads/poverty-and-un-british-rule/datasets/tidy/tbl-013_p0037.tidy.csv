@@ -1,6 +1,0 @@
-book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-013,Table 13,37,17,1,data,,Jowari,2,Acres.,"4,906,073",4906073.0,acres,False,True
-poverty-and-un-british-rule,tbl-013,Table 13,37,17,2,data,,Bajri,2,Acres.,"2,715,719",2715719.0,acres,False,True
-poverty-and-un-british-rule,tbl-013,Table 13,37,17,3,data,,Rice,2,Acres.,"504,015",504015.0,acres,False,True
-poverty-and-un-british-rule,tbl-013,Table 13,37,17,4,data,,Cotton,2,Acres.,"704,629",704629.0,acres,False,True
-poverty-and-un-british-rule,tbl-013,Table 13,37,17,5,total,,Row 5,2,Acres.,"8,830,436",8830436.0,acres,False,True

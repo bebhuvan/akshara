@@ -28,6 +28,9 @@ Old Bailey.
 
 <!-- page: 7 | folio: iii -->
 
+### <span class="sc">EXPOSITION</span>
+
+
 #### <span class="sc">OF THE</span>
 
 
@@ -131,11 +134,15 @@ Although it has been printed among the other minutes of evidence taken before th
 
 [^sec-02-fn-001]: (*) “ *Vărshă*” implies a large tract of continent cut off from other countries by natural boundaries, such as oceans, mountains, or extensive deserts.
 [^sec-02-fn-002]: (†) “ *Bharat*” a humane and powerful prince, supposed to have sprung from the “ *Indu-Bangs*” or the lunar race.
-[^sec-02-fn-003]: (*) The boundary mountains are interrupted on the east between 90° and 91° E. and lat. 26° and 27° N. Hence the countries to the east of the Burrampooter, as Assam, Ava, Siam, &c. as far as 102° E. long. are by some authors considered as part of India, though beyond its natural limits; and by European writers usually called “India beyond the Ganges.” There, relics of Sanscrit literature, and remains of Hindu temples are still found. Other ancient writers, however, considered these countries as attached to China, the inhabitants having greater resemblance to the Chinese in their features. The western boundary mountains are in like manner broken at long. 70° East, and at lat. 34° North. Consequently the countries beyond that natural limit, such as Caubul and Candahar, are supposed by some to be included in India, and by others in Persia. But many Hindū antiquities still exist there to corroborate the former notion.—Not only the northern boundary mountains of India, but also those mountains which form the eastern and western limits of it, are by the ancient writers on India termed Himalaya, and considered branches of that great chain. “In the north direction is situated the prince of mountains, the ‘immortal Himālāyā’ which immersing both in the eastern and western seas, stands on earth as a standard of measure (or line of demarcation.)” Cāli. Dās.
+[^sec-02-fn-003]: (*) The boundary mountains are interrupted on the east between 90° and 91° E. and lat. 26° and 27° N. Hence the countries to the east of the Burrampooter, as Assam, Ava, Siam, &c. as far as 102° E. long. are by some authors considered as part of India, though beyond its natural limits; and by European writers usually called “India beyond the Ganges.” There, relics of Sanscrit literature, and remains of Hindu temples are still found. Other ancient writers, however, considered these countries as attached to China, the inhabitants having greater resemblance to the Chinese in their features.
+
+    The western boundary mountains are in like manner broken at long. 70° East, and at lat. 34° North. Consequently the countries beyond that natural limit, such as Caubul and Candahar, are supposed by some to be included in India, and by others in Persia. But many Hindū antiquities still exist there to corroborate the former notion.—Not only the northern boundary mountains of India, but also those mountains which form the eastern and western limits of it, are by the ancient writers on India termed Himalaya, and considered branches of that great chain. “In the north direction is situated the prince of mountains, the ‘immortal Himālāyā’ which immersing both in the eastern and western seas, stands on earth as a standard of measure (or line of demarcation.)” Cāli. Dās.
 [^sec-02-fn-004]: (*) *Mănu*, the most ancient authority, thus defines their limits. “The lands lying as far as the eastern, and as far as the western oceans, *and* between the mountains just mentioned (Himālaya and Vindhyā), are known to the wise by the name of “ Aryāvătă” or the land inhabited by respectable people.” Ch. II. v. 22. In his translation of this passage, *Sir William Jones*, by omitting to refer to the commentary, which substitutes the copulative Sanscrit particle “ *Ch*” for “ *Eb*,” has thus translated this passage : “ As far as the eastern and as far as the western oceans, between the two mountains just mentioned, lies the tract which the wise have named Aryaverta.” This rendered the description obscure, if not wholly unintelligible ; since the countries lying between these two ranges of mountains, are scarcely situated between the eastern and western seas.
 [^sec-02-fn-005]: (†) Because this division includes within it the tract which is called the Sacred Land, situated to the north of Delhi, thus described by Manu. “ Between the two divine rivers, Saraswatī and Drishadwatī, lies the tract of land which the sages have named Brahmavārta, because it was frequented by gods.
 [^sec-02-fn-006]: (*) A country, where the distinction of the four classes (Brāhman, Kshatriya, Vaishya, and Sūdra) is not observed, is known as ‘*Mlechha Desh*’ or barbarous country,” as quoted by Raghunandan.
-[^sec-02-fn-007]: (†) Compare the feeble state of Persia when ruled by several independent princes, with the formidable power she enjoyed when consolidated under the empire of *Saffi*. Direct your attention to a still nearer country, I mean England; and compare the consequences formerly arising from her divided resources, with her present state of elevation under the subsisting union.
+[^sec-02-fn-007]: (†) Compare the feeble state of Persia when ruled by several independent princes, with the formidable power she enjoyed when consolidated under the empire of *Saffi*.
+
+    Direct your attention to a still nearer country, I mean England; and compare the consequences formerly arising from her divided resources, with her present state of elevation under the subsisting union.
 [^sec-02-fn-008]: (*) It may be considered as consisting of the following twenty provinces: Delhi, Lahore, Cashmere, Cabul, Candahar, Ajmere, Multan, Guzrat, Agra, Oude, Allahabad, Behar, Bengal, Orissa, Malwah, Khandesh, Berar, Aurungabad, Golconda, Bejapoor.
 [^sec-02-fn-009]: (*) Bruce's Annals; Anderson's History of Commerce in M'Pherson's Annals; Sir Thomas Roe's Journal and Letters; Raynal's East and West Indies; Orme's Historical fragments, and on the Government and people of Hindostan; Dow's History; Malcolm's Sketch of the political History of India; Ditto, Central India; and Mill's History of British India.
 [^sec-02-fn-010]: (†) They were generally relations and friends of the leading members of the company, twenty-four in number, called the "Directors," first elected in 1709, and invested by the general body of the company with the power of managing their territorial possessions in India, as well as their commerce in the East and West.
@@ -163,9 +170,7 @@ India . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101—111
 
 <!-- page: 24 | folio: xx -->
 
-![Map of the Indian subcontinent showing regional divisions (Lahore, Mooltan, Ajmeer, Delhi, Oude, Malwah, Allahabad, Bahar, Bengal, Berar, Aurungabad, Hyderabad, Bejapoor, Orissa, Gujerat), mountain ranges (Himalaya Mountains, Vindhya Mts.), major rivers (Indus, Ganges, Burrampooter), surrounding territories (Tibet, Conlines of Persia, Barma), Ceylon, and surrounding bodies of water (Bay of Bengal, Indian Ocean).](../figures/fig-001_p0024.webp)
-
-*London, Published by Smith, Elder & C<sup>o</sup>. 65, Cornhill.*
+![London, Published by Smith, Elder & Co. 65, Cornhill.](../figures/fig-001_p0024.webp)
 
 
 ## II. Questions and Answers on the Judicial System of India
@@ -804,7 +809,7 @@ A. In Reg. XIX. of 1793, Lord Cornwallis, [p. 84] the Governor-General in Counci
 ### <span class="sc">PAPER</span>
 
 
-##### <span class="sc">on the</span>
+#### <span class="sc">on the</span>
 
 
 #### <span class="sc">REVENUE SYSTEM OF INDIA.</span>
@@ -880,7 +885,7 @@ A. In Reg. XIX. of 1793, Lord Cornwallis, [p. 84] the Governor-General in Counci
 ### ADDITIONAL QUERIES
 
 
-##### <span class="sc">respecting</span>
+#### <span class="sc">respecting</span>
 
 
 #### THE CONDITION OF INDIA.
@@ -1015,7 +1020,7 @@ On the other hand, the same confidence could not be produced by any periodical s
 
 #### No. IV.
 
-An idea has gone abroad that the permanent, or Zamindary system, though undeniably beneficial to Government, has proved too advantageous to the landholders; and the vast wealth which they are supposed to have derived from it has excited an anxiety in the minds of some to devise a plea for overturning it. The fact, however, is, that even the greatest landholder in the country, such as the Rajah of Burdwan, who pays a landtax [p. 119] of between 30 and 40 lakhs of rupees to Government, does not receive more than six or eight lakhs, about 20 per cent. on the amount collected, for his own share as proprietor. For this sum they incur an immense responsibility to the Government; they are punishable for thefts and robberies committed within their estates, when suspected even of negligence in preventing or detecting such offences, and subject to loss by inundations and failure of crops. Some may have about an equal sum with that payable to government, and a very few double; these almost exclusively in the eastern parts of Bengal. But the generality are by no means so favourably situated as is generally supposed; a fact clearly proved by the estates which come into the immediate management of Government in the Court of Wards, and which may be easily inferred from the frequent sales of estates for arrears of revenue.
+An idea has gone abroad that the permanent, or Zamindary system, though undeniably beneficial to Government, has proved too advantageous to the landholders; and the vast wealth which they are supposed to have derived from it has excited an anxiety in the minds of some to devise a plea for overturning it. The fact, however, is, that even the greatest landholder in the country, such as the Rajah of Burdwan, who pays a land-tax [p. 119] of between 30 and 40 lakhs of rupees to Government, does not receive more than six or eight lakhs, about 20 per cent. on the amount collected, for his own share as proprietor. For this sum they incur an immense responsibility to the Government; they are punishable for thefts and robberies committed within their estates, when suspected even of negligence in preventing or detecting such offences, and subject to loss by inundations and failure of crops. Some may have about an equal sum with that payable to government, and a very few double; these almost exclusively in the eastern parts of Bengal. But the generality are by no means so favourably situated as is generally supposed; a fact clearly proved by the estates which come into the immediate management of Government in the Court of Wards, and which may be easily inferred from the frequent sales of estates for arrears of revenue.
 
 Supposing these landholders of Bengal to stand in the place of the farmers in England, who are considered to pay about one-third of the produce of their farms as rent; is there any thing so unreasonable, if the Zamindars receive 15 or 20 per cent.; a very few 30 per cent. of the produce of their estates? If the persons above alluded to, who suppose the Zamindars too well off, will only wait a little, as the law of primogeniture is not established or observed, the effect of hereditary succession will soon so subdivide the estates, and reduce the incomes of the landholders, that very few, if any, rich Zamindars can be found in the country.
 
@@ -1035,6 +1040,8 @@ In illustration of the statement made in my reply to Query 52, on the Revenue Sy
 | 6 Secretaries to Government | 2,74,000 | 27,400 |
 | 3 Judges of the King's Supreme Court | 1,95,344 | 19,534 |
 | Lord Bishop of Calcutta | 50,303 | 5,030 |
+|  | Per Annum. |  |
+|  | Indian Money. | Sterling. |
 | Archdeacon and 31 Chaplains | 3,00,222 | 30,022 |
 | Advocate-General, Company's Attorney, and Standing Counsel | 80,581 | 8,058 |
 | 7 Residents at Native Courts, (Delhi, Lucknow, Gualior, Nagpoor, Hyderabad, Indore, Nepaul) | 6,81,509 | 68,150 |

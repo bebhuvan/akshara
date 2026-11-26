@@ -22,7 +22,7 @@
         <idno type="book_id">east-india-exchange-currency-1920</idno>
         <idno type="collection">indian-economic-history</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -100,9 +100,9 @@ or from E. PONSONBY, <hi rend="smallcaps">Ltd.</hi>, 116, <hi rend="smallcaps">G
       <div xml:id="sec-02" type="chapter" n="02-no-1-announcement-by-the-secretary-of-state-for-india-2nd-feb">
         <head>No. 1. Announcement by the Secretary of State for India (2nd February 1920)</head>
         <pb xml:id="page-4" n="2" facs="https://archive.org/download/pamphletsissuedb05grea/page/n3_w1400.jpg"/>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head><hi rend="smallcaps">No.</hi> 1.</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Announcement by the Secretary of State for India published on</hi> 2<hi rend="smallcaps">nd February</hi> 1920.<ref xml:id="ref-sec-02-fn-001" type="noteref" target="#sec-02-fn-001">1</ref></head>
             <p>The Secretary of State in Council has considered, in consultation with the Government of India, the Majority and Minority Reports received from the Committee appointed by him, under the chairmanship of Sir Henry Babington Smith, to advise on the subject of Indian Exchange and Currency. The Majority Report, which is signed by the chairman and all the members of the Committee except Mr. D. M. Dalal, states as its objects the restoration of a stable and automatic system and the maintenance of the convertibility of the note issue.</p>
             <p>The fundamental recommendations of the Report are as follows:—</p>
@@ -134,9 +134,9 @@ or from E. PONSONBY, <hi rend="smallcaps">Ltd.</hi>, 116, <hi rend="smallcaps">G
       </div>
       <div xml:id="sec-03" type="chapter" n="03-no-2-announcement-by-the-government-of-india-2nd-february-192">
         <head>No. 2. Announcement by the Government of India (2nd February 1920)</head>
-        <div type="subsection" n="h2">
+        <div type="subsection" n="h1">
           <head>No. 2.</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Announcement dated 2nd February 1920 issued by the Government of India.</hi><ref xml:id="ref-sec-03-fn-001" type="noteref" target="#sec-03-fn-001">1</ref></head>
             <p>The acquisition rate for gold imported under licence into India, which has hitherto been subject to variation notified from time to time, has now, in accordance with the Secretary of State for India's separate announcement published to-day relating to the <pb xml:id="page-6" n="4" facs="https://archive.org/download/pamphletsissuedb05grea/page/n5_w1400.jpg"/> recommendations of the Indian Currency Committee, been fixed, and the following fixed rates will apply to transactions on and after Monday, 2nd February, namely, Rs. 10 for each sovereign tendered for import, or one rupee for 11·30016 grains of fine gold.</p>
             <p>2. Council drafts will continue to be offered at the Secretary of State's discretion for weekly sale at the Bank of England by competitive tender. The rate for deferred telegraphic transfers and bills will, until further notice, rank for allotment with tenders at <hi rend="sup">1</hi>/<hi rend="sub">16</hi>th of a penny higher for immediate telegraphic transfers. No announcement will be made of the minimum rate at which tenders will be accepted, and the Secretary of State for India in Council reserves the right of rejecting the whole or part of any tender. In accordance with the Committee's recommendations, the Government of India will, when occasion requires, offer for sale stated weekly amounts of sterling reverse drafts on the Secretary of State for India (including immediate telegraphic transfers).</p>
@@ -159,18 +159,18 @@ or from E. PONSONBY, <hi rend="smallcaps">Ltd.</hi>, 116, <hi rend="smallcaps">G
         <head>Appendix: Notifications of 1897, 1906, and Defence of India Rules, 1915</head>
         <div type="subsection" n="h1">
           <head>APPENDIX.</head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>(<hi rend="italic">a</hi>) <hi rend="smallcaps">Notification of the Government of India, No.</hi> 4071 (<hi rend="smallcaps">Finance and Commerce</hi>), dated 11th September 1897.</head>
             <p>In continuation of the notifications No. 2362, No. 2663, and No. 2664, dated 26th June 1893, the Governor-General in Council hereby notifies for public information that from and after the date of this notification, sovereigns and half-sovereigns of current weight coined at any authorised Royal Mint in England or Australia will be received at the Reserve Treasuries at Calcutta, Madras, and Bombay, and rupees will be issued in exchange therefor, the sovereign and half-sovereign being taken as the equivalent of 15 rupees and of seven rupees eight annas respectively.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>(<hi rend="italic">b</hi>) <hi rend="smallcaps">Notification of the Government of India, No.</hi> 6908A, dated 11th December 1906.</head>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head><hi rend="italic">Receipt by the Mints of Calcutta and Bombay of Sovereigns and Half-Sovereigns only.</hi></head>
             <p>In supersession of the notifications by the Government of India in the Financial Department, No. 2662, dated the 26th June 1893, and No. 3218A, dated the 14th July 1899, which are hereby cancelled, the Governor-General in Council is pleased to direct that, with effect from 1st April 1907, gold bullion and gold coins, other than sovereigns and half-sovereigns, will not be received by the Mint Masters of the Calcutta and the Bombay Mints.</p>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>(<hi rend="italic">c</hi>) <hi rend="smallcaps">The Defence of India (Consolidation) Rules</hi>, 1915.</head>
             <p>21A. No person shall melt, break up, or use otherwise than as currency, any current gold or silver coin.</p>
             <p>21C. No person shall sell or purchase or offer to sell or purchase any coin for an amount exceeding the face value of such coin, or shall accept or offer to accept any such coin in payment of a debt or otherwise for an amount exceeding its face value.</p>

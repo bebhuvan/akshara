@@ -1,6 +1,6 @@
 ---
 title: "A Comprehensive History of India, Vol. I"
-date: "2026-11-23"
+date: "2026-11-26"
 subtitle: "Civil, Military, and Social, from the First Landing of the English, to the Suppression of the Sepoy Revolt; Including an Outline of the Early History of Hindoostan"
 author: "Henry Beveridge"
 author_slug: "henry-beveridge"
@@ -45,7 +45,7 @@ provenance_statement: "Machine-checked; 2 of 733 pages had flagged passages re-r
 taxonomy_provenance:
   - "Read: Gemini 4 Hydrogen"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 30 fixes · 2 pp. checked"
+  - "Scan-Triaged: 31 fixes · 2 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 2/2 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -124,14 +124,15 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (196 flyleaf/stamp block(s)) are excluded from reading prose; **591** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **5** cross-page split footnotes and **0** multi-page tables were stitched; and **3213** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (196 flyleaf/stamp block(s)) are excluded from reading prose; **612** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **5** cross-page split footnotes and **0** multi-page tables were stitched; and **3213** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (10 distinct non-ASCII characters across 67 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+  - **Reading Editions Only**: In the web chapters, the one-page edition, the EPUB and the PDF, the space the compositor set before `! ? ; :` and inside quotation marks is closed up (**233** places); **981** straight quotation marks and apostrophes are set as curly ones. The TEI XML and Markdown keep the page exactly as printed.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-4-hydrogen` (733 pp.).
   - **Reader**: Read by gemini-4-hydrogen on 733 of 733 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen).
-  - **Human Proofing**: 30 replayed correction(s). Machine-checked; 2 of 733 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 31 replayed correction(s). Machine-checked; 2 of 733 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

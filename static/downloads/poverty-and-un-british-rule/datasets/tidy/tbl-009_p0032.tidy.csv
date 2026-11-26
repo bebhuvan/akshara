@@ -1,7 +1,0 @@
-book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-009,Table 9,32,12,1,data,,Irrigated,2,Column 2,"10,045,050 acres",10045050.0,acres,False,True
-poverty-and-un-british-rule,tbl-009,Table 9,32,12,1,data,,Irrigated,3,Column 3,"Rs. 24,38,93,814",243893814.0,Rs,False,True
-poverty-and-un-british-rule,tbl-009,Table 9,32,12,2,data,,Unirrigated,2,Column 2,"14,132,111 „",14132111.0,acres,False,True
-poverty-and-un-british-rule,tbl-009,Table 9,32,12,2,data,,Unirrigated,3,Column 3,"„ 19,06,42,177",,,False,True
-poverty-and-un-british-rule,tbl-009,Table 9,32,12,3,total,,Total,2,Column 2,"24,177,161 „",24177161.0,acres,False,True
-poverty-and-un-british-rule,tbl-009,Table 9,32,12,3,total,,Total,3,Column 3,"„ 43,45,35,991",,,False,True

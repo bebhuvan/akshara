@@ -23,7 +23,7 @@
         <idno type="book_id">lays-of-ancient-india</idno>
         <idno type="collection">general-heritage</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -810,7 +810,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">INDRA, THE RAIN-GIVER.</hi></head>
           <p>“Vritra is supposed to confine the waters, and will not let them descend until the sky-god or rain-god, Indra, strikes the monster with his thunderbolt. The captive waters then descend in copious showers, rivers rise almost instantaneously, and gods and men rejoice over the changed face of nature.”—<hi rend="italic">Civilisation in Ancient India</hi>, vol. i. p. 79.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l>I <hi rend="smallcaps">SING</hi> the lay, our fathers knew,—</l>
@@ -821,7 +821,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For Indra cleared for them the rocky way!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>He pierced the rain-cloud, stout of heart,</l>
@@ -832,7 +832,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Unto the sea the streamlets speed along!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>Impetuous like a bull in might,</l>
@@ -846,7 +846,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And poured the joyous waters, sparkling bright !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>Mighty god and warrior proud !</l>
@@ -857,7 +857,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And joyful mortals hailed the rising sun !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>In gloomy folds did Vritra proud</l>
@@ -868,7 +868,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Proud Vritra lies prostrate, by Indra killed !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>Did not Vritra, proud, elate,</l>
@@ -880,7 +880,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-43" n="5" facs="https://archive.org/download/laysofancientind00dutt/page/n42_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>With severed limbs, in mighty rage</l>
@@ -891,7 +891,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And vain was Vritra’s war with Indra bright!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>Glad waters over Vritra roll,</l>
@@ -902,7 +902,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Spurning the dead, how glad the waters roll!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>But darker clouds come in their might,</l>
@@ -913,7 +913,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>The mother rain-cloud lies with Vritra dead!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>O’er the dead the waters hie,</l>
@@ -927,7 +927,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For Indra’s foe now sleeps the sleep of death !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>11.</head>
             <lg>
         <l>When light was prisoned by dark gloom,</l>
@@ -938,7 +938,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For Indra gave us light and gave us rain !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>12.</head>
             <lg>
         <l>Vain were Vritra’s darts and blows,</l>
@@ -950,7 +950,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-45" n="7" facs="https://archive.org/download/laysofancientind00dutt/page/n44_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>13.</head>
             <lg>
         <l>The lightning shafts that Ahi <ref xml:id="ref-sec-06-fn-003" type="noteref" target="#sec-06-fn-003">*</ref> sent,</l>
@@ -961,7 +961,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For Indra rent them with his piercing darts !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>14.</head>
             <lg>
         <l>Great Indra ! In that dubious war</l>
@@ -972,7 +972,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>O’er ninety streams and nine flee far away ?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>15.</head>
             <lg>
         <l>Lightning-arméd ! Mighty king</l>
@@ -998,7 +998,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <pb xml:id="page-46" n="8" facs="https://archive.org/download/laysofancientind00dutt/page/n45_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="italic">INDRA, THE SUPREME DEITY.</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l><hi rend="smallcaps">Mortals</hi>! Did you question me,</l>
@@ -1009,7 +1009,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Mortals! He is Indra, rules on high!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>He who fixed the solid earth,</l>
@@ -1020,7 +1020,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Mortals! He is Indra, rules on high!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>He who pierced the clouds in might,</l>
@@ -1034,7 +1034,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Mortals ! He is Indra, victor in the fight !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>Listen, mortals ! to my verse,</l>
@@ -1045,7 +1045,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For he is Indra ! hunter strong and bold !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>Have you, doubting, questioned me,</l>
@@ -1056,7 +1056,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For Indra smites the impious in his ire !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>But his ceaseless mercies seek</l>
@@ -1068,7 +1068,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-48" n="10" facs="https://archive.org/download/laysofancientind00dutt/page/n47_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>His the kine and steeds of war,</l>
@@ -1079,7 +1079,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For he is Indra, copious rain who sends!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>Contending hosts repeat his name,</l>
@@ -1090,7 +1090,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For he is Indra, whom our fathers knew!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>Man triumphs not but by his blade,</l>
@@ -1101,7 +1101,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For Indra knows no death, no slow decay!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>He who killed with lightning dire</l>
@@ -1115,7 +1115,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>He is Indra! victor in the fight!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>11.</head>
             <lg>
         <l>He who mighty warriors quelled,</l>
@@ -1126,7 +1126,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>He is Indra! glorious in the fight!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>12.</head>
             <lg>
         <l>His seven bright tints bedeck the bow,</l>
@@ -1137,7 +1137,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>He is Indra! conqueror in the fight!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>13.</head>
             <lg>
         <l>The earth and sky to Indra pray,</l>
@@ -1149,7 +1149,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-50" n="12" facs="https://archive.org/download/laysofancientind00dutt/page/n49_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>14.</head>
             <lg>
         <l>Lift your heart and lift your praise,</l>
@@ -1160,7 +1160,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Mortals !  He is Indra !  Shout his praise !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>15.</head>
             <lg>
         <l>Great Indra ! mortals raise thy song,</l>
@@ -1426,7 +1426,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
           <epigraph><p>“Agni is the god of Fire ; the Ignis of the Latins, the Ogni of the<lb/>Sclavonians.”—Muir’s <hi rend="italic">Sanscrit Texts</hi>,</p></epigraph>
           <epigraph><p>“All the names of the Fire and the Fire-gods were carried away by<lb/>the Western Aryans ; and we have Prometheus answering to Pramantha,<lb/>Phoronus to Bharanyu, and the Latin Vulcanus to the Sanscrit Ulka.”<lb/>—Cox’s <hi rend="italic">Mythology of Aryan Nations</hi>.</p></epigraph>
           <p>The hymn translated below is one of peculiar interest, because it is said to have been composed by a pious lady, Visvavârâ.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>I.</head>
             <lg>
         <l><hi rend="smallcaps">LIGHTED</hi> Agni flames forth high,</l>
@@ -1437,7 +1437,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Faces the east, and brings her gifts to Fire !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>Lord of Eternity ! Lord of skies !</l>
@@ -1449,7 +1449,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-59" n="21" facs="https://archive.org/download/laysofancientind00dutt/page/n58_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>Agni! On the altar shine,</l>
@@ -1460,7 +1460,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And link our men and wives in bonds of love!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>Agni! On the altar shine,</l>
@@ -1471,7 +1471,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Flame on our altar, glorious and divine!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>With pious hands we light thy flame,</l>
@@ -1508,7 +1508,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">USHAS, OR THE DAWN.</hi></head>
           <quote><p>“There is no lovelier conception in the Rig Veda than that of the Dawn. There are no hymns in the Veda more truly poetical than those dedicated to her, and nothing more charming is to be found in the lyrical poetry of any ancient nation. . . . The Dawn was known by various names, and most of these names, and the legends connected with them, were brought by the Hindus from their original abode, since we find phonetical equivalents of these names, and a repetition of some of the legends too, in Greek mythology. Ushas is the Eos of the Greeks and the Aurora of the Latins. Arjunî, according to philologists, is the Greek Argynoris, Brisayâ is Briseis, and Dahanâ is Daphne. Saramâ is phonetically equivalent to the Greek Helena. Saranyu, the mother of Yama and of the Asvins, is the Greek Erinys, and Ahanâ is the renowned goddess Athena.”—<hi rend="italic">Civilisation in Ancient India</hi>, vol. i. p. 91.</p></quote>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l><hi rend="smallcaps">Beauteous</hi> daughter of the sky !</l>
@@ -1519,7 +1519,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Bring us light,—let night’s deep shadows fly !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>Rich in cattle, rich in steed,</l>
@@ -1533,7 +1533,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And grant us wealth and bliss without alloy.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>Our fathers hailed thy glorious light,—</l>
@@ -1544,7 +1544,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Come and bring thy joyous light from far !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>And men of lore will raise their song,</l>
@@ -1555,7 +1555,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Proclaims their names who feed and bless the poor !<ref xml:id="ref-sec-11-fn-001" type="noteref" target="#sec-11-fn-001">*</ref></l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>Come like a housewife gentle-hearted,</l>
@@ -1569,7 +1569,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And birds with joyous notes will fill the air !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>The strong man to his work you send,</l>
@@ -1580,7 +1580,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And birds with joyous notes will fill the air !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>She comes ! she comes ! in her bright car</l>
@@ -1591,7 +1591,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>She comes ! she comes ! to heal us and to bless !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>Mortals in devotion bend,</l>
@@ -1603,7 +1603,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-64" n="26" facs="https://archive.org/download/laysofancientind00dutt/page/n63_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>Beauteous daughter of the sky !</l>
@@ -1614,7 +1614,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And drive the shades of gloomy night afar !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>Ruddy daughter of the sky !</l>
@@ -1625,7 +1625,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And bring’st us gifts in thy resplendent car !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>11.</head>
             <lg>
         <l>White-robed daughter of the sky !</l>
@@ -1636,7 +1636,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Grant that their pious hearts may turn to thee !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>12.</head>
             <lg>
         <l>Glorious daughter of the sky !</l>
@@ -1650,7 +1650,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Grant us strength and health and warrior’s fame !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>13.</head>
             <lg>
         <l>Blushing daughter of the sky !</l>
@@ -1661,7 +1661,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Grant us strength in arms and copious wealth.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>14.</head>
             <lg>
         <l>Gracious daughter of the sky !</l>
@@ -1672,7 +1672,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Accept our joyous songs and pious lay !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>15.</head>
             <lg>
         <l>Wide ope the portals of the sky !</l>
@@ -1684,7 +1684,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-66" n="28" facs="https://archive.org/download/laysofancientind00dutt/page/n65_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>16.</head>
             <lg>
         <l>Nymph of radiant loveliness !</l>
@@ -1759,7 +1759,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <pb xml:id="page-69" n="31" facs="https://archive.org/download/laysofancientind00dutt/page/n68_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="italic">THE GODS OF AGRICULTURE.</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>I.</head>
             <lg>
         <l><hi rend="smallcaps">Kshetrapati</hi>! Ever dear,<ref xml:id="ref-sec-13-fn-001" type="noteref" target="#sec-13-fn-001">*</ref></l>
@@ -1770,7 +1770,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And Kshetrapati will supply our needs.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>Copious milk our cows supply,</l>
@@ -1781,7 +1781,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>He grants us crops and listens to our prayer!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>May our crops in sweetness grow,</l>
@@ -1795,7 +1795,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And let our homes and fields from harm be free !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>Gladly works the merry swain,</l>
@@ -1806,7 +1806,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Merrily ply the goad and drive along !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>Let us raise our grateful song</l>
@@ -1817,7 +1817,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Will feed the grateful earth as crops grow high !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>Auspicious Sîtâ ! beauteous born !</l>
@@ -1831,7 +1831,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Grant us, goddess ! plenteous crops and bliss.<ref xml:id="ref-sec-13-fn-003" type="noteref" target="#sec-13-fn-003">*</ref></l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>Indra takes her by the hand,</l>
@@ -1842,7 +1842,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>With plenteous crops, O goddess ! still appear !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>The merry ploughshare marks the plain,</l>
@@ -1975,7 +1975,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">A BATTLE HYMN.</hi></head>
           <quote><p>“Sudâs was an Aryan king and conqueror, and we are frequently told that various Aryan tribes and kings combined against him, and he was victorious over them all. The allusions to these internecine wars among Aryan races, and to the particular tribes who fought against Sudâs, are historically among the most important passages in the Rig Veda. . . . The poet Tritsu or Vasishtha, who sang these deeds of Sudâs’s glory, was not unrewarded for his immortal verse. For in verses 22 and 23 (Hymn VII. 18) he acknowledges with gratitude that the valiant Sudâs rewarded him with two hundred cows and two chariots and four horses with gold trappings.”—<hi rend="italic">Civilisation in Ancient India</hi>, vol. i. p. 55.</p></quote>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l><hi rend="smallcaps">Varuna</hi> glorious! Indra bright!</l>
@@ -1986,7 +1986,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And save our King Sudâs from every woe!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>When mustered nations lift on high</l>
@@ -2037,7 +2037,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Ye heard the Tritsus!  Saved Sudâs, our king!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>Ten kings who know no pious rite</l>
@@ -2048,7 +2048,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For gods accord their help when mortals pray!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>With their long and braided hair</l>
@@ -2059,7 +2059,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>In vain! the gods were nigh, and they can save!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>Indra slays the foe in fight,</l>
@@ -2071,7 +2071,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-78" n="40" facs="https://archive.org/download/laysofancientind00dutt/page/n77_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>Varuna! Indra! strong in might,</l>
@@ -2091,7 +2091,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">A BRIDAL HYMN.</hi></head>
           <p>The last six verses of this long hymn have been translated. They are a part of the marriage ritual of the ancient times, and will interest modern readers.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <p>[<hi rend="italic">To the Bride and Bridegroom :</hi>]</p>
             <lg>
@@ -2103,7 +2103,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And lisping babes their grandsire’s bliss increase !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <p>[<hi rend="italic">The Bride and Bridegroom say :</hi>]</p>
             <lg>
@@ -2119,10 +2119,10 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-80" n="42" facs="https://archive.org/download/laysofancientind00dutt/page/n79_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>[<hi rend="italic">To the Bride :</hi>]</head>
             <lg>
         <l>Serve thy lord with love and sweetness,</l>
@@ -2133,10 +2133,10 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Be good unto our men and to our kine !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>[<hi rend="italic">Prayer to Indra :</hi>]</head>
             <lg>
         <l>In thy mercy, in thy grace,</l>
@@ -2147,10 +2147,10 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And from her spouse her heart may never turn !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>[<hi rend="italic">To the Bride :</hi>]</head>
             <lg>
         <l>A gentle kindness ever bear</l>
@@ -2162,7 +2162,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-81" n="43" facs="https://archive.org/download/laysofancientind00dutt/page/n80_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <p>[<hi rend="italic">The Bride and Bridegroom say :</hi>]</p>
             <lg>
@@ -2284,7 +2284,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">THE GOLDEN CHILD.</hi></head>
           <p>The following is one of the hymns of the Rig Veda which show that the mind of the ancient Hindu worshipper travelled “from Nature up to Nature’s God.”</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2295,7 +2295,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>We bring our offerings, chant our prayers high !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2306,7 +2306,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Whose slave is death ! Transcendent Deity !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>To whom on earth or sky or air</l>
@@ -2320,7 +2320,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>To Him we offer gifts and chanted prayer !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2331,7 +2331,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>To Him we lift our prayers chanted high !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2342,7 +2342,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Whose hand has measured out the firmament !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2354,7 +2354,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-87" n="49" facs="https://archive.org/download/laysofancientind00dutt/page/n86_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2365,7 +2365,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And held the nascent <hi rend="italic">agni</hi> in their womb.<ref xml:id="ref-sec-18-fn-001" type="noteref" target="#sec-18-fn-001">*</ref></l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2376,7 +2376,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Who held the universe at creation's dawn!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>To whom in earth or sky or air</l>
@@ -2388,7 +2388,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-88" n="50" facs="https://archive.org/download/laysofancientind00dutt/page/n87_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>Lord of Universe and King!</l>
@@ -2413,7 +2413,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">THE CREATOR.</hi></head>
           <p>This hymn consists of nine verses. Only the first three are given below in translation. They explain the sublime idea that all the different gods are only the different names of the One God, that all the powers of Nature are the manifestations of the One Power.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>I.</head>
             <lg>
         <l><hi rend="smallcaps">Our</hi> Father at creation's birth</l>
@@ -2424,7 +2424,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And stretched the limits of the earth and sky.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>The All-Creator, He is great,</l>
@@ -2436,7 +2436,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-90" n="52" facs="https://archive.org/download/laysofancientind00dutt/page/n89_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>He our Father!  He our King!</l>
@@ -2866,7 +2866,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <pb xml:id="page-104" n="66" facs="https://archive.org/download/laysofancientind00dutt/page/n103_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="italic">THE LEGEND OF MAITREYÎ.</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>I.</head>
             <lg>
         <l><hi rend="smallcaps">Unto</hi> her,—his spouse beloved,—</l>
@@ -2879,7 +2879,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Hers to Kâtyâyanî give !”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2</head>
             <lg>
         <l>“Will thy wealth and worldly objects,”—</l>
@@ -2893,7 +2893,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-105" n="67" facs="https://archive.org/download/laysofancientind00dutt/page/n104_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>“Vain to me the things that perish,</l>
@@ -2906,7 +2906,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>I will grant that wealth to thee !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>“Saintly love of man and woman,</l>
@@ -2919,7 +2919,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Thou knowest all, thou lovest all !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>“Sound the drum, a music issues,—</l>
@@ -2933,7 +2933,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-106" n="68" facs="https://archive.org/download/laysofancientind00dutt/page/n105_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>“Love thy great and inner Self,</l>
@@ -2946,7 +2946,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Forms that people earth and sky !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>“He breathed forth the universe !</l>
@@ -2959,7 +2959,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And the worlds will in Him be !”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>“My love ! my lord !” Maitreyî said,</l>
@@ -2973,7 +2973,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-107" n="69" facs="https://archive.org/download/laysofancientind00dutt/page/n106_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>“ Not from outer world distinct,—</l>
@@ -3082,7 +3082,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <pb xml:id="page-111" n="73" facs="https://archive.org/download/laysofancientind00dutt/page/n110_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="italic">THE LEGEND OF NACHIKETAS.</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l><hi rend="smallcaps">Nachiketas</hi>, righteous boy,—</l>
@@ -3095,7 +3095,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Or does he live in earth or skies ? ”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>Unto him thus answered Yama,</l>
@@ -3109,7 +3109,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-112" n="74" facs="https://archive.org/download/laysofancientind00dutt/page/n111_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>“Ask for sons and happy grandsons—</l>
@@ -3122,7 +3122,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Live without a pang or fear !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>“Nachiketas ! other objects</l>
@@ -3135,7 +3135,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Be the foremost in thy worth !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>“Every wish thy heart can fathom,</l>
@@ -3149,7 +3149,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-113" n="75" facs="https://archive.org/download/laysofancientind00dutt/page/n112_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>“These are,” Nachiketas answered,</l>
@@ -3162,7 +3162,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Secret of the after-day!”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>Pressed by pious Nachiketas,</l>
@@ -3175,7 +3175,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>God pervading earth and skies!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>“And the man who knows this secret,</l>
@@ -3766,7 +3766,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <pb xml:id="page-136" n="98" facs="https://archive.org/download/laysofancientind00dutt/page/n135_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="italic">MESSAGE TO FOREIGN NATIONS.</hi></head>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l><hi rend="smallcaps">Far</hi>, far extend Kalinga’s plains,</l>
@@ -3779,7 +3779,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>The pious monarch cried !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>“Brâhmans pure and Srâmans good,</l>
@@ -3793,7 +3793,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-137" n="99" facs="https://archive.org/download/laysofancientind00dutt/page/n136_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>Repentance wrung his royal breast,</l>
@@ -3806,7 +3806,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And spread good will on earth !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>“Ho ! other conquests I will spread,</l>
@@ -3819,7 +3819,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And wins the righteous fame !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>“To Antiochus, Syria’s lord,</l>
@@ -3835,7 +3835,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>The joyful tidings bring !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>“To far Kâverî’s fertile banks,</l>
@@ -3848,7 +3848,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>The joyful news proclaim !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>“To our friends the Bactrian Greeks,</l>
@@ -3864,7 +3864,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Tell it to every man !”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>Far and wide the news they told,</l>
@@ -3908,7 +3908,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">THE PENANCE OF UMÂ.</hi></head>
           <p>Umâ, in the extract given before from the Kena Upanishad, is divine intelligence, explaining to the celestial powers the nature of Brahman or God. In later times, however, she acquired a more distinct personality, and was considered to be the daughter of the god of the Himâlayas, and the consort of Siva or Sambhu, one of the Hindu Trinity. Her marriage with Siva is the subject of the beautiful poem of Kâlidâsa from which the following portion has been translated.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>I.</head>
             <lg>
         <l><hi rend="smallcaps">Long</hi> through sultry Summer evenings</l>
@@ -3917,7 +3917,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>In the Dews and Winter’s blast.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>And when Spring the green woods mantled <ref xml:id="ref-sec-37-fn-001" type="noteref" target="#sec-37-fn-001">*</ref></l>
@@ -3926,7 +3926,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Came, attired in barks and skin.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>And in language sweet and courteous</l>
@@ -3936,7 +3936,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-144" n="106" facs="https://archive.org/download/laysofancientind00dutt/page/n143_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>4.</head>
             <lg>
         <l>“Not by Gangâ’s holy waters</l>
@@ -3945,7 +3945,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>By thy holy penance blest!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>5.</head>
             <lg>
         <l>“But a doubt in me ariseth,</l>
@@ -3954,7 +3954,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Seek for hidden thoughts to know.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>6.</head>
             <lg>
         <l>“Thou art born of noble parents,</l>
@@ -3963,7 +3963,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Why this penance,—this sad duty?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>7.</head>
             <lg>
         <l>“Noble ladies, stung with sorrow,</l>
@@ -3972,7 +3972,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Can grief touch thee, maiden bright?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>“Wherefore leaves and barks of wild trees</l>
@@ -3982,7 +3982,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-145" n="107" facs="https://archive.org/download/laysofancientind00dutt/page/n144_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>“Not for joys of heaven this penance,</l>
@@ -3991,7 +3991,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Need a beauteous maiden sigh ?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>“Yet that sigh, that heaving bosom</l>
@@ -4000,7 +4000,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Can a suitor cruel prove ?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>11.</head>
             <lg>
         <l>“Can he heartless view that beauty</l>
@@ -4009,7 +4009,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Like moon’s crescent pale and faded ?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>12.</head>
             <lg>
         <l>“But, perchance, my gentle Umâ,</l>
@@ -4018,7 +4018,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Thine its fruit and blessings be !”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>13.</head>
             <lg>
         <l>Silent Umâ dropped a tear-drop,</l>
@@ -4064,7 +4064,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-147" n="109" facs="https://archive.org/download/laysofancientind00dutt/page/n146_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>19.</head>
             <lg>
         <l>Smiling answered then the Brâhman,</l>
@@ -4073,7 +4073,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>That unlovely god to wed?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>20.</head>
             <lg>
         <l>“Will thy hand so soft and tender</l>
@@ -4082,7 +4082,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>On his red skins beauteous shine?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>21.</head>
             <lg>
         <l>“Wilt thou with such bridegroom wander</l>
@@ -4091,7 +4091,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Wilt thou stain thy gentle breast?</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>22.</head>
             <lg>
         <l>“Obscure his birth! Unknown his wealth!</l>
@@ -4100,7 +4100,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Pious men their altars raise!”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>23.</head>
             <lg>
         <l>Angry Umâ heard the Brâhman</l>
@@ -4174,7 +4174,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">THE CONQUESTS OF RAGHU.</hi></head>
           <p>The piece translated below is important, as it throws light on the geography of India at the time of the poet, <hi rend="italic">i.e.</hi>, in the sixth century after Christ.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l><hi rend="smallcaps">Eastward</hi> marched Ayodhyâ’s monarch,</l>
@@ -4183,7 +4183,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>On whose shores the palm trees grow.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>Suhma’s<ref xml:id="ref-sec-38-fn-001" type="noteref" target="#sec-38-fn-001">*</ref> monarch saved his kingdom,</l>
@@ -4192,7 +4192,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>’Neath the strong resistless wave.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>3.</head>
             <lg>
         <l>Bengal’s kings came with their war-boats,</l>
@@ -4231,7 +4231,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-152" n="114" facs="https://archive.org/download/laysofancientind00dutt/page/n151_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>But the great and noble victor</l>
@@ -4240,7 +4240,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Robbed him of his fame alone !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>Southward marched Ayodhyâ’s monarch</l>
@@ -4249,7 +4249,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Marched his soldiers bold and free !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>Crossed Kâverî, mighty river,</l>
@@ -4258,7 +4258,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Tuskers to the sandal trees,</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>11.</head>
             <lg>
         <l>Mighty Pândyas,<ref xml:id="ref-sec-38-fn-005" type="noteref" target="#sec-38-fn-005">*</ref> brave in combat,</l>
@@ -4268,7 +4268,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-153" n="115" facs="https://archive.org/download/laysofancientind00dutt/page/n152_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>12.</head>
             <lg>
         <l>Across the lofty Sahya mountains <ref xml:id="ref-sec-38-fn-006" type="noteref" target="#sec-38-fn-006">*</ref></l>
@@ -4277,7 +4277,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Saw his troops and fled away.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>13.</head>
             <lg>
         <l>Northwards now Ayodhyâ’s monarch</l>
@@ -4286,7 +4286,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For the chiefs who fought and fell.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>14.</head>
             <lg>
         <l>Fiercely fought each western warrior</l>
@@ -4325,7 +4325,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-155" n="117" facs="https://archive.org/download/laysofancientind00dutt/page/n154_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>19.</head>
             <lg>
         <l>Then the hosts of mighty Raghu</l>
@@ -4334,7 +4334,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Eastwards now they forced their way.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>20.</head>
             <lg>
         <l>And they crossed great Ganga’s waters,</l>
@@ -4343,7 +4343,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Quaked before the victor brave.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>21.</head>
             <lg>
         <l>With the tuskers of his country</l>
@@ -4352,7 +4352,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>To where Raghu’s tents arose.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>22.</head>
             <lg>
         <l>Thus great Raghu, king of monarchs,</l>
@@ -4388,7 +4388,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <div type="subsection" n="h1">
           <head><hi rend="italic">MUKTÂLATÂ, PRINCESS OF CEYLON.</hi></head>
           <p>Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in the eleventh century after Christ. His versification is fluent and graceful, and he seems to have condensed all that was best in older Sanscrit literature—poetry, rhetoric, tales, and fiction—into compact readable works. Buddhist stories too did not come amiss to him, and in his <hi rend="italic">Kalpalatâ</hi> he gives us 108 Buddhist tales, one of which is given below. This work, <hi rend="italic">Kalpalatâ</hi>, like most other Buddhist works, was lost in India, but my respected friend, Mr. Sarat Chandra Das, has during his journeys in Thibet recovered a copy of the work with a Thibetan translation, which is being published now by the Asiatic Society of Bengal.</p>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>1.</head>
             <lg>
         <l><hi rend="smallcaps">Like</hi> the bright moon’s golden crescent,</l>
@@ -4397,7 +4397,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>In Siṃhala<ref xml:id="ref-sec-39-fn-001" type="noteref" target="#sec-39-fn-001">*</ref> bright and free.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>2.</head>
             <lg>
         <l>On her birth a shower of bright pearls</l>
@@ -4443,7 +4443,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-158" n="120" facs="https://archive.org/download/laysofancientind00dutt/page/n157_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>8.</head>
             <lg>
         <l>And the gentle-hearted princess</l>
@@ -4452,7 +4452,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>And a tremor shook her frame !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>9.</head>
             <lg>
         <l>Eagerly the pea-fowl listens</l>
@@ -4461,7 +4461,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Who this Lord ?—she asked again.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>10.</head>
             <lg>
         <l>To the princess, pious-hearted,</l>
@@ -4470,7 +4470,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Lord of all creation wide.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>11.</head>
             <lg>
         <l>By the merchants’ tale reminded</l>
@@ -4479,7 +4479,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>For great Buddha, Lord of earth.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>12.</head>
             <lg>
         <l>And the traders crossed the ocean,</l>
@@ -4525,7 +4525,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-160" n="122" facs="https://archive.org/download/laysofancientind00dutt/page/n159_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>18.</head>
             <lg>
         <l>And the people viewed the painting</l>
@@ -4534,7 +4534,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Seemed t’ attain the Lord himself !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>19.</head>
             <lg>
         <l>Written under that sweet likeness,</l>
@@ -4543,7 +4543,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Saw the Five Instructions holy !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>20.</head>
             <lg>
         <l>And the Noble Eightfold Path,</l>
@@ -4552,7 +4552,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Life to death, and death to life !</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>21.</head>
             <lg>
         <l>Blazing bright in golden letters,</l>
@@ -4561,7 +4561,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Written by our blessed Lord.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>22.</head>
             <lg>
         <l>“Sufferers from life’s bitter sorrows !</l>
@@ -4607,7 +4607,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-162" n="124" facs="https://archive.org/download/laysofancientind00dutt/page/n161_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>28.</head>
             <lg>
         <l>In a moment’s time achieving</l>
@@ -4616,7 +4616,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Thus in gladness spoke the fair.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>29.</head>
             <lg>
         <l>“Chaser of the world’s illusions,</l>
@@ -4625,7 +4625,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Lovelier than the lotus fair!</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>30.</head>
             <lg>
         <l>“I have crossed the world’s illusions,</l>
@@ -4634,7 +4634,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>Peace, like nectar, flows around!”</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>31.</head>
             <lg>
         <l>Thus she spoke, and unto Buddha</l>
@@ -4643,7 +4643,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
         <l>With these gifts the merchants went.</l>
       </lg>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>32.</head>
             <lg>
         <l>O’er the sea, unto our Master,</l>
@@ -4725,7 +4725,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       </lg>
             <pb xml:id="page-165" n="127" facs="https://archive.org/download/laysofancientind00dutt/page/n164_w1400.jpg"/>
           </div>
-          <div type="subsection" n="h3">
+          <div type="subsection" n="h2">
             <head>43.</head>
             <lg>
         <l>“In the acts of grace rejoicing,</l>
@@ -7826,12 +7826,12 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       <row role="data"><cell>,,</cell><cell rend="num">16</cell><cell>,,</cell><cell rend="num">16</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">17</cell><cell>,,</cell><cell rend="num">19</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">18</cell><cell>,,</cell><cell rend="num">22</cell></row>
-      <row role="data"><cell>,,</cell><cell rend="num">19</cell><cell>,,</cell><cell rend="num">23, 24</cell></row>
-      <row role="data"><cell>,,</cell><cell rend="num">20</cell><cell>,,</cell><cell rend="num">25, 26</cell></row>
+      <row role="data"><cell>,,</cell><cell rend="num">19</cell><cell>,,</cell><cell>23, 24</cell></row>
+      <row role="data"><cell>,,</cell><cell rend="num">20</cell><cell>,,</cell><cell>25, 26</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">21</cell><cell>,,</cell><cell rend="num">27</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">22</cell><cell>,,</cell><cell rend="num">33</cell></row>
-      <row role="data"><cell>,,</cell><cell rend="num">23</cell><cell>,,</cell><cell rend="num">35, 36</cell></row>
-      <row role="data"><cell>,,</cell><cell rend="num">24</cell><cell>,,</cell><cell rend="num">49, 51</cell></row>
+      <row role="data"><cell>,,</cell><cell rend="num">23</cell><cell>,,</cell><cell>35, 36</cell></row>
+      <row role="data"><cell>,,</cell><cell rend="num">24</cell><cell>,,</cell><cell>49, 51</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">25</cell><cell>,,</cell><cell rend="num">56</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">26</cell><cell><hi rend="smallcaps">Book</hi> IX.</cell><cell rend="num">16</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">27</cell><cell>,,</cell><cell rend="num">17</cell></row>
@@ -7887,7 +7887,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       <row role="data"><cell>,,</cell><cell rend="num">21</cell><cell>,,</cell><cell rend="num">63</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">22</cell><cell>,,</cell><cell rend="num">66</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">23</cell><cell>,,</cell><cell rend="num">68</cell></row>
-      <row role="data"><cell>,,</cell><cell rend="num">24</cell><cell>,,</cell><cell rend="num">70, 71</cell></row>
+      <row role="data"><cell>,,</cell><cell rend="num">24</cell><cell>,,</cell><cell>70, 71</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">25</cell><cell><hi rend="smallcaps">Book</hi> XIV.</cell><cell rend="num">1</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">26</cell><cell>,,</cell><cell rend="num">8</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">27</cell><cell>,,</cell><cell rend="num">9</cell></row>
@@ -7933,7 +7933,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       <row role="data"><cell>,,</cell><cell rend="num">29</cell><cell>,,</cell><cell rend="num">46</cell></row>
       <row role="data"><cell><hi rend="smallcaps">Book</hi> XI.</cell><cell rend="num">30</cell><cell><hi rend="smallcaps">Book</hi> XVII.</cell><cell rend="num">50</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">31</cell><cell>,,</cell><cell rend="num">51</cell></row>
-      <row role="data"><cell>,,</cell><cell rend="num">32</cell><cell>,,</cell><cell rend="num">52, 55</cell></row>
+      <row role="data"><cell>,,</cell><cell rend="num">32</cell><cell>,,</cell><cell>52, 55</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">33</cell><cell>,,</cell><cell rend="num">56</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">34</cell><cell>,,</cell><cell rend="num">58</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">35</cell><cell>,,</cell><cell rend="num">63</cell></row>
@@ -7941,7 +7941,7 @@ PATERNOSTER HOUSE, CHARING CROSS ROAD
       <row role="data"><cell>,,</cell><cell rend="num">37</cell><cell>,,</cell><cell rend="num">2</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">38</cell><cell>,,</cell><cell rend="num">3</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">39</cell><cell>,,</cell><cell rend="num">5</cell></row>
-      <row role="data"><cell>,,</cell><cell rend="num">40</cell><cell>,,</cell><cell rend="num">6, 7</cell></row>
+      <row role="data"><cell>,,</cell><cell rend="num">40</cell><cell>,,</cell><cell>6, 7</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">41</cell><cell>,,</cell><cell rend="num">8</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">42</cell><cell>,,</cell><cell rend="num">9</cell></row>
       <row role="data"><cell>,,</cell><cell rend="num">43</cell><cell>,,</cell><cell rend="num">11</cell></row>

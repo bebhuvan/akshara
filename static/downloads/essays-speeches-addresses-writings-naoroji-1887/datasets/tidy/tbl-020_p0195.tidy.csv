@@ -1,11 +1,6 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,1,data,,Bajri,2,Acres.,"985,427",985427.0,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,1,data,,Bajri,3,Beegahs.,"56,857",56857.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,2,data,,Jowari,2,Acres.,"676,377",676377.0,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,2,data,,Jowari,3,Beegahs.,"224,210",224210.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,3,data,,Rice,2,Acres.,"616,802",616802.0,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,3,data,,Rice,3,Beegahs.,"94,306",94306.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,4,data,,Cotton,2,Acres.,"519,058",519058.0,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,4,data,,Cotton,3,Beegahs.,"319,572",319572.0,,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,5,total,,Row 5,2,Acres.,"2,797,664",2797664.0,acres,False,True
-essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,5,total,,Row 5,3,Beegahs.,"694,945=408,791 acres, or total acres 3,206,455.",,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,1,data,,Jowari,2,Acres.,"4,906,073",4906073.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,2,data,,Bajri,2,Acres.,"2,715,719",2715719.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,3,data,,Rice,2,Acres.,"504,015",504015.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,4,data,,Cotton,2,Acres.,"704,629",704629.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-020,Table 20,195,176,5,total,,Row 5,2,Acres.,"8,830,436",8830436.0,acres,False,True

@@ -1,7 +1,7 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-051,Table 51,90,70,1,data,,Cuddapah,2,Column 2,Rs. 492 per garce,,Rs,False,False
-poverty-and-un-british-rule,tbl-051,Table 51,90,70,1,data,,Cuddapah,3,Column 3,Coimbatoor,,,False,False
-poverty-and-un-british-rule,tbl-051,Table 51,90,70,1,data,,Cuddapah,4,Column 4,Rs. 474 per garce,,Rs,False,False
-poverty-and-un-british-rule,tbl-051,Table 51,90,70,2,data,,Madura,2,Column 2,„ 477 „,,Rs,False,False
-poverty-and-un-british-rule,tbl-051,Table 51,90,70,2,data,,Madura,3,Column 3,Bellary,,,False,False
-poverty-and-un-british-rule,tbl-051,Table 51,90,70,2,data,,Madura,4,Column 4,„ 469 „,,Rs,False,False
+poverty-and-un-british-rule,tbl-051,Table 51,90,70,1,data,,Vizagapatam,2,Column 2,Rs. 203 per garce,,Rs,False,False
+poverty-and-un-british-rule,tbl-051,Table 51,90,70,1,data,,Vizagapatam,3,Column 3,Ganjam,,,False,False
+poverty-and-un-british-rule,tbl-051,Table 51,90,70,1,data,,Vizagapatam,4,Column 4,Rs. 232 per garce,,Rs,False,False
+poverty-and-un-british-rule,tbl-051,Table 51,90,70,2,data,,Godavery,2,Column 2,„ 222 „,,Rs,False,False
+poverty-and-un-british-rule,tbl-051,Table 51,90,70,2,data,,Godavery,3,Column 3,South Canara,,,False,False
+poverty-and-un-british-rule,tbl-051,Table 51,90,70,2,data,,Godavery,4,Column 4,„ 308 „,,Rs,False,False

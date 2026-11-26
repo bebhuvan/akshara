@@ -1128,7 +1128,7 @@
     "column_index": 4,
     "column_header": "In the Original Poem.",
     "raw_text": "23, 24",
-    "value_numeric": 2324.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1182,7 +1182,7 @@
     "column_index": 4,
     "column_header": "In the Original Poem.",
     "raw_text": "25, 26",
-    "value_numeric": 2526.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1344,7 +1344,7 @@
     "column_index": 4,
     "column_header": "In the Original Poem.",
     "raw_text": "35, 36",
-    "value_numeric": 3536.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1398,7 +1398,7 @@
     "column_index": 4,
     "column_header": "In the Original Poem.",
     "raw_text": "49, 51",
-    "value_numeric": 4951.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -4422,7 +4422,7 @@
     "column_index": 4,
     "column_header": "In the Original Poem.",
     "raw_text": "70, 71",
-    "value_numeric": 7071.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -6906,7 +6906,7 @@
     "column_index": 4,
     "column_header": "In the Original Poem.",
     "raw_text": "52, 55",
-    "value_numeric": 5255.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -7338,7 +7338,7 @@
     "column_index": 4,
     "column_header": "In the Original Poem.",
     "raw_text": "6, 7",
-    "value_numeric": 67.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

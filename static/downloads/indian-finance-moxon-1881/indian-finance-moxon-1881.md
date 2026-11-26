@@ -8,7 +8,7 @@
 
 <!-- page: 3 | folio: 3 -->
 
-#### Manchester Statistical Society.
+### Manchester Statistical Society.
 
 
 ## INDIAN FINANCE.
@@ -16,9 +16,7 @@
 
 ### INDIAN FINANCE.
 
-BY
-
-MR. THOMAS B. MOXON.
+BY MR. THOMAS B. MOXON.
 
 [<span class="sc">Read January</span> 12<span class="sc">th</span>, 1881.]
 
@@ -118,7 +116,7 @@ Deducting this total we arrive at a Net Revenue of £45,369,356, as in the follo
 We should prefer to look at the other side of the accounts, where we find a Total Net Expenditure of £42,619,705 (the Provincial and Local Balances are items allotted for expenditure but not expended), and add to this total the Cost of Collecting the Revenue, giving a true Expenditure for the year of £49,061,037.
 
 
-***Based on Government Form of Accounts.***
+**STATEMENT OF REVENUE, 1878-9. — *Based on Government Form of Accounts.***
 | Sources. | Gross. :: £ | Expenses of Collection, &c. :: £ | Net. :: £ |
 | --- | --- | --- | --- |
 | Land Revenue, less refunds | 22,278,421 | 2,966,489 | 19,311,932 |

@@ -15,7 +15,7 @@
     "value_numeric": 1220106.0,
     "unit": "GBP",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -33,7 +33,7 @@
     "value_numeric": 1288059.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -51,7 +51,7 @@
     "value_numeric": 1821512.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -69,7 +69,7 @@
     "value_numeric": 1708379.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -87,7 +87,7 @@
     "value_numeric": 1025204.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -105,7 +105,7 @@
     "value_numeric": 2019265.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -123,7 +123,7 @@
     "value_numeric": 1665689.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -141,7 +141,7 @@
     "value_numeric": 2013975.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -159,7 +159,7 @@
     "value_numeric": 1425168.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -177,7 +177,7 @@
     "value_numeric": 1133526.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -192,10 +192,10 @@
     "column_index": 2,
     "column_header": "Prime Cost of Investment, India.",
     "raw_text": "1,187, 07",
-    "value_numeric": 118707.0,
+    "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -213,7 +213,7 @@
     "value_numeric": 1088700.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -231,7 +231,7 @@
     "value_numeric": 1335460.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -249,7 +249,7 @@
     "value_numeric": 986310.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -267,7 +267,7 @@
     "value_numeric": 887119.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -285,7 +285,7 @@
     "value_numeric": 1013740.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -303,7 +303,7 @@
     "value_numeric": 1240315.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -321,7 +321,7 @@
     "value_numeric": 963429.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -339,7 +339,7 @@
     "value_numeric": 1110909.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -357,7 +357,7 @@
     "value_numeric": 25134672.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   },
   {
     "book_id": "economic-history-india-early-british-dutt",
@@ -375,6 +375,6 @@
     "value_numeric": 1322877.0,
     "unit": "",
     "is_null_or_leader": false,
-    "arithmetic_verified": false
+    "arithmetic_verified": true
   }
 ]

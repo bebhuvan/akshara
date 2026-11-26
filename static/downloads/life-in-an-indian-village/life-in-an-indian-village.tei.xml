@@ -23,7 +23,7 @@
         <idno type="book_id">life-in-an-indian-village</idno>
         <idno type="collection">general-heritage</idno>
         <availability status="free">
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (Public Domain Dedication)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">The original work is in the public domain. This edition, transcribed and set by Akshara, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/): reuse it freely, crediting Akshara (akshara.ink).</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -68,7 +68,10 @@
           <pb xml:id="page-10" n="2" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n9_w1400.jpg"/>
           <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0010.webp"/><figDesc>Circular printer&#x27;s device or monogram logo with intertwined letters</figDesc></figure>
           <pb xml:id="page-11" n="3" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n10_w1400.jpg"/>
-          <div type="subsection" n="h3">
+        </div>
+        <div type="subsection" n="h1">
+          <head>LIFE IN AN INDIAN VILLAGE</head>
+          <div type="subsection" n="h2">
             <head>BY</head>
           </div>
           <div type="subsection" n="h2">
@@ -94,23 +97,23 @@ PATERNOSTER SQUARE
         <pb xml:id="page-13" n="5" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n12_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head><hi rend="smallcaps">CONTENTS</hi>.</head>
-          <div type="subsection" n="h2">
-            <head>CHAPTER I.</head>
-            <p rend="toc-entry">Introductory remarks—The headman—The accountant—The watchman . . . . 25</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER II.</head>
-            <p rend="toc-entry">The Hindu system of caste—The Puróhitā, or the astrologer—The temple priests—The schoolmaster . 37</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER III.</head>
-            <p rend="toc-entry">Hindu poetry—The physician—The carpenter—The blacksmith—The shepherd—The story of the dull shepherd . . . . . 51</p>
-          </div>
-          <div type="subsection" n="h2">
-            <head>CHAPTER IV.</head>
-            <p rend="toc-entry">The washerman—The potter—The barber and his wife, the village midwife—The Pujari, or the priest of the village goddess . . . . . 62</p>
-            <pb xml:id="page-14" n="6" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n13_w1400.jpg"/>
-          </div>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER I.</head>
+          <p rend="toc-entry">Introductory remarks—The headman—The accountant—The watchman . . . . 25</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER II.</head>
+          <p rend="toc-entry">The Hindu system of caste—The Puróhitā, or the astrologer—The temple priests—The schoolmaster . 37</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER III.</head>
+          <p rend="toc-entry">Hindu poetry—The physician—The carpenter—The blacksmith—The shepherd—The story of the dull shepherd . . . . . 51</p>
+        </div>
+        <div type="subsection" n="h1">
+          <head>CHAPTER IV.</head>
+          <p rend="toc-entry">The washerman—The potter—The barber and his wife, the village midwife—The Pujari, or the priest of the village goddess . . . . . 62</p>
+          <pb xml:id="page-14" n="6" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n13_w1400.jpg"/>
         </div>
         <div type="subsection" n="h1">
           <head>CHAPTER V.</head>
@@ -176,8 +179,7 @@ idol and sang sacred lyrics . . . 192</p>
           <p>He then proceeds to pass in review with full particulars—but, I presume, under fictitious names—all the leading personages of the little community.</p>
           <p>First, of course, comes the village headman, or village <hi rend="italic">Munsiff</hi> as he is commonly called.</p>
           <p>Secondly, the public accountant or <hi rend="italic">Kurnam.</hi></p>
-          <p>Thirdly, the policeman, and</p>
-          <p>Fourthly, the Brahmin sage.</p>
+          <p>Thirdly, the policeman, and Fourthly, the Brahmin sage.</p>
           <p>These are followed by the schoolmaster, the <hi rend="italic">Vytkian</hi> or physician, the carpenter, the blacksmith, the shepherd, the washerman, the potter, the barber and his wife.</p>
           <pb xml:id="page-20" n="12" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n19_w1400.jpg"/>
           <p>The centre of the religion of Kélambakam is the temple of the local goddess Angalammal, which stands a furlong or two from the rest of the houses; and she has, of course, her priest or <hi rend="italic">Pujari</hi>, under whom are various servants of the shrine, with which are also connected a couple of dancing girls.</p>
@@ -245,7 +247,7 @@ idol and sang sacred lyrics . . . 192</p>
         <l>‘‘I am the monarch of all I survey,</l>
         <l>My right there is none to dispute.’’</l>
       </lg>
-            <p>Next in importance to Munsiff Kothundarama Mudelly is Ramasami Pillai, the kurnam or the accountant of the village. He has to keep a register of accounts. He is expected to know the extent, name, rent, &amp;c., of every field in the village; he has to assist the munsiff in preparing accounts, when money is remitted. Whenever the villagers have letters to write to relations, documents to be executed and calculations of interest to be <pb xml:id="page-43" n="35" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n42_w1400.jpg"/> made, when disputes arise, the assistance of the infallible kurnam is invoked, as he is considered to be the neatest writer and the most accurate accountant of the village. Ramasami Pillai is a mighty person in the village, and he is also a wily person. There is a Tamil proverb—"Confide if you will in the young one of a crow, but never believe the son of a kurnam." The kurnam, though he may be a good man, has come to be regarded with distrust by the villagers, and such is the case with Ramasami Pillai. Nobody would dare to oppose him or incur his displeasure. Nevertheless, the simple villagers go to him whenever they have any business transactions, for nobody else in the village can perform their work so well as he, and Ramasami Pillai calculated interest so quickly, wrote documents so neatly and accurately, and, readily gave out, without reference to his register, whatever information was wanted regarding each and every plot of land in the village, that the people of Kélambakam viewed him with admiration and wondered—</p>
+            <p>Next in importance to Munsiff Kothundarama Mudelly is Ramasami Pillai, the kurnam or the accountant of the village. He has to keep a register of accounts. He is expected to know the extent, name, rent, &amp;c., of every field in the village; he has to assist the munsiff in preparing accounts, when money is remitted. Whenever the villagers have letters to write to relations, documents to be exccuted and calculations of interest to be <pb xml:id="page-43" n="35" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n42_w1400.jpg"/> made, when disputes arise, the assistance of the infallible kurnam is invoked, as he is considered to be the neatest writer and the most accurate accountant of the village. Ramasami Pillai is a mighty person in the village, and he is also a wily person. There is a Tamil proverb—"Confide if you will in the young one of a crow, but never believe the son of a kurnam." The kurnam, though he may be a good man, has come to be regarded with distrust by the villagers, and such is the case with Ramasami Pillai. Nobody would dare to oppose him or incur his displeasure. Nevertheless, the simple villagers go to him whenever they have any business transactions, for nobody else in the village can perform their work so well as he, and Ramasami Pillai calculated interest so quickly, wrote documents so neatly and accurately, and, readily gave out, without reference to his register, whatever information was wanted regarding each and every plot of land in the village, that the people of Kélambakam viewed him with admiration and wondered—</p>
             <lg>
         <l>"That one small head could carry all he knew."</l>
       </lg>
@@ -428,7 +430,7 @@ idol and sang sacred lyrics . . . 192</p>
           <head>V.</head>
           <div type="subsection" n="h2">
             <head><hi rend="bold">The Panisiva—Account of the dispute between the Panisiva and the potter, and the part played therein by the Brahmin Appalacharri—The Shylock of Kélambakam—The dancing girls—The story of the shepherd and his wife.</hi></head>
-            <p><hi rend="smallcaps">When</hi> in olden days rules were framed for the proper management of Indian village constitutions, and particular duties were assigned to particular individuals, there were no easy means of communication in the country. It was therefore found necessary to have a separate class of men—the <hi rend="italic">Panisivas</hi>—to carry to friends and relatives invitations to weddings, funerals, and special festival occasions, which, as I said in one of my previous papers, are of almost daily occurrence in Hindu families. The word <hi rend="italic">Panisiva</hi> means literally one who serves; and Kanthan, the <hi rend="italic">Panisiva</hi> of Kélambakam, is a hardworking, faithful, and willing servant of the villagers. He is required to blow the conchshell <pb xml:id="page-83" n="75" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n82_w1400.jpg"/> during funerals, to serve betel and nut during marriages and festivals, to go even to distant villages to invite friends and relations to take part in those celebrations, and to do whatever other work is allotted to him on those occasions. By hard work and by the goodwill of the people of the village, he managed till very recently to live a happy life and even to save some money, The Brahmin Appalacharri very cleverly brought about an unnecessary quarrel between Kanthan, the <hi rend="italic">Panisiva</hi>, and Kuppusami, the potter, they being neighbours, and by his scheming kept up the quarrel for some time. The result was that both of them figured many a time in the law courts, and learnt some very wholesome lessons after the expenditure of a good deal of money.</p>
+            <p><hi rend="smallcaps">When</hi> in olden days rules were framed for the proper management of Indian village constitutions, and particular duties were assigned to particular individuals, there were no easy means of communication in the country. It was therefore found necessary to have a separate class of men—the <hi rend="italic">Panisivas</hi>—to carry to friends and relatives invitations to weddings, funerals, and special festival occasions, which, as I said in one of my previous papers, are of almost daily occurrence in Hindu families. The word <hi rend="italic">Panisiva</hi> means literally one who serves; and Kanthan, the <hi rend="italic">Panisiva</hi> of Kélambakam, is a hardworking, faithful, and willing servant of the villagers. He is required to blow the conch-shell <pb xml:id="page-83" n="75" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n82_w1400.jpg"/> during funerals, to serve betel and nut during marriages and festivals, to go even to distant villages to invite friends and relations to take part in those celebrations, and to do whatever other work is allotted to him on those occasions. By hard work and by the goodwill of the people of the village, he managed till very recently to live a happy life and even to save some money, The Brahmin Appalacharri very cleverly brought about an unnecessary quarrel between Kanthan, the <hi rend="italic">Panisiva</hi>, and Kuppusami, the potter, they being neighbours, and by his scheming kept up the quarrel for some time. The result was that both of them figured many a time in the law courts, and learnt some very wholesome lessons after the expenditure of a good deal of money.</p>
             <p>This is how the dispute arose. One day when Appalacharri was sorely in need of money, he went to the potter, who was toiling at his wheel, and very cleverly drew him into a conversation, in the course of which he said : “ You know, Kuppusami, that there are two palmyra trees standing in the hedge, which separates your backyard from that of Kanthan. He <pb xml:id="page-84" n="76" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n83_w1400.jpg"/> enjoys their tender nuts and fruits. I do not see why you should not enjoy them also. Those trees stand in a common hedge, and in fact it is my strong conviction that they belong exclusively to you, and that the <hi rend="italic">Panisiva</hi> has no right whatever to them." To this the potter said: "Yes, Swami! I also am entitled to enjoy the produce of the trees. I am sure to succeed if I can secure the assistance of one like you." "Do not be afraid," said the Brahmin, "the trees and the hedge will be yours." He then ask the potter to assist him with some money, which was willingly given.</p>
             <p>The next day, Appalacharri sent for the <hi rend="italic">Panisiva</hi>, and with the skill and tact so peculiar to him spoke about the hedge and the palmyra trees. "I know," he said, "the village headman Kothundarama Mudelly knows, and every one in the village also knows, that your father planted the two palmyra trees in your backyard, and who is there but you entitled to enjoy them? But the potter complained to me yesterday that you unjustly enjoy the tender nuts and the fruits. He says that he is entitled to a portion, if not the whole of the produce. I know that his demand is very unjust. But <pb xml:id="page-85" n="77" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n84_w1400.jpg"/> let me, as one that takes a deep interest in your welfare, tell you in all sincerity that he means some mischief; and before he does anything of that sort, see that you at once enclose the trees with prickly pear. If after that he tries to annoy you, come and tell me without a moment's delay." The <hi rend="italic">Panisiva</hi> answered: Great Swami! I have no one else but you to assist me. I implore you on my feet to save me from the misdoings of my neighbour Kuppusami." "You can count upon my assistance," said the Brahmin. He then took some money from the poor <hi rend="italic">Panisiva</hi> and sent him away with all sorts of assurances.</p>
             <p>On the third day, the potter came running to Appalacharri and said: "My great Guru; you assured me the day before yesterday that I am the sole owner of the trees in the backyard, and that I alone am entitled to their produce. But last evening Kanthan fenced them round with prickly pear. You promised to use all your influence to secure for me the ownership of the trees as also the hedge. Here, my saviour, is some money for your gracious acceptance; please advise me what further I am to do." The Brahmin took the money, and advised him <pb xml:id="page-86" n="78" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n85_w1400.jpg"/> to go at once and pull down the fence. This was done, and immediately the <hi rend="italic">Panisiva</hi> ran to Appalacharri with some money and told him that the potter had pulled down the fence; he then fell at Appalacharri's feet, cried like a child, and begged of him to do all that could be done. To this the Brahmin angrily said: "You are a fool; you cry like a child. You should have manfully kicked the potter, when he removed the fencing. Here I will write a complaint for you; go and lodge it at once before the magistrate." The complaint was thrown out, as the dispute was said to be of a civil nature. The <hi rend="italic">Panisiva</hi> then filed a civil suit. During the progress of the suit the court had to appoint a commissioner to inspect the spot and submit a report, and during all this time Appalacharri exacted as much money as possible from both. In the end, after the lapse of two years of anxious care and toil and after the expenditure of a large sum of money, the <hi rend="italic">Panisiva's</hi> just title to the trees was recognized by the court, and the foolish potter, who was unwillingly dragged into the quarrel, learnt a dearly bought lesson. Thus were two simple villagers nearly ruined by unnecessary litigation <pb xml:id="page-87" n="79" facs="https://archive.org/download/lifeinindianvill00ramarich/page/n86_w1400.jpg"/> cleverly brought about by the wily machinations of an unscrupulous Brahmin.</p>

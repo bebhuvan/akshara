@@ -1,8 +1,8 @@
 ---
 title: "Part III. Passages from Buddhist Scriptures — Introduction"
-chapter_number: "29"
+chapter_number: "28"
 section_kind: "chapter"
-weight: 29
+weight: 28
 start_page: 121
 end_page: 121
 printed_start_folio: "83"

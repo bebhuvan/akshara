@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,1,data,,"First Afghan War, War, 1838-42",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,1,data,,"First Afghan War, War, 1838-42",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,1,data,,"First Afghan War, War, 1838-42",4,Extraordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,1,data,,"First Afghan War, War, 1838-42",5,Extraordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,2,data,,"First China War, 1839-40",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,2,data,,"First China War, 1839-40",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,2,data,,"First China War, 1839-40",4,Extraordinary Charges. :: Paid by India.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,2,data,,"First China War, 1839-40",5,Extraordinary Charges. :: Paid by England.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,3,data,,"Persian War, 1856",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,3,data,,"Persian War, 1856",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,3,data,,"Persian War, 1856",4,Extraordinary Charges. :: Paid by India.,half,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,3,data,,"Persian War, 1856",5,Extraordinary Charges. :: Paid by England.,half,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,4,data,,"Abyssinian War, 1867-68",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,4,data,,"Abyssinian War, 1867-68",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,4,data,,"Abyssinian War, 1867-68",4,Extraordinary Charges. :: Paid by India.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,4,data,,"Abyssinian War, 1867-68",5,Extraordinary Charges. :: Paid by England.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,5,data,,"Perak Expedition, 1875",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,5,data,,"Perak Expedition, 1875",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,5,data,,"Perak Expedition, 1875",4,Extraordinary Charges. :: Paid by India.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,5,data,,"Perak Expedition, 1875",5,Extraordinary Charges. :: Paid by England.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,6,data,,"Second Afghan War, 1878-80",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,6,data,,"Second Afghan War, 1878-80",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,6,data,,"Second Afghan War, 1878-80",4,Extraordinary Charges. :: Paid by India.,"all except £5,000,000",,GBP,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,6,data,,"Second Afghan War, 1878-80",5,Extraordinary Charges. :: Paid by England.,"£5,000,000",5000000.0,GBP,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,7,data,,"Egyptian War, 1882",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,7,data,,"Egyptian War, 1882",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,7,data,,"Egyptian War, 1882",4,Extraordinary Charges. :: Paid by India.,"all except £500,000",,GBP,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,7,data,,"Egyptian War, 1882",5,Extraordinary Charges. :: Paid by England.,"£500,000",500000.0,GBP,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,8,data,,"Soudan War, 1885-86",2,Ordinary Charges. :: Paid by India.,all,,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,8,data,,"Soudan War, 1885-86",3,Ordinary Charges. :: Paid by England.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,8,data,,"Soudan War, 1885-86",4,Extraordinary Charges. :: Paid by India.,none,0.0,,False,False
+famines-and-land-assessments,tbl-027,COST OF FOREIGN WARS CHARGED TO INDIA,318,294,8,data,,"Soudan War, 1885-86",5,Extraordinary Charges. :: Paid by England.,all,,,False,False

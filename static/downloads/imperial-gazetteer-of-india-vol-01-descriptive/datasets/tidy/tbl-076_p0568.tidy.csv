@@ -1,8 +1,15 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A \n D,2,Cholera.,1.5 \n 0.9,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A \n D,3,"Fevers: intermittent, remittent, and simple continued.",327.9 \n 1.8,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A \n D,4,Tubercle of lungs.,3.0 \n 0.7,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A \n D,5,Other respiratory diseases.,43.6 \n 4.0,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A \n D,6,Dysentery and diarrhoea.,58.7 \n 0.7,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A \n D,7,Venereal diseases.,37.5 \n 0.1,,,False,False
-imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A \n D,8,All causes.,782.9 \n 11.7,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A,2,Cholera.,1·5,1.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A,3,"Fevers: intermittent, remittent, and simple continued.",327·9,327.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A,4,Tubercle of lungs.,3·0,3.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A,5,Other respiratory diseases.,43·6,43.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A,6,Dysentery and diarrhoea.,58·7,58.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A,7,Venereal diseases.,37·5,37.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,1,data,,30 { A,8,All causes.,782·9,782.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,2,data,,D,2,Cholera.,0·9,0.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,2,data,,D,3,"Fevers: intermittent, remittent, and simple continued.",1·8,1.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,2,data,,D,4,Tubercle of lungs.,0·7,0.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,2,data,,D,5,Other respiratory diseases.,4·0,4.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,2,data,,D,6,Dysentery and diarrhoea.,0·7,0.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,2,data,,D,7,Venereal diseases.,0·1,0.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-076,"Sickness and Mortality per 1,000 in the Native Army of India (1895–1900).",568,530,2,data,,D,8,All causes.,11·7,11.7,,False,False

@@ -45,24 +45,24 @@ A <span class="sc">COPY</span> of the following Work, which was transmitted to t
 The following Instructions, which I received from the Governor General, before I commenced my Journey, will sufficiently explain the views which that distinguished Nobleman had in employing me.
 
 
-##### Copy of the Governor General's Instructions, dated Fort William, 24th February 1800.
+#### Copy of the Governor General's Instructions, dated Fort William, 24th February 1800.
 
 “ Your enquiries are to extend throughout the dominions of the present *Rájá* of *Mysore*, and the country acquired by the Company, in the late war, from the *Sultan*, as well as to that part of *Malabar* which the Company annexed to their own territories in the former war under Marquis Cornwallis.”
 
 “ The first great and essential object of your attention should be, the Agriculture of the Country; under which head, your enquiries should include and tend to ascertain the following points with as much accuracy as local circumstances will admit.”
 
 
-##### *Esculent Vegetables.*
+#### *Esculent Vegetables.*
 
 “ The different kinds cultivated by the farmers and natives in general, for sale or common use; the modes of cultivation adopted for each kind, and the implements of husbandry used in them; the seasons when they are sown and gathered; the manures used for the soil; and the means adopted for watering their grounds; and as the effecting this last point, in a cheap and easy manner, is an essential object to the common farmers in this country (Bengal), it would be eligible to have either models or drawings made of any description of machinery which may not have been seen by you in these parts of India, and which may [p. ix] appear to you to be likely to effect so beneficial an end. It would also be advisable for you to observe whether the poorer natives make use of any vegetables for food, which you may have seen in this country, but which may not here be in use for human food.”
 
 
-##### *Cattle.*
+#### *Cattle.*
 
 “ The different breeds, and the manner in which they are bred and kept ; the species used in agriculture ; and whether the produce of the country be sufficient, without importation, to answer its demands. And as the improvement of the breed of horses in this country has become an object of particular attention to government, it would be proper for you to ascertain how far the breed made use of, in the parts you may visit, might be eligible to promote this desirable end.”
 
 
-##### *Farms.*
+#### *Farms.*
 
 “ The general extent of them ; the nature of the tenures by which they are held ; the usual price of labour, and the manner of payment, whether in kind or specie. You will compare the general state of agriculture in *Mysore*, &c. with that of such parts of Bengal as you may be acquainted with ; and state your opinion, how far the cultivation of either country may be improved, or extended, by the introduction of the vegetables, cattle, or rural economy of the other.”
 
@@ -71,22 +71,22 @@ The following Instructions, which I received from the Governor General, before I
 
 <!-- page: 14 | folio: x -->
 
-##### *Cotton, Pepper, Sandal-wood, and Cardamoms.*
+#### *Cotton, Pepper, Sandal-wood, and Cardamoms.*
 
 “ Of the cultivation and preparation of these valuable articles you should endeavour to gain the fullest and most accurate accounts, as well as of the nature and extent of the trade carried on in them; the usages which may have obtained concerning them; the causes, if any there may be, which may seem to obstruct improvement in quality, or extension in produce, of either of them; and the means to your judgment most likely to remove these causes.”
 
 
-##### *Mines, Quarries, Minerals, and Mineral Springs.*
+#### *Mines, Quarries, Minerals, and Mineral Springs.*
 
 “ The mines and quarries, as objects of particular concern, you should make a subject of more minute investigation, in so far as relates to their produce; the mode of working them; the state of the people employed in them, as well in respect to the condition of their service as to their treatment, or the price of their labour. In regard to the Minerals and Mineral Springs, they should be examined with attention, and such of them analyzed as may be esteemed medicinal by the people themselves, or you may judge to be so.”
 
 
-##### *Manufactures and Manufacturers.*
+#### *Manufactures and Manufacturers.*
 
 “ The state of the manufactures is a farther object of consequence, especially of those which are exported; you should therefore procure as exact an account of the different kinds, as may be practicable, and of the ability of the country itself to furnish the materials used in them; and you should ascertain what proportion, if any, is necessary to be imported from other countries; from what countries, and under what advantages or [p. xi] disadvantages, such importation now is or might be made. You should also make it an object of particular attention to ascertain how far the introduction of any of the manufactures of *Mysore* into any other of the Company’s possessions, might be productive of advantage, and respectively whether *Mysore* might derive advantage from the importation of the growth, produce, or manufacture of Bengal, or any other parts of the Company’s possessions. The situation of the manufacturers should likewise be examined; the mode of providing their goods; the usual rate of their labour; any particular advantages which they may enjoy; their comparative affluence, with those of this country; their domestic usages; the general nature of their sales; and any regulations respecting their markets.”
 
 
-##### *Climate and Seasons of Mysore.*
+#### *Climate and Seasons of Mysore.*
 
 “ Of these you should endeavour to obtain an accurate account, as well as of the prevailing winds, and the effects of the air in its various states of heat and moisture, on the human body; and it will be farther desirable, that you should form from your own observation, and the reports of such other persons as you may judge worthy of attention, an estimate of the salubrity of the country compared with that of the Company’s other principal possessions in India.”
 
@@ -95,7 +95,7 @@ The following Instructions, which I received from the Governor General, before I
 
 <!-- page: 16 | folio: xii -->
 
-##### *Inhabitants.*
+#### *Inhabitants.*
 
 “ The condition of the inhabitants in general, in regard to their food, clothing, and habitations, will engage your particular attention : you will also enquire how far their situation, in these respects, may have been affected by the different changes in the government.”
 
@@ -120,28 +120,28 @@ I am indebted to the Marquis Wellesley for the beautiful Drawings from which the
 ### CONTENTS.
 
 
-#### CHAPTER I.
+### CHAPTER I.
 
 - From Madras to Conjeveram, Arcot, Vellore, Paligonda, Satgudam, Pedda Naikena Durga, Vencataghery, Baydamungulum, Waluru, Catcolli, Tayculum,
 Bangalore, and Seringapatam, - - - - page 1
 
-#### CHAPTER II.
+### CHAPTER II.
 
 - Seringapatam, and its Vicinity, - - - - - 60
 
-#### CHAPTER III.
+### CHAPTER III.
 
 - From Seringapatam to Bangalore, - - - - - 137
 
-#### CHAPTER IV.
+### CHAPTER IV.
 
 - Bangalore, - - - - - - - 193
 
-#### CHAPTER V.
+### CHAPTER V.
 
 - From Bangalore to Doda Bala-pura, - - - - 265
 
-#### CHAPTER VI.
+### CHAPTER VI.
 
 - From Doda Bala-pura to Sira, - - - - - 346
 
@@ -154,11 +154,7 @@ Page.  line. 25   15 and 21.  }  for *Naieka*, *Naiekan'*, and *Naiekana*, 28   
 
 <!-- page: 21 | folio: xvii -->
 
-![Map Explanatory of THE ROUTE, showing territories in South India including Mysore, Coorg, Malabar, Coimbatore, and adjacent districts, with colour-coded boundaries, scale bars in British Miles and Cosses of the Carnatic, and latitude/longitude graticule.](../figures/fig-002_p0021.webp)
-
-Pub.<sup>d</sup> June 12. 1806 by Cadell & Davies. Strand.
-
-Neele. sculp. 352 [?Str?]
+![Pub.d June 12. 1806 by Cadell & Davies. Strand. — Neele. sculp. 352 Str](../figures/fig-002_p0021.webp)
 
 
 ## CHAPTER I: From Madras to Conjeveram, Arcot, Vellore, Paligonda, Satgudam, Pedda Naikena Durga, Vencataghery, Baydamungulum, Walur
@@ -216,13 +212,13 @@ The late collector, Mr. Place, although he augmented the revenue considerably, b
 
 <!-- page: 27 | folio: 5 -->
 
-![Vol.I.p. 4. — PLATE I. — Transverse section of the bank of a Reservoir at the Cody. — Transverse section of the bank and sluice of an Eray, or Reservoir](../figures/fig-003_p0027.webp)
+![Vol.I.p. 4. — Transverse section of the bank of a Reservoir at the Cody.](../figures/fig-003_p0027.webp)
 
 
-![View of the Cody of a reservoir.](../figures/fig-004_p0027.webp)
+![Transverse section of the bank and sluice of an Eray, or Reservoir](../figures/fig-004_p0027.webp)
 
 
-![Slope secured by stones. — Warner sc.](../figures/fig-005_p0027.webp)
+![View of the Cody of a reservoir. — Slope secured by stones.](../figures/fig-005_p0027.webp)
 
 > _[Margin: Appearance of the country.]_
 
@@ -414,7 +410,7 @@ Each sect of *Bráhmans* has here a number of followers, in proportion nearly to
 
 > _[Margin: Various names for forts.]_
 
-27th *April.*—In the morning I went to *Oulur Sátghadam*, which is a *Choultry*, or inn, with hardly any houses in its neighbourhood; but it is remarkable for having formerly had seven hill-forts in its vicinity; and from this circumstance it derives its appellation, *Sátghadam*. In the *Decany* dialect of the Musulman language, *Ghadam* signifies a fortress situated on a hill, while *Kilah* is applied to one built on a plain. In the *Sanscrit* language, *Patanam* or *Patana* is [p. 15] analogous with *Kilah*, and *Durga*, or *Durgam*, is analogous with *Ghadam*. In the *Tamul* language a fort of either kind is called *Cotay*.
+27th *April.*—In the morning I went to *Oulur Sát-ghadam*, which is a *Choultry*, or inn, with hardly any houses in its neighbourhood; but it is remarkable for having formerly had seven hill-forts in its vicinity; and from this circumstance it derives its appellation, *Sátghadam*. In the *Decany* dialect of the Musulman language, *Ghadam* signifies a fortress situated on a hill, while *Kilah* is applied to one built on a plain. In the *Sanscrit* language, *Patanam* or *Patana* is [p. 15] analogous with *Kilah*, and *Durga*, or *Durgam*, is analogous with *Ghadam*. In the *Tamul* language a fort of either kind is called *Cotay*.
 
 > _[Margin: Another kind of *Choultry*, called *Tany Pundal*.]_
 
@@ -668,7 +664,7 @@ The town is badly supplied with water. The reservoir is dry, and the few wells a
 
 <!-- page: 64 | folio: 38 -->
 
-![Vol. I. p. 39. — PLATE II.](../figures/fig-006_p0064.webp)
+![Fig. 1. Vertical section of the Mysore still, with lettered parts a, b, c, d, e, f, g.](../figures/fig-006_p0064.webp)
 
 
 ![Fig. 3. Col Kudali of Seringapatam, an agricultural implement.](../figures/fig-007_p0064.webp)
@@ -677,16 +673,16 @@ The town is badly supplied with water. The reservoir is dry, and the few wells a
 ![Fig. 4. Yella Kudali, an agricultural hoe or implement.](../figures/fig-008_p0064.webp)
 
 
-![Fig. 5. Ujari of Seringapatam, a hooked implement.](../figures/fig-009_p0064.webp)
+![Fig 7.](../figures/fig-009_p0064.webp)
 
 
 ![Fig. 8. Diagram of a planting or irrigation pattern with circles and a meandering line.](../figures/fig-010_p0064.webp)
 
 
-![Fig 7.](../figures/fig-011_p0064.webp)
+![Fig. 2. Gudagu or Reaping-hook.](../figures/fig-011_p0064.webp)
 
 
-![Field of Sugar cane. — Warner sc.](../figures/fig-012_p0064.webp)
+![Field of Sugar cane.](../figures/fig-012_p0064.webp)
 
 > _[Margin: Distilled spirits.]_
 
@@ -1078,7 +1074,7 @@ The oil used for painting consists of two parts of linseed, and one part of *Chu
 > _[Margin: White washing.]_
 > _[Margin: CHAPTER II. May 20, &c.]_
 
-In white washing their walls, over the *chunam* or lime plaster, the workmen of *Seringapatam* first give a thin coat of *Suday*, or fine clay; which is mixed with size, and put on with a hair brush. They next give a coat of whitening made of powdered *Balapum*, or *potstone*, [p. 76] and then finish with a coat composed of eight parts of *Abracum*, or *mica*, one part of powdered *Balapum*, and one of size. The *Abracum* is prepared from white *mica*, by repeated grindings, the finer particles being removed for use by washing them from the grosser parts. The wall, when finished in this manner, shines like the scales of a fish; and when the room is lighted, has a splendid appearance: but in the day time, the wall white washed with the powdered *potstone* alone, in my opinion, looks better than when washed with either quick lime or *mica*.
+In white washing their walls, over the *chunam* or lime plaster, the workmen of *Seringapatam* first give a thin coat of *Suday*, or fine clay; which is mixed with size, and put on with a hair brush. They next give a coat of whitening made of powdered *Balapum*, or *pot-stone*, [p. 76] and then finish with a coat composed of eight parts of *Abracum*, or *mica*, one part of powdered *Balapum*, and one of size. The *Abracum* is prepared from white *mica*, by repeated grindings, the finer particles being removed for use by washing them from the grosser parts. The wall, when finished in this manner, shines like the scales of a fish; and when the room is lighted, has a splendid appearance: but in the day time, the wall white washed with the powdered *potstone* alone, in my opinion, looks better than when washed with either quick lime or *mica*.
 
 > _[Margin: *Shahar Ganjam.*]_
 
@@ -1508,6 +1504,8 @@ Near *Seringapatam* the first two kinds of gardens are always cultivated by the 
 
 The plants cultivated as *Tarkari* are :
 
+> _[Margin: CHAPTER II. May 20, &c.]_
+
 
 | *Canarese Names.* | *Botanical Names.* | *Synonyma.* | Column 4 |
 | --- | --- | --- | --- |
@@ -1636,10 +1634,10 @@ The long-legged-goat, called *Maycay* in the *Canarese* language, is a very diff
 
 <!-- page: 153 | folio: 121 -->
 
-![Vol. I. p. 120. — PLATE V. — Cart of Mysore. — Fig 11. — The long legged goat called Maykay in Karnata. — Fig 10.](../figures/fig-016_p0153.webp)
+![Cart of Mysore. — Fig 11. — The long legged goat called Maykay in Karnata. — Fig 10.](../figures/fig-016_p0153.webp)
 
 
-![Height at the shoulder 3 feet 5 inches. Length from the nose to the root of the tail 4 feet 11 inches. — Warner sc.](../figures/fig-017_p0153.webp)
+![Height at the shoulder 3 feet 5 inches. Length from the nose to the root of the tail 4 feet 11 inches.](../figures/fig-017_p0153.webp)
 
 > _[Margin: Swine.]_
 
@@ -1808,13 +1806,12 @@ At *Kingalu Copalu* is also found a very pretty, fine-grained granitell, consist
 
 Near the *Durria Adaulut Baug*, on the island of *Seringapatam*, are found nodules of a stone called *Madi Cullu*, which is sometimes used for making gun-flints; these, however, are of a bad quality. Better ones, called *Cheky-muky*, are said to be found near a village, called *Beü Cullu*, about twenty miles north and west from *Seringapatam*. The *Madi Cullu* is evidently a hornstone.
 
-All these stones are very hard; yet the natives cut them into pillars, or flags, with tolerable facility. The same persons cut the stones out of the quarry, and afterwards work them up into the various fantastical shapes that are given to them in *Hindu* buildings. Good workers in stone get from 40 to 50 *Fanams* a month (from about 1*l*. 6*s*. 10 <sup>1</sup>⁄<sub>2</sub>*d*. to 1*l*. 13*s*. 7*d*.). The drudgery is performed by common labourers. The granite may be cut by wedges in any direction, and to any length; but there is always one direction, in which it is found to split easiest; a number of small square holes, about an inch and a half in diameter, and four inches deep, are cut in the line by which the stone is meant to be split. The work is performed by a small steel punch of this shape, which is driven in by a heavy iron mallet. When the rock or stone is very long, or deep, these holes must be almost contiguous; but when the surface to be split is small, they may be at considerable distances. Blunt wedges of steel are then put in the holes, and each is struck upon in its turn, until the stone splits, which it does in a straight line to the very bottom of the mass or *stratum*. The surface is cut smooth with steel chisels, and, except in the very finest works,
-
-
-<!-- page: 168 | folio: 134 -->
 > _[Margin: CHAPTER II. May 20, &c.]_
 
-receives no higher polish. When a marble polish is to be given, it is done by rubbing the stone with cakes made of the adamantine spar, reduced to powder, and united with melted *lac*. The adamantine spar is here called *Curungada Cullu*, and is said to be found in lumps, which are immersed in rocks of a black stone, near *Nagamangula*. It must be observed, however, that at *Nagamangula* the people denied their having any such stone.
+All these stones are very hard; yet the natives cut them into pillars, or flags, with tolerable facility. The same persons cut the stones out of the quarry, and afterwards work them up into the various fantastical shapes that are given to them in *Hindu* buildings. Good workers in stone get from 40 to 50 *Fanams* a month (from about 1*l*. 6*s*. 10 <sup>1</sup>⁄<sub>2</sub>*d*. to 1*l*. 13*s*. 7*d*.). The drudgery is performed by common labourers. The granite may be cut by wedges in any direction, and to any length; but there is always one direction, in which it is found to split easiest; a number of small square holes, about an inch and a half in diameter, and four inches deep, are cut in the line by which the stone is meant to be split. The work is performed by a small steel punch of this shape, which is driven in by a heavy iron mallet. When the rock or stone is very long, or deep, these holes must be almost contiguous; but when the surface to be split is small, they may be at considerable distances. Blunt wedges of steel are then put in the holes, and each is struck upon in its turn, until the stone splits, which it does in a straight line to the very bottom of the mass or *stratum*. The surface is cut smooth with steel chisels, and, except in the very finest works, [p. 134] receives no higher polish. When a marble polish is to be given, it is done by rubbing the stone with cakes made of the adamantine spar, reduced to powder, and united with melted *lac*. The adamantine spar is here called *Curungada Cullu*, and is said to be found in lumps, which are immersed in rocks of a black stone, near *Nagamangula*. It must be observed, however, that at *Nagamangula* the people denied their having any such stone.
+
+
+![Small elongated oval diagram of a steel punch](../figures/fig-018_p0167.webp)
 
 Near *Seringapatam* the *Congcar*, or limestone nodules, called there *Suna Cullu*, are very common, and are found of four different qualities, which, however, are generally intermixed in the same field. These four varieties, therefore, although they produce lime of different degrees of whiteness, and are distinguishable by the workmen, have the same origin. They have, no doubt, been deposited by water; and I have been told, by good authority in *Bengal*, that a field, after having been perfectly freed of these nodules, will in a few years be again filled with them. Whence then is this calcarious matter derived? There are here no rocks of limestone, or marble, from which it could have been washed. The whole calcarious matter to be found in *Mysore* is a *Tufa*. The quicklime is prepared by a class of people called *Uparu*, who are in general poor, and must receive advances to enable them to hire labourers. A labouring man at this work earns daily ¾ of a *Fanam*, almost a sixpence; and women, who perform much of the labour, get one third of that sum. They are allowed to collect the nodules, which are generally found by the sides of rivulets, and in waste ground, without paying any thing to the public; but in the late government they were frequently compelled to supply the Sultan at a low rate. The lime is always burned with charcoal. The dark-coloured quicklime, for building, costs, at *Seringapatam*, six *Fanams* a *Candaca*, or nearly five pence a bushel; finer lime, for white-washing, costs ten *Fanams*, or a little more than eight pence a bushel; and the finest, that is used for chewing with *betel*, costs twenty *Fanams* a *Candaca*, or one shilling and four pence half-penny a bushel.
 
@@ -2007,24 +2004,20 @@ This is the charge for one crucible.
 
 
 <!-- page: 183 | folio: 149 -->
-*PLATE VI.*
+
+![Fig 12. — Front view of three glaſs furnaces.](../figures/fig-019_p0183.webp)
 
 
-![Fig 12. — Front view of three glaſs furnaces.](../figures/fig-018_p0183.webp)
+![Fig 13. — Transverse section of a glaſs furnace.](../figures/fig-020_p0183.webp)
 
 
-![Fig 13. — Transverse section of a glaſs furnace.](../figures/fig-019_p0183.webp)
+![Fig 14. — Vertical section of a glaſs-blower's fire-place.](../figures/fig-021_p0183.webp)
 
 
-![Fig 14. — Vertical section of a glaſs-blower's fire-place.](../figures/fig-020_p0183.webp)
+![Fig 15. — Ground plan of a sugar house.](../figures/fig-022_p0183.webp)
 
 
-![Fig 15. — Ground plan of a sugar house.](../figures/fig-021_p0183.webp)
-
-
-![Fig 16. — Vertical section of the furnace and boiler.](../figures/fig-022_p0183.webp)
-
-*Warner sc*
+![Fig 16. — Vertical section of the furnace and boiler.](../figures/fig-023_p0183.webp)
 
 
 <!-- page: 185 | folio: 149 -->
@@ -2160,7 +2153,7 @@ The boiling-house is a thatched hut, about forty feet long and twenty broad, wit
 
 <!-- page: 196 | folio: 158 -->
 
-![Vol. I. p. 159. — PLATE VII. — Plan of the upper end of the mortar — Sugar-mill of Chinapatam. — Fig. 17. — view of the mortar — Vertical section of the mortar — Warner sc.](../figures/fig-023_p0196.webp)
+![Vol. I. p. 159. — PLATE VII. — Plan of the upper end of the mortar — Sugar-mill of Chinapatam. — Fig. 17. — view of the mortar — Vertical section of the mortar — Warner sc.](../figures/fig-024_p0196.webp)
 
 > _[Margin: Sugar mill.]_
 
@@ -2308,22 +2301,22 @@ On my way I examined some iron forges, of which there are many in this hilly tra
 
 <!-- page: 210 | folio: 170 -->
 
-![Vol. I. p. 171. — PLATE VIII. — Longitudinal section of the smelting apparatus. — Front view of the smelting furnace.](../figures/fig-024_p0210.webp)
+![Longitudinal section of the smelting apparatus.](../figures/fig-025_p0210.webp)
 
 
-![Longitudinal section of the forging furnace.](../figures/fig-025_p0210.webp)
+![Front view of the smelting furnace.](../figures/fig-026_p0210.webp)
 
 
-![Engraved diagram (Fig. 22) of the forging furnace.](../figures/fig-026_p0210.webp)
+![Engraved diagram (Fig. 22) of the forging furnace.](../figures/fig-027_p0210.webp)
 
 
-![Front view of the forging furnace.](../figures/fig-027_p0210.webp)
+![Longitudinal section of the forging furnace.](../figures/fig-028_p0210.webp)
 
 
-![Ground plan of the forging house.](../figures/fig-028_p0210.webp)
+![Front view of the forging furnace.](../figures/fig-029_p0210.webp)
 
 
-![Longitudinal section of the forging house.](../figures/fig-029_p0210.webp)
+![Ground plan of the forging house. — Longitudinal section of the forging house.](../figures/fig-030_p0210.webp)
 
 > _[Margin: Iron smelting furnace.]_
 > _[Margin: CHAPTER III. June 13.]_
@@ -2440,7 +2433,7 @@ In the hollow ground near the river are some of the best forests in the country,
 
 > _[Margin: CHAPTER III. June 15. *Baydaru.*]_
 
-Throughout these hills, which extend northward from *Capaladurga*, [p. 179] are many cultivated spots, in which, during *Tippoo’s* government, were settled many *Baydaru*, or hunters, who received twelve *Pagodas* (4*l*. 5*s*.) a year, and served as irregular troops whenever required. Being accustomed to pursue tigers and deer in the woods, they were excellent marksmen with their match-locks, and indefatigable in following their prey ; which, in the time of war, was the life and property of every helpless creature that came in their way. During the wars of *Hyder* and his son, these men were chief instruments in the terrible depredations committed in the lower *Carnatic*. They were also frequently employed with success against the *Polygars*, whose followers were men of a similar description. At present, as they receive no pay, they are obliged to apply more closely to agriculture ; for in that way they always employed their leisure; and there is a prospect of their becoming a quiet and industrious people, although they still retain their arms, and an anxious desire for plunder.
+Throughout these hills, which extend northward from *Capala-durga*, [p. 179] are many cultivated spots, in which, during *Tippoo’s* government, were settled many *Baydaru*, or hunters, who received twelve *Pagodas* (4*l*. 5*s*.) a year, and served as irregular troops whenever required. Being accustomed to pursue tigers and deer in the woods, they were excellent marksmen with their match-locks, and indefatigable in following their prey ; which, in the time of war, was the life and property of every helpless creature that came in their way. During the wars of *Hyder* and his son, these men were chief instruments in the terrible depredations committed in the lower *Carnatic*. They were also frequently employed with success against the *Polygars*, whose followers were men of a similar description. At present, as they receive no pay, they are obliged to apply more closely to agriculture ; for in that way they always employed their leisure; and there is a prospect of their becoming a quiet and industrious people, although they still retain their arms, and an anxious desire for plunder.
 
 > _[Margin: June 16. Iron mines at *Ghettipura.*]_
 > _[Margin: June 17.]_
@@ -2742,6 +2735,9 @@ The *Pucka Seer* measure is the same with that of *Seringapatam*. The *Candaca* 
 > _[Margin: Price of goods at *Bangalore*.]_
 
 Having assembled the most respectable traders here, they gave me the accompanying price current, as the average rate of sale of the principal articles of commerce. In order to make the valuation uniform, the value of the *Fanam* is taken at the exchange of *Seringapatam*.
+
+> _[Margin: CHAPTER IV. June 22, &c.]_
+> _[Margin: CHAPTER IV. June 22, &c.]_
 
 
 **Average price current at *Bangalore*. Goods sold by the *Maund* of 42½ Seers.**
@@ -3135,6 +3131,7 @@ The accompanying price current of the different kinds of cloth made at *Bangalor
 
 <!-- page: 260 | folio: 220 -->
 > _[Margin: CHAPTER IV. June 22, &c.]_
+> _[Margin: CHAPTER IV. June 22, &c.]_
 
 
 **<span class="sc">Average price current</span> of the cloths manufactured for common sale at *Bangalore*.**
@@ -3259,7 +3256,7 @@ The *Wull'-Ellu* oil is expressed from two varieties, or species of *Sesamum* se
 
 <!-- page: 269 | folio: 229 -->
 
-![Vol. I. p. 228. — PLATE IX. — Oil-mill of Bangalore. Fig 24. — Warner sc.](../figures/fig-030_p0269.webp)
+![Vol. I. p. 228. — PLATE IX. — Oil-mill of Bangalore. Fig 24. — Warner sc.](../figures/fig-031_p0269.webp)
 
 > _[Margin: *Huts'-Ellu* oil.]_
 
@@ -3290,6 +3287,9 @@ The only year in use above the *Ghats* is the *Chandra-manam*, or lunar year; it
 
 
 <!-- page: 273 | folio: 231 -->
+> _[Margin: CHAPTER IV. June 22, &c.]_
+> _[Margin: CHAPTER IV. June 22, &c.]_
+> _[Margin: CHAPTER IV. June 22, &c.]_
 > _[Margin: CHAPTER IV. June 22, &c.]_
 
 
@@ -3668,14 +3668,14 @@ The *Comatigas* say, that they are the only true *Vaisya*, which is the third in
 
 > _[Margin: Customs of the Ruddi.]_
 > _[Margin: CHAPTER IV. *June 22, &c.*]_
-> _[Margin: CHAPTER\nIV.\nJune 22, &c.]_
-
-The *Ruddi* are one of the tribes of *Súdra* cast, which being much [p. 258] employed in agriculture are called *Woculigaru* in the language of *Karnata*, and *Cunabi* in that of the *Decany* Mussulmans. Besides cultivating the land, both as farmers and as their servants, they act also as porters, and sometimes carry on a small trade in grain. Like all the other *Súdras* employed in agriculture, they have formed a part of the native foot militia, that seems to have been established throughout India, and in which probably every man of this description was enrolled. The considering the *Kshatriya* as the military cast seems an error. At present, the *Ruddi* frequently serve as *Candashara*, or the armed men, that without discipline collected the revenue, and composed the most considerable body in the armies of all native princes. They appear to form a numerous race of men; many of them live below the *Ghats*, and some are of *Telinga*, while others are of *Karnata* extraction. They can all eat together, but they never intermarry, except with particular families, the purity of whose descent they consider as well known. They acknowledge an inferiority to another class of *Súdras* who cultivate the land, and are called *Sadru*; for they will eat in the house of a *Sadru*, but he will not return the compliment by eating in theirs; which, among the *Hindus*, is a sure criterion of rank. They have *Ijyamánas*, or hereditary chiefs, possessing the usual jurisdiction and immunities. Some of them can read and write accompts; but none proceed farther in learning. They eat hogs, sheep, goats, venison, and fowls, and can take *Bang* (or the leaves of the *Cannabis sativa*); but lose cast by drinking spirituous liquors. The men are allowed polygamy; but do not shut up their women, who are very industrious, and perform much of the country labour. They are divided into two sects by a difference of religion; one party worshipping *Vishnu*, and the other *Siva*; but this does not prevent intermarriages. Those who worship *Vishnu* are followers of the *Sri Vaishnavam Bráhmans*; but do not receive either *Upadésa* or *Chakrántikam*, contenting themselves with a little holy-water, which they obtain in return for their charity. Those who worship *Siva* are [p. 259] followers of a kind of *Jangamas*, but do not wear the *Linga*. The\n people with whom I conversed seemed to consider these as the same\n with the *Jangamas* of the *Pancham Banijigas*; but this cast informed\n me, that they were distinct, and that the *Gurus* of the *Ruddi* were\n the same with those of the *Curabaru*, whose chief resides at *Can-*\n *gundy* in the *Bára-mahál*. In their visits, the *Gurus* of both kinds\n receive from one to ten *Fanams* (from 8*d*. to 6*s*. 8½*d*.) from each\n *Ruddi*, according to his circumstances. The *Panchánga* attends at\n births, marriages, funerals, and other ceremonies; and on each oc-\n casion receives a *Fanam*. At the new and full moons, he also gets\n some trifling present of grain. Besides the worship of the great\n gods, they offer sacrifices to the destructive powers; among whom\n a female spirit, named *Chaudéswarí*, has in this neighbourhood many\n temples. The *Pújári*, in at least one of them, is an oil-maker of\n the cast formerly described, and his office is hereditary. The *Ruddi*\n is one of the lowest of the casts employed in agriculture, and allowed\n to be of pure descent; but many of its members are rich, and are\n the *Gaudas*, or hereditary chiefs of villages.
-
-> _[Margin: Customs of\nthe *Bheri*.]_
 > _[Margin: CHAPTER IV. June 22, &c.]_
 
-The *Bheri* are a kind of merchants, who call themselves also *Na-*\n *garatra*, corrupted by the Mussulmans into *Nagarit*. They pretend\n to be of the *Vaisya* cast; but this is denied both by the *Bráhmans*,\n and by the *Comatigas*. They deal in drugs, grain, cloth, and money,\n and travel about in caravans. Some of them are farmers; but they\n never cultivate the ground with their own hands; nor do they ever\n follow any mechanical profession. They are divided by religion\n into two sects, that do not eat together, nor intermarry; and each\n has its own hereditary chief, who acts independently as to matters\n of ceremony; but in matters of a civil nature, the chief of the sect\n that is most numerous in the place assumes the sole authority.\n These chiefs are called *Ijyamána*, and possess the usual jurisdiction;\n but are not indulged with any immunities from taxes. When a man\n wants to marry, he goes to his hereditary chief, as is indeed usual\n with all the higher casts, presents him with *betel*, and discloses his [p. 260] intention. The chief sends for the father of the girl, and endeavours to bring the matter to a favourable conclusion. As for the girl, she is not at all consulted, and is indeed too young to have formed any attachments, as she must be married before any signs of puberty appear; for afterwards she is considered as being deflowered, and incapable of marriage. Owing to the custom of polygamy, however, very few of the women in this country live in a state of celibacy, except young widows of the higher casts, who never can marry again, and who are very numerous; for matches between old men and mere children are common. The comfort of having children, however, is, in general all the pleasure that married women of rank in India enjoy. Where polygamy prevails, love is little known; or if it does possess a man, he is generally captivated by some artful dancing girl, and not by any of his wives; all of whom were married before they could either excite or feel that passion.
+The *Ruddi* are one of the tribes of *Súdra* cast, which being much [p. 258] employed in agriculture are called *Woculigaru* in the language of *Karnata*, and *Cunabi* in that of the *Decany* Mussulmans. Besides cultivating the land, both as farmers and as their servants, they act also as porters, and sometimes carry on a small trade in grain. Like all the other *Súdras* employed in agriculture, they have formed a part of the native foot militia, that seems to have been established throughout India, and in which probably every man of this description was enrolled. The considering the *Kshatriya* as the military cast seems an error. At present, the *Ruddi* frequently serve as *Candashara*, or the armed men, that without discipline collected the revenue, and composed the most considerable body in the armies of all native princes. They appear to form a numerous race of men; many of them live below the *Ghats*, and some are of *Telinga*, while others are of *Karnata* extraction. They can all eat together, but they never intermarry, except with particular families, the purity of whose descent they consider as well known. They acknowledge an inferiority to another class of *Súdras* who cultivate the land, and are called *Sadru*; for they will eat in the house of a *Sadru*, but he will not return the compliment by eating in theirs; which, among the *Hindus*, is a sure criterion of rank. They have *Ijyamánas*, or hereditary chiefs, possessing the usual jurisdiction and immunities. Some of them can read and write accompts; but none proceed farther in learning. They eat hogs, sheep, goats, venison, and fowls, and can take *Bang* (or the leaves of the *Cannabis sativa*); but lose cast by drinking spirituous liquors. The men are allowed polygamy; but do not shut up their women, who are very industrious, and perform much of the country labour. They are divided into two sects by a difference of religion; one party worshipping *Vishnu*, and the other *Siva*; but this does not prevent intermarriages. Those who worship *Vishnu* are followers of the *Sri Vaishnavam Bráhmans*; but do not receive either *Upadésa* or *Chakrántikam*, contenting themselves with a little holy-water, which they obtain in return for their charity. Those who worship *Siva* are [p. 259] followers of a kind of *Jangamas*, but do not wear the *Linga*. The people with whom I conversed seemed to consider these as the same with the *Jangamas* of the *Pancham Banijigas*; but this cast informed me, that they were distinct, and that the *Gurus* of the *Ruddi* were the same with those of the *Curabaru*, whose chief resides at *Cangundy* in the *Bára-mahál*. In their visits, the *Gurus* of both kinds receive from one to ten *Fanams* (from 8*d*. to 6*s*. 8½*d*.) from each *Ruddi*, according to his circumstances. The *Panchánga* attends at births, marriages, funerals, and other ceremonies; and on each occasion receives a *Fanam*. At the new and full moons, he also gets some trifling present of grain. Besides the worship of the great gods, they offer sacrifices to the destructive powers; among whom a female spirit, named *Chaudéswarí*, has in this neighbourhood many temples. The *Pújári*, in at least one of them, is an oil-maker of the cast formerly described, and his office is hereditary. The *Ruddi* is one of the lowest of the casts employed in agriculture, and allowed to be of pure descent; but many of its members are rich, and are the *Gaudas*, or hereditary chiefs of villages.
+
+> _[Margin: Customs of the *Bheri*.]_
+> _[Margin: CHAPTER IV. June 22, &c.]_
+
+The *Bheri* are a kind of merchants, who call themselves also *Nagaratra*, corrupted by the Mussulmans into *Nagarit*. They pretend to be of the *Vaisya* cast; but this is denied both by the *Bráhmans*, and by the *Comatigas*. They deal in drugs, grain, cloth, and money, and travel about in caravans. Some of them are farmers; but they never cultivate the ground with their own hands; nor do they ever follow any mechanical profession. They are divided by religion into two sects, that do not eat together, nor intermarry; and each has its own hereditary chief, who acts independently as to matters of ceremony; but in matters of a civil nature, the chief of the sect that is most numerous in the place assumes the sole authority. These chiefs are called *Ijyamána*, and possess the usual jurisdiction; but are not indulged with any immunities from taxes. When a man wants to marry, he goes to his hereditary chief, as is indeed usual with all the higher casts, presents him with *betel*, and discloses his [p. 260] intention. The chief sends for the father of the girl, and endeavours to bring the matter to a favourable conclusion. As for the girl, she is not at all consulted, and is indeed too young to have formed any attachments, as she must be married before any signs of puberty appear; for afterwards she is considered as being deflowered, and incapable of marriage. Owing to the custom of polygamy, however, very few of the women in this country live in a state of celibacy, except young widows of the higher casts, who never can marry again, and who are very numerous; for matches between old men and mere children are common. The comfort of having children, however, is, in general all the pleasure that married women of rank in India enjoy. Where polygamy prevails, love is little known; or if it does possess a man, he is generally captivated by some artful dancing girl, and not by any of his wives; all of whom were married before they could either excite or feel that passion.
 
 > _[Margin: CHAPTER IV. June 22, &c.]_
 
@@ -3697,7 +3697,7 @@ In many parts of this country, the wells contain what the natives call salt wate
 
 <!-- page: 306 | folio: 262 -->
 
-![Vol. I. p. 263. — PLATE X. — Single Yatam of Bangalore. — Length of the fore lever AB 14 feet 9 inches Height of Fulcrum AC 11 feet 6 inches Length of the Rod BD 24 feet Depth of the well from the surface of the ground E to the surface of the water F 14 feet 9 inches Height of the end of the channel for receiving the water G 3 feet Water raised in all to the height of 17 feet 9 inches Quantity of water raised in each pot 11½ seers pucka measure Time elapsed from raising one pot to raising another 15 seconds The weights loaded on the hind end of the lever H must be equal to ballance the pot D when full of water. — The Pucka seer measure contains only 68¾ cubical inches of water: with grain it is heaped. — Warner sc.](../figures/fig-031_p0306.webp)
+![Vol. I. p. 263. — PLATE X. — Single Yatam of Bangalore. — Length of the fore lever AB 14 feet 9 inches Height of Fulcrum AC 11 feet 6 inches Length of the Rod BD 24 feet Depth of the well from the surface of the ground E to the surface of the water F 14 feet 9 inches Height of the end of the channel for receiving the water G 3 feet Water raised in all to the height of 17 feet 9 inches Quantity of water raised in each pot 11½ seers pucka measure Time elapsed from raising one pot to raising another 15 seconds The weights loaded on the hind end of the lever H must be equal to ballance the pot D when full of water. — The Pucka seer measure contains only 68¾ cubical inches of water: with grain it is heaped. — Warner sc.](../figures/fig-032_p0306.webp)
 
 > _[Margin: Manner of raising water by the *Yatam.*]_
 > _[Margin: CHAPTER IV. June 22, &c.]_
@@ -3798,7 +3798,7 @@ Other grains pay one half only of these deductions.
 
 > _[Margin: CHAPTER V. July 3.]_
 
-It not unfrequently happens, that farmers cannot be induced to take the dry-field for a money rent ; the officers of government are [p. 268] then necessitated to let it on a division of crops. In this case, every heap of grain of about ten *Candacas* pays,
+It not unfrequently happens, that farmers cannot be induced to take the dry-field for a money rent ; the officers of government are [p. 268] then necessitated to let it on a division of crops. In this case, every heap of grain of about ten *Candacas* pays, which is about 8 <sup>1</sup>/<sub>8</sub> per cent.
 
 
 | Item | *Seers.* |
@@ -3812,8 +3812,6 @@ It not unfrequently happens, that farmers cannot be induced to take the dry-fiel
 | Watchman | 2 |
 | Beadle | 10 |
 |  | 130 |
-
-which is about 8 <sup>1</sup>/<sub>8</sub> per cent.
 
 > _[Margin: Village officers, *Gauda*, and rent.]_
 
@@ -4015,7 +4013,7 @@ The mode of cultivation, or the season of sowing, makes no difference here in th
 
 <!-- page: 328 | folio: 282 -->
 
-![Vol. I. p. 283. — PLATE XI. — Sudiky. — Curigy. — Drill of Colar. Fig 26. — Wuravary. Fig 30. — Fig 28. — Bottom of the Curigy. — Fig 27. — Top of the Curigy. — Fig 29. — Vertical section of the Curigy. — Warner sc.](../figures/fig-032_p0328.webp)
+![Vol. I. p. 283. — PLATE XI. — Sudiky. — Curigy. — Drill of Colar. Fig 26. — Wuravary. Fig 30. — Fig 28. — Bottom of the Curigy. — Fig 27. — Top of the Curigy. — Fig 29. — Vertical section of the Curigy. — Warner sc.](../figures/fig-033_p0328.webp)
 
 > _[Margin: Manner of managing the water.]_
 
@@ -4374,7 +4372,7 @@ I have formerly mentioned, that the tribe called *Bheri*, or *Nagaratra*, is div
 
 > _[Margin: CHAPTER V. July 13.]_
 
-The proper *Guru* of this cast is a *Smartal Bráhman*, called *DharmaSiva [p. 322] Achárya*; who resides at *Kunji*, and whose office is hereditary: but in affairs relating to the left-hand-side they are subject to *Munaiswara Swámi*, who is the *Guru* of that division of this tribe which wears the *Linga*. *Dharma Siva Achárya* bestows holy water on his followers, and receives their contributions under the name of charity. A certain sum is paid for each public ceremony, and another is given for holy water. Once in four or five years this personage comes, and receives the sums that have been collected for him at the different villages. On these occasions he punishes any of his followers who may have been guilty of a transgression of the rules of cast, and there is no slighter punishment than excommunication; but he cannot inflict this without the consent of the heads of the cast assembled in council.
+The proper *Guru* of this cast is a *Smartal Bráhman*, called *Dharma-Siva [p. 322] Achárya*; who resides at *Kunji*, and whose office is hereditary: but in affairs relating to the left-hand-side they are subject to *Munaiswara Swámi*, who is the *Guru* of that division of this tribe which wears the *Linga*. *Dharma Siva Achárya* bestows holy water on his followers, and receives their contributions under the name of charity. A certain sum is paid for each public ceremony, and another is given for holy water. Once in four or five years this personage comes, and receives the sums that have been collected for him at the different villages. On these occasions he punishes any of his followers who may have been guilty of a transgression of the rules of cast, and there is no slighter punishment than excommunication; but he cannot inflict this without the consent of the heads of the cast assembled in council.
 
 The *Panchánga*, or village astrologer, acts as *Puróhita* at marriages, funerals, births, on the building of a new house, and at the ceremonies performed monthly and annually in honour of deceased parents. On these occasions the *Puróhita* reads prayers in the *Sanskrit* language. The *Nagaratra* endeavours to repeat after him; but it being an unknown tongue he seldom is able to proceed farther than a few of the first words, and then must hearken quietly to the remainder, as the *Bráhman* does not choose to pronounce it leisurely, or at least distinctly. He is indeed seldom able to read fluently; and all intervals are filled up by a repetition of the last word, accompanied by a most sonorous nasal twang, which is continued until he is able to make out the following word. This kind of unintelligible cant is, however, preferred greatly to all prayers that are pronounced in the vulgar tongue; which, indeed, are considered as of little or no efficacy, especially if they are extemporary.
 
@@ -4506,19 +4504,19 @@ The sugar-candy made here is equal to the Chinese, and the clayed sugar is very 
 
 <!-- page: 388 | folio: 340 -->
 
-![Vol. I. p. 341. — PLATE XII. — Plan of a sugar cane field at Colar. — First form. — Fig 31.](../figures/fig-033_p0388.webp)
+![First form. — Fig 31.](../figures/fig-034_p0388.webp)
 
 
-![Fig 32. — Second form. — Fig 33.](../figures/fig-034_p0388.webp)
+![Fig 32. — Second form.](../figures/fig-035_p0388.webp)
 
 
-![Fig 35.](../figures/fig-035_p0388.webp)
+![Plan of a sugar cane field at Colar. — Fig 33.](../figures/fig-036_p0388.webp)
 
 
-![Fig 34.](../figures/fig-036_p0388.webp)
+![Fig 35.](../figures/fig-037_p0388.webp)
 
 
-![Sugar Mill at Chica Ballapura. — Warner sc.](../figures/fig-037_p0388.webp)
+![Fig 34. — Sugar Mill at Chica Ballapura.](../figures/fig-038_p0388.webp)
 
 
 <!-- page: 389 | folio: 341 -->

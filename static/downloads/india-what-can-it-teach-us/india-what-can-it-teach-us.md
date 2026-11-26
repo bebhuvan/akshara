@@ -386,7 +386,7 @@ There is one book which for many years I have been in the habit of recommending,
 
 Mill’s History, no doubt, you all know, particularly the Candidates for the Indian Civil Service, who, I am sorry to say, are recommended to read it and are examined in it. Still, in order to substantiate my strong condemnation of the book, I shall have to give a few proofs :—
 
-Mill in his estimate of the Hindu character is chiefly guided by Dubois, a French missionary, and by Orme and Buchanan, Tennant, and Ward, all of them neither very competent nor very unprejudiced judges. Mill[^sec-05-fn-002], however, picks out all that is most unfavourable from their works, and omits the qualifications which even these writers felt bound to give to their wholesale [p. 43] condemnation of the Hindus. He quotes as serious, for instance, what was said in joke[^sec-05-fn-003], namely, that ‘a Brahman is an ant’s nest of lies and impostures.’ Next to the charge of untruthfulness, Mill upbraids the Hindus for what he calls their litigiousness. He writes[^sec-05-fn-005]: ‘As often as courage fails them in seeking more daring gratification to their hatred and revenge, their malignity finds a vent in the channel of litigation.’ Without imputing dishonourable motives, as Mill does, the same fact might be stated in a different way, by saying, ‘As often as their conscience and respect of law keep them from seeking more daring gratification to their hatred and revenge, say by murder or poisoning, their trust in English justice leads them to appeal to our Courts of Law.’ Dr. Robertson, in his ‘Historical Disquisitions concerning India[^sec-05-fn-004],’ seems to have considered the litigious subtlety of the Hindus as a sign of high civilisation rather than of barbarism, but he is sharply corrected by Mr. Mill, who tells him that ‘nowhere is this subtlety carried higher than among the wildest of the Irish.’ That courts of justice, like the English, in which a verdict was not to be obtained, as formerly in Mohammedan courts, by bribes and corruption, should at first have proved very attractive to the Hindus, need not surprise us. But is it really true that the Hindus are more fond of litigation than other nations? If we consult Sir Thomas Munro, the eminent Governor of Madras, and the powerful advocate of the Ryotwar settlements, he tells us in so many words[^sec-05-fn-006]: ‘I have had ample opportunity of observing the Hindus in [p. 44] every situation, and I can affirm, that they are not litigious[^sec-05-fn-007].’
+Mill in his estimate of the Hindu character is chiefly guided by Dubois, a French missionary, and by Orme and Buchanan, Tennant, and Ward, all of them neither very competent nor very unprejudiced judges. Mill[^sec-05-fn-002], however, picks out all that is most unfavourable from their works, and omits the qualifications which even these writers felt bound to give to their wholesale [p. 43] condemnation of the Hindus. He quotes as serious, for instance, what was said in joke[^sec-05-fn-003], namely, that ‘a Brahman is an ant’s nest of lies and impostures.’ Next to the charge of untruthfulness, Mill upbraids the Hindus for what he calls their litigiousness. He writes[^sec-05-fn-004]: ‘As often as courage fails them in seeking more daring gratification to their hatred and revenge, their malignity finds a vent in the channel of litigation.’ Without imputing dishonourable motives, as Mill does, the same fact might be stated in a different way, by saying, ‘As often as their conscience and respect of law keep them from seeking more daring gratification to their hatred and revenge, say by murder or poisoning, their trust in English justice leads them to appeal to our Courts of Law.’ Dr. Robertson, in his ‘Historical Disquisitions concerning India[^sec-05-fn-005],’ seems to have considered the litigious subtlety of the Hindus as a sign of high civilisation rather than of barbarism, but he is sharply corrected by Mr. Mill, who tells him that ‘nowhere is this subtlety carried higher than among the wildest of the Irish.’ That courts of justice, like the English, in which a verdict was not to be obtained, as formerly in Mohammedan courts, by bribes and corruption, should at first have proved very attractive to the Hindus, need not surprise us. But is it really true that the Hindus are more fond of litigation than other nations? If we consult Sir Thomas Munro, the eminent Governor of Madras, and the powerful advocate of the Ryotwar settlements, he tells us in so many words[^sec-05-fn-006]: ‘I have had ample opportunity of observing the Hindus in [p. 44] every situation, and I can affirm, that they are not litigious[^sec-05-fn-007].’
 
 But Mill goes further still, and in one place he actually assures his readers[^sec-05-fn-008] that a ‘Brahman may put a man to death when he lists.’ In fact, he represents the Hindus as such a monstrous mass of all vices that, as Colonel Vans Kennedy[^sec-05-fn-009] remarked, society could not have held together, if it had really consisted of such reprobates only. Nor does he seem to see the full bearing of his remarks. Surely, if a Brahman might, as he says, put a man to death whenever he lists, it would be the strongest testimony in their favour that you hardly ever hear of their availing themselves of such a privilege, to say nothing of the fact—and a fact it is—that, according to statistics, the number of capital sentences was one in every 10,000 in England, but only one in every million in Bengal[^sec-05-fn-010].
 
@@ -640,8 +640,8 @@ No doubt, there is moral depravity in India, and where is there no moral depravi
 [^sec-05-fn-001]: (1) Mill’s History of British India, ed. Wilson, vol. i. p. 375.
 [^sec-05-fn-002]: (1) Mill’s History, ed. Wilson, vol. i. p. 368.
 [^sec-05-fn-003]: (1) Mill’s History, ed. Wilson, vol. i. p. 325.
-[^sec-05-fn-004]: (3) P. 217.
-[^sec-05-fn-005]: (2) L. c. vol. i. p. 329.
+[^sec-05-fn-004]: (2) L. c. vol. i. p. 329.
+[^sec-05-fn-005]: (3) P. 217.
 [^sec-05-fn-006]: (4) Mill’s History, vol. i. p. 329.
 [^sec-05-fn-007]: (1) Manu, VIII. 43, says : ‘Neither a King himself nor his officers must ever promote litigation ; nor ever neglect a lawsuit instituted by others.’
 [^sec-05-fn-008]: (2) Mill’s History, vol. i. p. 327.
@@ -863,21 +863,21 @@ Let me read you a few sayings only, which you may still hear repeated in India, 
 
 ‘ As all have to sleep together laid low in the earth, why do foolish people wish to injure one another [^sec-06-fn-027] ?’
 
-‘ A man seeking for eternal happiness (moksha) might obtain it by a hundredth part of the sufferings which a foolish man endures in the pursuit of riches [^sec-06-fn-031].’
+‘ A man seeking for eternal happiness (moksha) might obtain it by a hundredth part of the sufferings which a foolish man endures in the pursuit of riches [^sec-06-fn-028].’
 
-‘ Poor men eat more excellent bread than the rich : for hunger gives it sweetness [^sec-06-fn-028].’
+‘ Poor men eat more excellent bread than the rich : for hunger gives it sweetness [^sec-06-fn-029].’
 
-‘ Our body is like the foam of the sea, our life like a bird, our company with those whom we love does not last for ever ; why then sleepest thou, my son [^sec-06-fn-032] ?’
+‘ Our body is like the foam of the sea, our life like a bird, our company with those whom we love does not last for ever ; why then sleepest thou, my son [^sec-06-fn-030] ?’
 
-‘ As two logs of wood meet upon the ocean and then separate again, thus do living creatures meet [^sec-06-fn-029].’
+‘ As two logs of wood meet upon the ocean and then separate again, thus do living creatures meet [^sec-06-fn-031].’
 
-‘ Our meeting with wives, relations, and friends occurs on our journey. Let a man therefore see clearly where he is, whither he will go, what he is, why tarrying here, and why grieving for anything [^sec-06-fn-033].’
+‘ Our meeting with wives, relations, and friends occurs on our journey. Let a man therefore see clearly where he is, whither he will go, what he is, why tarrying here, and why grieving for anything [^sec-06-fn-032].’
 
-‘ Family, wife, children, our very body and our wealth, they all pass away. They do not belong to us. What then is ours ?—Our good and our evil deeds [^sec-06-fn-035].’
+‘ Family, wife, children, our very body and our wealth, they all pass away. They do not belong to us. What then is ours ?—Our good and our evil deeds [^sec-06-fn-033].’
 
-‘ When thou goest away from here, no one will follow thee. Only thy good and thy evil deeds, they will follow thee wherever thou goest [^sec-06-fn-030].’
+‘ When thou goest away from here, no one will follow thee. Only thy good and thy evil deeds, they will follow thee wherever thou goest [^sec-06-fn-034].’
 
-‘ Whatever act, good or bad, a man performs, of that by necessity he receives the recompense [^sec-06-fn-034].’
+‘ Whatever act, good or bad, a man performs, of that by necessity he receives the recompense [^sec-06-fn-035].’
 
 ‘ According to the Veda [^sec-06-fn-036] the soul (life) is eternal, [p. 104] but the body of all creatures is perishable. When the body is destroyed, the soul departs elsewhere, fettered by the bonds of our works.’
 
@@ -969,24 +969,24 @@ It is curious to observe the reluctance with which these facts are accepted, par
 [^sec-06-fn-015]: (1) Published by Fleet in the Indian Antiquary, 1876, pp. 68-73, and first mentioned by Dr. Bhao Daji, Journal Asiatic Society, Bombay Branch, vol. ix.
 [^sec-06-fn-016]: (2) See Lewis Rice, Nâya Varma’s Karnâ*t*aka Bhâshâ Bhâsha*n*a, Bangalore, 1884, p. xl.
 [^sec-06-fn-017]: (3) Sir William Jones fixed their date at 1280 <span class="sc">B.C.</span> ; Elphinstone as 900 <span class="sc">B.C.</span> It has recently been stated that they could not reasonably be placed later than the fifth century <span class="sc">B.C.</span>
-[^sec-06-fn-018]: (1) A very useful indication of the age of the Dharma-sûtras, as compared with the metrical Dharma-sâstras or Sa*m*hitâs, is to be found in the presence or absence in them of any reference to written documents. Such written documents, if they existed, could hardly be passed over in silence in law-books, particularly when the nature of witnesses is discussed in support of loans, pledges, &c. Now we see that in treating of the law of debt and debtors<sup>*</sup>, the Dharma-sûtras of Gautama, Baudhâyana, and Âpastamba never mention evidence in writing. Vasish*th*a only refers to written evidence, but in a passage which may be interpolated<sup>†</sup>, considering that in other respects his treatment of the law of debt is very crude. Manu’s metrical code shows here again its usual character. It is evidently based on ancient originals, and when it simply reproduces them, gives us the impression of great antiquity. But it freely admits more modern ingredients, and does so in our case. It speaks of witnesses, fixes their minimum number at three, and discusses very minutely their qualifications [p. 93] and disqualifications, without saying a word about written documents. But in one place (VIII. 168) it speaks of the valuelessness of written agreements obtained by force, thus recognising the practical employment of writing for commercial transactions. Professor Jolly<sup>*</sup>, it is true, suggests that this verse may be a later addition, particularly as it occurs *totidem verbis* in Nârada (IV. 55) ; but the final composition of Manu’s Sa*m*hitâ, such as we possess it, can hardly be referred to a period when writing was not yet used, at all events for commercial purposes. Manu’s Law-book is older than Yâ*gñ*avalkya’s, in which writing has become a familiar subject. Vish*n*u often agrees literally with Yâ*gñ*avalkya, while Nârada, as showing the fullest development of the law of debt, is most likely the latest<sup>†</sup>.
-[^sec-06-fn-019]: (*) [Unlinked note, p. 92] Über das Indische Schuldrecht von J. Jolly, p. 291.
-[^sec-06-fn-020]: (†) [Unlinked note, p. 92] Jolly, l. c. p. 322.
+[^sec-06-fn-018]: (1) A very useful indication of the age of the Dharma-sûtras, as compared with the metrical Dharma-sâstras or Sa*m*hitâs, is to be found in the presence or absence in them of any reference to written documents. Such written documents, if they existed, could hardly be passed over in silence in law-books, particularly when the nature of witnesses is discussed in support of loans, pledges, &c. Now we see that in treating of the law of debt and debtors[^sec-06-fn-019], the Dharma-sûtras of Gautama, Baudhâyana, and Âpastamba never mention evidence in writing. Vasish*th*a only refers to written evidence, but in a passage which may be interpolated[^sec-06-fn-020], considering that in other respects his treatment of the law of debt is very crude. Manu’s metrical code shows here again its usual character. It is evidently based on ancient originals, and when it simply reproduces them, gives us the impression of great antiquity. But it freely admits more modern ingredients, and does so in our case. It speaks of witnesses, fixes their minimum number at three, and discusses very minutely their qualifications [p. 93] and disqualifications, without saying a word about written documents. But in one place (VIII. 168) it speaks of the valuelessness of written agreements obtained by force, thus recognising the practical employment of writing for commercial transactions. Professor Jolly[^sec-06-fn-022], it is true, suggests that this verse may be a later addition, particularly as it occurs *totidem verbis* in Nârada (IV. 55) ; but the final composition of Manu’s Sa*m*hitâ, such as we possess it, can hardly be referred to a period when writing was not yet used, at all events for commercial purposes. Manu’s Law-book is older than Yâ*gñ*avalkya’s, in which writing has become a familiar subject. Vish*n*u often agrees literally with Yâ*gñ*avalkya, while Nârada, as showing the fullest development of the law of debt, is most likely the latest[^sec-06-fn-023].
+[^sec-06-fn-019]: (*) Über das Indische Schuldrecht von J. Jolly, p. 291.
+[^sec-06-fn-020]: (†) Jolly, l. c. p. 322.
 [^sec-06-fn-021]: (1) Kern, Preface to B*ri*hatsa*m*hitâ, p. 20.
-[^sec-06-fn-022]: (*) [Unlinked note, p. 93] L. c. p. 290.
-[^sec-06-fn-023]: (†) [Unlinked note, p. 93] Jolly, l. c. p. 322. He places Kâtyâyana and B*ri*haspati after Nârada, possibly Vyâsa and Hârîta also. See Stenzler, Z. d. D. M. G. ix. 664, and Führer, Lehre von den Schriften in B*ri*haspati’s Dharmasâstra, 1879 ; and B*ri*hatsa*m*hitâ, ed. Kern, pref. p. 43 ; Journal of the R. A. S. 1875, p. 106.
+[^sec-06-fn-022]: (*) L. c. p. 290.
+[^sec-06-fn-023]: (†) Jolly, l. c. p. 322. He places Kâtyâyana and B*ri*haspati after Nârada, possibly Vyâsa and Hârîta also. See Stenzler, Z. d. D. M. G. ix. 664, and Führer, Lehre von den Schriften in B*ri*haspati’s Dharmasâstra, 1879 ; and B*ri*hatsa*m*hitâ, ed. Kern, pref. p. 43 ; Journal of the R. A. S. 1875, p. 106.
 [^sec-06-fn-024]: (1) During times of conquest and migration, such as are represented to us in the hymns of the Rig-veda, the system of castes, as it is described, for instance, in the Laws of Manu, would have been a simple impossibility. It is doubtful whether such a system was ever more than a social ideal, but even for such an ideal the [p. 96] materials would have been wanting during the period when the Âryas were first taking possession of the land of the Seven Rivers. On the other hand, even during that early period, there must have been a division of labour, and hence we expect to find and do find in the grâmas of the Five Nations, *warriors*, sometimes called nobles, leaders, kings ; *counsellors*, sometimes called priests, prophets, judges ; and *working men*, whether ploughers, or builders, or road-makers. These three divisions we can clearly perceive even in the early hymns of the Rig-veda.
 [^sec-06-fn-025]: (1) Boehtlingk, Sprüche, 5101.
 [^sec-06-fn-026]: (1) See Pseudocallisthenes IV. 12, p. 108.
 [^sec-06-fn-027]: (1) Mahâbh. XI. 121.
-[^sec-06-fn-028]: (3) Mahâbh. V. 1144.
-[^sec-06-fn-029]: (5) L. c. XII. 869.
-[^sec-06-fn-030]: (8) L. c. XII. 12456.
-[^sec-06-fn-031]: (2) Pañ*k*at. II. 127 (117).
-[^sec-06-fn-032]: (4) Mahâbh. XII. 12050.
-[^sec-06-fn-033]: (6) L. c. XII. 872.
-[^sec-06-fn-034]: (9) L. c. III. 13846.
-[^sec-06-fn-035]: (7) L. c. XII. 12453.
+[^sec-06-fn-028]: (2) Pañ*k*at. II. 127 (117).
+[^sec-06-fn-029]: (3) Mahâbh. V. 1144.
+[^sec-06-fn-030]: (4) Mahâbh. XII. 12050.
+[^sec-06-fn-031]: (5) L. c. XII. 869.
+[^sec-06-fn-032]: (6) L. c. XII. 872.
+[^sec-06-fn-033]: (7) L. c. XII. 12453.
+[^sec-06-fn-034]: (8) L. c. XII. 12456.
+[^sec-06-fn-035]: (9) L. c. III. 13846.
 [^sec-06-fn-036]: (10) L. c. III. 13864.
 [^sec-06-fn-037]: (1) Kâm. Nîtis. 1, 23 (Boehtlingk, 918).
 [^sec-06-fn-038]: (2) Vish*n*u-sûtras XX. 50-53.
@@ -1162,11 +1162,11 @@ After having thus carefully examined all the traces of supposed foreign influenc
 [^sec-07-fn-010]: (1) See Zimmer, Altindisches Leben, pp. 352–357.
 [^sec-07-fn-011]: (2) Preface to vol. iv of Rig-veda, p. lxx.
 [^sec-07-fn-012]: (3) L. c. p. xlvii.
-[^sec-07-fn-013]: (1) In the Mahâbhârata and elsewhere the *Kînas* are mentioned among the Dasyus or non-Aryan races in the North and in the East of India. King Bhagadatta is said to have had an army of *Kînas* and Kirâtas<sup>*</sup>, and the Pâ*n*davas are said to reach the town of the King of the Kulindas, after having passed through the countries of *Kînas*, Tukhâras, and Daradas. All this is as vague as ethnological indications generally are in the late epic poetry of India. The only possibly real element is that Kirâta and *Kîna* soldiers are called kâ*ñ*kana, gold or yellow coloured<sup>†</sup>, and compared to a forest of Kar*n*ikâras, which were trees with yellow flowers<sup>‡</sup>. In Mahâbh. VI. 9, v. 373, vol. ii. p. 344, the *Kînas* occur in company with Kambo*g*as and Yavanas, which again conveys nothing definite. Chinese scholars tell us that the name of China is of modern origin, and only dates from the Thsin dynasty or from the famous Emperor Shi-hoang-ti, 247 <span class="sc">b. c.</span> But the name itself, though in a more restricted sense, occurs in earlier documents, and may, as Lassen thinks<sup>§</sup>, have become known to the Western neighbours of [p. 132] China.  It is certainly strange that the *Sinim* too, mentioned in Isaiah xlix. 12, have been taken by the old commentators for people of China, visiting Babylon as merchants and travellers.
-[^sec-07-fn-014]: (*) [Unlinked note, p. 131] Lassen, i. p. 1029 ; Mahâbh. III. 117, v. 12350 ; vol. i. p. 619.
-[^sec-07-fn-015]: (†) [Unlinked note, p. 131] Mahâbh. V. 18, v. 584 ; vol. ii. p. 106.
-[^sec-07-fn-016]: (‡) [Unlinked note, p. 131] See Vâ*k*aspatya s. v. ; Kas*k*it Kar*n*ikâragaurah.
-[^sec-07-fn-017]: (§) [Unlinked note, p. 131] Lassen, vol. i. p. 1029, n. 2.
+[^sec-07-fn-013]: (1) In the Mahâbhârata and elsewhere the *Kînas* are mentioned among the Dasyus or non-Aryan races in the North and in the East of India. King Bhagadatta is said to have had an army of *Kînas* and Kirâtas[^sec-07-fn-014], and the Pâ*n*davas are said to reach the town of the King of the Kulindas, after having passed through the countries of *Kînas*, Tukhâras, and Daradas. All this is as vague as ethnological indications generally are in the late epic poetry of India. The only possibly real element is that Kirâta and *Kîna* soldiers are called kâ*ñ*kana, gold or yellow coloured[^sec-07-fn-015], and compared to a forest of Kar*n*ikâras, which were trees with yellow flowers[^sec-07-fn-016]. In Mahâbh. VI. 9, v. 373, vol. ii. p. 344, the *Kînas* occur in company with Kambo*g*as and Yavanas, which again conveys nothing definite. Chinese scholars tell us that the name of China is of modern origin, and only dates from the Thsin dynasty or from the famous Emperor Shi-hoang-ti, 247 <span class="sc">b. c.</span> But the name itself, though in a more restricted sense, occurs in earlier documents, and may, as Lassen thinks[^sec-07-fn-017], have become known to the Western neighbours of [p. 132] China.  It is certainly strange that the *Sinim* too, mentioned in Isaiah xlix. 12, have been taken by the old commentators for people of China, visiting Babylon as merchants and travellers.
+[^sec-07-fn-014]: (*) Lassen, i. p. 1029 ; Mahâbh. III. 117, v. 12350 ; vol. i. p. 619.
+[^sec-07-fn-015]: (†) Mahâbh. V. 18, v. 584 ; vol. ii. p. 106.
+[^sec-07-fn-016]: (‡) See Vâ*k*aspatya s. v. ; Kas*k*it Kar*n*ikâragaurah.
+[^sec-07-fn-017]: (§) Lassen, vol. i. p. 1029, n. 2.
 [^sec-07-fn-018]: (1) I prefer now the reading of the Kâ*n*va-*s*âkhâ, abhidudrâva, instead of atidudrâva or adhidudrâva of the other MSS. See Weber, Ind. Streifen, i. p. 11.
 [^sec-07-fn-019]: (1) VII. 1, 5, 1 seq. ; Muir, i. p. 52 ; Colebrooke, Essays, i. 75.
 [^sec-07-fn-020]: (2) See Note H.
@@ -1335,11 +1335,11 @@ And again[^sec-08-fn-029]: ‘He was a good workman who produced heaven and eart
 
 Very soon this great work of making heaven and earth was ascribed, like other mighty works, to the mightiest of their gods, to Indra. At first we read that Indra, originally only a kind of *Jupiter pluvius*, or god of rain, stretched out heaven and earth, like a hide[^sec-08-fn-030]; that he held them in his hand[^sec-08-fn-031], that he upholds heaven and earth[^sec-08-fn-032], and that he grants heaven and earth to his worshippers[^sec-08-fn-033]. But very soon Indra is praised for having made Heaven and Earth[^sec-08-fn-034]; and then, when the poet remembers that Heaven and Earth had been praised elsewhere as the parents of the gods, and more especially as the parents of Indra, he does not hesitate for a moment, but says[^sec-08-fn-035]: ‘What poets living before us have reached the end of all thy greatness? for thou hast indeed begotten thy father and thy mother together[^sec-08-fn-036] from thy own body!’
 
-That is a strong measure, and a god who once could do that, was no doubt capable of anything afterwards. The same idea, namely that Indra is greater than heaven and earth, is expressed in a less outrageous way by another poet, who says[^sec-08-fn-037] that Indra is greater than heaven and earth, and that [p. 162] both together are only a half of Indra. Or again[^sec-08-fn-038] : ‘The divine Dyaus bowed before Indra, before Indra the great Earth bowed with her wide spaces.’ ‘At the birth of thy splendour Dyaus trembled, the Earth trembled for fear of thy anger[^sec-08-fn-041].’
+That is a strong measure, and a god who once could do that, was no doubt capable of anything afterwards. The same idea, namely that Indra is greater than heaven and earth, is expressed in a less outrageous way by another poet, who says[^sec-08-fn-037] that Indra is greater than heaven and earth, and that [p. 162] both together are only a half of Indra. Or again[^sec-08-fn-038] : ‘The divine Dyaus bowed before Indra, before Indra the great Earth bowed with her wide spaces.’ ‘At the birth of thy splendour Dyaus trembled, the Earth trembled for fear of thy anger[^sec-08-fn-039].’
 
 Thus, from one point of view, Heaven and Earth were the greatest gods, they were the parents of everything, and therefore of the gods also, such as Indra and others.
 
-But, from another point of view, every god that was considered as supreme at one time or other, must necessarily have made heaven and earth, must at all events be greater than heaven and earth, and thus the child became greater than the father, aye, became the father of his father. Indra was not the only god that created heaven and earth. In one hymn[^sec-08-fn-039] that creation is ascribed to Soma and Pûshan, by no means very prominent characters; in another[^sec-08-fn-042] to Hira*n*yagarbha (the golden germ); in another again, to a god who is simply called Dhât*ri*, the Creator[^sec-08-fn-040], or Visvakarman[^sec-08-fn-043], the maker of all things. Other gods, such as Mitra and Savit*ri*, names of the sun, are praised for upholding Heaven and Earth, and the same task is sometimes performed by the old god Varu*n*a[^sec-08-fn-044] also.
+But, from another point of view, every god that was considered as supreme at one time or other, must necessarily have made heaven and earth, must at all events be greater than heaven and earth, and thus the child became greater than the father, aye, became the father of his father. Indra was not the only god that created heaven and earth. In one hymn[^sec-08-fn-040] that creation is ascribed to Soma and Pûshan, by no means very prominent characters; in another[^sec-08-fn-041] to Hira*n*yagarbha (the golden germ); in another again, to a god who is simply called Dhât*ri*, the Creator[^sec-08-fn-042], or Visvakarman[^sec-08-fn-043], the maker of all things. Other gods, such as Mitra and Savit*ri*, names of the sun, are praised for upholding Heaven and Earth, and the same task is sometimes performed by the old god Varu*n*a[^sec-08-fn-044] also.
 
 What I wish you to observe in all this is the perfect freedom with which these so-called gods or Devas are handled, and particularly the ease and naturalness with which now the one, now the other emerges as supreme out of this chaotic theogony.
 
@@ -1442,10 +1442,10 @@ I selected this hymn for two reasons. First, because it shows us the widest geog
 [^sec-08-fn-036]: (8) Cf. IV. 17, 4, where Dyaus is the father of Indra; see however Muir, iv. 31, note.
 [^sec-08-fn-037]: (9) Rig-veda VI. 30, 1.
 [^sec-08-fn-038]: (1) Rig-veda I. 131, 1.
-[^sec-08-fn-039]: (3) L. c. II. 40, 1.
-[^sec-08-fn-040]: (5) L. c. X. 190, 3.
-[^sec-08-fn-041]: (2) L. c. IV. 17, 2.
-[^sec-08-fn-042]: (4) L. c. X. 121, 9.
+[^sec-08-fn-039]: (2) L. c. IV. 17, 2.
+[^sec-08-fn-040]: (3) L. c. II. 40, 1.
+[^sec-08-fn-041]: (4) L. c. X. 121, 9.
+[^sec-08-fn-042]: (5) L. c. X. 190, 3.
 [^sec-08-fn-043]: (6) L. c. X. 81, 2.
 [^sec-08-fn-044]: (7) L. c. VI. 70, 1.
 [^sec-08-fn-045]: (1) Rig-veda X. 75. See Hibbert Lectures, Lect. iv.
@@ -1507,9 +1507,9 @@ All these and several others, such as Par*g*anya and the R*i*bhus, are the gods 
 
 In another hymn we read[^sec-09-fn-006]; ‘Thou hast restrained the great river for the sake of Turvîti Vâyya: the flood moved in obedience to thee, and thou madest the rivers easy to cross’ This is not very different from the Psalmist (lxxviii. 13): ‘He divided the [p. 182] sea, and caused them to pass through ; and he made the waters to stand as an heap.’
 
-And there are other passages which have reminded some students of the Veda of Joshua’s battle[^sec-09-fn-007], when the sun stood still and the moon stayed, until the people had avenged themselves upon their enemies. For we read in the Veda also, as Professor Kaegi has pointed out (l. c. p. 63), that ‘Indra lengthened the days into the night,’ and that ‘the Sun unharnessed its chariot in the middle of the day[^sec-09-fn-009].’
+And there are other passages which have reminded some students of the Veda of Joshua’s battle[^sec-09-fn-007], when the sun stood still and the moon stayed, until the people had avenged themselves upon their enemies. For we read in the Veda also, as Professor Kaegi has pointed out (l. c. p. 63), that ‘Indra lengthened the days into the night,’ and that ‘the Sun unharnessed its chariot in the middle of the day[^sec-09-fn-008].’
 
-In some of the hymns addressed to Indra his original connection with the sky and the thunderstorm seems quite forgotten. He has become a spiritual god, the only king of all worlds and all people[^sec-09-fn-008], who sees and hears everything[^sec-09-fn-010], nay, who inspires men with their best thoughts. No one is equal to him, no one excels him.
+In some of the hymns addressed to Indra his original connection with the sky and the thunderstorm seems quite forgotten. He has become a spiritual god, the only king of all worlds and all people[^sec-09-fn-009], who sees and hears everything[^sec-09-fn-010], nay, who inspires men with their best thoughts. No one is equal to him, no one excels him.
 
 The name of Indra is peculiar to India, and must have been formed after the separation of the great Aryan family had taken place, for we find it neither in Greek, nor in Latin, nor in German. There are Vedic gods, as I mentioned before, whose names must have been framed before that separation, and which occur therefore, though greatly modified in character, sometimes in Greek, sometimes in Latin, sometimes in the Celtic, Teutonic, and Slavonic dialects. Dyaus, for instance, is the same word as Zeus or Ju-piter, Ushas is Eos, Naktâ is Nyx, Sûrya is Helios, Agni is ignis, Bhaga is Baga in Old Persian, Bogŭ in Old Slavonic, Varu*n*a is Uranos, Vâ*k* is vox, and in the name of the *Maruts*, or the storm-gods, the germs of the Italic god of war, Mars, have been discovered.
 
@@ -1533,7 +1533,7 @@ Surely it is difficult to say more of a supreme god than what is here said of Pa
 
 There are other verses, again, where par*g*anya occurs with hardly any traces of personality, but simply as a name of cloud or rain.
 
-Thus we read[^sec-09-fn-016] : ‘Even by day the Maruts (the storm-gods) produce darkness with the cloud that carries water, when they moisten the earth.’ Here cloud is par*g*anya, and it is evidently used as an appellative, and not as a proper name. The same word occurs in the plural also, and we read of many par*g*anyas or clouds vivifying the earth[^sec-09-fn-015].
+Thus we read[^sec-09-fn-015] : ‘Even by day the Maruts (the storm-gods) produce darkness with the cloud that carries water, when they moisten the earth.’ Here cloud is par*g*anya, and it is evidently used as an appellative, and not as a proper name. The same word occurs in the plural also, and we read of many par*g*anyas or clouds vivifying the earth[^sec-09-fn-016].
 
 When Devâpi prays for rain in favour of his brother, he says[^sec-09-fn-017] : ‘O lord of my prayer (B*ri*haspati), whether thou be Mitra or Varu*n*a or Pûshan, come to my sacrifice! Whether thou be together with the Âdityas, the Vasus or the Maruts, let the cloud (par*g*anya) rain for *S*antanu.’
 
@@ -1667,15 +1667,15 @@ Only let us be careful in the use of that phrase ‘it is a mere name.’ No nam
 [^sec-09-fn-005]: (1) See Kaegi, Rig-veda, p. 61.
 [^sec-09-fn-006]: (2) Rig-veda II. 13, 12 ; IV. 19, 6.
 [^sec-09-fn-007]: (1) Joshua x. 13.
-[^sec-09-fn-008]: (3) L. c. VIII. 37, 3.
-[^sec-09-fn-009]: (2) Rig-veda IV. 30, 3 ; X. 138, 3.
+[^sec-09-fn-008]: (2) Rig-veda IV. 30, 3 ; X. 138, 3.
+[^sec-09-fn-009]: (3) L. c. VIII. 37, 3.
 [^sec-09-fn-010]: (4) L. c. VIII. 78, 5.
 [^sec-09-fn-011]: (1) Muir, iv. p. 23.
 [^sec-09-fn-012]: (2) Ibid. p. 142. An excellent paper on Par*g*anya was published by Bühler in 1862, Orient und Occident, vol. i. p. 214.
 [^sec-09-fn-013]: (1) Rig-veda VII. 101, 6.
 [^sec-09-fn-014]: (1) Rig-veda V. 63, 3–6.
-[^sec-09-fn-015]: (3) L. c. I. 164, 51.
-[^sec-09-fn-016]: (2) L. c. I. 38, 9.
+[^sec-09-fn-015]: (2) L. c. I. 38, 9.
+[^sec-09-fn-016]: (3) L. c. I. 164, 51.
 [^sec-09-fn-017]: (4) L. c. X. 98, 1.
 [^sec-09-fn-018]: (1) Rig-veda V. 83. See Bühler, Orient und Occident, vol. i. p. 214 ; Zimmer, Altindisches Leben, p. 43.
 [^sec-09-fn-019]: (2) Both Bühler (Orient und Occident, vol. i. p. 224) and Zimmer (Z. f. D. A. vii. p. 169) say that the lightning is represented as the son of Par*g*anya in Rig-veda VII. 101, 1. This seems doubtful.
@@ -1718,7 +1718,7 @@ But that is not all.
 
 You may know how, in the beginning of this century, when the age of the Homeric poems was discussed, a German scholar, Frederick August Wolf, asked two momentous questions :—
 
-- 1. At what time did the Greeks first become acquainted with the alphabet and use it for inscrip-tions [p. 203] on public monuments, coins, shields, and for contracts, both public and private[^sec-10-fn-001]?
+- 1. At what time did the Greeks first become acquainted with the alphabet and use it for inscriptions [p. 203] on public monuments, coins, shields, and for contracts, both public and private[^sec-10-fn-001]?
 2\. At what time did the Greeks first think of using writing for literary purposes, and what materials did they employ for that purpose?
 
 These two questions and the answers they elicited threw quite a new light on the nebulous periods of Greek literature. A fact more firmly established than any other in the ancient history of Greece is that the Ionians learnt the alphabet from the Phenicians. The Ionians always called their letters Phenician letters[^sec-10-fn-002], and the very name of Alphabet was a Phenician word. We can well understand that the Phenicians should have taught the Ionians in Asia Minor a knowledge of the alphabet, partly for commercial purposes, i. e. for making contracts, partly for enabling them to use those useful little sheets, called *Periplus*, or *Circumnavigations*, which at that time were as precious to sailors as maps were to the adventurous seamen of the middle ages. But from that to a written literature, in our sense of the word, there is still a wide step. It is well known that the Germans, particularly in the North, had their Runes for inscriptions on tombs, goblets, public monuments, but not for literary purposes[^sec-10-fn-003]. Even if a few Ionians at Miletus and other centres of political and commercial life acquired the art of [p. 204] writing, where could they find writing materials? and, still more important, where could they find readers? The Ionians, when they began to write, had to be satisfied with a hide or pieces of leather, which they called *diphthera*, and until that was brought to the perfection of vellum or parchment, the occupation of an author cannot have been very agreeable[^sec-10-fn-004].
@@ -2115,7 +2115,7 @@ I do not mean to say that everybody who wishes to know how the human race came t
 [^sec-10-fn-028]: (4) A translation considerably differing from my own is given by Sarvâdhikâri in his Tagore Lectures for 1880, p. 34.
 [^sec-10-fn-029]: (1) Cf. Max Müller, Rig-veda, transl. vol. i. p. 24.
 [^sec-10-fn-030]: (1) Note I.
-[^sec-10-fn-031]: (1) *S*atapatha Brâhma*n*a XI. 5, 6, 1; Taitt. Âr. II. 11, 10; Âsvalâyana G*ri*hyasûtras III. 1, 1; Pâraskara G*ri*hya-sûtras II. 9, 1; Âpastamba, Dharma-sûtras, translated by Bühler, pp. 47 seq.
+[^sec-10-fn-031]: (1) *S*atapatha Brâhma*n*a XI. 5, 6, 1; Taitt. Âr. II. 11, 10; Âsvalâyana G*ri*hya-sûtras III. 1, 1; Pâraskara G*ri*hya-sûtras II. 9, 1; Âpastamba, Dharma-sûtras, translated by Bühler, pp. 47 seq.
 [^sec-10-fn-032]: (2) In the Sâ*n*khâyana G*ri*hya (I. 5) four Pâka-yag*ñ*as are mentioned, called Huta, ahuta, prahuta, prâsita
 [^sec-10-fn-033]: (1) Âsv. G*ri*hya-sûtras I. 3, 10.
 [^sec-10-fn-034]: (2) Manu III. 117-118.
@@ -2134,7 +2134,7 @@ I do not mean to say that everybody who wishes to know how the human race came t
 [^sec-10-fn-047]: (1) Âpastamba II. 16, 3, Brâhma*n*âs tv âhavanîyârthe.
 [^sec-10-fn-048]: (1) L. c. p. 142.
 [^sec-10-fn-049]: (2) Manu III. 138, 140.
-[^sec-10-fn-050]: (3) Âsv. G*ri*hyasûtras IV. 5, 8.
+[^sec-10-fn-050]: (3) Âsv. G*ri*hya-sûtras IV. 5, 8.
 [^sec-10-fn-051]: (4) It is described as a vik*ri*ti of the Pârvana-srâddha in Gobhilîya G*ri*hya-sûtras, p. 1011.
 [^sec-10-fn-052]: (1) One of the differences between the acts before and after the Sapi*nd*îkara*n*a is noted by Sâla*n*kâyana :—Sapi*nd*îkara*n*am yâvad *ri*gudarbha*ih* pit*ri*kriyâ Sapi*nd*îkara*n*âd ûrdhvam dvigu*n*air vidhivad bhavet. Gobhilîya G*ri*hya-sûtras, p. 930.
 [^sec-10-fn-053]: (2) Gobhilîya G*ri*hya-sûtras, p. 1023.
@@ -2147,7 +2147,7 @@ I do not mean to say that everybody who wishes to know how the human race came t
 [^sec-10-fn-060]: (2) Life and Essays, ii. p. 195.
 [^sec-10-fn-061]: (3) Colebrooke adds that in most provinces the periods for these sixteen ceremonies, and for the concluding obsequies entitled Sapi*nd*ana, are anticipated, and the whole is completed on the second or third day ; after which they are again performed at the proper times, but in honour of the whole set of progenitors instead of the deceased singly. It is this which Dr. Donner, in his learned paper on the Pi*nd*apit*r*iyag*ñ*a (p. 11), takes as the general rule.
 [^sec-10-fn-062]: (1) See this subject most exhaustively treated, particularly in its bearings on the law of inheritance, in Rajkumar Sarvâdhikâri’s Tagore Law Lectures for 1880, p. 93.
-[^sec-10-fn-063]: (2) Gobhilîya G*ri*hyasûtras, p. 892.
+[^sec-10-fn-063]: (2) Gobhilîya G*ri*hya-sûtras, p. 892.
 [^sec-10-fn-064]: (3) L. c. p. 897.
 [^sec-10-fn-065]: (4) See p. 666, and p. 1008. G*ri*hyakâra*h* pi*nd*apitr*i*yag*ñ*asya srâddhatvam âha.
 [^sec-10-fn-066]: (5) Gobhila IV. 4, 3, itarad anvâhâryam. But the commentators add, anagner amâvasyâsrâddham, nânvâhâryam. According to Gobhila there ought to be the Vai*s*vadeva offering and the Bali offering at the end of each Pârva*n*a-srâddha; see Gobhilîya G*ri*hyasûtras, p. 1005, but no Vai*s*vadeva at an ekoddishta srâddha, l. c. p. 1020.
@@ -2693,7 +2693,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Adam and Eve, 29.
 - Âdi Brahma Samâj, 143 *note*.
 - Aditi, meaning of, 196.
-- — connected with the Dawn, 197.
+  - — connected with the Dawn, 197.
 - Âditya, 138, 195.
 - Âdityas, the, 185, 196, 219, 223.
 - Adrogha, not deceiving, 65.
@@ -2704,9 +2704,8 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Afghan, 37.
 - Afghanistan, 139.
 - Afghans or Pushtus, 170.
-- Agni, 144, 145, 148, 155, 176, 226,
-- 230, 245, 252.
-- — presence of, 177.
+- Agni, 144, 145, 148, 155, 176, 226, 230, 245, 252.
+  - — presence of, 177.
 - Agni=ignis, 23, 182.
 - Agnihotra sacrifice, 127.
 - Αἴλουρος, 262, 267, 270.
@@ -2717,20 +2716,17 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - ᾿Ακεσίνης=Asiknî, 165, 173.
 - Âkhyânas, 88.
 - Alexander, 19.
-- — Indian river names, at the time
-- of, 169.
-- — army of, turned back on the
-- Vipâs, 172.
-- — Indian rivers known to, 172, 173.
+  - — Indian river names, at the time of, 169.
+  - — army of, turned back on the Vipâs, 172.
+  - — Indian rivers known to, 172, 173.
 - Alexander, effects of his conquest of
 - India, 278.
 - Allahabad, 77.
 - All-Sacrifice, the, 67.
 - Alphabet, 18, 203.
-- — whence derived, 18.
-- — Ionian and Phœnician, 203.
-- — two used in Asoka’s inscriptions,
-- 206.
+  - — whence derived, 18.
+  - — Ionian and Phœnician, 203.
+  - — two used in Asoka’s inscriptions, 206.
 - Amâ, twelve, 296.
 - Amitâbha worship, 87.
 - Amsa, 196.
@@ -2738,7 +2734,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Anaximander, 205.
 - Anaximenes, 205.
 - Ancestor worship, 221.
-- — Herbert Spencer on, 221.
+  - — Herbert Spencer on, 221.
 - Ancestors, spirits, 220, 233.
 - Ancient myths, 152.
 - Ancient Sanskrit literature, 88, 89,
@@ -2774,33 +2770,32 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - 172 *note*.
 - Arklas, Lit. = oralo, Old Slav., 289.
 - Arrian, pupil of Epictetus, 55.
-- — Indian rivers known to, 171, 172.
+  - — Indian rivers known to, 171, 172.
 - Artabanus, 278.
 - Artaxerxes Mnemon, 54.
 - Artemis, 108.
 - Aru*n*a Aupavesi, 72.
 - Aryaman, 196.
 - Aryan family, 23.
-- — seven branches of the, 23.
-- — separation, 23.
-- — or Indo-European, 27.
-- — man, the, 95.
-- — race, ancestors of the, 117.
-- — religion, 141.
+  - — seven branches of the, 23.
+  - — separation, 23.
+  - — or Indo-European, 27.
+  - — man, the, 95.
+  - — race, ancestors of the, 117.
+  - — religion, 141.
 - Aryans of India, 12, 15.
 - Âryasûra, 211 *note*.
 - As, the root, 26.
-- — to breathe, 26.
+  - — to breathe, 26.
 - Ashâ*dh*a, full moon of, 128 *note*.
 - Ash*t*akas, five, 296.
 - Asiknî, Akesines, 165, 165 *note*, 172.
 - Asmi, I am, 25, 26.
 - Asoka, 87, 206, 216.
-- — his edicts in local dialects, 77.
+  - — his edicts in local dialects, 77.
 - Assyrian treasures at Mykenae, 259.
-- Astronomy, ancient, in India, 129,
-- 130, 133.
-- — in China, 132.
+- Astronomy, ancient, in India, 129, 130, 133.
+  - — in China, 132.
 - Asu, âs, ôs, ôris, 26.
 - Asuras, 219.
 - Asvins, the, 145, 197.
@@ -2814,8 +2809,8 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Atri, 292, 293.
 - Avaiki, the shades, 151.
 - Avatâra of the Fish, 133.
-- — Tortoise, 133.
-- — Boar, 133.
+  - — Tortoise, 133.
+  - — Boar, 133.
 - Avatâras of Vish*n*u, three, 133, 138.
 - Ayin Akbari, the, 57.
 - Ayodhyâ, 170.
@@ -2824,10 +2819,10 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Babrius, 264.
 - Babylon, 15, 18.
 - Babylonian division of time, 18.
-- — Bull, 30.
-- — influences on Vedic poems, 125.
-- — on Vedic astronomy, 126.
-- — Zodiac, 138, 139.
+  - — Bull, 30.
+  - — influences on Vedic poems, 125.
+  - — on Vedic astronomy, 126.
+  - — Zodiac, 138, 139.
 - Bactria, 139, 259, 278, 279.
 - Baga, Bhaga, and Bogŭ, 182.
 - Bâlavâya, 268.
@@ -2845,17 +2840,17 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Behar, people of, 37.
 - Behat, 166, 173.
 - Bengal, people of, 37.
-- — villages in, 47 *note*.
-- — schools, 62 *note*.
+  - — villages in, 47 *note*.
+  - — schools, 62 *note*.
 - Bengalese, 37.
 - Bengali, 82, 141.
 - Berg and burg, traced by Grimm to
 - Par*g*anya, 290.
 - Beryl, 267.
-- — mines of, 268.
+  - — mines of, 268.
 - Beyond, the, 105, 201, 219, 243.
-- — a, 175.
-- — how named, 163.
+  - — a, 175.
+  - — how named, 163.
 - Bhâdrapada, the month, 296.
 - Bhaga, 196.
 
@@ -2877,9 +2872,8 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Bias, or Byah, 172.
 - Bibasis, 172 *note*.
 - Bible, 119.
-- — Sanskrit words in the, 10.
-- — teaches us little of the whole
-- Jewish race, 119.
+  - — Sanskrit words in the, 10.
+  - — teaches us little of the whole Jewish race, 119.
 - Bibliographical survey of India, 83.
 - Bi-metallic currency, 19.
 - Biot, 130.
@@ -2889,21 +2883,19 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Bolor or Balur-tâgh, 268, 268 *note*.
 - Books read by ancient nations, 121.
 - Bopp, 28.
-- — his Comparative Grammar, 28.
+  - — his Comparative Grammar, 28.
 - Botany in India, 8.
 - Brahma sacrifice, 229.
 - Brahma Samâj of India, 143 *note*,
 - 249.
 - Brahman, 66, 293.
-- — a short day of, 293.
-- Brâhma*n*a, a, or twice-born man,
-- 142.
-- — period, 134, 207.
-- — the, 209.
+  - — a short day of, 293.
+- Brâhma*n*a, a, or twice-born man, 142.
+  - — period, 134, 207.
+  - — the, 209.
 - Brâhma*n*as, the, 66, 90, 221, 227.
-- — on truth, 66.
-- — or twice-born, high caste, 214,
-- 236, 292, 294.
+  - — on truth, 66.
+  - — or twice-born, high caste, 214, 236, 292, 294.
 - Brahmanism, 13.
 - Brahmans, I-tsing's account of the,
 - 212.
@@ -2912,23 +2904,22 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - 47 *note*.
 - Buchanan, 4.
 - Buddha, 77.
-- — his pupils use dialects not Sanskrit, 78.
+  - — his pupils use dialects not Sanskrit, 78.
 - Buddhism, 13, 89.
-- — chief source of our fables, 9.
-- — rise of, 87, 215.
-- — adopted by Asoka, 87.
-- — Mahâyâna form of, 87.
-- — literature of, 89.
-- — Conference on, 283.
-- — in Ceylon, 283.
-- — and Christianity, coincidences between, 284.
-- Buddhist Birth Stories, Rhys
-- Davids', 11 *note*.
-- — pilgrims, 55.
-- — Tripi*t*aka, 88.
-- — literature, 94.
-- — inscriptions of Asoka, 206.
-- — their language, 216.
+  - — chief source of our fables, 9.
+  - — rise of, 87, 215.
+  - — adopted by Asoka, 87.
+  - — Mahâyâna form of, 87.
+  - — literature of, 89.
+  - — Conference on, 283.
+  - — in Ceylon, 283.
+  - — and Christianity, coincidences between, 284.
+- Buddhist Birth Stories, Rhys Davids', 11 *note*.
+  - — pilgrims, 55.
+  - — Tripi*t*aka, 88.
+  - — literature, 94.
+  - — inscriptions of Asoka, 206.
+  - — their language, 216.
 - Buddhistic religion, 89.
 - Bühler, Professor, on the cat, 266.
 - Bullion brought into India in Pliny's
@@ -2940,8 +2931,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - C. *See* K.
 - Cabul, 77.
 - Cabul river, 166, 173.
-- — tributaries of the Indus, above
-- the, 173 *note*.
+  - — tributaries of the Indus, above the, 173 *note*.
 - Cæsar, on the Druid songs, 215.
 - Caesarius first mentions the cat, 261.
 - Calcutta, higher natives in, 41.
@@ -2953,27 +2943,27 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Carian coins, 8.
 - Carlyle, 16.
 - Caste, system of, 95 *note*.
-- — in the Laws of Manu, 95 *note*.
+  - — in the Laws of Manu, 95 *note*.
 
 <!-- page: 322 | folio: 300 -->
 - Caste, in the Rig-veda, 95 *note*.
 - Cat, not known to ancient Aryans, 24.
-- — names for, 24.
-- — came from Egypt to Greece and Italy, 24, 261.
-- — domestic, 261.
-- — first mentioned by Caesarius, 261.
-- — no bones of, at Pompeii, 262.
-- — A. S., 264 *note*.
-- — cata, Prov., 264 *note*.
-- — Gael., 264 *note*.
-- — Irish, 264 *note*.
-- — and mouse, 263.
-- — when known in India, 264.
-- — names for, in Sanskrit, 264.
+  - — names for, 24.
+  - — came from Egypt to Greece and Italy, 24, 261.
+  - — domestic, 261.
+  - — first mentioned by Caesarius, 261.
+  - — no bones of, at Pompeii, 262.
+  - — A. S., 264 *note*.
+  - — cata, Prov., 264 *note*.
+  - — Gael., 264 *note*.
+  - — Irish, 264 *note*.
+  - — and mouse, 263.
+  - — when known in India, 264.
+  - — names for, in Sanskrit, 264.
 - Câth, Welsh, 264 *note*.
 - Cati, catti, 262.
 - Cats, pictures of, at Pompeii, 262.
-- — Professor Rolleston on, 263, 269.
+  - — Professor Rolleston on, 263, 269.
 - Catta in Martialis, 262 *note*.
 - Catus, 24, 262.
 - Celts, 15.
@@ -2984,9 +2974,9 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - China, a modern name, 131 *note*.
 - Chinâb or Asiknî, 173.
 - Chinese chronicles, 86.
-- — Lunar Stations, 130.
-- — three aspects of religion in, 244.
-- — version of the tale of Bedd Gelert, 265.
+  - — Lunar Stations, 130.
+  - — three aspects of religion in, 244.
+  - — version of the tale of Bedd Gelert, 265.
 - Chourasees, circles of villages, 47.
 - Christian religion, true knowledge of, founded on a study of the Jewish race, 17.
 - Circumnavigations, 203.
@@ -2995,13 +2985,13 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Code of Justinian, 92.
 - Coins of India, 8.
 - Colebrooke, Thomas, 4.
-- — on Hindu religious ceremonies, 227.
-- — on Srâddha, 239, 239 *note*.
+  - — on Hindu religious ceremonies, 227.
+  - — on Srâddha, 239, 239 *note*.
 - Colenso, 64.
 - Commercial honour in India, 63.
 - Comte, 123.
 - Confucius, 212.
-- — his studies, 212.
+  - — his studies, 212.
 - Conquerors of India, 12, 38, 54.
 - Controversy, 114.
 - Counsellors, 95 *note*.
@@ -3012,7 +3002,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Cunaxa, battle of, 54.
 - Cuneiform inscriptions, 20.
 - Cunningham, General, 259.
-- — Ancient Geography of India, 174 *note*.
+  - — Ancient Geography of India, 174 *note*.
 - Cuvier, on cat mummies, 263.
 - Cylinders of Babylon, 118 *note*.
 - Δάαι = Dacians, 278 *note*.
@@ -3026,31 +3016,31 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Daradas, 131 *note*.
 - Δάραψα, capital of Yueh-chi, 279 *note*.
 - Darius, 19, 259.
-- — Hystaspes, 170.
+  - — Hystaspes, 170.
 - Darwin, 64.
-- — Origin of Species, 120.
+  - — Origin of Species, 120.
 - Dasagrâmîs of Pânini, 281 *note*.
 - Dasaratha, king of Ayodhyâ, 67, 68.
 - Dasyus or non-Aryan races, 131 *note*.
 - Davis, 4.
 - Dawn, the, 153, 177, 198.
-- — as Aditi, 197.
+  - — as Aditi, 197.
 - Dayânanda's Introduction to the Rig-veda, 85.
 - Dekkan, 122.
 - Delhi, 170.
 - Deluge, the, 133, 137.
-- — in Hindu literature, 134, 139.
+  - — in Hindu literature, 134, 139.
 - Departed spirits, 219.
 - Departed, regulations in honour of the, 227, 230.
 - Deva, meaning of, 159.
-- — deus, 218.
+  - — deus, 218.
 
 <!-- page: 323 | folio: 301 -->
 - Deva sacrifice, 229.
 - Devapatnîs, wives of the gods, 145 *note.*
 - Devâpi’s prayer for rain, 185.
 - Devas, the, 108, 162, 199, 217–219, 222, 251, 252, 291, 292, 295.
-- — offsprings of Heaven and Earth, 159.
+  - — offsprings of Heaven and Earth, 159.
 - Devatâs, 147.
 - Development of human character in India and Europe, 96 *et sq.*, 117.
 - Dharma or Sâmayâ*k*ârika Sûtras, 12.
@@ -3071,7 +3061,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Divi manes, 222.
 - Dobrowsky, derivations from *peru*, to strike, 192.
 - Donkey in the lion’s skin, 9, 9 *note*, 10.
-- — in the tiger’s skin, 10 *note.*
+  - — in the tiger’s skin, 10 *note.*
 - Dravidian, 37.
 - Dravidians of India, 12.
 - Droghavâ*k*, 65.
@@ -3093,19 +3083,19 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Earth, gods of the, 145, 244.
 - East, we all come from the, 31–32.
 - Ecliptic, Indian, 133.
-- — borrowed by the Arabs, 133.
+  - — borrowed by the Arabs, 133.
 - Education of the Human Race, 89.
-- — in India, I-tsing’s account of, 211, 212.
+  - — in India, I-tsing’s account of, 211, 212.
 - Egypt, 15, 18, 20, 119, 278.
-- — home of the domestic cat, 261.
+  - — home of the domestic cat, 261.
 - Egyptian Sphinx, 30.
 - Ekoddish*t*a-*s*râddha, 295.
 - Elephanta, 4.
 - Elliot, 4.
 - Ellis, 4.
 - Elphinstone, Mountstuart, 59.
-- — on the difficulty of really knowing natives, 59.
-- — on the Hindus, 61.
+  - — on the difficulty of really knowing natives, 59.
+  - — on the Hindus, 61.
 - English Official and Native Law Officer, 51–53.
 - Eos, 197.
 - Eos and Ushas, 182.
@@ -3124,28 +3114,26 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Faírguni, Gothic, 290.
 - Falcon, 266.
 - Fathers, the, hymns to, in the Rig-veda, 221, 223, 224, 225.
-- — two classes of, 223.
-- — hymn to, 225.
+  - — two classes of, 223.
+  - — hymn to, 225.
 
 <!-- page: 324 | folio: 302 -->
 - Feles, 24.
 - Felis domesticus, 263.
 - Fergunna, Erzgebirge, 290.
-- — or Fergunnia = Hercynia, 290.
-- — Grimm on, 290.
+  - — or Fergunnia = Hercynia, 290.
+  - — Grimm on, 290.
 - Ferret, 263.
 - Finite, the, impossible without the
 - Infinite, 105.
 - Fiörgyn, feminine deity, genitive
 - Fiörgynior, 290.
-- Fiörgynn, masculine deity, genitive
-- Fiörgyns, 290.
-- — = Par*g*anya, 290.
-- Fire, names for, in Aryan languages,
-- 23, 24.
-- — a terrestrial deity, 176.
-- — its value, 177.
-- — why worshipped, 177, 178.
+- Fiörgynn, masculine deity, genitive Fiörgyns, 290.
+  - — = Par*g*anya, 290.
+- Fire, names for, in Aryan languages, 23, 24.
+  - — a terrestrial deity, 176.
+  - — its value, 177.
+  - — why worshipped, 177, 178.
 - Five nations, the, 96 *note*.
 - Five sacrifices, 229.
 - Focus, 24.
@@ -3167,13 +3155,13 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Galileo, 64, 114.
 - Gaṅgâ, Ganges, 165, 170.
 - Ganges, 122, 140, 165, 168, 170, 171.
-- — water, oaths on the, 51, 53.
-- — and Jumna, sources of, 77.
+  - — water, oaths on the, 51, 53.
+  - — and Jumna, sources of, 77.
 - Garib, the Runner, 169 *note*.
 - Garpugree, 272.
 - Garutmat, 245.
 - *G*âtaka, 12 *note*.
-- — Singhalese translation of, 11 *note*.
+  - — Singhalese translation of, 11 *note*.
 - *G*âtakamâlâ, the, 211, 211 *note*.
 - *G*âtavedas, 65, 226.
 - Gâthâ dialects, 88.
@@ -3181,11 +3169,11 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Gato, gata, Span., 264 *note*.
 - Gatto, gatta, Ital., 264 *note*.
 - *G*âts and Yueh-chi, 86.
-- — Lassen on, 86 *note*.
+  - — Lassen on, 86 *note*.
 - Gautama, 92 *note*.
-- — allows a lie, 70.
+  - — allows a lie, 70.
 - Gâyatrî, wife of Vasu, 145 *note*.
-- — the, 231.
+  - — the, 231.
 - Genesis, Maori, 154, 155.
 - Geology in India, 8.
 - Germany, study of Sanskrit in, 4.
@@ -3195,29 +3183,27 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - the South Pacific, 150, 214.
 - Girnar, 251 *note*.
 - Gods in the Veda, number of, 145.
-- — meaning of, 159.
+  - — meaning of, 159.
 - Gods and goddesses, 147.
 - Goethe’s West-östlicher Divan, 4.
 - Gokulaji, native statesman, 250.
-- — his study of the Vedânta, 250
-- *note*.
+  - — his study of the Vedânta, 250 *note*.
 - Gold treasure found in Bengal, 9.
 - Gomat, 166, 173 *note*, 174 *note*.
 - Gomatî, 166, 173 *note*, 174 *note*.
 - Gonds, the, 49.
 - Gosh*th*î-srâddha, 295.
 - Gothic and Anglo-Saxon, family likeness between, 22.
-- — how explained, 22.
+  - — how explained, 22.
 - Goths or Gothi, 86.
 - Grassmann, translation of Sanskrit
 - words, 164 *note*.
 - Greek coins, 8.
-- — our philosophy is, 20.
-- — alphabet, age of, 202.
-- Greek and Latin, study of, congenial
-- to us, 3.
-- — similarity between, 22.
-- — how explained, 22.
+  - — our philosophy is, 20.
+  - — alphabet, age of, 202.
+- Greek and Latin, study of, congenial to us, 3.
+  - — similarity between, 22.
+  - — how explained, 22.
 - Greeks and Romans, 15, 17, 18.
 - Gregory of Nazianzus, 261.
 - G*ri*hya, or domestic ceremony, 232.
@@ -3243,18 +3229,18 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Hârîta, 93 *note*.
 - Haupt, 28.
 - Heaven and Earth, 149, 162.
-- — Maori legend of, 154, 155.
-- — Vedic legends of, 155, 156.
-- — Greek and Roman legends of, 156, 157.
-- — epithets for, in Veda, 158.
-- — Universal Father and Mother, 159.
-- — were they gods? 159, 160.
+  - — Maori legend of, 154, 155.
+  - — Vedic legends of, 155, 156.
+  - — Greek and Roman legends of, 156, 157.
+  - — epithets for, in Veda, 158.
+  - — Universal Father and Mother, 159.
+  - — were they gods? 159, 160.
 - Heber, on the Hindus, 60.
 - Hebrew religion, foreign influences in, 124.
 - Hehn, on the meaning of *talpa*, 261.
 - Hekatæos, 204 *note*.
 - Helios, 197.
-- — and Sûrya, 182.
+  - — and Sûrya, 182.
 - Hellanikos of Mitylene, 204 *note*.
 - Henotheism, 147.
 - Henotheistic phase of religion, 163.
@@ -3263,7 +3249,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Hermann, Gottfried, 28.
 - Hermes and Sârameya, 183.
 - Herodotus, 204.
-- — on the cat, 263 *note*.
+  - — on the cat, 263 *note*.
 - Hesychius, 173.
 - Hieratic texts, 20.
 - Hieroglyphic texts, 20.
@@ -3271,35 +3257,35 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Himmaleh mountains, 45, 84.
 - Hindhu, 170.
 - Hindu character, testimony of strangers to the, 54–61.
-- — Law of Inheritance, 221 *note*.
+  - — Law of Inheritance, 221 *note*.
 - Hindus, 34.
-- — truthfulness of, 34.
-- — different races all classed by us as one, 37.
-- — Professor Wilson on the, 40.
-- — Mill on the, 42–43.
-- — litigiousness of the, 43.
-- — Sir Thomas Munro on the, 43.
-- — Colonel Sleeman on their truthfulness, 50.
-- — deserve our interest, 116.
+  - — truthfulness of, 34.
+  - — different races all classed by us as one, 37.
+  - — Professor Wilson on the, 40.
+  - — Mill on the, 42–43.
+  - — litigiousness of the, 43.
+  - — Sir Thomas Munro on the, 43.
+  - — Colonel Sleeman on their truthfulness, 50.
+  - — deserve our interest, 116.
 - Hindustani, 37, 76, 82.
 - Hiouen-thsang, 55.
 - Hipparchus, 18.
 - Hira*n*yagarbha, 144, 162.
 - Historian, work of the true, 16.
 - History, study of, almost impossible, 16.
-- — object of knowing, 16, 17.
-- — in its true sense, 26, 27.
-- — of India, Elphinstone's, 59.
+  - — object of knowing, 16, 17.
+  - — in its true sense, 26, 27.
+  - — of India, Elphinstone's, 59.
 - Hitopade*s*a, 5, 9 *note*.
-- — fables of the, 90.
+  - — fables of the, 90.
 - Hiung-nu, the, 278, 279.
 - Homer, 29, 254.
 - Homeric hymns, 119, 121.
-- — Heaven and Earth in the, 156, 157.
+  - — Heaven and Earth in the, 156, 157.
 - Horace, Epistles of, 121.
 - Hottentot river names, 169 *note*.
 - Houghton, 4.
-- — Rev. W., refers to talpae, 261.
+  - — Rev. W., refers to talpae, 261.
 - Human mind, India all-important for the study of the, 14–15.
 - Human character, development of, in India and Europe, 96 *et sq.*, 117.
 - Humboldt, Alexander von, on Kâlidâsa, 90.
@@ -3307,7 +3293,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Hyarotis of Strabo, 172.
 - Hydaspes, 165, 165 *note*, 173.
 - Hydraotes, 165 *note*.
-- — of Arrian, 172.
+  - — of Arrian, 172.
 - Hymn to the Fathers, 225.
 - Hypanis, 172 *note*.
 - Hypasis of Pliny, 172.
@@ -3322,45 +3308,45 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Ijjar, April-May, 138.
 - *Ἴκτις*, 262, 263.
 - India, 32, 33, 34.
-- — its natural wealth, 6.
-- — study of the problems of life in, 6.
-- — of the villages, 7.
-- — of the towns, 7.
-- — full of problems, 7.
-- — geology of, 8.
-- — botany of, 8.
-- — zoology of, 8.
-- — ethnology of, 8.
-- — archæology of, 8.
-- — coins of, 8.
-- — mythology of, 9.
-- — fables of, 9.
-- — and Solomon, 10.
-- — inhabitants of, 12.
-- — conquerors of, 12.
-- — jurisprudence in, 12.
-- — village life in, 13.
-- — study of religion in, 13.
-- — belongs to Europe, 14.
-- — all important for the study of the human mind, 14, 15.
-- — what have we derived from, 21.
-- — a knowledge of, necessary to a liberal education, 29.
-- — ancient literature of, 116.
-- — vast extent of, 122.
-- — from Sindhu, 170.
-- — Chinese account of, in <span class="sc">A.D.</span> 231 and 605, 274, 275, 281.
-- — sends tribute to China, 282.
+  - — its natural wealth, 6.
+  - — study of the problems of life in, 6.
+  - — of the villages, 7.
+  - — of the towns, 7.
+  - — full of problems, 7.
+  - — geology of, 8.
+  - — botany of, 8.
+  - — zoology of, 8.
+  - — ethnology of, 8.
+  - — archæology of, 8.
+  - — coins of, 8.
+  - — mythology of, 9.
+  - — fables of, 9.
+  - — and Solomon, 10.
+  - — inhabitants of, 12.
+  - — conquerors of, 12.
+  - — jurisprudence in, 12.
+  - — village life in, 13.
+  - — study of religion in, 13.
+  - — belongs to Europe, 14.
+  - — all important for the study of the human mind, 14, 15.
+  - — what have we derived from, 21.
+  - — a knowledge of, necessary to a liberal education, 29.
+  - — ancient literature of, 116.
+  - — vast extent of, 122.
+  - — from Sindhu, 170.
+  - — Chinese account of, in <span class="sc">A.D.</span> 231 and 605, 274, 275, 281.
+  - — sends tribute to China, 282.
 - Indian literature, its influence on our inner life, 6.
-- — character transcendent, 105.
-- — philosophy, 244, 249.
+  - — character transcendent, 105.
+  - — philosophy, 244, 249.
 - Indias, two different, 7.
 - Indoi, 170.
 - Indo-Scythians, invasion of the, 85.
 - Indos, 170.
 - Indra, 65, 95, 155, 161, 172 *note*, 179, 183, 189, 195, 199, 252.
-- — name peculiar to India, 182.
+  - — name peculiar to India, 182.
 - Indus, 140, 166 *note*, 170, 171, 173 *note*.
-- — valley of the, 122.
+  - — valley of the, 122.
 - Infinite, the, 105, 107.
 - Ingle, Scotch, 23.
 - Inner life, influence of Indian literature on our, 6.
@@ -3375,12 +3361,12 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Ismenian Apollo, temple of, 203 *note*.
 - Itihâsas, 88.
 - I-tsing, the Chinese traveller, 210.
-- — his account of the Buddhist priests, 211.
+  - — his account of the Buddhist priests, 211.
 - Ivory, 10.
 - Izdubar, or Nimrod, poem of, 138.
 - JEHOVAH, 181.
 - Jewish race, study of, necessary to true study of the Christian religion, 17.
-- — relation of, to the rest of the ancient world, 17.
+  - — relation of, to the rest of the ancient world, 17.
 - Jewish and Semitic, our religion is, 20.
 - Jews, 17.
 - Jilam or Behat, 173.
@@ -3388,14 +3374,14 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Jôbares of Arrian, 171.
 - Jomanes of Pliny, 171.
 - Jones, Sir William, 32, 90, 270.
-- — on the Laws of Manu, 91 *note*.
+  - — on the Laws of Manu, 91 *note*.
 - Joshua’s battle, 182.
 - Judgment of Solomon, 11.
 - Jumna, 165, 168.
 - Junâgadh, 250.
 - Jupiter, 153, 180, 195, 201.
-- — Pluvius, 161.
-- — Dyaus and Zeus, 182.
+  - — Pluvius, 161.
+  - — Dyaus and Zeus, 182.
 - Jurisprudence in India, 12.
 
 <!-- page: 327 | folio: 305 -->
@@ -3407,10 +3393,10 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Kaikeyî, 67.
 - Kâkolûkam, 265.
 - Kâlidâsa, 5, 79.
-- — plays of, 90, 91.
-- — Humboldt on, 90.
-- — date of, 91, 93.
-- — mentioned in an inscription, 91.
+  - — plays of, 90, 91.
+  - — Humboldt on, 90.
+  - — date of, 91, 93.
+  - — mentioned in an inscription, 91.
 - Kalikut, prince of, 56.
 - Kali-Yuga, 293.
 - Kallimachos, 263.
@@ -3422,8 +3408,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - *K*andragupta, 206, 216.
 - Kanishka, the *S*aka king, 87.
 - Kanjur, 11.
-- — story of the women and child in
-- the, 11.
+  - — story of the women and child in the, 11.
 - Kâ*ñk*ana, gold-coloured, 131 *note*.
 - Kant, 6.
 - Karmâ*n*ga-srâddha, 295.
@@ -3483,7 +3468,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Kullûka, 292.
 - Kunene, 169 *note*.
 - Kûrma, 138.
-- — or Tortoise, 288.
+  - — or Tortoise, 288.
 - Kurum, 166, 173 *note*.
 - Kwan, the Emperor, 282.
 - LADAK, the, 173 *note*.
@@ -3498,9 +3483,9 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 <!-- page: 328 | folio: 306 -->
 - Law-books, metrical, 88, 227.
 - Laws of Manu, 12, 91, 92, 142.
-- — date of, 12, 91.
-- — Sir W. Jones on, 91 *note*.
-- — system of caste in the, 95 *note*.
+  - — date of, 12, 91.
+  - — Sir W. Jones on, 91 *note*.
+  - — system of caste in the, 95 *note*.
 - Legends of India and the Jews, coincidences between, 10, 11.
 - Leibniz, 28.
 - Lettic, 190.
@@ -3508,17 +3493,16 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Liberal, the, 80.
 - Life, a journey, 99.
 - Lightning, son of Par*g*anya, 186 *note*.
-- Literature, Sanskrit, 76, 77, 83, 84,
-- 88, 89.
-- — of Greece, 89.
-- — of Rome, 89.
-- — of Germany, 89.
-- — of Buddhism, 89.
+- Literature, Sanskrit, 76, 77, 83, 84, 88, 89.
+  - — of Greece, 89.
+  - — of Rome, 89.
+  - — of Germany, 89.
+  - — of Buddhism, 89.
 - Little Tibet, 280.
 - Lithuania, 190.
 - Lithuanian, 190, 192.
-- — Par*g*anya in, 191.
-- — prayer, 192.
+  - — Par*g*anya in, 191.
+  - — prayer, 192.
 - Lizards and snakes, 262.
 - Logographi, 204.
 - Lost Tribes, the, 139.
@@ -3529,19 +3513,18 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - words, 164 *note*, 166 *note*, 167
 - *note*.
 - Lunar Zodiac, 126, 129.
-- — Stations, 126.
-- — Vedic, 129.
-- — Arabic, 130.
-- — Chinese, 130.
+  - — Stations, 126.
+  - — Vedic, 129.
+  - — Arabic, 130.
+  - — Chinese, 130.
 - MACAULAY'S History, 120.
 - Macedonian coins, 8.
 - Mackenzie, 5.
 - Madhuv*ri*dh, 167 *note*.
 - Madras schools, 62 *note*.
 - Mâgadhî, 78.
-- Mahâbhârata, 59, 70, 71, 88, 90,
-- 142.
-- — still recited in India, 81.
+- Mahâbhârata, 59, 70, 71, 88, 90, 142.
+  - — still recited in India, 81.
 - Mahâbhâshya, the, 265.
 - Mahâlaya, fifteen, 296.
 - Mahâya*gñ*as, the five, 127, 228.
@@ -3562,17 +3545,17 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Manning, Judge, 154.
 - Mantra period, 207.
 - Manu, 5, 222, 266, 291, 292, 293.
-- — Laws of, 12, 47, 91, 92 *note*.
-- — date of, 12, 91.
-- — metrical code of, 92 *note*.
-- — Samhitâ, 92 *note*.
-- — Law-book, 92 *note*.
-- — and the Fish, 134–6.
-- — on the cat, 264.
-- — on Truth, 277.
-- — period, 293.
-- — Haira*n*yagarbha, 292.
-- — rites, fourteen, 296.
+  - — Laws of, 12, 47, 91, 92 *note*.
+  - — date of, 12, 91.
+  - — metrical code of, 92 *note*.
+  - — Samhitâ, 92 *note*.
+  - — Law-book, 92 *note*.
+  - — and the Fish, 134–6.
+  - — on the cat, 264.
+  - — on Truth, 277.
+  - — period, 293.
+  - — Haira*n*yagarbha, 292.
+  - — rites, fourteen, 296.
 - Manus, seven, 293.
 - Manushya sacrifice, 229.
 - Manushyas, mortals, 291.
@@ -3583,25 +3566,24 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Marco Polo, 4, 56.
 - Marî*k*i, 293.
 - Mars, 153.
-- — and the Maruts, 192.
+  - — and the Maruts, 192.
 - Marsden, 5.
 - Marten, 262.
 - Marudv*ri*dhâ, 165, 165 *note*.
-- Maruts, Storm-gods, 95, 145, 180,
-- 181, 185, 189.
-- — and Mars, 182.
+- Maruts, Storm-gods, 95, 145, 180, 181, 185, 189.
+  - — and Mars, 182.
 - Mâtari*s*van, 144, 176, 245.
 - Mâui, son of Ru, 151, 153.
 
 <!-- page: 329 | folio: 307 -->
 - Mâui, legend of, 151, 152.
-- — Potiki, 155.
+  - — Potiki, 155.
 - Meditative side of human nature in
 - India, 101.
 - Meer Sulamut Ali, 57.
 - Megasthenes, 55, 166 *note*, 206, 207.
-- — on Indian village life, 48.
-- — Bejah known to, 172.
+  - — on Indian village life, 48.
+  - — Bejah known to, 172.
 - Mehatnu, 166.
 - Melanippe, 157.
 - ‘Mere names,’ 201.
@@ -3610,19 +3592,19 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - 107.
 - Metaphor, 109.
 - Mill, 77.
-- — History of British India, 42.
-- — view of Indian character, 43.
+  - — History of British India, 42.
+  - — view of Indian character, 43.
 - Mina, 125.
-- — its weight, 125 *note*.
+  - — its weight, 125 *note*.
 - Minerva, 201.
 - Mithradates II, 278.
 - Mitra, 136, 162, 185, 196, 245.
 - Modern Sanskrit literature, 88.
 - Mohammed, 130.
 - Mohammedan coins, 8.
-- — conquerors of India, 54, 56.
-- — sects, number of, 57.
-- — rule, 72.
+  - — conquerors of India, 54, 56.
+  - — sects, number of, 57.
+  - — rule, 72.
 - Moon, the, determines the Vedic
 - seasons, 127, 128.
 - Moral Law, 243.
@@ -3634,8 +3616,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - M*ris*hta, participle of m*rig*, 189.
 - MSS. of Rig-veda, 202.
 - Muir, 5.
-- — translation of Sanskrit words,
-- 166 *note*, 167 *note*.
+  - — translation of Sanskrit words, 166 *note*, 167 *note*.
 - Mummies of cats, 263.
 - Mun*d*a, inhabitants of India, 12.
 - Munis, or *Rishis*, 293.
@@ -3645,14 +3626,13 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Mush, mus, 24.
 - Mussulman conquest of India, 54.
 - Mustela furo, ferret, 263.
-- — foina, or stone-marten, 263, 269.
-- — putorius, polecat, 263.
-- — different sorts of, 264 *note*.
+  - — foina, or stone-marten, 263, 269.
+  - — putorius, polecat, 263.
+  - — different sorts of, 264 *note*.
 - Mustelae, 262.
 - Mustella, 24.
 - Mykenae, 259, 260.
-- — Persian character of treasures
-- found at, 259.
+  - — Persian character of treasures found at, 259.
 - My̆se, Slav., 24.
 - NAIMITTIKA-SRÂDDHA, 294.
 - Nakshatras, the, 27, 126, 128.
@@ -3662,7 +3642,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Nârada, 93 *note*.
 - Native scholars, 63.
 - Nearchus, 207.
-- — on Indian writing, 207.
+  - — on Indian writing, 207.
 - Neko, ‘rat-killer,’ 270.
 - Nerbudda villages, 273.
 - Nerbuddah river, 45.
@@ -3671,17 +3651,16 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - New Testament, Revised Edition,
 - 120.
 - Newspapers, Sanskrit, 79, 80.
-- — in vernaculars, 80.
+  - — in vernaculars, 80.
 - Nine gems, or nine classics, 93.
 - Nineveh, 18.
 - Nirnaya-sindhu, 294.
 - Nitya-*s*râddha, 294.
 - North-West provinces, villages in,
 - 47 *note*.
-- Northern conquerors of India, 86,
-- 87.
-- — Aryans, 96, 100, 102.
-- — mountains, 135.
+- Northern conquerors of India, 86, 87.
+  - — Aryans, 96, 100, 102.
+  - — mountains, 135.
 - Numerals, Pronouns, and Verbs in
 - Sanskrit, Greek, and Latin, 29.
 - Nyx and Naktâ, 182.
@@ -3699,8 +3678,8 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Oude, 170.
 - Ouranos, 195.
 - Oxus, 259.
-- — treasures found on the, 259, 260.
-- — or Kwai-shui, 279.
+  - — treasures found on the, 259, 260.
+  - — or Kwai-shui, 279.
 - PAHLAVI, translation of the Pa*ñ*-*k*atantra, 93.
 - Pâka-sacrifice, 136.
 - Paktys, 170.
@@ -3714,13 +3693,12 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Pân*d*avas, 131 *note*.
 - Pandit, newspaper, 79.
 - Pandits, 40.
-- — Professor Wilson on the, 41.
+  - — Professor Wilson on the, 41.
 - Pâ*n*ini, 211.
-- — on animal enmities, 265,
-- — his derivation of vaidûrya, 267.
+  - — on animal enmities, 265,
+  - — his derivation of vaidûrya, 267.
 - Pa*ñk*atantra, 93.
-- — mention of the cat in the, 264,
-- 265, 266.
+  - — mention of the cat in the, 264, 265, 266.
 - Paṅkti, wife of Vish*n*u, 145 *note*.
 - Papa, Earth, 154.
 - Papúas, 123.
@@ -3730,27 +3708,26 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Paramahansa Sa*kk*idânanda, the
 - anchorite, 251 *note*.
 - Parg, par*g*anya, 189.
-- Par*g*anya, 181, 183, 189, 194, 199,
-- 288, 289.
-- — asura, 184.
-- — hymn to, 186, 187.
-- — who is, 188.
-- — its derivations, 189, 190.
-- — found in Lettic, 190, 191.
-- — and Perûn, 192.
-- — identified by Grimm, 192.
+- Par*g*anya, 181, 183, 189, 194, 199, 288, 289.
+  - — asura, 184.
+  - — hymn to, 186, 187.
+  - — who is, 188.
+  - — its derivations, 189, 190.
+  - — found in Lettic, 190, 191.
+  - — and Perûn, 192.
+  - — identified by Grimm, 192.
 - Par*g*anya, Perkuna, Perun, 193, 194.
 - Par*s*, parsh, 189.
 - Parsu, p*ris*ni, 189.
 - Parthia, 139, 278, 279.
 - Parthian coins, 8.
 - Parush*n*î, 172.
-- — Irâvatî, 165.
+  - — Irâvatî, 165.
 - Pârva*n*a-srâddha, 240, 295.
 - Pâta. twelve, 375.
 - Patalibothra, 206.
 - Pâ*t*aliputra, 170.
-- — =Patna, 55.
+  - — =Patna, 55.
 - Pata*ñg*ali, author of the Mahâbhâshya, 265, 268.
 - Pathyâ, wife of Pûshan, 145 *note*.
 - Patna, 77, 170.
@@ -3771,18 +3748,17 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Perkun-kulke, thunder-bolt, 191
 - *note*.
 - Perkuna, 193, 289.
-- — transition of, into Perunŭ, 289.
-- Perkúnas, Lithuanian god of thunder,
-- 191.
-- — and par*g*anya, 191 *note*.
+  - — transition of, into Perunŭ, 289.
+- Perkúnas, Lithuanian god of thunder, 191.
+  - — and par*g*anya, 191 *note*.
 - Perkuno, 192.
-- — gaisis, storm, 191 *note*.
+  - — gaisis, storm, 191 *note*.
 - Persia, 18, 20, 32, 33, 139.
 - Persian coins, 8.
-- — treasures found on the Oxus, 259.
-- — found at Mykenae, 259.
+  - — treasures found on the Oxus, 259.
+  - — found at Mykenae, 259.
 - Persians, 18.
-- — what we owe the, 19.
+  - — what we owe the, 19.
 - Personification, 109.
 - Perun, 194, 289.
 - Perûn, Old Slavonic, 192.
@@ -3806,13 +3782,13 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Pitkne, Pitcainen, 193 *note*.
 - Pit*ri*-sacrifice, 229.
 - Pit*ri*s, fathers, 220, 222, 237, 291, 292, 293, 294.
-- — of the Brâhma*n*as, 292.
+  - — of the Brâhma*n*as, 292.
 - Pit*ri*yag*ñ*a-sacrifice, 225, 228, 229, 230, 231.
-- — two, 231.
+  - — two, 231.
 - Plato, 6, 254.
-- — Dialogues of, 121.
+  - — Dialogues of, 121.
 - Pliny, on bullion in India, 8 *note*.
-- — Indian rivers known to, 171, 172.
+  - — Indian rivers known to, 171, 172.
 - Poetry, 109.
 - Poland and Lithuania, 191.
 - Polecat, 263.
@@ -3821,7 +3797,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Polykrates of Samos, 205.
 - Polytheism, its meaning, 145.
 - Pompeii, no bones of cats at, 262.
-- — pictures of cats at, 262.
+  - — pictures of cats at, 262.
 - Poseidon, 108.
 - Pota and Kipin, 281.
 - Pr, the root, ferire, 289.
@@ -3829,7 +3805,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Pragâpatis, the, 293.
 - Prâk*ri*t, used in plays, 79.
 - Pramantha, wood rubbed for fire, 176.
-- — and Prometheus, 183.
+  - — and Prometheus, 183.
 - Pratîkas, 251.
 - Prâtisâkhyas, 213.
 - Pratna-Kamra-nandinî, 79.
@@ -3837,27 +3813,27 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Preta, gone away, 220.
 - Primitive state of man, 113, 123.
 - Primitive, Vedic poets not, 123.
-- — Vedic poets are, 124.
+  - — Vedic poets are, 124.
 - Prince Consort, Life of, 120.
 - Prinsep, 5.
 - Prishata, prishatî, 189.
 - Prithivî, 137, 188, 290.
-- — wife of Agni, 145 *note*.
-- — the broad earth, 158.
+  - — wife of Agni, 145 *note*.
+  - — the broad earth, 158.
 - Prometheus, 176.
-- — and pramantha, 183.
+  - — and pramantha, 183.
 - Πρόξ(ω), περκνός, 189.
 - Proto-Aryan language, 25.
 - Prussian, Old, 190.
-- — gods, 192.
+  - — gods, 192.
 - Ptolemy, 18.
-- — Indian rivers known to, 171, 172.
+  - — Indian rivers known to, 171, 172.
 - Pulastya, 292.
 - Pumice-stone, 152, 154.
 - Punjab, 122, 164.
 - Purâ*n*a, 88.
 - Purâ*n*as, 88, 142, 221, 293.
-- — the deluge in the, 133.
+  - — the deluge in the, 133.
 - Pûrvapaksha, 115.
 - Pûrvedyu*h*, 296.
 - Pûshan, 162, 185, 197.
@@ -3866,11 +3842,11 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - QIṬṬ, quṭṭ, Arabic, 270.
 - RAJENDRALÂL Mitra, on Sacrifices, 231.
 - Râma, 67, 68, 69.
-- — and the Brâhman, 68, 69.
+  - — and the Brâhman, 68, 69.
 - Râma Bâvâ, the Vedânti anchorite, 251 *note*.
 - Râmâya*n*a, 67, 88, 90.
-- — plot of the, 67.
-- — still recited in India, 81.
+  - — plot of the, 67.
+  - — still recited in India, 81.
 - Ram Comul Sen, 41.
 - Ramhâ, 166.
 - Ram Mohun Roy, 143 *note*, 249.
@@ -3885,16 +3861,13 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Recitation of the old Epics in India,
 - 81, 102.
 - Religion in India, 13.
-- — we are Jewish and Semitic in
-- our, 20.
-- — and a religion, 106.
-- — the life of the ancient Indians, 108.
-- — of Rome, various ingredients in
-- the, 124.
+  - — we are Jewish and Semitic in our, 20.
+  - — and a religion, 106.
+  - — the life of the ancient Indians, 108.
+  - — of Rome, various ingredients in the, 124.
 - Rémusat on the Goths and Yueh-chi, 86.
-- Renaissance, literary, in India, 85,
-- 90, 93.
-- — age of, 93.
+- Renaissance, literary, in India, 85, 90, 93.
+  - — age of, 93.
 - Rennell, 5.
 - Revised New Testament, 120.
 - Rhys-Davids, Buddhist Birth Stories,
@@ -3902,25 +3875,24 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - *Ribhu* and Orpheus, 183.
 - *Ribhus*, the, 181.
 - Rig-veda, 80, 85, 95.
-- — editions now publishing, 80.
-- — known by heart, 81.
-- — Dayânanda's Introduction to the,
-- 85.
-- — publication of the, 143 *note*.
-- — length of, 208.
-- — handed down by memory, 208.
-- — Max Müller's edition of, 285.
+  - — editions now publishing, 80.
+  - — known by heart, 81.
+  - — Dayânanda's Introduction to the, 85.
+  - — publication of the, 143 *note*.
+  - — length of, 208.
+  - — handed down by memory, 208.
+  - — Max Müller's edition of, 285.
 - Rimmôn, 139.
 - Ringold, first Duke of Lithuania, 190.
 - *Rishi*, 148.
 - *Rishis*, the Vedic, 224.
-- — the seven, 292, 293.
+  - — the seven, 292, 293.
 - *Rita*, 64, 66, 243.
 - *Ritv-ig*, a priest, 127.
 - River systems of Upper India, 168.
 - Rivers, as deities, 163.
-- — hymn to, 164.
-- — in India, their names, 169.
+  - — hymn to, 164.
+  - — in India, their names, 169.
 - Robertson's Historical Disquisitions
 - concerning India, 43.
 - Rolleston, Professor, on cats, 263,
@@ -3929,7 +3901,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Roman, our politics are, 20.
 - Roumanian, no traces of *catus* in, 262.
 - Ru, legend of, 151.
-- — bones of, 152, 154.
+  - — bones of, 152, 154.
 - Rückert's Weisheit des Brahmanen, 4.
 - Rudra, the Howler, 181.
 - Rudras, the, 223.
@@ -3937,18 +3909,18 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - S, pronounced as *h* in Iranic languages, 170.
 - Sacred Books of the East, 280.
 - Sacrifices to the Departed, 227.
-- — various sorts of, 228.
+  - — various sorts of, 228.
 - Sadhârano Brahma Samâj, 143 *note*.
 - Sâdhyas, 292.
 - St. Petersburg Dictionary, 164 *note*,
 - 168 *note*.
 - *Saka* era, 91.
-- — legends, 87.
+  - — legends, 87.
 - Sakakorranos, a coin of Heraos, 281
 - *note*.
 - Sâkamedhâ*h*, 128.
 - *Sakas*, invasion of the, 85.
-- — defeated by Vikramâditya, 90.
+  - — defeated by Vikramâditya, 90.
 - Sâketa, old name of Oude, 170.
 - *Sakuntalâ*, 5, 71, 90, 94.
 - *Sâlivâhana*'s era, 296.
@@ -3963,37 +3935,31 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Sandrocottus, 55.
 - Sâṅkhya philosophy, 84.
 - Sanskrit, 15, 21, 22, 27, 28, 31, 116.
-- — study of, not appreciated in England, 4.
-- — study of, in Germany, 4.
-- — use of studying, 5, 254.
-- — words in the Bible, 10.
-- — its claim on our attention, 22, 30.
-- — its antiquity, 22.
-- — its literature a forgery, 28.
-- — literature, 76, 77, 83, 84, 88.
-- — a dead language, 77, 78.
-- — yet universal in India, 79, 216.
-- — newspapers, 79.
-- — scholars from east and west conversing in, 80.
+  - — study of, not appreciated in England, 4.
+  - — study of, in Germany, 4.
+  - — use of studying, 5, 254.
+  - — words in the Bible, 10.
+  - — its claim on our attention, 22, 30.
+  - — its antiquity, 22.
+  - — its literature a forgery, 28.
+  - — literature, 76, 77, 83, 84, 88.
+  - — a dead language, 77, 78.
+  - — yet universal in India, 79, 216.
+  - — newspapers, 79.
+  - — scholars from east and west conversing in, 80.
 
 <!-- page: 333 | folio: 311 -->
-- Sanskrit texts, number of, 82, 83,
-- 84.
-- — all living Indian languages draw
-- their life from, 82.
-- — grammar, importance of, 82.
-- — attracted the notice of Goethe
-- and Herder, 90.
-- — first known by works of the second
-- period, 90.
-- — of the Vedas, 216.
-- — importance of, 254.
-- — names for village officials, 272
-- *note.*
-- — MSS., 83, 213.
-- — — taken to China, 213.
-- — — not used by students in India,
-- 213.
+- Sanskrit texts, number of, 82, 83, 84.
+  - — all living Indian languages draw their life from, 82.
+  - — grammar, importance of, 82.
+  - — attracted the notice of Goethe and Herder, 90.
+  - — first known by works of the second period, 90.
+  - — of the Vedas, 216.
+  - — importance of, 254.
+  - — names for village officials, 272 *note.*
+  - — MSS., 83, 213.
+    - — — taken to China, 213.
+    - — — not used by students in India, 213.
 - *S*antanu, 185.
 - Santhals, 49.
 - Sapi*nd*ana-srâddha, 294, 295.
@@ -4010,16 +3976,15 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - *S*atapatha Brâhma*n*a, 72, 134,
 - 137.
 - Satya, 64.
-- — Vedic gods are, 64.
-- — or *R*ita, 65 *note.*
+  - — Vedic gods are, 64.
+  - — or *R*ita, 65 *note.*
 - Satyam, a neuter, 65.
 - Satyavâdin, 71.
 - Saurâsh*t*ra, 250.
-- Savage nations, study of the life of,
-- 109.
-- — we only know their modern history, 110.
-- — age of, 110.
-- — laws of marriage among, 110.
+- Savage nations, study of the life of, 109.
+  - — we only know their modern history, 110.
+  - — age of, 110.
+  - — laws of marriage among, 110.
 - Savit*ri*, 162, 197.
 - Saxon, our morality is, 20.
 - Saxons, 15, 17.
@@ -4030,20 +3995,20 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Schopenhauer on the Upanishads,
 - 253.
 - Science of Language, 12.
-- — to be studied in India, 12.
+  - — to be studied in India, 12.
 - Scythian coins, 8.
 - Scythians, invasion of the, 85.
 - Season sacrifices, 127.
 - Seleucus, 55, 206.
 - Self, 74, 104.
-- — the highest, 74, 253.
-- — objective and subjective, 252.
+  - — the highest, 74, 253.
+  - — objective and subjective, 252.
 - Semitic stock, the, 17.
 - Sena. *See* Siddhasena, and *S*rîshe*n*a.
 - Senâ, wife of Indra, 145 *note.*
 - Sens, præsens, 64.
 - Seven Rivers, the, 122, 171.
-- — land of the, 96 *note.*
+  - — land of the, 96 *note.*
 - *Sh*, transition of, into *g*, 189, 189
 - *note.*
 - Shaba*t*u, 139.
@@ -4063,50 +4028,48 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - *S*îlamâvatî, 167 *note.*
 - Silver, relation of, to gold, 19.
 - Sindhu, 164, 167, 170.
-- — meaning of, 170, 171.
-- — Indus, 171.
+  - — meaning of, 170, 171.
+  - — Indus, 171.
 - Sinim, the, 132 *note.*
 - Sîtâ, wife of Râma, 68.
 - Sivan, May–June, 139.
-- Sixty, greatest number of divisions
-- in, 19.
-- — minutes, division of hour into,
-- Babylonian, 18.
+- Sixty, greatest number of divisions in, 19.
+  - — minutes, division of hour into, Babylonian, 18.
 - Sky, eleven gods of the, 145, 244.
-- — Polynesian myth of the, 150–152.
+  - — Polynesian myth of the, 150–152.
 
 <!-- page: 334 | folio: 312 -->
 - Skylax, 170.
 - Sleeman's Rambles, 42, 44–54.
-- — his life in Indian villages, 46.
-- — his view of the moral character of the Hindus, 49.
+  - — his life in Indian villages, 46.
+  - — his view of the moral character of the Hindus, 49.
 - Slokas, 92.
 - Soanos, 166 *note*.
 - Sokrates, 157, 201.
 - Solar myths, 198.
 - Solomon and India, 10.
-- — judgment of, 11.
+  - — judgment of, 11.
 - Soma, 145, 155, 162, 189, 224, 226, 230.
 - Sooth, sat, 64.
 - Southern Aryans, 96, 102.
 - Spinoza, 254.
 - Srâddha, 234, 235, 237–242.
-- — many meanings, 235, 235 *note*, 236.
-- — mitra, 237.
-- — number necessary for the Sapindana, 238.
-- — at birth or marriage, 239.
-- — Colebrooke on, 239.
-- — monthly, 240.
-- — quarrels about, 241.
-- — very early, 241.
+  - — many meanings, 235, 235 *note*, 236.
+  - — mitra, 237.
+  - — number necessary for the Sapindana, 238.
+  - — at birth or marriage, 239.
+  - — Colebrooke on, 239.
+  - — monthly, 240.
+  - — quarrels about, 241.
+  - — very early, 241.
 - Srâddhas or Agapes, 68, 228.
-- — twelve, 294.
-- — where to be performed, 295, 296.
-- — localities favourable and unfavourable for, 295.
-- — number to be performed, 295, 296.
+  - — twelve, 294.
+  - — where to be performed, 295, 296.
+  - — localities favourable and unfavourable for, 295.
+  - — number to be performed, 295, 296.
 - Srauta, or priestly ceremony, 227, 232.
 - Srotriyas, the, 208, 210.
-- — their memory, 208.
+  - — their memory, 208.
 - Stallbaum, 28.
 - Stanley, 64.
 - Stephanites, 266.
@@ -4133,9 +4096,9 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Sutlej, 165.
 - Sûtra period, 207.
 - Sûtras, 88, 90, 211, 221, 228.
-- — legal, 91.
+  - — legal, 91.
 - Sutudrî, Sutlej, 165, 171, 172 *note*.
-- — known to Greeks, 172.
+  - — known to Greeks, 172.
 - Suwan, 166 *note*.
 - Su-we's visit to the Indus, 274.
 - *Svasrigâlam*, 265.
@@ -4168,17 +4131,16 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Thôrr, called Iarđar burr and Fiörgynjar burr, 290.
 - Thracian coins, 8.
 - Three Beyonds, 201, 219, 243.
-- — classes of witnesses, 51.
+  - — classes of witnesses, 51.
 - Thsin dynasty, 131 *note*.
 - Thuggs, Thuggee, 46, 49, 61.
-- Thunder, word for, in Lettish, &c.,
-- 191.
-- — Esthonian prayer to, 193.
+- Thunder, word for, in Lettish, &c., 191.
+  - — Esthonian prayer to, 193.
 - Thunderstorms, 179.
 - Tibetan translation of the Tripi*t*aka,
 - 11.
 - Tien-chu = India, 281.
-- — products of, 281.
+  - — products of, 281.
 - Tîn-yût, 280 *note*.
 - Tishri, September-October, 139.
 - Tochâri, the, 279.
@@ -4198,18 +4160,16 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Tukhâras, 131 *note*.
 - Tumatauenga, God of War, 154.
 - Turanian invasion, 85.
-- — or Northern tribes, 86.
+  - — or Northern tribes, 86.
 - Turnour, 5.
 - Turushkas, invasion of the, 85.
 - Turvîti Vâyya, 181.
-- Two women and child, story of, in
-- the Kanjur, 11.
-- — periods of Sanskrit literature, 84,
-- 87.
+- Two women and child, story of, in the Kanjur, 11.
+  - — periods of Sanskrit literature, 84, 87.
 - Tylor, 109.
 - Tŷr, 146 *note*.
-- — and Tiu, 195.
-- — and Dyaus, 290.
+  - — and Tiu, 195.
+  - — and Dyaus, 290.
 - U*GG*VALADATTA, 189 *note*.
 - Ugnis, Lit., 23.
 - U*n*âdi-sûtras, 266.
@@ -4217,9 +4177,9 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - 1, 2.
 - Untruthfulness of Hindus, 35.
 - Upanishads, 84, 90, 246, 251.
-- — dialogue with Yama in the, 247.
-- — their beauty, 253.
-- — Schopenhauer on, 253.
+  - — dialogue with Yama in the, 247.
+  - — their beauty, 253.
+  - — Schopenhauer on, 253.
 - Upham, 5.
 - Uranos and Varu*n*a, 182.
 - Ûr*n*âvatî, 167 *note*.
@@ -4234,7 +4194,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Vâ*g*inîvatî, 166 *note*.
 - Vai*d*âlya, 267.
 - Vai*d*ûrya, cat's eye, 267.
-- — Pâ*n*ini's derivation of, 268.
+  - — Pâ*n*ini's derivation of, 268.
 - Vaisvadeva offering, 230, 294.
 - Vaisvadevam, 127 *note*.
 - Vaisya, a, 142.
@@ -4242,7 +4202,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Vaitâna Sûtra, 145 *note*.
 - Vaivasvata, 223 *note*.
 - Vâ*k*, wife of Vâta, 145 *note*.
-- — and Vox, 182.
+  - — and Vox, 182.
 - Vâlmîki, the poet, 81.
 - Vana-vi*d*âla, 266.
 - Vans Kennedy on Mill's account of
@@ -4250,10 +4210,9 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Varâha or Boar, 287.
 - Varâhamihira of U*gg*ayinî, 92, 93,
 - 268.
-- Varu*n*a, 136, 162, 164, 185, 195,
-- 196, 199, 245, 291.
-- — and Uranos, 182.
-- — hymns to, 195, 199.
+- Varu*n*a, 136, 162, 164, 185, 195, 196, 199, 245, 291.
+  - — and Uranos, 182.
+  - — hymns to, 195, 199.
 - Varu*n*apraghâsâ*h*, 127 *note*.
 - Vasish*th*a, 65, 74, 122, 292, 293.
 - Vasus, the, 185, 219, 223.
@@ -4262,42 +4221,42 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 <!-- page: 336 | folio: 314 -->
 - Vâyu, or Indra, 148, 186, 189.
 - Veda, 84.
-- — or Knowledge, 88.
-- — shows us the Aryan man, 95, 112, 113.
-- — age of the, 111.
-- — not yet thoroughly studied, 113.
-- — useless, 142.
-- — three religions in the, 217.
-- — highest authority, 250.
-- — importance to us, 254.
-- — seven poets of the, 292.
+  - — or Knowledge, 88.
+  - — shows us the Aryan man, 95, 112, 113.
+  - — age of the, 111.
+  - — not yet thoroughly studied, 113.
+  - — useless, 142.
+  - — three religions in the, 217.
+  - — highest authority, 250.
+  - — importance to us, 254.
+  - — seven poets of the, 292.
 - Vedânta philosophy, 84, 104, 244, 250, 253.
-- — Veda-end, 249.
-- — its present influence, 251.
-- — its beneficial influence, 253.
+  - — Veda-end, 249.
+  - — its present influence, 251.
+  - — its beneficial influence, 253.
 - Vedas, 83, 116.
-- — not written, 212.
+  - — not written, 212.
 - Vedic religion, 89, 97, 108, 118.
-- — — no extraneous influences in the, 124, 121.
-- — — polytheistic or monotheistic, 144.
-- — mythology, 9.
-- — hymns nearly free from mythology, 108.
-- — hymns, age of, 111, 119, 122, 216.
-- — India, 122.
-- — poets, 122.
-- — — the world known to the, 174.
-- — poems, 123.
-- — literature, 89, 94, 97, 112.
-- — — no foreign influences traceable in, 140.
-- — — its age, 207.
-- — — three periods of, 215.
-- — sacrifices, 127.
-- — students how taught, 209.
-- — Sanskrit, 141.
-- — gods, thirty-three, 145.
-- — how classed, 148.
-- — polytheism, 146.
-- — *R*ishis, 149, 160, 292.
+  - — — no extraneous influences in the, 124, 121.
+  - — — polytheistic or monotheistic, 144.
+  - — mythology, 9.
+  - — hymns nearly free from mythology, 108.
+  - — hymns, age of, 111, 119, 122, 216.
+  - — India, 122.
+  - — poets, 122.
+    - — — the world known to the, 174.
+  - — poems, 123.
+  - — literature, 89, 94, 97, 112.
+    - — — no foreign influences traceable in, 140.
+    - — — its age, 207.
+    - — — three periods of, 215.
+  - — sacrifices, 127.
+  - — students how taught, 209.
+  - — Sanskrit, 141.
+  - — gods, thirty-three, 145.
+  - — how classed, 148.
+  - — polytheism, 146.
+  - — *R*ishis, 149, 160, 292.
 - Veluriya and Veruliya, Prâkrit, 267.
 - Venial untruths, 276.
 - Vidâla, cat, 24, 264.
@@ -4306,11 +4265,11 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Vidyodaya, the, 79.
 - Vihâras or Colleges, 8.
 - Vikramâditya Harsha of U*gg*ayinî, 90.
-- — era of, 296.
+  - — era of, 296.
 - Village communities in India, 46, 47, 271.
-- — number of, 47 *note*.
-- — account of, by Col. Sleeman, 47, 48.
-- — morality in, 48, 49.
+  - — number of, 47 *note*.
+  - — account of, by Col. Sleeman, 47, 48.
+  - — morality in, 48, 49.
 - Village life in India, 13.
 - Village officials, Sanskrit names for, 272 *note*.
 - Village servants, 271, 272.
@@ -4335,11 +4294,11 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Ward, 42.
 - Warren, 5.
 - Warren Hastings and the Darics, 8, 9.
-- — on the Hindus, 60.
+  - — on the Hindus, 60.
 - Warriors, 95.
 - Waters, divers gods of the, 145.
 - Weasel, 263.
-- — and woman, 10.
+  - — and woman, 10.
 - Weisheit des Brahmanen, Rückert's, 4.
 - Westermann, 28.
 
@@ -4347,7 +4306,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - West-östlicher Divan, Goethe’s, 4.
 - Wilkins, 5.
 - Wilson, Prof., 5, 39, 46.
-- — on the Hindu character, 40.
+  - — on the Hindu character, 40.
 - Wisula or wisale, O. H. G., 264.
 - Witnesses, three classes of, 51.
 - Wolf, age of Homeric poems, 202.
@@ -4361,19 +4320,18 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Yâg*ñ*avalkya, 74, 92 *note*.
 - Yahweh, worship of, 252 *note*.
 - Yama, 144, 219, 223, 226, 245, 246.
-- — lord of the departed, 67.
-- — as the first man, 224.
-- — dialogue on death, 247.
+  - — lord of the departed, 67.
+  - — as the first man, 224.
+  - — dialogue on death, 247.
 - Yamunâ, Jumna, 165, 171.
 - Yamunâ, known to Greeks, 171.
 - Yâska, 166 *note*, 172 *note*.
-- — division of Vedic gods, 148.
+  - — division of Vedic gods, 148.
 - Yâtrâ-*s*râddha, 295.
 - Yavanas, 131 *note*.
 - Yueh-chi, the, 12, 86, 278–282.
-- — and Goths, 86.
-- — horses, sent to the king of Siam,
-- 274.
+  - — and Goths, 86.
+  - — horses, sent to the king of Siam, 274.
 - Yueh-ti, 278.
 - Yuga, four, 293, 296.
 - Yule, Colonel, 267.
@@ -4381,10 +4339,8 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 - Ζάραδρος or Ζαδάρδης, 172.
 - Zeus, 108, 180, 195, 217.
 - Zeus, Dyaus, and Jupiter, 182.
-- Zimmer, Prof., on polytheism, 146
-- *note*.
-- — translation of Sanskrit words,
-- 166 *note*, 167 *note*.
+- Zimmer, Prof., on polytheism, 146 *note*.
+  - — translation of Sanskrit words, 166 *note*, 167 *note*.
 - Zoology in India, 8.
 - Zoroastrianism, 13.
 
@@ -4398,9 +4354,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 
 ### <span class="sc">Sacred Books of the East</span>
 
-TRANSLATED BY
-
-*VARIOUS ORIENTAL SCHOLARS*
+TRANSLATED BY *VARIOUS ORIENTAL SCHOLARS*
 
 AND EDITED BY
 

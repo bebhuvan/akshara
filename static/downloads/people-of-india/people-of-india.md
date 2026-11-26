@@ -692,7 +692,7 @@ Following Huxley, Flower divides the Caucasians into two groups :—
 
 - (*a*) The Xanthochroi or blonde type, with fair hair, light eyes and fair complexion. They “ chiefly inhabit Northern Europe, but, much mixed with the next type, they extend as far as Northern Africa and Afghanistan.”
 - (*b*) Melanochroi, “ with black hair and eyes, and skin of almost all shades from white to black.” Flower includes in this group not only the great majority of the inhabitants of Southern Europe, Northern Africa, and South-West Asia, consisting mainly of the Aryan, Semitic, and Hamitic families, but also the Dravidians of India, and the Veddahs of Ceylon.
-Here we are confronted at once with the drawbacks which attend all attempts at systematic arrangement. It is difficult not to distrust a classification which brings together in the same category people of such widely different appearance, history, and traditions as the modern Greeks and Italians, and the black, broad-nosed Dravidians of Central and Southern India. Peschel’s arrangement seems to be in closer accordance with the facts established by recent observations. He divides the Caucasian type into (*a*) Indo-Germans, (*b*) Semites, (*c*) Hamites or Berbers, and includes the “ Hindus ” (nonDravidian [p. 25] Indians) in the first of these groups. The Dravidians are classed with Sinhalese and Veddahs as people of uncertain origin. Huxley treats them as Australoid.
+Here we are confronted at once with the drawbacks which attend all attempts at systematic arrangement. It is difficult not to distrust a classification which brings together in the same category people of such widely different appearance, history, and traditions as the modern Greeks and Italians, and the black, broad-nosed Dravidians of Central and Southern India. Peschel’s arrangement seems to be in closer accordance with the facts established by recent observations. He divides the Caucasian type into (*a*) Indo-Germans, (*b*) Semites, (*c*) Hamites or Berbers, and includes the “ Hindus ” (non-Dravidian [p. 25] Indians) in the first of these groups. The Dravidians are classed with Sinhalese and Veddahs as people of uncertain origin. Huxley treats them as Australoid.
 
 > _[Margin: Their application to India.]_
 > _[Margin: Conditions favourable to anthropometry.]_
@@ -942,33 +942,33 @@ These are the historical data. Scanty as they are, they serve to establish the f
 ### Notes
 
 [^sec-08-fn-001]: (*) Professor Huxley’s comparison of the shape of India to “the diamond on a pack of cards, having a north angle at Ladakh, a south angle at Cape Comorin, a west angle near the mouth of the Indus, and an east angle near that of the Ganges,” is possibly more accurate than that adopted in the text. It brings out the great projections of the Punjab and Kashmir towards the north and the long straight line of frontier which forms the north-western side of the diamond. On the whole, however, the triangular aspect seems to catch the eye more as one looks at a map and is thus better suited for descriptive purposes. Huxley’s description is to be found in the first volume of the Journal of the Ethnological Society of London. His simile is curiously analogous to the “rhomboid” of Eratosthenes and other Greek geographers.
-[^sec-08-fn-002]: (*) [<sup>*</sup> The geographical isolation of India has probably been overestimated (V. A. Smith, *History of Fine Art in India and Ceylon*, 1911, p. 377). Commercial intercourse with the Tigris-Euphrates valley was active during the period 700-300 <span class="sc">b.c.</span> (J. Kennedy, “The Early Commerce of Babylon with India,” *Journal Royal Asiatic Society*, 1908, pp. 241-88). At the close of the 1st century <span class="sc">a.d.</span>, white slaves were imported into Western India, and the trade in Abyssinian slaves has left evidence of negro blood among some castes in the same region (*Periplus Maris Erythraei*, ch. 49 ; *Bombay Gazetteer*, xi., 1883, p. 433 n.).]
+[^sec-08-fn-002]: (*) [The geographical isolation of India has probably been overestimated (V. A. Smith, *History of Fine Art in India and Ceylon*, 1911, p. 377). Commercial intercourse with the Tigris-Euphrates valley was active during the period 700-300 <span class="sc">b.c.</span> (J. Kennedy, “The Early Commerce of Babylon with India,” *Journal Royal Asiatic Society*, 1908, pp. 241-88). At the close of the 1st century <span class="sc">a.d.</span>, white slaves were imported into Western India, and the trade in Abyssinian slaves has left evidence of negro blood among some castes in the same region (*Periplus Maris Erythraei*, ch. 49 ; *Bombay Gazetteer*, xi., 1883, p. 433 n.).]
 [^sec-08-fn-003]: (*) In an instructive paper recently published Professor Kabbadias, Director of Antiquities in Greece, shows that in pre-historic times fortified towns occupied the place taken in other countries by pile-dwellings, *Man*, Decr., 1904, No. 112.
-[^sec-08-fn-004]: (*) [<sup>*</sup> For an illustration of this relief see F. C. Maisey, *Sanchi and its Remains*, 1892, Plate ix, Fig. 1. The value of this relief, from the point of view of anthropology, has been disputed (*Census Report, Punjab*, 1911, vol. i., p. 400).]
-[^sec-08-fn-005]: (*) [<sup>*</sup> Professor A. A. Macdonell points out that “the first impulse to the study of Sanskrit was given by the practical administrative needs of our Indian possessions. Warren Hastings, at that time Governor-General, clearly seeing the advantage of ruling the Hindus as far as possible according to their own laws and customs, caused a number of Brahmans to prepare a digest based on the best ancient legal authorities. An English version of this Sanskrit compilation, made through the medium of a Persian translation, was published in 1776.” (*A History of Sanskrit Literature*, 1900, p. 2.)]
-[^sec-08-fn-006]: (*) [<sup>*</sup> “So full of consonants are Tibetan words that most of them could be articulated with almost semi-closed mouth, evidently from the enforced necessity to keep the lips closed as far as possible against the cutting cold when speaking” (L. A. Waddell, *Lhasa and its Mysteries*, 3rd ed., 1906, p. 144).]
+[^sec-08-fn-004]: (*) [For an illustration of this relief see F. C. Maisey, *Sanchi and its Remains*, 1892, Plate ix, Fig. 1. The value of this relief, from the point of view of anthropology, has been disputed (*Census Report, Punjab*, 1911, vol. i., p. 400).]
+[^sec-08-fn-005]: (*) [Professor A. A. Macdonell points out that “the first impulse to the study of Sanskrit was given by the practical administrative needs of our Indian possessions. Warren Hastings, at that time Governor-General, clearly seeing the advantage of ruling the Hindus as far as possible according to their own laws and customs, caused a number of Brahmans to prepare a digest based on the best ancient legal authorities. An English version of this Sanskrit compilation, made through the medium of a Persian translation, was published in 1776.” (*A History of Sanskrit Literature*, 1900, p. 2.)]
+[^sec-08-fn-006]: (*) [“So full of consonants are Tibetan words that most of them could be articulated with almost semi-closed mouth, evidently from the enforced necessity to keep the lips closed as far as possible against the cutting cold when speaking” (L. A. Waddell, *Lhasa and its Mysteries*, 3rd ed., 1906, p. 144).]
 [^sec-08-fn-007]: (*) *Transactions of the Royal Society of Edinburgh*, Vol. XL. Pars I. (No. 6).
 [^sec-08-fn-008]: (*) Nesfield's *Brief View of the Caste System of the North-West Provinces and Oudh.*
 [^sec-08-fn-009]: (*) J. A. I., XX, 235.
 [^sec-08-fn-010]: (†) “Contributions to the Craniology of the People of the Empire of India.” *Transactions of the Royal Society of Edinburgh*, Vol. XXXIX., Part III. (No. 28) ; Vol. XL., Part I. (No. 6).
 [^sec-08-fn-011]: (‡) *Journal of Anatomy and Physiology*, Vol. XXVII., p. 20.
-[^sec-08-fn-012]: (*) [<sup>*</sup> *Journal Asiatic Society, Bengal*, Vol. LXV., Part III., 1901, p. 59 *et seq. Journal Anthropological Institute*, Vol. XXXII., 1902, p. 96 *et seq.*]
+[^sec-08-fn-012]: (*) [*Journal Asiatic Society, Bengal*, Vol. LXV., Part III., 1901, p. 59 *et seq. Journal Anthropological Institute*, Vol. XXXII., 1902, p. 96 *et seq.*]
 [^sec-08-fn-013]: (†) J. A. S. B., Vol. LXIX., Part III., 1900.
-[^sec-08-fn-014]: (*) [<sup>*</sup> For the physical characteristics of the Semang, see W. W. Skeat, C. O. Blagden, *The Pagan Races of the Malay Peninsula*, 1906, Vol. I., p. 19 *et seq.*]
+[^sec-08-fn-014]: (*) [For the physical characteristics of the Semang, see W. W. Skeat, C. O. Blagden, *The Pagan Races of the Malay Peninsula*, 1906, Vol. I., p. 19 *et seq.*]
 [^sec-08-fn-015]: (*) An effective parallel might be drawn between the predatory invasions of the Rajputs and the settlements effected by the Normans in Sicily, Southern Italy and Greece. Both sets of movements arose from similar impulses, both have left unmistakable traces behind, and both ended in the comparative absorption of the conquering race.
 [^sec-08-fn-016]: (*) L'Anthropologie, IX., 407. *Mémoire sur les Huns blancs.*
 [^sec-08-fn-017]: (*) J. A. S. B., Vol. LXIX., Part III., 190. [Major A. Playfair, *The Garos*, 1909, pp. 18 *et seq.*]
 [^sec-08-fn-018]: (*) Ripley. *The Races of Europe*, p. 45.
-[^sec-08-fn-019]: (*) [<sup>*</sup> In M. Martin, *Eastern India*, iii., 1838, p. 538, *et seq.*]
-[^sec-08-fn-020]: (*) [<sup>*</sup> *Castes and Tribes of Southern India*, 1909, vol. i., Intro., p. xxxvii, *et seq.*]
+[^sec-08-fn-019]: (*) [In M. Martin, *Eastern India*, iii., 1838, p. 538, *et seq.*]
+[^sec-08-fn-020]: (*) [*Castes and Tribes of Southern India*, 1909, vol. i., Intro., p. xxxvii, *et seq.*]
 [^sec-08-fn-021]: (*) *J. R. A. S.*, XVI., 172–200.
 [^sec-08-fn-022]: (†) Zimmer, *Altindisches Leben*, pp. 15 and 101.
 [^sec-08-fn-023]: (*) *Quart. Jour. Geol. Soc.*, XXIX. (1873).
 [^sec-08-fn-024]: (†) *Mem. Geol. Survey of India*, XXXI., Pt. 2.
 [^sec-08-fn-025]: (*) *Explorations in Turkestan, with an Account of the Basin of Eastern Persia and Seistan.* Expedition of 1903, under the direction of Raphael Pumpelly ; Washington, 1905.
-[^sec-08-fn-026]: (*) [<sup>*</sup> See his “The Pulse of Asia,” 1907, chap. xvi., p. 315, *et seq.* In a lecture delivered by Professor J. W. Gregory to the Royal Geographical Society on December 8, 1913 (*The Times*, December 9, 1913), after a survey of the conditions in Africa, Asia, and America, he observed that, owing to the varied nature of the evidence to be considered, the extensive and scattered literature whence much of that evidence had to be gleaned, and the contradictory opinions expressed by high authorities, the problem whether the earth was drying up was hedged about with difficulties. Archæological and historical evidence showed that Central Asia and even the coasts of Persia and Baluchistan had a very arid climate in the earliest times of which we had human record. Though it must be admitted that, while there was a strong balance of opinion in favour of the view that aridity was being still increased, there were weighty authorities on the other side.]
+[^sec-08-fn-026]: (*) [See his “The Pulse of Asia,” 1907, chap. xvi., p. 315, *et seq.* In a lecture delivered by Professor J. W. Gregory to the Royal Geographical Society on December 8, 1913 (*The Times*, December 9, 1913), after a survey of the conditions in Africa, Asia, and America, he observed that, owing to the varied nature of the evidence to be considered, the extensive and scattered literature whence much of that evidence had to be gleaned, and the contradictory opinions expressed by high authorities, the problem whether the earth was drying up was hedged about with difficulties. Archæological and historical evidence showed that Central Asia and even the coasts of Persia and Baluchistan had a very arid climate in the earliest times of which we had human record. Though it must be admitted that, while there was a strong balance of opinion in favour of the view that aridity was being still increased, there were weighty authorities on the other side.]
 [^sec-08-fn-027]: (*) Mr. Romesh Chandra Dutt, <span class="sc">C.I.E.</span>, pointed out long ago that “aboriginal blood enters largely in [*sic*] the existing Brahman community of Bengal.” *Calcutta Review*, LXXV., p. 238.
-[^sec-08-fn-028]: (*) [<sup>*</sup> The account in the text of the Scythians and Huns needs to be corrected. The facts have been carefully collected by V. A. Smith, *Early History of India*, 3rd ed., 1914, [p. 60] p. 248 *et seq.* ; and for the Scythians, by E. W. Minns, *Scythians and Greeks*, 1913, *Encyclopædia Britannica*, 11th ed., 1911, vol. xxiv. p. 526 *et seq.* For the Huns, see Sir C. Eliot, *Ency. Brit.*, vol. xiii. p. 932 *et seq.* Mr. V. A. Smith, who has kindly read the account in the text, remarks that there is no evidence that the Sakas came from regions exclusively occupied by broad-headed races ; that the Chinese did not designate *all* Scythians as Ssē, this title being apparently confined to the tribes on the Jaxartes ; that Sillis, unless it represents a form of Syr-darya, has not been traced as a name for the Jaxartes ; that the account by Herodotus cannot be extended to the Saka ; that the Indians, not the Saka, were included in the twentieth Satrapy of the Persian Empire ; that there is no authority for including Arachosia and Drangiana in Sakastān ; the date and course of the invasion of the Panjab are uncertain ; the evidence of the Behistun figures does not settle the ethnological problem ; Kushān was not a dynastic title ; Kitolo was chief of the Little, not the Great Kushāns ; Peshawar was the capital of Gandhāra ages before the Saka invasion ; there is no evidence that the Kushāns retreated before the Ephthalites into Chitrāl or Gilgit ; the reign of Skanda Gupta extended from about 455 to 480 <span class="sc">A.D.</span> ; there is no ground for identifying Laelih with Lakhan Udayaditya, nor was Toramāna son of the latter.]
+[^sec-08-fn-028]: (*) [The account in the text of the Scythians and Huns needs to be corrected. The facts have been carefully collected by V. A. Smith, *Early History of India*, 3rd ed., 1914, [p. 60] p. 248 *et seq.* ; and for the Scythians, by E. W. Minns, *Scythians and Greeks*, 1913, *Encyclopædia Britannica*, 11th ed., 1911, vol. xxiv. p. 526 *et seq.* For the Huns, see Sir C. Eliot, *Ency. Brit.*, vol. xiii. p. 932 *et seq.* Mr. V. A. Smith, who has kindly read the account in the text, remarks that there is no evidence that the Sakas came from regions exclusively occupied by broad-headed races ; that the Chinese did not designate *all* Scythians as Ssē, this title being apparently confined to the tribes on the Jaxartes ; that Sillis, unless it represents a form of Syr-darya, has not been traced as a name for the Jaxartes ; that the account by Herodotus cannot be extended to the Saka ; that the Indians, not the Saka, were included in the twentieth Satrapy of the Persian Empire ; that there is no authority for including Arachosia and Drangiana in Sakastān ; the date and course of the invasion of the Panjab are uncertain ; the evidence of the Behistun figures does not settle the ethnological problem ; Kushān was not a dynastic title ; Kitolo was chief of the Little, not the Great Kushāns ; Peshawar was the capital of Gandhāra ages before the Saka invasion ; there is no evidence that the Kushāns retreated before the Ephthalites into Chitrāl or Gilgit ; the reign of Skanda Gupta extended from about 455 to 480 <span class="sc">A.D.</span> ; there is no ground for identifying Laelih with Lakhan Udayaditya, nor was Toramāna son of the latter.]
 
 
 ## Chapter II: Social Types
@@ -1365,10 +1365,10 @@ The three Muhammadan maps—Jolāha, Pathān and Saiyad— are of interest for t
 
 ### Notes
 
-[^sec-09-fn-001]: (*) [<sup>*</sup> For a photograph of the Meriah sacrifice post in the Madras Museum, see E. Thurston, *Tribes and Castes of Southern India*, 1909, vol. iii. p. 377 : for details of this rite, Sir J. G. Fraser, *The Golden Bough*, 3rd ed. pt. v., 1912, p. 245 *et seq.*]
-[^sec-09-fn-002]: (*) [<sup>*</sup> Instances of totemism among the tribes of Assam are recorded by Major A. Playfair, *The Garos*, 1909, p. 64 *et seq.*, and by S. Endle, *The Kacháris*, 1911, p. 24 *et seq.* Among the Khāsis the evidence is doubtful, Major P. R. Gurdon, *The Khasis*, 1907, p. 66. Also in Sir J. G. Frazer, *Totemism and Exogamy*, 1910, vol. ii. p. 318 *et seq.* ; iv. p. 295 *et seq.*]
-[^sec-09-fn-003]: (†) [<sup>†</sup> Risley, *Tribes and Castes of Bengal*, vol. ii. App. i. p. 31 *et seq.*]
-[^sec-09-fn-004]: (‡) [<sup>‡</sup> *Census Report, Baluchistan*, 1901, vol. i. p. 119 *et seq.*]
+[^sec-09-fn-001]: (*) [For a photograph of the Meriah sacrifice post in the Madras Museum, see E. Thurston, *Tribes and Castes of Southern India*, 1909, vol. iii. p. 377 : for details of this rite, Sir J. G. Fraser, *The Golden Bough*, 3rd ed. pt. v., 1912, p. 245 *et seq.*]
+[^sec-09-fn-002]: (*) [Instances of totemism among the tribes of Assam are recorded by Major A. Playfair, *The Garos*, 1909, p. 64 *et seq.*, and by S. Endle, *The Kacháris*, 1911, p. 24 *et seq.* Among the Khāsis the evidence is doubtful, Major P. R. Gurdon, *The Khasis*, 1907, p. 66. Also in Sir J. G. Frazer, *Totemism and Exogamy*, 1910, vol. ii. p. 318 *et seq.* ; iv. p. 295 *et seq.*]
+[^sec-09-fn-003]: (†) [Risley, *Tribes and Castes of Bengal*, vol. ii. App. i. p. 31 *et seq.*]
+[^sec-09-fn-004]: (‡) [*Census Report, Baluchistan*, 1901, vol. i. p. 119 *et seq.*]
 [^sec-09-fn-005]: (*) Skeat, *Etymological Dictionary, s.v.* “Smith.” [“The relations of the stem are doubtful. The original stem was *app.* craftsman, skilled worker, in metal, wood, or other material, and this general sense remains in Icelandic,” *New English Dictionary, s.v.*]
 [^sec-09-fn-006]: (*) [E. T. Dalton, *Descriptive Ethnology of Bengal*, 1872, p. 165 *et seq.*]
 [^sec-09-fn-007]: (*) [*Census Report, Bengal*, 1901, vol i. p. 486.]
@@ -1395,11 +1395,11 @@ The three Muhammadan maps—Jolāha, Pathān and Saiyad— are of interest for t
 [^sec-09-fn-028]: (‡) [*Census Report, Baroda*, 1901, vol. i., p. 491.]
 [^sec-09-fn-029]: (*) [For Kandh totemism, see J. E. Friend-Pareira, *Totemism among the Khonds*, *Journal Asiatic Society, Bengal*, vol. lxxiii., part iii., 1905, p. 40 *et seq.*]
 [^sec-09-fn-030]: (*) Muir, *Original Sanskrit Texts*, IV. p. 872.
-[^sec-09-fn-031]: (*) [<sup>*</sup> *Ethnographic Survey, Bombay*, No. 134, 1909, pp. 1, 12 ; *Census Report, Bombay*, 1911, vol. i, p. 269.]
-[^sec-09-fn-032]: (†) [<sup>†</sup> *Bombay Census Report*, 1911, vol. i., p. 263.]
-[^sec-09-fn-033]: (‡) [<sup>‡</sup> *Ethnographic Survey, Bombay*, No. 12, 1904, p. 2 *et seq.*]
-[^sec-09-fn-034]: (*) [<sup>*</sup> *Census Report, Central India*, 1901, p. 198 *et seq.*]
-[^sec-09-fn-035]: (*) [<sup>*</sup> *Census Report, Central Provinces*, 1901, vol. i. p. 189 *et seq.*]
+[^sec-09-fn-031]: (*) [*Ethnographic Survey, Bombay*, No. 134, 1909, pp. 1, 12 ; *Census Report, Bombay*, 1911, vol. i, p. 269.]
+[^sec-09-fn-032]: (†) [*Bombay Census Report*, 1911, vol. i., p. 263.]
+[^sec-09-fn-033]: (‡) [*Ethnographic Survey, Bombay*, No. 12, 1904, p. 2 *et seq.*]
+[^sec-09-fn-034]: (*) [*Census Report, Central India*, 1901, p. 198 *et seq.*]
+[^sec-09-fn-035]: (*) [*Census Report, Central Provinces*, 1901, vol. i. p. 189 *et seq.*]
 [^sec-09-fn-036]: (*) [Much further information on totemism in Madras will be found in E. Thurston’s, *Castes and Tribes of Southern India*, 1909, *passim* : L. K. Anantha Krishna Iyer, *Cochin Tribes and Castes*, vols. i., ii. 1909–12.]
 [^sec-09-fn-037]: (†) [See note p. 64 *supra*. Mr. J. McSwiney has not been able to discover any trace of totemistic exogamous clans, in the proper sense, in Assam ; *i.e.*, though such sections may have the names of animate or material objects, there does not seem to be any reverence felt for the supposed ancestor. A possible exception is the Jyrwa Nongsiet clan in the west of the Khasi Hills, which believes that its ancestors sprang from a bamboo plant, and in deference to this belief, the members refuse to eat the small green shoots of the bamboo which are the common food of the neighbouring clans (*Census Report, Assam*, 1911, vol. i. p. 72). Elsewhere the evidence for the existence of totemism seems to be lacking or doubtful, E. Stack, *The Mikirs*, 1908, p. 15 *et seq.* : T. C. Hodson, *The Meitheis*, 1908, p. 55 *et seq.*, 118 : Id. *The Nāga Tribes of Manipur*, 1911, p. 71 *et seq.* : Lieut.-Col. J. Shakespear, *The Lushei Kuki Clans*, 1912, p. 42).]
 [^sec-09-fn-038]: (*) *Fortnightly Review*, N. S., LXV, pp. 647–665, 835–852 ; [*Totemism and Exogamy*, 1910, vol. i, p. 91 *et seq*.].
@@ -1957,9 +1957,9 @@ The Mysore Government points to the increase of aged [p. 201] widowers in the re
 
 The Early Marriage Prevention Act passed by the State of Baroda in July, 1904, is designed, as appears from the preamble, “to draw the increased attention of the public towards physical training, whereby the future progeny may be healthy and long-lived.” It defines a minor girl as one who has not completed her twelfth year, and a minor boy as one who has not completed his sixteenth year. If the guardians of a minor girl, whose age is above nine, desire to get her married, they must apply to a tribunal consisting of the local sub-judge and three assessors of the petitioners’ caste. If the tribunal is satisfied that in the event of the marriage not taking place on the date proposed, it will probably not take place at all or not within one year of the bride attaining her majority, or that the parents and guardians of the girl are not likely, owing to old age and infirmity, to survive until she comes of age, and that she has no other guardian, or that inevitable difficulties of a similar nature are likely to occur, they may grant permission for the marriage to take place. If the sub-judge disagrees with the assessors, the case is referred to the district judge, whose decision appears to be final. The following comments on the working of the Act appear in the Baroda Administration Report for 1904–5:—
 
-> _[Margin: Its practical working.]_
-
 “People living outside the limits of this State have an inadequate conception of the degree to which public opinion influences legislation in Baroda. The utmost consideration is shown to such opinion ; and His Highness the Mahārāja consented to reduce the limit of age for the marriage of girls from 14 to 12 in deference to the popular wish. Other modifications [p. 202] were also made in the original Bill, so as to make it less obnoxious to orthodox communities.
+
+> _[Margin: Its practical working.]_
 
 “*Results of the Early Marriage Prevention Act.*—It is now over a year since the Act for the Prevention of Early Marriages came into operation, and it would not be without interest to take stock of the results achieved during this first year of its operation. That freedom to contract marriages within the prohibited limits of age, with the permission of the Civil Courts, has been freely availed of, would appear from the fact that no less than 695 applications were presented for such license ; and the circumstance that such permission was accorded to 68 per cent. of such petitions, shows a liberal and sympathetic solicitude on the part of the Courts for the religious and social susceptibilities of the people. Some leniency was desirable in the first year of the execution of this law, to which the people had not been accustomed. At the same time it was necessary to enforce the new law, so that it might not be regarded as a dead letter ; and 718 offenders were punished with fines, in sums ranging from one rupee to twenty-five rupees, during the year in the whole State. Seventy-eight per cent. of the fines inflicted under this Act fell below five rupees, and only four per cent. exceeded ten rupees. No better proof can be afforded of the indulgence with which offences against this special enactment have been dealt with.
 
@@ -2068,46 +2068,46 @@ Whatever may be the case in Bengal, the following extract from the recently publ
 [^sec-11-fn-002]: (*) The position of most of these ancient territorial divisions is now fairly well known. Amongst recent writers on the subject may be mentioned Mr. Pargiter, late of the Indian Civil Service, and Mahāmahopādhyāya Hāra Prasād Sāstri.
 [^sec-11-fn-003]: (*) See p. 118, *supra*.
 [^sec-11-fn-004]: (*) *J. A. S. B.*, Vol. I., No. 10, 1905.
-[^sec-11-fn-005]: (*) [<sup>*</sup> T. C. Hodson, *The Nāga Tribes of Manipur*, 1911, p. 71.]
-[^sec-11-fn-006]: (*) [<sup>*</sup> In Southern India cousin marriage is common (W. H. R. Rivers, “The Marriage of cousins in India,” *Journal Royal Asiatic Society*, July, 1907, p. 611 *et seq.*). “It is a prevalent custom throughout Southern India that a girl’s father’s sister’s son has the first right to her hand in marriage. The Malayālam word for son-in-law (*maru makan*) means nephew. If a stranger should marry a girl, he is also called nephew. But the unmarried nephew, having the first admitted right to the girl, must be paid eight annas, or two fanams, before he will allow her to be taken away” (E. Thurston, *Castes and Tribes of Southern India*, 1909, vol. vii., p. 60 ; cf. J. G. Frazer, *Totemism and Exogamy*, 1910, vol. ii., p. 331 *et seq.* ; *Census Report, Central Provinces*, 1911, vol. i., p. 134). For cross-cousin marriage among Muhammadans in Northern India, see *Census Report, Kashmir*, 1911, vol. i., p. 139.]
+[^sec-11-fn-005]: (*) [T. C. Hodson, *The Nāga Tribes of Manipur*, 1911, p. 71.]
+[^sec-11-fn-006]: (*) [In Southern India cousin marriage is common (W. H. R. Rivers, “The Marriage of cousins in India,” *Journal Royal Asiatic Society*, July, 1907, p. 611 *et seq.*). “It is a prevalent custom throughout Southern India that a girl’s father’s sister’s son has the first right to her hand in marriage. The Malayālam word for son-in-law (*maru makan*) means nephew. If a stranger should marry a girl, he is also called nephew. But the unmarried nephew, having the first admitted right to the girl, must be paid eight annas, or two fanams, before he will allow her to be taken away” (E. Thurston, *Castes and Tribes of Southern India*, 1909, vol. vii., p. 60 ; cf. J. G. Frazer, *Totemism and Exogamy*, 1910, vol. ii., p. 331 *et seq.* ; *Census Report, Central Provinces*, 1911, vol. i., p. 134). For cross-cousin marriage among Muhammadans in Northern India, see *Census Report, Kashmir*, 1911, vol. i., p. 139.]
 [^sec-11-fn-007]: (*) This is what the term was intended by its inventor to mean. He alone is responsible for the etymology. [Sir D. Ibbetson, *Census Report, Punjab*, 1881, vol. i., p. 356.]
-[^sec-11-fn-008]: (†) [<sup>†</sup> Manu, *Laws*, iii., 12-13, ix. 85-87, with the references quoted by G. Bühler, *Sacred Book of the East*, xxv., 1886, pp. 77, 342. A. A. Macdonell, A. H. Keith, *Vedic Index of Names and Subjects*, 1913, i. 476.]
-[^sec-11-fn-009]: (*) [<sup>*</sup> This restriction is now being relaxed, *Ethnological Survey, Central Provinces*, Part IX., 1911, p. 127.]
-[^sec-11-fn-010]: (*) [<sup>*</sup> A. A. Macdonell, *A History of Sanskrit Literature*, 1900, p. 163. An interesting attempt by the poorer classes in Western India to obviate the difficulty, under the system of hypergamy, of finding husbands for their daughters, is reported among the Kunbīs. Groups of villages have been formed, the residents of which refuse to marry their girls to the wealthier residents in towns. (*Census Reports, Baroda*, 1911, vol. i., p. 136 *et seq.* ; *Bombay*, 1911, vol. i., pp. 118 *et seq.*, 200 *et seq.*, 280.) A similar revolt against hypergamy is reported among the Khatrīs and the Brāhmans, who serve them, in the Panjab (H. A. Rose, *Glossary of the Tribes and Castes of the Punjab and North-Western Province*, 1911, vol. ii., pp. 126, 514).]
+[^sec-11-fn-008]: (†) [Manu, *Laws*, iii., 12-13, ix. 85-87, with the references quoted by G. Bühler, *Sacred Book of the East*, xxv., 1886, pp. 77, 342. A. A. Macdonell, A. H. Keith, *Vedic Index of Names and Subjects*, 1913, i. 476.]
+[^sec-11-fn-009]: (*) [This restriction is now being relaxed, *Ethnological Survey, Central Provinces*, Part IX., 1911, p. 127.]
+[^sec-11-fn-010]: (*) [A. A. Macdonell, *A History of Sanskrit Literature*, 1900, p. 163. An interesting attempt by the poorer classes in Western India to obviate the difficulty, under the system of hypergamy, of finding husbands for their daughters, is reported among the Kunbīs. Groups of villages have been formed, the residents of which refuse to marry their girls to the wealthier residents in towns. (*Census Reports, Baroda*, 1911, vol. i., p. 136 *et seq.* ; *Bombay*, 1911, vol. i., pp. 118 *et seq.*, 200 *et seq.*, 280.) A similar revolt against hypergamy is reported among the Khatrīs and the Brāhmans, who serve them, in the Panjab (H. A. Rose, *Glossary of the Tribes and Castes of the Punjab and North-Western Province*, 1911, vol. ii., pp. 126, 514).]
 [^sec-11-fn-011]: (*) *The Brahmans and Kayasthas of Bengal*, by Babu Girindranath Dutt, <span class="sc">B.A., M.R.A.S., M.S.A.</span>, Madras, 1906 [for recent instances of Kulin polygamy see *Census Report, Bengal*, 1911, vol. i., p. 327].
-[^sec-11-fn-012]: (*) [<sup>*</sup> “Educational qualifications put up the price of a bridegroom, not so much because of any belief in education as an advantage *per se*, but because the bridegroom is more likely to get remunerative employment. The possession of a degree may even change the whole situation and cause a bridegroom-price to be paid instead of a bride-price.” Instances are given of the monstrous demands made by the parents of sons thus qualified. (*Census Report, Bengal*, 1911, vol. i., p. 316.)]
-[^sec-11-fn-013]: (*) [<sup>*</sup> S. C. Macpherson, *Memorials of Service in India*, 1865, p. 132 *et seq.* The superstition reported from Bengal, that one of the causes of female infanticide among the Khonds was the belief that the souls of girl children killed in this way would not be born again, and hence that the number of female children would decrease, does not seem to prevail among the tribe in the Central Provinces or Bengal. (*Census Report, Central Provinces*, 1911, vol. i., p. 160 ; *Id. Bengal*, 1911, vol. i., p. 330.)]
-[^sec-11-fn-014]: (†) [<sup>†</sup> T. C. Hodson (*Nāga Tribes of Manipur*, 1911, p. 98, note) discredits the existence of female infanticide among Nāgas at the present day. It certainly prevailed in comparatively recent times. (*Census Report, Assam*, 1891, p. 120, note.)]
-[^sec-11-fn-015]: (*) [<sup>*</sup> *Census Report*, 1891, vol. i., p. 217. *Census Report, India*, 1911, vol. i., p. 215.]
-[^sec-11-fn-016]: (*) [<sup>*</sup> *Census Report*, 1901, vol. i., p. 216. Pandit Harikishan Kaul, while recognizing that female infanticide now prevails only among certain families or groups of families, points out that female infants suffer largely from neglect (*Census Report*, 1911, vol. i., p. 230 *et seq.*, 243 *et seq.*).]
-[^sec-11-fn-017]: (†) [<sup>†</sup> C. Darwin, *The Descent of Man*, 2nd ed., 1889, p. 255 *et seq.* W. E. Marshall, *A Phrenologist among the Todas*, 1873, p. 111. W. H. R. Rivers, the latest and best authority on the tribe, shows that while infanticide at one time prevailed widely, it has [p. 178] now greatly diminished, and at the present day exists chiefly, owing to their conservatism, among the priestly classes. (*The Todas*, 1906, pp. 478, 691.)]
-[^sec-11-fn-018]: (*) [<sup>*</sup> Akbar certainly did not marry a Jāt girl ; the tale is told by more than one Jāt sept. (H. A. Rose, *Glossary of the Tribes and Castes of the Punjab and N.W. Frontier Province*, vol. ii., 1911, pp. 220 note, 236, 377.)]
+[^sec-11-fn-012]: (*) [“Educational qualifications put up the price of a bridegroom, not so much because of any belief in education as an advantage *per se*, but because the bridegroom is more likely to get remunerative employment. The possession of a degree may even change the whole situation and cause a bridegroom-price to be paid instead of a bride-price.” Instances are given of the monstrous demands made by the parents of sons thus qualified. (*Census Report, Bengal*, 1911, vol. i., p. 316.)]
+[^sec-11-fn-013]: (*) [S. C. Macpherson, *Memorials of Service in India*, 1865, p. 132 *et seq.* The superstition reported from Bengal, that one of the causes of female infanticide among the Khonds was the belief that the souls of girl children killed in this way would not be born again, and hence that the number of female children would decrease, does not seem to prevail among the tribe in the Central Provinces or Bengal. (*Census Report, Central Provinces*, 1911, vol. i., p. 160 ; *Id. Bengal*, 1911, vol. i., p. 330.)]
+[^sec-11-fn-014]: (†) [T. C. Hodson (*Nāga Tribes of Manipur*, 1911, p. 98, note) discredits the existence of female infanticide among Nāgas at the present day. It certainly prevailed in comparatively recent times. (*Census Report, Assam*, 1891, p. 120, note.)]
+[^sec-11-fn-015]: (*) [*Census Report*, 1891, vol. i., p. 217. *Census Report, India*, 1911, vol. i., p. 215.]
+[^sec-11-fn-016]: (*) [*Census Report*, 1901, vol. i., p. 216. Pandit Harikishan Kaul, while recognizing that female infanticide now prevails only among certain families or groups of families, points out that female infants suffer largely from neglect (*Census Report*, 1911, vol. i., p. 230 *et seq.*, 243 *et seq.*).]
+[^sec-11-fn-017]: (†) [C. Darwin, *The Descent of Man*, 2nd ed., 1889, p. 255 *et seq.* W. E. Marshall, *A Phrenologist among the Todas*, 1873, p. 111. W. H. R. Rivers, the latest and best authority on the tribe, shows that while infanticide at one time prevailed widely, it has [p. 178] now greatly diminished, and at the present day exists chiefly, owing to their conservatism, among the priestly classes. (*The Todas*, 1906, pp. 478, 691.)]
+[^sec-11-fn-018]: (*) [Akbar certainly did not marry a Jāt girl ; the tale is told by more than one Jāt sept. (H. A. Rose, *Glossary of the Tribes and Castes of the Punjab and N.W. Frontier Province*, vol. ii., 1911, pp. 220 note, 236, 377.)]
 [^sec-11-fn-019]: (†) *Tabou et Totemisme à Madagascar*, Arnold Van Gennep, Paris, 1904.
 [^sec-11-fn-020]: (‡) Ortolan speaks of them as “two radically distinct castes between the members of which a Roman marriage could never take place.” (*History of Roman Law*, p. 585.)
 [^sec-11-fn-021]: (*) *Atharva Veda*, 18, 3, 1, quoted by Zimmer, *Altindisches Leben*, p. 331.
 [^sec-11-fn-022]: (†) *Primitive Culture*, i., 466.
 [^sec-11-fn-023]: (‡) *Altindisches Leben*, p. 329. See also Oldenberg, *Die Religion des Veda*, 575, and Macdonell, *History of Sanskrit Literature*, 126. Jolly, *Recht und Sitte*, 59, seems to take a different view.
 [^sec-11-fn-024]: (*) *Tagore Law Lectures*, 1879, pp. 187, 188.
-[^sec-11-fn-025]: (*) [<sup>*</sup> In Baroda the attitude of the people towards widow marriage is described as “passive sympathy on the part of the educated and blind opposition on the part of the ignorant.” A recent Act permits a girl widow under sixteen to re-marry with the consent of her guardian ; if she is above sixteen she can marry again if she pleases (*Census Report*, 1911, vol. i., p. 158 *et seq.*).]
+[^sec-11-fn-025]: (*) [In Baroda the attitude of the people towards widow marriage is described as “passive sympathy on the part of the educated and blind opposition on the part of the ignorant.” A recent Act permits a girl widow under sixteen to re-marry with the consent of her guardian ; if she is above sixteen she can marry again if she pleases (*Census Report*, 1911, vol. i., p. 158 *et seq.*).]
 [^sec-11-fn-026]: (*) Zimmer, *Altindisches Leben*, p. 314, Gubernatis, *Usi Nuziali*, p. 432. [Marriage in the early Vedic texts appears essentially as the union of two persons of full development. Child-wives first occur regularly in the Sūtra period, though it is still uncertain to what extent the rule of marriage before puberty then obtained. (A. A. Macdonell, A. B. Keith, *Vedic Index of Names and Subjects*, 1913, i. 475 *et seq.*)]
-[^sec-11-fn-027]: (†) [<sup>†</sup> *Laws*, IX. 94.]
-[^sec-11-fn-028]: (*) [<sup>*</sup> A further extension of the practice is shown in the custom of betrothing unborn children which is reported among the Kunbis of Western India, and the Uppara salt-makers of Madras (*Census Report, Baroda*, 1911, vol. i., p. 148; *Central Provinces*, 1911, vol. i., p. 137).]
+[^sec-11-fn-027]: (†) [*Laws*, IX. 94.]
+[^sec-11-fn-028]: (*) [A further extension of the practice is shown in the custom of betrothing unborn children which is reported among the Kunbis of Western India, and the Uppara salt-makers of Madras (*Census Report, Baroda*, 1911, vol. i., p. 148; *Central Provinces*, 1911, vol. i., p. 137).]
 [^sec-11-fn-029]: (†) *Papers relating to Infant Marriage and Enforced Widowhood in India*, p. 178.
-[^sec-11-fn-030]: (*) [<sup>*</sup> In the Central Provinces “infant marriage is not, so far as can be inferred from the present practices, an indigenous custom among the tribes, but has sometimes been adopted by those of them who have been brought into contact with Hindu ideas, and are attempting by adopting Hindu customs, to raise their status. . . . It would seem to have had its origin in the increasing demand for women’s labour as life changed from nomadic to more settled conditions, together with the growing sense of individual property, and the altered view of the position of woman which accompanied the development of the patriarchal system” (*Census Report, Central Provinces*, 1911, vol. i., p. 137 *et seq.*). Mr. Gait regards the theory that infant marriage was borrowed from Hinduism as untenable : “Like others of the same kind, it ignores the important part played by the aborigines in the development of Indian religious ideas and social practices” (*Census Report, India*, 1911, vol. i., p. 264). In parts of Bengal, Behār and Darbhanga the prevalence of infant marriage is attributed to the teaching and influence of the Maithil Brāhmans, to whom the celebration of the marriage ceremony is a source of profit (*Census Report, Bengal*, 1911, vol. i., p. 339).]
-[^sec-11-fn-031]: (*) [<sup>*</sup> M. Martin, *Eastern India*, 1838, vol. i., p. 472.]
-[^sec-11-fn-032]: (*) [<sup>*</sup> *Ibid.*, vol. i., p. 112 *et seq.*]
-[^sec-11-fn-033]: (*) [<sup>*</sup> “Polygamy is said to be on the decrease in Karauli; this is ascribed partly to the increased cost of living, and partly to the influence of the Walterkrit Hitakārini Sabhā . . . The principles underlying the rules of this Society are said to be slowly leavening some of the other castes in Rajputana” (*Census Report*, 1911, vol. i., p. 184).]
-[^sec-11-fn-034]: (*) [<sup>*</sup> During the past sixteen years (1895-6—1910-1) the total number of cases prosecuted under the Regulation was 202, of which 175 resulted in the conviction of 475 persons. “The present piece of legislation in Baroda is much more advanced than in Mysore, and much further ahead of current notions and practices among the people at large. It has already been pointed out that, as regards early marriage, the recent Census figures are more favourable to Mysore than to Baroda” (*Census Report, Mysore*, 1911, vol. i., p. 97.)]
-[^sec-11-fn-035]: (*) [<sup>*</sup> The results of this Act during the last decade in Baroda have proved unsatisfactory. The slight decrease in the number of infant marriages “may be attributed to the progress of education and enlightened ideas.” Numerous applications for exemption from its provisions [p. 203] were made, and the result of them proves that “ the Courts are very indulgent in their treatment of applications for exemption, which may be said to be practically given for the asking.” On the introduction of the Act “ there was unusual activity in hurrying up marriage before the expected restraint was imposed . . . Probably it is yet too premature to judge of the salutary effects of this beneficent enactment ” (*Census Report, Baroda*, 1911, vol. i., p. 154 *et seq.*). To this may be added the remarkable custom of the Kadvā Kunbīs of Gujarāt, who, in order to reduce marriage expenses, celebrate the marriages of the whole caste on a single day (*Census Reports, Baroda*, 1911, vol. i., pp. 173, 290, 307 ; *Bombay*, 1911, vol. i., p. 242). A similar custom prevails among the Nambutiri Brāhmans of South India, who marry two or three girls to a single man so as to avoid payment of the heavy bridegroom-price, and some Konkanī Brāhmans now invest the dowry in the name of the bride, and thus prevent waste at the marriage celebration (L. K. Anantha Krishna Iyer, *Cochin Tribes and Castes*, vol. ii., 1912, pp. 210, 354 ; E. Thurston, *Castes and Tribes of Southern India*, 1909, vol. ii., p. 93).]
-[^sec-11-fn-036]: (*) [<sup>*</sup> “A society, called the Hindu Marriage Reform League, has been started by Hindu gentlemen in Calcutta with the object of raising the age, at which girls can be given in marriage, to 16 years.  Till recently such attempts have been made only by the higher castes, but the [p. 206] movement is spreading downwards. A general conference of the Namasudras held in 1908, resolved that any one marrying a son under 20 or a daughter under 10 years of age should be excommunicated. This resolution has had some effect, for it is reported in the Narail sub-division of Jessore, the age of a bride varies from 8 to 11, and that of a bridegroom from 16 to 20. In this sub-division it has further been determined that no Namasudra parent shall take more than Rs. 30 for a daughter, and, if he is in affluent circumstances, nothing at all” (*Census Report, Bengal*, 1911, vol. i., p. 319).]
+[^sec-11-fn-030]: (*) [In the Central Provinces “infant marriage is not, so far as can be inferred from the present practices, an indigenous custom among the tribes, but has sometimes been adopted by those of them who have been brought into contact with Hindu ideas, and are attempting by adopting Hindu customs, to raise their status. . . . It would seem to have had its origin in the increasing demand for women’s labour as life changed from nomadic to more settled conditions, together with the growing sense of individual property, and the altered view of the position of woman which accompanied the development of the patriarchal system” (*Census Report, Central Provinces*, 1911, vol. i., p. 137 *et seq.*). Mr. Gait regards the theory that infant marriage was borrowed from Hinduism as untenable : “Like others of the same kind, it ignores the important part played by the aborigines in the development of Indian religious ideas and social practices” (*Census Report, India*, 1911, vol. i., p. 264). In parts of Bengal, Behār and Darbhanga the prevalence of infant marriage is attributed to the teaching and influence of the Maithil Brāhmans, to whom the celebration of the marriage ceremony is a source of profit (*Census Report, Bengal*, 1911, vol. i., p. 339).]
+[^sec-11-fn-031]: (*) [M. Martin, *Eastern India*, 1838, vol. i., p. 472.]
+[^sec-11-fn-032]: (*) [*Ibid.*, vol. i., p. 112 *et seq.*]
+[^sec-11-fn-033]: (*) [“Polygamy is said to be on the decrease in Karauli; this is ascribed partly to the increased cost of living, and partly to the influence of the Walterkrit Hitakārini Sabhā . . . The principles underlying the rules of this Society are said to be slowly leavening some of the other castes in Rajputana” (*Census Report*, 1911, vol. i., p. 184).]
+[^sec-11-fn-034]: (*) [During the past sixteen years (1895-6—1910-1) the total number of cases prosecuted under the Regulation was 202, of which 175 resulted in the conviction of 475 persons. “The present piece of legislation in Baroda is much more advanced than in Mysore, and much further ahead of current notions and practices among the people at large. It has already been pointed out that, as regards early marriage, the recent Census figures are more favourable to Mysore than to Baroda” (*Census Report, Mysore*, 1911, vol. i., p. 97.)]
+[^sec-11-fn-035]: (*) [The results of this Act during the last decade in Baroda have proved unsatisfactory. The slight decrease in the number of infant marriages “may be attributed to the progress of education and enlightened ideas.” Numerous applications for exemption from its provisions [p. 203] were made, and the result of them proves that “ the Courts are very indulgent in their treatment of applications for exemption, which may be said to be practically given for the asking.” On the introduction of the Act “ there was unusual activity in hurrying up marriage before the expected restraint was imposed . . . Probably it is yet too premature to judge of the salutary effects of this beneficent enactment ” (*Census Report, Baroda*, 1911, vol. i., p. 154 *et seq.*). To this may be added the remarkable custom of the Kadvā Kunbīs of Gujarāt, who, in order to reduce marriage expenses, celebrate the marriages of the whole caste on a single day (*Census Reports, Baroda*, 1911, vol. i., pp. 173, 290, 307 ; *Bombay*, 1911, vol. i., p. 242). A similar custom prevails among the Nambutiri Brāhmans of South India, who marry two or three girls to a single man so as to avoid payment of the heavy bridegroom-price, and some Konkanī Brāhmans now invest the dowry in the name of the bride, and thus prevent waste at the marriage celebration (L. K. Anantha Krishna Iyer, *Cochin Tribes and Castes*, vol. ii., 1912, pp. 210, 354 ; E. Thurston, *Castes and Tribes of Southern India*, 1909, vol. ii., p. 93).]
+[^sec-11-fn-036]: (*) [“A society, called the Hindu Marriage Reform League, has been started by Hindu gentlemen in Calcutta with the object of raising the age, at which girls can be given in marriage, to 16 years.  Till recently such attempts have been made only by the higher castes, but the [p. 206] movement is spreading downwards. A general conference of the Namasudras held in 1908, resolved that any one marrying a son under 20 or a daughter under 10 years of age should be excommunicated. This resolution has had some effect, for it is reported in the Narail sub-division of Jessore, the age of a bride varies from 8 to 11, and that of a bridegroom from 16 to 20. In this sub-division it has further been determined that no Namasudra parent shall take more than Rs. 30 for a daughter, and, if he is in affluent circumstances, nothing at all” (*Census Report, Bengal*, 1911, vol. i., p. 319).]
 [^sec-11-fn-037]: (*) The voyage and travell of M. Cæsar Fredericke, Merchant of Venice, into the East India and beyond the Indies : translated out of Italian by Mr. Thomas Hickocke. Hakluyt, *Voyages*, V., 394.
 [^sec-11-fn-038]: (†) *Historia de descobrimento e conquista da India pelos Portuguezes*, 1551–1561.
-[^sec-11-fn-039]: (*) [<sup>*</sup> *Bulletin Madras Government Museum*, vol. iii., No. 3, p. 241.]
-[^sec-11-fn-040]: (*) [<sup>*</sup> Ed. 1744, vol. i., p. 310.]
+[^sec-11-fn-039]: (*) [*Bulletin Madras Government Museum*, vol. iii., No. 3, p. 241.]
+[^sec-11-fn-040]: (*) [Ed. 1744, vol. i., p. 310.]
 [^sec-11-fn-041]: (*) Charles A. Sherring, *Western Tibet and the British Borderland*, 1906, p. 190.
-[^sec-11-fn-042]: (*) [<sup>*</sup> Ladākh Proper, and the other Mongoloid races in Kashmir show the highest proportion of women in the State (*Census Report*, 1911, vol. i., p. 125).]
-[^sec-11-fn-043]: (†) [<sup>†</sup> Comparing the Bahimi of Central Africa with the Todas of India, Sir J. Frazer (*Totemism and Exogamy*, 1910, vol. ii., p. 539 *et seq.*) suggests that “there is something in the pastoral life which favours the growth of abnormal relations between the sexes. . . . The superstition which debars these people from a vegetable diet not only impoverishes them, and retards economic progress by presenting a serious obstacle to the adoption of agriculture ; it affects society in another and curious way by fostering a type of marriage which effectually checks the growth of population, and which can hardly fail to be injurious to the women and thereby to their offspring.” On the other hand, E. S. Hartland (*Primitive Paternity*, vol. ii., 1910, p. 162 *et seq.*) denies that polyandry results from economic causes, “in face of the evidence from all parts of the world of indifference to what the civilized peoples of Europe generally regard as womanly virtue.” He believes that it results from the general absence of marital jealousy among backward races, and he suggests that women exercise a powerful influence in support of the customs. For further discussion of the question see *Census Report*, India, 1911, vol. i., p. 238 *et seq.*]
-[^sec-11-fn-044]: (*) [<sup>*</sup> On polygamy in Bengal see *Census Report*, 1911, vol. i., p. 326 *et seq.*]
+[^sec-11-fn-042]: (*) [Ladākh Proper, and the other Mongoloid races in Kashmir show the highest proportion of women in the State (*Census Report*, 1911, vol. i., p. 125).]
+[^sec-11-fn-043]: (†) [Comparing the Bahimi of Central Africa with the Todas of India, Sir J. Frazer (*Totemism and Exogamy*, 1910, vol. ii., p. 539 *et seq.*) suggests that “there is something in the pastoral life which favours the growth of abnormal relations between the sexes. . . . The superstition which debars these people from a vegetable diet not only impoverishes them, and retards economic progress by presenting a serious obstacle to the adoption of agriculture ; it affects society in another and curious way by fostering a type of marriage which effectually checks the growth of population, and which can hardly fail to be injurious to the women and thereby to their offspring.” On the other hand, E. S. Hartland (*Primitive Paternity*, vol. ii., 1910, p. 162 *et seq.*) denies that polyandry results from economic causes, “in face of the evidence from all parts of the world of indifference to what the civilized peoples of Europe generally regard as womanly virtue.” He believes that it results from the general absence of marital jealousy among backward races, and he suggests that women exercise a powerful influence in support of the customs. For further discussion of the question see *Census Report*, India, 1911, vol. i., p. 238 *et seq.*]
+[^sec-11-fn-044]: (*) [On polygamy in Bengal see *Census Report*, 1911, vol. i., p. 326 *et seq.*]
 
 
 ## Chapter V: Caste and Religion
@@ -2350,29 +2350,31 @@ It has often been said that the advance of English education, and more especiall
 ### Notes
 
 [^sec-12-fn-001]: (*) Comte, *Philosophie Positive*, vol. v., p. 30, quoted by Tylor, *Primitive Culture*, vol. ii., 2nd ed., 1873, p. 144.
-[^sec-12-fn-002]: (†) Pallas uses the words *Schaman* and *Schamanin* (Zauberer and Zauberin) in his curious book, *Samlungen historischer Nachrichten über die Mongolischen Völkerschaften*, printed at St. Petersburg in 1776 by the Imperial Academy of Science. Chapter VII. of the second volume (1801) entitled, “Von den Gaukeleyen des Schamanischen Aberglaubens, Zaubereyen und Weissagerey unter den Mongolischen Völkern,” deals with the survivals of Shamanism which Pallas found among the Kalmucks and Mongols “daubed over” as he says (übertüncht), “with a coat of the later Buddhistic doctrine.” But he does not profess to treat of Shamanism at length, and remarks that this would be superfluous as full particulars are to be found in the Siberian Travels of the elder Gmelin and in Georg’s Description of the Nations of the Russian Empire. The “Elder Gmelin” was Johann Georg, born 1709, who travelled in Siberia from 1743 to 1773 and published his *Reisen durch Siberien* in four octavo volumes at Gottingen in 1751–52. He became Professor of Botany at Tübingen in 1749, six years before his death. He was also the author of the *Flora Siberia*, two volumes of which were published during his life, while the remaining two were edited by his nephew, Samuel Gotlob Gmelin, who travelled with Pallas in Siberia. After leaving Pallas, Samuel went to the Crimea, where he was captured by the Khan, and died in prison at the age of thirty-one. I mention these particulars, for which I am indebted to my friend Lt.-Col. Prain, C.I.E., F.R.S., because it seems possible that the word “Shaman” may have been introduced not by Pallas, but by Johann Georg Gmelin. The Gmelins were a notable family, and no less than seven of them wrote books on botany at dates ranging from 1699 to 1866. None [p. 221] of their books are to be had in Calcutta, so I am unable to verify the conjecture thrown out above. The copy of Pallas’s *Samlungen* in the library of the Asiatic Society of Bengal appears from a note on the title page, to have been presented by the Czar of Russia in 1846. The second volume was published twenty-five years after the first, and bears the imprimatur of the St. Petersburg Censor which is wanting in the earlier volume. [Banzaroff derives *Shaman* from a Manchu root, and asserts that it is met with in Chinese writings of the seventh century, when North Mongolia was dominated by the Yuan-yuan, a people of Tungus-Manchu origin (J. Hastings, *Encyclopædia of Religion and Ethics*, vol. iii., 1910, p. 15.)]
+[^sec-12-fn-002]: (†) Pallas uses the words *Schaman* and *Schamanin* (Zauberer and Zauberin) in his curious book, *Samlungen historischer Nachrichten über die Mongolischen Völkerschaften*, printed at St. Petersburg in 1776 by the Imperial Academy of Science. Chapter VII. of the second volume (1801) entitled, “Von den Gaukeleyen des Schamanischen Aberglaubens, Zaubereyen und Weissagerey unter den Mongolischen Völkern,” deals with the survivals of Shamanism which Pallas found among the Kalmucks and Mongols “daubed over” as he says (übertüncht), “with a coat of the later Buddhistic doctrine.” But he does not profess to treat of Shamanism at length, and remarks that this would be superfluous as full particulars are to be found in the Siberian Travels of the elder Gmelin and in Georg’s Description of the Nations of the Russian Empire. The “Elder Gmelin” was Johann Georg, born 1709, who travelled in Siberia from 1743 to 1773 and published his *Reisen durch Siberien* in four octavo volumes at Gottingen in 1751–52. He became Professor of Botany at Tübingen in 1749, six years before his death. He was also the author of the *Flora Siberia*, two volumes of which were published during his life, while the remaining two were edited by his nephew, Samuel Gotlob Gmelin, who travelled with Pallas in Siberia. After leaving Pallas, Samuel went to the Crimea, where he was captured by the Khan, and died in prison at the age of thirty-one. I mention these particulars, for which I am indebted to my friend Lt.-Col. Prain, C.I.E., F.R.S., because it seems possible that the word “Shaman” may have been introduced not by Pallas, but by Johann Georg Gmelin. The Gmelins were a notable family, and no less than seven of them wrote books on botany at dates ranging from 1699 to 1866. None [p. 221] of their books are to be had in Calcutta, so I am unable to verify the conjecture thrown out above.
+
+    The copy of Pallas’s *Samlungen* in the library of the Asiatic Society of Bengal appears from a note on the title page, to have been presented by the Czar of Russia in 1846. The second volume was published twenty-five years after the first, and bears the imprimatur of the St. Petersburg Censor which is wanting in the earlier volume. [Banzaroff derives *Shaman* from a Manchu root, and asserts that it is met with in Chinese writings of the seventh century, when North Mongolia was dominated by the Yuan-yuan, a people of Tungus-Manchu origin (J. Hastings, *Encyclopædia of Religion and Ethics*, vol. iii., 1910, p. 15.)]
 [^sec-12-fn-003]: (*) Tylor, *Primitive Culture*, i. 426.
 [^sec-12-fn-004]: (*) W. J. Müller, *Die Africanische Landschaft Fetu*, Nuremberg, 1675, quoted by Max Müller, *Anthropological Religion*, p. 120.
-[^sec-12-fn-005]: (*) [<sup>*</sup> For a discussion of this type of belief, now designated Pre-Animism or Teratism, see R. R. Marett, *The Threshold of Religion*, 1914, chap. i.]
-[^sec-12-fn-006]: (*) [<sup>*</sup> *The Evolution of the Idea of God*, 1897, p. 71.]
-[^sec-12-fn-007]: (*) [<sup>*</sup> *Introduction to the Study of Hinduism*, 1893, p. 9.]
+[^sec-12-fn-005]: (*) [For a discussion of this type of belief, now designated Pre-Animism or Teratism, see R. R. Marett, *The Threshold of Religion*, 1914, chap. i.]
+[^sec-12-fn-006]: (*) [*The Evolution of the Idea of God*, 1897, p. 71.]
+[^sec-12-fn-007]: (*) [*Introduction to the Study of Hinduism*, 1893, p. 9.]
 [^sec-12-fn-008]: (*) *Census Report, India*, 1891, p. 158.]
-[^sec-12-fn-009]: (†) [<sup>†</sup> *Asiatic Studies*, 1899, vol. ii., p. 288.]
+[^sec-12-fn-009]: (†) [*Asiatic Studies*, 1899, vol. ii., p. 288.]
 [^sec-12-fn-010]: (*) The practice of worshipping office furniture seems to be older than I had supposed. I am indebted to the Honourable Mr. Miller, <span class="sc">C.S.I.</span>, Member of the Viceroy’s Council, for the following quotation : “All the working classes offer sacrifices and worship on stated days to the implements through which their subsistence is obtained ; Sāhukārs and merchants to their ledgers and hoards of treasure ; and revenue servants to the Daftar, or public records, of their departments.” *Report on the Territories of the Rajah of Nagpore*. By Richard Jenkins, Esq., Resident at the Court of the Rajah of Nagpore, 1827, p. 53. [It is described by H. H. Wilson, *Essays and Lectures chiefly on the Religion of the Hindus*, 1862, vol. ii., p. 187 ; W. Crooke, *Popular Religion and Folk-lore of Northern India*, 2nd ed., 1896, vol. ii., p. 185 *et seq*.]
 [^sec-12-fn-011]: (†) *La Religion Védique*, I, 125. See also Oldenberg, *Die Religion Des Veda*.
 [^sec-12-fn-012]: (*) Sir Alfred Lyall, *Hinduism; Religious Systems of the World*, p. 113.
-[^sec-12-fn-013]: (*) [<sup>*</sup> *History of Sanskrit Literature*, 1900, p. 115.]
+[^sec-12-fn-013]: (*) [*History of Sanskrit Literature*, 1900, p. 115.]
 [^sec-12-fn-014]: (*) ἀναπεμπαζόμενος, “Counting over to himself on his fingers.”
 [^sec-12-fn-015]: (†) *The Works of the Lucian of Samosata.* Translated by H. W. and F. G. Fowler. Clarendon Press, 1906. Vol. i., pp. 244–46.
 [^sec-12-fn-016]: (*) Sir S. Dill, *Roman Society in the Last Century of the Western Empire*, 2nd ed., 1899, p. 104.
 [^sec-12-fn-017]: (*) *De Bell. Gall.*, vi. 17.
 [^sec-12-fn-018]: (*) Dill, *loc cit.*, p. 100.
-[^sec-12-fn-019]: (*) [<sup>*</sup> At the Census of 1911 Hindus, including Animists, numbered 227 millions (62 per cent. of the whole population) ; Muhammadans 66½ millions (21·2 per cent.) ; Buddhists 10¾ millions (3·4 per cent.) ; Christians 3⅘ millions (1·2 per cent.). The percentages of increase since 1901 were for Hindus 5 per cent. ; Muhammadans 7 per cent. ; Buddhists 13 per cent. ; Christians 32 per cent. (*Census of India Report*, 1911, vol. i., p. 119 *et seq.*).]
-[^sec-12-fn-020]: (*) [<sup>*</sup> *Census Report, Madras*, 1901, vol. i., p. 41 *et seq.*]
+[^sec-12-fn-019]: (*) [At the Census of 1911 Hindus, including Animists, numbered 227 millions (62 per cent. of the whole population) ; Muhammadans 66½ millions (21·2 per cent.) ; Buddhists 10¾ millions (3·4 per cent.) ; Christians 3⅘ millions (1·2 per cent.). The percentages of increase since 1901 were for Hindus 5 per cent. ; Muhammadans 7 per cent. ; Buddhists 13 per cent. ; Christians 32 per cent. (*Census of India Report*, 1911, vol. i., p. 119 *et seq.*).]
+[^sec-12-fn-020]: (*) [*Census Report, Madras*, 1901, vol. i., p. 41 *et seq.*]
 [^sec-12-fn-021]: (†) The ghetto of the typical South Indian village where the Pariahs herd together in irregular clusters of squalid palm-leaf huts.
 [^sec-12-fn-022]: (*) *Report on the Census of the N.-W. P. and Oudh*, 1901, by R. Burn, <span class="sc">I.C.S.</span>, vol. i., p. 91.
-[^sec-12-fn-023]: (*) [<sup>*</sup> In Bengal, “unlike the United Provinces, where the Samāj is largely recruited from the educated classes, the Aryas of Patna are mostly members of the lower castes, such as Kurmis, Kahars, etc.; its doctrines have found favour with only a limited number of Hindus and Musalmans of the higher classes. The explanation is that the theory of the submergence of caste in the Arya community appeals most to the lower classes, who regard the new system as improving their position and bringing them on a level with the upper classes. Moreover, the custom of widow marriage was already an established custom with many of them, and the sanction given to this practice by the new faith was no small attraction” (*Census Report, Bengal*, 1911, vol. i., p. 211).]
-[^sec-12-fn-024]: (*) [<sup>*</sup> See Art. *Bhakti-mārga*, in J. Hastings’ *Encyclopædia of Religion and Ethics*, vol. ii., 1909, p. 539 *et seq.*]
+[^sec-12-fn-023]: (*) [In Bengal, “unlike the United Provinces, where the Samāj is largely recruited from the educated classes, the Aryas of Patna are mostly members of the lower castes, such as Kurmis, Kahars, etc.; its doctrines have found favour with only a limited number of Hindus and Musalmans of the higher classes. The explanation is that the theory of the submergence of caste in the Arya community appeals most to the lower classes, who regard the new system as improving their position and bringing them on a level with the upper classes. Moreover, the custom of widow marriage was already an established custom with many of them, and the sanction given to this practice by the new faith was no small attraction” (*Census Report, Bengal*, 1911, vol. i., p. 211).]
+[^sec-12-fn-024]: (*) [See Art. *Bhakti-mārga*, in J. Hastings’ *Encyclopædia of Religion and Ethics*, vol. ii., 1909, p. 539 *et seq.*]
 
 
 ## Chapter VI: The Origin of Caste
@@ -2487,11 +2489,11 @@ The ethnological conclusions which the foregoing chapters seek to establish may 
 [^sec-13-fn-003]: (‡) *Die Sociale Gliederung im Nordöstlichen Indian zu Buddha's Zeit.* Von Dr. Richard Fick, Kiel, 1897. [T. W. Rhys Davids, *Buddhist India*, 1903, p. 32 *et seq.* ; *Journal Royal Asiatic Society*, 1901, p. 868.]
 [^sec-13-fn-004]: (*) Spiegel, *Eranische Alterthumskunde*, III, 547—670.
 [^sec-13-fn-005]: (*) R. Burn, *Census Report of the United Provinces*, 1901, vol. i., p. 91.
-[^sec-13-fn-006]: (†) [<sup>†</sup> “There is no probability in the view of Senart or Risley (*Imperial Gazetteer of India*, I, 336—348), that the names of the old classes were later super-imposed artificially on a system of castes that were different from them in origin. We cannot say that the castes existed before the classes, and that the classes were borrowed by India from Iran, as Risley maintains, ignoring the early Brāhmana evidence for the four Varnas, and treating the transfer as late.” A. A. Macdonald, A. B. Keith, *A Vedic Index of Names and Subjects*, 1912, II, 270.]
+[^sec-13-fn-006]: (†) [“There is no probability in the view of Senart or Risley (*Imperial Gazetteer of India*, I, 336—348), that the names of the old classes were later super-imposed artificially on a system of castes that were different from them in origin. We cannot say that the castes existed before the classes, and that the classes were borrowed by India from Iran, as Risley maintains, ignoring the early Brāhmana evidence for the four Varnas, and treating the transfer as late.” A. A. Macdonald, A. B. Keith, *A Vedic Index of Names and Subjects*, 1912, II, 270.]
 [^sec-13-fn-007]: (*) *Report on the Census of the Punjab*, 1881, pp. 172—341.
 [^sec-13-fn-008]: (*) *Les Castes dans l’Inde*, p. 191.
 [^sec-13-fn-009]: (*) *Brief View of the Caste System of the North-Western Provinces and Oudh*, pp. 3, 4, 75, 88, 129—132.
-[^sec-13-fn-010]: (*) [<sup>*</sup> “To assume, with Senart, that the family system was the basis of caste is difficult in face of the late appearance of words for family and of stress on family.” A. A. Macdonell, A. B. Keith, *Vedic Index of Names and Subjects*, 1912, I, 281 *et seq.*]
+[^sec-13-fn-010]: (*) [“To assume, with Senart, that the family system was the basis of caste is difficult in face of the late appearance of words for family and of stress on family.” A. A. Macdonell, A. B. Keith, *Vedic Index of Names and Subjects*, 1912, I, 281 *et seq.*]
 [^sec-13-fn-011]: (*) *Loc. cit.*, p. 3.
 [^sec-13-fn-012]: (*) *Roman Society in the last Century of the Western Empire*, Book iii, Chap. i, 1899, p. 228.
 [^sec-13-fn-013]: (†) C. Th. xiv, 4, 8, “ad munus pristinum revocentur, tam qui paterno quam materno genere inveniuntur obnoxii”; [*Dill, op. cit.*, p. 233.]
@@ -2630,12 +2632,12 @@ Let us now try to draw together the threads of this discussion. The standard ele
 [^sec-14-fn-001]: (*) *New India*, p. 260.
 [^sec-14-fn-002]: (*) *New India*, pp. 225 and 252.
 [^sec-14-fn-003]: (†) Presidential address to National Indian Congress, 1905.
-[^sec-14-fn-004]: (*) [<sup>*</sup> In the whole of India in 1911, 1·7 million persons were found to be literate in English. Of every ten thousand persons of each sex, ninety-five males and ten females possessed this knowledge (*Census of India Report*, 1911, vol. i., p. 299).]
+[^sec-14-fn-004]: (*) [In the whole of India in 1911, 1·7 million persons were found to be literate in English. Of every ten thousand persons of each sex, ninety-five males and ten females possessed this knowledge (*Census of India Report*, 1911, vol. i., p. 299).]
 [^sec-14-fn-005]: (*) Hon. Babu Bhupendra Nath Basu of the Bengal Legislative Council.—*Statesman*, 28th May, 1907.
 [^sec-14-fn-006]: (†) *Hinduism : Ancient and Modern*, by Rai Bahadur Lala Baij Nath, <span class="sc">B.A.</span>, District and Sessions Judge, Ghazipur. New edition, 1905, p. 104.
 [^sec-14-fn-007]: (‡) *New India*, p. 227.
 [^sec-14-fn-008]: (*) *Mahābhārata* VII., p. 258.
-[^sec-14-fn-009]: (*) [<sup>*</sup> In 1911 220 languages (including 38 minor dialects) spoken by 313 millions, were recorded (*Census of India Report*, 1911, vol. i., p. 321).]
+[^sec-14-fn-009]: (*) [In 1911 220 languages (including 38 minor dialects) spoken by 313 millions, were recorded (*Census of India Report*, 1911, vol. i., p. 321).]
 [^sec-14-fn-010]: (*) *New India*, p. 228.
 [^sec-14-fn-011]: (†) *Quarterly Review*, April 1906.
 [^sec-14-fn-012]: (*) Rivier : *Principes du Droit des Gens.*
@@ -3242,10 +3244,10 @@ The Hindu gods have fled to Dwārka ; the Musalmān saints to Mecca ; under Brit
 ![Map of India titled BHIL showing the distribution and strength of the Bhil caste by province using black rectangles.](../figures/fig-006_p0377.webp)
 
 
-![Map of India titled BRAHMAN showing the distribution and strength of the Brahman caste by province using black rectangles.](../figures/fig-007_p0377.webp)
+![THE AREA OF EACH RECTANGLE SHOWS THE STRENGTH OF THE CASTE IN EACH PROVINCE — THE BASE OF EACH RECTANGLE INDICATES THE POPULATION OF THE PROVINCE........... 300,000 0 MILLION 10 ,, 20 ,, 30 ,,](../figures/fig-007_p0377.webp)
 
 
-![THE AREA OF EACH RECTANGLE SHOWS THE STRENGTH OF THE CASTE IN EACH PROVINCE — THE BASE OF EACH RECTANGLE INDICATES THE POPULATION OF THE PROVINCE........... 300,000 0 MILLION 10 ,, 20 ,, 30 ,, — THE HEIGHT SHOWS THE PROPORTION WHICH THE CASTE BEARS TO THE POPULATION OF THE PROVINCE 5 P.C. 3 ,, ,, 1 ,, ,, 0 ,, ,,](../figures/fig-008_p0377.webp)
+![THE HEIGHT SHOWS THE PROPORTION WHICH THE CASTE BEARS TO THE POPULATION OF THE PROVINCE 5 P.C. 3 ,, ,, 1 ,, ,, 0 ,, ,,](../figures/fig-008_p0377.webp)
 
 
 <!-- page: 378 | folio: 336 -->
@@ -3326,10 +3328,10 @@ The Hindu gods have fled to Dwārka ; the Musalmān saints to Mecca ; under Brit
 ![Map of India titled NAYAR showing provincial distribution with a solid rectangle in Madras.](../figures/fig-030_p0383.webp)
 
 
-![Map of India titled PALLI showing provincial distribution with a solid rectangle in Madras.](../figures/fig-031_p0383.webp)
+![THE AREA OF EACH RECTANGLE SHOWS THE STRENGTH OF THE CASTE IN EACH PROVINCE 300,000 THE BASE OF EACH RECTANGLE INDICATES THE POPULATION OF THE PROVINCE ......... 0 MILLION 10 " 20 " 30 " THE HEIGHT SHOWS THE PROPORTION WHICH THE CASTE BEARS TO THE POPULATION OF THE PROVINCE | 5 P.C. | 3 ,, ,, | 1 ,, ,, | 0 ,, ,,](../figures/fig-031_p0383.webp)
 
 
-![THE AREA OF EACH RECTANGLE SHOWS THE STRENGTH OF THE CASTE IN EACH PROVINCE 300,000 THE BASE OF EACH RECTANGLE INDICATES THE POPULATION OF THE PROVINCE ......... 0 MILLION 10 " 20 " 30 " THE HEIGHT SHOWS THE PROPORTION WHICH THE CASTE BEARS TO THE POPULATION OF THE PROVINCE | 5 P.C. | 3 ,, ,, | 1 ,, ,, | 0 ,, ,,](../figures/fig-032_p0383.webp)
+![Map of India titled PARAIYAN showing provincial distribution with a solid rectangle in Madras.](../figures/fig-032_p0383.webp)
 
 
 <!-- page: 384 | folio: 342 -->
@@ -4090,261 +4092,129 @@ The Hindu gods have fled to Dwārka ; the Musalmān saints to Mecca ; under Brit
 
 <!-- page: 438 | folio: 396 -->
 
-### APPE
+#### *SUMMARY OF MEASUREMENTS.*
 
 
-#### *SUMMARY OF*
+#### TURKO-IRANIAN TYPE.
 
 
-#### TURKO-IRA
-
-
-**WESTERN PUNJAB, NORTH-WESTERN FRONTIER PR**
-| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Minimum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Minimum. | PR TI H :: C I :: Average. :: **WESTERN PUN** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7 | Nāgar | Burusharki | Nāgar | 190·7 | 198 | 180 | 143·8 | 151 | 142 | 75·4 |
-| 80 | Pathān | Western Pun-jābi | North - Western Punjab | 185·2 | 203 | 165 | 141·7 | 152 | 133 | 76·5 |
-| 6 | Kāfir | Ashkun | Kāfirstān | 194·6 | 199 | 191 | 149·6 | 160 | 143 | 76·9 |
-| 9 | Hunza | Burusharki | HuNza | 192·8 | 200 | 181 | 152·0 | 165 | 144 | 78·8 |
-| 60 | Baloch (mixed) | Western Pun-jābi | Western Punjab | 179·2 | 197 | 155 | 143·5 | 152 | 133 | 80·0 |
-| 200 | Hazāra | Persian | Afghanistan | 179·6 | 202 | 160 | 152·8 | 168 | 140 | 85·0 |
-| 58[^sec-17-fn-004] | Lori | Brāhūi and Gypsy (Mo-kāki) | Quetta and Saruṇa | 177·6 | 192 | 158 | 139·5 | 152 | 130 | 78·5 |
-| 100[^sec-17-fn-004] | Makhiāni (Pathān) | Pashto | Harnai, Thal Cho-tiali | 181·0 | 200 | 163 | 142·1 | 159 | 130 | 78·5 |
-| 59[^sec-17-fn-004] | Wanechi (Pathān) | Do. | Babihan, Thal Chotiali | 178·1 | 195 | 161 | 141·2 | 155 | 126 | 79·2 |
-| 76[^sec-17-fn-004] | Dehwār | Dehwāri | Mastung | 179·4 | 200 | 165 | 142·2 | 155 | 130 | 79·2 |
-| 100[^sec-17-fn-004] | Jāt | Jadgali | Sibi | 177·8 | 196 | 160 | 141·9 | 155 | 130 | 79·8 |
-| 100 | Pani (Pathān) | Pashto | Do. | 183·9 | 198 | 168 | 147·4 | 158 | 139 | 80·1 |
-| 271 | Baloch | Balochi | Mārri and Bugti Hills and Kacchi | 181·8 | 205 | 161 | 146·2 | 159 | 131 | 80·4 |
-| 24[^sec-17-fn-004] | Dehwār | Dehwāri | Kālāt. | 178·5 | 183 | 168 | 144·4 | 160 | 133 | 80·8 |
-| 100 | Achakzāi (Pathān) | Pashto | Chaman, Quettā Pishin | 187·7 | 210 | 175 | 152·4 | 171 | 140 | 81·1 |
-| 48[^sec-17-fn-004] | Mir Jāts | Jatki | Sibi | 180·1 | 200 | 162 | 146·4 | 158 | 135 | 81·2 |
-| 198 | Brāhūi | Brāhūi. | Sarawan Country | 182·0 | 197 | 166 | 148·4 | 165 | 135 | 81·5 |
-| 200 | Dehwār | Dehwāri | Mastung | 179·4 | 198 | 165 | 146·6 | 159 | 131 | 81·7 |
-| 112 | Kākar (Pathān) | Pashto | Quetta and Zhob | 184·7 | 202 | 170 | 151·4 | 169 | 140 | 81·9 |
-| 79[^sec-17-fn-004] | Med | Makrāni Ba-lochi | Pasni, Gwadur, Chabar and Ormara | 181·4 | 200 | 170 | 148·9 | 160 | 136 | 82·0 |
-| 77[^sec-17-fn-004] | Mengal (Brahūi) | Brāhūi | Saruna | 179·5 | 190 | 161 | 148·7 | 162 | 130 | 82·8 |
-| 100 | Tārin (Pathān) | Pashto | Pishin | 182·1 | 199 | 165 | 150·9 | 170 | 138 | 82·8 |
-| 13 | Ghulām (Slaves) | Balochi | Baluchistan. | 179·0 | 188 | 170 | 150·2 | 159 | 141 | 83·9 |
-| 33[^sec-17-fn-004] | Chhutta | Jadgāli | Hinidan Levy Tracts | 176·1 | 190 | 162 | 150·2 | 162 | 140 | 85·2 |
-| 35[^sec-17-fn-004] | Bandija | Do. | Kila do. | 174·6 | 190 | 162 | 152·0 | 162 | 144 | 87·0 |
-
-
-<!-- page: 439 | folio: 397 -->
-
-### *MEASUREMENTS.*
-
-
-#### NIAN TYPE.
-
-
-**OVINCE AND BALUCHISTAN. (In order of Cephalic Index.)**
-| OPOR-NS OF EAD. :: PHALIC IDEX. :: Maximum. | OPOR-NS OF EAD. :: PHALIC IDEX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: AVERAGE DIMENSIONS. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: AVERAGE DIMENSIONS. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| JAB & N.-W. F. PROVINCE. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 79 | 72 | 58·4 | 64 | 52 | 37·0 | 40 | 35 | 63·3 | 69 | 55 | 1648 | 1690 | 1606 | 103·0 | 116·8 | 113·3 | 124 | 108 |
-| 87 | 69 | 50·0 | 59 | 45 | 34·2 | 40 | 30 | 68·4 | 80 | 56 | 1687 | 1866 | 1562 | 115·9 | 135·9 | 117·1 | 131 | 108 |
-| 82 | 73 | 54·1 | 58 | 52 | 37·3 | 39 | 36 | 68·9 | 72 | 64 | 1671 | 1738 | 1560 | 107·0 | 124·3 | 116·1 | 118 | 113 |
-| 84 | 76 | 53·2 | 62 | 50 | 38·5 | 40 | 37 | 72·3 | 78 | 65 | 1708 | 1800 | 1648 | 109·0 | 123·7 | 113·4 | 119 | 109 |
-| 95 | 72 | 49·4 | 58 | 45 | 34·3 | 40 | 30 | 69·4 | 87 | 57 | 1662 | 1803 | 1524 | 113·8 | 134·2 | 117·9 | 129 | 110 |
-| 99 | 74 | 46·3 | 56 | 37 | 37·3 | 45 | 31 | 80·5 | 111 | 63 | 1684 | 1806 | 1525 | 114·0 | 126·8 | 111·2 | 120 | 103 |
-| ALUCHISTAN. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 90 | 71 | 56·4 | 66 | 44 | 35·1 | 44 | 26 | 62·2 | 85 | 48 | .. | .. | .. | 98·7 | 119·5 | 121·0 | 133 | 105 |
-| 87 | 65 | 57·4 | 64 | 46 | 34·0 | 43 | 29 | 59·2 | 78 | 48 | .. | .. | .. | 99·3 | 124·0 | 124·8 | 134 | 113 |
-| 89 | 70 | 56·9 | 66 | 48 | 33·7 | 45 | 28 | 59·2 | 87 | 47 | .. | .. | .. | 99·2 | 121·8 | 122·7 | 133 | 114 |
-| 88 | 68 | 54·9 | 68 | 45 | 34·1 | 40 | 28 | 62·1 | 80 | 47 | .. | .. | .. | 98·3 | 119·2 | 121·2 | 133 | 107 |
-| 92 | 70 | 56·1 | 64 | 44 | 35·4 | 46 | 25 | 63·1 | 84 | 42 | .. | .. | .. | 98·0 | 122·5 | 125·0 | 143 | 104 |
-| 90 | 75 | 50·9 | 58 | 43 | 37·2 | 43 | 32 | 73·0 | 90 | 55 | 1677 | 1852 | 1560 | 112·0 | 132·0 | 117·8 | 126 | 111 |
-| 90 | 70 | 52·4 | 61 | 45 | 38·0 | 46 | 32 | 72·5 | 94 | 57 | 1678 | 1850 | 1506 | 112·8 | 133·6 | 118·4 | 128 | 111 |
-| 88 | 73 | 59·5 | 70 | 53 | 34·7 | 40 | 30 | 58·3 | 67 | 48 | .. | .. | .. | 100·0 | 122·2 | 122·2 | 133 | 113 |
-| 91 | 74 | 55·3 | 63 | 48 | 37·8 | 47 | 31 | 68·3 | 90 | 55 | 1722 | 1862 | 1602 | 116·4 | 136·4 | 117·1 | 125 | 111 |
-| 96 | 73 | 57·3 | 86 | 48 | 35·4 | 45 | 30 | 61·7 | 75 | 40 | .. | .. | .. | 99·6 | 124·2 | 124·6 | 137 | 111 |
-| 92 | 72 | 51·3 | 65 | 41 | 36·4 | 45 | 30 | 70·9 | 98 | 55 | 1659 | 1794 | 1526 | 110·9 | 130·9 | 118·0 | 128 | 110 |
-| 91 | 72 | 48·4 | 59 | 42 | 36·0 | 45 | 30 | 74·3 | 98 | 60 | 1642 | 1808 | 1488 | 107·6 | 127·0 | 118·0 | 130 | 109 |
-| 90 | 74 | 53·4 | 61 | 46 | 37·2 | 44 | 32 | 69·6 | 88 | 60 | 1683 | 1882 | 1570 | 114·9 | 134·0 | 116·6 | 124 | 107 |
-| 92 | 72 | 55·9 | 68 | 44 | 38·1 | 46 | 30 | 68·1 | 92 | 53 | . | .. | .. | 117·3 | 149·4 | 127·3 | 140 | 113 |
-| 93 | 70 | 57·8 | 68 | 41 | 34·4 | 43 | 30 | 59·5 | 83 | 50 | .. | .. | .. | 108·0 | 130·3 | 120·6 | 135 | 103 |
-| 93 | 74 | 54·1 | 62 | 45 | 36·7 | 49 | 30 | 67·8 | 86 | 54 | 1683 | 1928 | 1533 | 114·7 | 133·6 | 116·4 | 127 | 111 |
-| 88 | 75 | 51·2 | 56 | 46 | 39·3 | 46 | 35 | 76·7 | 92 | 66 | 1642 | 1706 | 1526 | 109·3 | 126·6 | 115·8 | 123 | 110 |
-| 95 | 80 | 60·0 | 70 | 50 | 35·2 | 40 | 30 | 58·6 | 71 | 50 | .. | .. | .. | 111·2 | 138·3 | 124·3 | 134 | 111 |
-| 94 | 81 | 59·4 | 70 | 54 | 35·0 | 42 | 28 | 58·9 | 71 | 47 | .. | .. | .. | 115·1 | 141·2 | 122·6 | 139 | 110 |
+**WESTERN PUNJAB, NORTH-WESTERN FRONTIER PROVINCE AND BALUCHISTAN. (In order of Cephalic Index.)**
+| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Minimum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Minimum. | PROPOR-TI[…]NS OF HEAD. :: C[…]PHALIC I […]DEX. :: Average. | PROPOR-TI[…]NS OF HEAD. :: C[…]PHALIC I […]DEX. :: Maximum. | PROPOR-TI[…]NS OF HEAD. :: C[…]PHALIC I […]DEX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: AVERAGE DIMENSIONS. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: AVERAGE DIMENSIONS. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **WESTERN PUN**JAB & N.-W. F. PROVINCE. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7 | Nāgar | Burusharki | Nāgar | 190·7 | 198 | 180 | 143·8 | 151 | 142 | 75·4 | 79 | 72 | 58·4 | 64 | 52 | 37·0 | 40 | 35 | 63·3 | 69 | 55 | 1648 | 1690 | 1606 | 103·0 | 116·8 | 113·3 | 124 | 108 |
+| 80 | Pathān | Western Pun-jābi | North - Western Punjab | 185·2 | 203 | 165 | 141·7 | 152 | 133 | 76·5 | 87 | 69 | 50·0 | 59 | 45 | 34·2 | 40 | 30 | 68·4 | 80 | 56 | 1687 | 1866 | 1562 | 115·9 | 135·9 | 117·1 | 131 | 108 |
+| 6 | Kāfir | Ashkun | Kāfirstān | 194·6 | 199 | 191 | 149·6 | 160 | 143 | 76·9 | 82 | 73 | 54·1 | 58 | 52 | 37·3 | 39 | 36 | 68·9 | 72 | 64 | 1671 | 1738 | 1560 | 107·0 | 124·3 | 116·1 | 118 | 113 |
+| 9 | Hunza | Burusharki | HuNza | 192·8 | 200 | 181 | 152·0 | 165 | 144 | 78·8 | 84 | 76 | 53·2 | 62 | 50 | 38·5 | 40 | 37 | 72·3 | 78 | 65 | 1708 | 1800 | 1648 | 109·0 | 123·7 | 113·4 | 119 | 109 |
+| 60 | Baloch (mixed) | Western Pun-jābi | Western Punjab | 179·2 | 197 | 155 | 143·5 | 152 | 133 | 80·0 | 95 | 72 | 49·4 | 58 | 45 | 34·3 | 40 | 30 | 69·4 | 87 | 57 | 1662 | 1803 | 1524 | 113·8 | 134·2 | 117·9 | 129 | 110 |
+| 200 | Hazāra | Persian | Afghanistan | 179·6 | 202 | 160 | 152·8 | 168 | 140 | 85·0 | 99 | 74 | 46·3 | 56 | 37 | 37·3 | 45 | 31 | 80·5 | 111 | 63 | 1684 | 1806 | 1525 | 114·0 | 126·8 | 111·2 | 120 | 103 |
+| […]ALUCHISTAN. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 58[^sec-17-fn-004] | Lori | Brāhūi and Gypsy (Mo-kāki) | Quetta and Saruṇa | 177·6 | 192 | 158 | 139·5 | 152 | 130 | 78·5 | 90 | 71 | 56·4 | 66 | 44 | 35·1 | 44 | 26 | 62·2 | 85 | 48 | .. | .. | .. | 98·7 | 119·5 | 121·0 | 133 | 105 |
+| 100[^sec-17-fn-004] | Makhiāni (Pathān) | Pashto | Harnai, Thal Cho-tiali | 181·0 | 200 | 163 | 142·1 | 159 | 130 | 78·5 | 87 | 65 | 57·4 | 64 | 46 | 34·0 | 43 | 29 | 59·2 | 78 | 48 | .. | .. | .. | 99·3 | 124·0 | 124·8 | 134 | 113 |
+| 59[^sec-17-fn-004] | Wanechi (Pathān) | Do. | Babihan, Thal Chotiali | 178·1 | 195 | 161 | 141·2 | 155 | 126 | 79·2 | 89 | 70 | 56·9 | 66 | 48 | 33·7 | 45 | 28 | 59·2 | 87 | 47 | .. | .. | .. | 99·2 | 121·8 | 122·7 | 133 | 114 |
+| 76[^sec-17-fn-004] | Dehwār | Dehwāri | Mastung | 179·4 | 200 | 165 | 142·2 | 155 | 130 | 79·2 | 88 | 68 | 54·9 | 68 | 45 | 34·1 | 40 | 28 | 62·1 | 80 | 47 | .. | .. | .. | 98·3 | 119·2 | 121·2 | 133 | 107 |
+| 100[^sec-17-fn-004] | Jāt | Jadgali | Sibi | 177·8 | 196 | 160 | 141·9 | 155 | 130 | 79·8 | 92 | 70 | 56·1 | 64 | 44 | 35·4 | 46 | 25 | 63·1 | 84 | 42 | .. | .. | .. | 98·0 | 122·5 | 125·0 | 143 | 104 |
+| 100 | Pani (Pathān) | Pashto | Do. | 183·9 | 198 | 168 | 147·4 | 158 | 139 | 80·1 | 90 | 75 | 50·9 | 58 | 43 | 37·2 | 43 | 32 | 73·0 | 90 | 55 | 1677 | 1852 | 1560 | 112·0 | 132·0 | 117·8 | 126 | 111 |
+| 271 | Baloch | Balochi | Mārri and Bugti Hills and Kacchi | 181·8 | 205 | 161 | 146·2 | 159 | 131 | 80·4 | 90 | 70 | 52·4 | 61 | 45 | 38·0 | 46 | 32 | 72·5 | 94 | 57 | 1678 | 1850 | 1506 | 112·8 | 133·6 | 118·4 | 128 | 111 |
+| 24[^sec-17-fn-004] | Dehwār | Dehwāri | Kālāt. | 178·5 | 183 | 168 | 144·4 | 160 | 133 | 80·8 | 88 | 73 | 59·5 | 70 | 53 | 34·7 | 40 | 30 | 58·3 | 67 | 48 | .. | .. | .. | 100·0 | 122·2 | 122·2 | 133 | 113 |
+| 100 | Achakzāi (Pathān) | Pashto | Chaman, Quettā Pishin | 187·7 | 210 | 175 | 152·4 | 171 | 140 | 81·1 | 91 | 74 | 55·3 | 63 | 48 | 37·8 | 47 | 31 | 68·3 | 90 | 55 | 1722 | 1862 | 1602 | 116·4 | 136·4 | 117·1 | 125 | 111 |
+| 48[^sec-17-fn-004] | Mir Jāts | Jatki | Sibi | 180·1 | 200 | 162 | 146·4 | 158 | 135 | 81·2 | 96 | 73 | 57·3 | 86 | 48 | 35·4 | 45 | 30 | 61·7 | 75 | 40 | .. | .. | .. | 99·6 | 124·2 | 124·6 | 137 | 111 |
+| 198 | Brāhūi | Brāhūi. | Sarawan Country | 182·0 | 197 | 166 | 148·4 | 165 | 135 | 81·5 | 92 | 72 | 51·3 | 65 | 41 | 36·4 | 45 | 30 | 70·9 | 98 | 55 | 1659 | 1794 | 1526 | 110·9 | 130·9 | 118·0 | 128 | 110 |
+| 200 | Dehwār | Dehwāri | Mastung | 179·4 | 198 | 165 | 146·6 | 159 | 131 | 81·7 | 91 | 72 | 48·4 | 59 | 42 | 36·0 | 45 | 30 | 74·3 | 98 | 60 | 1642 | 1808 | 1488 | 107·6 | 127·0 | 118·0 | 130 | 109 |
+| 112 | Kākar (Pathān) | Pashto | Quetta and Zhob | 184·7 | 202 | 170 | 151·4 | 169 | 140 | 81·9 | 90 | 74 | 53·4 | 61 | 46 | 37·2 | 44 | 32 | 69·6 | 88 | 60 | 1683 | 1882 | 1570 | 114·9 | 134·0 | 116·6 | 124 | 107 |
+| 79[^sec-17-fn-004] | Med | Makrāni Ba-lochi | Pasni, Gwadur, Chabar and Ormara | 181·4 | 200 | 170 | 148·9 | 160 | 136 | 82·0 | 92 | 72 | 55·9 | 68 | 44 | 38·1 | 46 | 30 | 68·1 | 92 | 53 | . | .. | .. | 117·3 | 149·4 | 127·3 | 140 | 113 |
+| 77[^sec-17-fn-004] | Mengal (Brahūi) | Brāhūi | Saruna | 179·5 | 190 | 161 | 148·7 | 162 | 130 | 82·8 | 93 | 70 | 57·8 | 68 | 41 | 34·4 | 43 | 30 | 59·5 | 83 | 50 | .. | .. | .. | 108·0 | 130·3 | 120·6 | 135 | 103 |
+| 100 | Tārin (Pathān) | Pashto | Pishin | 182·1 | 199 | 165 | 150·9 | 170 | 138 | 82·8 | 93 | 74 | 54·1 | 62 | 45 | 36·7 | 49 | 30 | 67·8 | 86 | 54 | 1683 | 1928 | 1533 | 114·7 | 133·6 | 116·4 | 127 | 111 |
+| 13 | Ghulām (Slaves) | Balochi | Baluchistan. | 179·0 | 188 | 170 | 150·2 | 159 | 141 | 83·9 | 88 | 75 | 51·2 | 56 | 46 | 39·3 | 46 | 35 | 76·7 | 92 | 66 | 1642 | 1706 | 1526 | 109·3 | 126·6 | 115·8 | 123 | 110 |
+| 33[^sec-17-fn-004] | Chhutta | Jadgāli | Hinidan Levy Tracts | 176·1 | 190 | 162 | 150·2 | 162 | 140 | 85·2 | 95 | 80 | 60·0 | 70 | 50 | 35·2 | 40 | 30 | 58·6 | 71 | 50 | .. | .. | .. | 111·2 | 138·3 | 124·3 | 134 | 111 |
+| 35[^sec-17-fn-004] | Bandija | Do. | Kila do. | 174·6 | 190 | 162 | 152·0 | 162 | 144 | 87·0 | 94 | 81 | 59·4 | 70 | 54 | 35·0 | 42 | 28 | 58·9 | 71 | 47 | .. | .. | .. | 115·1 | 141·2 | 122·6 | 139 | 110 |
 
 
 <!-- page: 442 | folio: 400 -->
 
-#### *SUMMARY OF M*
+#### *SUMMARY OF MEASUREMENTS.*
 
 
-##### INDO-ARY
+##### INDO-ARYAN TYPE.
 
 
-**PUNJAB AND RAJPUTANA.**
-| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Minimum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Minimum. | PRO TION HE :: <span class="sc">Cep In</span> :: Average. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 19 | Māchhi | Punjābī | Punjāb | 188·4 | 196 | 182 | 136·3 | 147 | 127 | 72·3 |
-| 120 | Rājput | Rājasthāni | Rajputānā | 192·5 | 213 | 180 | 139·4 | 151 | 127 | 72·4 |
-| 13 | Gūjar | Punjābī | Punjāb | 192·6 | 205 | 185 | 139·6 | 148 | 133 | 72·4 |
-| 27 | Arora | Ditto | Ditto | 190·7 | 206 | 177 | 138·6 | 149 | 130 | 72·6 |
-| 80 | Sikh (Jāt) | Ditto | Ditto | 190·2 | 203 | 172 | 138·4 | 152 | 127 | 72·7 |
-| 100 | Meo | Rājasthāni | Rajputānā | 189·5 | 204 | 178 | 138·4 | 147 | 126 | 73·0 |
-| 100 | Mīna Zamindār | Ditto | Ditto | 192·4 | 207 | 174 | 140·6 | 155 | 132 | 73·0 |
-| 100 | Mīna Chaukidār | Ditto | Ditto | 189·9 | 207 | 176 | 139·1 | 150 | 130 | 73·2 |
-| 80 | Chuhra | Punjābī | Punjāb | 186·7 | 200 | 171 | 137·1 | 152 | 127 | 73·4 |
-| 60 | Khatri | Ditto | Ditto | 185·7 | 200 | 172 | 137·5 | 150 | 128 | 74·0 |
-| 33 | Awān | Ditto | Ditto | 188·8 | 201 | 175 | 140·5 | 147 | 130 | 74·4 |
-
-
-<!-- page: 443 | folio: 401 -->
-
-### DIX III
-
-
-#### *MEASUREMENTS.*
-
-
-##### YAN TYPE.
-
-
-**(In order of Cephalic Index.)**
-| OPOR-NS OF EAD. :: PHALIC DEX. :: Maximum. | OPOR-NS OF EAD. :: PHALIC DEX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 76 | 68 | 49·8 | 53 | 46 | 34·9 | 41 | 31 | 70·0 | 82 | 62 | 1699 | 1828 | 1600 | 112·1 | 131·0 | 116·8 | 125 | 110 |
-| 81 | 64 | 51·2 | 61 | 43 | 36·7 | 44 | 31 | 71·6 | 91 | 53 | 1748 | 1924 | 1654 | 108·5 | 128·0 | 117·9 | 129 | 107 |
-| 78 | 68 | 50·3 | 55 | 47 | 33·7 | 39 | 31 | 66·9 | 78 | 60 | 1703 | 1778 | 1650 | 112·7 | 130·6 | 115·8 | 123 | 111 |
-| 81 | 67 | 49·7 | 54 | 47 | 35·4 | 42 | 30 | 71·2 | 81 | 60 | 1658 | 1803 | 1574 | 111·5 | 129·5 | 116·1 | 121 | 110 |
-| 81 | 66 | 50·1 | 61 | 45 | 34·5 | 41 | 30 | 68·8 | 85 | 56 | 1716 | 1905 | 1625 | 113·6 | 132·5 | 116·6 | 125 | 110 |
-| 81 | 67 | 50·4 | 60 | 43 | 38·1 | 46 | 32 | 75·5 | 92 | 59 | 1690 | 1852 | 1536 | 106·4 | 121·2 | 113·9 | 123 | 107 |
-| 83 | 67 | 51·2 | 59 | 41 | 38·1 | 44 | 32 | 74·4 | 91 | 61 | 1713 | 1850 | 1606 | 108·0 | 124·4 | 115·1 | 123 | 107 |
-| 81 | 61 | 51·0 | 59 | 44 | 37·8 | 44 | 32 | 74·2 | 96 | 61 | 1703 | 1820 | 1570 | 108·5 | 125·4 | 115·5 | 125 | 107 |
-| 82 | 68 | 48·0 | 56 | 45 | 36·1 | 45 | 31 | 75·2 | 94 | 60 | 1666 | 1803 | 1524 | 112·2 | 129·4 | 115·3 | 123 | 108 |
-| 86 | 66 | 48·8 | 58 | 44 | 35·7 | 42 | 30 | 73·1 | 95 | 59 | 1662 | 1803 | 1574 | 111·9 | 126·6 | 113·1 | 122 | 106 |
-| 80 | 70 | 50·7 | 57 | 44 | 34·9 | 39 | 30 | 68·8 | 79 | 55 | 1706 | 1828 | 1600 | 113·0 | 131·3 | 110·1 | 125 | 110 |
+**PUNJAB AND RAJPUTANA. **(In order of Cephalic Index.)****
+| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Length (Glabel-lo-occipital).</span> :: Minimum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Average. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Maximum. | DIMENSIONS OF HEAD. :: <span class="sc">Breadth (Extreme).</span> :: Minimum. | PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Average. | PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum. | PROPORTIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 19 | Māchhi | Punjābī | Punjāb | 188·4 | 196 | 182 | 136·3 | 147 | 127 | 72·3 | 76 | 68 | 49·8 | 53 | 46 | 34·9 | 41 | 31 | 70·0 | 82 | 62 | 1699 | 1828 | 1600 | 112·1 | 131·0 | 116·8 | 125 | 110 |
+| 120 | Rājput | Rājasthāni | Rajputānā | 192·5 | 213 | 180 | 139·4 | 151 | 127 | 72·4 | 81 | 64 | 51·2 | 61 | 43 | 36·7 | 44 | 31 | 71·6 | 91 | 53 | 1748 | 1924 | 1654 | 108·5 | 128·0 | 117·9 | 129 | 107 |
+| 13 | Gūjar | Punjābī | Punjāb | 192·6 | 205 | 185 | 139·6 | 148 | 133 | 72·4 | 78 | 68 | 50·3 | 55 | 47 | 33·7 | 39 | 31 | 66·9 | 78 | 60 | 1703 | 1778 | 1650 | 112·7 | 130·6 | 115·8 | 123 | 111 |
+| 27 | Arora | Ditto | Ditto | 190·7 | 206 | 177 | 138·6 | 149 | 130 | 72·6 | 81 | 67 | 49·7 | 54 | 47 | 35·4 | 42 | 30 | 71·2 | 81 | 60 | 1658 | 1803 | 1574 | 111·5 | 129·5 | 116·1 | 121 | 110 |
+| 80 | Sikh (Jāt) | Ditto | Ditto | 190·2 | 203 | 172 | 138·4 | 152 | 127 | 72·7 | 81 | 66 | 50·1 | 61 | 45 | 34·5 | 41 | 30 | 68·8 | 85 | 56 | 1716 | 1905 | 1625 | 113·6 | 132·5 | 116·6 | 125 | 110 |
+| 100 | Meo | Rājasthāni | Rajputānā | 189·5 | 204 | 178 | 138·4 | 147 | 126 | 73·0 | 81 | 67 | 50·4 | 60 | 43 | 38·1 | 46 | 32 | 75·5 | 92 | 59 | 1690 | 1852 | 1536 | 106·4 | 121·2 | 113·9 | 123 | 107 |
+| 100 | Mīna Zamindār | Ditto | Ditto | 192·4 | 207 | 174 | 140·6 | 155 | 132 | 73·0 | 83 | 67 | 51·2 | 59 | 41 | 38·1 | 44 | 32 | 74·4 | 91 | 61 | 1713 | 1850 | 1606 | 108·0 | 124·4 | 115·1 | 123 | 107 |
+| 100 | Mīna Chaukidār | Ditto | Ditto | 189·9 | 207 | 176 | 139·1 | 150 | 130 | 73·2 | 81 | 61 | 51·0 | 59 | 44 | 37·8 | 44 | 32 | 74·2 | 96 | 61 | 1703 | 1820 | 1570 | 108·5 | 125·4 | 115·5 | 125 | 107 |
+| 80 | Chuhra | Punjābī | Punjāb | 186·7 | 200 | 171 | 137·1 | 152 | 127 | 73·4 | 82 | 68 | 48·0 | 56 | 45 | 36·1 | 45 | 31 | 75·2 | 94 | 60 | 1666 | 1803 | 1524 | 112·2 | 129·4 | 115·3 | 123 | 108 |
+| 60 | Khatri | Ditto | Ditto | 185·7 | 200 | 172 | 137·5 | 150 | 128 | 74·0 | 86 | 66 | 48·8 | 58 | 44 | 35·7 | 42 | 30 | 73·1 | 95 | 59 | 1662 | 1803 | 1574 | 111·9 | 126·6 | 113·1 | 122 | 106 |
+| 33 | Awān | Ditto | Ditto | 188·8 | 201 | 175 | 140·5 | 147 | 130 | 74·4 | 80 | 70 | 50·7 | 57 | 44 | 34·9 | 39 | 30 | 68·8 | 79 | 55 | 1706 | 1828 | 1600 | 113·0 | 131·3 | 110·1 | 125 | 110 |
 
 
 <!-- page: 446 | folio: 404 -->
 
-### APP
+#### *SUMMARY OF MEASUREMENTS.*
 
 
-#### *SUMMARY OF*
+##### **SCYTHO-D**[…]AVIDIAN TYPE.
 
 
-##### **SCYTHO-D**
-
-
-**BOMBAY AND COORG**
-| Number of subjects. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average. | <span class="sc">Name of Tribe or Caste.</span> :: BREADTH (EXTREME). :: Maximum. | <span class="sc">Name of Tribe or Caste.</span> :: BREADTH (EXTREME). :: Minimum. | Language or Dialect. :: BREADTH (EXTREME). :: Average. | Language or Dialect. :: BREADTH (EXTREME). :: Maximum. | Locality. :: BREADTH (EXTREME). :: Minimum. | Locality. | DIMENSIONS OF HEAD. | DIMENSIONS OF HEAD. | Column 10 | Column 11 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 100 | Deshasth Brāhman | Marathi | Poona, Satara, Ahmednagar | 185·4 | 198 | 170 | 142·7 | 157 | 131 | 7 |
-| 100 | Mahār | Marathi | Poona | 181·6 | 195 | 165 | 140·0 | 152 | 129 | 7 |
-| 100 | Kokanasth Brāhman (Chitpāvan) | Marathi | Bombay and Poona | 186·4 | 202 | 170 | 144·2 | 155 | 122 | 7 |
-| 100 | Kunbi | Marathi | Poona | 180·1 | 197 | 165 | 139·4 | 156 | 130 | 7 |
-| 100 | Koli (Sōn) | Koli Dialect | Thana | 185·0 | 201 | 171 | 143·5 | 159 | 134 | 7 |
-| 100 | Marātha | Marathi | Poona | 181·3 | 195 | 166 | 142·1 | 158 | 127 | 7 |
-| 100 | Shenvi Brāhman | Marathi | Bombay city | 186·2 | 201 | 170 | 147·1 | 160 | 132 | 7 |
-| 127 | Vania | Gujerati | Ahmedabad | 183·0 | 202 | 170 | 145·2 | 156 | 135 | 7 |
-| 100 | Nāgar Brāhman | Gujerati | Ahmedabad | 184·4 | 202 | 151 | 147·1 | 166 | 132 | 7 |
-| 100 | Prabhu | Marathi | Satara, Poona, Bombay (city), Thana | 184·2 | 198 | 170 | 147·2 | 158 | 131 | 7 |
-| 32 | Coorg[^sec-17-fn-005] | Kodagu | Coorg | 184·0 | 195 | 168 | 147·0 | 154 | 138 | 7 |
-| **Dravidian For** |  |  |  |  |  |  |  |  |  |  |
-|  | Kātkari | Kātkari | Thana | 178·8 | 199 | 160 | 133·0 | 143 | 126 | 7 |
-
-
-<!-- page: 447 | folio: 405 -->
-
-### *MEASUREMENTS.*
-
-
-#### AVIDIAN TYPE.
-
-
-**(In order of Cephalic Index.)**
-| ROPOR-ONS OF HEAD. :: EPHALIC INDEX. :: Maximum. | ROPOR-ONS OF HEAD. :: EPHALIC INDEX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 88 | 68 | 48·9 | 56 | 42 | 38·8 | 44 | 34 | 79·3 | 98 | 69 | 1642 | 1750 | 1486 | 116·6 | 135·6 | 116·2 | 127 | 105 |
-| 88 | 69 | 47·2 | 53 | 41 | 38·7 | 46 | 33 | 81·9 | 96 | 70 | 1634 | 1792 | 1490 | 113·9 | 130·6 | 114·6 | 125 | 108 |
-| 85 | 70 | 49·3 | 57 | 41 | 37·8 | 43 | 31 | 76·6 | 93 | 60 | 1655 | 1813 | 1512 | 116·0 | 134·2 | 115·6 | 124 | 103 |
-| 92 | 69 | 47·9 | 54 | 40 | 37·9 | 42 | 33 | 79·2 | 93 | 67 | 1600 | 1776 | 1420 | 113·2 | 129·5 | 114·5 | 124 | 104 |
-| 85 | 71 | 49·6 | 57 | 42 | 37·9 | 47 | 31 | 76·4 | 93 | 62 | 1601 | 1760 | 1482 | 114·5 | 129·5 | 113·1 | 122 | 104 |
-| 89 | 69 | 47·8 | 57 | 38 | 38·3 | 48 | 33 | 80·1 | 108 | 66 | 1632 | 1770 | 1476 | 114·9 | 133·1 | 115·8 | 132 | 107 |
-| 92 | 71 | 50·3 | 59 | 42 | 37·6 | 43 | 33 | 74·7 | 95 | 63 | 1648 | 1774 | 1481 | 112·9 | 129·5 | 114·7 | 124 | 104 |
-| 88 | 70 | 49·9 | 59 | 35 | 37·8 | 49 | 31 | 75·7 | 10 | 61 | 1612 | 1732 | 1489 | 113·1 | 131·5 | 116·2 | 128 | 108 |
-| 90 | 71 | 50·7 | 61 | 44 | 37·1 | 44 | 31 | 73·1 | 90 | 57 | 1643 | 1788 | 1513 | 114·1 | 133·2 | 116·7 | 124 | 108 |
-| 89 | 70 | 50·1 | 58 | 44 | 38·0 | 45 | 32 | 75·8 | 93 | 60 | 1627 | 1814 | 1504 | 113·0 | 128·2 | 113·4 | 121 | 106 |
-| 89 | 74 | 51·5 | 57 | 46 | 37·0 | 40 | 32 | 72·0 | 86 | 61 | 1687 | 1820 | 1580 | 110·0 | 132·0 | 120·0 | 130 | 108 |
-| **Nomads in Scytho-Dravidian Tract.** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 82 | 68 | 44·0 | 52 | 37 | 38·7 | 45 | 31 | 88·0 | 111 | 70 | 1584 | 1690 | 1438 | 107·8 | 121·2 | 112·4 | 121 | 104 |
+****BOMBAY AND COORG** (In order of Cephalic Index.)**
+| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Average. | DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Maximum. | DIMENSIONS OF HEAD. :: LENGTH (GLABEL-LO-OCCIPITAL). :: Minimum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum. | Column 11 | […]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Maximum. | […]ROPOR- […]ONS OF HEAD. :: […]EPHALIC INDEX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External bi-orbital Breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 100 | Deshasth Brāhman | Marathi | Poona, Satara, Ahmednagar | 185·4 | 198 | 170 | 142·7 | 157 | 131 | 7 | 88 | 68 | 48·9 | 56 | 42 | 38·8 | 44 | 34 | 79·3 | 98 | 69 | 1642 | 1750 | 1486 | 116·6 | 135·6 | 116·2 | 127 | 105 |
+| 100 | Mahār | Marathi | Poona | 181·6 | 195 | 165 | 140·0 | 152 | 129 | 7 | 88 | 69 | 47·2 | 53 | 41 | 38·7 | 46 | 33 | 81·9 | 96 | 70 | 1634 | 1792 | 1490 | 113·9 | 130·6 | 114·6 | 125 | 108 |
+| 100 | Kokanasth Brāhman (Chitpāvan) | Marathi | Bombay and Poona | 186·4 | 202 | 170 | 144·2 | 155 | 122 | 7 | 85 | 70 | 49·3 | 57 | 41 | 37·8 | 43 | 31 | 76·6 | 93 | 60 | 1655 | 1813 | 1512 | 116·0 | 134·2 | 115·6 | 124 | 103 |
+| 100 | Kunbi | Marathi | Poona | 180·1 | 197 | 165 | 139·4 | 156 | 130 | 7 | 92 | 69 | 47·9 | 54 | 40 | 37·9 | 42 | 33 | 79·2 | 93 | 67 | 1600 | 1776 | 1420 | 113·2 | 129·5 | 114·5 | 124 | 104 |
+| 100 | Koli (Sōn) | Koli Dialect | Thana | 185·0 | 201 | 171 | 143·5 | 159 | 134 | 7 | 85 | 71 | 49·6 | 57 | 42 | 37·9 | 47 | 31 | 76·4 | 93 | 62 | 1601 | 1760 | 1482 | 114·5 | 129·5 | 113·1 | 122 | 104 |
+| 100 | Marātha | Marathi | Poona | 181·3 | 195 | 166 | 142·1 | 158 | 127 | 7 | 89 | 69 | 47·8 | 57 | 38 | 38·3 | 48 | 33 | 80·1 | 108 | 66 | 1632 | 1770 | 1476 | 114·9 | 133·1 | 115·8 | 132 | 107 |
+| 100 | Shenvi Brāhman | Marathi | Bombay city | 186·2 | 201 | 170 | 147·1 | 160 | 132 | 7 | 92 | 71 | 50·3 | 59 | 42 | 37·6 | 43 | 33 | 74·7 | 95 | 63 | 1648 | 1774 | 1481 | 112·9 | 129·5 | 114·7 | 124 | 104 |
+| 127 | Vania | Gujerati | Ahmedabad | 183·0 | 202 | 170 | 145·2 | 156 | 135 | 7 | 88 | 70 | 49·9 | 59 | 35 | 37·8 | 49 | 31 | 75·7 | 10 | 61 | 1612 | 1732 | 1489 | 113·1 | 131·5 | 116·2 | 128 | 108 |
+| 100 | Nāgar Brāhman | Gujerati | Ahmedabad | 184·4 | 202 | 151 | 147·1 | 166 | 132 | 7 | 90 | 71 | 50·7 | 61 | 44 | 37·1 | 44 | 31 | 73·1 | 90 | 57 | 1643 | 1788 | 1513 | 114·1 | 133·2 | 116·7 | 124 | 108 |
+| 100 | Prabhu | Marathi | Satara, Poona, Bombay (city), Thana | 184·2 | 198 | 170 | 147·2 | 158 | 131 | 7 | 89 | 70 | 50·1 | 58 | 44 | 38·0 | 45 | 32 | 75·8 | 93 | 60 | 1627 | 1814 | 1504 | 113·0 | 128·2 | 113·4 | 121 | 106 |
+| 32 | Coorg[^sec-17-fn-005] | Kodagu | Coorg | 184·0 | 195 | 168 | 147·0 | 154 | 138 | 7 | 89 | 74 | 51·5 | 57 | 46 | 37·0 | 40 | 32 | 72·0 | 86 | 61 | 1687 | 1820 | 1580 | 110·0 | 132·0 | 120·0 | 130 | 108 |
+| **Dravidian For Nomads in Scytho-Dravidian Tract.** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Kātkari | Kātkari | Thana | 178·8 | 199 | 160 | 133·0 | 143 | 126 | 7 | 82 | 68 | 44·0 | 52 | 37 | 38·7 | 45 | 31 | 88·0 | 111 | 70 | 1584 | 1690 | 1438 | 107·8 | 121·2 | 112·4 | 121 | 104 |
 
 
 <!-- page: 450 | folio: 408 -->
 
-### APP
+#### *SUMMARY OF […]EASUREMENTS.*
 
 
-#### *SUMMARY OF*
+##### **SCYTHO-DR**[…]IDIAN TYPE.
 
 
-##### **SCYTHO-DR**
+##### **MADRAS (DECCAN).** […]order of Cephalic Index.)
 
 
-##### **MADRAS (DECCAN).**
-
-
-**[E. Thu**
-| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | **DIMENSIONS OF** :: **<span class="sc">Length (Glabel-lo-occipital).</span>** :: Average. | **DIMENSIONS OF** :: **<span class="sc">Length (Glabel-lo-occipital).</span>** :: Maximum. | **DIMENSIONS OF** :: **<span class="sc">Length (Glabel-lo-occipital).</span>** :: Minimum. | **DIMENSIONS OF** :: Average. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 40 | Madiga | Telugu | Bellary | 183 | 200 | 172 | 140 |
-| 25 | Brāhman (Deshasth) | Canarese | Bellary | 187 | 202 | 180 | 144 |
-| 30 | Mala | Telugu | Bellary | 184 | 198 | 168 | 142 |
-| 25 | Sadaru Lingāyat | Canarese | Bellary | 182 | 200 | 170 | 141 |
-| 25 | Komati | Canarese | Bellary | 182 | 194 | 170 | 143 |
-| 40 | Bidar | Telugu | Bellary | 184 | 200 | 168 | 143 |
-| 30 | Linga Banjigaru | Canarese | Bellary | 182 | 194 | 166 | 142 |
-| 30 | Padma Sale | Telugu | Bellary | 178 | 190 | 165 | 141 |
-| 50 | Kuruba | Canarese | Bellary | 181 | 196 | 170 | 142 |
-| 30 | Jangam (Lingāyat) | Canarese | Bellary | 181 | 196 | 166 | 143 |
-| 30 | Rangāri | Marāthi | Bellary | 181 | 198 | 168 | 145 |
-| 30 | Togata | Telugu | Bellary | 177 | 190 | 162 | 142 |
-| 20 | Ganiga | Canarese | Bellary | 180 | 191 | 166 | 144 |
-| 20 | Devanga | Canarese | Bellary | 180 | 196 | 170 | 145 |
-| 30 | Suka Sale | Marāthi | Bellary | 177 | 188 | 166 | 145 |
-| 30 | Sukun Sale | Marāthi | Bellary | 176 | 190 | 160 | 144 |
-
-
-<!-- page: 451 | folio: 409 -->
-
-### DIX III
-
-
-#### *EASUREMENTS.*
-
-
-#### IDIAN TYPE.
-
-
-**<span class="sc">N, Esquire.</span>]**
-| AD. :: <span class="sc">EADTH REME).</span> :: Maximum. | AD. :: <span class="sc">EADTH REME).</span> :: Minimum. | PROPORTIONS OF HEAD. :: <span class="sc">Cephalic Index.</span> :: Average. | PROPORTIONS OF HEAD. :: <span class="sc">Cephalic Index.</span> :: Maximum. | PROPORTIONS OF HEAD. :: <span class="sc">Cephalic Index.</span> :: Minimum. | DIMENSIONS OF NOSE. :: <span class="sc">Height.</span> :: Average. | DIMENSIONS OF NOSE. :: <span class="sc">Height.</span> :: Maximum. | DIMENSIONS OF NOSE. :: <span class="sc">Height.</span> :: Minimum. | DIMENSIONS OF NOSE. :: <span class="sc">Breadth.</span> :: Average. | DIMENSIONS OF NOSE. :: <span class="sc">Breadth.</span> :: Maximum. | DIMENSIONS OF NOSE. :: <span class="sc">Breadth.</span> :: Minimum. | PROPORTIONS OF NOSE. :: <span class="sc">Nasal Index.</span> :: Average. | PROPORTIONS OF NOSE. :: <span class="sc">Nasal Index.</span> :: Maximum. | PROPORTIONS OF NOSE. :: <span class="sc">Nasal Index.</span> :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 54 | 130 | 76·5 | 83·3 | 68·0 | 46 | 51 | 40 | 35 | 39 | 32 | 77·5 | 91·1 | 66·7 | 1629 | 1734 | 1522 |
-| 52 | 132 | 77·0 | 83·4 | 71·0 | 48 | 54 | 44 | 36 | 42 | 32 | 75·8 | 87·2 | 66·0 | 1634 | 1750 | 1514 |
-| 48 | 134 | 77·1 | 85·9 | 70·3 | 48 | 52 | 44 | 36 | 41 | 34 | 76·2 | 93·2 | 66·7 | 1639 | 1750 | 1538 |
-| 52 | 134 | 77·7 | 87·0 | 65·0 | 48 | 53 | 42 | 35 | 40 | 32 | 73·4 | 88·9 | 60·4 | 1658 | 1745 | 1522 |
-| 52 | 133 | 77·9 | 88·2 | 72·2 | 47 | 53 | 43 | 36 | 43 | 32 | 77·8 | 100·0 | 65·3 | 1610 | 1683 | 1532 |
-| 52 | 132 | 78·1 | 85·3 | 70·8 | 46 | 48 | 43 | 36 | 40 | 34 | 79·4 | 91·0 | 65·2 | 1654 | 1766 | 1560 |
-| 50 | 134 | 78·3 | 87·9 | 73·7 | 47 | 52 | 43 | 35 | 38 | 31 | 74·6 | 86·4 | 61·5 | 1656 | 1730 | 1578 |
-| 51 | 132 | 78·7 | 86·2 | 72·8 | 47 | 53 | 41 | 35 | 38 | 32 | 73·2 | 83·7 | 61·5 | 1599 | 1714 | 1538 |
-| 54 | 134 | 78·9 | 88·4 | 72·9 | 47 | 52 | 41 | 35 | 42 | 30 | 74·9 | 92·2 | 63·3 | 1627 | 1754 | 1474 |
-| 52 | 132 | 79·1 | 86·8 | 70·4 | 47 | 52 | 42 | 35 | 38 | 31 | 74·5 | 88·1 | 64·7 | 1651 | 1736 | 1576 |
-| 54 | 138 | 79·8 | 92·2 | 70·7 | 49 | 52 | 46 | 36 | 41 | 33 | 73·6 | 84·1 | 63·5 | 1613 | 1684 | 1544 |
-| 48 | 136 | 80·0 | 88·1 | 73·7 | 47 | 50 | 42 | 36 | 46 | 33 | 77·5 | 93·9 | 68·8 | 1605 | 1689 | 1514 |
-| 52 | 140 | 80·5 | 86·7 | 74·5 | 48 | 53 | 44 | 35 | 38 | 32 | 73·7 | 84·4 | 62·7 | 1643 | 1724 | 1550 |
-| 55 | 136 | 80·8 | 87·1 | 74·7 | 47 | 52 | 43 | 35 | 38 | 32 | 74·6 | 80·9 | 65·3 | 1618 | 1686 | 1546 |
-| 50 | 134 | 81·8 | 88·2 | 76·1 | 47 | 51 | 43 | 35 | 40 | 32 | 74·8 | 86·1 | 62·3 | 1611 | 1700 | 1478 |
-| 54 | 136 | 82·2 | 90·0 | 73·9 | 47 | 52 | 41 | 35 | 38 | 31 | 74·8 | 84·4 | 61·5 | 1603 | 1676 | 1525 |
+**[E. Thu[…]<span class="sc">N, Esquire.</span>]**
+| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | **DIMENSIONS OF** […]AD. :: **<span class="sc">Length (Glabel-lo-occipital).</span>** :: Average. | **DIMENSIONS OF** […]AD. :: **<span class="sc">Length (Glabel-lo-occipital).</span>** :: Maximum. | **DIMENSIONS OF** […]AD. :: **<span class="sc">Length (Glabel-lo-occipital).</span>** :: Minimum. | **DIMENSIONS OF** […]AD. :: Average. | **DIMENSIONS OF** […]AD. :: <span class="sc">[…]EADTH […]REME).</span> :: Maximum. | **DIMENSIONS OF** […]AD. :: <span class="sc">[…]EADTH […]REME).</span> :: Minimum. | PROPORTIONS OF HEAD. :: <span class="sc">Cephalic Index.</span> :: Average. | PROPORTIONS OF HEAD. :: <span class="sc">Cephalic Index.</span> :: Maximum. | PROPORTIONS OF HEAD. :: <span class="sc">Cephalic Index.</span> :: Minimum. | DIMENSIONS OF NOSE. :: <span class="sc">Height.</span> :: Average. | DIMENSIONS OF NOSE. :: <span class="sc">Height.</span> :: Maximum. | DIMENSIONS OF NOSE. :: <span class="sc">Height.</span> :: Minimum. | DIMENSIONS OF NOSE. :: <span class="sc">Breadth.</span> :: Average. | DIMENSIONS OF NOSE. :: <span class="sc">Breadth.</span> :: Maximum. | DIMENSIONS OF NOSE. :: <span class="sc">Breadth.</span> :: Minimum. | PROPORTIONS OF NOSE. :: <span class="sc">Nasal Index.</span> :: Average. | PROPORTIONS OF NOSE. :: <span class="sc">Nasal Index.</span> :: Maximum. | PROPORTIONS OF NOSE. :: <span class="sc">Nasal Index.</span> :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 40 | Madiga | Telugu | Bellary | 183 | 200 | 172 | 140 | 54 | 130 | 76·5 | 83·3 | 68·0 | 46 | 51 | 40 | 35 | 39 | 32 | 77·5 | 91·1 | 66·7 | 1629 | 1734 | 1522 |
+| 25 | Brāhman (Deshasth) | Canarese | Bellary | 187 | 202 | 180 | 144 | 52 | 132 | 77·0 | 83·4 | 71·0 | 48 | 54 | 44 | 36 | 42 | 32 | 75·8 | 87·2 | 66·0 | 1634 | 1750 | 1514 |
+| 30 | Mala | Telugu | Bellary | 184 | 198 | 168 | 142 | 48 | 134 | 77·1 | 85·9 | 70·3 | 48 | 52 | 44 | 36 | 41 | 34 | 76·2 | 93·2 | 66·7 | 1639 | 1750 | 1538 |
+| 25 | Sadaru Lingāyat | Canarese | Bellary | 182 | 200 | 170 | 141 | 52 | 134 | 77·7 | 87·0 | 65·0 | 48 | 53 | 42 | 35 | 40 | 32 | 73·4 | 88·9 | 60·4 | 1658 | 1745 | 1522 |
+| 25 | Komati | Canarese | Bellary | 182 | 194 | 170 | 143 | 52 | 133 | 77·9 | 88·2 | 72·2 | 47 | 53 | 43 | 36 | 43 | 32 | 77·8 | 100·0 | 65·3 | 1610 | 1683 | 1532 |
+| 40 | Bidar | Telugu | Bellary | 184 | 200 | 168 | 143 | 52 | 132 | 78·1 | 85·3 | 70·8 | 46 | 48 | 43 | 36 | 40 | 34 | 79·4 | 91·0 | 65·2 | 1654 | 1766 | 1560 |
+| 30 | Linga Banjigaru | Canarese | Bellary | 182 | 194 | 166 | 142 | 50 | 134 | 78·3 | 87·9 | 73·7 | 47 | 52 | 43 | 35 | 38 | 31 | 74·6 | 86·4 | 61·5 | 1656 | 1730 | 1578 |
+| 30 | Padma Sale | Telugu | Bellary | 178 | 190 | 165 | 141 | 51 | 132 | 78·7 | 86·2 | 72·8 | 47 | 53 | 41 | 35 | 38 | 32 | 73·2 | 83·7 | 61·5 | 1599 | 1714 | 1538 |
+| 50 | Kuruba | Canarese | Bellary | 181 | 196 | 170 | 142 | 54 | 134 | 78·9 | 88·4 | 72·9 | 47 | 52 | 41 | 35 | 42 | 30 | 74·9 | 92·2 | 63·3 | 1627 | 1754 | 1474 |
+| 30 | Jangam (Lingāyat) | Canarese | Bellary | 181 | 196 | 166 | 143 | 52 | 132 | 79·1 | 86·8 | 70·4 | 47 | 52 | 42 | 35 | 38 | 31 | 74·5 | 88·1 | 64·7 | 1651 | 1736 | 1576 |
+| 30 | Rangāri | Marāthi | Bellary | 181 | 198 | 168 | 145 | 54 | 138 | 79·8 | 92·2 | 70·7 | 49 | 52 | 46 | 36 | 41 | 33 | 73·6 | 84·1 | 63·5 | 1613 | 1684 | 1544 |
+| 30 | Togata | Telugu | Bellary | 177 | 190 | 162 | 142 | 48 | 136 | 80·0 | 88·1 | 73·7 | 47 | 50 | 42 | 36 | 46 | 33 | 77·5 | 93·9 | 68·8 | 1605 | 1689 | 1514 |
+| 20 | Ganiga | Canarese | Bellary | 180 | 191 | 166 | 144 | 52 | 140 | 80·5 | 86·7 | 74·5 | 48 | 53 | 44 | 35 | 38 | 32 | 73·7 | 84·4 | 62·7 | 1643 | 1724 | 1550 |
+| 20 | Devanga | Canarese | Bellary | 180 | 196 | 170 | 145 | 55 | 136 | 80·8 | 87·1 | 74·7 | 47 | 52 | 43 | 35 | 38 | 32 | 74·6 | 80·9 | 65·3 | 1618 | 1686 | 1546 |
+| 30 | Suka Sale | Marāthi | Bellary | 177 | 188 | 166 | 145 | 50 | 134 | 81·8 | 88·2 | 76·1 | 47 | 51 | 43 | 35 | 40 | 32 | 74·8 | 86·1 | 62·3 | 1611 | 1700 | 1478 |
+| 30 | Sukun Sale | Marāthi | Bellary | 176 | 190 | 160 | 144 | 54 | 136 | 82·2 | 90·0 | 73·9 | 47 | 52 | 41 | 35 | 38 | 31 | 74·8 | 84·4 | 61·5 | 1603 | 1676 | 1525 |
 
 
 <!-- page: 453 | folio: 389 -->
 
-**MADRAS, CHOTA NAGPUR, MEWAR AND CEYLON. (In order of Nasal Index.)**
+***SUMMARY OF MEASUREMENTS.* — **DRAVIDIAN TYPE.** — **MADRAS, CHOTA NAGPUR, MEWAR AND CEYLON. (In order of Nasal Index.)****
 | Number of subjects. :: <span class="sc">Length (Glabello-occipital).</span> :: Average. | <span class="sc">Tribe or Caste.</span> :: <span class="sc">Breadth (Extreme).</span> :: Maximum. | <span class="sc">Tribe or Caste.</span> :: <span class="sc">Cephalic Index.</span> :: Minimum. | <span class="sc">Tribe or Caste.</span> :: <span class="sc">Height.</span> :: Average. | Language or Dialect. :: <span class="sc">Breadth.</span> :: Maximum. | Language or Dialect. :: <span class="sc">Nasal Index.</span> :: Minimum. | Language or Dialect. :: Average. | Locality. :: Maximum. | Locality. :: Minimum. | Locality. :: Average. | <span class="sc">Dimensions of Head.</span> :: Maximum. | <span class="sc">Dimensions of Head.</span> :: Minimum. | <span class="sc">Dimensions of Head.</span> :: Average. | <span class="sc">Proportions of Head.</span> :: Maximum. | <span class="sc">Proportions of Head.</span> :: Minimum. | <span class="sc">Proportions of Head.</span> :: Average. | <span class="sc">Dimensions of Nose.</span> :: Maximum. | <span class="sc">Dimensions of Nose.</span> :: Minimum. | <span class="sc">Dimensions of Nose.</span> :: Average. | <span class="sc">Proportions of Nose.</span> :: Maximum. | <span class="sc">Proportions of Nose.</span> :: Minimum. | <span class="sc">Proportions of Nose.</span> | <span class="sc">Stature.</span> | <span class="sc">Stature.</span> | <span class="sc">Stature.</span> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 40 | Lambādi | Gujerāthi | Mysore | 184 | 197 | 166 | 139 | 148 | 128 | 75·4 | 83·5 | 68·7 | 49 | 55 | 43 | 34 | 39 | 29 | 69·1 | 83·7 | 59·2 | 1645 | 1768 | 1520 |
@@ -4411,292 +4281,145 @@ The Hindu gods have fled to Dwārka ; the Musalmān saints to Mecca ; under Brit
 
 <!-- page: 456 | folio: 392 -->
 
-### *SUMMARY OF*
+### *SUMMARY OF […]EASUREMENTS.*
 
 
-#### ARYO-DRAV
+#### ARYO-DRAV[…]IAN TYPE.
 
 
-**UNITED PROVINCES, BEHAR AN**
-| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum. | PROPO TIONS HEA :: CEPHA INDE :: Average. | PROPO TIONS HEA :: CEPHA INDE :: Maximum. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 26 | Bhuinhār | Eastern Hindi | United Provinces | 187·2 | 198 | 178 | 137·4 | 144 | 128 | 73·3 | 77 |
-| 67 | Brāhman | Bihari | Behar | 187·8 | 202 | 171 | 140·8 | 156 | 130 | 74·9 | 84 |
-| 59 | Bābhan | Do. | Do. | 187·8 | 201 | 176 | 144·1 | 161 | 130 | 76·7 | 90 |
-| 100 | Brāhman | Eastern Hindi | United Provinces | 187·5 | 202 | 170 | 137·2 | 152 | 127 | 73·1 | 84 |
-| 100 | Kāyasth | Western Hindi | Do. | 186·4 | 200 | 174 | 135·4 | 154 | 124 | 72·6 | 80 |
-| 100 | Goāla | Bihari | Behar | 185·4 | 202 | 171 | 141·4 | 160 | 128 | 76·2 | 87 |
-| 100 | Chhatri | Eastern Hindi | United Provinces | 188·3 | 203 | 172 | 137·6 | 152 | 123 | 73·0 | 84 |
-| 103 | Kanjar | Western Hindi | Do. | 181·8 | 195 | 165 | 135·9 | 149 | 120 | 74·7 | 82 |
-| 15 | Khatri | Eastern Hindi | Do. | 188·0 | 195 | 175 | 035·2 | 141 | 130 | 71·9 | 79 |
-| 71 | Kurmi | Bihari | Behar | 186·9 | 202 | 167 | 141·5 | 152 | 133 | 75·7 | 83 |
-| 100 | Kurmi | Eastern Hindi | United Provinces | 184·0 | 200 | 170 | 134·9 | 147 | 125 | 73·3 | 81 |
-| 65 | Thāru | Do. | Do. | 184·0 | 205 | 166 | 136·0 | 145 | 128 | 73·9 | 83 |
-| 80 | Bania | Do. | Do. | 187·2 | 200 | 175 | 133·5 | 150 | 124 | 71·3 | 84 |
-| 56 | Kahār | Bihari | Behar | 186·1 | 203 | 173 | 141·7 | 154 | 132 | 76·1 | 83 |
-| 33 | Barhi | Western Hindi | United Provinces | 185·4 | 197 | 175 | 133·3 | 140 | 125 | 71·8 | 78 |
-| 100 | Goāla | Eastern Hindi | Do. | 185·2 | 202 | 170 | 135·2 | 145 | 125 | 73·0 | 85 |
-| 100 | Kewat | Do. | Do. | 184·3 | 198 | 170 | 134·0 | 145 | 124 | 72·7 | 80 |
-| 100 | Bhar | Do. | Do. | 185·5 | 197 | 170 | 136·4 | 147 | 120 | 73·5 | 81 |
-| 100 | Maghya Dom | Bihari | Behar | 186·3 | 203 | 171 | 142·1 | 154 | 132 | 76·2 | 87 |
-| 13 | Bind | Do. | Do. | 184·6 | 192 | 176 | 136·7 | 146 | 125 | 74·0 | 81 |
-| 32 | Kol | Eastern Hindi | United Provinces | 183·1 | 195 | 170 | 132·6 | 140 | 120 | 72·4 | 81 |
-| 100 | Dosādh | Bihari | Behar | 184·8 | 201 | 168 | 141·8 | 155 | 130 | 76·8 | 85 |
-| 45 | Lohār | Western Hindi | United Provinces | 184·9 | 200 | 170 | 134·7 | 145 | 120 | 72·8 | 82 |
-| 100 | Guria | Eastern Hindi | Do. | 184·7 | 207 | 169 | 133·8 | 147 | 123 | 72·4 | 80 |
-| 56 | Sinhalese | Sinhalese | Ceylon | 183·4 | 202 | 171 | 143·9 | 155 | 133 | 78·4 | 87 |
-| 62 | Chamār | Bihari | Behar | 184·4 | 198 | 168 | 140·3 | 154 | 128 | 76·0 | 88 |
-| 100 | Kāchhi | Western Hindi | United Provinces | 184·6 | 198 | 172 | 133·2 | 149 | 122 | 72·1 | 81 |
-| 100 | Dom | Eastern Hindi | Do. | 182·7 | 204 | 170 | 136·8 | 148 | 124 | 74·8 | 84 |
-| 100 | Lodha | Western Hindi | Do. | 185·2 | 201 | 170 | 334·5 | 145 | 123 | 72·6 | 81 |
-| 100 | Koiri | Do. | Do. | 185·2 | 197 | 170 | 133·6 | 145 | 120 | 72·1 | 81 |
-| 100 | Pāsi | Eastern Hindi | Do. | 185·0 | 206 | 169 | 134·4 | 146 | 126 | 72·6 | 80 |
-| 100 | Chamār | Do. | Do. | 185·1 | 196 | 166 | 134·9 | 147 | 123 | 72·8 | 81 |
-| 18 | Musahar | Do. | Do. | 181·7 | 197 | 170 | 134·8 | 145 | 130 | 74·1 | 79 |
-| 77 | Musahar | Bihari | Behar | 183·0 | 200 | 171 | 138·6 | 150 | 130 | 75·7 | 84 |
-
-
-<!-- page: 457 | folio: 393 -->
-
-### DIX III
-
-
-#### *EASUREMENTS.*
-
-
-#### IAN TYPE.
-
-
-**CEYLON. (In order of Nasal Index.)**
-| [?Minimum.?] | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 67 | 47·2 | 52 | 40 | 34·5 | 41 | 31 | 73·0 | 91 | 61 | 1660 | 1727 | 1574 | ... | ... | ... | ... | ... |
-| 69 | 49·3 | 56 | 40 | 36·1 | 43 | 31 | 73·2 | 93 | 63 | 1661 | 1790 | 1544 | ... | ... | ... | ... | ... |
-| 70 | 50·5 | 58 | 42 | 37·4 | 43 | 33 | 74·0 | 90 | 62 | 1662 | 1760 | 1540 | ... | ... | ... | ... | ... |
-| 66 | 46·5 | 53 | 35 | 34·7 | 41 | 28 | 74·6 | 100 | 60 | 1659 | 1879 | 1422 | ... | ... | ... | ... | ... |
-| 64 | 46·6 | 52 | 32 | 34·9 | 44 | 30 | 74·8 | 102 | 58 | 1648 | 1792 | 1498 | ... | ... | ... | ... | ... |
-| 65 | 48·5 | 56 | 41 | 37·2 | 45 | 29 | 76·7 | 100 | 58 | 1642 | 1780 | 1502 | ... | ... | ... | ... | ... |
-| 65 | 45·8 | 53 | 38 | 35·6 | 43 | 29 | 77·7 | 97 | 58 | 1661 | 1803 | 1498 | ... | ... | ... | ... | ... |
-| 65 | 43·7 | 54 | 32 | 34·1 | 40 | 28 | 78·0 | 106 | 59 | 1636 | 1778 | 1498 | ... | ... | ... | ... | ... |
-| 63 | 45·7 | 53 | 40 | 35·7 | 39 | 33 | 78·1 | 93 | 64 | 1623 | 1727 | 1524 | ... | ... | ... | ... | ... |
-| 69 | 47·6 | 56 | 40 | 37·4 | 42 | 30 | 78·5 | 98 | 60 | 1630 | 1764 | 1520 | ... | ... | ... | ... | ... |
-| 66 | 43·9 | 52 | 39 | 34·8 | 41 | 30 | 79·2 | 98 | 60 | 1642 | 1966 | 1349 | ... | ... | ... | ... | ... |
-| 67 | 45·4 | 59 | 40 | 36·1 | 46 | 31 | 79·5 | 102 | 61 | 1614 | 1752 | 1524 | 114·0 | 130·0 | 114·0 | 119·0 | 109·0 |
-| 66 | 44·7 | 54 | 35 | 35·6 | 41 | 30 | 79·6 | 106 | 65 | 1642 | 1816 | 1473 | ... | ... | ... | ... | ... |
-| 70 | 48·0 | 56 | 40 | 38·3 | 45 | 30 | 79·7 | 103 | 63 | 1624 | 1760 | 1510 | ... | ... | ... | ... | ... |
-| 66 | 42·9 | 48 | 37 | 34·7 | 42 | 31 | 80·8 | 105 | 67 | 1637 | 1727 | 1574 | ... | ... | ... | ... | ... |
-| 65 | 43·1 | 52 | 35 | 34·9 | 42 | 29 | 80·9 | 108 | 60 | 1628 | 1752 | 1447 | ... | ... | ... | ... | ... |
-| 65 | 43·2 | 52 | 32 | 35·2 | 42 | 29 | 81·4 | 100 | 62 | 1626 | 1752 | 1498 | ... | ... | ... | ... | ... |
-| 62 | 44·4 | 55 | 33 | 36·4 | 46 | 30 | 81·9 | 109 | 60 | 1612 | 1790 | 1473 | ... | ... | ... | ... | ... |
-| 70 | 48·0 | 55 | 40 | 39·5 | 48 | 32 | 82·2 | 98 | 62 | 1648 | 1770 | 1496 | 112·6 | 128·7 | 114·2 | 125·0 | 103·0 |
-| 66 | 45·0 | 52 | 38 | 37·0 | 40 | 35 | 82·2 | 100 | 71 | 1616 | 1686 | 1534 | 111·9 | 125·9 | 112·5 | 112·0 | 107·0 |
-| 68 | 44·0 | 49 | 41 | 36·2 | 40 | 30 | 82·2 | 93 | 64 | 1650 | 1779 | 1549 | ... | ... | ... | ... | ... |
-| 70 | 46·8 | 56 | 40 | 38·6 | 44 | 33 | 82·4 | 100 | 64 | 1620 | 1728 | 1494 | 134·5 | 132·1 | 115·3 | 126·0 | 105·0 |
-| 65 | 43·4 | 52 | 35 | 35·8 | 43 | 29 | 82·4 | 114 | 60 | 1636 | 1826 | 1498 | ... | ... | ... | ... | ... |
-| 65 | 42·1 | 52 | 33 | 34·8 | 41 | 28 | 82·6 | 103 | 60 | 1627 | 1752 | 1473 | ... | ... | ... | ... | ... |
-| 69 | 47·7 | 52 | 41 | 39·2 | 46 | 34 | 82·6 | 100 | 68 | 1625 | 1730 | 1499 | 99·5 | 112·3 | 112·8 | 118·0 | 106·0 |
-| 68 | 46·0 | 52 | 39 | 38·1 | 44 | 32 | 82·8 | 95 | 65 | 1612 | 1840 | 1480 | ... | ... | ... | ... | ... |
-| 66 | 41·7 | 50 | 33 | 34·6 | 42 | 29 | 82·9 | 117 | 60 | 1642 | 1821 | 1485 | ... | ... | ... | ... | ... |
-| 64 | 45·4 | 55 | 37 | 37·7 | 45 | 32 | 83·0 | 122 | 62 | 1655 | 1778 | 1524 | ... | ... | ... | ... | ... |
-| 65 | 41·6 | 49 | 34 | 34·7 | 42 | 30 | 83·4 | 109 | 65 | 1628 | 1778 | 1536 | ... | ... | ... | ... | ... |
-| 67 | 42·7 | 51 | 35 | 35·7 | 43 | 30 | 83·6 | 111 | 60 | 1628 | 1752 | 1511 | ... | ... | ... | ... | ... |
-| 67 | 41·2 | 52 | 33 | 35·2 | 42 | 27 | 85·4 | 115 | 66 | 1639 | 1778 | 1524 | ... | ... | ... | ... | ... |
-| 67 | 41·0 | 50 | 34 | 35·3 | 41 | 30 | 86·0 | 109 | 64 | 1630 | 1765 | 1524 | ... | ... | ... | ... | ... |
-| 64 | 42·5 | 47 | 37 | 36·6 | 43 | 32 | 86·1 | 103 | 73 | 1598 | 1701 | 1498 | ... | ... | ... | ... | ... |
-| 67 | 45·5 | 52 | 38 | 40·4 | 49 | 34 | 88·7 | 113 | 72 | 1591 | 1696 | 1500 | 108·3 | 121·8 | 112·4 | 121·0 | 105·0 |
+**UNITED PROVINCES, BEHAR AN[…] CEYLON. (In order of Nasal Index.)**
+| Number of subjects. | <span class="sc">Name of Tribe or Caste.</span> | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum. | PROPO[…] TIONS[…] HEA[…] :: CEPHA[…] INDE[…] :: Average. | PROPO[…] TIONS[…] HEA[…] :: CEPHA[…] INDE[…] :: Maximum. | [?Minimum.?] | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 26 | Bhuinhār | Eastern Hindi | United Provinces | 187·2 | 198 | 178 | 137·4 | 144 | 128 | 73·3 | 77 | 67 | 47·2 | 52 | 40 | 34·5 | 41 | 31 | 73·0 | 91 | 61 | 1660 | 1727 | 1574 | ... | ... | ... | ... | ... |
+| 67 | Brāhman | Bihari | Behar | 187·8 | 202 | 171 | 140·8 | 156 | 130 | 74·9 | 84 | 69 | 49·3 | 56 | 40 | 36·1 | 43 | 31 | 73·2 | 93 | 63 | 1661 | 1790 | 1544 | ... | ... | ... | ... | ... |
+| 59 | Bābhan | Do. | Do. | 187·8 | 201 | 176 | 144·1 | 161 | 130 | 76·7 | 90 | 70 | 50·5 | 58 | 42 | 37·4 | 43 | 33 | 74·0 | 90 | 62 | 1662 | 1760 | 1540 | ... | ... | ... | ... | ... |
+| 100 | Brāhman | Eastern Hindi | United Provinces | 187·5 | 202 | 170 | 137·2 | 152 | 127 | 73·1 | 84 | 66 | 46·5 | 53 | 35 | 34·7 | 41 | 28 | 74·6 | 100 | 60 | 1659 | 1879 | 1422 | ... | ... | ... | ... | ... |
+| 100 | Kāyasth | Western Hindi | Do. | 186·4 | 200 | 174 | 135·4 | 154 | 124 | 72·6 | 80 | 64 | 46·6 | 52 | 32 | 34·9 | 44 | 30 | 74·8 | 102 | 58 | 1648 | 1792 | 1498 | ... | ... | ... | ... | ... |
+| 100 | Goāla | Bihari | Behar | 185·4 | 202 | 171 | 141·4 | 160 | 128 | 76·2 | 87 | 65 | 48·5 | 56 | 41 | 37·2 | 45 | 29 | 76·7 | 100 | 58 | 1642 | 1780 | 1502 | ... | ... | ... | ... | ... |
+| 100 | Chhatri | Eastern Hindi | United Provinces | 188·3 | 203 | 172 | 137·6 | 152 | 123 | 73·0 | 84 | 65 | 45·8 | 53 | 38 | 35·6 | 43 | 29 | 77·7 | 97 | 58 | 1661 | 1803 | 1498 | ... | ... | ... | ... | ... |
+| 103 | Kanjar | Western Hindi | Do. | 181·8 | 195 | 165 | 135·9 | 149 | 120 | 74·7 | 82 | 65 | 43·7 | 54 | 32 | 34·1 | 40 | 28 | 78·0 | 106 | 59 | 1636 | 1778 | 1498 | ... | ... | ... | ... | ... |
+| 15 | Khatri | Eastern Hindi | Do. | 188·0 | 195 | 175 | 035·2 | 141 | 130 | 71·9 | 79 | 63 | 45·7 | 53 | 40 | 35·7 | 39 | 33 | 78·1 | 93 | 64 | 1623 | 1727 | 1524 | ... | ... | ... | ... | ... |
+| 71 | Kurmi | Bihari | Behar | 186·9 | 202 | 167 | 141·5 | 152 | 133 | 75·7 | 83 | 69 | 47·6 | 56 | 40 | 37·4 | 42 | 30 | 78·5 | 98 | 60 | 1630 | 1764 | 1520 | ... | ... | ... | ... | ... |
+| 100 | Kurmi | Eastern Hindi | United Provinces | 184·0 | 200 | 170 | 134·9 | 147 | 125 | 73·3 | 81 | 66 | 43·9 | 52 | 39 | 34·8 | 41 | 30 | 79·2 | 98 | 60 | 1642 | 1966 | 1349 | ... | ... | ... | ... | ... |
+| 65 | Thāru | Do. | Do. | 184·0 | 205 | 166 | 136·0 | 145 | 128 | 73·9 | 83 | 67 | 45·4 | 59 | 40 | 36·1 | 46 | 31 | 79·5 | 102 | 61 | 1614 | 1752 | 1524 | 114·0 | 130·0 | 114·0 | 119·0 | 109·0 |
+| 80 | Bania | Do. | Do. | 187·2 | 200 | 175 | 133·5 | 150 | 124 | 71·3 | 84 | 66 | 44·7 | 54 | 35 | 35·6 | 41 | 30 | 79·6 | 106 | 65 | 1642 | 1816 | 1473 | ... | ... | ... | ... | ... |
+| 56 | Kahār | Bihari | Behar | 186·1 | 203 | 173 | 141·7 | 154 | 132 | 76·1 | 83 | 70 | 48·0 | 56 | 40 | 38·3 | 45 | 30 | 79·7 | 103 | 63 | 1624 | 1760 | 1510 | ... | ... | ... | ... | ... |
+| 33 | Barhi | Western Hindi | United Provinces | 185·4 | 197 | 175 | 133·3 | 140 | 125 | 71·8 | 78 | 66 | 42·9 | 48 | 37 | 34·7 | 42 | 31 | 80·8 | 105 | 67 | 1637 | 1727 | 1574 | ... | ... | ... | ... | ... |
+| 100 | Goāla | Eastern Hindi | Do. | 185·2 | 202 | 170 | 135·2 | 145 | 125 | 73·0 | 85 | 65 | 43·1 | 52 | 35 | 34·9 | 42 | 29 | 80·9 | 108 | 60 | 1628 | 1752 | 1447 | ... | ... | ... | ... | ... |
+| 100 | Kewat | Do. | Do. | 184·3 | 198 | 170 | 134·0 | 145 | 124 | 72·7 | 80 | 65 | 43·2 | 52 | 32 | 35·2 | 42 | 29 | 81·4 | 100 | 62 | 1626 | 1752 | 1498 | ... | ... | ... | ... | ... |
+| 100 | Bhar | Do. | Do. | 185·5 | 197 | 170 | 136·4 | 147 | 120 | 73·5 | 81 | 62 | 44·4 | 55 | 33 | 36·4 | 46 | 30 | 81·9 | 109 | 60 | 1612 | 1790 | 1473 | ... | ... | ... | ... | ... |
+| 100 | Maghya Dom | Bihari | Behar | 186·3 | 203 | 171 | 142·1 | 154 | 132 | 76·2 | 87 | 70 | 48·0 | 55 | 40 | 39·5 | 48 | 32 | 82·2 | 98 | 62 | 1648 | 1770 | 1496 | 112·6 | 128·7 | 114·2 | 125·0 | 103·0 |
+| 13 | Bind | Do. | Do. | 184·6 | 192 | 176 | 136·7 | 146 | 125 | 74·0 | 81 | 66 | 45·0 | 52 | 38 | 37·0 | 40 | 35 | 82·2 | 100 | 71 | 1616 | 1686 | 1534 | 111·9 | 125·9 | 112·5 | 112·0 | 107·0 |
+| 32 | Kol | Eastern Hindi | United Provinces | 183·1 | 195 | 170 | 132·6 | 140 | 120 | 72·4 | 81 | 68 | 44·0 | 49 | 41 | 36·2 | 40 | 30 | 82·2 | 93 | 64 | 1650 | 1779 | 1549 | ... | ... | ... | ... | ... |
+| 100 | Dosādh | Bihari | Behar | 184·8 | 201 | 168 | 141·8 | 155 | 130 | 76·8 | 85 | 70 | 46·8 | 56 | 40 | 38·6 | 44 | 33 | 82·4 | 100 | 64 | 1620 | 1728 | 1494 | 134·5 | 132·1 | 115·3 | 126·0 | 105·0 |
+| 45 | Lohār | Western Hindi | United Provinces | 184·9 | 200 | 170 | 134·7 | 145 | 120 | 72·8 | 82 | 65 | 43·4 | 52 | 35 | 35·8 | 43 | 29 | 82·4 | 114 | 60 | 1636 | 1826 | 1498 | ... | ... | ... | ... | ... |
+| 100 | Guria | Eastern Hindi | Do. | 184·7 | 207 | 169 | 133·8 | 147 | 123 | 72·4 | 80 | 65 | 42·1 | 52 | 33 | 34·8 | 41 | 28 | 82·6 | 103 | 60 | 1627 | 1752 | 1473 | ... | ... | ... | ... | ... |
+| 56 | Sinhalese | Sinhalese | Ceylon | 183·4 | 202 | 171 | 143·9 | 155 | 133 | 78·4 | 87 | 69 | 47·7 | 52 | 41 | 39·2 | 46 | 34 | 82·6 | 100 | 68 | 1625 | 1730 | 1499 | 99·5 | 112·3 | 112·8 | 118·0 | 106·0 |
+| 62 | Chamār | Bihari | Behar | 184·4 | 198 | 168 | 140·3 | 154 | 128 | 76·0 | 88 | 68 | 46·0 | 52 | 39 | 38·1 | 44 | 32 | 82·8 | 95 | 65 | 1612 | 1840 | 1480 | ... | ... | ... | ... | ... |
+| 100 | Kāchhi | Western Hindi | United Provinces | 184·6 | 198 | 172 | 133·2 | 149 | 122 | 72·1 | 81 | 66 | 41·7 | 50 | 33 | 34·6 | 42 | 29 | 82·9 | 117 | 60 | 1642 | 1821 | 1485 | ... | ... | ... | ... | ... |
+| 100 | Dom | Eastern Hindi | Do. | 182·7 | 204 | 170 | 136·8 | 148 | 124 | 74·8 | 84 | 64 | 45·4 | 55 | 37 | 37·7 | 45 | 32 | 83·0 | 122 | 62 | 1655 | 1778 | 1524 | ... | ... | ... | ... | ... |
+| 100 | Lodha | Western Hindi | Do. | 185·2 | 201 | 170 | 334·5 | 145 | 123 | 72·6 | 81 | 65 | 41·6 | 49 | 34 | 34·7 | 42 | 30 | 83·4 | 109 | 65 | 1628 | 1778 | 1536 | ... | ... | ... | ... | ... |
+| 100 | Koiri | Do. | Do. | 185·2 | 197 | 170 | 133·6 | 145 | 120 | 72·1 | 81 | 67 | 42·7 | 51 | 35 | 35·7 | 43 | 30 | 83·6 | 111 | 60 | 1628 | 1752 | 1511 | ... | ... | ... | ... | ... |
+| 100 | Pāsi | Eastern Hindi | Do. | 185·0 | 206 | 169 | 134·4 | 146 | 126 | 72·6 | 80 | 67 | 41·2 | 52 | 33 | 35·2 | 42 | 27 | 85·4 | 115 | 66 | 1639 | 1778 | 1524 | ... | ... | ... | ... | ... |
+| 100 | Chamār | Do. | Do. | 185·1 | 196 | 166 | 134·9 | 147 | 123 | 72·8 | 81 | 67 | 41·0 | 50 | 34 | 35·3 | 41 | 30 | 86·0 | 109 | 64 | 1630 | 1765 | 1524 | ... | ... | ... | ... | ... |
+| 18 | Musahar | Do. | Do. | 181·7 | 197 | 170 | 134·8 | 145 | 130 | 74·1 | 79 | 64 | 42·5 | 47 | 37 | 36·6 | 43 | 32 | 86·1 | 103 | 73 | 1598 | 1701 | 1498 | ... | ... | ... | ... | ... |
+| 77 | Musahar | Bihari | Behar | 183·0 | 200 | 171 | 138·6 | 150 | 130 | 75·7 | 84 | 67 | 45·5 | 52 | 38 | 40·4 | 49 | 34 | 88·7 | 113 | 72 | 1591 | 1696 | 1500 | 108·3 | 121·8 | 112·4 | 121·0 | 105·0 |
 
 
 <!-- page: 460 | folio: 396 -->
 
-### APPE
+#### *SUMMARY OF MEASUREMENTS.*
 
 
-#### *SUMMARY OF*
+##### **MONGOLO-**[…]<span class="sc">RAVIDIAN TYPE.</span>
 
 
-##### **MONGOLO-**
-
-
-##### **BENGAL AND ORISSA**
-
-
-**BENGAL AND ORISSA**
-| Number of subjects. :: LENGTH (GLABELLO-OCCIPITAL). :: Average. | NAME OF TRIBE OR CASTE. :: BREADTH (EXTREME). :: Maximum. | NAME OF TRIBE OR CASTE. :: BREADTH (EXTREME). :: Minimum. | Language or Dialect. :: BREADTH (EXTREME). :: Average. | Language or Dialect. :: BREADTH (EXTREME). :: Maximum. | Locality. :: BREADTH (EXTREME). :: Minimum. | Locality. :: CE :: Average. | DIMENSIONS OF HEAD. :: CE | DIMENSIONS OF HEAD. :: CE | PR :: CE | PR :: CE |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 100 | Kochh (Rājbansi) | Rājbansi | N.-E. Bengal | 186·2 | 202 | 166 | 140·2 | 153 | 127 | 75·2 |
-| 88[^sec-17-fn-006] | Kochh (Rājbansi) | Do. Do. | 181·0 | 202 | 165 | 139·0 | 152 | 131 | 76·7 |  |
-| 99 | Bāgdi | Bengali | Bengal | 182·7 | 201 | 172 | 139·5 | 153 | 130 | 76·3 |
-| 12 | Māl Do. | Western Bengal | 183·0 | 191 | 166 | 141·3 | 146 | 135 | 77·2 |  |
-| 41 | Goāla Do. | Eastern Bengal | 183·8 | 198 | 170 | 142·1 | 153 | 131 | 77·3 |  |
-| 100 | Kaibarta | Do. Do. | 182·3 | 198 | 166 | 141·1 | 152 | 129 | 77·3 |  |
-| 48 | Sadgop Do. | Bengal, 24-Parganas | 182·6 | 190 | 168 | 142·1 | 150 | 132 | 77·6 |  |
-| 27 | Muchi Do. | Eastern Bengal | 182·9 | 198 | 170 | 142·0 | 151 | 133 | 77·6 |  |
-| 100 | Pod Do. | Bengal, 24-Parganas | 183·2 | 198 | 172 | 142·4 | 155 | 130 | 77·7 |  |
-| 185 | Muhammadan Do. | Eastern Bengal | 182·8 | 199 | 168 | 142·7 | 156 | 131 | 78·0 |  |
-| 67 | Chandāl | Do. Do. | 183·2 | 201 | 166 | 143·1 | 151 | 131 | 78·1 |  |
-| 100 | Kāyastha Do. | Bengal | 182·4 | 195 | 169 | 142·8 | 155 | 129 | 78·2 |  |
-| 32 | Brāhman Do. | Western Bengal | 182·2 | 195 | 171 | 142·6 | 151 | 135 | 78·2 |  |
-| 68 | Brāhman Do. | Eastern Bengal | 181·5 | 195 | 170 | 143·4 | 151 | 134 | 79·0 |  |
-| 20 | Rājbansi Magh | Magh | Chittagong | 178·6 | 192 | 166 | 148·4 | 157 | 140 | 83·0 |
-| 43 | Karan | Oriya | Puri | 186·1 | 197 | 174 | 142·0 | 152 | 130 | 76·2 |
-| 26 | Niāri Do. | Cuttack | 185·0 | 193 | 170 | 141·5 | 151 | 131 | 76·4 |  |
-| 45 | Teli Do. | Puri | 184·0 | 196 | 166 | 140·8 | 150 | 129 | 75·6 |  |
-| 59 | Chāsa Do. | Cuttack | 183·9 | 196 | 169 | 141·9 | 151 | 129 | 77·1 |  |
-| 52 | Shashan Brāhman Do. | Puri | 182·9 | 195 | 171 | 141·2 | 155 | 128 | 77·1 |  |
-| 38 | Kewat Do. | Cuttack | 183·4 | 198 | 173 | 141·9 | 157 | 131 | 77·3 |  |
-| 40 | Khandait | Do. Do. | 183·6 | 197 | 171 | 142·0 | 153 | 133 | 77·3 |  |
-| 40 | Bauri | Do. Do. | 180·4 | 193 | 165 | 139·6 | 149 | 130 | 77·3 |  |
-| 40 | Mastān Brāhman Do. | Puri | 183·8 | 197 | 169 | 142·7 | 154 | 132 | 77·6 |  |
-| 40 | Pān Do. | Cuttack | 182·2 | 193 | 161 | 141·5 | 154 | 130 | 77·6 |  |
-| 41 | Gaura | Do. Do. | 182·8 | 198 | 166 | 142·1 | 151 | 130 | 77·7 |  |
-| 41 | Panda Brāhman Do. | Puri | 183·3 | 195 | 171 | 142·7 | 152 | 132 | 77·8 |  |
-| 41 | Kandra Do. | Cuttack | 182·6 | 198 | 168 | 143·3 | 157 | 133 | 78·4 |  |
-| 40 | Guria Do. | Puri | 182·9 | 204 | 163 | 143·5 | 167 | 135 | 78·4 |  |
-
-
-<!-- page: 461 | folio: 397 -->
-
-#### *MEASUREMENTS.*
-
-
-##### <span class="sc">RAVIDIAN TYPE.</span>
-
-
-**(In order of Cephalic Index.)**
-| OR-OF D. :: ALIC EX. :: Maximum. | OR-OF D. :: ALIC EX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Bengal.** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 84 | 68 | 48·9 | 57 | 44 | 37·5 | 45 | 32 | 76·6 | 92 | 61 | 1,607 | 1,746 | 1,440 | 103·7 | 115·0 | 110·8 | 121 | 104 |
-| 87 | 71 | 45·0 | 52 | 37 | 36·0 | 49 | 30 | 80·0 | 109 | 67 | 1,591 | 1,695 | 1,502 | 100·0 | 110·0 | 110·0 | 121 | 93 |
-| 83 | 68 | 46·7 | 55 | 39 | 37·6 | 45 | 30 | 80·5 | 100 | 62 | 1,603 | 1,722 | 1,434 | 106·0 | 119·0 | 112·2 | 118 | 106 |
-| 88 | 71 | 47·2 | 50 | 42 | 40·0 | 46 | 33 | 84·7 | 100 | 70 | 1,622 | 1,730 | 1,520 | ... | ... | ... | ... | ... |
-| 86 | 71 | 49·0 | 58 | 43 | 36·4 | 40 | 31 | 74·2 | 87 | 62 | 1,646 | 1,746 | 1,500 | ... | ... | ... | ... | ... |
-| 87 | 70 | 48·0 | 55 | 37 | 36·6 | 43 | 32 | 76·2 | 103 | 63 | 1,629 | 1,770 | 1,490 | ... | ... | ... | ... | ... |
-| 87 | 72 | 49·6 | 55 | 42 | 36·7 | 49 | 30 | 73·9 | 98 | 55 | 1,633 | 1,780 | 1,510 | ... | ... | ... | ... | ... |
-| 86 | 72 | 49·1 | 54 | 42 | 36·8 | 43 | 32 | 74·9 | 88 | 63 | 1,641 | 1,742 | 1,536 | ... | ... | ... | ... | ... |
-| 85 | 70 | 49·1 | 56 | 41 | 37·4 | 43 | 32 | 76·1 | 91 | 63 | 1,625 | 1,850 | 1,490 | 99·6 | 111·1 | 111·5 | 118 | 104 |
-| 89 | 70 | 49·4 | 58 | 40 | 38·3 | 45 | 32 | 77·5 | 96 | 64 | 1,634 | 1,760 | 1,500 | 113·2 | 128·6 | 113·6 | 121 | 106 |
-| 89 | 70 | 49·6 | 56 | 43 | 36·7 | 42 | 30 | 73·9 | 89 | 62 | 1,619 | 1,734 | 1,472 | 112·3 | 128·1 | 114·0 | 121 | 106 |
-| 88 | 70 | 50·2 | 58 | 42 | 35·3 | 41 | 29 | 70·3 | 89 | 56 | 1,636 | 1,810 | 1,544 | ... | ... | ... | ... | ... |
-| 87 | 72 | 48·5 | 54 | 40 | 34·9 | 40 | 29 | 71·9 | 100 | 58 | 1,670 | 1,734 | 1,550 | ... | ... | ... | ... | ... |
-| 88 | 70 | 49·9 | 59 | 36 | 35·1 | 42 | 28 | 70·3 | 85 | 56 | 1,653 | 1,792 | 1,474 | ... | ... | ... | ... | ... |
-| 84 | 74 | 51·0 | 57 | 43 | 38·2 | 46 | 33 | 74·9 | 88 | 63 | 1,645 | 1,750 | 1,542 | 106·6 | 118·3 | 110·9 | 115 | 105 |
-| **Orissa.** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 84 | 68 | 47·7 | 55 | 39 | 38·8 | 44 | 32 | 81·3 | 100 | 66 | 1,638 | 1,792 | 1,486 | 109·8 | 127·7 | 116·3 | 126 | 102 |
-| 87 | 70 | 46·8 | 53 | 39 | 37·7 | 42 | 32 | 80·5 | 100 | 70 | 1,611 | 1,756 | 1,469 | 107·9 | 122·8 | 113·8 | 120 | 107 |
-| 83 | 71 | 47·1 | 56 | 39 | 36·5 | 42 | 31 | 77·4 | 95 | 65 | 1,619 | 1,794 | 1,500 | 107·8 | 124·8 | 115·7 | 123 | 108 |
-| 84 | 70 | 47·5 | 53 | 41 | 37·7 | 42 | 33 | 79·3 | 95 | 67 | 1,615 | 1,752 | 1,450 | 108·2 | 123·5 | 111·4 | 121 | 109 |
-| 80 | 67 | 48·4 | 57 | 41 | 37·2 | 47 | 32 | 76·8 | 93 | 59 | 1,635 | 1,748 | 1,498 | 109·2 | 127·4 | 116·6 | 123 | 110 |
-| 86 | 71 | 47·0 | 59 | 40 | 38·7 | 45 | 34 | 82·3 | 98 | 66 | 1,611 | 1,716 | 1,500 | 108·3 | 123·7 | 114·2 | 121 | 109 |
-| 84 | 69 | 48·0 | 55 | 40 | 37·8 | 44 | 33 | 78·7 | 98 | 67 | 1,645 | 1,728 | 1,529 | 109·5 | 126·9 | 115·8 | 123 | 108 |
-| 86 | 70 | 45·5 | 56 | 38 | 38·3 | 44 | 33 | 85·1 | 113 | 68 | 1,585 | 1,686 | 1,476 | 110·3 | 124·2 | 112·6 | 117 | 104 |
-| 86 | 69 | 67·9 | 55 | 40 | 38·0 | 48 | 31 | 79·3 | 100 | 63 | 1,642 | 1,755 | 1,468 | 110·6 | 129·5 | 171·0 | 120 | 112 |
-| 80 | 68 | 46·6 | 54 | 39 | 38·3 | 45 | 33 | 82·1 | 100 | 66 | 1,607 | 1,748 | 1,462 | 110·0 | 124·1 | 112·8 | 119 | 107 |
-| 80 | 70 | 48·4 | 55 | 42 | 37·2 | 43 | 27 | 76·8 | 96 | 60 | 1,627 | 1,748 | 1,510 | 110·3 | 126·0 | 114·2 | 122 | 108 |
-| 88 | 70 | 47·9 | 55 | 41 | 37·1 | 44 | 32 | 77·4 | 100 | 66 | 1,642 | 1,750 | 1,558 | 109·5 | 126·9 | 115·8 | 124 | 107 |
-| 88 | 69 | 47·6 | 54 | 40 | 37·9 | 42 | 33 | 79·6 | 100 | 70 | 1,625 | 1,722 | 1,506 | 111·7 | 127·8 | 114·4 | 121 | 110 |
-| 83 | 69 | 47·0 | 55 | 41 | 37·3 | 45 | 31 | 79·3 | 93 | 63 | 1,606 | 1,724 | 1,476 | 108·9 | 125·6 | 115·3 | 122 | 107 |
+**BENGAL AND ORISSA (In order of Cephalic Index.)**
+| Number of subjects. | NAME OF TRIBE OR CASTE. | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum. | PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Average. | PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Maximum. | PR[…]OR-TIO[…]S OF H […]D. :: CE[…]ALIC I[…]EX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPORTIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbito nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Bengal.** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 100 | Kochh (Rājbansi) | Rājbansi | N.-E. Bengal | 186·2 | 202 | 166 | 140·2 | 153 | 127 | 75·2 | 84 | 68 | 48·9 | 57 | 44 | 37·5 | 45 | 32 | 76·6 | 92 | 61 | 1,607 | 1,746 | 1,440 | 103·7 | 115·0 | 110·8 | 121 | 104 |
+| 88[^sec-17-fn-006] | Kochh (Rājbansi) | Do. | Do. | 181·0 | 202 | 165 | 139·0 | 152 | 131 | 76·7 | 87 | 71 | 45·0 | 52 | 37 | 36·0 | 49 | 30 | 80·0 | 109 | 67 | 1,591 | 1,695 | 1,502 | 100·0 | 110·0 | 110·0 | 121 | 93 |
+| 99 | Bāgdi | Bengali | Bengal | 182·7 | 201 | 172 | 139·5 | 153 | 130 | 76·3 | 83 | 68 | 46·7 | 55 | 39 | 37·6 | 45 | 30 | 80·5 | 100 | 62 | 1,603 | 1,722 | 1,434 | 106·0 | 119·0 | 112·2 | 118 | 106 |
+| 12 | Māl | Do. | Western Bengal | 183·0 | 191 | 166 | 141·3 | 146 | 135 | 77·2 | 88 | 71 | 47·2 | 50 | 42 | 40·0 | 46 | 33 | 84·7 | 100 | 70 | 1,622 | 1,730 | 1,520 | ... | ... | ... | ... | ... |
+| 41 | Goāla | Do. | Eastern Bengal | 183·8 | 198 | 170 | 142·1 | 153 | 131 | 77·3 | 86 | 71 | 49·0 | 58 | 43 | 36·4 | 40 | 31 | 74·2 | 87 | 62 | 1,646 | 1,746 | 1,500 | ... | ... | ... | ... | ... |
+| 100 | Kaibarta | Do. | Do. | 182·3 | 198 | 166 | 141·1 | 152 | 129 | 77·3 | 87 | 70 | 48·0 | 55 | 37 | 36·6 | 43 | 32 | 76·2 | 103 | 63 | 1,629 | 1,770 | 1,490 | ... | ... | ... | ... | ... |
+| 48 | Sadgop | Do. | Bengal, 24-Parganas | 182·6 | 190 | 168 | 142·1 | 150 | 132 | 77·6 | 87 | 72 | 49·6 | 55 | 42 | 36·7 | 49 | 30 | 73·9 | 98 | 55 | 1,633 | 1,780 | 1,510 | ... | ... | ... | ... | ... |
+| 27 | Muchi | Do. | Eastern Bengal | 182·9 | 198 | 170 | 142·0 | 151 | 133 | 77·6 | 86 | 72 | 49·1 | 54 | 42 | 36·8 | 43 | 32 | 74·9 | 88 | 63 | 1,641 | 1,742 | 1,536 | ... | ... | ... | ... | ... |
+| 100 | Pod | Do. | Bengal, 24-Parganas | 183·2 | 198 | 172 | 142·4 | 155 | 130 | 77·7 | 85 | 70 | 49·1 | 56 | 41 | 37·4 | 43 | 32 | 76·1 | 91 | 63 | 1,625 | 1,850 | 1,490 | 99·6 | 111·1 | 111·5 | 118 | 104 |
+| 185 | Muhammadan | Do. | Eastern Bengal | 182·8 | 199 | 168 | 142·7 | 156 | 131 | 78·0 | 89 | 70 | 49·4 | 58 | 40 | 38·3 | 45 | 32 | 77·5 | 96 | 64 | 1,634 | 1,760 | 1,500 | 113·2 | 128·6 | 113·6 | 121 | 106 |
+| 67 | Chandāl | Do. | Do. | 183·2 | 201 | 166 | 143·1 | 151 | 131 | 78·1 | 89 | 70 | 49·6 | 56 | 43 | 36·7 | 42 | 30 | 73·9 | 89 | 62 | 1,619 | 1,734 | 1,472 | 112·3 | 128·1 | 114·0 | 121 | 106 |
+| 100 | Kāyastha | Do. | Bengal | 182·4 | 195 | 169 | 142·8 | 155 | 129 | 78·2 | 88 | 70 | 50·2 | 58 | 42 | 35·3 | 41 | 29 | 70·3 | 89 | 56 | 1,636 | 1,810 | 1,544 | ... | ... | ... | ... | ... |
+| 32 | Brāhman | Do. | Western Bengal | 182·2 | 195 | 171 | 142·6 | 151 | 135 | 78·2 | 87 | 72 | 48·5 | 54 | 40 | 34·9 | 40 | 29 | 71·9 | 100 | 58 | 1,670 | 1,734 | 1,550 | ... | ... | ... | ... | ... |
+| 68 | Brāhman | Do. | Eastern Bengal | 181·5 | 195 | 170 | 143·4 | 151 | 134 | 79·0 | 88 | 70 | 49·9 | 59 | 36 | 35·1 | 42 | 28 | 70·3 | 85 | 56 | 1,653 | 1,792 | 1,474 | ... | ... | ... | ... | ... |
+| 20 | Rājbansi Magh | Magh | Chittagong | 178·6 | 192 | 166 | 148·4 | 157 | 140 | 83·0 | 84 | 74 | 51·0 | 57 | 43 | 38·2 | 46 | 33 | 74·9 | 88 | 63 | 1,645 | 1,750 | 1,542 | 106·6 | 118·3 | 110·9 | 115 | 105 |
+| **Orissa.** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 43 | Karan | Oriya | Puri | 186·1 | 197 | 174 | 142·0 | 152 | 130 | 76·2 | 84 | 68 | 47·7 | 55 | 39 | 38·8 | 44 | 32 | 81·3 | 100 | 66 | 1,638 | 1,792 | 1,486 | 109·8 | 127·7 | 116·3 | 126 | 102 |
+| 26 | Niāri | Do. | Cuttack | 185·0 | 193 | 170 | 141·5 | 151 | 131 | 76·4 | 87 | 70 | 46·8 | 53 | 39 | 37·7 | 42 | 32 | 80·5 | 100 | 70 | 1,611 | 1,756 | 1,469 | 107·9 | 122·8 | 113·8 | 120 | 107 |
+| 45 | Teli | Do. | Puri | 184·0 | 196 | 166 | 140·8 | 150 | 129 | 75·6 | 83 | 71 | 47·1 | 56 | 39 | 36·5 | 42 | 31 | 77·4 | 95 | 65 | 1,619 | 1,794 | 1,500 | 107·8 | 124·8 | 115·7 | 123 | 108 |
+| 59 | Chāsa | Do. | Cuttack | 183·9 | 196 | 169 | 141·9 | 151 | 129 | 77·1 | 84 | 70 | 47·5 | 53 | 41 | 37·7 | 42 | 33 | 79·3 | 95 | 67 | 1,615 | 1,752 | 1,450 | 108·2 | 123·5 | 111·4 | 121 | 109 |
+| 52 | Shashan Brāhman | Do. | Puri | 182·9 | 195 | 171 | 141·2 | 155 | 128 | 77·1 | 80 | 67 | 48·4 | 57 | 41 | 37·2 | 47 | 32 | 76·8 | 93 | 59 | 1,635 | 1,748 | 1,498 | 109·2 | 127·4 | 116·6 | 123 | 110 |
+| 38 | Kewat | Do. | Cuttack | 183·4 | 198 | 173 | 141·9 | 157 | 131 | 77·3 | 86 | 71 | 47·0 | 59 | 40 | 38·7 | 45 | 34 | 82·3 | 98 | 66 | 1,611 | 1,716 | 1,500 | 108·3 | 123·7 | 114·2 | 121 | 109 |
+| 40 | Khandait | Do. | Do. | 183·6 | 197 | 171 | 142·0 | 153 | 133 | 77·3 | 84 | 69 | 48·0 | 55 | 40 | 37·8 | 44 | 33 | 78·7 | 98 | 67 | 1,645 | 1,728 | 1,529 | 109·5 | 126·9 | 115·8 | 123 | 108 |
+| 40 | Bauri | Do. | Do. | 180·4 | 193 | 165 | 139·6 | 149 | 130 | 77·3 | 86 | 70 | 45·5 | 56 | 38 | 38·3 | 44 | 33 | 85·1 | 113 | 68 | 1,585 | 1,686 | 1,476 | 110·3 | 124·2 | 112·6 | 117 | 104 |
+| 40 | Mastān Brāhman | Do. | Puri | 183·8 | 197 | 169 | 142·7 | 154 | 132 | 77·6 | 86 | 69 | 67·9 | 55 | 40 | 38·0 | 48 | 31 | 79·3 | 100 | 63 | 1,642 | 1,755 | 1,468 | 110·6 | 129·5 | 171·0 | 120 | 112 |
+| 40 | Pān | Do. | Cuttack | 182·2 | 193 | 161 | 141·5 | 154 | 130 | 77·6 | 80 | 68 | 46·6 | 54 | 39 | 38·3 | 45 | 33 | 82·1 | 100 | 66 | 1,607 | 1,748 | 1,462 | 110·0 | 124·1 | 112·8 | 119 | 107 |
+| 41 | Gaura | Do. | Do. | 182·8 | 198 | 166 | 142·1 | 151 | 130 | 77·7 | 80 | 70 | 48·4 | 55 | 42 | 37·2 | 43 | 27 | 76·8 | 96 | 60 | 1,627 | 1,748 | 1,510 | 110·3 | 126·0 | 114·2 | 122 | 108 |
+| 41 | Panda Brāhman | Do. | Puri | 183·3 | 195 | 171 | 142·7 | 152 | 132 | 77·8 | 88 | 70 | 47·9 | 55 | 41 | 37·1 | 44 | 32 | 77·4 | 100 | 66 | 1,642 | 1,750 | 1,558 | 109·5 | 126·9 | 115·8 | 124 | 107 |
+| 41 | Kandra | Do. | Cuttack | 182·6 | 198 | 168 | 143·3 | 157 | 133 | 78·4 | 88 | 69 | 47·6 | 54 | 40 | 37·9 | 42 | 33 | 79·6 | 100 | 70 | 1,625 | 1,722 | 1,506 | 111·7 | 127·8 | 114·4 | 121 | 110 |
+| 40 | Guria | Do. | Puri | 182·9 | 204 | 163 | 143·5 | 167 | 135 | 78·4 | 83 | 69 | 47·0 | 55 | 41 | 37·3 | 45 | 31 | 79·3 | 93 | 63 | 1,606 | 1,724 | 1,476 | 108·9 | 125·6 | 115·3 | 122 | 107 |
 
 
 <!-- page: 464 | folio: 400 -->
 
-### *SUMMARY OF*
+### *SUMMARY OF MEASUREMENTS.*
 
 
-#### MONGO
+#### MONGO[…]OID TYPE.
 
 
-**EASTERN HIMALAYA, CHITTAGONG HILL TRACT**
-| Number of subjects. :: LENGTH (GLABELLO-OCCIPITAL). :: Average. | NAME OF TRIBE OR CASTE. :: BREADTH (EXTREME). :: Maximum. | NAME OF TRIBE OR CASTE. :: BREADTH (EXTREME). :: Minimum. | Language or Dialect. :: BREADTH (EXTREME). :: Average. | Language or Dialect. :: BREADTH (EXTREME). :: Maximum. | Locality. :: BREADTH (EXTREME). :: Minimum. | Locality. :: CE I :: Average. | DIMENSIONS OF HEAD. :: CE I | DIMENSIONS OF HEAD. :: CE I | PR TIC H :: CE I | PR TIC H :: CE I |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 17 | Kuki | Rangkhol | Rangamati | 187·2 | 200 | 179 | 142·8 | 156 | 136 | 76·2 |
-| 11 | Kuki [^sec-17-fn-007] | Rangkhol | Rangamati | 187·0 | 195 | 176 | 143·0 | 151 | 137 | 76·4 |
-| 100 | Chakma | Tipura | Rangamati | 177·9 | 195 | 162 | 150·0 | 161 | 134 | 84·3 |
-| 8 | Chakma [^sec-17-fn-007] | Tipura | Chittagong | 181·0 | 186 | 177 | 144·0 | 156 | 135 | 79·5 |
-| 17 | Ao [^sec-17-fn-007] | Ao | Naga Hills | 179·0 | 187 | 170 | 144·0 | 153 | 137 | 80·4 |
-| 50 | Limbu | Limbu | Nepal | 181·4 | 193 | 170 | 153·1 | 167 | 140 | 84·3 |
-| 80 | Magh | Magh | Rangamati | 182·1 | 198 | 170 | 148·5 | 161 | 136 | 81·5 |
-| 32 | Khambu | Kiranti (Khambu) | Nepal | 182·4 | 194 | 169 | 147·8 | 160 | 130 | 81·0 |
-| 11 | Kiranti [^sec-17-fn-007] | Kiranti | Ilam (E. Nepal) | 176·0 | 182 | 171 | 145·0 | 153 | 138 | 82·3 |
-| 7 | Khamti (Tai) [^sec-17-fn-007] | Khamti | Dibrugah (Assam) Bor-khamli | 187·0 | 196 | 180 | 148·0 | 151 | 144 | 79·1 |
-| 58 | Tipra | Tipura | Rangamati | 181·4 | 193 | 167 | 146·1 | 160 | 136 | 80·5 |
-| 18 | Ar-leng (Mikir) [^sec-17-fn-007] | Mikir | Kamrup (Assam) | 181·0 | 193 | 172 | 141·0 | 151 | 138 | 77·9 |
-| 57 | Lepcha | Lepcha | Sikkim | 185·0 | 195 | 174 | 146·7 | 161 | 136 | 79·9 |
-| 36 | Lepcha (Rong) [^sec-17-fn-007] | Rangor Lepcha | Sikkim | 180·0 | 193 | 167 | 145·0 | 157 | 133 | 80·5 |
-| 81 | Kasia [^sec-17-fn-007] | Kasi | Kasia Hills (Assam) | 183·0 | 193 | 171 | 144·0 | 151 | 133 | 78·6 |
-| 5 | Murung | Mrung Tipura | Chittagong | 185·4 | 189 | 182 | 142·0 | 152 | 135 | 76·5 |
-| 35 | Mangor | Magar | Nepal | 183·6 | 201 | 163 | 145·2 | 156 | 136 | 79·0 |
-| 7 | Dafla [^sec-17-fn-007] | Dafla | N. Lakhimpur (Assam) | 183·0 | 189 | 178 | 141·0 | 146 | 138 | 77·0 |
-| 65 | Murmi | Murmi | Nepal and Darjeeling | 188·0 | 196 | 169 | 149·6 | 161 | 134 | 79·5 |
-| 9 | Bhotanese [^sec-17-fn-007] | Bhotia | Pato (E. Himalaya) | 183·0 | 188 | 176 | 147·0 | 157 | 140 | 80·3 |
-| 108 | Tibetans | Bhotia | Eastern Himalaya | 186·9 | 207 | 172 | 151·4 | 168 | 141 | 81·0 |
-| 8 | Tibetans [^sec-17-fn-007] | Bhotia | Kong-bu (E. Himalaya) | 182·0 | 189 | 173 | 148·0 | 161 | 143 | 81·3 |
-| 10 | Mech | Mech | Goalpara (Assam) | 185·0 | 203 | 171 | 147·0 | 153 | 143 | 79·0 |
-| 33 | Bodo (Kachari) [^sec-17-fn-007] | Bodo | Kamrup (Assam) | 181·0 | 195 | 171 | 142·0 | 152 | 135 | 78·4 |
-| 28 | Gurung | Gurung | Darjeeling and Nepal | 181·3 | 202 | 169 | 148·1 | 168 | 141 | 81·6 |
-| 7 | Abor | Abor | Dihong valley | 184·0 | 192 | 172 | 142·0 | 147 | 135 | 77·1 |
-| 13 | Newār | Newar | Nepal | 181·9 | 193 | 169 | 148·3 | 156 | 142 | 81·5 |
-| 25 | Mi-shing (Miri) [^sec-17-fn-007] | Miri | Sibsagar (Assam) | 178·0 | 199 | 169 | 144·0 | 153 | 139 | 80·8 |
-| 27 | Sin-teng (Jaintia)[^sec-17-fn-007] | Khasi | Jantia Hills | 192·0 | 199 | 176 | 140·0 | 149 | 134 | 72·9 |
-| 13 | Ching-po (Singpho)[^sec-17-fn-007] | Singpho | Bisha (Assam) | 185·0 | 192 | 173 | 140·0 | 146 | 137 | 75·6 |
-| 19 | Ahom [^sec-17-fn-007] | Ahom | Sibsagar (Assam) | 176·0 | 185 | 161 | 145·0 | 154 | 137 | 82·3 |
-| 12 | Rabha (Datiyal Kachari) [^sec-17-fn-007] | Kachari | Kamrup (Assam) | 182·0 | 197 | 170 | 142·0 | 149 | 135 | 78·0 |
-| 34 | Mande (Garo) [^sec-17-fn-007] | Mande | Garo Hills (Assam) | 183·0 | 193 | 174 | 139·0 | 150 | 134 | 75·9 |
-| 3 | Chutiya [^sec-17-fn-007] | Chutiya | Sibsagar (Assam) | 182·0 | 183 | 182 | 143·0 | 145 | 142 | 78·5 |
-| 30 | Kanet [^sec-17-fn-008] | Lahauli | Lahoul | 189·0 | 199 | 179 | 147·0 | 155 | 138 | 77·5 |
-| 16 | Anga-mi [^sec-17-fn-007] | Angami | Ta-bo-pi-si-mi | 183·0 | 194 | 170 | 144·0 | 152 | 135 | 78·6 |
-| 4 | Kyon-Tsu (“Lhota” “Naga”) [^sec-17-fn-007] | Lhota | Woka (Assam) | 187·0 | 200 | 178 | 144·0 | 154 | 141 | 77·0 |
-| 60 | Kanet [^sec-17-fn-008] | Kulu | Kulu | 192·0 | 204 | 181 | 143·0 | 154 | 132 | 74·3 |
-| 6 | Kolita [^sec-17-fn-007] | Kachari | Gauhati (Assam) | 181·0 | 187 | 170 | 139·0 | 148 | 134 | 76·7 |
-
-
-<!-- page: 465 | folio: 401 -->
-
-#### OID TYPE.
-
-
-**, AND ASSAM. (In order of Orbito-Nasal Index—Risley.)**
-| PROPOR- TIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | PROPOR- TIONS OF NOSE. :: HEIGHT. :: Average. | STATURE. :: HEIGHT. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: BREADTH. :: Minimum. | BREADTH. :: Average. | BREADTH. :: Maximum. | NASAL INDEX. :: Minimum. | NASAL INDEX. :: Average. | NASAL INDEX. :: Maximum. | External orbital breadth (average). :: Minimum. | External orbital breadth (average). :: Average. | External orbital breadth (average). :: Maximum. | Bi-orbital nasal arc (average). :: Minimum. | Bi-orbital nasal arc (average). :: Average. | Bi-orbital nasal arc (average). :: Maximum. | ORBITO-NASAL INDEX. :: Minimum. | ORBITO-NASAL INDEX. | ORBITO-NASAL INDEX. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 81 | 71 | 46.7 | 52 | 43 | 39.7 | 43 | 34 | 85.0 | 93 | 74 | 1566 | 1650 | 1506 | 99.5 | 105.7 | 106.2 | 110 | 102 |
-| 82 | 74 | 45 | 49 | 41 | 41 | 45 | 38 | 91.1 | 100 | 84 | 1587 | 1670 | 1508 | 110.0 | 121.0 | 110.0 | 113 | 105 |
-| 96 | 77 | 47.2 | 53 | 41 | 39.9 | 46 | 30 | 84.5 | 105 | 70 | 1595 | 1696 | 1490 | 101.3 | 107.8 | 106.4 | 112 | 102 |
-| 87 | 74 | 44 | 49 | 39 | 40 | 45 | 38 | 90.9 | 102 | 80 | 1597 | 1639 | 1546 | 103.0 | 117.0 | 113.5 | 121 | 107 |
-| 85 | 76 | 44 | 49 | 37 | 36 | 41 | 31 | 81.8 | 100 | 70 | 1566 | 1648 | 1504 | 104.0 | 111.0 | 106.7 | 112 | 101 |
-| 94 | 76 | 50.2 | 57 | 37 | 37.2 | 43 | 33 | 74.1 | 111 | 64 | 1603 | 1734 | 1450 | 109.1 | 116.7 | 106.9 | 113 | 104 |
-| 95 | 73 | 47.5 | 55 | 38 | 39.4 | 48 | 34 | 82.9 | 102 | 68 | 1599 | 1710 | 1522 | 101.0 | 108.0 | 106.9 | 113 | 102 |
-| 93 | 75 | 50.0 | 57 | 45 | 38.3 | 42 | 33 | 76.6 | 91 | 63 | 1571 | 1656 | 1416 | 107.2 | 115.0 | 107.1 | 113 | 103 |
-| 88 | 77 | 42 | 44 | 39 | 36 | 40 | 35 | 85.7 | 98 | 82 | 1586 | 1606 | 1512 | ... | ... | ... | ... | ... |
-| 83 | 75 | 47 | 51 | 44 | 38 | 41 | 36 | 80.8 | 91 | 75 | 1641 | 1695 | 1575 | 105.0 | 113.0 | 107.6 | 110 | 105 |
-| 92 | 74 | 47.1 | 59 | 40 | 39.9 | 45 | 35 | 84.7 | 105 | 68 | 1611 | 1712 | 1486 | 100.0 | 107.6 | 107.6 | 112 | 103 |
-| 82 | 74 | 47 | 58 | 42 | 40 | 47 | 34 | 85.1 | 102 | 67 | 1633 | 1703 | 1558 | 103.0 | 111.0 | 107.7 | 114 | 104 |
-| 90 | 73 | 51.6 | 60 | 42 | 34.7 | 41 | 33 | 67.2 | 83 | 59 | 1570 | 1690 | 1490 | 106.4 | 115.1 | 108.1 | 113 | 103 |
-| 88 | 73 | 46 | 51 | 40 | 36 | 42 | 32 | 78.2 | 91 | 67 | 1584 | 1684 | 1449 | 102.0 | 108.0 | 105.8 | 119 | 92 |
-| 84 | 72 | 44 | 52 | 36 | 38 | 45 | 33 | 86.3 | 108 | 73 | 1569 | 1700 | 1417 | 106.0 | 115.0 | 108.4 | 119 | 101 |
-| 82 | 73 | 49.0 | 51 | 47 | 37.6 | 40 | 36 | 76.1 | 81 | 73 | 1582 | 1636 | 1536 | 100.2 | 108.8 | 108.5 | 115 | 103 |
-| 91 | 72 | 49.6 | 56 | 40 | 38.0 | 44 | 34 | 76.6 | 98 | 61 | 1587 | 1680 | 1508 | 106.4 | 115.7 | 108.7 | 116 | 103 |
-| 81 | 73 | 44 | 48 | 40 | 37 | 42 | 33 | 84.0 | 93 | 78 | 1606 | 1708 | 1532 | 103.0 | 112.0 | 108.7 | 114 | 104 |
-| 89 | 73 | 49.7 | 57 | 41 | 37.4 | 43 | 32 | 75.2 | 100 | 63 | 1669 | 1760 | 1490 | 111.5 | 121.5 | 108.9 | 113 | 105 |
-| 87 | 75 | 48 | 54 | 41 | 37 | 41 | 36 | 77.0 | 88 | 73 | 1672 | 1747 | 1611 | 110.0 | 120.0 | 109.0 | 115 | 105 |
-| 83 | 73 | 51.8 | 59 | 38 | 38.3 | 47 | 31 | 73.9 | 103 | 58 | 1633 | 1760 | 1520 | 119.8 | 130.8 | 109.1 | 120 | 103 |
-| 86 | 78 | 45 | 49 | 42 | 37 | 41 | 36 | 82.2 | 91 | 76 | 1634 | 1748 | 1570 | 106.0 | 112.0 | 105.6 | 109 | 102 |
-| 84 | 71 | 43 | 45 | 42 | 39 | 43 | 38 | 90.6 | 100 | 84 | 1643 | 1722 | 1852 | 104.0 | 114.0 | 109.6 | 114 | 104 |
-| 84 | 73 | 42 | 50 | 35 | 37 | 49 | 33 | 88.0 | 118 | 72 | 1608 | 1734 | 1483 | 103.0 | 113.0 | 109.7 | 116 | 103 |
-| 91 | 73 | 48.9 | 58 | 38 | 38.4 | 43 | 34 | 78.5 | 102 | 65 | 1698 | 1746 | 1476 | 117.0 | 128.6 | 109.9 | 114 | 105 |
-| 90 | 75 | 43 | 49 | 41 | 39 | 41 | 36 | 81.6 | 100 | 80 | 1579 | 1628 | 1490 | 108.0 | 119.0 | 110.1 | 115 | 107 |
-| 89 | 76 | 50.7 | 57 | 44 | 37.2 | 42 | 34 | 73.3 | 81 | 64 | 1614 | 1706 | 1470 | 108.6 | 119.7 | 110.2 | 116 | 104 |
-| 87 | 73 | 44 | 51 | 40 | 37 | 41 | 34 | 84.0 | 100 | 75 | 1564 | 1700 | 1518 | 105.0 | 116.0 | 110.4 | 119 | 103 |
-| 89 | 69 | 45 | 52 | 39 | 37 | 42 | 32 | 82.2 | 100 | 68 | 1612 | 1713 | 1505 | 107.0 | 119.0 | 111.2 | 119 | 102 |
-| 91 | 74 | 47 | 56 | 40 | 38 | 42 | 29 | 80.8 | 95 | 60 | 1605 | 1695 | 1528 | 104.0 | 116.0 | 111.5 | 128 | 104 |
-| 91 | 75 | 44 | 49 | 38 | 36 | 41 | 33 | 81.8 | 90 | 73 | 1589 | 1720 | 1490 | 103.0 | 115.0 | 111.6 | 124 | 104 |
-| 82 | 74 | 43 | 49 | 37 | 39 | 44 | 36 | 90.6 | 105 | 73 | 1605 | 1695 | 1528 | 102.0 | 114.0 | 111.7 | 128 | 104 |
-| 80 | 71 | 41 | 47 | 36 | 39 | 43 | 35 | 95.1 | 117 | 83 | 1588 | 1679 | 1512 | 102.0 | 114.0 | 111.7 | 119 | 102 |
-| 81 | 78 | 44 | 48 | 38 | 36 | 38 | 35 | 81.8 | 95 | 76 | 1591 | 1607 | 1582 | 110.0 | 124.0 | 112.7 | 119 | 106 |
-|  | 72 | 53 | 59 | 47 | 35 | 39 | 32 | 66.4 | 76 | 57 | 1618 | 1750 | 1450 | 99.0 | 112.0 | 112.9 | 123 | 105 |
-|  | 71 | 45 | 52 | 42 | 37 | 40 | 36 | 82.2 | 91 | 73 | 1639 | 1693 | 1539 | 103.0 | 117.0 | 113.5 | 120 | 105 |
-|  | 75 | 43 | 47 | 38 | 34 | 38 | 34 | 79.0 | 100 | 72 | 1620 | 1690 | 1580 | 103.0 | 118.0 | 114.5 | 117 | 108 |
-|  | 68 | 51 | 59 | 45 | 37 | 44 | 30 | 74.1 | 96 | 56 | 1654 | 1760 | 1560 | 101.0 | 117.0 | 115.5 | 129 | 107 |
-|  | 74 | 43 | 47 | 38 | 36 | 40 | 31 | 83.7 | 97 | 66 | 1628 | 1666 | 1568 | 101.0 | 118.0 | 116.8 | 124 | 113 |
+**EASTERN HIMALAYA, CHITTAGONG HILL TRACT, AND ASSAM. (In order of Orbito-Nasal Index—Risley.)**
+| Number of subjects. | NAME OF TRIBE OR CASTE. | Language or Dialect. | Locality. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Average. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Maximum. | DIMENSIONS OF HEAD. :: LENGTH (GLABELLO-OCCIPITAL). :: Minimum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Average. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Maximum. | DIMENSIONS OF HEAD. :: BREADTH (EXTREME). :: Minimum. | PROPOR- TIONS OF HEAD. :: CEPHALIC INDEX. :: Average. | PROPOR- TIONS OF HEAD. :: CEPHALIC INDEX. :: Maximum. | PROPOR- TIONS OF HEAD. :: CEPHALIC INDEX. :: Minimum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Average. | DIMENSIONS OF NOSE. :: HEIGHT. :: Maximum. | DIMENSIONS OF NOSE. :: HEIGHT. :: Minimum. | DIMENSIONS OF NOSE. :: BREADTH. :: Average. | DIMENSIONS OF NOSE. :: BREADTH. :: Maximum. | DIMENSIONS OF NOSE. :: BREADTH. :: Minimum. | PROPOR- TIONS OF NOSE. :: NASAL INDEX. :: Average. | PROPOR- TIONS OF NOSE. :: NASAL INDEX. :: Maximum. | PROPOR- TIONS OF NOSE. :: NASAL INDEX. :: Minimum. | STATURE. :: Average. | STATURE. :: Maximum. | STATURE. :: Minimum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: External orbital breadth (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: Bi-orbital nasal arc (average). | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Average. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Maximum. | RELATIVE PROMINENCE OF ROOT OF NOSE. :: ORBITO-NASAL INDEX. :: Minimum. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 17 | Kuki | Rangkhol | Rangamati | 187·2 | 200 | 179 | 142·8 | 156 | 136 | 76·2 | 81 | 71 | 46.7 | 52 | 43 | 39.7 | 43 | 34 | 85.0 | 93 | 74 | 1566 | 1650 | 1506 | 99.5 | 105.7 | 106.2 | 110 | 102 |
+| 11 | Kuki [^sec-17-fn-007] | Rangkhol | Rangamati | 187·0 | 195 | 176 | 143·0 | 151 | 137 | 76·4 | 82 | 74 | 45 | 49 | 41 | 41 | 45 | 38 | 91.1 | 100 | 84 | 1587 | 1670 | 1508 | 110.0 | 121.0 | 110.0 | 113 | 105 |
+| 100 | Chakma | Tipura | Rangamati | 177·9 | 195 | 162 | 150·0 | 161 | 134 | 84·3 | 96 | 77 | 47.2 | 53 | 41 | 39.9 | 46 | 30 | 84.5 | 105 | 70 | 1595 | 1696 | 1490 | 101.3 | 107.8 | 106.4 | 112 | 102 |
+| 8 | Chakma [^sec-17-fn-007] | Tipura | Chittagong | 181·0 | 186 | 177 | 144·0 | 156 | 135 | 79·5 | 87 | 74 | 44 | 49 | 39 | 40 | 45 | 38 | 90.9 | 102 | 80 | 1597 | 1639 | 1546 | 103.0 | 117.0 | 113.5 | 121 | 107 |
+| 17 | Ao [^sec-17-fn-007] | Ao | Naga Hills | 179·0 | 187 | 170 | 144·0 | 153 | 137 | 80·4 | 85 | 76 | 44 | 49 | 37 | 36 | 41 | 31 | 81.8 | 100 | 70 | 1566 | 1648 | 1504 | 104.0 | 111.0 | 106.7 | 112 | 101 |
+| 50 | Limbu | Limbu | Nepal | 181·4 | 193 | 170 | 153·1 | 167 | 140 | 84·3 | 94 | 76 | 50.2 | 57 | 37 | 37.2 | 43 | 33 | 74.1 | 111 | 64 | 1603 | 1734 | 1450 | 109.1 | 116.7 | 106.9 | 113 | 104 |
+| 80 | Magh | Magh | Rangamati | 182·1 | 198 | 170 | 148·5 | 161 | 136 | 81·5 | 95 | 73 | 47.5 | 55 | 38 | 39.4 | 48 | 34 | 82.9 | 102 | 68 | 1599 | 1710 | 1522 | 101.0 | 108.0 | 106.9 | 113 | 102 |
+| 32 | Khambu | Kiranti (Khambu) | Nepal | 182·4 | 194 | 169 | 147·8 | 160 | 130 | 81·0 | 93 | 75 | 50.0 | 57 | 45 | 38.3 | 42 | 33 | 76.6 | 91 | 63 | 1571 | 1656 | 1416 | 107.2 | 115.0 | 107.1 | 113 | 103 |
+| 11 | Kiranti [^sec-17-fn-007] | Kiranti | Ilam (E. Nepal) | 176·0 | 182 | 171 | 145·0 | 153 | 138 | 82·3 | 88 | 77 | 42 | 44 | 39 | 36 | 40 | 35 | 85.7 | 98 | 82 | 1586 | 1606 | 1512 | ... | ... | ... | ... | ... |
+| 7 | Khamti (Tai) [^sec-17-fn-007] | Khamti | Dibrugah (Assam) Bor-khamli | 187·0 | 196 | 180 | 148·0 | 151 | 144 | 79·1 | 83 | 75 | 47 | 51 | 44 | 38 | 41 | 36 | 80.8 | 91 | 75 | 1641 | 1695 | 1575 | 105.0 | 113.0 | 107.6 | 110 | 105 |
+| 58 | Tipra | Tipura | Rangamati | 181·4 | 193 | 167 | 146·1 | 160 | 136 | 80·5 | 92 | 74 | 47.1 | 59 | 40 | 39.9 | 45 | 35 | 84.7 | 105 | 68 | 1611 | 1712 | 1486 | 100.0 | 107.6 | 107.6 | 112 | 103 |
+| 18 | Ar-leng (Mikir) [^sec-17-fn-007] | Mikir | Kamrup (Assam) | 181·0 | 193 | 172 | 141·0 | 151 | 138 | 77·9 | 82 | 74 | 47 | 58 | 42 | 40 | 47 | 34 | 85.1 | 102 | 67 | 1633 | 1703 | 1558 | 103.0 | 111.0 | 107.7 | 114 | 104 |
+| 57 | Lepcha | Lepcha | Sikkim | 185·0 | 195 | 174 | 146·7 | 161 | 136 | 79·9 | 90 | 73 | 51.6 | 60 | 42 | 34.7 | 41 | 33 | 67.2 | 83 | 59 | 1570 | 1690 | 1490 | 106.4 | 115.1 | 108.1 | 113 | 103 |
+| 36 | Lepcha (Rong) [^sec-17-fn-007] | Rangor Lepcha | Sikkim | 180·0 | 193 | 167 | 145·0 | 157 | 133 | 80·5 | 88 | 73 | 46 | 51 | 40 | 36 | 42 | 32 | 78.2 | 91 | 67 | 1584 | 1684 | 1449 | 102.0 | 108.0 | 105.8 | 119 | 92 |
+| 81 | Kasia [^sec-17-fn-007] | Kasi | Kasia Hills (Assam) | 183·0 | 193 | 171 | 144·0 | 151 | 133 | 78·6 | 84 | 72 | 44 | 52 | 36 | 38 | 45 | 33 | 86.3 | 108 | 73 | 1569 | 1700 | 1417 | 106.0 | 115.0 | 108.4 | 119 | 101 |
+| 5 | Murung | Mrung Tipura | Chittagong | 185·4 | 189 | 182 | 142·0 | 152 | 135 | 76·5 | 82 | 73 | 49.0 | 51 | 47 | 37.6 | 40 | 36 | 76.1 | 81 | 73 | 1582 | 1636 | 1536 | 100.2 | 108.8 | 108.5 | 115 | 103 |
+| 35 | Mangor | Magar | Nepal | 183·6 | 201 | 163 | 145·2 | 156 | 136 | 79·0 | 91 | 72 | 49.6 | 56 | 40 | 38.0 | 44 | 34 | 76.6 | 98 | 61 | 1587 | 1680 | 1508 | 106.4 | 115.7 | 108.7 | 116 | 103 |
+| 7 | Dafla [^sec-17-fn-007] | Dafla | N. Lakhimpur (Assam) | 183·0 | 189 | 178 | 141·0 | 146 | 138 | 77·0 | 81 | 73 | 44 | 48 | 40 | 37 | 42 | 33 | 84.0 | 93 | 78 | 1606 | 1708 | 1532 | 103.0 | 112.0 | 108.7 | 114 | 104 |
+| 65 | Murmi | Murmi | Nepal and Darjeeling | 188·0 | 196 | 169 | 149·6 | 161 | 134 | 79·5 | 89 | 73 | 49.7 | 57 | 41 | 37.4 | 43 | 32 | 75.2 | 100 | 63 | 1669 | 1760 | 1490 | 111.5 | 121.5 | 108.9 | 113 | 105 |
+| 9 | Bhotanese [^sec-17-fn-007] | Bhotia | Pato (E. Himalaya) | 183·0 | 188 | 176 | 147·0 | 157 | 140 | 80·3 | 87 | 75 | 48 | 54 | 41 | 37 | 41 | 36 | 77.0 | 88 | 73 | 1672 | 1747 | 1611 | 110.0 | 120.0 | 109.0 | 115 | 105 |
+| 108 | Tibetans | Bhotia | Eastern Himalaya | 186·9 | 207 | 172 | 151·4 | 168 | 141 | 81·0 | 83 | 73 | 51.8 | 59 | 38 | 38.3 | 47 | 31 | 73.9 | 103 | 58 | 1633 | 1760 | 1520 | 119.8 | 130.8 | 109.1 | 120 | 103 |
+| 8 | Tibetans [^sec-17-fn-007] | Bhotia | Kong-bu (E. Himalaya) | 182·0 | 189 | 173 | 148·0 | 161 | 143 | 81·3 | 86 | 78 | 45 | 49 | 42 | 37 | 41 | 36 | 82.2 | 91 | 76 | 1634 | 1748 | 1570 | 106.0 | 112.0 | 105.6 | 109 | 102 |
+| 10 | Mech | Mech | Goalpara (Assam) | 185·0 | 203 | 171 | 147·0 | 153 | 143 | 79·0 | 84 | 71 | 43 | 45 | 42 | 39 | 43 | 38 | 90.6 | 100 | 84 | 1643 | 1722 | 1852 | 104.0 | 114.0 | 109.6 | 114 | 104 |
+| 33 | Bodo (Kachari) [^sec-17-fn-007] | Bodo | Kamrup (Assam) | 181·0 | 195 | 171 | 142·0 | 152 | 135 | 78·4 | 84 | 73 | 42 | 50 | 35 | 37 | 49 | 33 | 88.0 | 118 | 72 | 1608 | 1734 | 1483 | 103.0 | 113.0 | 109.7 | 116 | 103 |
+| 28 | Gurung | Gurung | Darjeeling and Nepal | 181·3 | 202 | 169 | 148·1 | 168 | 141 | 81·6 | 91 | 73 | 48.9 | 58 | 38 | 38.4 | 43 | 34 | 78.5 | 102 | 65 | 1698 | 1746 | 1476 | 117.0 | 128.6 | 109.9 | 114 | 105 |
+| 7 | Abor | Abor | Dihong valley | 184·0 | 192 | 172 | 142·0 | 147 | 135 | 77·1 | 90 | 75 | 43 | 49 | 41 | 39 | 41 | 36 | 81.6 | 100 | 80 | 1579 | 1628 | 1490 | 108.0 | 119.0 | 110.1 | 115 | 107 |
+| 13 | Newār | Newar | Nepal | 181·9 | 193 | 169 | 148·3 | 156 | 142 | 81·5 | 89 | 76 | 50.7 | 57 | 44 | 37.2 | 42 | 34 | 73.3 | 81 | 64 | 1614 | 1706 | 1470 | 108.6 | 119.7 | 110.2 | 116 | 104 |
+| 25 | Mi-shing (Miri) [^sec-17-fn-007] | Miri | Sibsagar (Assam) | 178·0 | 199 | 169 | 144·0 | 153 | 139 | 80·8 | 87 | 73 | 44 | 51 | 40 | 37 | 41 | 34 | 84.0 | 100 | 75 | 1564 | 1700 | 1518 | 105.0 | 116.0 | 110.4 | 119 | 103 |
+| 27 | Sin-teng (Jaintia)[^sec-17-fn-007] | Khasi | Jantia Hills | 192·0 | 199 | 176 | 140·0 | 149 | 134 | 72·9 | 89 | 69 | 45 | 52 | 39 | 37 | 42 | 32 | 82.2 | 100 | 68 | 1612 | 1713 | 1505 | 107.0 | 119.0 | 111.2 | 119 | 102 |
+| 13 | Ching-po (Singpho)[^sec-17-fn-007] | Singpho | Bisha (Assam) | 185·0 | 192 | 173 | 140·0 | 146 | 137 | 75·6 | 91 | 74 | 47 | 56 | 40 | 38 | 42 | 29 | 80.8 | 95 | 60 | 1605 | 1695 | 1528 | 104.0 | 116.0 | 111.5 | 128 | 104 |
+| 19 | Ahom [^sec-17-fn-007] | Ahom | Sibsagar (Assam) | 176·0 | 185 | 161 | 145·0 | 154 | 137 | 82·3 | 91 | 75 | 44 | 49 | 38 | 36 | 41 | 33 | 81.8 | 90 | 73 | 1589 | 1720 | 1490 | 103.0 | 115.0 | 111.6 | 124 | 104 |
+| 12 | Rabha (Datiyal Kachari) [^sec-17-fn-007] | Kachari | Kamrup (Assam) | 182·0 | 197 | 170 | 142·0 | 149 | 135 | 78·0 | 82 | 74 | 43 | 49 | 37 | 39 | 44 | 36 | 90.6 | 105 | 73 | 1605 | 1695 | 1528 | 102.0 | 114.0 | 111.7 | 128 | 104 |
+| 34 | Mande (Garo) [^sec-17-fn-007] | Mande | Garo Hills (Assam) | 183·0 | 193 | 174 | 139·0 | 150 | 134 | 75·9 | 80 | 71 | 41 | 47 | 36 | 39 | 43 | 35 | 95.1 | 117 | 83 | 1588 | 1679 | 1512 | 102.0 | 114.0 | 111.7 | 119 | 102 |
+| 3 | Chutiya [^sec-17-fn-007] | Chutiya | Sibsagar (Assam) | 182·0 | 183 | 182 | 143·0 | 145 | 142 | 78·5 | 81 | 78 | 44 | 48 | 38 | 36 | 38 | 35 | 81.8 | 95 | 76 | 1591 | 1607 | 1582 | 110.0 | 124.0 | 112.7 | 119 | 106 |
+| 30 | Kanet [^sec-17-fn-008] | Lahauli | Lahoul | 189·0 | 199 | 179 | 147·0 | 155 | 138 | 77·5 |  | 72 | 53 | 59 | 47 | 35 | 39 | 32 | 66.4 | 76 | 57 | 1618 | 1750 | 1450 | 99.0 | 112.0 | 112.9 | 123 | 105 |
+| 16 | Anga-mi [^sec-17-fn-007] | Angami | Ta-bo-pi-si-mi | 183·0 | 194 | 170 | 144·0 | 152 | 135 | 78·6 |  | 71 | 45 | 52 | 42 | 37 | 40 | 36 | 82.2 | 91 | 73 | 1639 | 1693 | 1539 | 103.0 | 117.0 | 113.5 | 120 | 105 |
+| 4 | Kyon-Tsu (“Lhota” “Naga”) [^sec-17-fn-007] | Lhota | Woka (Assam) | 187·0 | 200 | 178 | 144·0 | 154 | 141 | 77·0 |  | 75 | 43 | 47 | 38 | 34 | 38 | 34 | 79.0 | 100 | 72 | 1620 | 1690 | 1580 | 103.0 | 118.0 | 114.5 | 117 | 108 |
+| 60 | Kanet [^sec-17-fn-008] | Kulu | Kulu | 192·0 | 204 | 181 | 143·0 | 154 | 132 | 74·3 |  | 68 | 51 | 59 | 45 | 37 | 44 | 30 | 74.1 | 96 | 56 | 1654 | 1760 | 1560 | 101.0 | 117.0 | 115.5 | 129 | 107 |
+| 6 | Kolita [^sec-17-fn-007] | Kachari | Gauhati (Assam) | 181·0 | 187 | 170 | 139·0 | 148 | 134 | 76·7 |  | 74 | 43 | 47 | 38 | 36 | 40 | 31 | 83.7 | 97 | 66 | 1628 | 1666 | 1568 | 101.0 | 118.0 | 116.8 | 124 | 113 |
 
 
 ### Notes
@@ -4706,7 +4429,7 @@ The Hindu gods have fled to Dwārka ; the Musalmān saints to Mecca ; under Brit
 [^sec-17-fn-003]: (†) [Unlinked note, p. 389] Only 48 Measurements available.
 [^sec-17-fn-004]: (*) Mr. B. A [p. 397] Gupte, F.Z.S.
 [^sec-17-fn-005]: (*) T. H. Ho [p. 405] , A.R.C.S., F.G.S.
-[^sec-17-fn-006]: (*) Lt.-ol. [p. 397] Waddell.
+[^sec-17-fn-006]: (*) Lt.- [p. 397] ol. Waddell.
 [^sec-17-fn-007]: (*) Lt.-Col. Waddell, C.I.E.
 [^sec-17-fn-008]: (†) T. H. Holland, Esq., A.R.C.S., F.G.S.
 

@@ -1110,7 +1110,7 @@ R. C. DUTT.
 “Vritra is supposed to confine the waters, and will not let them descend until the sky-god or rain-god, Indra, strikes the monster with his thunderbolt. The captive waters then descend in copious showers, rivers rise almost instantaneously, and gods and men rejoice over the changed face of nature.”—*Civilisation in Ancient India*, vol. i. p. 79.
 
 
-##### 1.
+#### 1.
 
 > I <span class="sc">SING</span> the lay, our fathers knew,—  
 > How Indra mighty Vritra slew!  
@@ -1120,7 +1120,7 @@ R. C. DUTT.
 > For Indra cleared for them the rocky way!
 
 
-##### 2.
+#### 2.
 
 > He pierced the rain-cloud, stout of heart,  
 > And Tvashtri forged the lightning’s dart!  
@@ -1130,7 +1130,7 @@ R. C. DUTT.
 > Unto the sea the streamlets speed along!
 
 
-##### 3.
+#### 3.
 
 > Impetuous like a bull in might,  
 > Indra, eager for the fight,
@@ -1143,7 +1143,7 @@ R. C. DUTT.
 > And poured the joyous waters, sparkling bright !
 
 
-##### 4.
+#### 4.
 
 > Mighty god and warrior proud !  
 > You smote the demon of the cloud,  
@@ -1153,7 +1153,7 @@ R. C. DUTT.
 > And joyful mortals hailed the rising sun !
 
 
-##### 5.
+#### 5.
 
 > In gloomy folds did Vritra proud  
 > The earth and sky in darkness shroud  
@@ -1163,7 +1163,7 @@ R. C. DUTT.
 > Proud Vritra lies prostrate, by Indra killed !
 
 
-##### 6.
+#### 6.
 
 > Did not Vritra, proud, elate,  
 > Proudly challenge Indra great ?  
@@ -1175,7 +1175,7 @@ R. C. DUTT.
 
 <!-- page: 43 | folio: 5 -->
 
-##### 7.
+#### 7.
 
 > With severed limbs, in mighty rage  
 > The combat still did Vritra wage.  
@@ -1185,7 +1185,7 @@ R. C. DUTT.
 > And vain was Vritra’s war with Indra bright!
 
 
-##### 8.
+#### 8.
 
 > Glad waters over Vritra roll,  
 > As rivers over banks that fall.  
@@ -1195,7 +1195,7 @@ R. C. DUTT.
 > Spurning the dead, how glad the waters roll!
 
 
-##### 9.
+#### 9.
 
 > But darker clouds come in their might,  
 > And Indra fights a fiercer fight!  
@@ -1205,7 +1205,7 @@ R. C. DUTT.
 > The mother rain-cloud lies with Vritra dead!
 
 
-##### 10.
+#### 10.
 
 > O’er the dead the waters hie,  
 > Sparkling as they ceaseless fly!
@@ -1218,7 +1218,7 @@ R. C. DUTT.
 > For Indra’s foe now sleeps the sleep of death !
 
 
-##### 11.
+#### 11.
 
 > When light was prisoned by dark gloom,  
 > ’Twas Indra won her from its womb !  
@@ -1228,7 +1228,7 @@ R. C. DUTT.
 > For Indra gave us light and gave us rain !
 
 
-##### 12.
+#### 12.
 
 > Vain were Vritra’s darts and blows,  
 > For Indra shields himself from foes !  
@@ -1240,7 +1240,7 @@ R. C. DUTT.
 
 <!-- page: 45 | folio: 7 -->
 
-##### 13.
+#### 13.
 
 > The lightning shafts that Ahi [^sec-06-fn-003] sent,  
 > On Indra harmless all were spent ;  
@@ -1250,7 +1250,7 @@ R. C. DUTT.
 > For Indra rent them with his piercing darts !
 
 
-##### 14.
+#### 14.
 
 > Great Indra ! In that dubious war  
 > Didst thou own a secret fear ?  
@@ -1260,7 +1260,7 @@ R. C. DUTT.
 > O’er ninety streams and nine flee far away ?
 
 
-##### 15.
+#### 15.
 
 > Lightning-arméd ! Mighty king  
 > Of living and of lifeless thing !  
@@ -1287,7 +1287,7 @@ R. C. DUTT.
 ### *INDRA, THE SUPREME DEITY.*
 
 
-##### 1.
+#### 1.
 
 > <span class="sc">Mortals</span>! Did you question me,  
 > Who is Indra, where is he?  
@@ -1297,7 +1297,7 @@ R. C. DUTT.
 > Mortals! He is Indra, rules on high!
 
 
-##### 2.
+#### 2.
 
 > He who fixed the solid earth,  
 > Shaped the mountains at their birth!  
@@ -1307,7 +1307,7 @@ R. C. DUTT.
 > Mortals! He is Indra, rules on high!
 
 
-##### 3.
+#### 3.
 
 > He who pierced the clouds in might,  
 > Rolled the seven great rivers bright!  
@@ -1320,7 +1320,7 @@ R. C. DUTT.
 > Mortals ! He is Indra, victor in the fight !
 
 
-##### 4.
+#### 4.
 
 > Listen, mortals ! to my verse,  
 > His handiwork—this universe !  
@@ -1330,7 +1330,7 @@ R. C. DUTT.
 > For he is Indra ! hunter strong and bold !
 
 
-##### 5.
+#### 5.
 
 > Have you, doubting, questioned me,  
 > Where is Indra, who is he ?  
@@ -1340,7 +1340,7 @@ R. C. DUTT.
 > For Indra smites the impious in his ire !
 
 
-##### 6.
+#### 6.
 
 > But his ceaseless mercies seek  
 > The pious man, the poor and meek !  
@@ -1352,7 +1352,7 @@ R. C. DUTT.
 
 <!-- page: 48 | folio: 10 -->
 
-##### 7.
+#### 7.
 
 > His the kine and steeds of war,  
 > The village home, the battle car!  
@@ -1362,7 +1362,7 @@ R. C. DUTT.
 > For he is Indra, copious rain who sends!
 
 
-##### 8.
+#### 8.
 
 > Contending hosts repeat his name,  
 > And chiefs invoke the Lord of fame!  
@@ -1372,7 +1372,7 @@ R. C. DUTT.
 > For he is Indra, whom our fathers knew!
 
 
-##### 9.
+#### 9.
 
 > Man triumphs not but by his blade,  
 > And warring nations ask his aid!  
@@ -1382,7 +1382,7 @@ R. C. DUTT.
 > For Indra knows no death, no slow decay!
 
 
-##### 10.
+#### 10.
 
 > He who killed with lightning dire  
 > Impious nations in his ire;
@@ -1395,7 +1395,7 @@ R. C. DUTT.
 > He is Indra! victor in the fight!
 
 
-##### 11.
+#### 11.
 
 > He who mighty warriors quelled,  
 > In forty years Samvara felled;  
@@ -1405,7 +1405,7 @@ R. C. DUTT.
 > He is Indra! glorious in the fight!
 
 
-##### 12.
+#### 12.
 
 > His seven bright tints bedeck the bow,  
 > His seven great rivers joyous flow!  
@@ -1415,7 +1415,7 @@ R. C. DUTT.
 > He is Indra! conqueror in the fight!
 
 
-##### 13.
+#### 13.
 
 > The earth and sky to Indra pray,  
 > And trembling hills obeisance pay!  
@@ -1427,7 +1427,7 @@ R. C. DUTT.
 
 <!-- page: 50 | folio: 12 -->
 
-##### 14.
+#### 14.
 
 > Lift your heart and lift your praise,  
 > Pour libations, chant his lays !  
@@ -1437,7 +1437,7 @@ R. C. DUTT.
 > Mortals !  He is Indra !  Shout his praise !
 
 
-##### 15.
+#### 15.
 
 > Great Indra ! mortals raise thy song,  
 > For thee their pious rites prolong,  
@@ -1701,7 +1701,7 @@ The first five verses of this hymn are addressed to the Fire and to the Sun, and
 The hymn translated below is one of peculiar interest, because it is said to have been composed by a pious lady, Visvavârâ.
 
 
-##### I.
+#### I.
 
 > <span class="sc">LIGHTED</span> Agni flames forth high,  
 > Flings a radiance on the sky,  
@@ -1711,7 +1711,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Faces the east, and brings her gifts to Fire !
 
 
-##### 2.
+#### 2.
 
 > Lord of Eternity ! Lord of skies !  
 > Presiding Lord of sacrifice !  
@@ -1723,7 +1723,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 
 <!-- page: 59 | folio: 21 -->
 
-##### 3.
+#### 3.
 
 > Agni! On the altar shine,  
 > Flames and radiance bright be thine!  
@@ -1733,7 +1733,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > And link our men and wives in bonds of love!
 
 
-##### 4.
+#### 4.
 
 > Agni! On the altar shine,  
 > Flames and radiance bright be thine!  
@@ -1743,7 +1743,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Flame on our altar, glorious and divine!
 
 
-##### 5.
+#### 5.
 
 > With pious hands we light thy flame,  
 > With pious lips we chant thy name!  
@@ -1782,7 +1782,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > “There is no lovelier conception in the Rig Veda than that of the Dawn. There are no hymns in the Veda more truly poetical than those dedicated to her, and nothing more charming is to be found in the lyrical poetry of any ancient nation. . . . The Dawn was known by various names, and most of these names, and the legends connected with them, were brought by the Hindus from their original abode, since we find phonetical equivalents of these names, and a repetition of some of the legends too, in Greek mythology. Ushas is the Eos of the Greeks and the Aurora of the Latins. Arjunî, according to philologists, is the Greek Argynoris, Brisayâ is Briseis, and Dahanâ is Daphne. Saramâ is phonetically equivalent to the Greek Helena. Saranyu, the mother of Yama and of the Asvins, is the Greek Erinys, and Ahanâ is the renowned goddess Athena.”—*Civilisation in Ancient India*, vol. i. p. 91.
 
 
-##### 1.
+#### 1.
 
 > <span class="sc">Beauteous</span> daughter of the sky !  
 > Hold thy ruddy light on high !  
@@ -1792,7 +1792,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Bring us light,—let night’s deep shadows fly !
 
 
-##### 2.
+#### 2.
 
 > Rich in cattle, rich in steed,  
 > With thy gifts to mortals speed !
@@ -1805,7 +1805,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > And grant us wealth and bliss without alloy.
 
 
-##### 3.
+#### 3.
 
 > Our fathers hailed thy glorious light,—  
 > We hail thee, goddess, ever bright !  
@@ -1815,7 +1815,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Come and bring thy joyous light from far !
 
 
-##### 4.
+#### 4.
 
 > And men of lore will raise their song,  
 > The morning hymns to thee belong !  
@@ -1825,7 +1825,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Proclaims their names who feed and bless the poor ![^sec-11-fn-001]
 
 
-##### 5.
+#### 5.
 
 > Come like a housewife gentle-hearted,  
 > Tending all !—For night's departed.
@@ -1838,7 +1838,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > And birds with joyous notes will fill the air !
 
 
-##### 6.
+#### 6.
 
 > The strong man to his work you send,  
 > Unto the poor your favours lend ;  
@@ -1848,7 +1848,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > And birds with joyous notes will fill the air !
 
 
-##### 7.
+#### 7.
 
 > She comes ! she comes ! in her bright car  
 > Scattering splendour from afar !  
@@ -1858,7 +1858,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > She comes ! she comes ! to heal us and to bless !
 
 
-##### 8.
+#### 8.
 
 > Mortals in devotion bend,  
 > Hymns and shouts of joy they send !  
@@ -1870,7 +1870,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 
 <!-- page: 64 | folio: 26 -->
 
-##### 9.
+#### 9.
 
 > Beauteous daughter of the sky !  
 > Spread thy ruddy light on high !  
@@ -1880,7 +1880,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > And drive the shades of gloomy night afar !
 
 
-##### 10.
+#### 10.
 
 > Ruddy daughter of the sky !  
 > Our life, our work, is all in thee !  
@@ -1890,7 +1890,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > And bring’st us gifts in thy resplendent car !
 
 
-##### 11.
+#### 11.
 
 > White-robed daughter of the sky !  
 > Our wine and cakes we offer thee !  
@@ -1900,7 +1900,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Grant that their pious hearts may turn to thee !
 
 
-##### 12.
+#### 12.
 
 > Glorious daughter of the sky !  
 > Bring with thee the gods from high !
@@ -1913,7 +1913,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Grant us strength and health and warrior’s fame !
 
 
-##### 13.
+#### 13.
 
 > Blushing daughter of the sky !  
 > Spread thy radiance far and nigh !  
@@ -1923,7 +1923,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Grant us strength in arms and copious wealth.
 
 
-##### 14.
+#### 14.
 
 > Gracious daughter of the sky !  
 > Our fathers in the days gone by  
@@ -1933,7 +1933,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 > Accept our joyous songs and pious lay !
 
 
-##### 15.
+#### 15.
 
 > Wide ope the portals of the sky !  
 > Light comes in and shadows fly !  
@@ -1945,7 +1945,7 @@ The hymn translated below is one of peculiar interest, because it is said to hav
 
 <!-- page: 66 | folio: 28 -->
 
-##### 16.
+#### 16.
 
 > Nymph of radiant loveliness !  
 > Grant us food and grant us bliss !  
@@ -2022,7 +2022,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 ### *THE GODS OF AGRICULTURE.*
 
 
-##### I.
+#### I.
 
 > <span class="sc">Kshetrapati</span>! Ever dear,[^sec-13-fn-001]  
 > With thee, we to fields repair!  
@@ -2032,7 +2032,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > And Kshetrapati will supply our needs.
 
 
-##### 2.
+#### 2.
 
 > Copious milk our cows supply,  
 > And Kshetrapati, from the sky,  
@@ -2042,7 +2042,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > He grants us crops and listens to our prayer!
 
 
-##### 3.
+#### 3.
 
 > May our crops in sweetness grow,  
 > In sweetness may the waters flow.
@@ -2055,7 +2055,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > And let our homes and fields from harm be free !
 
 
-##### 4.
+#### 4.
 
 > Gladly works the merry swain,  
 > And glad the mighty bullocks strain ;  
@@ -2065,7 +2065,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > Merrily ply the goad and drive along !
 
 
-##### 5.
+#### 5.
 
 > Let us raise our grateful song  
 > To Suna, Sîra, bright and strong.[^sec-13-fn-002]  
@@ -2075,7 +2075,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > Will feed the grateful earth as crops grow high !
 
 
-##### 6.
+#### 6.
 
 > Auspicious Sîtâ ! beauteous born !  
 > Goddess of the shining corn !
@@ -2088,7 +2088,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > Grant us, goddess ! plenteous crops and bliss.[^sec-13-fn-003]
 
 
-##### 7.
+#### 7.
 
 > Indra takes her by the hand,  
 > Pûshan leads her o’er the land,  
@@ -2098,7 +2098,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > With plenteous crops, O goddess ! still appear !
 
 
-##### 8.
+#### 8.
 
 > The merry ploughshare marks the plain,  
 > And merry work the beasts and men !  
@@ -2234,7 +2234,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > “Sudâs was an Aryan king and conqueror, and we are frequently told that various Aryan tribes and kings combined against him, and he was victorious over them all. The allusions to these internecine wars among Aryan races, and to the particular tribes who fought against Sudâs, are historically among the most important passages in the Rig Veda. . . . The poet Tritsu or Vasishtha, who sang these deeds of Sudâs’s glory, was not unrewarded for his immortal verse. For in verses 22 and 23 (Hymn VII. 18) he acknowledges with gratitude that the valiant Sudâs rewarded him with two hundred cows and two chariots and four horses with gold trappings.”—*Civilisation in Ancient India*, vol. i. p. 55.
 
 
-##### 1.
+#### 1.
 
 > <span class="sc">Varuna</span> glorious! Indra bright!  
 > Our troops have eastward marched to fight.  
@@ -2244,7 +2244,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > And save our King Sudâs from every woe!
 
 
-##### 2.
+#### 2.
 
 > When mustered nations lift on high  
 > Their banners floating in the sky,  
@@ -2291,7 +2291,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > Ye heard the Tritsus!  Saved Sudâs, our king!
 
 
-##### 7.
+#### 7.
 
 > Ten kings who know no pious rite  
 > Did in vain their troops unite!  
@@ -2301,7 +2301,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > For gods accord their help when mortals pray!
 
 
-##### 8.
+#### 8.
 
 > With their long and braided hair  
 > Tritsu’s white-robed sons appear,  
@@ -2311,7 +2311,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 > In vain! the gods were nigh, and they can save!
 
 
-##### 9.
+#### 9.
 
 > Indra slays the foe in fight,  
 > Varuna tends our pious rite!  
@@ -2323,7 +2323,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 
 <!-- page: 78 | folio: 40 -->
 
-##### 10.
+#### 10.
 
 > Varuna! Indra! strong in might,  
 > Aryaman! and Mitra bright!  
@@ -2345,7 +2345,7 @@ The following three verses are taken from a somewhat long hymn. The first of the
 The last six verses of this long hymn have been translated. They are a part of the marriage ritual of the ancient times, and will interest modern readers.
 
 
-##### 1.
+#### 1.
 
 [*To the Bride and Bridegroom :*]
 
@@ -2357,7 +2357,7 @@ The last six verses of this long hymn have been translated. They are a part of t
 > And lisping babes their grandsire’s bliss increase !
 
 
-##### 2.
+#### 2.
 
 [*The Bride and Bridegroom say :*]
 
@@ -2374,10 +2374,10 @@ The last six verses of this long hymn have been translated. They are a part of t
 
 <!-- page: 80 | folio: 42 -->
 
-##### 3.
+#### 3.
 
 
-##### [*To the Bride :*]
+#### [*To the Bride :*]
 
 > Serve thy lord with love and sweetness,  
 > Be thy soft eyes full of brightness,  
@@ -2387,10 +2387,10 @@ The last six verses of this long hymn have been translated. They are a part of t
 > Be good unto our men and to our kine !
 
 
-##### 4.
+#### 4.
 
 
-##### [*Prayer to Indra :*]
+#### [*Prayer to Indra :*]
 
 > In thy mercy, in thy grace,  
 > Grant her wealth and happiness !  
@@ -2400,10 +2400,10 @@ The last six verses of this long hymn have been translated. They are a part of t
 > And from her spouse her heart may never turn !
 
 
-##### 5.
+#### 5.
 
 
-##### [*To the Bride :*]
+#### [*To the Bride :*]
 
 > A gentle kindness ever bear  
 > To your husband's parents dear ;  
@@ -2415,7 +2415,7 @@ The last six verses of this long hymn have been translated. They are a part of t
 
 <!-- page: 81 | folio: 43 -->
 
-##### 6.
+#### 6.
 
 [*The Bride and Bridegroom say :*]
 
@@ -2539,7 +2539,7 @@ The following hymn is a part of the funeral ritual of ancient times, and will be
 The following is one of the hymns of the Rig Veda which show that the mind of the ancient Hindu worshipper travelled “from Nature up to Nature’s God.”
 
 
-##### 1.
+#### 1.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer ?  
@@ -2549,7 +2549,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 > We bring our offerings, chant our prayers high !
 
 
-##### 2.
+#### 2.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer ?  
@@ -2559,7 +2559,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 > Whose slave is death ! Transcendent Deity !
 
 
-##### 3.
+#### 3.
 
 > To whom on earth or sky or air  
 > Shall we offer gifts and prayer ?
@@ -2572,7 +2572,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 > To Him we offer gifts and chanted prayer !
 
 
-##### 4.
+#### 4.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer ?  
@@ -2582,7 +2582,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 > To Him we lift our prayers chanted high !
 
 
-##### 5.
+#### 5.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer ?  
@@ -2592,7 +2592,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 > Whose hand has measured out the firmament !
 
 
-##### 6.
+#### 6.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer ?  
@@ -2604,7 +2604,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 
 <!-- page: 87 | folio: 49 -->
 
-##### 7.
+#### 7.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer?  
@@ -2614,7 +2614,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 > And held the nascent *agni* in their womb.[^sec-18-fn-001]
 
 
-##### 8.
+#### 8.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer?  
@@ -2624,7 +2624,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 > Who held the universe at creation's dawn!
 
 
-##### 9.
+#### 9.
 
 > To whom in earth or sky or air  
 > Shall we offer gifts and prayer?  
@@ -2636,7 +2636,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 
 <!-- page: 88 | folio: 50 -->
 
-##### 10.
+#### 10.
 
 > Lord of Universe and King!  
 > Thy hand hath shaped each living thing!  
@@ -2663,7 +2663,7 @@ The following is one of the hymns of the Rig Veda which show that the mind of th
 This hymn consists of nine verses. Only the first three are given below in translation. They explain the sublime idea that all the different gods are only the different names of the One God, that all the powers of Nature are the manifestations of the One Power.
 
 
-##### I.
+#### I.
 
 > <span class="sc">Our</span> Father at creation's birth  
 > Made the sky and made the earth.  
@@ -2673,7 +2673,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > And stretched the limits of the earth and sky.
 
 
-##### 2.
+#### 2.
 
 > The All-Creator, He is great,  
 > He shaped all things in every state,  
@@ -2685,7 +2685,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 
 <!-- page: 90 | folio: 52 -->
 
-##### 3.
+#### 3.
 
 > He our Father!  He our King!  
 > Whose hand created everything,  
@@ -3119,7 +3119,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 ### *THE LEGEND OF MAITREYÎ.*
 
 
-##### I.
+#### I.
 
 > <span class="sc">Unto</span> her,—his spouse beloved,—  
 > Maitreyî the pious-hearted,—  
@@ -3131,7 +3131,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > Hers to Kâtyâyanî give !”
 
 
-##### 2
+#### 2
 
 > “Will thy wealth and worldly objects,”—  
 > Spake the pious-hearted wife,—  
@@ -3145,7 +3145,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 
 <!-- page: 105 | folio: 67 -->
 
-##### 3.
+#### 3.
 
 > “Vain to me the things that perish,  
 > Lead not to immortal life,—  
@@ -3157,7 +3157,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > I will grant that wealth to thee !
 
 
-##### 4.
+#### 4.
 
 > “Saintly love of man and woman,  
 > Love unto our brother men,  
@@ -3169,7 +3169,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > Thou knowest all, thou lovest all !
 
 
-##### 5.
+#### 5.
 
 > “Sound the drum, a music issues,—  
 > Canst thou grasp that music bold ?  
@@ -3183,7 +3183,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 
 <!-- page: 106 | folio: 68 -->
 
-##### 6.
+#### 6.
 
 > “Love thy great and inner Self,  
 > Know the one, the mighty Soul,  
@@ -3195,7 +3195,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > Forms that people earth and sky !
 
 
-##### 7.
+#### 7.
 
 > “He breathed forth the universe !  
 > Vedas, Sâstras, all are His !  
@@ -3207,7 +3207,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > And the worlds will in Him be !”
 
 
-##### 8.
+#### 8.
 
 > “My love ! my lord !” Maitreyî said,  
 > “Pardon, if I somewhat fail,—  
@@ -3221,7 +3221,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 
 <!-- page: 107 | folio: 69 -->
 
-##### 9.
+#### 9.
 
 > “ Not from outer world distinct,—  
 > Pervading all, embracing all,—  
@@ -3329,7 +3329,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 ### *THE LEGEND OF NACHIKETAS.*
 
 
-##### 1.
+#### 1.
 
 > <span class="sc">Nachiketas</span>, righteous boy,—  
 > By his father sent below,—  
@@ -3341,7 +3341,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > Or does he live in earth or skies ? ”
 
 
-##### 2.
+#### 2.
 
 > Unto him thus answered Yama,  
 > “Nachiketas ! you speak well,  
@@ -3355,7 +3355,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 
 <!-- page: 112 | folio: 74 -->
 
-##### 3.
+#### 3.
 
 > “Ask for sons and happy grandsons—  
 > They a hundred years will live,—  
@@ -3367,7 +3367,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > Live without a pang or fear !
 
 
-##### 4.
+#### 4.
 
 > “Nachiketas ! other objects  
 > If thy anxious heart desire,  
@@ -3379,7 +3379,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > Be the foremost in thy worth !
 
 
-##### 5.
+#### 5.
 
 > “Every wish thy heart can fathom,  
 > Ask for joys on earth so rare ;  
@@ -3393,7 +3393,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 
 <!-- page: 113 | folio: 75 -->
 
-##### 6.
+#### 6.
 
 > “These are,” Nachiketas answered,  
 > “Objects that will fade away,  
@@ -3405,7 +3405,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > Secret of the after-day!”
 
 
-##### 7.
+#### 7.
 
 > Pressed by pious Nachiketas,  
 > Death his secret thus revealed,  
@@ -3417,7 +3417,7 @@ This hymn consists of nine verses. Only the first three are given below in trans
 > God pervading earth and skies!
 
 
-##### 8.
+#### 8.
 
 > “And the man who knows this secret,  
 > Comprehends and grasps it all,—  
@@ -4020,7 +4020,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 ### *MESSAGE TO FOREIGN NATIONS.*
 
 
-##### 1.
+#### 1.
 
 > <span class="sc">Far</span>, far extend Kalinga’s plains,  
 > And Bengal’s fertile coast ;  
@@ -4032,7 +4032,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 > The pious monarch cried !
 
 
-##### 2.
+#### 2.
 
 > “Brâhmans pure and Srâmans good,  
 > And men who toil in life ;  
@@ -4046,7 +4046,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 
 <!-- page: 137 | folio: 99 -->
 
-##### 3.
+#### 3.
 
 > Repentance wrung his royal breast,  
 > And he was meek and lowly ;  
@@ -4058,7 +4058,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 > And spread good will on earth !
 
 
-##### 4.
+#### 4.
 
 > “Ho ! other conquests I will spread,  
 > And other trophies win,”—  
@@ -4070,7 +4070,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 > And wins the righteous fame !
 
 
-##### 5.
+#### 5.
 
 > “To Antiochus, Syria’s lord,  
 > To Egypt’s Ptolemy,  
@@ -4085,7 +4085,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 > The joyful tidings bring !
 
 
-##### 6.
+#### 6.
 
 > “To far Kâverî’s fertile banks,  
 > Where mighty Cholas live,  
@@ -4097,7 +4097,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 > The joyful news proclaim !
 
 
-##### 7.
+#### 7.
 
 > “To our friends the Bactrian Greeks,  
 > And to the bold Kambojas,  
@@ -4112,7 +4112,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 > Tell it to every man !”
 
 
-##### 8.
+#### 8.
 
 > Far and wide the news they told,  
 > And Buddha’s faith proclaimed ;  
@@ -4163,7 +4163,7 @@ He ruled over Northern India from about 260 to 222 <span class="sc">B.C.</span>,
 Umâ, in the extract given before from the Kena Upanishad, is divine intelligence, explaining to the celestial powers the nature of Brahman or God. In later times, however, she acquired a more distinct personality, and was considered to be the daughter of the god of the Himâlayas, and the consort of Siva or Sambhu, one of the Hindu Trinity. Her marriage with Siva is the subject of the beautiful poem of Kâlidâsa from which the following portion has been translated.
 
 
-##### I.
+#### I.
 
 > <span class="sc">Long</span> through sultry Summer evenings  
 > Did her mighty penance last,  
@@ -4171,7 +4171,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > In the Dews and Winter’s blast.
 
 
-##### 2.
+#### 2.
 
 > And when Spring the green woods mantled [^sec-37-fn-001]  
 > With its verdure soft and green,  
@@ -4179,7 +4179,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Came, attired in barks and skin.
 
 
-##### 3.
+#### 3.
 
 > And in language sweet and courteous  
 > Questioned Umâ of her rite,  
@@ -4189,7 +4189,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 
 <!-- page: 144 | folio: 106 -->
 
-##### 4.
+#### 4.
 
 > “Not by Gangâ’s holy waters  
 > Are these sacred mountains graced,  
@@ -4197,7 +4197,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > By thy holy penance blest!
 
 
-##### 5.
+#### 5.
 
 > “But a doubt in me ariseth,  
 > Pardon if too far I go,—  
@@ -4205,7 +4205,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Seek for hidden thoughts to know.
 
 
-##### 6.
+#### 6.
 
 > “Thou art born of noble parents,  
 > Decked with world-surpassing beauty!  
@@ -4213,7 +4213,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Why this penance,—this sad duty?
 
 
-##### 7.
+#### 7.
 
 > “Noble ladies, stung with sorrow,  
 > Oft engage in pious rite,—  
@@ -4221,7 +4221,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Can grief touch thee, maiden bright?
 
 
-##### 8.
+#### 8.
 
 > “Wherefore leaves and barks of wild trees  
 > Dim thy blooming beauty bright?  
@@ -4231,7 +4231,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 
 <!-- page: 145 | folio: 107 -->
 
-##### 9.
+#### 9.
 
 > “Not for joys of heaven this penance,  
 > For this realm is like the sky ;  
@@ -4239,7 +4239,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Need a beauteous maiden sigh ?
 
 
-##### 10.
+#### 10.
 
 > “Yet that sigh, that heaving bosom  
 > Tells of disappointed love !  
@@ -4247,7 +4247,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Can a suitor cruel prove ?
 
 
-##### 11.
+#### 11.
 
 > “Can he heartless view that beauty  
 > By the red sun tinged and shaded ?  
@@ -4255,7 +4255,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Like moon’s crescent pale and faded ?
 
 
-##### 12.
+#### 12.
 
 > “But, perchance, my gentle Umâ,  
 > Of some service I may be,  
@@ -4263,7 +4263,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Thine its fruit and blessings be !”
 
 
-##### 13.
+#### 13.
 
 > Silent Umâ dropped a tear-drop,  
 > Told her maid the tale to tell,  
@@ -4305,7 +4305,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 
 <!-- page: 147 | folio: 109 -->
 
-##### 19.
+#### 19.
 
 > Smiling answered then the Brâhman,  
 > “Is it true, my lovely maid,  
@@ -4313,7 +4313,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > That unlovely god to wed?
 
 
-##### 20.
+#### 20.
 
 > “Will thy hand so soft and tender  
 > Clasp his hands where snakes entwine?  
@@ -4321,7 +4321,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > On his red skins beauteous shine?
 
 
-##### 21.
+#### 21.
 
 > “Wilt thou with such bridegroom wander  
 > Over funeral sites unblest?  
@@ -4329,7 +4329,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Wilt thou stain thy gentle breast?
 
 
-##### 22.
+#### 22.
 
 > “Obscure his birth! Unknown his wealth!  
 > Unworthy he of thy bright grace!  
@@ -4337,7 +4337,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 > Pious men their altars raise!”
 
 
-##### 23.
+#### 23.
 
 > Angry Umâ heard the Brâhman  
 > Speaking thus of Sambhu high;  
@@ -4408,7 +4408,7 @@ Umâ, in the extract given before from the Kena Upanishad, is divine intelligenc
 The piece translated below is important, as it throws light on the geography of India at the time of the poet, *i.e.*, in the sixth century after Christ.
 
 
-##### 1.
+#### 1.
 
 > <span class="sc">Eastward</span> marched Ayodhyâ’s monarch,  
 > Conquering many a sturdy foe,  
@@ -4416,7 +4416,7 @@ The piece translated below is important, as it throws light on the geography of 
 > On whose shores the palm trees grow.
 
 
-##### 2.
+#### 2.
 
 > Suhma’s[^sec-38-fn-001] monarch saved his kingdom,  
 > Bowing to the conqueror brave,—  
@@ -4424,7 +4424,7 @@ The piece translated below is important, as it throws light on the geography of 
 > ’Neath the strong resistless wave.
 
 
-##### 3.
+#### 3.
 
 > Bengal’s kings came with their war-boats,  
 > Bravely fought, but fought in vain ;  
@@ -4460,7 +4460,7 @@ The piece translated below is important, as it throws light on the geography of 
 
 <!-- page: 152 | folio: 114 -->
 
-##### 8.
+#### 8.
 
 > But the great and noble victor  
 > Placed the king again on throne,  
@@ -4468,7 +4468,7 @@ The piece translated below is important, as it throws light on the geography of 
 > Robbed him of his fame alone !
 
 
-##### 9.
+#### 9.
 
 > Southward marched Ayodhyâ’s monarch  
 > By the azure sparkling sea,  
@@ -4476,7 +4476,7 @@ The piece translated below is important, as it throws light on the geography of 
 > Marched his soldiers bold and free !
 
 
-##### 10.
+#### 10.
 
 > Crossed Kâverî, mighty river,  
 > Stopped where steep Malayas rise ;  
@@ -4484,7 +4484,7 @@ The piece translated below is important, as it throws light on the geography of 
 > Tuskers to the sandal trees,
 
 
-##### 11.
+#### 11.
 
 > Mighty Pândyas,[^sec-38-fn-005] brave in combat,  
 > Vainly with great Raghu fought ;  
@@ -4494,7 +4494,7 @@ The piece translated below is important, as it throws light on the geography of 
 
 <!-- page: 153 | folio: 115 -->
 
-##### 12.
+#### 12.
 
 > Across the lofty Sahya mountains [^sec-38-fn-006]  
 > Mighty Raghu forced his way,  
@@ -4502,7 +4502,7 @@ The piece translated below is important, as it throws light on the geography of 
 > Saw his troops and fled away.
 
 
-##### 13.
+#### 13.
 
 > Northwards now Ayodhyâ’s monarch  
 > Went the Persian chiefs [^sec-38-fn-008] to quell ;  
@@ -4510,7 +4510,7 @@ The piece translated below is important, as it throws light on the geography of 
 > For the chiefs who fought and fell.
 
 
-##### 14.
+#### 14.
 
 > Fiercely fought each western warrior  
 > On his fiery warlike horse ;  
@@ -4546,7 +4546,7 @@ The piece translated below is important, as it throws light on the geography of 
 
 <!-- page: 155 | folio: 117 -->
 
-##### 19.
+#### 19.
 
 > Then the hosts of mighty Raghu  
 > Climbed the heights of Himalay,  
@@ -4554,7 +4554,7 @@ The piece translated below is important, as it throws light on the geography of 
 > Eastwards now they forced their way.
 
 
-##### 20.
+#### 20.
 
 > And they crossed great Ganga’s waters,  
 > Crossed Lohityâ’s [^sec-38-fn-013] sea-like wave;  
@@ -4562,7 +4562,7 @@ The piece translated below is important, as it throws light on the geography of 
 > Quaked before the victor brave.
 
 
-##### 21.
+#### 21.
 
 > With the tuskers of his country  
 > Kamrup’s lord had met his foes,—  
@@ -4570,7 +4570,7 @@ The piece translated below is important, as it throws light on the geography of 
 > To where Raghu’s tents arose.
 
 
-##### 22.
+#### 22.
 
 > Thus great Raghu, king of monarchs,  
 > Conquering nations far and wide,  
@@ -4608,7 +4608,7 @@ The piece translated below is important, as it throws light on the geography of 
 Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in the eleventh century after Christ. His versification is fluent and graceful, and he seems to have condensed all that was best in older Sanscrit literature—poetry, rhetoric, tales, and fiction—into compact readable works. Buddhist stories too did not come amiss to him, and in his *Kalpalatâ* he gives us 108 Buddhist tales, one of which is given below. This work, *Kalpalatâ*, like most other Buddhist works, was lost in India, but my respected friend, Mr. Sarat Chandra Das, has during his journeys in Thibet recovered a copy of the work with a Thibetan translation, which is being published now by the Asiatic Society of Bengal.
 
 
-##### 1.
+#### 1.
 
 > <span class="sc">Like</span> the bright moon’s golden crescent,  
 > Rising from the milky sea,  
@@ -4616,7 +4616,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > In Siṃhala[^sec-39-fn-001] bright and free.
 
 
-##### 2.
+#### 2.
 
 > On her birth a shower of bright pearls  
 > From the skies auspicious fell;  
@@ -4658,7 +4658,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 
 <!-- page: 158 | folio: 120 -->
 
-##### 8.
+#### 8.
 
 > And the gentle-hearted princess  
 > Raptured heard great Buddha’s name ;  
@@ -4666,7 +4666,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > And a tremor shook her frame !
 
 
-##### 9.
+#### 9.
 
 > Eagerly the pea-fowl listens  
 > To the cloud, presaging rain ;  
@@ -4674,7 +4674,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Who this Lord ?—she asked again.
 
 
-##### 10.
+#### 10.
 
 > To the princess, pious-hearted,  
 > By her questions gratified,  
@@ -4682,7 +4682,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Lord of all creation wide.
 
 
-##### 11.
+#### 11.
 
 > By the merchants’ tale reminded  
 > Of her previous humble birth,  
@@ -4690,7 +4690,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > For great Buddha, Lord of earth.
 
 
-##### 12.
+#### 12.
 
 > And the traders crossed the ocean,  
 > Reached their own, their native land,  
@@ -4732,7 +4732,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 
 <!-- page: 160 | folio: 122 -->
 
-##### 18.
+#### 18.
 
 > And the people viewed the painting  
 > Placed upon a golden shelf,  
@@ -4740,7 +4740,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Seemed t’ attain the Lord himself !
 
 
-##### 19.
+#### 19.
 
 > Written under that sweet likeness,  
 > All the people, wondering truly,  
@@ -4748,7 +4748,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Saw the Five Instructions holy !
 
 
-##### 20.
+#### 20.
 
 > And the Noble Eightfold Path,  
 > Sweetly writ, with wisdom rife,  
@@ -4756,7 +4756,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Life to death, and death to life !
 
 
-##### 21.
+#### 21.
 
 > Blazing bright in golden letters,  
 > On it shone the Holy Word,—  
@@ -4764,7 +4764,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Written by our blessed Lord.
 
 
-##### 22.
+#### 22.
 
 > “Sufferers from life’s bitter sorrows !  
 > Issue from your mansions drear,  
@@ -4806,7 +4806,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 
 <!-- page: 162 | folio: 124 -->
 
-##### 28.
+#### 28.
 
 > In a moment’s time achieving  
 > Truth divine and knowledge rare,  
@@ -4814,7 +4814,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Thus in gladness spoke the fair.
 
 
-##### 29.
+#### 29.
 
 > “Chaser of the world’s illusions,  
 > Saintly Buddha, dwelling far,  
@@ -4822,7 +4822,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Lovelier than the lotus fair!
 
 
-##### 30.
+#### 30.
 
 > “I have crossed the world’s illusions,  
 > Heart’s true concentration found,  
@@ -4830,7 +4830,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > Peace, like nectar, flows around!”
 
 
-##### 31.
+#### 31.
 
 > Thus she spoke, and unto Buddha  
 > Pearls and costly jewels sent;  
@@ -4838,7 +4838,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 > With these gifts the merchants went.
 
 
-##### 32.
+#### 32.
 
 > O’er the sea, unto our Master,  
 > In their ships the merchants came,  
@@ -4912,7 +4912,7 @@ Kshemendra is a voluminous but not a great poet, and flourished in Kashmir in th
 
 <!-- page: 165 | folio: 127 -->
 
-##### 43.
+#### 43.
 
 > “In the acts of grace rejoicing,  
 > Ever deeds of virtue do,  

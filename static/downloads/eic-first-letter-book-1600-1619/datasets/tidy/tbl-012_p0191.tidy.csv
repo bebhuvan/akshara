@@ -1,9 +1,0 @@
-book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,1,data,,FOR THE Hector to be laden att the Molloccos w pepp Nutte. Cloues & mace will coste,2,Column 2,40000,40000.0,,False,True
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,2,data,,"THE LADINGE of the Pinnace att the Molluccos w pepp, Nutte: Cloues & mace",2,Column 2,12000,12000.0,,False,True
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,3,data,,"THE ladeinge of theis 3 shipps ouer & aboue the goode in the Countrie will cost in Royalls of 8, rated att 4½s p Royall",2,Column 2,76000 w is starlinge 17100,,,False,True
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,4,data,,The totall some of the chardge outwarde,2,Column 2,28915 12 08d,,,False,True
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,5,data,,And of the ladeinge homewarde,2,Column 2,[17100 00 00],,,False,True
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,6,total,,Soma totalis outwarde & homewarde,2,Column 2,46015 12 08d,,,False,True
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,7,data,,Beside mens wage att the retourne of theis ships,2,Column 2,10000 00 00,,,False,True
-eic-first-letter-book-1600-1619,tbl-012,Table 12,191,99,8,data,,THE w Computac̃on being reueiwed is reduced from 46015 12 08 to aboute,2,Column 2,40000 00 00,,,False,True

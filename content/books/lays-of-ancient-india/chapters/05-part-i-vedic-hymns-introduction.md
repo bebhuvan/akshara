@@ -1,8 +1,8 @@
 ---
 title: "Part I. Vedic Hymns — Introduction"
-chapter_number: "05"
+chapter_number: "04"
 section_kind: "chapter"
-weight: 5
+weight: 4
 start_page: 39
 end_page: 39
 printed_start_folio: "1"

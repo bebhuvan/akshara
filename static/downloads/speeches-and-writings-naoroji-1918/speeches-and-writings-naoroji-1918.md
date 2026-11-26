@@ -21,7 +21,10 @@ MADRAS
 
 <!-- page: 7 | folio: i -->
 
-##### <span class="sc">first edition : price rs. two</span>
+### SPEECHES AND WRITINGS OF DADABHAI NAOROJI
+
+
+#### <span class="sc">first edition : price rs. two</span>
 
 G. A. NATESAN & CO.
 SUNKURAMA CHETTI STREET
@@ -43,7 +46,7 @@ This is the first attempt to bring under one cover an exhaustive and comprehensi
 ### CONTENTS
 
 
-#### PART I: SPEECHES.
+### PART I: SPEECHES.
 
 - Congress Speeches.
 - Second Congress—Calcutta—1886 ... 1
@@ -2123,14 +2126,14 @@ Under a former Section provision is made for information regarding soils so far 
 #### <span class="sc">Produce</span>.—1.
 
 
-**Price of Produce per maund of 80 lbs.**
+***Price of Produce and Labour at the end of the year.* — Price of Produce per maund of 80 lbs.**
 | District | Rice | Wheat | Linseed | Jute | Cotton | Sugar | Salt | &c., &c. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | General Average |  |  |  |  |  |  |  |  |
 
 
 <!-- page: 315 | folio: 301 -->
-Plough Bullocks each — Wages per diem. — Cart per day — Sheep each — District — Skilled — Unskilled — Camel per day — Donkeys per score per day — Boat per ditto — Fish per seer — Iron per maund, &c., &c. — General average
+*Prices—continued.* | <span class="sc">Labour.—2.</span> — Plough Bullocks each — Wages per diem. — Cart per day — Sheep each — District — Skilled — Unskilled — Camel per day — Donkeys per score per day — Boat per ditto — Fish per seer — Iron per maund, &c., &c. — General average
 
 
 #### FORM F.
@@ -3968,11 +3971,11 @@ Now, gentlemen, I have said my say, and leave to you to say or act as you think 
 
 <!-- page: 530 | folio: 516 -->
 
-##### **C.**[^sec-33-fn-014]
+#### **C.**[^sec-33-fn-014]
 
 The whole Indian problem in all its aspects, material, moral, industrial, educational, political, &c., will be solved only when means are adopted to check the annual disastrous drain of the produce of India and to bring it within reasonable and moderate limits. I have gone into the details of this subject in my papers on “The Poverty of India,” and in the Correspondence with the Secretary of State for India on the “Condition of India.” I shall add here only, one more testimony of the highest financial authority, the late Finance Minister, Sir E. Baring, on the extreme poverty of India, and corroborating my calculation of the very low income of this country as compared with the worst European country—Turkey. Here is this emphatic testimony in addition to the opinions given in my “Poverty of India,” Part I., especially of Lords Lawrence and Mayo, and of Mr. Grant Duff as Under Secretary of State . for India, with regard to all India, at page 278. Sir E. Baring in his Budget speech of 18th March, 1882, says:—
 
-> “It has been calculated that the average income per head of population in India is *not more than rupees* 27 *a year*,[^sec-33-fn-015] *and though I am not prepared to pledge myself to the absolute accuracy of a calculation of this sort, it is sufficiently accurate to justify the conclusion that the tax*paying [p. 517] community is *exceedingly poor*. To derive any very large increase of revenue from so poor a population as this is obviously impossible, and if it were possible, would be unjustifiable."
+> “It has been calculated that the average income per head of population in India is *not more than rupees* 27 *a year*,[^sec-33-fn-015] <em>and though I am not prepared to pledge myself to the absolute accuracy of a calculation of this sort, it is sufficiently accurate to justify the conclusion that the tax-</em>paying [p. 517] community is *exceedingly poor*. To derive any very large increase of revenue from so poor a population as this is obviously impossible, and if it were possible, would be unjustifiable."
 
 Again, in the discussion on the same Budget, he said, after repeating the above statement of rupees 27 per head per annum :—
 
@@ -4318,7 +4321,9 @@ I have not made these remarks for the pleasure of objecting, or simply for the s
 [^sec-34-fn-008]: (§) Ibid. 354.
 [^sec-34-fn-009]: (¶) Vol. ii., p. 539.
 [^sec-34-fn-010]: (*) Vol. v., p. 165.
-[^sec-34-fn-011]: (†) Mr. Ed. B. Eastwick, in reply to my inquiries as to his opinion upon the extracts I have given from Sir W. Jones and Sir John Malcolm on Persian Literature, &c., says :— "I thoroughly agree in the opinions expressed of Firdausi, and of the Persian poets, by Sir W. Jones and Sir J. Malcolm. The narratives of events in the *Shanaméh* are not so unnatural, hyperbolic, or absurd as those in the *Iliad*, and the 'curiosa felicitas verborum' of the Persian poet is little, if at all, inferior to that of
+[^sec-34-fn-011]: (†) Mr. Ed. B. Eastwick, in reply to my inquiries as to his opinion upon the extracts I have given from Sir W. Jones and Sir John Malcolm on Persian Literature, &c., says :—
+
+    "I thoroughly agree in the opinions expressed of Firdausi, and of the Persian poets, by Sir W. Jones and Sir J. Malcolm. The narratives of events in the *Shanaméh* are not so unnatural, hyperbolic, or absurd as those in the *Iliad*, and the 'curiosa felicitas verborum' of the Persian poet is little, if at all, inferior to that of
 [^sec-34-fn-012]: (*) Science of Language, p. 80.
 [^sec-34-fn-013]: (†) Religion and Philosophy of the Hindus, p. 167.
 [^sec-34-fn-014]: (‡) Vol. iii., p. 246.
@@ -4341,9 +4346,21 @@ I have not made these remarks for the pleasure of objecting, or simply for the s
 [^sec-34-fn-031]: (†) Report of Select Committee, 1853, Ques. 8548-9.
 [^sec-34-fn-032]: (‡) Colonization Committee, Ques. 5742-4.—In Mr. Justice Phear’s opinion, “ the character of the average oral testimony in the Guildhall of London, and that of the same in the Townhall of Calcutta, were on a par.” And the Hon. Mr. Campbell fully admits that it was the courts which were to blame for the character of native testimony. (*Native Opinion*, Bombay, 25th March, 1866.)
 [^sec-34-fn-033]: (§) Vol. ii., p. 109.
-[^sec-34-fn-034]: (*) Chap. iv., par. 175. Let a man continually take pleasure in truth, in justice, in laudable practices, and in purity ; let him chastise those whom he may chastise, in a legal mode ; let him keep in subjection his speech, his arm, and his appetite. Par. 237. By falsehood the sacrifice becomes vain. Par. 256. All things have their sense ascertained by speech ; in speech they have their bases ; and from speech they proceed ; consequently, a falsifier of speech falsifies everything. This is somewhat similar to Bentham's description of truth, in his *Theory of Legislation* (p. 260) : " Every instant of our lives we are obliged to form judgments and to regulate our conduct according to facts, and it is only a small number of these facts which we can ascertain from our own observation. Then results an absolute necessity of trusting to the reports of others. If there is in these reports a mixture of falsehood, so far our judgments are erroneous, our motives wrong, our expectations misplaced. We live in restless distrust, and we do not know upon what to put dependence. In one word, falsehood includes the principle of every evil, because in its progress it brings on at last the dissolution of human society."
+[^sec-34-fn-034]: (*) Chap. iv., par. 175. Let a man continually take pleasure in truth, in justice, in laudable practices, and in purity ; let him chastise those whom he may chastise, in a legal mode ; let him keep in subjection his speech, his arm, and his appetite.
+
+    Par. 237. By falsehood the sacrifice becomes vain.
+
+    Par. 256. All things have their sense ascertained by speech ; in speech they have their bases ; and from speech they proceed ; consequently, a falsifier of speech falsifies everything.
+
+    This is somewhat similar to Bentham's description of truth, in his *Theory of Legislation* (p. 260) : " Every instant of our lives we are obliged to form judgments and to regulate our conduct according to facts, and it is only a small number of these facts which we can ascertain from our own observation. Then results an absolute necessity of trusting to the reports of others. If there is in these reports a mixture of falsehood, so far our judgments are erroneous, our motives wrong, our expectations misplaced. We live in restless distrust, and we do not know upon what to put dependence. In one word, falsehood includes the principle of every evil, because in its progress it brings on at last the dissolution of human society."
 [^sec-34-fn-035]: (*) Vol. iii., p. 131.
-[^sec-34-fn-036]: (*) Par. 58. On whatever houses the women of a family, not being duly honoured, pronounce an imprecation, those houses, with all that belong to them, utterly perish, as if destroyed by a sacrifice for the death of an enemy. Par. 60. In whatever family the husband is contented with his wife, and the wife with her husband, in that house will fortune be assuredly permanent. Par. 28. From the wife alone proceed offspring, good household management, solicitous attention, most exquisite caresses, and that heavenly beatitude which she obtains for the manes of her ancestors, and for the husband himself. Par. 165. While she who slights not her lord, but keeps her mind, speech, and body devoted to him, attains his heavenly mansion and by good men is called sádhirè, or virtuous.
+[^sec-34-fn-036]: (*) Par. 58. On whatever houses the women of a family, not being duly honoured, pronounce an imprecation, those houses, with all that belong to them, utterly perish, as if destroyed by a sacrifice for the death of an enemy.
+
+    Par. 60. In whatever family the husband is contented with his wife, and the wife with her husband, in that house will fortune be assuredly permanent.
+
+    Par. 28. From the wife alone proceed offspring, good household management, solicitous attention, most exquisite caresses, and that heavenly beatitude which she obtains for the manes of her ancestors, and for the husband himself.
+
+    Par. 165. While she who slights not her lord, but keeps her mind, speech, and body devoted to him, attains his heavenly mansion and by good men is called sádhirè, or virtuous.
 [^sec-34-fn-037]: (*) Story of Nala, p. 35.
 [^sec-34-fn-038]: (†) Stud. Lit. and Scientific Society’s Report, 1864-5.
 [^sec-34-fn-039]: (*) In the nineteenth century, and in the very heart of Europe, a king claims "divine rigtht" and a minister sets all law and justice at defiance. Poland and the Duchies are a strange commentary upon the political justice of Europe. Has not Italy till very lately groaned under bad governments?
@@ -6966,7 +6983,7 @@ Yours faithfully,
 
 <!-- page: 801 | folio: 119 -->
 
-#### APPENDIX B.
+### APPENDIX B.
 
 1\. Government of India to Secretary of State, November 9th, 1878 :—
 
@@ -7462,8 +7479,6 @@ The question, then, is : Does India, even at the present day, produce enough to 
 
 - 1st. Provision of capital necessary for all public works of a permanent character, both ordinary and extraordinary, which are required to increase production and facilitate distribution, to be provided, if India is impoverished, and has it not.
 - 2nd. A just adjustment of the financial relations between India and England, so that the political drain may be reasonably diminished.[^sec-45-fn-001]
-> “In former reports it was explained how the circumstance of so much money going out of the Punjab contributed to depress the agriculturist. The native regular army was Hindustanee; to them was a large share of the Punjab revenues disbursed, of which a part only they spent on the spot, and a part was remitted to their homes. Thus it was that, year after year, lakhs and lakhs were drained from the Punjab, and enriched Oudh. But within the last year, the native army being Punjabee, all such sums have been paid to them, and have been spent at home. Again, many thousands of Punjabee soldiers are serving abroad. These men not only remit their savings, but also have sent quantities of prizeproperty and plunder, the spoils of Hindustan, to their native villages. The effect of all this is already perceptible in an increase of agricultural capital, a freer circulation of money, and a fresh impetus to cultivation.”
-
 
 <!-- page: 841 | folio: 159 -->
 3rd. The best way of attracting capital and enterprise to utilise the vast culturable waste lands.
@@ -7691,6 +7706,8 @@ If the facts brought to light by those returns show that the people are really s
 ### Notes
 
 [^sec-45-fn-001]: (*) I give this chief cause of the impoverishment of a country in the words of Sir R. Temple himself, written under the direction of Lord Lawrence. (Punjab Administration Report for 1856-8, Parliamentary Return 212 of 1859, page 16):—
+
+    “In former reports it was explained how the circumstance of so much money going out of the Punjab contributed to depress the agriculturist. The native regular army was Hindustanee; to them was a large share of the Punjab revenues disbursed, of which a part only they spent on the spot, and a part was remitted to their homes. Thus it was that, year after year, lakhs and lakhs were drained from the Punjab, and enriched Oudh. But within the last year, the native army being Punjabee, all such sums have been paid to them, and have been spent at home. Again, many thousands of Punjabee soldiers are serving abroad. These men not only remit their savings, but also have sent quantities of prizeproperty and plunder, the spoils of Hindustan, to their native villages. The effect of all this is already perceptible in an increase of agricultural capital, a freer circulation of money, and a fresh impetus to cultivation.”
 [^sec-45-fn-002]: (*) Though the Indian Councils are thus prohibited from imposing charges on Indian revenues without direct legislation, and the sanction of the Governor-General first obtained to introduce the measure, the Indian Council in England is, in a very anomalous way, left to do what it likes with the revenues of India ; take, for instance, the way in which certain charges connected with the Cooperhill Civil Engineering College are put upon Indian revenues or the large sum of money spent upon the India Office, or any other charges that the Indian Council chooses to make.
 [^sec-45-fn-003]: (*) The *Indian Economist* of 15th October, 1870: “Statistical Reporter,” p. 45.
 
@@ -7824,10 +7841,10 @@ May the God of all nations lead the English to a right sense of their duty to In
 ## F. Report of the Indian Famine Commission, 1880
 
 
-##### <span class="sc">IN THE</span>
+### <span class="sc">IN THE</span>
 
 
-#### **REPORT OF THE INDIAN FAMINE COMMISSION, 1880.[^sec-47-fn-001]**
+### **REPORT OF THE INDIAN FAMINE COMMISSION, 1880.[^sec-47-fn-001]**
 
 <span class="sc">Part II., Chapter I., Section VII.</span> treats of Incidence of Taxation.
 
@@ -8389,7 +8406,7 @@ This is an exhaustive and complete Collection of all the Congress Presidential A
 ### **Glympses of the Orient To-Day**
 
 
-##### BY SAINT NIHAL SINGH.
+#### BY SAINT NIHAL SINGH.
 
 ***Preface.***—The following pages are the record of a recent ramble through Asia, the author having personally visited all the lands about which he writes, with one or two exceptions.
 
@@ -8400,10 +8417,10 @@ The book falling into the hands of the Indian youth— for whom it is especially
 ***Contents:***—Asia's Spell Broken; How Disillusionment Came; Asia a Menace to the West; Japan's Imperial Dream; Oriental Trade Supremacy; Autocracy to Limited Monarchy; The Modern Oriental Woman in the Making; Where Woman Has The Upper Hand; The Modernization of Japan; Flaws in Japanese Modernization; Education in Japan; Japan's Material Prosperity; Japan: China's Gadfly; The Celestial Student Abroad; Exit the Old, Enter the New in China; Evolution, Not Revolution in India; The Spirit of Maya; Leaving Hindustan; To-Day in Afghanistan; Persia Evolving Cosmos Out of Chaos; Rural Life in Iran; Egypt's Agitation for Autonomy; Egypt's Preparation for Self-Government.
 
 
-##### ***First Edition. Price: Re. One.***
+#### ***First Edition. Price: Re. One.***
 
 
-##### *To Subscribers of the “Indian Review,” As. 12.*
+#### *To Subscribers of the “Indian Review,” As. 12.*
 
 G. A. Natesan & Co., Sunkurama Chetty Street, Madras.
 
@@ -8683,15 +8700,15 @@ G. A. Natesan & Co., Sunkurama Chetty Street, Madras.
 ### **INDIAN AGRICULTURE**
 
 
-##### <span class="sc">some lessons from america</span>
+#### <span class="sc">some lessons from america</span>
 
 
-##### **By Mrs. Saint Nihal Singh**
+#### **By Mrs. Saint Nihal Singh**
 
 <span class="sc">author of</span> *"The House Hygienic" "My Favourite Recipes" "How to Make Good Things to Eat" "The Virtues of Varnish," etc.*
 
 
-##### TABLE OF CONTENTS
+#### TABLE OF CONTENTS
 
 - <span class="sc">Publisher's Preface</span> .. .. .. .. .. <span class="sc">Page</span> i
 - <span class="sc">Where Farming is a Profitable Pastime</span> .. 1
