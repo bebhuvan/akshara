@@ -1,6 +1,6 @@
 ---
 title: "The Periplus of the Erythræan Sea: Travel and Trade in the Indian Ocean by a Merchant of the First Century"
-date: "2026-11-25"
+date: "2026-11-27"
 subtitle: "Translated from the Greek and Annotated"
 author: "Wilfred H. Schoff"
 author_slug: "wilfred-h-schoff"
@@ -11,7 +11,7 @@ pages: 342
 extracted_pages: 331
 reread_pages: 41
 human_verified_pages: 0
-chapters: 12
+chapters: 13
 footnotes_count: 3
 tables_count: 4
 figures_count: 34
@@ -95,7 +95,7 @@ tables_list:
     cols: 3
     diplomatic_csv: "/downloads/periplus-erythraean-sea/datasets/tables/tbl-001_p0064.csv"
     tidy_csv: "/downloads/periplus-erythraean-sea/datasets/tidy/tbl-001_p0064.tidy.csv"
-    section_url: "/books/periplus-erythraean-sea/chapters/07-notes/#tbl-001"
+    section_url: "/books/periplus-erythraean-sea/chapters/08-notes/#tbl-001"
   - table_id: "tbl-002"
     caption: "Table 2"
     printed_folio: "54"
@@ -103,7 +103,7 @@ tables_list:
     cols: 3
     diplomatic_csv: "/downloads/periplus-erythraean-sea/datasets/tables/tbl-002_p0064.csv"
     tidy_csv: "/downloads/periplus-erythraean-sea/datasets/tidy/tbl-002_p0064.tidy.csv"
-    section_url: "/books/periplus-erythraean-sea/chapters/07-notes/#tbl-002"
+    section_url: "/books/periplus-erythraean-sea/chapters/08-notes/#tbl-002"
   - table_id: "tbl-003"
     caption: "Table 3"
     printed_folio: "67"
@@ -111,7 +111,7 @@ tables_list:
     cols: 3
     diplomatic_csv: "/downloads/periplus-erythraean-sea/datasets/tables/tbl-003_p0077.csv"
     tidy_csv: "/downloads/periplus-erythraean-sea/datasets/tidy/tbl-003_p0077.tidy.csv"
-    section_url: "/books/periplus-erythraean-sea/chapters/07-notes/#tbl-003"
+    section_url: "/books/periplus-erythraean-sea/chapters/08-notes/#tbl-003"
   - table_id: "tbl-004"
     caption: "Table 4"
     printed_folio: "110"
@@ -119,7 +119,7 @@ tables_list:
     cols: 4
     diplomatic_csv: "/downloads/periplus-erythraean-sea/datasets/tables/tbl-004_p0120.csv"
     tidy_csv: "/downloads/periplus-erythraean-sea/datasets/tidy/tbl-004_p0120.tidy.csv"
-    section_url: "/books/periplus-erythraean-sea/chapters/07-notes/#tbl-004"
+    section_url: "/books/periplus-erythraean-sea/chapters/08-notes/#tbl-004"
 cascade:
   type: "chapters"
 editorial_note_markdown: |-

@@ -181,14 +181,7 @@ According to this writer, "The services of India are [p. xiii] estimated at a va
 
 Evidently the raising of this new loan of $500,000,- 000 was in the air when he wrote the article and Mr. Yusaf Ali, who is permanently settled in London, with his English wife, thought it was his duty to raise a voice of protest. The fact that the article was published in the *Nineteenth Century and After* shows the high esteem in which the writer is held in journalistic circles in England. Mr. Yusaf Ali has never identified himself with the Nationalistic party and his views are those of a loyalist whose loyalty does not necessarily mean his supporting everything, just or unjust, which the Government does. His protest, however, proved to be a cry in the wilderness.
 
-In this connection it might be of interest to add the following extract from the Proceedings of the Government of India, in the Legislative Department: "Replying to the Hon. Maharaja Manindra Chandra
-
-
-<!-- page: 24 | folio: xiv -->
-
-### POST-SCRIPTUM
-
-Nandi’s question regarding contributions to the war by Indian Native States and Indian Provinces the Hon. Sir Reginald Craddock said: ‘Complete or detailed figures of the amounts subscribed in all the Provinces of India towards the war and the charities connected with it, cannot be given. The statement given below gives such information as is immediately available.’ ” Then follow the details of sums given, aggregating £2,047,375. “ In addition to the figures given in the statement, lavish contributions both in cash and kind have been made by the ruling Princes and Chiefs in India. It is regretted that details of these cannot conveniently be supplied.”
+In this connection it might be of interest to add the following extract from the Proceedings of the Government of India, in the Legislative Department: "Replying to the Hon. Maharaja Manindra Chandra [p. xiv] Nandi’s question regarding contributions to the war by Indian Native States and Indian Provinces the Hon. Sir Reginald Craddock said: ‘Complete or detailed figures of the amounts subscribed in all the Provinces of India towards the war and the charities connected with it, cannot be given. The statement given below gives such information as is immediately available.’ ” Then follow the details of sums given, aggregating £2,047,375. “ In addition to the figures given in the statement, lavish contributions both in cash and kind have been made by the ruling Princes and Chiefs in India. It is regretted that details of these cannot conveniently be supplied.”
 
 All these “ lavish ” contributions, however, failed to satisfy the British and the Government did not scruple to load an additional burden of $500,000,000 on the already crushed shoulders of the Indian ryot.
 
@@ -247,14 +240,7 @@ India would be content if even half of what has been said were realised in the n
 
 Those who read the speeches made by the Indian delegates to the Imperial War Conference in London, [p. xx] should bear in mind that neither of them were the spokesmen of the Indian Nationalist Party. One of them, Sir S. P. Sinha, did, no doubt, preside at an annual meeting of the Indian National Congress in 1915, but that was his only connection (first and last) with the movement. Before his election to the office of president of that session, he was a government man, and soon after he again became a government man. He is an official of the Government of India and owes his prosperity, his rank and his wealth to the Government.
 
-The Maharaja of Bikanir comes from an ancient royal family of India, though the state over which he rules is not a first-class principality. By heredity, instinct, and tradition he is an autocrat. For his elevation to the present position of prominence in Indian political life, he is under obligations to the British Government of India. He comes from a family which has, for the last four hundred years, kept well with the paramount authority, Mughal or British. Personally he is an enlightened and progressive ruler. Under these circumstances, he has rendered signal service to the cause of his country, worthy of the great ancestry from which he has sprung, in making some fairly bold and outspoken utterances about the aspirations of India. At last, in him, the princes of India have found a worthy representative, and the people of India a sincere, though by the limitations of his position, a rather halting champion of their rights. Speaking at the luncheon given by the Empire Parliamentary Association, he said that the unrest that exists in India is of two kinds:
-
-
-<!-- page: 31 | folio: xxi -->
-
-#### POST-SCRIPTUM
-
-> “That which the seditionists attempt to spread, happily with small results, has to be faced and is being faced and suitably tackled by the authorities, and it is our earnest hope that it may be possible gradually to eradicate the evil, which is a cancerous growth, not, however, peculiar to India. The other kind of unrest is what has been happily described by a British statesman as ‘legitimate.’ It is in the minds of people who are as loyal as you or I. (Hear, hear.) I decline to believe that British statesmanship will not rise to the occasion, and it depends on whether Indian problems are or are not handled with sympathy, with imagination, with broad-minded perspicacity, that that legitimate unrest will die out or continue. It is the strong opinion of many who have given the subject thought that if the people of India were given a greater voice and power in directions in which they have shown their fitness we should hear much less of the unrest, agitation, and irresponsible criticism which is certainly gaining ground. Desperation would give way to patience, for India has confidence in the word and good faith of England, and the enemies of order and good government would be foiled. The ‘unchanging East’ is changing very rapidly and beyond conception.” (Report in the *Daily Telegraph*, London.)
+The Maharaja of Bikanir comes from an ancient royal family of India, though the state over which he rules is not a first-class principality. By heredity, instinct, and tradition he is an autocrat. For his elevation to the present position of prominence in Indian political life, he is under obligations to the British Government of India. He comes from a family which has, for the last four hundred years, kept well with the paramount authority, Mughal or British. Personally he is an enlightened and progressive ruler. Under these circumstances, he has rendered signal service to the cause of his country, worthy of the great ancestry from which he has sprung, in making some fairly bold and outspoken utterances about the aspirations of India. At last, in him, the princes of India have found a worthy representative, and the people of India a sincere, though by the limitations of his position, a rather halting champion of their rights. Speaking at the luncheon given by the Empire Parliamentary Association, he said that the unrest that exists in India is of two kinds: [p. xxi] “That which the seditionists attempt to spread, happily with small results, has to be faced and is being faced and suitably tackled by the authorities, and it is our earnest hope that it may be possible gradually to eradicate the evil, which is a cancerous growth, not, however, peculiar to India. The other kind of unrest is what has been happily described by a British statesman as ‘legitimate.’ It is in the minds of people who are as loyal as you or I. (Hear, hear.) I decline to believe that British statesmanship will not rise to the occasion, and it depends on whether Indian problems are or are not handled with sympathy, with imagination, with broad-minded perspicacity, that that legitimate unrest will die out or continue. It is the strong opinion of many who have given the subject thought that if the people of India were given a greater voice and power in directions in which they have shown their fitness we should hear much less of the unrest, agitation, and irresponsible criticism which is certainly gaining ground. Desperation would give way to patience, for India has confidence in the word and good faith of England, and the enemies of order and good government would be foiled. The ‘unchanging East’ is changing very rapidly and beyond conception.” (Report in the *Daily Telegraph*, London.)
 
 The speech has evoked some pertinent comments in the British press. The *Daily Telegraph* remarks (April 25, 1917) :
 
@@ -268,14 +254,7 @@ It has since been given out that in future an Indian will represent India in the
 
 Says *India*, the organ of the Indian Congress in London, “Mr. Bonar Law informed the House of Commons on Friday last that the Imperial War Cabinet had unanimously accepted the principle that each part of the Empire, having due regard to the interest of our Allies, shall give specially favourable treatment and facilities to the produce and manufactures of other parts of the Empire,” that “there is no intention whatever of making any change during the war.” Mr. Lloyd George made a similar announcement in his speech in the city on the same day, after the usual preliminary denunciation of the wickedness and folly of adherence to old party systems and policies.
 
-“Nevertheless, the Prime Minister may rest assured that India intends to have something to say on this
-
-
-<!-- page: 34 | folio: xxiv -->
-
-### POST-SCRIPTUM
-
-matter. If she is to embark upon the career of commercial development which is being so confidently marked out for her, she must have protection for her growing industries: and her most formidable competitor is the British manufacturer. The application of the policy of Imperial Preference, which is now foreshadowed, will simply mean that India must take Lancashire goods at Lancashire's prices, while shutting out Japan and the United States from her markets. What, then, was the object of the flourish of trumpets with which Mr. Chamberlain heralded the increase in the import duties on cotton goods? Here is a fiscal change made during the war defended on the ground that it is consonant with Indian opinion, and marked already for a place on the political dust heap when the war is over."
+“Nevertheless, the Prime Minister may rest assured that India intends to have something to say on this [p. xxiv] matter. If she is to embark upon the career of commercial development which is being so confidently marked out for her, she must have protection for her growing industries: and her most formidable competitor is the British manufacturer. The application of the policy of Imperial Preference, which is now foreshadowed, will simply mean that India must take Lancashire goods at Lancashire's prices, while shutting out Japan and the United States from her markets. What, then, was the object of the flourish of trumpets with which Mr. Chamberlain heralded the increase in the import duties on cotton goods? Here is a fiscal change made during the war defended on the ground that it is consonant with Indian opinion, and marked already for a place on the political dust heap when the war is over."
 
 Are not the British past masters in the art of taking away with the left what they give by the right hand?
 
@@ -1971,8 +1950,8 @@ We beg to make a present of these opinions to the East Indian Association of Lon
 ### Notes
 
 [^sec-08-fn-001]: (1) Orme: in “ Historical Fragments of The Mogul Empire,” p. 413; quoted by Baines, p. 65.
-[^sec-08-fn-002]: (Note) N. B. The importation of cotton goods other than from the East Indies, was inconsiderable until 1825.
-[^sec-08-fn-003]: (Note) (Digby, p. 90.)
+- **(Note)** N. B. The importation of cotton goods other than from the East Indies, was inconsiderable until 1825.
+- **(Note)** (Digby, p. 90.)
 [^sec-08-fn-004]: (2) “Minutes of Evidence, &c., on the Affairs of the East India Company” (1813), pp. 124, 127, 131.
 [^sec-08-fn-005]: (3) Sir John Malcolm, Governor of Bombay in 1830.
 [^sec-08-fn-006]: (4) Dutt: “India Under Early British Rule,” p. 300.
@@ -4179,7 +4158,7 @@ Total of appointments on Rs. 800 per month or above = 2,501. Held by Indians, 10
 
 ### Notes
 
-[^sec-23-fn-001]: (Note) *Note.* The Royal Commission on Public Services has actually recommended a substantial increase in the salaries of European officials by the incorporation of what was temporarily allowed to them as exchange compensation allowance, in their salaries as also otherwise.
+- **(Note)** *Note.* The Royal Commission on Public Services has actually recommended a substantial increase in the salaries of European officials by the incorporation of what was temporarily allowed to them as exchange compensation allowance, in their salaries as also otherwise.
 
 
 ## Appendix F Further Notes

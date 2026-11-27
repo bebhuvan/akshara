@@ -1,6 +1,6 @@
 ---
 title: "Report on Past Famines in the Bombay Presidency"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: ""
 author: "A. T. Etheridge"
 author_slug: "a-t-etheridge"

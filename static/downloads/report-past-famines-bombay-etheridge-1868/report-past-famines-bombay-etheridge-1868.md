@@ -2424,7 +2424,7 @@ A. T. ETHERIDGE, Alienation Settlement Officer S. D.
 
 ### Notes
 
-[^sec-03-fn-001]: (Note) Compiled from Monier Williams' Memoir of Broach Zillah.
+- **(Note)** Compiled from Monier Williams' Memoir of Broach Zillah.
 [^sec-03-fn-002]: (*) “*Note*—Inside the walls of the old town of Sooltanpoor, now inhabited by three families of Coonbees and some Bheels, the old Patel four days ago pointed out to me 200 *wells*, which he recollects having been all in use in 1802.”
 [^sec-03-fn-003]: (*) Of Punderpoor and Sangola.
 [^sec-03-fn-004]: (*) *i. e.* the seer of 140 Tolas.
@@ -2557,7 +2557,7 @@ Alienation Settlement Officer, S. D.
 
 ### Notes
 
-[^sec-04-fn-001]: (Note) *Note*.—There is no information respecting
+- **(Note)** *Note*.—There is no information respecting
 
 
 ## APPENDIX B
@@ -2697,7 +2697,7 @@ A. T. ETHERIDGE,
 
 ### Notes
 
-[^sec-05-fn-001]: (Note) *Note.*—This statement merely includes those districts under the direct management of the
+- **(Note)** *Note.*—This statement merely includes those districts under the direct management of the
 
 
 ## APPENDIX C
@@ -2808,7 +2808,7 @@ Alienation Settlement Officer, S. D.
 
 ### Notes
 
-[^sec-06-fn-001]: (Note) *Note*.—This Statement merely includes those districts under the direct management of the Peishwa.
+- **(Note)** *Note*.—This Statement merely includes those districts under the direct management of the Peishwa.
 
 
 ## APPENDIX D
@@ -2941,7 +2941,7 @@ A. T. ETHERIDGE, Alienation Settlement Officer, S. D.
 
 ### Notes
 
-[^sec-07-fn-001]: (Note) *Note.*—This Statement merely includes those districts under the direct management
+- **(Note)** *Note.*—This Statement merely includes those districts under the direct management
 
 
 ## APPENDIX E
@@ -2987,7 +2987,7 @@ Alienation Settlement Officer, S. D.
 
 ### Notes
 
-[^sec-08-fn-001]: (Note) *Note*.—This Statement merely includes those districts under the direct management of the
+- **(Note)** *Note*.—This Statement merely includes those districts under the direct management of the
 
 
 ## APPENDIX F
@@ -3271,7 +3271,7 @@ Alienation Settlement Officer, S. D.
 
 ### Notes
 
-[^sec-09-fn-001]: (Note) *Note.*—There is no information respecting
+- **(Note)** *Note.*—There is no information respecting
 
 
 ## APPENDIX G
@@ -3429,7 +3429,7 @@ Alienation Settlement Officer, S. D.
 
 ### Notes
 
-[^sec-10-fn-001]: (Note) *Note.*—There is no information respecting
+- **(Note)** *Note.*—There is no information respecting
 
 
 ## APPENDIX H: Minute on the Famine of 1802 in the Bombay Presidency. (By the Honorable Jonathan Duncan, Governor and President in Co

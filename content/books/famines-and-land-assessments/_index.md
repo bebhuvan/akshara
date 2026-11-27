@@ -1,6 +1,6 @@
 ---
 title: "Famines and Land Assessments in India"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Open Letters to Lord Curzon on Land Revenue & Agrarian Distress"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"

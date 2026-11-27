@@ -115,8 +115,11 @@ PHILADELPHIA</p>
           <p rend="toc-entry">RULERS MENTIONED IN THE PERIPLUS. . . . . . 294</p>
           <p rend="toc-entry">INDEX . . . . . . . . . . . . . 295</p>
           <p rend="toc-entry">MAP TO ILLUSTRATE THE PERIPLUS . . AT END OF BOOK</p>
-          <pb xml:id="page-11" n="1" facs="https://archive.org/download/b29353051/page/n10_w1400.jpg"/>
         </div>
+      </div>
+      <div xml:id="sec-03" type="frontmatter" n="03-foreword">
+        <head>FOREWORD</head>
+        <pb xml:id="page-11" n="1" facs="https://archive.org/download/b29353051/page/n10_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>FOREWORD</head>
           <p>The Philadelphia Museums came into existence some fifteen years ago with the avowed purpose of aiding the manufacturer in taking a larger share in the world's commerce.</p>
@@ -128,7 +131,7 @@ PHILADELPHIA</p>
           <p><hi rend="smallcaps">The Philadelphia Museums</hi> September, 1911</p>
         </div>
       </div>
-      <div xml:id="sec-03" type="introduction" n="03-introduction">
+      <div xml:id="sec-04" type="introduction" n="04-introduction">
         <head>INTRODUCTION</head>
         <pb xml:id="page-13" n="3" facs="https://archive.org/download/b29353051/page/n12_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -148,7 +151,7 @@ PHILADELPHIA</p>
       </div>
     </front>
     <body>
-      <div xml:id="sec-04" type="chapter" n="04-date-and-authorship-of-the-periplus">
+      <div xml:id="sec-05" type="chapter" n="05-date-and-authorship-of-the-periplus">
         <head>DATE AND AUTHORSHIP OF THE PERIPLUS</head>
         <div type="subsection" n="h1">
           <head><hi rend="smallcaps">THE DATE AND AUTHORSHIP OF THE PERIPLUS</hi></head>
@@ -192,7 +195,7 @@ PHILADELPHIA</p>
           <p>That he was not a highly educated man is evident from his frequent confusion of Greek and Latin words and his clumsy and sometimes ungrammatical constructions. The value of his work consists, not in its literary merits, but in its trustworthy account of the trade of the Indian Ocean and of the settlements around its shores; concerning which, until his time, we possess almost nothing of an intelligent and comprehensive nature.</p>
         </div>
       </div>
-      <div xml:id="sec-05" type="frontmatter" n="05-bibliography-of-the-periplus">
+      <div xml:id="sec-06" type="frontmatter" n="06-bibliography-of-the-periplus">
         <head>BIBLIOGRAPHY OF THE PERIPLUS</head>
         <pb xml:id="page-27" n="17" facs="https://archive.org/download/b29353051/page/n26_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -252,7 +255,7 @@ PHILADELPHIA</p>
           <p>The present translation is based on Müller's text, adopting most of Fabricius' verbal emendations, but conforming as far as possible with the results of later research. Vincent's text and translation have also been consulted frequently. References in the text to articles of commerce have been carefully collated with Pliny and other contemporary writers, as well as with modern authorities.</p>
         </div>
       </div>
-      <div xml:id="sec-06" type="chapter" n="06-the-periplus-of-the-erythraean-sea">
+      <div xml:id="sec-07" type="chapter" n="07-the-periplus-of-the-erythraean-sea">
         <head>THE PERIPLUS OF THE ERYTHRÆAN SEA</head>
         <pb xml:id="page-32" n="22" facs="https://archive.org/download/b29353051/page/n31_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -330,7 +333,7 @@ PHILADELPHIA</p>
           <p>66. The regions beyond these places are either difficult of access because of their excessive winters and great cold, or else cannot be sought out because of some divine influence of the gods.</p>
         </div>
       </div>
-      <div xml:id="sec-07" type="chapter" n="07-notes">
+      <div xml:id="sec-08" type="chapter" n="08-notes">
         <head>NOTES</head>
         <pb xml:id="page-60" n="50" facs="https://archive.org/download/b29353051/page/n59_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -807,7 +810,7 @@ PHILADELPHIA</p>
           <quote><p>“It is the luxury which is displayed by man, even in the paraphernalia of death, that has rendered Arabia thus ‘‘happy;’’ and which prompts him to bury with the dead what was originally understood to have been produced for the service of the gods. Those who are likely to be the best acquainted with the matter, assert that this country does not produce, in a whole year, so large a quantity of perfumes as was burnt by the Emperor Nero at the funeral obsequies of his wife Poppæa. And then let us only take into account the vast number of funerals that are celebrated throughout the whole world each year, and the heaps of odors that are piled up in honor of the bodies of the dead; the vast quantities, too, that are offered to the gods in single grains; and yet, when men were in the habit of offering up to them the salted cake, they did not show themselves any the less propitious; nay, rather, as the facts themselves prove, they were even more favorable to us then than they are now. How large a portion, too, I should like to know, of all these perfumes really comes to the gods of heaven, and the deities of the shades below?”</p></quote>
           <p>The customs ruling the gathering and shipment of frankincense are carefully described by Pliny (XII, 30), as follows:</p>
           <quote><p>“There is no country in the world,” (forgetting, however, the Somali peninsula), “that produces frankincense except Arabia, and indeed not the whole of that. Almost in the very center of that region are the Atramitæ, a community of the Sabæi, the capital of whose kingdom is Sabota, a place situate on a lofty mountain. At a distance of eight stations from this is the incense-bearing region, known by the name of Saba (<hi rend="italic">Abasa?</hi>). This district is inaccessible because of rocks on every side, while it is bounded on the right by the sea, from which it is shut out by tremendously high cliffs. . . . <pb xml:id="page-135" n="125" facs="https://archive.org/download/b29353051/page/n134_w1400.jpg"/> The forests extend 20 schœni in length and 10 schœni in breadth. (A schœnus = 40 stadia = 4 English miles.)</p></quote>
-          <p>“Adjoining are the Minæi, a people of another community, through whose country is the sole transit for the frankincense, along a single narrow road. The Minæi were the first people who carried on any traffic in frankincense. . . . It is the Sabæi alone, and no other people among the Arabians, that behold the incense-tree;<ref xml:id="ref-sec-07-fn-003" type="noteref" target="#sec-07-fn-003">*</ref> and not all of them, for not over 3000 families have a right to that privilege by hereditary succession; for this reason these persons are called sacred, and are not allowed, while pruning the trees or gathering the harvest, to receive any pollution, either by intercourse with women or coming in contact with the dead; by these religious observances it is that the price of the commodity is so enhanced.</p>
+          <p>“Adjoining are the Minæi, a people of another community, through whose country is the sole transit for the frankincense, along a single narrow road. The Minæi were the first people who carried on any traffic in frankincense. . . . It is the Sabæi alone, and no other people among the Arabians, that behold the incense-tree;<ref xml:id="ref-sec-08-fn-003" type="noteref" target="#sec-08-fn-003">*</ref> and not all of them, for not over 3000 families have a right to that privilege by hereditary succession; for this reason these persons are called sacred, and are not allowed, while pruning the trees or gathering the harvest, to receive any pollution, either by intercourse with women or coming in contact with the dead; by these religious observances it is that the price of the commodity is so enhanced.</p>
           <p>“The natural vintage takes place about the rising of the Dog-star, a period when the heat is most intense; on which occasion they cut the tree where the bark appears to be the fullest of juice, and extremely thin, from being distended to the greatest extent. The incision thus made is gradually extended, but nothing is removed; the consequence of which is, that an unctuous foam oozes forth, which gradually coagulates and thickens. When the nature of the locality requires it, this juice is received upon mats of palm-leaves, though in some places the space around the tree is made hard by being well rammed down for the purpose. The frankincense that is gathered after the former method is in the purest state, though that which falls upon the ground is the heaviest in weight.</p>
           <p>“The forest is allotted in certain portions, and such is the mutual probity of the owners, that it is quite safe from all depredation; indeed, there is no one left to watch the tree after the incisions are made, and yet no one is ever known to plunder his neighbor. But, by Hercules! at Alexandria, where the incense is dressed for sale, the workshops can never be guarded with sufficient care; a seal is even placed upon the workmen’s aprons and a mask put upon the head, or else a net with very close meshes, while the people are stripped naked before they are allowed to leave work. So true it is that punishments afford less security among us than is to be found by these Arabians amid their woods and forests!</p>
           <p>“The incense which has accumulated during the summer is gathered <pb xml:id="page-136" n="126" facs="https://archive.org/download/b29353051/page/n135_w1400.jpg"/> in the autumn; it is the purest of all, and is of a white color. The second gathering takes place in the spring, incisions being made in the bark for that purpose during the winter; this, however, is of a red color, and not to be compared with the other incense."</p>
@@ -1759,13 +1762,13 @@ the Persian ship at Ajanta.</p>
         </div>
         <div type="notes">
     <list type="footnotes">
-      <item><note xml:id="sec-07-fn-001" place="foot" n="Note">See Vivien de Saint-Martin, <hi rend="italic">Le Nord de l'Afrique dans l'Antiquité grecque et romaine</hi>. Paris, 1863: p. 197.</note></item>
-      <item><note xml:id="sec-07-fn-002" place="foot" n="Note">Samuel Edward Dawson: <hi rend="italic">The Line of Demarcation of Pope Alexander VI, and that of the Treaty of Tordesillas</hi>, in Transactions of the Royal Society of Canada, 1899: Vol. V. § 2, pp. 467 ff.</note></item>
-      <item><note xml:id="sec-07-fn-003" place="foot" n="*" target="#ref-sec-07-fn-003"><hi rend="italic">Cf.</hi> Virgil, <hi rend="italic">Georgics</hi> II, 116-117: Divisæ arboribus patriæ. Sola India nigrum Fert ebenum, solis est turea virga Sabæis. And again, I, 57: India mittit ebur, molles sua tura Sabæi.</note></item>
+      <item><note xml:id="sec-08-fn-001" place="foot" n="Note">See Vivien de Saint-Martin, <hi rend="italic">Le Nord de l'Afrique dans l'Antiquité grecque et romaine</hi>. Paris, 1863: p. 197.</note></item>
+      <item><note xml:id="sec-08-fn-002" place="foot" n="Note">Samuel Edward Dawson: <hi rend="italic">The Line of Demarcation of Pope Alexander VI, and that of the Treaty of Tordesillas</hi>, in Transactions of the Royal Society of Canada, 1899: Vol. V. § 2, pp. 467 ff.</note></item>
+      <item><note xml:id="sec-08-fn-003" place="foot" n="*" target="#ref-sec-08-fn-003"><hi rend="italic">Cf.</hi> Virgil, <hi rend="italic">Georgics</hi> II, 116-117: Divisæ arboribus patriæ. Sola India nigrum Fert ebenum, solis est turea virga Sabæis. And again, I, 57: India mittit ebur, molles sua tura Sabæi.</note></item>
     </list>
   </div>
       </div>
-      <div xml:id="sec-08" type="chapter" n="08-articles-of-trade-mentioned-in-the-periplus">
+      <div xml:id="sec-09" type="chapter" n="09-articles-of-trade-mentioned-in-the-periplus">
         <head>ARTICLES OF TRADE MENTIONED IN THE PERIPLUS</head>
         <pb xml:id="page-294" n="284" facs="https://archive.org/download/b29353051/page/n293_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -1965,7 +1968,7 @@ the Persian ship at Ajanta.</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-09" type="chapter" n="09-articles-subject-to-duty-at-alexandria">
+      <div xml:id="sec-10" type="chapter" n="10-articles-subject-to-duty-at-alexandria">
         <head>ARTICLES SUBJECT TO DUTY AT ALEXANDRIA</head>
         <pb xml:id="page-299" n="289" facs="https://archive.org/download/b29353051/page/n298_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -1990,7 +1993,7 @@ the Persian ship at Ajanta.</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-10" type="chapter" n="10-date-of-the-periplus-as-determined-by-various-commentators">
+      <div xml:id="sec-11" type="chapter" n="11-date-of-the-periplus-as-determined-by-various-commentators">
         <head>DATE OF THE PERIPLUS AS DETERMINED BY VARIOUS COMMENTATORS</head>
         <pb xml:id="page-300" n="290" facs="https://archive.org/download/b29353051/page/n299_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -2061,7 +2064,7 @@ the Persian ship at Ajanta.</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-11" type="chapter" n="11-rulers-mentioned-in-the-periplus">
+      <div xml:id="sec-12" type="chapter" n="12-rulers-mentioned-in-the-periplus">
         <head>RULERS MENTIONED IN THE PERIPLUS</head>
         <pb xml:id="page-304" n="294" facs="https://archive.org/download/b29353051/page/n303_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -2079,7 +2082,7 @@ the Persian ship at Ajanta.</p>
       </div>
     </body>
     <back>
-      <div xml:id="sec-12" type="index" n="12-index">
+      <div xml:id="sec-13" type="index" n="13-index">
         <head>INDEX</head>
         <pb xml:id="page-305" n="295" facs="https://archive.org/download/b29353051/page/n304_w1400.jpg"/>
         <div type="subsection" n="h1">

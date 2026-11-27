@@ -3578,7 +3578,7 @@ Total quantity, 78,966,000 lbs., gives 4·48 lbs. per annum, or 2 oz. per day pe
 [^sec-06-fn-006]: (2) The price for this is not given.
 [^sec-06-fn-007]: (1) The produce per acre for these is not given in the Report. I have applied the average of the other districts—viz., 846 lbs.—to these.
 [^sec-06-fn-008]: (1) This evidently is some mistake. It may be 280.
-[^sec-06-fn-009]: (1) [Unlinked note, p. 160] The produce per acre for this is not given in the Report. The average of the others (652 acres) is applied to this.
+- (1) **[Unlinked note, p. 160]** The produce per acre for this is not given in the Report. The average of the others (652 acres) is applied to this.
 [^sec-06-fn-010]: (1) This is apparently a mistake. The figure is too high.
 [^sec-06-fn-011]: (2) The crop per acre for this district not being given in the Report, I have given it the average, 366.
 [^sec-06-fn-012]: (1) For these (2,311 acres) produce per acre is taken of the average for the others—viz., 31·44.
@@ -4694,7 +4694,7 @@ Here, again, our gracious Empress in the year of her auspicious Jubilee once mor
 ### Notes
 
 [^sec-11-fn-001]: (*) Whitaker's Almanac.
-[^sec-11-fn-002]: (Note) N.B.—Some of the above figures are worked out of Whitaker's Almanac, 1886.
+- **(Note)** N.B.—Some of the above figures are worked out of Whitaker's Almanac, 1886.
 [^sec-11-fn-003]: (1) *Supra*, pp. 193-196.
 [^sec-11-fn-004]: (2) *Supra*, pp. 33, 196-199.
 [^sec-11-fn-005]: (3) "Eastern India, 1838," vol. i, p. xii.
@@ -5845,7 +5845,7 @@ Yours truly, <span class="sc">Dadabhai Naoroji.</span>
 [^sec-12-fn-015]: (5) *Ib.*, para. 28.
 [^sec-12-fn-016]: (6) Par. Return 207, of 1893. Financial Statement, 23/3/93.
 [^sec-12-fn-017]: (1) Par. Return 207, of 1893, p. 110. Financial Statement, 23/3/93.
-[^sec-12-fn-018]: (2) [Unlinked note, p. 313] Par. Return [c.7720-1], 1895. Lord Welby.
+- (2) **[Unlinked note, p. 313]** Par. Return [c.7720-1], 1895. Lord Welby.
 [^sec-12-fn-019]: (1) Hansard, vol. 19, p. 533, 10/7/1833.
 [^sec-12-fn-020]: (2) Par. Return [c. 3086-1], 1881.
 [^sec-12-fn-021]: (3) House of Commons, 14/6/1858.
@@ -5862,7 +5862,7 @@ Yours truly, <span class="sc">Dadabhai Naoroji.</span>
 [^sec-12-fn-032]: (4) House of Commons, 23/8/1883.
 [^sec-12-fn-033]: (1) House of Commons, 15/8, 1894.
 [^sec-12-fn-034]: (2) Par. Return [c. 3086-I], 1881, p. 135.
-[^sec-12-fn-035]: (Note) <span class="sc">NOTE.</span>—The general character of the staple of the district should be stated as “Cotton, Indigenous,” “Cotton, New Orleans,” “Sugar, Raw,” “Sugar, Refined,” “Salt, Rock,” “Salt, Samber Lake,” and so on.
+- **(Note)** <span class="sc">NOTE.</span>—The general character of the staple of the district should be stated as “Cotton, Indigenous,” “Cotton, New Orleans,” “Sugar, Raw,” “Sugar, Refined,” “Salt, Rock,” “Salt, Samber Lake,” and so on.
 [^sec-12-fn-036]: (1) Australasia is a large gold and silver exporting country. Profits on this are a very small percentage. The profits on other produce or merchandise will be larger than 10·5 per cent., and it should also be borne in [p. 334] mind that Australasia, like India, is a borrowing country, and a portion of its exports, like that of India, goes for the payment of interest on foreign loans. Still, it not only pays all that interest from the profits of trade, but secures for itself also a balance of 10·5 per cent. profits, while India must not only lose all its profits of trade but also Rx. 170,000,000 of its own produce. Were India not “bleeding” politically it would also be in a similar condition of paying for its loans and securing something for itself out of the trade profits.
 [^sec-12-fn-037]: (1) The Prime Minister.
 [^sec-12-fn-038]: (2) The Marquis of Salisbury.

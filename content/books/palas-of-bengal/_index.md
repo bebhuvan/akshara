@@ -1,6 +1,6 @@
 ---
 title: "The Pālas of Bengal"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Memoirs of the Asiatic Society of Bengal, Vol. V, No. 3"
 author: "R. D. Banerji"
 author_slug: "r-d-banerji"

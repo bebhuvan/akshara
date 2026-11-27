@@ -525,7 +525,7 @@ Nothing is known about their dates save and except that the grants were issued i
 [^sec-05-fn-026]: (2) Ind. Ant., Vol. XXXVIII, p. 246.
 [^sec-05-fn-027]: (3) Mem. A.S.B., Vol. III, p. 16.
 [^sec-05-fn-028]: (1) Ind. Ant., Vol. XVI, p. 174.
-[^sec-05-fn-029]: (2) [Unlinked note, p. 64] J.A.S B., Vol. XVII, 1848 pt. I, p. 238.
+- (2) **[Unlinked note, p. 64]** J.A.S B., Vol. XVII, 1848 pt. I, p. 238.
 [^sec-05-fn-030]: (3) Nachr. v. d. Konigl. Ges. d. Wis. z. Gotting., phil.-hist. Kl. 1904, pp. 210-11
 [^sec-05-fn-031]: (4) Epi. Ind., Vol IX, p. 4
 [^sec-05-fn-032]: (1) J.R.A.S., 1910, pp. 150-51.

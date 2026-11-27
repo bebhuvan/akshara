@@ -1333,7 +1333,7 @@ The growth of the East India trade depended upon the support of the Crown. As th
 [^sec-05-fn-084]: (1) *Public Record Office*, C.O. 77, vol. xii, no. 271, June 1673.
 [^sec-05-fn-085]: (1) *Harleian Miscellany*, vol. iii, pp. 1–17.
 [^sec-05-fn-086]: (2) Ib., pp. 10–12.
-[^sec-05-fn-087]: (3) [Unlinked note, p. 129] Ib. *A Justification of the Present War against the United Netherlands*, vol. viii, pp. 128–71, 1672.
+- (3) **[Unlinked note, p. 129]** Ib. *A Justification of the Present War against the United Netherlands*, vol. viii, pp. 128–71, 1672.
 [^sec-05-fn-088]: (4) Ib., pp. 163–4.
 [^sec-05-fn-089]: (5) Ib., p. 165.
 [^sec-05-fn-090]: (1) Davenant, *Works*, edited by Whitworth, vol. v, p. 368. Compare also Grey’s *Debates*, vol. ii.
@@ -2241,7 +2241,7 @@ The criticisms of Childe and Barbon of the balance of trade theory were skilfull
 [^sec-07-fn-154]: (1) Davenant, *Essay on the East India Trade*, p. 35; *The Weavers' Twelve Queries Answered*, Brit. Mus. 816. m. 14 (122). Compare the following: ‘The Encouragement of English Trade could be effected only by leaving the Trade free, and sheltering it against all Prohibitions.’ *The Linnen Drapers' Answer to Mr. Carey*, Brit. Mus. 816. m. 13 (141).
 [^sec-07-fn-155]: (2) *Essay*, p. 23.
 [^sec-07-fn-156]: (3) MacCulloch, *Collection*, op. cit.
-[^sec-07-fn-157]: (Note) Notes : Blank means no ship sent in the year. Contractions : B, in column 5, means Bombay ; S, Surat ; and P, Persia. The same applies to columns 8 and 11.
+- **(Note)** Notes : Blank means no ship sent in the year. Contractions : B, in column 5, means Bombay ; S, Surat ; and P, Persia. The same applies to columns 8 and 11.
 
 
 ## CONCLUSION

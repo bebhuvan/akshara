@@ -1,6 +1,6 @@
 ---
 title: "Letters from Malabar"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Now First Translated from the Original Dutch; to Which Is Added An Account of Travancore, and Fra Bartolomeo's Travels in That Country, by Major Heber Drury"
 author: "Jacob Canter Visscher"
 author_slug: "jacob-canter-visscher"

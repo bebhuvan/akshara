@@ -1,6 +1,6 @@
 ---
 title: "The Religion of the Veda"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "The Ancient Religion of India (From Rig-Veda to Upanishads)"
 author: "Maurice Bloomfield"
 author_slug: "maurice-bloomfield"

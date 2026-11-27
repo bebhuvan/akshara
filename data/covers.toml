@@ -291,6 +291,10 @@ plate = "x-naoroji-1918"
 kind = "portrait"
 plate = "x-naidu-portrait"
 
+["the-indian-craftsman"]
+kind = "device"
+plate = "x-craftsman-device"
+
 ["truth-about-indian-opium"]
 kind = "device"
 plate = "x-opium-arms"

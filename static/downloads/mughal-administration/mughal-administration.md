@@ -79,7 +79,7 @@ Mughal rule gave India administrative union and homogeneity, 66—but no nationa
 
 ### Notes
 
-[^sec-02-fn-001]: (Note) Z. means British Museum Persian MS. Or. 1641 ; D. means India Office Library MS. Pers. 370 ; *Mirat* means *Mirat-i-Ahmadi*, Bombay litho. ed.
+- **(Note)** Z. means British Museum Persian MS. Or. 1641 ; D. means India Office Library MS. Pers. 370 ; *Mirat* means *Mirat-i-Ahmadi*, Bombay litho. ed.
 
 
 ## LECTURE I: The Government: its Character and Aims

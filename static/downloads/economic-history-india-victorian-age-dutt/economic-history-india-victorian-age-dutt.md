@@ -225,6 +225,9 @@ CHAP. — PAGE
 ### INDIA IN THE VICTORIAN AGE
 
 
+### CHAPTER I
+
+
 #### AUCKLAND AND ELLENBOROUGH
 
 <span class="sc">Lord William Bentinck</span> left India in 1835. His seven years' rule was an era of Peace, Retrenchment, and Reform. He secured tranquillity in the East India Company's dominions, and lived at peace with the Indian Powers. He reduced the public debt, decreased the annual expenditure, and showed a surplus. He commenced that revised settlement of land revenue in Northern India which gave relief to landlords and cultivators. He admitted the educated people of India to the higher appointments in the revenue and judicial departments. He abolished the practice of Sati and suppressed the crime of Thugs. He promoted English education in India, and endeavoured to carry out the maxim that the administration of India was primarily for the interests of the people. His successor, Sir Charles Metcalfe, trained in the traditions of his school, worked in the same lines, and followed the same principles. He gave liberty to the Press of India, and earned for himself a high reputation as an able and benevolent administrator.
@@ -2495,7 +2498,7 @@ Twenty years after, during the troubles of the Indian Mutiny, it was considered 
 [^sec-15-fn-030]: (2) Sir Charles Metcalfe’s Minute, dated November 7, 1830.
 [^sec-15-fn-031]: (1) J. C. Marshman's Evidence, Lords' Second Report, 1853.
 [^sec-15-fn-032]: (2) Sir Charles Trevelyan's Evidence, Lords' Second Report, 1853.
-[^sec-15-fn-033]: (1) [Unlinked note, p. 199] Rev. Alexander Duff's Evidence, Lords' Second Report, 1853.
+- (1) **[Unlinked note, p. 199]** Rev. Alexander Duff's Evidence, Lords' Second Report, 1853.
 [^sec-15-fn-034]: (1) Sir Charles Trevelyan’s Evidence, Lords’ Second Report, 1853.
 [^sec-15-fn-035]: (2) J. S. Cotton’s *Mounstuart Elphinstone and the Making of South Western India*.
 [^sec-15-fn-036]: (3) Norton’s Evidence, Lords’ Second Report, 1853.
@@ -2813,6 +2816,9 @@ Such were the sentiments of the Queen towards her Indian subjects; the new Procl
 
 
 <!-- page: 267 | folio: 239 -->
+
+### CHAPTER I
+
 
 #### CANNING, ELGIN, AND LAWRENCE
 
@@ -4677,6 +4683,9 @@ This mean sacrifice to party politics did not even secure a party triumph. The C
 
 
 <!-- page: 447 | folio: 419 -->
+
+### CHAPTER I
+
 
 #### <span class="sc">Lytton and Ripon</span>
 

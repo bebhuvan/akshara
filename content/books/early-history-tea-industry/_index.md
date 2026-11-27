@@ -1,6 +1,6 @@
 ---
 title: "The Early History of the Tea Industry in North-East India"
-date: "2026-11-25"
+date: "2026-11-27"
 subtitle: ""
 author: "Harold H. Mann"
 author_slug: "harold-h-mann"

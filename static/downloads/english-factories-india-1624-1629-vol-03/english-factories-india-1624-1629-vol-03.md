@@ -1579,7 +1579,7 @@ As desired, he has procured for him a parcel of linens. Will send particulars la
 [^sec-06-fn-048]: (1) He died on July 13, 1626 (O. S.): see *Dagh Register*, 1624–29, p. 303.
 [^sec-06-fn-049]: (1) See *Hague Transcripts*, series i. vol. viii. no. 263.
 [^sec-06-fn-050]: (2) The first four varieties named are well-known silver coins. For 'Ambertin' we should [p. 156] probably read 'Albertine', a gold coin issued by the Archduke Albert of Austria. The Dutch 'rider' (so-called from the figure on it) was worth about 16*s.*, and the Hungary ducat was of much the same value as the Venetian sequin (here called 'checkeen'). As regards the Barbary ducat, we may note that in Ralegh's *Remaines* (p. 199) mention is made of a 'ducket currant for three ounces in Barbary . . . then worth in England seven shillings and sixpence.' The double pistolet referred to was probably that of Lorraine.
-[^sec-06-fn-051]: (1) [Unlinked note, p. 156] 'Observe that 32 valls is a tola' (*marginal note*). On these two weights see the 1618-21 volume, pp. 47, 57, and that for 1622-23, p. 154.
+- (1) **[Unlinked note, p. 156]** 'Observe that 32 valls is a tola' (*marginal note*). On these two weights see the 1618-21 volume, pp. 47, 57, and that for 1622-23, p. 154.
 [^sec-06-fn-052]: (1) As already stated (p. 152), Surat had been granted in *jāgīr* to the late Prince Parvīz.
 [^sec-06-fn-053]: (1) See *Hague Transcripts*, series i. vol. viii. no. 263.
 [^sec-06-fn-054]: (1) A Dutch letter from Swally (*Hague Transcripts*, series i. vol. viii. no. 263) mentions [p. 160] the idea of a joint occupation, but doubts whether much profit would result, owing to the probability of Portuguese attacks.

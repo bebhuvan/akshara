@@ -301,5 +301,5 @@ The pioneers of the tea industry are nevertheless men of whom we may well be pro
 [^sec-03-fn-018]: (18) Dated London, May 4th, 1849.
 [^sec-03-fn-019]: (19) Report dated May 3<sup>rd</sup>, 1850.
 [^sec-03-fn-020]: (20) Report dated May 7th, 1852.
-[^sec-03-fn-021]: [Unlinked note, p. 34] Report dated May 6th, 1853.
+- **[Unlinked note, p. 34]** Report dated May 6th, 1853.
 [^sec-03-fn-022]: (22) The figures are given per *poorah*. I have converted these into yields per acre.

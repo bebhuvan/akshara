@@ -1667,14 +1667,14 @@ The 1,000*l.* jewel sold for 5,280 rupees; and a pair of pendant pearls for 2,30
 [^sec-04-fn-134]: (2) Mr. Swinton suggests that this may be Chennapa Nāyak, the father of the chief from whom the English obtained the site of Fort St. George. Another surmise is that he was the ‘Echama Naique’, who in 1614–16 was fighting with Jaga Rājā on behalf of King Ranga IV (see Mr. Sewell’s *A Forgotten Empire*, pp. 226–31).
 [^sec-04-fn-135]: (1) A letter from the Dutch chief at Masulipatam to Batavia, dated January 15, 1623, N. S. (*Hague Transcripts*, series 1. vol. vi) mentions the arrival at Pulicat of 'Iteragie', to whom the Dutch gave sixty or seventy rials, with a promise to help him with cannon in his campaign against the invaders.
 [^sec-04-fn-136]: (2) Probably we should read 'at Salure and Mayer'. The former place may be Salūrpet, on the Pulicat Lake, about 30 miles N. W. of Pulicat (*cf.* p. 104); the latter may possibly be Medur, on the road to Ponnairy.
-[^sec-04-fn-137]: (1) [Unlinked note, p. 142] There is a second copy in *Factory Records, Masulipatam*, vol. ix. p. 8.
+- (1) **[Unlinked note, p. 142]** There is a second copy in *Factory Records, Masulipatam*, vol. ix. p. 8.
 [^sec-04-fn-138]: (1) Arrived?
 [^sec-04-fn-139]: (1) The Kolis of Gujarāt, a predatory tribe who were the terror of travellers in those parts. It is generally supposed that our word ‘coolie’ (*cf.* pp. 66, 139) is derived from this name, as members of the tribe were largely employed in low-class work.
 [^sec-04-fn-140]: (2) Probably Ibrāhīmīs (see note on p. 351 of the previous volume).
 [^sec-04-fn-141]: (1) Sanskrit *valla*, Marāthī *vāla*: a goldsmith’s weight, of which twenty went to the *gadiānun* and forty to the *tolā*. Fryer, however, divides the *tolā* into two ‘gudjanas’ or thirty-two ‘valls’.
 [^sec-04-fn-142]: (2) The Gingelly Coast extended from the Godāvarī Delta to Jagannāth.
 [^sec-04-fn-143]: (1) Della Valle says that in this fight the Dutch captured three Portuguese maidens, one of whom became the wife of a Dutch factor at Surat. On the Court Minutes of December 15, 1624, is noted an accusation that Captain Green kept the two Portuguese women a whole year, refused 600 rials for their ransom at Mozambique, gave them costly clothing, and finally left them at Jakatra.
-[^sec-04-fn-144]: (1) [Unlinked note, p. 154] S. [?radi?]
+- (1) **[Unlinked note, p. 154]** S. [?radi?]
 [^sec-04-fn-145]: (1) The date in the original is simply 'the fine [i. e. end] 1622'.
 [^sec-04-fn-146]: (2) The MS. is dated '5th November', which is probably an error for 'fine [of] November'.
 [^sec-04-fn-147]: (1) Wrongly dated the 9th in the MS.

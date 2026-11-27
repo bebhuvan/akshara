@@ -8,9 +8,6 @@
 
 <!-- page: 1 | folio: 1 -->
 
-![Circular gold-embossed publisher's seal on cloth cover reading 'TRÜBNER'S * ORIENTAL * SERIES' and 'FULGUR EXIT AB ORIENTE', depicting a lightning bolt over mountains and sea.](../figures/fig-001_p0001.webp)
-
-
 <!-- page: 3 | folio: 3 -->
 
 ### TRÜBNER’S ORIENTAL SERIES.

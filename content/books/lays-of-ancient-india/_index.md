@@ -1,6 +1,6 @@
 ---
 title: "Lays of Ancient India"
-date: "2026-11-25"
+date: "2026-11-27"
 subtitle: "Selections from Indian Poetry Rendered into English Verse"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -14,7 +14,7 @@ human_verified_pages: 0
 chapters: 53
 footnotes_count: 88
 tables_count: 1
-figures_count: 1
+figures_count: 0
 reading_time: "~3 hrs"
 type: "books"
 layout: "book"

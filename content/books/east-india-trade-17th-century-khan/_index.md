@@ -1,6 +1,6 @@
 ---
 title: "The East India Trade in the XVIIth Century, in Its Political and Economic Aspects"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: ""
 author: "Shafaat Ahmad Khan"
 author_slug: "shafaat-ahmad-khan"

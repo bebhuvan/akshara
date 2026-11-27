@@ -413,7 +413,7 @@ Now to returne to my voyage. From Ormus I went to Balsara or Basora, and from Ba
 [^sec-05-fn-076]: (1) Possibly the state of that name in the island of Sumabawa.
 [^sec-05-fn-077]: (1) The reference is to ‘ Cochin-leg ’ or elephantiasis.
 [^sec-05-fn-078]: (1) Encaged, i. e. hidden from view in a litter.
-[^sec-05-fn-079]: (2) [Unlinked note, p. 45] ‘Zamorin’ was the title of the King of Calicut.
+- (2) **[Unlinked note, p. 45]** ‘Zamorin’ was the title of the King of Calicut.
 [^sec-05-fn-080]: (1) This section is largely copied from Federici.
 [^sec-05-fn-081]: (1) Vijayanagar, the great Hindu kingdom which once covered the whole of the Indian peninsula south of the Kistna.
 [^sec-05-fn-082]: (2) Federici says that a certain kind of diamond comes from ‘infra terra del Deli’; and Jourdain was told at Agra that the best sorts ‘are growne in the countrye of Delly’ (*Journal*, p. 164). There seems to be no foundation for the statement.
@@ -1032,7 +1032,7 @@ At my last sight thereof, there was onely over head a rich tent, with a semiane 
 [^sec-08-fn-012]: (1) Foot-men (Port. *peão*). As Hawkins tells us (p. 78), these were foot-soldiers hired for purposes of defence.
 [^sec-08-fn-013]: (1) Finch no doubt wrote ‘Amedanagar’, i. e. Ahmadnagar. Malik Ambar (an Abyssinian by birth) was not the King but the chief minister and generalissimo. Akbar had subdued Ahmadnagar in the year 1600. For an account of the capitulation mentioned in the text see the *Tūzuk*, vol. i, p. 181.
 [^sec-08-fn-014]: (1) The Conde de Feyra, who was coming out as Viceroy, died on his way.
-[^sec-08-fn-015]: (2) [Unlinked note, p. 131] See Finch's letter to Hawkins mentioned on p. 123.
+- (2) **[Unlinked note, p. 131]** See Finch's letter to Hawkins mentioned on p. 123.
 [^sec-08-fn-016]: (3) Rāja Mān Singh. Prince Parwīz was nominally in command.
 [^sec-08-fn-017]: (4) This seems to be intended either for Junnar (in Poona District) or for Jālnapur (see p. 137).
 [^sec-08-fn-018]: (5) Bhāgnagar, the original name of the city of Hyderābād, the present capital of the Nizām's dominions.

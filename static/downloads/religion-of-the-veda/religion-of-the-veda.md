@@ -796,8 +796,8 @@ Fortunately it does not fall within the province of these lectures to exhaust th
 [^sec-06-fn-021]: (1) Rig-Veda 1. 35. 2.
 [^sec-06-fn-022]: (2) Rig-Veda 1. 115. 1.
 [^sec-06-fn-023]: (3) See Monier Williams, *Transactions of the Fifth International Congress of Orientalists*, vol. ii., p. 163 *ff*.
-[^sec-06-fn-024]: (4) [Unlinked note, p. 87] Rig-Veda 3. 62. 10.
-[^sec-06-fn-025]: (5) [Unlinked note, p. 87] Rājendralālamitra in the Introduction to his Edition of the *Gopatha Brāhmana*, p. 24.
+- (4) **[Unlinked note, p. 87]** Rig-Veda 3. 62. 10.
+- (5) **[Unlinked note, p. 87]** Rājendralālamitra in the Introduction to his Edition of the *Gopatha Brāhmana*, p. 24.
 [^sec-06-fn-026]: (1) See Macdonell, *Vedic Mythology*, p. 15.
 [^sec-06-fn-027]: (2) Nighanṭu 5. 4–6.
 [^sec-06-fn-028]: (3) *Cf.* Nirukta 12. 1. Bṛhaddevatā 2. 7 *ff.*
@@ -1067,7 +1067,7 @@ I am mindful of the relative insecurity of prehistoric reconstructions : they mu
 [^sec-07-fn-030]: (5) *Ibid.*, 10. 8. 5.
 [^sec-07-fn-031]: (1) Rig-Veda 10. 10.
 [^sec-07-fn-032]: (1) See Macdonell, *Vedic Mythology*, p. 43.
-[^sec-07-fn-033]: (2) [Unlinked note, p. 130] Above, p. 109.
+- (2) **[Unlinked note, p. 130]** Above, p. 109.
 [^sec-07-fn-034]: (1) See my essay, *The Symbolic Gods*, in *Studies in Honor of B. L. Gildersleeve*, p. 45.
 [^sec-07-fn-035]: (2) *Vedic Mythology*, p. 122.
 [^sec-07-fn-036]: (1) See the author in *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, xlviii., 552, note; Macdonell, *Vedic Mythology*, p. 125.
@@ -2014,7 +2014,7 @@ Not so the Hindu. Over this pigmy religion which is engaged only with the needs 
 [^sec-10-fn-002]: (1) See above, p. 105.
 [^sec-10-fn-003]: (1) Atharva-Veda 5. 19. 3. and 13.
 [^sec-10-fn-004]: (2) Çatapatha Brāhmana 11. 16. 1.
-[^sec-10-fn-005]: (1) [Unlinked note, p. 253] Çatapatha Brāhmaṇa 10. 1. 5. 4.
+- (1) **[Unlinked note, p. 253]** Çatapatha Brāhmaṇa 10. 1. 5. 4.
 [^sec-10-fn-006]: (2) Taittirīya Brāhmaṇa 3. 11. 8. 5.
 [^sec-10-fn-007]: (3) Çatapatha Brāhmaṇa 12. 9. 3. 12.
 [^sec-10-fn-008]: (1) See Alfred Bertholet, *Seelenwanderung* (Nr. 2 of the iii. Series [p. 255] of *Religionsgeschichtliche Volksbücher*, edited by Professor Friederich Michael Schiele), Halle a. S. 1904.

@@ -2873,7 +2873,7 @@ Sir George Watt.—*Dictionary of Economic Products* (Calcutta, 1889–96). *The
 [^sec-05-fn-005]: (1) In regard to the countervailing duties imposed on bounty-fed beet-sugar imported into India between 1899 and 1903, see Vol. IV, chap. viii, Miscellaneous Revenue (Customs).
 [^sec-05-fn-006]: (1) Cotton yarns are said to be of 20's, 30's, &c., counts when not more than a like number of hanks of 840 yards go to the pound avoirdupois.
 [^sec-05-fn-007]: (1) See Vol. IV, chap. viii.
-[^sec-05-fn-008]: (Note) *Note.*—Excluding feudatory and tributary States, and areas for which no returns exist.
+- **(Note)** *Note.*—Excluding feudatory and tributary States, and areas for which no returns exist.
 [^sec-05-fn-009]: (*) Excluding Bengal, for which complete figures are not available except for the four Districts, Darbhangā, Champāran, Muzaffarpur, and Sāran.
 [^sec-05-fn-010]: (†) Figures are for 1899–1900.
 [^sec-05-fn-011]: (‡) Figures are for 1901–2.
@@ -5031,7 +5031,7 @@ Sir George Watt.—*Indian Art at Delhi* (Calcutta, 1903). Sir George Watt.—*D
 [^sec-08-fn-006]: (1) In regard to these schools, see Vol. IV, chap. xiii (Education).
 [^sec-08-fn-007]: (*) Excluding Berār, for which figures are not available for 1893.
 [^sec-08-fn-008]: (*) Excluding boots and shoes.
-[^sec-08-fn-009]: (Note) *Note.*—This table includes imports on behalf of Government.
+- **(Note)** *Note.*—This table includes imports on behalf of Government.
 
 
 ## CHAPTER V — Commerce and Trade
@@ -6196,11 +6196,11 @@ Sir G. Birdwood.—*Report of Her Majesty's Commission for the Paris Universal E
 [^sec-09-fn-004]: (1) For a fuller account of the inland customs' line, see Vol. IV, chap. viii.
 [^sec-09-fn-005]: (2) See also Vol. IV, chap. ix.
 [^sec-09-fn-006]: (1) For details see Vol. IV, chap. i, The Government of India.
-[^sec-09-fn-007]: (Note) <span class="sc">Note.</span>—These figures include Government stores and treasure.
+- **(Note)** <span class="sc">Note.</span>—These figures include Government stores and treasure.
 [^sec-09-fn-008]: (1) A similar excess is to be noticed in the trade of French possessions in India. The Portuguese settlements have very little trade direct with foreign countries.
 [^sec-09-fn-009]: (1) See also Vol. IV, chap. vi.
 [^sec-09-fn-010]: (1) Except bridges over the Jumna at Allahābād (opened in 1865) and Delhi (1867).
-[^sec-09-fn-011]: (Note) *Note.*—The figures for each year will be found in Table I at the end of this chapter.
+- **(Note)** *Note.*—The figures for each year will be found in Table I at the end of this chapter.
 [^sec-09-fn-012]: (1) Excluding treasure and Government stores.
 [^sec-09-fn-013]: (1) The value of articles imported by Government is excluded.
 [^sec-09-fn-014]: (1) The description by ‘counts’ denotes the number of hanks of 840 yards which make up a pound avoirdupois.
@@ -6208,7 +6208,7 @@ Sir G. Birdwood.—*Report of Her Majesty's Commission for the Paris Universal E
 [^sec-09-fn-016]: (1) The production and trade in opium are dealt with in chap. i of this volume, and the revenue derived from it in Vol. IV, chap. viii.
 [^sec-09-fn-017]: (1) From 1903-4 the trade returns have shown more accurately the destination of exports, but complete information is not yet available.
 [^sec-09-fn-018]: (1) See also Vol. IV, chap. iv.
-[^sec-09-fn-019]: (Note) *N.B.*—Figures relate to merchandise only.
+- **(Note)** *N.B.*—Figures relate to merchandise only.
 [^sec-09-fn-020]: (*) Trade between Native States is not registered.
 
 

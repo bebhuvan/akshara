@@ -1,6 +1,6 @@
 ---
 title: "Early Travels in India, 1583–1619"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Narratives of Ralph Fitch, John Mildenhall, William Hawkins, William Finch, Nicholas Withington, Thomas Coryat, and Edward Terry"
 author: "William Foster"
 author_slug: "william-foster"

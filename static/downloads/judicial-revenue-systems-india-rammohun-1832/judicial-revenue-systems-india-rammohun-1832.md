@@ -1138,7 +1138,7 @@ In a letter of the Court of Directors to the Government of Bengal, dated the 20t
 
 ### Notes
 
-[^sec-08-fn-001]: (Note) *Note.*—In the above Statement the Rupee is taken at two shillings for the convenience of calculation; the real rate of exchange, however, has varied considerably, and of late years may be taken at an average, perhaps, of 1*s.* 10*d.*, consequently 10 or 11 Rupees will constitute a Pound Sterling.
+- **(Note)** *Note.*—In the above Statement the Rupee is taken at two shillings for the convenience of calculation; the real rate of exchange, however, has varied considerably, and of late years may be taken at an average, perhaps, of 1*s.* 10*d.*, consequently 10 or 11 Rupees will constitute a Pound Sterling.
 
 
 ## INDEX.

@@ -1,6 +1,6 @@
 ---
 title: "The Imperial Gazetteer of India: The Indian Empire, Vol. III — Economic"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "New Edition, Published under the Authority of His Majesty's Secretary of State for India in Council"
 author: "Great Britain. India Office"
 author_slug: "great-britain-india-office"

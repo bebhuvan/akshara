@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1624–1629"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "A Calendar of Documents in the India Office, Etc."
 author: "William Foster"
 author_slug: "william-foster"

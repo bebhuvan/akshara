@@ -91,9 +91,12 @@ AT THE CLARENDON PRESS
             <pb xml:id="page-8" n="4" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n7_w1400.jpg"/>
             <p rend="imprint">PRINTED IN ENGLAND .
 AT THE OXFORD UNIVERSITY PRESS</p>
-            <pb xml:id="page-9" n="5" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n8_w1400.jpg"/>
           </div>
         </div>
+      </div>
+      <div xml:id="sec-02" type="frontmatter" n="02-foreword">
+        <head>FOREWORD</head>
+        <pb xml:id="page-9" n="5" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n8_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>FOREWORD</head>
           <p><hi rend="smallcaps">I feel</hi> that some apology is necessary for the production of a book of economic statistics at such a time as this. The origin of the work is to be found in an opportunity which offered itself many years ago. The statistics were collected between the years 1906 and 1910, but took much time and labour to tabulate. The author was then full of zeal and enthusiasm ; but when the tabulation had been finished his energy had slackened and he was no longer in close touch with the locality to which the statistics refer. For these reasons the statistics remained buried treasure waiting to be revealed. The war has brought matters to a crisis. The author is about to go to the front; as there is neither collaborator nor substitute in official life in India, no other can undertake the revelation. Hence it has become necessary to crowd into a leave of five short days the introduction of these statistics to the world, or to risk their entire loss. I could not hope in so short a time to do justice to the figures, still less to make their dry bones live, but I was loath to let them perish utterly. They were collected with very great labour by many hands with much devotion; it is but fair that such labour should not be altogether fruitless. Further, I believe them to be unique, as no similar enquiries have ever been made in India or elsewhere over so large a tract of country and <pb xml:id="page-10" n="6" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n9_w1400.jpg"/> so large a population, or by an agency so well adapted to the work. Lastly, I venture to hope that they are a contribution of some little value to aid judgement of British rule in India. That rule has been much attacked of late on the economic side. Its most powerful defence must lie in statistics such as these, which reveal in detail and yet comprehensively the resources of the people and the burden which taxation lays upon them. The work of the British in India has only one counterpart in recorded history, the Roman Empire, upon which historians have agreed to lay the blame that it sucked the orange of its provinces dry and left only the rind to its subjects. This book will not be written in vain if it proves that, in one corner of India at least, no such charge can be laid against the British Empire.</p>
@@ -107,7 +110,7 @@ AT THE OXFORD UNIVERSITY PRESS</p>
           <p><hi rend="smallcaps">London,</hi> <hi rend="italic">October 8, 1915.</hi></p>
         </div>
       </div>
-      <div xml:id="sec-02" type="frontmatter" n="02-contents">
+      <div xml:id="sec-03" type="frontmatter" n="03-contents">
         <head>CONTENTS</head>
         <pb xml:id="page-15" n="11" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n14_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -144,7 +147,7 @@ Taxation</hi> . . . . . . . 113</p>
       </div>
     </front>
     <body>
-      <div xml:id="sec-03" type="chapter" n="03-chapter-i-the-district-and-its-inhabitants-their-homes-and-ma">
+      <div xml:id="sec-04" type="chapter" n="04-chapter-i-the-district-and-its-inhabitants-their-homes-and-ma">
         <head>Chapter I The District and its inhabitants, their homes and manner of life</head>
         <pb xml:id="page-17" n="13" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n16_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -217,7 +220,7 @@ Taxation</hi> . . . . . . . 113</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-04" type="chapter" n="04-chapter-ii-the-domestic-budget">
+      <div xml:id="sec-05" type="chapter" n="05-chapter-ii-the-domestic-budget">
         <head>Chapter II The Domestic Budget</head>
         <pb xml:id="page-59" n="55" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n58_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -301,7 +304,7 @@ Taxation</hi> . . . . . . . 113</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-05" type="chapter" n="05-chapter-iii-income-and-economic-condition-of-the-people-as-re">
+      <div xml:id="sec-06" type="chapter" n="06-chapter-iii-income-and-economic-condition-of-the-people-as-re">
         <head>Chapter III Income and economic condition of the people as revealed by the statistics</head>
         <pb xml:id="page-76" n="72" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n75_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -377,7 +380,7 @@ Taxation</hi> . . . . . . . 113</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-06" type="chapter" n="06-chapter-iv-indebtedness">
+      <div xml:id="sec-07" type="chapter" n="07-chapter-iv-indebtedness">
         <head>Chapter IV Indebtedness</head>
         <pb xml:id="page-100" n="96" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n99_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -405,7 +408,7 @@ Taxation</hi> . . . . . . . 113</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-07" type="chapter" n="07-chapter-v-taxation">
+      <div xml:id="sec-08" type="chapter" n="08-chapter-v-taxation">
         <head>Chapter V Taxation</head>
         <pb xml:id="page-117" n="113" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n116_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -484,7 +487,7 @@ Taxation</hi> . . . . . . . 113</p>
             <p>The chokidari tax, or village rate, is assessed and collected in an entirely different manner. It is assessed in a rough and ready fashion by the headman of each village as a tax upon income with a maximum limit, and is spent upon the provision of village police. The total yield in Faridpur is equivalent to less than a penny in the pound upon income (0·3 per cent.), but the assessment is very capricious. Upon an investigation, which was most carefully made, of the amount paid by each family, and a comparison with the income of that family, it appears that generally speaking the poorer classes pay double as much as the richer classes, and too many of the latter escape altogether. The number of families in really good circumstances who escape too lightly or altogether was astonishing, especially amongst Hindus, while on the other hand at least half of the families who were found to be living in a condition very little <pb xml:id="page-136" n="132" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n135_w1400.jpg"/> removed from actual want were assessed to the rate. Were the average tax now realized from the poorer half of the population (½ per cent.) applied to the richer half and no exemptions permitted, the yield would be about 64 per cent. more than at present, while the rate on the poorest families would be considerably reduced.</p>
             <p>During our economic investigations the incidence of local taxation was examined most carefully. The amount paid by each individual family was compared with the income of the family. It is reasonable to assume that the information which was collected can be trusted. The substance of that information is that the burden is not equally borne by all sections of the community, that all non-agricultural families and the richer cultivators escape too lightly, and that the local authorities receive less than half of what has been paid. The total yield to the local authorities is about four lakhs of rupees, although the total amount paid on account of the two taxes appears to be about eight lakhs of rupees. A rate of 1 per cent. upon income, or 2½<hi rend="italic">d.</hi> in the pound, appears to be the scale upon which the poorer half of the cultivators is actually (not nominally) taxed. If the road cess were abolished and the chokidari tax were converted into a local tax upon income at this rate and applied to all classes of the community, the yield in Faridpur would be over ten lakhs of rupees or 2½ times the existing yield. It will be observed that the increase would be obtained without alteration in the scale on which the poorer cultivators are at present taxed; but entirely by assessing the richer cultivators and all non-cultivators at the same scale.</p>
             <pb xml:id="page-137" n="133" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n136_w1400.jpg"/>
-            <p>I venture to make these suggestions because it is clear that greater expenditure on local administration will soon in Bengal become an urgent necessity. Before fresh taxation is proposed or considered, it is desirable that the incidence, yield and possibilities of existing rates of taxation should be accurately measured. Were these suggestions adopted, the cess upon rent abolished and the chokidari tax converted into a 1 per cent. tax upon all incomes, no new machinery for collection would need to be devised. The new tax would be collected, as is the chokidari tax, by the headmen of the villages, who do their work as well as any work of this kind is done in Bengal and much better than the landlords. There can indeed be no dispute that the headman is the most efficient agency for the collection of local rates. The assessment of these rates is an entirely different matter, which should not be left to the headman. It is true that the headman at present assesses the chokidari tax, but Table IV appended to these pages will show how capriciously he makes the assessment. He has sufficient local knowledge for the purpose, but is not sufficiently independent of local influences. It will not be disputed perhaps that to have made detailed investigations into the income of nearly 350,000 families warrants a claim to some knowledge of the difficulty of the task. I have no hesitation in saying that investigations into income are very easy to conduct in the simple circumstances of an Indian village. The value of the results depends chiefly upon the fairness of the investigator. It is essential that officers of superior position <ref xml:id="ref-sec-07-fn-001" type="noteref" target="#sec-07-fn-001">1</ref> should be <pb xml:id="page-138" n="134" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n137_w1400.jpg"/> employed who would be certain to combine the requisite knowledge and intelligence with the requisite freedom from local influences. It is the single mind which is most needed to make an accurate estimation, as it is in truth impossible for a man of ordinary intelligence to make any serious error in estimating the income of the ordinary family. In nine out of every ten families the intelligent observer can in a very short time make a guess which will be nearly accurate of the income of each family. It is only in the incomes of the comparatively rare misers or spendthrifts that any mistake is likely to be made, and the assessor would always have the headman and the principal villagers at hand to warn him. Taxation on the gross income of the family is, however, unequal in any community and is in Bengal very unequal owing to the great differences in the size of the family. A family which contains several young children cannot be assessed with fairness in the same manner as a family which consists entirely of adults, although the income of both may be the same. In some villages the headman, in assessing the chokidari tax, solved this difficulty by dividing the income by the number of persons whom it supported and arriving at an income per head. This was certainly a fairer means of assessing the tax, which by a natural development might be converted into an ideal method. The cost of maintenance of a woman or a young child is only half the cost of maintenance of a male of fifteen years or more. If each woman or young child were counted as only half a person in the calculation of the income per head, the result would be to obtain an artificial income per head of the population which would roughly correspond in every family <pb xml:id="page-139" n="135" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n138_w1400.jpg"/> to the amount per head available for expenditure. A tax upon this artificial income per head, deduced as it would be from the actual income of the family and its actual constitution, would equalize the burden of the rate in a way which no other system can possibly attempt. In the towns of western countries, where no one knows anything about his neighbour's business, such a system of taxation would probably be impossible; but in an Indian village, where every man knows the affairs of his neighbours almost as well as his own, so little can be hidden that an intelligent officer employing this system could, without any great difficulty, assess the proportions of the tax so that it would impose an equal burden upon every family in the village.</p>
+            <p>I venture to make these suggestions because it is clear that greater expenditure on local administration will soon in Bengal become an urgent necessity. Before fresh taxation is proposed or considered, it is desirable that the incidence, yield and possibilities of existing rates of taxation should be accurately measured. Were these suggestions adopted, the cess upon rent abolished and the chokidari tax converted into a 1 per cent. tax upon all incomes, no new machinery for collection would need to be devised. The new tax would be collected, as is the chokidari tax, by the headmen of the villages, who do their work as well as any work of this kind is done in Bengal and much better than the landlords. There can indeed be no dispute that the headman is the most efficient agency for the collection of local rates. The assessment of these rates is an entirely different matter, which should not be left to the headman. It is true that the headman at present assesses the chokidari tax, but Table IV appended to these pages will show how capriciously he makes the assessment. He has sufficient local knowledge for the purpose, but is not sufficiently independent of local influences. It will not be disputed perhaps that to have made detailed investigations into the income of nearly 350,000 families warrants a claim to some knowledge of the difficulty of the task. I have no hesitation in saying that investigations into income are very easy to conduct in the simple circumstances of an Indian village. The value of the results depends chiefly upon the fairness of the investigator. It is essential that officers of superior position <ref xml:id="ref-sec-08-fn-001" type="noteref" target="#sec-08-fn-001">1</ref> should be <pb xml:id="page-138" n="134" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n137_w1400.jpg"/> employed who would be certain to combine the requisite knowledge and intelligence with the requisite freedom from local influences. It is the single mind which is most needed to make an accurate estimation, as it is in truth impossible for a man of ordinary intelligence to make any serious error in estimating the income of the ordinary family. In nine out of every ten families the intelligent observer can in a very short time make a guess which will be nearly accurate of the income of each family. It is only in the incomes of the comparatively rare misers or spendthrifts that any mistake is likely to be made, and the assessor would always have the headman and the principal villagers at hand to warn him. Taxation on the gross income of the family is, however, unequal in any community and is in Bengal very unequal owing to the great differences in the size of the family. A family which contains several young children cannot be assessed with fairness in the same manner as a family which consists entirely of adults, although the income of both may be the same. In some villages the headman, in assessing the chokidari tax, solved this difficulty by dividing the income by the number of persons whom it supported and arriving at an income per head. This was certainly a fairer means of assessing the tax, which by a natural development might be converted into an ideal method. The cost of maintenance of a woman or a young child is only half the cost of maintenance of a male of fifteen years or more. If each woman or young child were counted as only half a person in the calculation of the income per head, the result would be to obtain an artificial income per head of the population which would roughly correspond in every family <pb xml:id="page-139" n="135" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n138_w1400.jpg"/> to the amount per head available for expenditure. A tax upon this artificial income per head, deduced as it would be from the actual income of the family and its actual constitution, would equalize the burden of the rate in a way which no other system can possibly attempt. In the towns of western countries, where no one knows anything about his neighbour's business, such a system of taxation would probably be impossible; but in an Indian village, where every man knows the affairs of his neighbours almost as well as his own, so little can be hidden that an intelligent officer employing this system could, without any great difficulty, assess the proportions of the tax so that it would impose an equal burden upon every family in the village.</p>
             <p>The cost of such an assessment by government officers of the class indicated would not be prohibitive, nor in fact need it be more than the cost of the assessment as made at present. It has been found that enormous sums are spent in revaluing a district under the present system for the purpose of the cess upon rent. The amount spent on such revaluations spread over every year during which they are in force would suffice to maintain a staff of a superior grade of officials able to assess the whole district on a basis of income once in every five years. Two advantages would be certain to accrue, an increase in the sum placed at the disposal of the local authorities, which would be more than twice as large as the sum which they have now at their disposal, and an equal distribution of the burden over all classes of the community. These advantages are worth securing, the more so that they do not involve any heavier <pb xml:id="page-140" n="136" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n139_w1400.jpg"/> burden upon the poorer classes. The taxation of 1 per cent. on income is not only very small in itself, but is also very considerably less than the amount paid for purposes of local administration by the inhabitants of the two small towns in the district. They are constituted as municipalities under the Municipal Act and for the upkeep of roads, lighting and conservancy they levy a property tax. It is a commonplace that this tax is most unequally assessed. The richer and professional classes generally escape with a very light assessment, the poorer and trading classes making up the deficiency. In the average the taxation in the two towns appear, as far as can be judged, to be equivalent to an income-tax of 2<hi rend="smallcaps"><hi rend="sup">1</hi>/<hi rend="sub">2</hi></hi> per cent. or 6<hi rend="italic">d.</hi> in the pound upon income. This is borne by the inhabitants without any grumbling, although it is, as will be observed, three times as heavy as the taxation in force in the rural parts of the district.</p>
             <p>There can be no question that a universal income-tax, which embraces every income and varies with the size of the family, is the ideal form of taxation for any country. It has two supreme fiscal merits in that it is certain in its demand and in its yield and that it keeps pace with every change in the value of money. When prices are rising, its yield automatically increases, thus avoiding the necessity of disturbing the peace by changes in the method or the rate of existing taxation. It has also one great political merit in that it exhibits the taxable capacity of the country in the most accurate and unmistakable way. It reveals the national income and converts a calculation of the burden of taxation into a simple sum in proportion. In a country like India which is ruled by an alien <pb xml:id="page-141" n="137" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n140_w1400.jpg"/> government, whose fiscal policy dare not admit an error and whose every action is scrutinized by cold and critical eyes, these merits have an altogether exceptional value. The most pressing need of Indian administration in these days is accurate economic information in such a form that while it will enable all measures to be framed on a basis of ascertained fact, it will also be available to rob the critic of his sentimental stock-in-trade. Such information is best supplied by the univeral income-tax. To establish a universal income-tax is an undertaking from which the strongest governments have quailed. The Bengal administrator is happy in that it is already in existence, waiting only for development and modification to become an ideal fiscal instrument.</p>
             <p>The collection of the economic information of which these pages attempt to give an analysis was not, however, undertaken for the purpose of advancing theory or suggesting reform. It was an attempt to tabulate the economic resources of the district. It may be as well to conclude with a brief summary of the broad results. If the statistics are trustworthy, the average income per head in the district of Faridpur is 52 rupees, the average debt 11 rupees and the average taxation 2¾ rupees. As the population of the district was 2,122,000 at the census of 1911, the total income of the inhabitants of the district would be 11 and their total debt 2⅓ crores of rupees.</p>
@@ -492,11 +495,11 @@ Taxation</hi> . . . . . . . 113</p>
         </div>
         <div type="notes">
     <list type="footnotes">
-      <item><note xml:id="sec-07-fn-001" place="foot" n="1" target="#ref-sec-07-fn-001">In our investigations members of the Subordinate Executive Service and Settlement Kanungos were employed.</note></item>
+      <item><note xml:id="sec-08-fn-001" place="foot" n="1" target="#ref-sec-08-fn-001">In our investigations members of the Subordinate Executive Service and Settlement Kanungos were employed.</note></item>
     </list>
   </div>
       </div>
-      <div xml:id="sec-08" type="chapter" n="08-abstract-of-the-rules-and-instructions-in-accordance-with-whi">
+      <div xml:id="sec-09" type="chapter" n="09-abstract-of-the-rules-and-instructions-in-accordance-with-whi">
         <head>Abstract of the Rules and Instructions in accordance with which the economic information was gathered, recorded and tabulated</head>
         <pb xml:id="page-142" n="138" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n141_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -650,7 +653,7 @@ Taxation</hi> . . . . . . . 113</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-09" type="chapter" n="09-ii-instructions-to-officers">
+      <div xml:id="sec-10" type="chapter" n="10-ii-instructions-to-officers">
         <head>II. Instructions to Officers</head>
         <div type="subsection" n="h1">
           <head><hi rend="smallcaps">II. Instructions Issued to Officers</hi></head>
@@ -673,7 +676,7 @@ Taxation</hi> . . . . . . . 113</p>
           <p>This is the only scientific method for translating fact into figures in the columns of the Economic Cadastres. It behoves the Kanungo to read, mark, learn and inwardly digest it. Above all, let there be no stupidities such as a classification of 'comfort' for a family of six and a cash income insufficient for 'starvation', or an entry of the purchase of 40 maunds of rice for a single man's consumption. Where a precarious existence is eked out by begging, the income will not reach the 'starvation' standard. In such cases note 'also begs' in the remarks column. In every other case the income shown must at least equal the 'starvation' standard. It is a fallacy to suppose that a man whose available income is not sufficient to keep him from starvation can support himself by borrowing. Moneylenders are not by nature philanthropists and will never lend more than the value of the security. A starving family's security is not worth much. Doubtless in some cases where the available income appears short, a suspicion may cross the Kanungo's mind that this income is supplemented by theft. There is, however, no column for theft in the Cadastres.</p>
         </div>
       </div>
-      <div xml:id="sec-10" type="chapter" n="10-iii-tabulation">
+      <div xml:id="sec-11" type="chapter" n="11-iii-tabulation">
         <head>III. Tabulation</head>
         <div type="subsection" n="h1">
           <head>III. TABULATION</head>
@@ -685,7 +688,7 @@ Taxation</hi> . . . . . . . 113</p>
           <p>The rate of valuation was adopted after very extensive enquiries. It was the one arbitrary step in the calculations ; but its general accuracy is shown by the fact that the per head income of non-cultivators in the four different classes, which included no valuation and was exclusively based upon the figures of income supplied, turned out to be approximately the same as the per head income of cultivators of the same classes, calculated by aid of the valuation, while the total annual value of the agricultural produce of the district agreed sufficiently well with the total incomes of all agriculturalists as thus calculated to show that the rate of the valuation must have been essentially correct.</p>
         </div>
       </div>
-      <div xml:id="sec-11" type="chapter" n="11-table-i-population-which-came-under-review">
+      <div xml:id="sec-12" type="chapter" n="12-table-i-population-which-came-under-review">
         <head>Table I. Population which came under review</head>
         <pb xml:id="page-154" n="150" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n153_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -717,11 +720,11 @@ Taxation</hi> . . . . . . . 113</p>
         </div>
         <div type="notes">
     <list type="footnotes">
-      <item><note xml:id="sec-11-fn-001" place="foot" n="Note"><hi rend="smallcaps">Note.</hi>—Some commentary on these figures and a comparison with the Census (1911) figures will be found on pp. 78 and 79. They should not be studied without reference to the remarks there made.</note></item>
+      <item><note xml:id="sec-12-fn-001" place="foot" n="Note"><hi rend="smallcaps">Note.</hi>—Some commentary on these figures and a comparison with the Census (1911) figures will be found on pp. 78 and 79. They should not be studied without reference to the remarks there made.</note></item>
     </list>
   </div>
       </div>
-      <div xml:id="sec-12" type="chapter" n="12-table-ii-a-classification-of-population-by-income-and-economi">
+      <div xml:id="sec-13" type="chapter" n="13-table-ii-a-classification-of-population-by-income-and-economi">
         <head>Table II. (a) Classification of Population by Income and Economic Condition</head>
         <pb xml:id="page-155" n="151" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n154_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -770,7 +773,7 @@ Taxation</hi> . . . . . . . 113</p>
     </table>
         </div>
       </div>
-      <div xml:id="sec-13" type="chapter" n="13-b-percentages-of-classification">
+      <div xml:id="sec-14" type="chapter" n="14-b-percentages-of-classification">
         <head>(b) Percentages of Classification</head>
         <div type="subsection" n="h1">
           <head>(<hi rend="italic">b</hi>) PERCENTAGES OF CLASSIFICATION</head>
@@ -785,7 +788,7 @@ Taxation</hi> . . . . . . . 113</p>
     </table>
         </div>
       </div>
-      <div xml:id="sec-14" type="chapter" n="14-c-average-annual-income-of-different-classes">
+      <div xml:id="sec-15" type="chapter" n="15-c-average-annual-income-of-different-classes">
         <head>(c) Average Annual Income of Different Classes</head>
         <pb xml:id="page-158" n="154" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n157_w1400.jpg"/>
         <table xml:id="tbl-016" rows="9" cols="16">
@@ -802,7 +805,7 @@ Taxation</hi> . . . . . . . 113</p>
   </table>
         <p>Taking the average income of a family as 100, the income of the average family in comfort (or half the population) would be represented by 131, of the average family ‘below comfort’ by 83, of the average family ‘above want’ by 59, and of the average family in want by 40: the average income of a cultivating family would be represented by 99 (Hindus 101 : Muhammadans 97) and of a non-cultivating family by 104 (Hindus 111 : Muhammadans 80).</p>
       </div>
-      <div xml:id="sec-15" type="chapter" n="15-table-iii-debt">
+      <div xml:id="sec-16" type="chapter" n="16-table-iii-debt">
         <head>Table III. Debt</head>
         <pb xml:id="page-159" n="155" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n158_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -838,7 +841,7 @@ Taxation</hi> . . . . . . . 113</p>
           </div>
         </div>
       </div>
-      <div xml:id="sec-16" type="chapter" n="16-b-proportion-of-families-indebted">
+      <div xml:id="sec-17" type="chapter" n="17-b-proportion-of-families-indebted">
         <head>(b) Proportion of Families Indebted</head>
         <pb xml:id="page-160" n="156" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n159_w1400.jpg"/>
         <table xml:id="tbl-018" rows="8" cols="11">
@@ -854,7 +857,7 @@ Taxation</hi> . . . . . . . 113</p>
   </table>
         <p>Of others (chiefly Christians) 70 per cent. of families were free from debt and only 30 per cent. indebted.</p>
       </div>
-      <div xml:id="sec-17" type="chapter" n="17-c-pitch-of-indebtedness">
+      <div xml:id="sec-18" type="chapter" n="18-c-pitch-of-indebtedness">
         <head>(c) Pitch of Indebtedness</head>
         <pb xml:id="page-161" n="157" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n160_w1400.jpg"/>
         <div type="subsection" n="h1">
@@ -872,7 +875,7 @@ Taxation</hi> . . . . . . . 113</p>
     </table>
         </div>
       </div>
-      <div xml:id="sec-18" type="chapter" n="18-table-iv-village-taxation">
+      <div xml:id="sec-19" type="chapter" n="19-table-iv-village-taxation">
         <head>Table IV. Village Taxation</head>
         <pb xml:id="page-162" n="158" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n161_w1400.jpg"/>
         <table xml:id="tbl-020" rows="15" cols="7">

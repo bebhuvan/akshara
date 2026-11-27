@@ -1,6 +1,6 @@
 ---
 title: "The Register of Letters &c. of the Governour and Company of Merchants of London Trading into the East Indies, 1600–1619"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "The First Letter Book of the East India Company"
 author: "George Birdwood, William Foster"
 author_slug: "george-birdwood"

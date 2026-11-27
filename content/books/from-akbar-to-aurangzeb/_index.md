@@ -1,6 +1,6 @@
 ---
 title: "From Akbar to Aurangzeb"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "A Study in Indian Economic History"
 author: "W. H. Moreland"
 author_slug: "william-harrison-moreland"

@@ -1,6 +1,6 @@
 ---
 title: "India: What Can It Teach Us?"
-date: "2026-11-25"
+date: "2026-11-27"
 subtitle: "A Course of Lectures Delivered Before the University of Cambridge. New Edition"
 author: "F. Max Müller"
 author_slug: "f-max-muller"

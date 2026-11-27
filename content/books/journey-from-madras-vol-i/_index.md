@@ -1,6 +1,6 @@
 ---
 title: "A Journey from Madras through the Countries of Mysore, Canara, and Malabar"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Volume I — Agriculture, Arts, Commerce, Tenures, and Coinage"
 author: "Francis Buchanan"
 author_slug: "francis-buchanan"

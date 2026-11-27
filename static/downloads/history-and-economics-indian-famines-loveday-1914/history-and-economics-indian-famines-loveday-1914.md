@@ -1361,7 +1361,7 @@ BENGAL SELECT PAPERS AND APPENDICES I. AND II., VOL. V., 1896–97.
 
 ### Notes
 
-[^sec-12-fn-001]: (Note) *Note.*—Geddes is quoted as G. in footnotes ; Etheridge, as Eth.
+- **(Note)** *Note.*—Geddes is quoted as G. in footnotes ; Etheridge, as Eth.
 
 
 ## INDEX

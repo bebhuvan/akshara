@@ -7939,7 +7939,7 @@ Here, again, our gracious Empress in the year of her auspicious Jubilee once mor
 
 [^sec-29-fn-001]: (*) Compare the remarks on this essay in the *Pioneer* of 21st September 1887, under the heading "Natives and the Noble Clause", wherein even that champion of Indian Bureaucracy has been obliged to admit the essayist's sincerity of motive, and the decided hit made by him in the publication of this essay.
 [^sec-29-fn-002]: (*) Whitaker's Almanac.
-[^sec-29-fn-003]: (Note) <span class="sc">N.B.</span>—Some of the above figures are worked out of Whitaker’s Almanac, 1886.
+- **(Note)** <span class="sc">N.B.</span>—Some of the above figures are worked out of Whitaker’s Almanac, 1886.
 [^sec-29-fn-004]: (*) "Eastern India, 1838," vol. i., p. xii.
 
 

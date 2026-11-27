@@ -1837,7 +1837,7 @@ The plan which I have concerted with Colonel Close, for my future investigations
 
 ### Notes
 
-[^sec-05-fn-001]: (Note) N. B. *The following Fractions of the Rupee were coined by Tippoo Sultan ; ¼ or Bacri, ⅛ or Jasri, <sup>1</sup>/<sub>16</sub> or Casmi, and <sup>1</sup>/<sub>32</sub> or Kizri.*
+- **(Note)** N. B. *The following Fractions of the Rupee were coined by Tippoo Sultan ; ¼ or Bacri, ⅛ or Jasri, <sup>1</sup>/<sub>16</sub> or Casmi, and <sup>1</sup>/<sub>32</sub> or Kizri.*
 
 
 ## CHAPTER III: From Seringapatam to Bangalore

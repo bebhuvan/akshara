@@ -1,6 +1,6 @@
 ---
 title: "Poverty and Un-British Rule in India"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: ""
 author: "Dadabhai Naoroji"
 author_slug: "dadabhai-naoroji"

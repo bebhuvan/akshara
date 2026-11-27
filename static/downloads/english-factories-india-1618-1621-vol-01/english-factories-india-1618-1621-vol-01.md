@@ -3538,7 +3538,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 [^sec-07-fn-192]: (4) Apparently German, &c., dollars are meant. Often the term was used as synonymous with 'piece of eight'.
 [^sec-07-fn-193]: (5) 'Haberdin' (French *habordéan*) was the old name for salt cod. By 'Newland fish' Wheatley means the salted cod of the Newfoundland fisheries, sometimes called 'bacalow' (Port. *bacalhão*).
 [^sec-07-fn-194]: (2) 'This courte being made acquainted that wormwood beere is very excelent, wholsom, and soveraigne for preservacion of mens healthes at sea, and yett no charge (or very little) unto the Companie, they appoynted Mr. Mountney to take care that two hogsheads for each shippe be prepared and put into them for their uses' (*Court Minutes*, Nov. 20, 1618).
-[^sec-07-fn-195]: (2) [Unlinked note, p. 338] Some kind of silk cloth; see *Hobson-Jobson*, s. v. 'soosie'.
+- (2) **[Unlinked note, p. 338]** Some kind of silk cloth; see *Hobson-Jobson*, s. v. 'soosie'.
 [^sec-07-fn-196]: (1) Hind. *khazānchī*, 'treasurer,' 'cashier.'
 [^sec-07-fn-197]: (1) i. e. ‘gunny-ed’ (covered with gunny).
 [^sec-07-fn-198]: (2) Specimens of the Company’s bale-mark are figured in Sir George Birdwood’s *Report on the Old Records of the India Office*, pp. 72, 73.

@@ -593,7 +593,7 @@ therefore to inquire minutely if this is not partly due to undue and excessive e
 ### Notes
 
 [^sec-08-fn-001]: (1) See Appendix I.
-[^sec-08-fn-002]: (Note) *Administration Report of the Punjab*, 1898-99, *pp.* 23, *and Statistical Table XV.*
+- **(Note)** *Administration Report of the Punjab*, 1898-99, *pp.* 23, *and Statistical Table XV.*
 [^sec-08-fn-003]: (1) The maximum of one-fifth the produce should not be exceeded in the case of any single holding. The average land revenue for a whole district, including wet and dry lands, should be limited to one-tenth the produce, as in Northern India.
 
 
@@ -944,7 +944,7 @@ Cold comfort this for people who are brought as low as the peasants of France be
 
 ### Notes
 
-[^sec-11-fn-001]: (Note) *Report of the Famine Commission of* 1878, *Appendix III.*, p. 394.
+- **(Note)** *Report of the Famine Commission of* 1878, *Appendix III.*, p. 394.
 [^sec-11-fn-002]: (1) The rate is much higher now. For the proportion in the settled districts of Madras is between twelve and thirty-one per cent. ; in Bombay the assessment per acre of cultivated land is higher than in Madras ; and the proportion of produce taken as revenue must therefore [p. 109] be higher. Recent calculations made by myself, and by other observers who have made inquiries on the spot, show that the proportion of produce taken as revenue in Bombay is generally between twenty and thirty-three per cent. of the gross produce of fields. The figures given by one such observer, Mr Vaughan Nash, who made inquiries in the present year (1900), will be found in the next page. Figures from official crop experiment reports will be found in p. 323.
 
 
@@ -1858,7 +1858,7 @@ The land revenue *collections* for Bengal, N.W. Provinces and Oudh and the Punja
 ### Notes
 
 [^sec-30-fn-001]: (1) There are misprints in the figures given for Lahore and Multan in Jarrett's translation by the omission of a zero in each case. These have been corrected in the figures given by me above.
-[^sec-30-fn-002]: (Note) *Statistical Abstract relating to British India*, 1888-89 *to* 1897-98, *p.* 98.
+- **(Note)** *Statistical Abstract relating to British India*, 1888-89 *to* 1897-98, *p.* 98.
 
 
 ## Appendix U: Royal Commission on Indian Expenditure: Evidence of Lords Northbrook, Ripon, Lansdowne, Wolseley and Roberts, Sir H. B
@@ -2347,8 +2347,8 @@ RETURN of the Number of all Persons who received from the <span class="sc">Reven
 
 ### Notes
 
-[^sec-32-fn-001]: (Note) *Note.*—The term “Natives of India” include only persons of pure Asiatic blood, and not “Statutory Natives o he sense that they are domiciled there, and that India is their home. [p. 287] '; but most of the Eurasians, and some of the Europeans, included in the Return are Natives of India in
-[^sec-32-fn-002]: (Note) *Note.*—The percentage of Europeans drawing p [p. 291] in India is comparatively insignificant.
+- **(Note)** *Note.*—The term “Natives of India” include only persons of pure Asiatic blood, and not “Statutory Natives o he sense that they are domiciled there, and that India is their home. [p. 287] '; but most of the Eurasians, and some of the Europeans, included in the Return are Natives of India in
+- **(Note)** *Note.*—The percentage of Europeans drawing p [p. 291] in India is comparatively insignificant.
 [^sec-32-fn-003]: (*) Amount drawn by members of the Indian Civil Service, who p [p. 291] portion of their pensions by deduction from their salaries.
 [^sec-32-fn-004]: (*) Salaries drawn in 25 cases in addition to the officers' pay or pension and not included in the total of the column headed “Salaries.”
 
@@ -2376,7 +2376,7 @@ RETURN of the Number of all Persons who received from the <span class="sc">Reven
 
 ### Notes
 
-[^sec-33-fn-001]: (Note) *Vide Report of Royal Commission on Indian Expenditure*, vol. ii. p. 305.
+- **(Note)** *Vide Report of Royal Commission on Indian Expenditure*, vol. ii. p. 305.
 
 
 ## Appendix X: Letter on Land Assessments in India

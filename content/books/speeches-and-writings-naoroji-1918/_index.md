@@ -1,6 +1,6 @@
 ---
 title: "Speeches and Writings of Dadabhai Naoroji"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Second Edition — Congress Presidential Addresses, House of Commons Speeches, Indian Finance (1871), Welby Commission, and Currency Statements"
 author: "Dadabhai Naoroji"
 author_slug: "dadabhai-naoroji"

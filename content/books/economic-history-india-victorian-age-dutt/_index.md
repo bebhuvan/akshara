@@ -1,6 +1,6 @@
 ---
 title: "The Economic History of India in the Victorian Age"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "From the Accession of Queen Victoria in 1837 to the Commencement of the Twentieth Century"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"

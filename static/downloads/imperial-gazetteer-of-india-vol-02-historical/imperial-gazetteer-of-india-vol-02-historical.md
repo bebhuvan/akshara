@@ -5894,7 +5894,7 @@ W. IRVINE.
 
 ### Notes
 
-[^sec-14-fn-001]: (Note) <span class="sc">Note.</span>—In all the tables only those names are shown which affect the line of succession.
+- **(Note)** <span class="sc">Note.</span>—In all the tables only those names are shown which affect the line of succession.
 
 
 ## CHAPTER XI — Vernacular Literature

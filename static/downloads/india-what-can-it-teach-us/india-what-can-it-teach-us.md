@@ -637,12 +637,12 @@ No doubt, there is moral depravity in India, and where is there no moral depravi
 
 ### Notes
 
-[^sec-05-fn-001]: (1) Mill’s History of British India, ed. Wilson, vol. i. p. 375.
+- **(1)** Mill’s History of British India, ed. Wilson, vol. i. p. 375.
 [^sec-05-fn-002]: (1) Mill’s History, ed. Wilson, vol. i. p. 368.
 [^sec-05-fn-003]: (1) Mill’s History, ed. Wilson, vol. i. p. 325.
-[^sec-05-fn-004]: (2) L. c. vol. i. p. 329.
+- **(2)** L. c. vol. i. p. 329.
 [^sec-05-fn-005]: (3) P. 217.
-[^sec-05-fn-006]: (4) Mill’s History, vol. i. p. 329.
+- **(4)** Mill’s History, vol. i. p. 329.
 [^sec-05-fn-007]: (1) Manu, VIII. 43, says : ‘Neither a King himself nor his officers must ever promote litigation ; nor ever neglect a lawsuit instituted by others.’
 [^sec-05-fn-008]: (2) Mill’s History, vol. i. p. 327.
 [^sec-05-fn-009]: (3) L. c. p. 368.
@@ -677,8 +677,8 @@ No doubt, there is moral depravity in India, and where is there no moral depravi
 [^sec-05-fn-038]: (1) Samuel Johnson, l. c. p. 293.
 [^sec-05-fn-039]: (1) See History of India, pp. 375–381.
 [^sec-05-fn-040]: (2) L. c. p. 215.
-[^sec-05-fn-041]: (2) [Unlinked note, p. 61] L. c. p. 218.
-[^sec-05-fn-042]: (4) Mill’s History of India, ed. Wilson, vol. i. p. 370.
+- (2) **[Unlinked note, p. 61]** L. c. p. 218.
+- **(4)** Mill’s History of India, ed. Wilson, vol. i. p. 370.
 [^sec-05-fn-043]: (1) Mill’s History, vol. i. p. 371.
 [^sec-05-fn-044]: (2) Sir Thomas Munro estimated the children educated at public schools in the Madras presidency as less than one in three. But low as it was, it was, as he justly remarked, a higher rate than existed till very lately in most countries of Europe. Elphinstone, Hist. of India, p. 205. In Bengal there existed no less than 80,000 native schools, though, doubtless, for the most part, of a poor quality. According to a Government Report of 1835, there was a village school for every 400 persons. Missionary Intelligencer, IX. 183–193. Ludlow (British India, I. 62) writes : ‘In every Hindu village which has retained its old form I am assured that the children generally are able to read, write, and cipher ; but where we have swept away the village system, as in Bengal, there the village school has also disappeared.’
 [^sec-05-fn-045]: (1) Rig-veda I. 87, 4 ; 145, 5 ; 174, 1 ; V. 23, 2.
@@ -690,11 +690,11 @@ No doubt, there is moral depravity in India, and where is there no moral depravi
 [^sec-05-fn-051]: (2) Or it may mean, ‘Wherever I may have deceived, or sworn false.’
 [^sec-05-fn-052]: (3) *S*atapatha Brâhma*n*a II. 2, 2, 19.
 [^sec-05-fn-053]: (4) Cf. Muir, Metrical Translations, p. 268.
-[^sec-05-fn-054]: (5) Sat. Br. III. 1, 2, 10.
-[^sec-05-fn-055]: (6) Taitt. Âra*n*yaka X. 9.
+- **(5)** Sat. Br. III. 1, 2, 10.
+- **(6)** Taitt. Âra*n*yaka X. 9.
 [^sec-05-fn-056]: (1) Muir, Metrical Translations, p. 218.
 [^sec-05-fn-057]: (1) Holtzmann, Das alte indische Epos, p. 21, note 83.
-[^sec-05-fn-058]: (2) V. 24.
+- **(2)** V. 24.
 [^sec-05-fn-059]: (3) See Note D.
 [^sec-05-fn-060]: (4) I. 3412 ; III. 13844 ; VII. 8742 ; VIII. 3436, 3464.
 [^sec-05-fn-061]: (1) Mahâbhârata VIII. 3448.
@@ -976,7 +976,7 @@ It is curious to observe the reluctance with which these facts are accepted, par
 [^sec-06-fn-022]: (*) L. c. p. 290.
 [^sec-06-fn-023]: (†) Jolly, l. c. p. 322. He places Kâtyâyana and B*ri*haspati after Nârada, possibly Vyâsa and Hârîta also. See Stenzler, Z. d. D. M. G. ix. 664, and Führer, Lehre von den Schriften in B*ri*haspati’s Dharmasâstra, 1879 ; and B*ri*hatsa*m*hitâ, ed. Kern, pref. p. 43 ; Journal of the R. A. S. 1875, p. 106.
 [^sec-06-fn-024]: (1) During times of conquest and migration, such as are represented to us in the hymns of the Rig-veda, the system of castes, as it is described, for instance, in the Laws of Manu, would have been a simple impossibility. It is doubtful whether such a system was ever more than a social ideal, but even for such an ideal the [p. 96] materials would have been wanting during the period when the Âryas were first taking possession of the land of the Seven Rivers. On the other hand, even during that early period, there must have been a division of labour, and hence we expect to find and do find in the grâmas of the Five Nations, *warriors*, sometimes called nobles, leaders, kings ; *counsellors*, sometimes called priests, prophets, judges ; and *working men*, whether ploughers, or builders, or road-makers. These three divisions we can clearly perceive even in the early hymns of the Rig-veda.
-[^sec-06-fn-025]: (1) Boehtlingk, Sprüche, 5101.
+- **(1)** Boehtlingk, Sprüche, 5101.
 [^sec-06-fn-026]: (1) See Pseudocallisthenes IV. 12, p. 108.
 [^sec-06-fn-027]: (1) Mahâbh. XI. 121.
 [^sec-06-fn-028]: (2) Pañ*k*at. II. 127 (117).
@@ -1417,7 +1417,7 @@ I selected this hymn for two reasons. First, because it shows us the widest geog
 [^sec-08-fn-011]: (2) ‘Among not yet civilised races prayers are addressed to a god with a special object, and to that god who is supposed to be most powerful in a special domain. He becomes for the moment the highest god, to whom all others must give place. He may be invoked as the highest and the only god, without any slight being intended for the other gods.’ Zimmer, l. c. p. 175.
 [^sec-08-fn-012]: (1) ‘Es handelt sich hier nicht um amerikanische oder afrikanische Zersplitterung, sondern eine überraschende Gleichartigkeit dehnt sich durch die Weite und Breite des Stillen Oceans, und wenn wir Oceanien in der vollen Auffassung nehmen mit Einschluss Mikround Mela-nesiens (bis Malaya), selbst weiter. Es lässt sich sagen, dass ein einheitlicher Gedankenbau, in etwa 120 Längen und 70 Breitegraden, ein Viertel unsers Erdglobus überwölbt.’ Bastian, Die Heilige Sage der Polynesier, p. 57. Tylor, Primitive Culture, i. p. 290.
 [^sec-08-fn-013]: (2) Henry S. King & Co., London, 1876.
-[^sec-08-fn-014]: (3) P. 58.
+- **(3)** P. 58.
 [^sec-08-fn-015]: (1) There is a second version of the story even in the small island of Mangaia ; see Myths and Songs, p. 71.
 [^sec-08-fn-016]: (2) See before, p. 138.
 [^sec-08-fn-017]: (1) See Note I.
@@ -1431,14 +1431,14 @@ I selected this hymn for two reasons. First, because it shows us the widest geog
 [^sec-08-fn-025]: (2) Dionysius Halic. vol. v. p. 355; Muir, v. p. 27.
 [^sec-08-fn-026]: (1) Rig-veda I. 22, 15.
 [^sec-08-fn-027]: (2) See Science of Language, vol. ii. p. 537.
-[^sec-08-fn-028]: (1) Rig-veda I. 160, 4.
-[^sec-08-fn-029]: (1) Rig-veda IV. 56, 3.
+- **(1)** Rig-veda I. 160, 4.
+- **(1)** Rig-veda IV. 56, 3.
 [^sec-08-fn-030]: (2) L. c. VIII. 6, 5.
 [^sec-08-fn-031]: (3) L. c. III. 30, 5.
 [^sec-08-fn-032]: (4) L. c. III. 32, 8.
 [^sec-08-fn-033]: (5) L. c. III. 34, 8.
 [^sec-08-fn-034]: (6) L. c. VIII. 36, 4.
-[^sec-08-fn-035]: (7) L. c. X. 54, 3.
+- **(7)** L. c. X. 54, 3.
 [^sec-08-fn-036]: (8) Cf. IV. 17, 4, where Dyaus is the father of Indra; see however Muir, iv. 31, note.
 [^sec-08-fn-037]: (9) Rig-veda VI. 30, 1.
 [^sec-08-fn-038]: (1) Rig-veda I. 131, 1.
@@ -1670,7 +1670,7 @@ Only let us be careful in the use of that phrase ‘it is a mere name.’ No nam
 [^sec-09-fn-008]: (2) Rig-veda IV. 30, 3 ; X. 138, 3.
 [^sec-09-fn-009]: (3) L. c. VIII. 37, 3.
 [^sec-09-fn-010]: (4) L. c. VIII. 78, 5.
-[^sec-09-fn-011]: (1) Muir, iv. p. 23.
+- **(1)** Muir, iv. p. 23.
 [^sec-09-fn-012]: (2) Ibid. p. 142. An excellent paper on Par*g*anya was published by Bühler in 1862, Orient und Occident, vol. i. p. 214.
 [^sec-09-fn-013]: (1) Rig-veda VII. 101, 6.
 [^sec-09-fn-014]: (1) Rig-veda V. 63, 3–6.
@@ -1688,13 +1688,13 @@ Only let us be careful in the use of that phrase ‘it is a mere name.’ No nam
 [^sec-09-fn-026]: (1) In order to identify Perkúnas with par*g*anya, we must go another step backward, and look upon *g* or g, in the root parg, as a weakening of an original k in park. This, however, is a frequent phonetic process. See Bühler, in Benfey’s Orient und Occident, ii. p. 717.
 [^sec-09-fn-027]: (2) Lithuanian perkun-kulke, thunder-bolt, perkuno gaisis, storm. See Voelkel, Die lettischen Sprachreste, 1879, p. 23.
 [^sec-09-fn-028]: (1) ‘Perkuno, war der dritte Abgot und man in anruffte umbs gewitters willen, domit sie Regen hatten und schon wetter zu seiner Zeit, und in der Donner und blix kein schaden thett.’ Cf. ‘Gottesidee bei den alten Preussen,’ Berlin, 1870, p. 23. The triad of the gods is called Triburti, Tryboze ; l. c. p. 29.
-[^sec-09-fn-029]: (2) Grimm, Teutonic Mythology, p. 175 ; and Lasitzki (Lasicius) Joannes, De Russorum, Moscovitarum et Tartarorum religione, sacrificiis, nuptiarum et funerum ritu, Spiræ Nemetum, 1582 ; idem, De Diis Samagitarum.
+- **(2)** Grimm, Teutonic Mythology, p. 175 ; and Lasitzki (Lasicius) Joannes, De Russorum, Moscovitarum et Tartarorum religione, sacrificiis, nuptiarum et funerum ritu, Spiræ Nemetum, 1582 ; idem, De Diis Samagitarum.
 [^sec-09-fn-030]: (3) Grimm, l. c. p. 176, quoting from Joh. Gutslaff, Kurzer Bericht und Unterricht von der falsch heilig genandten bäche in Liefland Wöhhanda, Dorpat, 1644, pp. 362–364.
-[^sec-09-fn-031]: (1) In modern Esthonian Pitkne, the Finnish Pitcainen (?).
+- **(1)** In modern Esthonian Pitkne, the Finnish Pitcainen (?).
 [^sec-09-fn-032]: (2) On foreign influences in Esthonian stories, see Ehstnische Märchen, von T. Kreutzwald, 1869, Vorwort (by Schiefner), p. iv.
 [^sec-09-fn-033]: (1) Note H.
-[^sec-09-fn-034]: (1) Rig·veda II. 28.
-[^sec-09-fn-035]: (1) Atharva-veda IV. 16.
+- **(1)** Rig·veda II. 28.
+- **(1)** Atharva-veda IV. 16.
 [^sec-09-fn-036]: (1) Psalm cxxxix. 1, 2, ‘O Lord, thou hast searched me and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.’
 [^sec-09-fn-037]: (2) Psalm cxxxix. 9, ‘If I take the wings of the morning, and dwell in the uttermost parts of the sea ; even there shall thy hand lead me, and thy right hand shall hold me.’
 [^sec-09-fn-038]: (1) Rig-veda III. 9, 9; X. 52, 6.
@@ -2112,7 +2112,7 @@ I do not mean to say that everybody who wishes to know how the human race came t
 [^sec-10-fn-025]: (1) Rig-veda IX. 97, 39.
 [^sec-10-fn-026]: (2) Ibid. X. 14, 6.
 [^sec-10-fn-027]: (3) Ibid. X. 16, 10.
-[^sec-10-fn-028]: (4) A translation considerably differing from my own is given by Sarvâdhikâri in his Tagore Lectures for 1880, p. 34.
+- **(4)** A translation considerably differing from my own is given by Sarvâdhikâri in his Tagore Lectures for 1880, p. 34.
 [^sec-10-fn-029]: (1) Cf. Max Müller, Rig-veda, transl. vol. i. p. 24.
 [^sec-10-fn-030]: (1) Note I.
 [^sec-10-fn-031]: (1) *S*atapatha Brâhma*n*a XI. 5, 6, 1; Taitt. Âr. II. 11, 10; Âsvalâyana G*ri*hya-sûtras III. 1, 1; Pâraskara G*ri*hya-sûtras II. 9, 1; Âpastamba, Dharma-sûtras, translated by Bühler, pp. 47 seq.
@@ -2127,12 +2127,12 @@ I do not mean to say that everybody who wishes to know how the human race came t
 [^sec-10-fn-040]: (1) Über Todtenbestattung und Opfergebräuche im Veda, in Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. ix, 1856.
 [^sec-10-fn-041]: (1) Âsvalâyana Gr*ih*ya-sûtras IV. 4, 10.
 [^sec-10-fn-042]: (2) Manu V. 64–65.
-[^sec-10-fn-043]: (3) Bühler, Âpastamba, Sacred Books of the East, vol. ii. p. 138 ; also Srâddhakalpa, p. 890. Though the Srâddha is prescribed in the Gobhilîya Gr*ih*ya-sûtras, IV. 4, 2–3, it is not described there, but in a separate treatise, the Srâddhakalpa.
+- **(3)** Bühler, Âpastamba, Sacred Books of the East, vol. ii. p. 138 ; also Srâddhakalpa, p. 890. Though the Srâddha is prescribed in the Gobhilîya Gr*ih*ya-sûtras, IV. 4, 2–3, it is not described there, but in a separate treatise, the Srâddhakalpa.
 [^sec-10-fn-044]: (1) As meaning the food, *s*râddha occurs in *s*râddhabhu*g* and similar words. As meaning the sacrificial act, it is explained, yatraita*k kh*raddhayâ dîyate tad eva karma *s*râddha*s*abdâbhidheyam. Pretam pit*rîm*s *k*a nirdi*s*ya bhogyam yat priyam âtmana*h s*raddhayâ dîyate yatra ta*k kh*râddham parikîrtitam. Gobhilîya G*ri*hya-sûtras, p. 892. We also read *s*raddhânvita*h s*râddham kurvîta, ‘let a man perform the *s*râddha with faith ;’ Gobhilîya G*ri*hya-sûtras, p. 1053.
 [^sec-10-fn-045]: (2) Manu III. 82.
 [^sec-10-fn-046]: (3) Pit*rî*n uddi*s*ya yad dîyate brâhma*n*ebhya*h s*raddhayâ ta*k kh*râddham.
 [^sec-10-fn-047]: (1) Âpastamba II. 16, 3, Brâhma*n*âs tv âhavanîyârthe.
-[^sec-10-fn-048]: (1) L. c. p. 142.
+- **(1)** L. c. p. 142.
 [^sec-10-fn-049]: (2) Manu III. 138, 140.
 [^sec-10-fn-050]: (3) Âsv. G*ri*hya-sûtras IV. 5, 8.
 [^sec-10-fn-051]: (4) It is described as a vik*ri*ti of the Pârvana-srâddha in Gobhilîya G*ri*hya-sûtras, p. 1011.
@@ -2159,7 +2159,7 @@ I do not mean to say that everybody who wishes to know how the human race came t
 [^sec-10-fn-072]: (1) In Chinese we find that the same three aspects of religion and their intimate relationship were recognised, as, for instance, when Confucius says to the Prince of Sung : ‘Honour the sky (worship of Devas), reverence the Manes (worship of Pit*ri*s); if you do this, sun and moon will keep their appointed time (*R*ita).’ Happel, Altchinesische Reichsreligion, p. 11.
 [^sec-10-fn-073]: (1) Rig-veda I. 164, 46 ; Hibbert Lectures, p. 311.
 [^sec-10-fn-074]: (2) Rig-veda X. 114, 5 ; Hibbert Lectures, p. 313.
-[^sec-10-fn-075]: (3) Rig-veda I. 164, 4.
+- **(3)** Rig-veda I. 164, 4.
 [^sec-10-fn-076]: (1) *Τὸ δὲ φρόνημα τοῦ πνεύματος ζωὴ καὶ εἰρήνη.* See also Ruskin, Sesame, p. 63.
 [^sec-10-fn-077]: (1) Major Jacob, Manual of Hindu Pantheism, Preface.
 [^sec-10-fn-078]: (1) Life and Letters of Gokulaji Sampattirâma Zâlâ and his views of the Vedânta, by Manassukharâma Sûryarâma Tripâ*th*î. Bombay, 1881. As a young man Gokulaji, the son of a good family, learnt Persian and Sanskrit. His chief interest in life, in the midst of a most successful political career, was the ‘Vedânta.’ A little insight, we are told, into this knowledge turned his heart to higher objects, promising him freedom from grief, and blessedness, [p. 251] the highest aim of all. This was the turning-point of his inner life. When the celebrated Vedânti anchorite, Râma Bâvâ, visited Junâgadh, Gokulaji became his pupil. When another anchorite, Paramahansa Sa*kk*idânanda, passed through Junâgadh on a pilgrimage to Girnar, Gokulaji was regularly initiated in the secrets of the Vedânta. He soon became highly proficient in it, and through the whole course of his life, whether in power or in disgrace, his belief in the doctrines of the Vedânta supported him, and made him, in the opinion of English statesmen, the model of what a native statesman ought to be.
@@ -2547,7 +2547,7 @@ Page 153. The following passage from the Aitareya-Âra*n*-yaka III. 1, 2, 2, sho
 
 ### Notes
 
-[^sec-17-fn-001]: (1) See Colebrooke, Miscellaneous Essays, i. p. 75 ; Muir, Original Sanskrit Texts, i. p. 52.
+- **(1)** See Colebrooke, Miscellaneous Essays, i. p. 75 ; Muir, Original Sanskrit Texts, i. p. 52.
 
 
 ## Note H (p. 194). On Parganya in German
@@ -2674,7 +2674,7 @@ It should be remarked, however, as Colebrooke pointed out, that different author
 
 ### Notes
 
-[^sec-20-fn-001]: (1) See Colebrooke, Life and Essays, vol. ii. p. 196; Wilson, Vish*n*u-purâ*n*a, p. 314.
+- **(1)** See Colebrooke, Life and Essays, vol. ii. p. 196; Wilson, Vish*n*u-purâ*n*a, p. 314.
 [^sec-20-fn-002]: (2) Vish*n*u-purâ*n*a, p. 326.
 [^sec-20-fn-003]: (3) See Yâ*gñ*avalkya I. 252–253.
 

@@ -1,6 +1,6 @@
 ---
 title: "Essays, Speeches, Addresses and Writings (on Indian Politics) of the Hon'ble Dadabhai Naoroji"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Edited by Chunilal Lallubhai Parekh — Including The Wants and Means of India, On the Commerce of India, Financial Administration of India, Indian Exchanges, Bi-Metallism, and Baroda Administration"
 author: "Dadabhai Naoroji, Chunilal Lallubhai Parekh"
 author_slug: "dadabhai-naoroji"

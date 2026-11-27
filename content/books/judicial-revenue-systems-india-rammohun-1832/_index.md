@@ -1,6 +1,6 @@
 ---
 title: "Exposition of the Practical Operation of the Judicial and Revenue Systems of India"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "And of the General Character and Condition of Its Native Inhabitants, as Submitted in Evidence to the Authorities in England"
 author: "Rammohun Roy"
 author_slug: "raja-rammohun-roy"

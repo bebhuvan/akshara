@@ -1,6 +1,6 @@
 ---
 title: "The People of India"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: "Second Edition, Edited by W. Crooke, B.A."
 author: "Sir Herbert Hope Risley"
 author_slug: "herbert-hope-risley"

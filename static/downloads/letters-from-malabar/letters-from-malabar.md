@@ -1079,7 +1079,7 @@ This is all that is worth noting about the Topasses; and I hope this description
 
 ### Notes
 
-[^sec-20-fn-001]: (Note) <span class="sc">Note.</span>—The East Indian community which is here alluded to has undoubtedly undergone a great change since the days of our Author, consisting of numerous families in all parts of the country most of whom are of high respectability and usefulness. The term Topass has fallen into disuse, but it is singular enough that to the present day, the Europeans in India invariably call ‘boy’ whenever they require their servant, East Indian or Native. <span class="sc">H. D.</span>
+- **(Note)** <span class="sc">Note.</span>—The East Indian community which is here alluded to has undoubtedly undergone a great change since the days of our Author, consisting of numerous families in all parts of the country most of whom are of high respectability and usefulness. The term Topass has fallen into disuse, but it is singular enough that to the present day, the Europeans in India invariably call ‘boy’ whenever they require their servant, East Indian or Native. <span class="sc">H. D.</span>
 [^sec-20-fn-002]: (*) According to other accounts Tupasi is derived from the Sanscrit word *Duibhashi*. *Dui* signifies two, and *Bhashi* a man who speaks two languages; an interpreter. This name, indeed, may with propriety be given to the Tupasi; for besides their mother tongue, they speak some one of the European languages, either English, French, Dutch or Portuguese. At Cochin they are called *Gens de Chapeau*, because they wear a Topi or small hat; whereas the other Indians, not descended from Europeans, make use of the *Romali*, that is, a white turband of the finest muslin.—<span class="sc">Bartolomeo</span>.
 
 

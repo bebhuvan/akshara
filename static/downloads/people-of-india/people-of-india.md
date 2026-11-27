@@ -4424,9 +4424,9 @@ The Hindu gods have fled to Dwārka ; the Musalmān saints to Mecca ; under Brit
 
 ### Notes
 
-[^sec-17-fn-001]: (*) [Unlinked note, p. 387] Three cases without data have been omitted.
-[^sec-17-fn-002]: (*) [Unlinked note, p. 389] 80 Measurements availabl
-[^sec-17-fn-003]: (†) [Unlinked note, p. 389] Only 48 Measurements available.
+- (*) **[Unlinked note, p. 387]** Three cases without data have been omitted.
+- (*) **[Unlinked note, p. 389]** 80 Measurements availabl
+- (†) **[Unlinked note, p. 389]** Only 48 Measurements available.
 [^sec-17-fn-004]: (*) Mr. B. A [p. 397] Gupte, F.Z.S.
 [^sec-17-fn-005]: (*) T. H. Ho [p. 405] , A.R.C.S., F.G.S.
 [^sec-17-fn-006]: (*) Lt.- [p. 397] ol. Waddell.
@@ -6958,10 +6958,10 @@ The Doms are a semi-nomadic tribe found in Bihār and the adjoining districts of
 
 ### Notes
 
-[^sec-23-fn-001]: (Note) <span class="sc">Note.</span>—The use of Kiranti as a synonym for Limbu is not strictly correct. The Limbu tribe is only one member of the Kiranti group, which includes also the Khambu (Rai or Rai Jimdār) and the Yākhā. The term Turanian is now obsolete as a race designation. H. H. R.
-[^sec-23-fn-002]: (Note) <span class="sc">Note.</span>—The Mundas are now generally classed as Dravidians and the theory of their ‘north-eastern origin’ has been abandoned. H. H. R.
-[^sec-23-fn-003]: (Note) <span class="sc">Note.</span>—The origin of Juang millinery is obscure. According to one legend the goddess of the Baitarni river caught a party of Juangs dancing naked, and ordained for the women, on pain of divine displeasure, the costume shown in the illustration. This consists of the young shoots of any tree with long soft leaves, stuck through the girdle in front and behind, and suitably draped. As long as the leaves are fresh they are comfortable enough ; when they get dry they are unpleasantly prickly. For the men the goddess prescribed a shred of bark from the Tumba tree, which has now given place to an exiguous strip of cloth. The Juang ladies, according to Colonel Dalton, repudiated this scandalous tale, and alleged that their attire expressed their genuine conviction that women's dress should be cheap and simple, and that fashions should never change. How much this was worth was seen a year or so later when a sympathetic Political Agent took the prevailing fashion in hand. An open air durbar, fitted out with a tent and a bonfire, was held in the Juang hills. One by one the women of the tribe filed into the tent and were robed by a female attendant in Manchester *sāris* provided at the Agent's expense. As they came out they cast their discarded *Swadeshi* attire into the bonfire. Thus ended a picturesque survival.
-[^sec-23-fn-004]: (Note) <span class="sc">Note.</span>—The typical form of the Bendkar plough is a straight piece of a branch of a tree with a shorter piece of another branch growing out of it. The long piece forms the handle, the short one the share. H. H. R.
+- **(Note)** <span class="sc">Note.</span>—The use of Kiranti as a synonym for Limbu is not strictly correct. The Limbu tribe is only one member of the Kiranti group, which includes also the Khambu (Rai or Rai Jimdār) and the Yākhā. The term Turanian is now obsolete as a race designation. H. H. R.
+- **(Note)** <span class="sc">Note.</span>—The Mundas are now generally classed as Dravidians and the theory of their ‘north-eastern origin’ has been abandoned. H. H. R.
+- **(Note)** <span class="sc">Note.</span>—The origin of Juang millinery is obscure. According to one legend the goddess of the Baitarni river caught a party of Juangs dancing naked, and ordained for the women, on pain of divine displeasure, the costume shown in the illustration. This consists of the young shoots of any tree with long soft leaves, stuck through the girdle in front and behind, and suitably draped. As long as the leaves are fresh they are comfortable enough ; when they get dry they are unpleasantly prickly. For the men the goddess prescribed a shred of bark from the Tumba tree, which has now given place to an exiguous strip of cloth. The Juang ladies, according to Colonel Dalton, repudiated this scandalous tale, and alleged that their attire expressed their genuine conviction that women's dress should be cheap and simple, and that fashions should never change. How much this was worth was seen a year or so later when a sympathetic Political Agent took the prevailing fashion in hand. An open air durbar, fitted out with a tent and a bonfire, was held in the Juang hills. One by one the women of the tribe filed into the tent and were robed by a female attendant in Manchester *sāris* provided at the Agent's expense. As they came out they cast their discarded *Swadeshi* attire into the bonfire. Thus ended a picturesque survival.
+- **(Note)** <span class="sc">Note.</span>—The typical form of the Bendkar plough is a straight piece of a branch of a tree with a shorter piece of another branch growing out of it. The long piece forms the handle, the short one the share. H. H. R.
 
 
 ## Ethnological Map of India

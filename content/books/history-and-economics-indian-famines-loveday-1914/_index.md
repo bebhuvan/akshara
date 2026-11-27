@@ -1,6 +1,6 @@
 ---
 title: "The History & Economics of Indian Famines"
-date: "2026-11-26"
+date: "2026-11-27"
 subtitle: ""
 author: "Alexander Loveday"
 author_slug: "alexander-loveday"

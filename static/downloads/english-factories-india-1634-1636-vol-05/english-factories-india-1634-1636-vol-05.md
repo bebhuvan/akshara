@@ -2280,7 +2280,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 [^sec-06-fn-143]: (3) Possibly Agharī, about four miles north-west of Dābhol.
 [^sec-06-fn-144]: (1) Chiplūn, which is about 25 miles up the Vāshishtī River, near the head of the Kumbhārlī pass, one of the easiest routes from the Deccan to the seaboard.
 [^sec-06-fn-145]: (1) Mahr. *desāī*, an official in charge of a district. For the discontent excited by Masīh-uz-Zamān's administration see a Dutch letter from Surat summarized in the *Dagh-Register*, 1636, p. 271.
-[^sec-06-fn-146]: (2) [Unlinked note, p. 288] Jāfar Khān, nephew and son-in-law of Āsaf Khān. He was one of the chief men at court, and later on became Wazīr to Aurangzīb.
+- (2) **[Unlinked note, p. 288]** Jāfar Khān, nephew and son-in-law of Āsaf Khān. He was one of the chief men at court, and later on became Wazīr to Aurangzīb.
 [^sec-06-fn-147]: (1) For trade in Bengal. A translation is given in the *Hague Transcripts*, series i. vol. x. no. 328, and in the *Dagh-Register* for 1637, p. 105 (reprinted in Heeres’s *Corpus Diplomaticum*, p. 280). If the translation is correct, Drake was misinformed, as no mention is made of the English.
 [^sec-06-fn-148]: (1) Java galangal, a rhizome much used in Indian medicine. Linschoten terms it ‘ lanquas ’.
 [^sec-06-fn-149]: (1) This seems to be the Mahratti *sajganī*, the strict meaning of which is ‘a couple of pice’. Probably in this connexion ordinary pice are intended.

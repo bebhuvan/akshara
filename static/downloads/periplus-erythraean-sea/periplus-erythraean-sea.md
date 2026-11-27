@@ -64,6 +64,9 @@ PHILADELPHIA
 - INDEX . . . . . . . . . . . . . 295
 - MAP TO ILLUSTRATE THE PERIPLUS . . AT END OF BOOK
 
+## FOREWORD
+
+
 <!-- page: 11 | folio: 1 -->
 
 ### FOREWORD
@@ -1327,7 +1330,7 @@ The customs ruling the gathering and shipment of frankincense are carefully desc
 
 > “There is no country in the world,” (forgetting, however, the Somali peninsula), “that produces frankincense except Arabia, and indeed not the whole of that. Almost in the very center of that region are the Atramitæ, a community of the Sabæi, the capital of whose kingdom is Sabota, a place situate on a lofty mountain. At a distance of eight stations from this is the incense-bearing region, known by the name of Saba (*Abasa?*). This district is inaccessible because of rocks on every side, while it is bounded on the right by the sea, from which it is shut out by tremendously high cliffs. . . . [p. 125] The forests extend 20 schœni in length and 10 schœni in breadth. (A schœnus = 40 stadia = 4 English miles.)
 
-“Adjoining are the Minæi, a people of another community, through whose country is the sole transit for the frankincense, along a single narrow road. The Minæi were the first people who carried on any traffic in frankincense. . . . It is the Sabæi alone, and no other people among the Arabians, that behold the incense-tree;[^sec-07-fn-003] and not all of them, for not over 3000 families have a right to that privilege by hereditary succession; for this reason these persons are called sacred, and are not allowed, while pruning the trees or gathering the harvest, to receive any pollution, either by intercourse with women or coming in contact with the dead; by these religious observances it is that the price of the commodity is so enhanced.
+“Adjoining are the Minæi, a people of another community, through whose country is the sole transit for the frankincense, along a single narrow road. The Minæi were the first people who carried on any traffic in frankincense. . . . It is the Sabæi alone, and no other people among the Arabians, that behold the incense-tree;[^sec-08-fn-003] and not all of them, for not over 3000 families have a right to that privilege by hereditary succession; for this reason these persons are called sacred, and are not allowed, while pruning the trees or gathering the harvest, to receive any pollution, either by intercourse with women or coming in contact with the dead; by these religious observances it is that the price of the commodity is so enhanced.
 
 “The natural vintage takes place about the rising of the Dog-star, a period when the heat is most intense; on which occasion they cut the tree where the bark appears to be the fullest of juice, and extremely thin, from being distended to the greatest extent. The incision thus made is gradually extended, but nothing is removed; the consequence of which is, that an unctuous foam oozes forth, which gradually coagulates and thickens. When the nature of the locality requires it, this juice is received upon mats of palm-leaves, though in some places the space around the tree is made hard by being well rammed down for the purpose. The frankincense that is gathered after the former method is in the purest state, though that which falls upon the ground is the heaviest in weight.
 
@@ -3124,9 +3127,9 @@ The region beyond Sikkim, "impassable by reason of its great cold," and includin
 
 ### Notes
 
-[^sec-07-fn-001]: (Note) See Vivien de Saint-Martin, *Le Nord de l'Afrique dans l'Antiquité grecque et romaine*. Paris, 1863: p. 197.
-[^sec-07-fn-002]: (Note) Samuel Edward Dawson: *The Line of Demarcation of Pope Alexander VI, and that of the Treaty of Tordesillas*, in Transactions of the Royal Society of Canada, 1899: Vol. V. § 2, pp. 467 ff.
-[^sec-07-fn-003]: (*) *Cf.* Virgil, *Georgics* II, 116-117: Divisæ arboribus patriæ. Sola India nigrum Fert ebenum, solis est turea virga Sabæis. And again, I, 57: India mittit ebur, molles sua tura Sabæi.
+- **(Note)** See Vivien de Saint-Martin, *Le Nord de l'Afrique dans l'Antiquité grecque et romaine*. Paris, 1863: p. 197.
+- **(Note)** Samuel Edward Dawson: *The Line of Demarcation of Pope Alexander VI, and that of the Treaty of Tordesillas*, in Transactions of the Royal Society of Canada, 1899: Vol. V. § 2, pp. 467 ff.
+[^sec-08-fn-003]: (*) *Cf.* Virgil, *Georgics* II, 116-117: Divisæ arboribus patriæ. Sola India nigrum Fert ebenum, solis est turea virga Sabæis. And again, I, 57: India mittit ebur, molles sua tura Sabæi.
 
 
 ## ARTICLES OF TRADE MENTIONED IN THE PERIPLUS

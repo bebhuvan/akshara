@@ -302,3 +302,11 @@ book = "indian-shipping"
 source = "https://archive.org/download/indianshippinghi00mookrich/page/n7_w1400.jpg"
 made = "by hand in the 2026-11 mock; source verified"
 what = "Frontispiece: a ship relief from Borobudur, printed sideways on the page (cropped, rotated)"
+
+[[plate]]
+key = "x-craftsman-device"
+book = "the-indian-craftsman"
+source = "https://archive.org/download/indiancraftsman00coomuoft/page/n4_w1400.jpg"
+crop = [0.13, 0.28, 0.78, 0.62]
+mode = "line"
+what = "Probsthain's Oriental Series rising-sun publisher's device on the half-title leaf (scan p. 5)"

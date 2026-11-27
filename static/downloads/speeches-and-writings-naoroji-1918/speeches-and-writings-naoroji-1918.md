@@ -2453,7 +2453,7 @@ Yours truly,
 [^sec-28-fn-034]: (*) House of Commons, 15/8/1894.
 [^sec-28-fn-035]: (*) Par. Return [c. 3086-1], 1881, p. 135.
 [^sec-28-fn-036]: (*) Submitted to the Welby Commission on 9th January 1896.
-[^sec-28-fn-037]: (Note) <span class="sc">Note.</span>—The general character of the staple of the district should be stated as “Cotton, Indigenous,” “Cotton, New Orleans,” “Sugar, Raw,” “Sugar, Refined,” “Salt, Rock,” “Salt, Samber Lake,” and so on.
+- **(Note)** <span class="sc">Note.</span>—The general character of the staple of the district should be stated as “Cotton, Indigenous,” “Cotton, New Orleans,” “Sugar, Raw,” “Sugar, Refined,” “Salt, Rock,” “Salt, Samber Lake,” and so on.
 [^sec-28-fn-038]: (*) Australasia is a large gold and silver exporting country. Profits on this are a very small percentage. The profits on other produce or merchandise will be larger than 10·5 per cent., and it should also be borne in mind that Australasia, like India, is a borrowing country, and a portion of its exports, like that of India, goes for the payment of interest on foreign loans. Still, it not only pays all that interest from the profits of trade, but secures for itself also a balance of 10·5 per cent. profits, while India must not only lose all its profits of trade but also Rx. 170,000,000 of its own produce. Were India not “ bleeding ” politically it would also be in a similar condition of paying for its loans and securing something for itself out of the trade profits.
 
 
@@ -4784,7 +4784,7 @@ Here, again, our gracious Empress in the year of her auspicious Jubilee once mor
 
 [^sec-35-fn-001]: (*) Contemporary Review, August, 1887.
 [^sec-35-fn-002]: (*) Whitaker's Almanac.
-[^sec-35-fn-003]: (Note) *N. B.*—Some of the above figures are worked out of Whitaker's Almanac, 1886.
+- **(Note)** *N. B.*—Some of the above figures are worked out of Whitaker's Almanac, 1886.
 [^sec-35-fn-004]: (*) *Supra*, pp. 193-196.
 [^sec-35-fn-005]: (*) *Supra*. pp. 33, 196-199.
 [^sec-35-fn-006]: (†) "Eastern India, 1838," vol. i. p. xii.

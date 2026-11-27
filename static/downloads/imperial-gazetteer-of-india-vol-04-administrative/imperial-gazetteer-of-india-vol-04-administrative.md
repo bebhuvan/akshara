@@ -3982,7 +3982,7 @@ Most Provinces also possess Municipal Manuals, and some possess Local Board Manu
 [^sec-13-fn-002]: (1) *Panchāyat* comes from *pānch*, ‘five,’ but the body so called is not limited to this number. Many castes in towns and villages have also their own *panchāyats*, which deal with business, social, and religious matters common to the caste.
 [^sec-13-fn-003]: (1) Baden-Powell, *Land Systems of British India*, vol. i, bk. i, chap. 4. This local economic organization does not however exist in Assam or Burma, and in Bengal proper it is much less developed than in other parts of India. See *Report on the Census of India* (1901), paragraphs 323–5.
 [^sec-13-fn-004]: (1) Their division into bodies of five seems to connect them also with the *panchāyat* system.
-[^sec-13-fn-005]: (1) [Unlinked note, p. 284] *Ain-i-Akbarī*, Jarrett’s translation, vol. ii, pp. 41–3.
+- (1) **[Unlinked note, p. 284]** *Ain-i-Akbarī*, Jarrett’s translation, vol. ii, pp. 41–3.
 [^sec-13-fn-006]: (1) This system is still in force in a number of small towns in the United Provinces.
 [^sec-13-fn-007]: (1) The relief of the United Provinces municipalities from this charge was undertaken in connexion with the Financial Settlement of 1904.
 [^sec-13-fn-008]: (1) Between 1863 and 1876 the governing body consisted of the justices of the peace, with a salaried chairman.
@@ -5410,7 +5410,7 @@ The statistics of education in this chapter comprise the Native States under the
 [^sec-17-fn-009]: (1) *Report on Material and Moral Progress of India*, 1891–2 (J. A. Baines), p. 393.
 [^sec-17-fn-010]: (1) *Review of the Progress of Education in India, 1892–3 to 1896–7.*
 [^sec-17-fn-011]: (1) Hunter's *Indian Empire*, 3rd edition, pp. 569–70.
-[^sec-17-fn-012]: (Note) <span class="sc">Note</span>.—The figures for 1860-1 include only the Provinces of Madras, Bombay, Bengal (with Assam), and Agra. Upper Burma is added in the 1891-2 column; other Provinces come in from 1870-1. The year 1881-2 has been selected in preference to 1880-1 as more complete figures are available for it.
+- **(Note)** <span class="sc">Note</span>.—The figures for 1860-1 include only the Provinces of Madras, Bombay, Bengal (with Assam), and Agra. Upper Burma is added in the 1891-2 column; other Provinces come in from 1870-1. The year 1881-2 has been selected in preference to 1880-1 as more complete figures are available for it.
 [^sec-17-fn-013]: (a) Includes pupils in school departments attached to colleges. .
 [^sec-17-fn-014]: (b) Includes pupils in school departments attached to colleges for the United Provinces only.
 [^sec-17-fn-015]: (c) In the statistics for 1901-2 the primary departments of secondary schools in the United Provinces and the Central Provinces are shown as separate institutions, and are included, with the pupils in them, under the head of primary schools.
